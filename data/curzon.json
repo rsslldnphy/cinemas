@@ -8,86 +8,20 @@
       "runtime": 168,
       "times": [
         {
-          "starts_at": "2023-10-14T16:30:00+01:00",
-          "site": "Aldgate"
-        },
-        {
-          "starts_at": "2023-10-14T18:40:00+01:00",
-          "site": "Aldgate"
-        },
-        {
           "starts_at": "2023-10-14T20:00:00+01:00",
           "site": "Aldgate"
-        },
-        {
-          "starts_at": "2023-10-14T16:30:00+01:00",
-          "site": "Victoria"
-        },
-        {
-          "starts_at": "2023-10-14T17:30:00+01:00",
-          "site": "Victoria"
         },
         {
           "starts_at": "2023-10-14T20:00:00+01:00",
           "site": "Victoria"
         },
         {
-          "starts_at": "2023-10-14T16:30:00+01:00",
-          "site": "Hoxton"
-        },
-        {
-          "starts_at": "2023-10-14T17:40:00+01:00",
-          "site": "Hoxton"
-        },
-        {
-          "starts_at": "2023-10-14T19:00:00+01:00",
-          "site": "Hoxton"
-        },
-        {
           "starts_at": "2023-10-14T20:00:00+01:00",
           "site": "Hoxton"
-        },
-        {
-          "starts_at": "2023-10-14T16:30:00+01:00",
-          "site": "Camden"
         },
         {
           "starts_at": "2023-10-14T20:00:00+01:00",
           "site": "Camden"
-        }
-      ]
-    },
-    {
-      "title": "The Creator",
-      "url": "https://www.curzon.com/films/HO00004802",
-      "trailer": "https://www.youtube.com/watch?v=DYo4QTsBqP8",
-      "synopsis": "From writer/director Gareth Edwards (“Rogue One,” “Godzilla”) comes an epic sci-fi action thriller set amidst a future war between the human race and the forces of artificial intelligence. Joshua (John David Washington, \"Tenet\"), a hardened ex-special forces agent grieving the disappearance of his wife (Gemma Chan, \"Eternals\"), is recruited to hunt down and kill the Creator, the elusive architect of advanced AI who has developed a mysterious weapon with the power to end the war… and mankind itself.  Joshua and his team of elite operatives journey across enemy lines, into the dark heart of AI-occupied territory… only to discover the world-ending weapon he’s been instructed to destroy is an AI in the form of a young child (newcomer Madeleine Yuna Voyles).",
-      "runtime": 133,
-      "times": [
-        {
-          "starts_at": "2023-10-14T17:40:00+01:00",
-          "site": "Aldgate"
-        },
-        {
-          "starts_at": "2023-10-14T17:45:00+01:00",
-          "site": "Victoria"
-        },
-        {
-          "starts_at": "2023-10-14T21:00:00+01:00",
-          "site": "Victoria"
-        }
-      ]
-    },
-    {
-      "title": "Sumotherhood",
-      "url": "https://www.curzon.com/films/HO00004880",
-      "trailer": "https://www.youtube.com/watch?v=C7_Vq7Sxsf4",
-      "synopsis": "In this parody of the UK urban genre Riko and Kane have got it all … big dreams, no respect and a fifteen grand debt. Could things get any worse?\n\nYes! So, it’s time to man up and finally be taken serious as “Roadmen”. Once putting their heads together on various ways to make some money, they decide to rob a megastar in a nightclub toilet and hold up the local bank but things inevitably don’t go to plan!! However, somehow a misunderstanding leads them to be desired and acquired for business with one of East London’s toughest firms, putting them in the line of fire to the firm’s arch-rivals.\n\nCan Riko and Kane live up to their name? Will Riko win the affection of Tamara and if he does, will Tyrese, Tamara’s lunatic stepbrother, allow Riko to live? Will his life be worth living if the local London Feds draw a line back to our duo? Anything can happen when Riko and Kane are on the scene in this new action-packed urban comedy.\n\nFrom the mind of Adam Deacon comes SUMOTHERHOOD. ",
-      "runtime": 97,
-      "times": [
-        {
-          "starts_at": "2023-10-14T18:20:00+01:00",
-          "site": "Aldgate"
         }
       ]
     },
@@ -129,24 +63,7 @@
       "runtime": 103,
       "times": [
         {
-          "starts_at": "2023-10-14T18:00:00+01:00",
-          "site": "Victoria"
-        },
-        {
           "starts_at": "2023-10-14T20:30:00+01:00",
-          "site": "Victoria"
-        }
-      ]
-    },
-    {
-      "title": "The Miracle Club",
-      "url": "https://www.curzon.com/films/HO00004878",
-      "trailer": "https://www.youtube.com/watch?v=p07NKTaL51E",
-      "synopsis": "A 1968-set comedy-drama starring Oscar winners Maggie Smith and Kathy Bates, and Emmy & Golden Globe winner Laura Linney. THE MIRACLE CLUB is a truly joyous, uplifting, heartwarming and aspirational tale of working-class women from Dublin who embark on a pilgrimage to Lourdes in search of miracles. \nHaving never even left Dublin – let alone Ireland – the journey provides close friends Lily, Eileen and Dolly the chance to let their hair down, celebrate life and delight in some sweet independence. But it’s not all just a ‘jolly’, it’s also a chance to reflect on their own lives, with each of the women in search of their own personal miracles. But when they are joined by Chrissie, recently returned from a decades-long exile in the USA, deep wounds from the past are re-opened, and bitter truths exposed. As they confront one another and embrace their past, these women realise that the miracle they have all been looking for is right in front of them: in the strength of their friendships and unshakeable togetherness.",
-      "runtime": 90,
-      "times": [
-        {
-          "starts_at": "2023-10-14T18:15:00+01:00",
           "site": "Victoria"
         }
       ]
@@ -165,10 +82,19 @@
         {
           "starts_at": "2023-10-14T20:40:00+01:00",
           "site": "Camden"
-        },
+        }
+      ]
+    },
+    {
+      "title": "The Creator",
+      "url": "https://www.curzon.com/films/HO00004802",
+      "trailer": "https://www.youtube.com/watch?v=DYo4QTsBqP8",
+      "synopsis": "From writer/director Gareth Edwards (“Rogue One,” “Godzilla”) comes an epic sci-fi action thriller set amidst a future war between the human race and the forces of artificial intelligence. Joshua (John David Washington, \"Tenet\"), a hardened ex-special forces agent grieving the disappearance of his wife (Gemma Chan, \"Eternals\"), is recruited to hunt down and kill the Creator, the elusive architect of advanced AI who has developed a mysterious weapon with the power to end the war… and mankind itself.  Joshua and his team of elite operatives journey across enemy lines, into the dark heart of AI-occupied territory… only to discover the world-ending weapon he’s been instructed to destroy is an AI in the form of a young child (newcomer Madeleine Yuna Voyles).",
+      "runtime": 133,
+      "times": [
         {
-          "starts_at": "2023-10-14T18:00:00+01:00",
-          "site": "Bloomsbury"
+          "starts_at": "2023-10-14T21:00:00+01:00",
+          "site": "Victoria"
         }
       ]
     },
@@ -188,33 +114,12 @@
           "site": "Hoxton"
         },
         {
-          "starts_at": "2023-10-14T17:50:00+01:00",
-          "site": "Camden"
-        },
-        {
           "starts_at": "2023-10-14T21:00:00+01:00",
           "site": "Camden"
         },
         {
-          "starts_at": "2023-10-14T17:50:00+01:00",
-          "site": "Bloomsbury"
-        },
-        {
           "starts_at": "2023-10-14T20:40:00+01:00",
           "site": "Bloomsbury"
-        }
-      ]
-    },
-    {
-      "title": "The Great Escaper",
-      "url": "https://www.curzon.com/films/HO00004812",
-      "trailer": null,
-      "synopsis": "In the summer of 2014, Bernard Jordan (Michael Caine) made global headlines. He had staged a “great escape” from his care home to join fellow war veterans on a beach in Normandy, commemorating their fallen comrades at the D-Day Landings 70th anniversary. It was a story that captured the imagination of the world as Bernie embodied the defiant, “can-do” spirit of a generation that was fast disappearing. But of course, it wasn’t the whole story. It was an inspirational but sanitised retelling of one man’s need to come to terms with the lasting trauma of war. Bernie’s adventure, spanning a mere 48 hours, also marked the culmination of his 60-year marriage to Rene (Glenda Jackson) – THE GREAT ESCAPER celebrates their enduring love but always with an eye to the lessons we might learn from the Greatest Generation.",
-      "runtime": 96,
-      "times": [
-        {
-          "starts_at": "2023-10-14T18:00:00+01:00",
-          "site": "Mayfair"
         }
       ]
     },
@@ -228,44 +133,6 @@
         {
           "starts_at": "2023-10-14T20:30:00+01:00",
           "site": "Mayfair"
-        },
-        {
-          "starts_at": "2023-10-14T17:10:00+01:00",
-          "site": "Camden"
-        }
-      ]
-    },
-    {
-      "title": "Dumb Money",
-      "url": "https://www.curzon.com/films/HO00004800",
-      "trailer": "https://www.youtube.com/watch?v=_VxRoOZNaR8",
-      "synopsis": "Dumb Money is based on the insane true story of the YouTuber who brought Wall Street to its knees and got rich by turning the video-game retailer GameStop into the world’s hottest company. In the middle of everything is regular guy Keith Gill (Paul Dano), who starts it all by sinking his life savings into the stock and posting about it. When his social posts start blowing up, so does his life and the lives of everyone following him. As a stock tip becomes a movement, everyone gets rich – until the billionaires fight back, and both sides find their worlds turned upside down.",
-      "runtime": 104,
-      "times": [
-        {
-          "starts_at": "2023-10-14T17:30:00+01:00",
-          "site": "Camden"
-        },
-        {
-          "starts_at": "2023-10-14T20:50:00+01:00",
-          "site": "Bloomsbury"
-        }
-      ]
-    },
-    {
-      "title": "Mean Streets (50th Anniversary)",
-      "url": "https://www.curzon.com/films/HO00004902",
-      "trailer": "https://www.youtube.com/watch?v=5lhJwhmPKxg",
-      "synopsis": "Martin Scorsese’s electrifying vision of sin and redemption — one of the most influential works of American independent cinema — starring Harvey Keitel and Robert De Niro. Presented in a new 4K digital restoration, approved by director Martin Scorsese and collaborator Thelma Schoonmaker.\n\nMartin Scorsese emerged as a generation-defining filmmaker with this gritty portrait of 1970s New York City, one of the most influential works of American independent cinema. Set in the insular Little Italy neighbourhood of Scorsese’s youth, Mean Streets follows guilt-ridden small-time ringleader Charlie (Harvey Keitel) as he deals with the debts owed by his dangerously volatile best pal, Johnny Boy (Robert De Niro), and pressure from his headstrong girlfriend, Teresa (Amy Robinson). As their intertwined lives spiral out of control, Scorsese showcases his precocious mastery of film style—evident in everything from his propulsive editing rhythms to the lovingly curated soundtrack—to create an electrifying vision of sin and redemption.",
-      "runtime": 112,
-      "times": [
-        {
-          "starts_at": "2023-10-14T18:10:00+01:00",
-          "site": "Camden"
-        },
-        {
-          "starts_at": "2023-10-14T18:20:00+01:00",
-          "site": "Bloomsbury"
         }
       ]
     },
@@ -279,40 +146,6 @@
         {
           "starts_at": "2023-10-14T20:20:00+01:00",
           "site": "Camden"
-        },
-        {
-          "starts_at": "2023-10-14T18:10:00+01:00",
-          "site": "Bloomsbury"
-        }
-      ]
-    },
-    {
-      "title": "Passages",
-      "url": "https://www.curzon.com/films/HO00004723",
-      "trailer": null,
-      "synopsis": "Celebrated independent filmmaker Ira Sachs (Love is Strange, Keep the Lights On) makes a breathtaking return with PASSAGES, a fresh, honest and brutally funny take on romantic chaos, featuring honest and emotionally nuanced performances from Franz Rogowski (Great Freedom), Ben Whishsaw (Women Talking) and Adèle Exarchopoulos (Blue Is the Warmest Colour). \n\nSet in contemporary Paris, this seductive comedy-drama tells the story of Tomas (Rogowski) and Martin (Whishaw), a gay couple whose marriage is thrown into crisis when Tomas impulsively begins a passionate affair with a young school teacher, Agathe (Exarchopoulos). Though he embraces this exciting new exploration, the novelty of being with a woman starts to fade when Martin begins an affair of his own, forcing Tomas to confront life decisions he may be unprepared – or unwilling – to deal with. \n\nPerceptive, intimate and unashamedly sexy, PASSAGES sees Sachs put a uniquely European spin on his usually tender style, telling a messy, modern love story that explores the complexities, contradictions and cruelties of sex and desire.",
-      "runtime": 92,
-      "times": [
-        {
-          "starts_at": "2023-10-14T16:30:00+01:00",
-          "site": "Bloomsbury"
-        },
-        {
-          "starts_at": "2023-10-14T18:40:00+01:00",
-          "site": "Bloomsbury"
-        }
-      ]
-    },
-    {
-      "title": "DocHouse: 20 Days In Mariupol",
-      "url": "https://www.curzon.com/films/HO00004815",
-      "trailer": null,
-      "synopsis": "On the eve of Russia’s invasion of Ukraine, a team of Ukrainian journalists enter the strategic eastern port city of Mariupol. During the subsequent siege and assault, as bombs fall, inhabitants flee, and access to electricity, food, water and medicine are severed, the team — the only international journalists left — struggles to cover the war and to transmit their footage out.\r\n\r\nUkrainian filmmaker and journalist Mstyslav Chernov offers a window into the practices of conflict zone reporters and an unflinching, anguishing account of the 20 days he and colleagues Evgeniy Maloletka and Vasilisa Stepanenko spent covering Mariupol. Chernov wonders how capturing such footage can make a difference, but residents implore them to let the world bear witness.  \r\n",
-      "runtime": 94,
-      "times": [
-        {
-          "starts_at": "2023-10-14T18:30:00+01:00",
-          "site": "Bloomsbury"
         }
       ]
     },
@@ -338,6 +171,19 @@
       "times": [
         {
           "starts_at": "2023-10-14T20:30:00+01:00",
+          "site": "Bloomsbury"
+        }
+      ]
+    },
+    {
+      "title": "Dumb Money",
+      "url": "https://www.curzon.com/films/HO00004800",
+      "trailer": "https://www.youtube.com/watch?v=_VxRoOZNaR8",
+      "synopsis": "Dumb Money is based on the insane true story of the YouTuber who brought Wall Street to its knees and got rich by turning the video-game retailer GameStop into the world’s hottest company. In the middle of everything is regular guy Keith Gill (Paul Dano), who starts it all by sinking his life savings into the stock and posting about it. When his social posts start blowing up, so does his life and the lives of everyone following him. As a stock tip becomes a movement, everyone gets rich – until the billionaires fight back, and both sides find their worlds turned upside down.",
+      "runtime": 104,
+      "times": [
+        {
+          "starts_at": "2023-10-14T20:50:00+01:00",
           "site": "Bloomsbury"
         }
       ]
