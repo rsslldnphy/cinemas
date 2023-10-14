@@ -1,7 +1,4 @@
 {
-  "2023-10-13": [
-
-  ],
   "2023-10-14": [
     {
       "title": "A Haunting in Venice",
@@ -3772,6 +3769,141 @@
       "times": [
         {
           "starts_at": "2023-10-20T18:20:00+01:00",
+          "site": "Bloomsbury"
+        }
+      ]
+    }
+  ],
+  "2023-10-21": [
+    {
+      "title": "TAYLOR SWIFT | THE ERAS TOUR",
+      "url": "https://www.curzon.com/films/HO00004893",
+      "trailer": null,
+      "synopsis": "The cultural phenomenon continues on the big screen! Immerse yourself in this once-in-a-lifetime concert film experience with a breathtaking, cinematic view of the history-making tour. Taylor Swift Eras attire and friendship bracelets are strongly encouraged!",
+      "runtime": 168,
+      "times": [
+        {
+          "starts_at": "2023-10-21T16:50:00+01:00",
+          "site": "Aldgate"
+        },
+        {
+          "starts_at": "2023-10-21T20:20:00+01:00",
+          "site": "Aldgate"
+        },
+        {
+          "starts_at": "2023-10-21T16:30:00+01:00",
+          "site": "Victoria"
+        },
+        {
+          "starts_at": "2023-10-21T20:00:00+01:00",
+          "site": "Victoria"
+        },
+        {
+          "starts_at": "2023-10-21T16:30:00+01:00",
+          "site": "Hoxton"
+        },
+        {
+          "starts_at": "2023-10-21T20:00:00+01:00",
+          "site": "Hoxton"
+        },
+        {
+          "starts_at": "2023-10-21T16:30:00+01:00",
+          "site": "Camden"
+        },
+        {
+          "starts_at": "2023-10-21T20:00:00+01:00",
+          "site": "Camden"
+        }
+      ]
+    },
+    {
+      "title": "Killers Of The Flower Moon",
+      "url": "https://www.curzon.com/films/HO00004811",
+      "trailer": "https://www.youtube.com/watch?v=nFoIg72KGIk",
+      "synopsis": "At the turn of the 20th century, oil brought a fortune to the Osage Nation, who became some of the richest people in the world overnight. The wealth of these Native Americans immediately attracted white interlopers, who manipulated, extorted, and stole as much Osage money as they could before resorting to murder. Based on a true story and told through the improbable romance of Ernest Burkhart (Leonardo DiCaprio) and Mollie Kyle (Lily Gladstone), “Killers of the Flower Moon” is an epic western crime saga, where real love crosses paths with unspeakable betrayal. Also starring Robert De Niro and Jesse Plemons, “Killers of the Flower Moon” is directed by Academy Award winner Martin Scorsese from a screenplay by Eric Roth and Martin Scorsese, based on David Grann’s best-selling book.",
+      "runtime": 206,
+      "times": [
+        {
+          "starts_at": "2023-10-21T19:00:00+01:00",
+          "site": "Aldgate"
+        },
+        {
+          "starts_at": "2023-10-21T17:00:00+01:00",
+          "site": "Soho"
+        },
+        {
+          "starts_at": "2023-10-21T18:15:00+01:00",
+          "site": "Victoria"
+        },
+        {
+          "starts_at": "2023-10-21T19:45:00+01:00",
+          "site": "Victoria"
+        },
+        {
+          "starts_at": "2023-10-21T19:40:00+01:00",
+          "site": "Mayfair"
+        },
+        {
+          "starts_at": "2023-10-21T19:40:00+01:00",
+          "site": "Hoxton"
+        },
+        {
+          "starts_at": "2023-10-21T19:00:00+01:00",
+          "site": "Camden"
+        },
+        {
+          "starts_at": "2023-10-21T13:45:00+01:00",
+          "site": "Bloomsbury"
+        }
+      ]
+    },
+    {
+      "title": "Met Opera 2023: Dead Man Walking",
+      "url": "https://www.curzon.com/films/HO00004662",
+      "trailer": null,
+      "synopsis": "Jake Heggie’s powerful work has its highly anticipated Met premiere in a new production by Ivo van Hove. Based on Sister Helen Prejean’s memoir about her fight for the soul of a condemned murderer, Dead Man Walking matches the high drama of its subject with Heggie’s poignant music and a libretto by Tony and Emmy Award–winner Terrence McNally. Met Music Director Yannick Nézet-Séguin takes the podium, with mezzo-soprano Joyce DiDonato starring as Sister Helen. The cast also features bass-baritone Ryan McKinny as the death-row inmate Joseph De Rocher, soprano Latonia Moore as Sister Rose, and mezzo-soprano Susan Graham—who sang Helen Prejean in the opera’s 2000 premiere—as De Rocher’s mother.\r\n\r\nContent Advisory: Dead Man Walking contains a depiction of a rape and murder, as well as other adult themes and strong language.",
+      "runtime": 194,
+      "times": [
+        {
+          "starts_at": "2023-10-21T17:55:00+01:00",
+          "site": "Mayfair"
+        },
+        {
+          "starts_at": "2023-10-21T17:55:00+01:00",
+          "site": "Bloomsbury"
+        }
+      ]
+    },
+    {
+      "title": "Kids Club: Elemental",
+      "url": "https://www.curzon.com/films/HO00004743",
+      "trailer": "https://www.youtube.com/watch?v=OKls9-TjssI",
+      "synopsis": "Follows Ember and Wade, in a city where fire-, water-, land- and air-residents live together.",
+      "runtime": 109,
+      "times": [
+        {
+          "starts_at": "2023-10-21T10:30:00+01:00",
+          "site": "Hoxton"
+        },
+        {
+          "starts_at": "2023-10-21T10:30:00+01:00",
+          "site": "Camden"
+        }
+      ]
+    },
+    {
+      "title": "DocHouse: The Pigeon Tunnel",
+      "url": "https://www.curzon.com/films/HO00004899",
+      "trailer": null,
+      "synopsis": "Documentary great Errol Morris turns his eye to the storied life and career of former British spy David Cornwell — better known as John le Carré, author of such classic espionage novels as The Spy Who Came in from the Cold, Tinker Tailor Soldier Spy and The Constant Gardener.\r\n\r\nSet against the turbulent backdrop of the Cold War and leading into present day, The Pigeon Tunnel spans six decades as le Carré delivers his final and most candid interview, punctuated with rare archival footage.\r\n\r\nA game of question, obfuscation and revelation between Morris and le Carré, this deeply engaging film is an exploration of the latter's extraordinary life and the paper-thin membrane between fact and fiction.",
+      "runtime": 92,
+      "times": [
+        {
+          "starts_at": "2023-10-21T16:20:00+01:00",
+          "site": "Bloomsbury"
+        },
+        {
+          "starts_at": "2023-10-21T20:20:00+01:00",
           "site": "Bloomsbury"
         }
       ]
