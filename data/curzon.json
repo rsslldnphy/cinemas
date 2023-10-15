@@ -1,6 +1,35 @@
 {
   "2023-10-15": [
     {
+      "title": "A Haunting in Venice",
+      "url": "https://www.curzon.com/films/HO00004793",
+      "trailer": "https://www.youtube.com/watch?v=LAywaWCFXgw",
+      "synopsis": "In post-World War II Venice, Poirot, now retired and living in his own exile, reluctantly attends a seance, when one of the guests is murdered, it is up to the former detective to once again uncover the killer.",
+      "runtime": 103,
+      "times": [
+        {
+          "starts_at": "2023-10-15T13:40:00+01:00",
+          "site": "Aldgate"
+        },
+        {
+          "starts_at": "2023-10-15T16:20:00+01:00",
+          "site": "Aldgate"
+        },
+        {
+          "starts_at": "2023-10-15T14:15:00+01:00",
+          "site": "Victoria"
+        },
+        {
+          "starts_at": "2023-10-15T17:00:00+01:00",
+          "site": "Victoria"
+        },
+        {
+          "starts_at": "2023-10-15T19:45:00+01:00",
+          "site": "Victoria"
+        }
+      ]
+    },
+    {
       "title": "The Creator",
       "url": "https://www.curzon.com/films/HO00004802",
       "trailer": "https://www.youtube.com/watch?v=DYo4QTsBqP8",
@@ -8,16 +37,8 @@
       "runtime": 133,
       "times": [
         {
-          "starts_at": "2023-10-15T11:20:00+01:00",
-          "site": "Aldgate"
-        },
-        {
           "starts_at": "2023-10-15T14:10:00+01:00",
           "site": "Aldgate"
-        },
-        {
-          "starts_at": "2023-10-15T11:30:00+01:00",
-          "site": "Victoria"
         },
         {
           "starts_at": "2023-10-15T13:45:00+01:00",
@@ -34,116 +55,6 @@
         {
           "starts_at": "2023-10-15T20:00:00+01:00",
           "site": "Hoxton"
-        }
-      ]
-    },
-    {
-      "title": "TAYLOR SWIFT | THE ERAS TOUR",
-      "url": "https://www.curzon.com/films/HO00004893",
-      "trailer": null,
-      "synopsis": "The cultural phenomenon continues on the big screen! Immerse yourself in this once-in-a-lifetime concert film experience with a breathtaking, cinematic view of the history-making tour. Taylor Swift Eras attire and friendship bracelets are strongly encouraged!",
-      "runtime": 168,
-      "times": [
-        {
-          "starts_at": "2023-10-15T12:30:00+01:00",
-          "site": "Aldgate"
-        },
-        {
-          "starts_at": "2023-10-15T16:00:00+01:00",
-          "site": "Aldgate"
-        },
-        {
-          "starts_at": "2023-10-15T17:10:00+01:00",
-          "site": "Aldgate"
-        },
-        {
-          "starts_at": "2023-10-15T19:00:00+01:00",
-          "site": "Aldgate"
-        },
-        {
-          "starts_at": "2023-10-15T19:30:00+01:00",
-          "site": "Aldgate"
-        },
-        {
-          "starts_at": "2023-10-15T12:30:00+01:00",
-          "site": "Victoria"
-        },
-        {
-          "starts_at": "2023-10-15T16:00:00+01:00",
-          "site": "Victoria"
-        },
-        {
-          "starts_at": "2023-10-15T16:45:00+01:00",
-          "site": "Victoria"
-        },
-        {
-          "starts_at": "2023-10-15T19:30:00+01:00",
-          "site": "Victoria"
-        },
-        {
-          "starts_at": "2023-10-15T11:00:00+01:00",
-          "site": "Hoxton"
-        },
-        {
-          "starts_at": "2023-10-15T12:30:00+01:00",
-          "site": "Hoxton"
-        },
-        {
-          "starts_at": "2023-10-15T16:00:00+01:00",
-          "site": "Hoxton"
-        },
-        {
-          "starts_at": "2023-10-15T17:00:00+01:00",
-          "site": "Hoxton"
-        },
-        {
-          "starts_at": "2023-10-15T19:30:00+01:00",
-          "site": "Hoxton"
-        },
-        {
-          "starts_at": "2023-10-15T12:30:00+01:00",
-          "site": "Camden"
-        },
-        {
-          "starts_at": "2023-10-15T16:00:00+01:00",
-          "site": "Camden"
-        },
-        {
-          "starts_at": "2023-10-15T19:30:00+01:00",
-          "site": "Camden"
-        }
-      ]
-    },
-    {
-      "title": "A Haunting in Venice",
-      "url": "https://www.curzon.com/films/HO00004793",
-      "trailer": "https://www.youtube.com/watch?v=LAywaWCFXgw",
-      "synopsis": "In post-World War II Venice, Poirot, now retired and living in his own exile, reluctantly attends a seance, when one of the guests is murdered, it is up to the former detective to once again uncover the killer.",
-      "runtime": 103,
-      "times": [
-        {
-          "starts_at": "2023-10-15T13:40:00+01:00",
-          "site": "Aldgate"
-        },
-        {
-          "starts_at": "2023-10-15T16:20:00+01:00",
-          "site": "Aldgate"
-        },
-        {
-          "starts_at": "2023-10-15T11:45:00+01:00",
-          "site": "Victoria"
-        },
-        {
-          "starts_at": "2023-10-15T14:15:00+01:00",
-          "site": "Victoria"
-        },
-        {
-          "starts_at": "2023-10-15T17:00:00+01:00",
-          "site": "Victoria"
-        },
-        {
-          "starts_at": "2023-10-15T19:45:00+01:00",
-          "site": "Victoria"
         }
       ]
     },
@@ -167,10 +78,6 @@
           "site": "Victoria"
         },
         {
-          "starts_at": "2023-10-15T11:30:00+01:00",
-          "site": "Hoxton"
-        },
-        {
           "starts_at": "2023-10-15T15:20:00+01:00",
           "site": "Camden"
         },
@@ -179,12 +86,65 @@
           "site": "Camden"
         },
         {
-          "starts_at": "2023-10-15T12:20:00+01:00",
-          "site": "Bloomsbury"
-        },
-        {
           "starts_at": "2023-10-15T17:30:00+01:00",
           "site": "Bloomsbury"
+        }
+      ]
+    },
+    {
+      "title": "TAYLOR SWIFT | THE ERAS TOUR",
+      "url": "https://www.curzon.com/films/HO00004893",
+      "trailer": null,
+      "synopsis": "The cultural phenomenon continues on the big screen! Immerse yourself in this once-in-a-lifetime concert film experience with a breathtaking, cinematic view of the history-making tour. Taylor Swift Eras attire and friendship bracelets are strongly encouraged!",
+      "runtime": 168,
+      "times": [
+        {
+          "starts_at": "2023-10-15T16:00:00+01:00",
+          "site": "Aldgate"
+        },
+        {
+          "starts_at": "2023-10-15T17:10:00+01:00",
+          "site": "Aldgate"
+        },
+        {
+          "starts_at": "2023-10-15T19:00:00+01:00",
+          "site": "Aldgate"
+        },
+        {
+          "starts_at": "2023-10-15T19:30:00+01:00",
+          "site": "Aldgate"
+        },
+        {
+          "starts_at": "2023-10-15T16:00:00+01:00",
+          "site": "Victoria"
+        },
+        {
+          "starts_at": "2023-10-15T16:45:00+01:00",
+          "site": "Victoria"
+        },
+        {
+          "starts_at": "2023-10-15T19:30:00+01:00",
+          "site": "Victoria"
+        },
+        {
+          "starts_at": "2023-10-15T16:00:00+01:00",
+          "site": "Hoxton"
+        },
+        {
+          "starts_at": "2023-10-15T17:00:00+01:00",
+          "site": "Hoxton"
+        },
+        {
+          "starts_at": "2023-10-15T19:30:00+01:00",
+          "site": "Hoxton"
+        },
+        {
+          "starts_at": "2023-10-15T16:00:00+01:00",
+          "site": "Camden"
+        },
+        {
+          "starts_at": "2023-10-15T19:30:00+01:00",
+          "site": "Camden"
         }
       ]
     },
@@ -232,33 +192,12 @@
       ]
     },
     {
-      "title": "The Miracle Club",
-      "url": "https://www.curzon.com/films/HO00004878",
-      "trailer": "https://www.youtube.com/watch?v=p07NKTaL51E",
-      "synopsis": "A 1968-set comedy-drama starring Oscar winners Maggie Smith and Kathy Bates, and Emmy & Golden Globe winner Laura Linney. THE MIRACLE CLUB is a truly joyous, uplifting, heartwarming and aspirational tale of working-class women from Dublin who embark on a pilgrimage to Lourdes in search of miracles. \nHaving never even left Dublin – let alone Ireland – the journey provides close friends Lily, Eileen and Dolly the chance to let their hair down, celebrate life and delight in some sweet independence. But it’s not all just a ‘jolly’, it’s also a chance to reflect on their own lives, with each of the women in search of their own personal miracles. But when they are joined by Chrissie, recently returned from a decades-long exile in the USA, deep wounds from the past are re-opened, and bitter truths exposed. As they confront one another and embrace their past, these women realise that the miracle they have all been looking for is right in front of them: in the strength of their friendships and unshakeable togetherness.",
-      "runtime": 90,
-      "times": [
-        {
-          "starts_at": "2023-10-15T11:15:00+01:00",
-          "site": "Victoria"
-        },
-        {
-          "starts_at": "2023-10-15T17:15:00+01:00",
-          "site": "Victoria"
-        }
-      ]
-    },
-    {
       "title": "Past Lives",
       "url": "https://www.curzon.com/films/HO00004754",
       "trailer": "https://www.youtube.com/watch?v=WJTnve_kdu0",
       "synopsis": "Nora and Hae Sung, two deeply connected childhood friends, are wrest apart after Nora’s family emigrates from South Korea. Two decades later, they are reunited in New York for one fateful week as they confront notions of destiny, love, and the choices that make a life, in this heartrending modern romance.",
       "runtime": 106,
       "times": [
-        {
-          "starts_at": "2023-10-15T12:15:00+01:00",
-          "site": "Victoria"
-        },
         {
           "starts_at": "2023-10-15T15:00:00+01:00",
           "site": "Victoria"
@@ -280,10 +219,6 @@
           "site": "Hoxton"
         },
         {
-          "starts_at": "2023-10-15T11:45:00+01:00",
-          "site": "Camden"
-        },
-        {
           "starts_at": "2023-10-15T15:00:00+01:00",
           "site": "Camden"
         },
@@ -294,10 +229,6 @@
         {
           "starts_at": "2023-10-15T20:10:00+01:00",
           "site": "Camden"
-        },
-        {
-          "starts_at": "2023-10-15T12:00:00+01:00",
-          "site": "Bloomsbury"
         },
         {
           "starts_at": "2023-10-15T15:00:00+01:00",
@@ -314,16 +245,25 @@
       ]
     },
     {
+      "title": "The Miracle Club",
+      "url": "https://www.curzon.com/films/HO00004878",
+      "trailer": "https://www.youtube.com/watch?v=p07NKTaL51E",
+      "synopsis": "A 1968-set comedy-drama starring Oscar winners Maggie Smith and Kathy Bates, and Emmy & Golden Globe winner Laura Linney. THE MIRACLE CLUB is a truly joyous, uplifting, heartwarming and aspirational tale of working-class women from Dublin who embark on a pilgrimage to Lourdes in search of miracles. \nHaving never even left Dublin – let alone Ireland – the journey provides close friends Lily, Eileen and Dolly the chance to let their hair down, celebrate life and delight in some sweet independence. But it’s not all just a ‘jolly’, it’s also a chance to reflect on their own lives, with each of the women in search of their own personal miracles. But when they are joined by Chrissie, recently returned from a decades-long exile in the USA, deep wounds from the past are re-opened, and bitter truths exposed. As they confront one another and embrace their past, these women realise that the miracle they have all been looking for is right in front of them: in the strength of their friendships and unshakeable togetherness.",
+      "runtime": 90,
+      "times": [
+        {
+          "starts_at": "2023-10-15T17:15:00+01:00",
+          "site": "Victoria"
+        }
+      ]
+    },
+    {
       "title": "The Great Escaper",
       "url": "https://www.curzon.com/films/HO00004812",
       "trailer": null,
       "synopsis": "In the summer of 2014, Bernard Jordan (Michael Caine) made global headlines. He had staged a “great escape” from his care home to join fellow war veterans on a beach in Normandy, commemorating their fallen comrades at the D-Day Landings 70th anniversary. It was a story that captured the imagination of the world as Bernie embodied the defiant, “can-do” spirit of a generation that was fast disappearing. But of course, it wasn’t the whole story. It was an inspirational but sanitised retelling of one man’s need to come to terms with the lasting trauma of war. Bernie’s adventure, spanning a mere 48 hours, also marked the culmination of his 60-year marriage to Rene (Glenda Jackson) – THE GREAT ESCAPER celebrates their enduring love but always with an eye to the lessons we might learn from the Greatest Generation.",
       "runtime": 96,
       "times": [
-        {
-          "starts_at": "2023-10-15T13:00:00+01:00",
-          "site": "Mayfair"
-        },
         {
           "starts_at": "2023-10-15T15:40:00+01:00",
           "site": "Mayfair"
@@ -346,10 +286,6 @@
           "site": "Mayfair"
         },
         {
-          "starts_at": "2023-10-15T12:15:00+01:00",
-          "site": "Camden"
-        },
-        {
           "starts_at": "2023-10-15T16:40:00+01:00",
           "site": "Camden"
         }
@@ -365,35 +301,6 @@
         {
           "starts_at": "2023-10-15T17:40:00+01:00",
           "site": "Hoxton"
-        },
-        {
-          "starts_at": "2023-10-15T12:00:00+01:00",
-          "site": "Camden"
-        }
-      ]
-    },
-    {
-      "title": "Mean Streets (50th Anniversary)",
-      "url": "https://www.curzon.com/films/HO00004902",
-      "trailer": "https://www.youtube.com/watch?v=5lhJwhmPKxg",
-      "synopsis": "Martin Scorsese’s electrifying vision of sin and redemption — one of the most influential works of American independent cinema — starring Harvey Keitel and Robert De Niro. Presented in a new 4K digital restoration, approved by director Martin Scorsese and collaborator Thelma Schoonmaker.\n\nMartin Scorsese emerged as a generation-defining filmmaker with this gritty portrait of 1970s New York City, one of the most influential works of American independent cinema. Set in the insular Little Italy neighbourhood of Scorsese’s youth, Mean Streets follows guilt-ridden small-time ringleader Charlie (Harvey Keitel) as he deals with the debts owed by his dangerously volatile best pal, Johnny Boy (Robert De Niro), and pressure from his headstrong girlfriend, Teresa (Amy Robinson). As their intertwined lives spiral out of control, Scorsese showcases his precocious mastery of film style—evident in everything from his propulsive editing rhythms to the lovingly curated soundtrack—to create an electrifying vision of sin and redemption.",
-      "runtime": 112,
-      "times": [
-        {
-          "starts_at": "2023-10-15T12:45:00+01:00",
-          "site": "Camden"
-        },
-        {
-          "starts_at": "2023-10-15T18:00:00+01:00",
-          "site": "Camden"
-        },
-        {
-          "starts_at": "2023-10-15T15:20:00+01:00",
-          "site": "Bloomsbury"
-        },
-        {
-          "starts_at": "2023-10-15T20:40:00+01:00",
-          "site": "Bloomsbury"
         }
       ]
     },
@@ -426,10 +333,6 @@
           "site": "Camden"
         },
         {
-          "starts_at": "2023-10-15T12:40:00+01:00",
-          "site": "Bloomsbury"
-        },
-        {
           "starts_at": "2023-10-15T15:10:00+01:00",
           "site": "Bloomsbury"
         },
@@ -451,28 +354,41 @@
           "site": "Camden"
         },
         {
-          "starts_at": "2023-10-15T11:40:00+01:00",
-          "site": "Bloomsbury"
-        },
-        {
           "starts_at": "2023-10-15T20:20:00+01:00",
           "site": "Bloomsbury"
         }
       ]
     },
     {
-      "title": "Fair Play",
-      "url": "https://www.curzon.com/films/HO00004874",
-      "trailer": null,
-      "synopsis": "When a coveted promotion at a cutthroat financial firm arises, once supportive exchanges between lovers Emily (Phoebe Dynevor) and Luke (Alden Ehrenreich) begin to sour into something more sinister. As the power dynamics irrevocably shift in their relationship, the couple must face the true price of success and the unnerving limits of ambition. In her feature debut, writer-director Chloe Domont weaves a taut relationship thriller, staring down the destructive gender dynamics that pit partners against each other in a world that is transforming faster than the rules can keep up. Also starring Eddie Marsan, Rich Sommer, and Sebastian De Souza, Fair Play unravels the uncomfortable collision of empowerment and ego.",
-      "runtime": 113,
+      "title": "Mean Streets (50th Anniversary)",
+      "url": "https://www.curzon.com/films/HO00004902",
+      "trailer": "https://www.youtube.com/watch?v=5lhJwhmPKxg",
+      "synopsis": "Martin Scorsese’s electrifying vision of sin and redemption — one of the most influential works of American independent cinema — starring Harvey Keitel and Robert De Niro. Presented in a new 4K digital restoration, approved by director Martin Scorsese and collaborator Thelma Schoonmaker.\n\nMartin Scorsese emerged as a generation-defining filmmaker with this gritty portrait of 1970s New York City, one of the most influential works of American independent cinema. Set in the insular Little Italy neighbourhood of Scorsese’s youth, Mean Streets follows guilt-ridden small-time ringleader Charlie (Harvey Keitel) as he deals with the debts owed by his dangerously volatile best pal, Johnny Boy (Robert De Niro), and pressure from his headstrong girlfriend, Teresa (Amy Robinson). As their intertwined lives spiral out of control, Scorsese showcases his precocious mastery of film style—evident in everything from his propulsive editing rhythms to the lovingly curated soundtrack—to create an electrifying vision of sin and redemption.",
+      "runtime": 112,
       "times": [
         {
-          "starts_at": "2023-10-15T12:50:00+01:00",
+          "starts_at": "2023-10-15T18:00:00+01:00",
+          "site": "Camden"
+        },
+        {
+          "starts_at": "2023-10-15T15:20:00+01:00",
           "site": "Bloomsbury"
         },
         {
-          "starts_at": "2023-10-15T20:10:00+01:00",
+          "starts_at": "2023-10-15T20:40:00+01:00",
+          "site": "Bloomsbury"
+        }
+      ]
+    },
+    {
+      "title": "DocHouse: Lost Course",
+      "url": "https://www.curzon.com/films/HO00004869",
+      "trailer": null,
+      "synopsis": "An epic saga of Chinese local politics, Jill Li's Lost Course observes the rise and decline of a fledgling democracy, filmed from inside the petri dish.\r\n\r\nEmbedding herself in a small fishing village in southern China for several years starting in 2011, first-time filmmaker Li witnesses an unprecedented experiment in local democracy. Corrupt officials had illegally sold villagers' land, but the villagers decided to fight back.\r\n\r\nGetting to know the grassroots activists and filming on the ground with them through a series of often shocking events, Li is in prime position to document their successes as they take over local government and organise the village's first free elections. But this triumph is not the end, and it's not long before the newly elected village government is mired in corruption once again.  \r\n\r\nLi reveals the complexities of their triumphs and setbacks from the inside. Her astonishingly intimate, sympathetic and fair-minded access to the events' major players reveals Chinese local politics with three-dimensional passion and energy.\r\n",
+      "runtime": 180,
+      "times": [
+        {
+          "starts_at": "2023-10-15T14:00:00+01:00",
           "site": "Bloomsbury"
         }
       ]
@@ -490,19 +406,6 @@
         },
         {
           "starts_at": "2023-10-15T17:50:00+01:00",
-          "site": "Bloomsbury"
-        }
-      ]
-    },
-    {
-      "title": "DocHouse: Lost Course",
-      "url": "https://www.curzon.com/films/HO00004869",
-      "trailer": null,
-      "synopsis": "An epic saga of Chinese local politics, Jill Li's Lost Course observes the rise and decline of a fledgling democracy, filmed from inside the petri dish.\r\n\r\nEmbedding herself in a small fishing village in southern China for several years starting in 2011, first-time filmmaker Li witnesses an unprecedented experiment in local democracy. Corrupt officials had illegally sold villagers' land, but the villagers decided to fight back.\r\n\r\nGetting to know the grassroots activists and filming on the ground with them through a series of often shocking events, Li is in prime position to document their successes as they take over local government and organise the village's first free elections. But this triumph is not the end, and it's not long before the newly elected village government is mired in corruption once again.  \r\n\r\nLi reveals the complexities of their triumphs and setbacks from the inside. Her astonishingly intimate, sympathetic and fair-minded access to the events' major players reveals Chinese local politics with three-dimensional passion and energy.\r\n",
-      "runtime": 180,
-      "times": [
-        {
-          "starts_at": "2023-10-15T14:00:00+01:00",
           "site": "Bloomsbury"
         }
       ]
@@ -563,6 +466,19 @@
       "times": [
         {
           "starts_at": "2023-10-15T20:00:00+01:00",
+          "site": "Bloomsbury"
+        }
+      ]
+    },
+    {
+      "title": "Fair Play",
+      "url": "https://www.curzon.com/films/HO00004874",
+      "trailer": null,
+      "synopsis": "When a coveted promotion at a cutthroat financial firm arises, once supportive exchanges between lovers Emily (Phoebe Dynevor) and Luke (Alden Ehrenreich) begin to sour into something more sinister. As the power dynamics irrevocably shift in their relationship, the couple must face the true price of success and the unnerving limits of ambition. In her feature debut, writer-director Chloe Domont weaves a taut relationship thriller, staring down the destructive gender dynamics that pit partners against each other in a world that is transforming faster than the rules can keep up. Also starring Eddie Marsan, Rich Sommer, and Sebastian De Souza, Fair Play unravels the uncomfortable collision of empowerment and ego.",
+      "runtime": 113,
+      "times": [
+        {
+          "starts_at": "2023-10-15T20:10:00+01:00",
           "site": "Bloomsbury"
         }
       ]
