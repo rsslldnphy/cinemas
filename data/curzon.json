@@ -1,107 +1,12 @@
 {
   "2023-10-15": [
     {
-      "title": "A Haunting in Venice",
-      "url": "https://www.curzon.com/films/HO00004793",
-      "trailer": "https://www.youtube.com/watch?v=LAywaWCFXgw",
-      "synopsis": "In post-World War II Venice, Poirot, now retired and living in his own exile, reluctantly attends a seance, when one of the guests is murdered, it is up to the former detective to once again uncover the killer.",
-      "runtime": 103,
-      "times": [
-        {
-          "starts_at": "2023-10-15T13:40:00+01:00",
-          "site": "Aldgate"
-        },
-        {
-          "starts_at": "2023-10-15T16:20:00+01:00",
-          "site": "Aldgate"
-        },
-        {
-          "starts_at": "2023-10-15T14:15:00+01:00",
-          "site": "Victoria"
-        },
-        {
-          "starts_at": "2023-10-15T17:00:00+01:00",
-          "site": "Victoria"
-        },
-        {
-          "starts_at": "2023-10-15T19:45:00+01:00",
-          "site": "Victoria"
-        }
-      ]
-    },
-    {
-      "title": "The Creator",
-      "url": "https://www.curzon.com/films/HO00004802",
-      "trailer": "https://www.youtube.com/watch?v=DYo4QTsBqP8",
-      "synopsis": "From writer/director Gareth Edwards (“Rogue One,” “Godzilla”) comes an epic sci-fi action thriller set amidst a future war between the human race and the forces of artificial intelligence. Joshua (John David Washington, \"Tenet\"), a hardened ex-special forces agent grieving the disappearance of his wife (Gemma Chan, \"Eternals\"), is recruited to hunt down and kill the Creator, the elusive architect of advanced AI who has developed a mysterious weapon with the power to end the war… and mankind itself.  Joshua and his team of elite operatives journey across enemy lines, into the dark heart of AI-occupied territory… only to discover the world-ending weapon he’s been instructed to destroy is an AI in the form of a young child (newcomer Madeleine Yuna Voyles).",
-      "runtime": 133,
-      "times": [
-        {
-          "starts_at": "2023-10-15T14:10:00+01:00",
-          "site": "Aldgate"
-        },
-        {
-          "starts_at": "2023-10-15T13:45:00+01:00",
-          "site": "Victoria"
-        },
-        {
-          "starts_at": "2023-10-15T20:00:00+01:00",
-          "site": "Victoria"
-        },
-        {
-          "starts_at": "2023-10-15T14:40:00+01:00",
-          "site": "Hoxton"
-        },
-        {
-          "starts_at": "2023-10-15T20:00:00+01:00",
-          "site": "Hoxton"
-        }
-      ]
-    },
-    {
-      "title": "BlackBerry",
-      "url": "https://www.curzon.com/films/HO00004872",
-      "trailer": "https://www.youtube.com/watch?v=13gFs_01ETA",
-      "synopsis": "Every era has its visionaries, and ‘BlackBerry,’ co-written by Director Matt Johnson and Producer Matthew Miller, investigates the brilliance of the individuals that invented the world’s first smartphone. Recounting the Canadian company’s humble yet chaotic rise to market dominance, ‘BlackBerry’ is a darkly comedic telling of the tragic tale of a Canadian company that revolutionized the way we communicate, before swiftly plummeting into obsolescence. \nIt’s 1996, and Mike Lazaridis (Jay Baruchel) and his business partner and best friend Douglas Fregin (Matt Johnson) are on the edge of creating the world’s first smartphone. Unfortunately for them, they are less business savvy than they are tech, and struggle to keep their company, Research in Motion, afloat. Everything changes when cunning business man Jim Balsillie (Glenn Howerton) agrees to join the company, bringing with him the money and experience needed to create and sell a prototype of their invention.\nSeemingly overnight the three men revolutionize the way people work, communicate and connect. Celebrities, politicians and businessmen are now addicted to their Blackberrys. The company's value skyrockets, yet within a few short years shady business dealings, personal grievances, and, perhaps most dangerously, the iPhone, threaten the company’s incredible success.",
-      "runtime": 120,
-      "times": [
-        {
-          "starts_at": "2023-10-15T14:30:00+01:00",
-          "site": "Aldgate"
-        },
-        {
-          "starts_at": "2023-10-15T14:30:00+01:00",
-          "site": "Victoria"
-        },
-        {
-          "starts_at": "2023-10-15T20:15:00+01:00",
-          "site": "Victoria"
-        },
-        {
-          "starts_at": "2023-10-15T15:20:00+01:00",
-          "site": "Camden"
-        },
-        {
-          "starts_at": "2023-10-15T20:30:00+01:00",
-          "site": "Camden"
-        },
-        {
-          "starts_at": "2023-10-15T17:30:00+01:00",
-          "site": "Bloomsbury"
-        }
-      ]
-    },
-    {
       "title": "TAYLOR SWIFT | THE ERAS TOUR",
       "url": "https://www.curzon.com/films/HO00004893",
       "trailer": null,
       "synopsis": "The cultural phenomenon continues on the big screen! Immerse yourself in this once-in-a-lifetime concert film experience with a breathtaking, cinematic view of the history-making tour. Taylor Swift Eras attire and friendship bracelets are strongly encouraged!",
       "runtime": 168,
       "times": [
-        {
-          "starts_at": "2023-10-15T16:00:00+01:00",
-          "site": "Aldgate"
-        },
         {
           "starts_at": "2023-10-15T17:10:00+01:00",
           "site": "Aldgate"
@@ -115,10 +20,6 @@
           "site": "Aldgate"
         },
         {
-          "starts_at": "2023-10-15T16:00:00+01:00",
-          "site": "Victoria"
-        },
-        {
           "starts_at": "2023-10-15T16:45:00+01:00",
           "site": "Victoria"
         },
@@ -127,20 +28,12 @@
           "site": "Victoria"
         },
         {
-          "starts_at": "2023-10-15T16:00:00+01:00",
-          "site": "Hoxton"
-        },
-        {
           "starts_at": "2023-10-15T17:00:00+01:00",
           "site": "Hoxton"
         },
         {
           "starts_at": "2023-10-15T19:30:00+01:00",
           "site": "Hoxton"
-        },
-        {
-          "starts_at": "2023-10-15T16:00:00+01:00",
-          "site": "Camden"
         },
         {
           "starts_at": "2023-10-15T19:30:00+01:00",
@@ -192,55 +85,19 @@
       ]
     },
     {
-      "title": "Past Lives",
-      "url": "https://www.curzon.com/films/HO00004754",
-      "trailer": "https://www.youtube.com/watch?v=WJTnve_kdu0",
-      "synopsis": "Nora and Hae Sung, two deeply connected childhood friends, are wrest apart after Nora’s family emigrates from South Korea. Two decades later, they are reunited in New York for one fateful week as they confront notions of destiny, love, and the choices that make a life, in this heartrending modern romance.",
-      "runtime": 106,
+      "title": "A Haunting in Venice",
+      "url": "https://www.curzon.com/films/HO00004793",
+      "trailer": "https://www.youtube.com/watch?v=LAywaWCFXgw",
+      "synopsis": "In post-World War II Venice, Poirot, now retired and living in his own exile, reluctantly attends a seance, when one of the guests is murdered, it is up to the former detective to once again uncover the killer.",
+      "runtime": 103,
       "times": [
         {
-          "starts_at": "2023-10-15T15:00:00+01:00",
+          "starts_at": "2023-10-15T17:00:00+01:00",
           "site": "Victoria"
         },
         {
-          "starts_at": "2023-10-15T17:30:00+01:00",
+          "starts_at": "2023-10-15T19:45:00+01:00",
           "site": "Victoria"
-        },
-        {
-          "starts_at": "2023-10-15T20:30:00+01:00",
-          "site": "Victoria"
-        },
-        {
-          "starts_at": "2023-10-15T14:20:00+01:00",
-          "site": "Hoxton"
-        },
-        {
-          "starts_at": "2023-10-15T20:20:00+01:00",
-          "site": "Hoxton"
-        },
-        {
-          "starts_at": "2023-10-15T15:00:00+01:00",
-          "site": "Camden"
-        },
-        {
-          "starts_at": "2023-10-15T17:40:00+01:00",
-          "site": "Camden"
-        },
-        {
-          "starts_at": "2023-10-15T20:10:00+01:00",
-          "site": "Camden"
-        },
-        {
-          "starts_at": "2023-10-15T15:00:00+01:00",
-          "site": "Bloomsbury"
-        },
-        {
-          "starts_at": "2023-10-15T18:10:00+01:00",
-          "site": "Bloomsbury"
-        },
-        {
-          "starts_at": "2023-10-15T20:00:00+01:00",
-          "site": "Bloomsbury"
         }
       ]
     },
@@ -258,16 +115,87 @@
       ]
     },
     {
+      "title": "Past Lives",
+      "url": "https://www.curzon.com/films/HO00004754",
+      "trailer": "https://www.youtube.com/watch?v=WJTnve_kdu0",
+      "synopsis": "Nora and Hae Sung, two deeply connected childhood friends, are wrest apart after Nora’s family emigrates from South Korea. Two decades later, they are reunited in New York for one fateful week as they confront notions of destiny, love, and the choices that make a life, in this heartrending modern romance.",
+      "runtime": 106,
+      "times": [
+        {
+          "starts_at": "2023-10-15T17:30:00+01:00",
+          "site": "Victoria"
+        },
+        {
+          "starts_at": "2023-10-15T20:30:00+01:00",
+          "site": "Victoria"
+        },
+        {
+          "starts_at": "2023-10-15T20:20:00+01:00",
+          "site": "Hoxton"
+        },
+        {
+          "starts_at": "2023-10-15T17:40:00+01:00",
+          "site": "Camden"
+        },
+        {
+          "starts_at": "2023-10-15T20:10:00+01:00",
+          "site": "Camden"
+        },
+        {
+          "starts_at": "2023-10-15T18:10:00+01:00",
+          "site": "Bloomsbury"
+        },
+        {
+          "starts_at": "2023-10-15T20:00:00+01:00",
+          "site": "Bloomsbury"
+        }
+      ]
+    },
+    {
+      "title": "The Creator",
+      "url": "https://www.curzon.com/films/HO00004802",
+      "trailer": "https://www.youtube.com/watch?v=DYo4QTsBqP8",
+      "synopsis": "From writer/director Gareth Edwards (“Rogue One,” “Godzilla”) comes an epic sci-fi action thriller set amidst a future war between the human race and the forces of artificial intelligence. Joshua (John David Washington, \"Tenet\"), a hardened ex-special forces agent grieving the disappearance of his wife (Gemma Chan, \"Eternals\"), is recruited to hunt down and kill the Creator, the elusive architect of advanced AI who has developed a mysterious weapon with the power to end the war… and mankind itself.  Joshua and his team of elite operatives journey across enemy lines, into the dark heart of AI-occupied territory… only to discover the world-ending weapon he’s been instructed to destroy is an AI in the form of a young child (newcomer Madeleine Yuna Voyles).",
+      "runtime": 133,
+      "times": [
+        {
+          "starts_at": "2023-10-15T20:00:00+01:00",
+          "site": "Victoria"
+        },
+        {
+          "starts_at": "2023-10-15T20:00:00+01:00",
+          "site": "Hoxton"
+        }
+      ]
+    },
+    {
+      "title": "BlackBerry",
+      "url": "https://www.curzon.com/films/HO00004872",
+      "trailer": "https://www.youtube.com/watch?v=13gFs_01ETA",
+      "synopsis": "Every era has its visionaries, and ‘BlackBerry,’ co-written by Director Matt Johnson and Producer Matthew Miller, investigates the brilliance of the individuals that invented the world’s first smartphone. Recounting the Canadian company’s humble yet chaotic rise to market dominance, ‘BlackBerry’ is a darkly comedic telling of the tragic tale of a Canadian company that revolutionized the way we communicate, before swiftly plummeting into obsolescence. \nIt’s 1996, and Mike Lazaridis (Jay Baruchel) and his business partner and best friend Douglas Fregin (Matt Johnson) are on the edge of creating the world’s first smartphone. Unfortunately for them, they are less business savvy than they are tech, and struggle to keep their company, Research in Motion, afloat. Everything changes when cunning business man Jim Balsillie (Glenn Howerton) agrees to join the company, bringing with him the money and experience needed to create and sell a prototype of their invention.\nSeemingly overnight the three men revolutionize the way people work, communicate and connect. Celebrities, politicians and businessmen are now addicted to their Blackberrys. The company's value skyrockets, yet within a few short years shady business dealings, personal grievances, and, perhaps most dangerously, the iPhone, threaten the company’s incredible success.",
+      "runtime": 120,
+      "times": [
+        {
+          "starts_at": "2023-10-15T20:15:00+01:00",
+          "site": "Victoria"
+        },
+        {
+          "starts_at": "2023-10-15T20:30:00+01:00",
+          "site": "Camden"
+        },
+        {
+          "starts_at": "2023-10-15T17:30:00+01:00",
+          "site": "Bloomsbury"
+        }
+      ]
+    },
+    {
       "title": "The Great Escaper",
       "url": "https://www.curzon.com/films/HO00004812",
       "trailer": null,
       "synopsis": "In the summer of 2014, Bernard Jordan (Michael Caine) made global headlines. He had staged a “great escape” from his care home to join fellow war veterans on a beach in Normandy, commemorating their fallen comrades at the D-Day Landings 70th anniversary. It was a story that captured the imagination of the world as Bernie embodied the defiant, “can-do” spirit of a generation that was fast disappearing. But of course, it wasn’t the whole story. It was an inspirational but sanitised retelling of one man’s need to come to terms with the lasting trauma of war. Bernie’s adventure, spanning a mere 48 hours, also marked the culmination of his 60-year marriage to Rene (Glenda Jackson) – THE GREAT ESCAPER celebrates their enduring love but always with an eye to the lessons we might learn from the Greatest Generation.",
       "runtime": 96,
       "times": [
-        {
-          "starts_at": "2023-10-15T15:40:00+01:00",
-          "site": "Mayfair"
-        },
         {
           "starts_at": "2023-10-15T18:00:00+01:00",
           "site": "Mayfair"
@@ -305,44 +233,6 @@
       ]
     },
     {
-      "title": "Mind-Set",
-      "url": "https://www.curzon.com/films/HO00004876",
-      "trailer": null,
-      "synopsis": "Lucy, a disillusioned office clerk who lives in a dysfunctional relationship with her slovenly partner Paul, is surprised to find herself on the cusp of a none-too-secret affair with her new work colleague, Daniel. The thrill of the chase for a shred of affection takes her mind off her problematic life but she's not sure that she'll ever leave Paul, or that sex with someone else is the true answer to her problems.\n",
-      "runtime": 89,
-      "times": [
-        {
-          "starts_at": "2023-10-15T14:20:00+01:00",
-          "site": "Camden"
-        }
-      ]
-    },
-    {
-      "title": "The Old Oak",
-      "url": "https://www.curzon.com/films/HO00004803",
-      "trailer": "https://www.youtube.com/watch?v=Fwb0c5zqsyM",
-      "synopsis": "The future for the last remaining pub, The Old Oak in a village of the Northeast England, where people are leaving the land as the mines are closed. Houses are cheap and available thus making it an ideal location for the Syrian refugees.",
-      "runtime": 113,
-      "times": [
-        {
-          "starts_at": "2023-10-15T14:40:00+01:00",
-          "site": "Camden"
-        },
-        {
-          "starts_at": "2023-10-15T19:50:00+01:00",
-          "site": "Camden"
-        },
-        {
-          "starts_at": "2023-10-15T15:10:00+01:00",
-          "site": "Bloomsbury"
-        },
-        {
-          "starts_at": "2023-10-15T17:40:00+01:00",
-          "site": "Bloomsbury"
-        }
-      ]
-    },
-    {
       "title": "Dumb Money",
       "url": "https://www.curzon.com/films/HO00004800",
       "trailer": "https://www.youtube.com/watch?v=_VxRoOZNaR8",
@@ -371,24 +261,24 @@
           "site": "Camden"
         },
         {
-          "starts_at": "2023-10-15T15:20:00+01:00",
-          "site": "Bloomsbury"
-        },
-        {
           "starts_at": "2023-10-15T20:40:00+01:00",
           "site": "Bloomsbury"
         }
       ]
     },
     {
-      "title": "DocHouse: Lost Course",
-      "url": "https://www.curzon.com/films/HO00004869",
-      "trailer": null,
-      "synopsis": "An epic saga of Chinese local politics, Jill Li's Lost Course observes the rise and decline of a fledgling democracy, filmed from inside the petri dish.\r\n\r\nEmbedding herself in a small fishing village in southern China for several years starting in 2011, first-time filmmaker Li witnesses an unprecedented experiment in local democracy. Corrupt officials had illegally sold villagers' land, but the villagers decided to fight back.\r\n\r\nGetting to know the grassroots activists and filming on the ground with them through a series of often shocking events, Li is in prime position to document their successes as they take over local government and organise the village's first free elections. But this triumph is not the end, and it's not long before the newly elected village government is mired in corruption once again.  \r\n\r\nLi reveals the complexities of their triumphs and setbacks from the inside. Her astonishingly intimate, sympathetic and fair-minded access to the events' major players reveals Chinese local politics with three-dimensional passion and energy.\r\n",
-      "runtime": 180,
+      "title": "The Old Oak",
+      "url": "https://www.curzon.com/films/HO00004803",
+      "trailer": "https://www.youtube.com/watch?v=Fwb0c5zqsyM",
+      "synopsis": "The future for the last remaining pub, The Old Oak in a village of the Northeast England, where people are leaving the land as the mines are closed. Houses are cheap and available thus making it an ideal location for the Syrian refugees.",
+      "runtime": 113,
       "times": [
         {
-          "starts_at": "2023-10-15T14:00:00+01:00",
+          "starts_at": "2023-10-15T19:50:00+01:00",
+          "site": "Camden"
+        },
+        {
+          "starts_at": "2023-10-15T17:40:00+01:00",
           "site": "Bloomsbury"
         }
       ]
@@ -401,45 +291,7 @@
       "runtime": 92,
       "times": [
         {
-          "starts_at": "2023-10-15T14:00:00+01:00",
-          "site": "Bloomsbury"
-        },
-        {
           "starts_at": "2023-10-15T17:50:00+01:00",
-          "site": "Bloomsbury"
-        }
-      ]
-    },
-    {
-      "title": "Casino",
-      "url": "https://www.curzon.com/films/HO00004911",
-      "trailer": null,
-      "synopsis": "A tale of greed, deception, money, power, and murder occur between two best friends: a mafia enforcer and a casino executive, compete against each other over a gambling empire, and over a fast living and fast loving socialite.",
-      "runtime": 178,
-      "times": [
-        {
-          "starts_at": "2023-10-15T14:30:00+01:00",
-          "site": "Bloomsbury"
-        }
-      ]
-    },
-    {
-      "title": "Passages",
-      "url": "https://www.curzon.com/films/HO00004723",
-      "trailer": null,
-      "synopsis": "Celebrated independent filmmaker Ira Sachs (Love is Strange, Keep the Lights On) makes a breathtaking return with PASSAGES, a fresh, honest and brutally funny take on romantic chaos, featuring honest and emotionally nuanced performances from Franz Rogowski (Great Freedom), Ben Whishsaw (Women Talking) and Adèle Exarchopoulos (Blue Is the Warmest Colour). \n\nSet in contemporary Paris, this seductive comedy-drama tells the story of Tomas (Rogowski) and Martin (Whishaw), a gay couple whose marriage is thrown into crisis when Tomas impulsively begins a passionate affair with a young school teacher, Agathe (Exarchopoulos). Though he embraces this exciting new exploration, the novelty of being with a woman starts to fade when Martin begins an affair of his own, forcing Tomas to confront life decisions he may be unprepared – or unwilling – to deal with. \n\nPerceptive, intimate and unashamedly sexy, PASSAGES sees Sachs put a uniquely European spin on his usually tender style, telling a messy, modern love story that explores the complexities, contradictions and cruelties of sex and desire.",
-      "runtime": 92,
-      "times": [
-        {
-          "starts_at": "2023-10-15T16:10:00+01:00",
-          "site": "Bloomsbury"
-        },
-        {
-          "starts_at": "2023-10-15T18:20:00+01:00",
-          "site": "Bloomsbury"
-        },
-        {
-          "starts_at": "2023-10-15T20:30:00+01:00",
           "site": "Bloomsbury"
         }
       ]
@@ -453,6 +305,23 @@
       "times": [
         {
           "starts_at": "2023-10-15T18:00:00+01:00",
+          "site": "Bloomsbury"
+        }
+      ]
+    },
+    {
+      "title": "Passages",
+      "url": "https://www.curzon.com/films/HO00004723",
+      "trailer": null,
+      "synopsis": "Celebrated independent filmmaker Ira Sachs (Love is Strange, Keep the Lights On) makes a breathtaking return with PASSAGES, a fresh, honest and brutally funny take on romantic chaos, featuring honest and emotionally nuanced performances from Franz Rogowski (Great Freedom), Ben Whishsaw (Women Talking) and Adèle Exarchopoulos (Blue Is the Warmest Colour). \n\nSet in contemporary Paris, this seductive comedy-drama tells the story of Tomas (Rogowski) and Martin (Whishaw), a gay couple whose marriage is thrown into crisis when Tomas impulsively begins a passionate affair with a young school teacher, Agathe (Exarchopoulos). Though he embraces this exciting new exploration, the novelty of being with a woman starts to fade when Martin begins an affair of his own, forcing Tomas to confront life decisions he may be unprepared – or unwilling – to deal with. \n\nPerceptive, intimate and unashamedly sexy, PASSAGES sees Sachs put a uniquely European spin on his usually tender style, telling a messy, modern love story that explores the complexities, contradictions and cruelties of sex and desire.",
+      "runtime": 92,
+      "times": [
+        {
+          "starts_at": "2023-10-15T18:20:00+01:00",
+          "site": "Bloomsbury"
+        },
+        {
+          "starts_at": "2023-10-15T20:30:00+01:00",
           "site": "Bloomsbury"
         }
       ]
