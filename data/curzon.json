@@ -1,7 +1,4 @@
 {
-  "2023-10-15": [
-
-  ],
   "2023-10-16": [
     {
       "title": "A Haunting in Venice",
@@ -2873,6 +2870,37 @@
         {
           "starts_at": "2023-10-22T18:00:00+01:00",
           "site": "Bloomsbury"
+        }
+      ]
+    }
+  ],
+  "2023-10-23": [
+    {
+      "title": "Killers Of The Flower Moon",
+      "url": "https://www.curzon.com/films/HO00004811",
+      "trailer": "https://www.youtube.com/watch?v=nFoIg72KGIk",
+      "synopsis": "At the turn of the 20th century, oil brought a fortune to the Osage Nation, who became some of the richest people in the world overnight. The wealth of these Native Americans immediately attracted white interlopers, who manipulated, extorted, and stole as much Osage money as they could before resorting to murder. Based on a true story and told through the improbable romance of Ernest Burkhart (Leonardo DiCaprio) and Mollie Kyle (Lily Gladstone), “Killers of the Flower Moon” is an epic western crime saga, where real love crosses paths with unspeakable betrayal. Also starring Robert De Niro and Jesse Plemons, “Killers of the Flower Moon” is directed by Academy Award winner Martin Scorsese from a screenplay by Eric Roth and Martin Scorsese, based on David Grann’s best-selling book.",
+      "runtime": 206,
+      "times": [
+        {
+          "starts_at": "2023-10-23T19:00:00+01:00",
+          "site": "Aldgate"
+        },
+        {
+          "starts_at": "2023-10-23T18:15:00+01:00",
+          "site": "Victoria"
+        },
+        {
+          "starts_at": "2023-10-23T19:45:00+01:00",
+          "site": "Victoria"
+        },
+        {
+          "starts_at": "2023-10-23T19:40:00+01:00",
+          "site": "Hoxton"
+        },
+        {
+          "starts_at": "2023-10-23T19:00:00+01:00",
+          "site": "Camden"
         }
       ]
     }
