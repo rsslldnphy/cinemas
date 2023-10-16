@@ -1,6 +1,7 @@
 GEM
   remote: https://rubygems.org/
   specs:
+    headless (2.3.1)
     httparty (0.21.0)
       mini_mime (>= 1.0.0)
       multi_xml (>= 0.5.2)
@@ -12,7 +13,6 @@ GEM
       racc (~> 1.4)
     nokogiri (1.15.4-x86_64-linux)
       racc (~> 1.4)
-    phantomjs (2.1.1.0)
     racc (1.7.1)
     regexp_parser (2.8.2)
     rexml (3.2.6)
@@ -32,9 +32,9 @@ PLATFORMS
   x86_64-linux
 
 DEPENDENCIES
+  headless (~> 2.3)
   httparty (~> 0.21.0)
   nokogiri (~> 1.15)
-  phantomjs (~> 2.1)
   racc (~> 1.7)
   watir (~> 7.3)
 

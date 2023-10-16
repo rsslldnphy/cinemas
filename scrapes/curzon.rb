@@ -19,23 +19,29 @@ module Curzon
         film = listings.first[:film]
         {
           title: film['title']['text'],
-          url: "https://www.curzon.com/films/#{film['id']}",
           trailer: film['trailerUrl'],
           synopsis: film['synopsis']['text'],
           runtime: film['runtimeInMinutes'],
-          times: listings.map{ |listing| { starts_at: listing[:starts_at], site: listing[:site] } }
+          times: listings.map do |listing|
+            {
+              starts_at: listing[:starts_at],
+              site: listing[:site],
+              url: listing[:url]
+            }
+          end
         }
       end
     end
 
     def showtimes
       @showtimes ||= data['showtimes'].reject {|showtime| showtime['isSoldOut']}.filter_map do |showtime|
-        site = sites[showtime['siteId']]
+        site = "Curzon " + sites[showtime['siteId']]
         film = films[showtime['filmId']]
         {
           film: film,
           starts_at: showtime['schedule']['startsAt'],
           site: site,
+          url: "https://www.curzon.com/ticketing/seats/#{showtime["id"]}/"
         }
       end
     end

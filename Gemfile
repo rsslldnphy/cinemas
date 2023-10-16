@@ -12,4 +12,4 @@ gem "racc", "~> 1.7"
 
 gem "watir", "~> 7.3"
 
-gem "phantomjs", "~> 2.1"
+gem "headless", "~> 2.3"
