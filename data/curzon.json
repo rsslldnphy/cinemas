@@ -7,19 +7,9 @@
       "runtime": 168,
       "times": [
         {
-          "starts_at": "2023-10-21T16:50:00+01:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-44451/"
-        },
-        {
           "starts_at": "2023-10-21T20:20:00+01:00",
           "site": "Curzon Aldgate",
           "url": "https://www.curzon.com/ticketing/seats/ALD1-44450/"
-        },
-        {
-          "starts_at": "2023-10-21T16:30:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-67808/"
         },
         {
           "starts_at": "2023-10-21T20:00:00+01:00",
@@ -27,105 +17,14 @@
           "url": "https://www.curzon.com/ticketing/seats/VIC1-67796/"
         },
         {
-          "starts_at": "2023-10-21T16:30:00+01:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-12863/"
-        },
-        {
           "starts_at": "2023-10-21T20:00:00+01:00",
           "site": "Curzon Hoxton",
           "url": "https://www.curzon.com/ticketing/seats/HOX1-12864/"
         },
         {
-          "starts_at": "2023-10-21T16:30:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-19389/"
-        },
-        {
           "starts_at": "2023-10-21T20:00:00+01:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-19390/"
-        }
-      ]
-    },
-    {
-      "title": "Killers Of The Flower Moon",
-      "trailer": "https://www.youtube.com/watch?v=nFoIg72KGIk",
-      "synopsis": "At the turn of the 20th century, oil brought a fortune to the Osage Nation, who became some of the richest people in the world overnight. The wealth of these Native Americans immediately attracted white interlopers, who manipulated, extorted, and stole as much Osage money as they could before resorting to murder. Based on a true story and told through the improbable romance of Ernest Burkhart (Leonardo DiCaprio) and Mollie Kyle (Lily Gladstone), “Killers of the Flower Moon” is an epic western crime saga, where real love crosses paths with unspeakable betrayal. Also starring Robert De Niro and Jesse Plemons, “Killers of the Flower Moon” is directed by Academy Award winner Martin Scorsese from a screenplay by Eric Roth and Martin Scorsese, based on David Grann’s best-selling book.",
-      "runtime": 206,
-      "times": [
-        {
-          "starts_at": "2023-10-21T17:10:00+01:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-44453/"
-        },
-        {
-          "starts_at": "2023-10-21T19:00:00+01:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-44081/"
-        },
-        {
-          "starts_at": "2023-10-21T17:00:00+01:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-41554/"
-        },
-        {
-          "starts_at": "2023-10-21T18:40:00+01:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-41988/"
-        },
-        {
-          "starts_at": "2023-10-21T19:40:00+01:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-41560/"
-        },
-        {
-          "starts_at": "2023-10-21T18:15:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-67454/"
-        },
-        {
-          "starts_at": "2023-10-21T19:45:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-67455/"
-        },
-        {
-          "starts_at": "2023-10-21T19:40:00+01:00",
-          "site": "Curzon Mayfair",
-          "url": "https://www.curzon.com/ticketing/seats/MAY1-24842/"
-        },
-        {
-          "starts_at": "2023-10-21T18:00:00+01:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-12860/"
-        },
-        {
-          "starts_at": "2023-10-21T19:40:00+01:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-12502/"
-        },
-        {
-          "starts_at": "2023-10-21T19:00:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-19059/"
-        },
-        {
-          "starts_at": "2023-10-21T19:20:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-85062/"
-        }
-      ]
-    },
-    {
-      "title": "The Creator",
-      "trailer": "https://www.youtube.com/watch?v=DYo4QTsBqP8",
-      "synopsis": "From writer/director Gareth Edwards (“Rogue One,” “Godzilla”) comes an epic sci-fi action thriller set amidst a future war between the human race and the forces of artificial intelligence. Joshua (John David Washington, \"Tenet\"), a hardened ex-special forces agent grieving the disappearance of his wife (Gemma Chan, \"Eternals\"), is recruited to hunt down and kill the Creator, the elusive architect of advanced AI who has developed a mysterious weapon with the power to end the war… and mankind itself.  Joshua and his team of elite operatives journey across enemy lines, into the dark heart of AI-occupied territory… only to discover the world-ending weapon he’s been instructed to destroy is an AI in the form of a young child (newcomer Madeleine Yuna Voyles).",
-      "runtime": 133,
-      "times": [
-        {
-          "starts_at": "2023-10-21T18:00:00+01:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-44787/"
         }
       ]
     },
@@ -161,6 +60,34 @@
       ]
     },
     {
+      "title": "Killers Of The Flower Moon",
+      "trailer": "https://www.youtube.com/watch?v=nFoIg72KGIk",
+      "synopsis": "At the turn of the 20th century, oil brought a fortune to the Osage Nation, who became some of the richest people in the world overnight. The wealth of these Native Americans immediately attracted white interlopers, who manipulated, extorted, and stole as much Osage money as they could before resorting to murder. Based on a true story and told through the improbable romance of Ernest Burkhart (Leonardo DiCaprio) and Mollie Kyle (Lily Gladstone), “Killers of the Flower Moon” is an epic western crime saga, where real love crosses paths with unspeakable betrayal. Also starring Robert De Niro and Jesse Plemons, “Killers of the Flower Moon” is directed by Academy Award winner Martin Scorsese from a screenplay by Eric Roth and Martin Scorsese, based on David Grann’s best-selling book.",
+      "runtime": 206,
+      "times": [
+        {
+          "starts_at": "2023-10-21T19:40:00+01:00",
+          "site": "Curzon Soho",
+          "url": "https://www.curzon.com/ticketing/seats/SOH1-41560/"
+        },
+        {
+          "starts_at": "2023-10-21T19:45:00+01:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-67455/"
+        },
+        {
+          "starts_at": "2023-10-21T19:40:00+01:00",
+          "site": "Curzon Mayfair",
+          "url": "https://www.curzon.com/ticketing/seats/MAY1-24842/"
+        },
+        {
+          "starts_at": "2023-10-21T19:40:00+01:00",
+          "site": "Curzon Hoxton",
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-12502/"
+        }
+      ]
+    },
+    {
       "title": "Past Lives",
       "trailer": "https://www.youtube.com/watch?v=WJTnve_kdu0",
       "synopsis": "Nora and Hae Sung, two deeply connected childhood friends, are wrest apart after Nora’s family emigrates from South Korea. Two decades later, they are reunited in New York for one fateful week as they confront notions of destiny, love, and the choices that make a life, in this heartrending modern romance.",
@@ -177,42 +104,14 @@
           "url": "https://www.curzon.com/ticketing/seats/VIC1-68256/"
         },
         {
-          "starts_at": "2023-10-21T18:40:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-19795/"
-        },
-        {
           "starts_at": "2023-10-21T21:10:00+01:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-19788/"
         },
         {
-          "starts_at": "2023-10-21T18:40:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-85050/"
-        },
-        {
           "starts_at": "2023-10-21T20:50:00+01:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-85051/"
-        }
-      ]
-    },
-    {
-      "title": "Pain Hustlers",
-      "trailer": "https://www.youtube.com/watch?v=iycLZM7ycbI",
-      "synopsis": "Dreaming of a better life for her and her young daughter, Liza Drake, a high-school dropout, lands a job with a failing pharmaceutical start-up in a yellowing strip mall in Central Florida. Liza's charm, guts and drive catapult the company and her into the high life, where she soon finds herself at the center of a criminal conspiracy with deadly consequences.",
-      "runtime": 122,
-      "times": [
-        {
-          "starts_at": "2023-10-21T17:45:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-68164/"
-        },
-        {
-          "starts_at": "2023-10-21T17:40:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-19794/"
         }
       ]
     },
@@ -223,32 +122,9 @@
       "runtime": 103,
       "times": [
         {
-          "starts_at": "2023-10-21T18:00:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-68174/"
-        },
-        {
           "starts_at": "2023-10-21T20:45:00+01:00",
           "site": "Curzon Victoria",
           "url": "https://www.curzon.com/ticketing/seats/VIC1-68175/"
-        }
-      ]
-    },
-    {
-      "title": "Met Opera 2023: Dead Man Walking",
-      "trailer": null,
-      "synopsis": "Jake Heggie’s powerful work has its highly anticipated Met premiere in a new production by Ivo van Hove. Based on Sister Helen Prejean’s memoir about her fight for the soul of a condemned murderer, Dead Man Walking matches the high drama of its subject with Heggie’s poignant music and a libretto by Tony and Emmy Award–winner Terrence McNally. Met Music Director Yannick Nézet-Séguin takes the podium, with mezzo-soprano Joyce DiDonato starring as Sister Helen. The cast also features bass-baritone Ryan McKinny as the death-row inmate Joseph De Rocher, soprano Latonia Moore as Sister Rose, and mezzo-soprano Susan Graham—who sang Helen Prejean in the opera’s 2000 premiere—as De Rocher’s mother.\r\n\r\nContent Advisory: Dead Man Walking contains a depiction of a rape and murder, as well as other adult themes and strong language.",
-      "runtime": 194,
-      "times": [
-        {
-          "starts_at": "2023-10-21T17:55:00+01:00",
-          "site": "Curzon Mayfair",
-          "url": "https://www.curzon.com/ticketing/seats/MAY1-24029/"
-        },
-        {
-          "starts_at": "2023-10-21T17:55:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-81715/"
         }
       ]
     },
@@ -275,55 +151,6 @@
           "starts_at": "2023-10-21T20:50:00+01:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-19787/"
-        },
-        {
-          "starts_at": "2023-10-21T18:10:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-85046/"
-        }
-      ]
-    },
-    {
-      "title": "Passages",
-      "trailer": null,
-      "synopsis": "Celebrated independent filmmaker Ira Sachs (Love is Strange, Keep the Lights On) makes a breathtaking return with PASSAGES, a fresh, honest and brutally funny take on romantic chaos, featuring honest and emotionally nuanced performances from Franz Rogowski (Great Freedom), Ben Whishsaw (Women Talking) and Adèle Exarchopoulos (Blue Is the Warmest Colour). \n\nSet in contemporary Paris, this seductive comedy-drama tells the story of Tomas (Rogowski) and Martin (Whishaw), a gay couple whose marriage is thrown into crisis when Tomas impulsively begins a passionate affair with a young school teacher, Agathe (Exarchopoulos). Though he embraces this exciting new exploration, the novelty of being with a woman starts to fade when Martin begins an affair of his own, forcing Tomas to confront life decisions he may be unprepared – or unwilling – to deal with. \n\nPerceptive, intimate and unashamedly sexy, PASSAGES sees Sachs put a uniquely European spin on his usually tender style, telling a messy, modern love story that explores the complexities, contradictions and cruelties of sex and desire.",
-      "runtime": 92,
-      "times": [
-        {
-          "starts_at": "2023-10-21T16:30:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-85052/"
-        },
-        {
-          "starts_at": "2023-10-21T21:20:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-85059/"
-        }
-      ]
-    },
-    {
-      "title": "Nyad",
-      "trailer": null,
-      "synopsis": "A remarkable true story of tenacity, friendship and the triumph of the human spirit, NYAD recounts a riveting chapter in the life of world-class athlete Diana Nyad. Three decades after giving up marathon swimming in exchange for a prominent career as a sports journalist, at the age of 60, Diana (four-time Academy Award nominee Annette Bening) becomes obsessed with completing an epic swim that always eluded her: the 110 mile trek from Cuba to Florida, often referred to as the “Mount Everest” of swims. Determined to become the first person to finish the swim without a shark cage, Diana goes on a thrilling, four-year journey with her best friend and coach Bonnie Stoll (two-time Academy Award winner Jodie Foster) and a dedicated sailing team. \n\n\nThe inspirational film marks the narrative directorial debut of Academy Award-winning documentary filmmakers Elizabeth Chai Vasarhelyi and Jimmy Chin (Free Solo, The Rescue). NYAD is produced by Andrew Lazar, p.g.a. and Teddy Schwarzman, p.g.a. with a screenplay by Julia Cox, adapted from the memoir \"Find a Way\" by Diana Nyad.",
-      "runtime": 120,
-      "times": [
-        {
-          "starts_at": "2023-10-21T18:20:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-85048/"
-        }
-      ]
-    },
-    {
-      "title": "DocHouse: Smoke Sauna Sisterhood",
-      "trailer": null,
-      "synopsis": "In the warm, dense heat of a Southern Estonian smoke sauna, a group of women share their innermost secrets and intimate experiences. The rituals of the sauna envelop them, as they wash away the shame trapped in their bodies.\r\n\r\nFilmmaker Anna Hints captures this intimate space up close, without any sense of intrusion. In the dark, enclosed space, her camera - richly lit with beams of golden daylight - frames bodies and faces in chiaroscuro, while the women give voice to their past experiences: sharing, accepting, finding laughter and solace, regaining their strength through a sense of communion.\r\n\r\nWatching Smoke Sauna Sisterhood is a transformative experience for the viewer too, brought into a corporeal world of emotional veracity and deep empathy.",
-      "runtime": 89,
-      "times": [
-        {
-          "starts_at": "2023-10-21T18:30:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-85104/"
         }
       ]
     },
@@ -363,6 +190,19 @@
           "starts_at": "2023-10-21T21:10:00+01:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-85058/"
+        }
+      ]
+    },
+    {
+      "title": "Passages",
+      "trailer": null,
+      "synopsis": "Celebrated independent filmmaker Ira Sachs (Love is Strange, Keep the Lights On) makes a breathtaking return with PASSAGES, a fresh, honest and brutally funny take on romantic chaos, featuring honest and emotionally nuanced performances from Franz Rogowski (Great Freedom), Ben Whishsaw (Women Talking) and Adèle Exarchopoulos (Blue Is the Warmest Colour). \n\nSet in contemporary Paris, this seductive comedy-drama tells the story of Tomas (Rogowski) and Martin (Whishaw), a gay couple whose marriage is thrown into crisis when Tomas impulsively begins a passionate affair with a young school teacher, Agathe (Exarchopoulos). Though he embraces this exciting new exploration, the novelty of being with a woman starts to fade when Martin begins an affair of his own, forcing Tomas to confront life decisions he may be unprepared – or unwilling – to deal with. \n\nPerceptive, intimate and unashamedly sexy, PASSAGES sees Sachs put a uniquely European spin on his usually tender style, telling a messy, modern love story that explores the complexities, contradictions and cruelties of sex and desire.",
+      "runtime": 92,
+      "times": [
+        {
+          "starts_at": "2023-10-21T21:20:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-85059/"
         }
       ]
     }
@@ -2883,6 +2723,19 @@
       ]
     },
     {
+      "title": "Fremont",
+      "trailer": "https://www.youtube.com/watch?v=ObWrx064yzQ",
+      "synopsis": "Donya, a young Afghan who moved to Fremont, California after serving as a translator for the American army, spends her days working at a fortune cookie factory and her nights wide awake battling between her desire to rebuild her life and the overbearing guilt she carries within. In a bid to connect with the world, she sends an unconventional message through a fortune cookie. Tinged with Jarmuschian deadpan humour, this sensitive immigrant tale packs a breakout performance by real-life refugee Anaita Wali Zada, joined by a perpetually off-kilter Gregg Turkington and Jeremy Allen White from The Bear as a heartthrob mechanic.",
+      "runtime": 92,
+      "times": [
+        {
+          "starts_at": "2023-10-25T13:00:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-84997/"
+        }
+      ]
+    },
+    {
       "title": "Nyad",
       "trailer": null,
       "synopsis": "A remarkable true story of tenacity, friendship and the triumph of the human spirit, NYAD recounts a riveting chapter in the life of world-class athlete Diana Nyad. Three decades after giving up marathon swimming in exchange for a prominent career as a sports journalist, at the age of 60, Diana (four-time Academy Award nominee Annette Bening) becomes obsessed with completing an epic swim that always eluded her: the 110 mile trek from Cuba to Florida, often referred to as the “Mount Everest” of swims. Determined to become the first person to finish the swim without a shark cage, Diana goes on a thrilling, four-year journey with her best friend and coach Bonnie Stoll (two-time Academy Award winner Jodie Foster) and a dedicated sailing team. \n\n\nThe inspirational film marks the narrative directorial debut of Academy Award-winning documentary filmmakers Elizabeth Chai Vasarhelyi and Jimmy Chin (Free Solo, The Rescue). NYAD is produced by Andrew Lazar, p.g.a. and Teddy Schwarzman, p.g.a. with a screenplay by Julia Cox, adapted from the memoir \"Find a Way\" by Diana Nyad.",
@@ -2897,19 +2750,6 @@
           "starts_at": "2023-10-25T18:10:00+01:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-84996/"
-        }
-      ]
-    },
-    {
-      "title": "Fremont",
-      "trailer": "https://www.youtube.com/watch?v=ObWrx064yzQ",
-      "synopsis": "Donya, a young Afghan who moved to Fremont, California after serving as a translator for the American army, spends her days working at a fortune cookie factory and her nights wide awake battling between her desire to rebuild her life and the overbearing guilt she carries within. In a bid to connect with the world, she sends an unconventional message through a fortune cookie. Tinged with Jarmuschian deadpan humour, this sensitive immigrant tale packs a breakout performance by real-life refugee Anaita Wali Zada, joined by a perpetually off-kilter Gregg Turkington and Jeremy Allen White from The Bear as a heartthrob mechanic.",
-      "runtime": 92,
-      "times": [
-        {
-          "starts_at": "2023-10-25T13:00:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-84997/"
         }
       ]
     },
