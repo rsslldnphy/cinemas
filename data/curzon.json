@@ -332,16 +332,34 @@
       ]
     },
     {
+      "title": "Mean Streets (50th Anniversary)",
+      "trailer": "https://www.youtube.com/watch?v=5lhJwhmPKxg",
+      "synopsis": "Martin Scorsese’s electrifying vision of sin and redemption — one of the most influential works of American independent cinema — starring Harvey Keitel and Robert De Niro. Presented in a new 4K digital restoration, approved by director Martin Scorsese and collaborator Thelma Schoonmaker.\n\nMartin Scorsese emerged as a generation-defining filmmaker with this gritty portrait of 1970s New York City, one of the most influential works of American independent cinema. Set in the insular Little Italy neighbourhood of Scorsese’s youth, Mean Streets follows guilt-ridden small-time ringleader Charlie (Harvey Keitel) as he deals with the debts owed by his dangerously volatile best pal, Johnny Boy (Robert De Niro), and pressure from his headstrong girlfriend, Teresa (Amy Robinson). As their intertwined lives spiral out of control, Scorsese showcases his precocious mastery of film style—evident in everything from his propulsive editing rhythms to the lovingly curated soundtrack—to create an electrifying vision of sin and redemption.",
+      "runtime": 112,
+      "times": [
+        {
+          "starts_at": "2023-10-21T16:00:00+01:00",
+          "site": "Curzon Soho",
+          "url": "https://www.curzon.com/ticketing/seats/SOH1-41987/"
+        },
+        {
+          "starts_at": "2023-10-21T15:40:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-85057/"
+        },
+        {
+          "starts_at": "2023-10-21T21:00:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-85047/"
+        }
+      ]
+    },
+    {
       "title": "Past Lives",
       "trailer": "https://www.youtube.com/watch?v=WJTnve_kdu0",
       "synopsis": "Nora and Hae Sung, two deeply connected childhood friends, are wrest apart after Nora’s family emigrates from South Korea. Two decades later, they are reunited in New York for one fateful week as they confront notions of destiny, love, and the choices that make a life, in this heartrending modern romance.",
       "runtime": 106,
       "times": [
-        {
-          "starts_at": "2023-10-21T13:20:00+01:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-41986/"
-        },
         {
           "starts_at": "2023-10-21T21:15:00+01:00",
           "site": "Curzon Soho",
@@ -396,29 +414,6 @@
           "starts_at": "2023-10-21T20:50:00+01:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-85051/"
-        }
-      ]
-    },
-    {
-      "title": "Mean Streets (50th Anniversary)",
-      "trailer": "https://www.youtube.com/watch?v=5lhJwhmPKxg",
-      "synopsis": "Martin Scorsese’s electrifying vision of sin and redemption — one of the most influential works of American independent cinema — starring Harvey Keitel and Robert De Niro. Presented in a new 4K digital restoration, approved by director Martin Scorsese and collaborator Thelma Schoonmaker.\n\nMartin Scorsese emerged as a generation-defining filmmaker with this gritty portrait of 1970s New York City, one of the most influential works of American independent cinema. Set in the insular Little Italy neighbourhood of Scorsese’s youth, Mean Streets follows guilt-ridden small-time ringleader Charlie (Harvey Keitel) as he deals with the debts owed by his dangerously volatile best pal, Johnny Boy (Robert De Niro), and pressure from his headstrong girlfriend, Teresa (Amy Robinson). As their intertwined lives spiral out of control, Scorsese showcases his precocious mastery of film style—evident in everything from his propulsive editing rhythms to the lovingly curated soundtrack—to create an electrifying vision of sin and redemption.",
-      "runtime": 112,
-      "times": [
-        {
-          "starts_at": "2023-10-21T16:00:00+01:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-41987/"
-        },
-        {
-          "starts_at": "2023-10-21T15:40:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-85057/"
-        },
-        {
-          "starts_at": "2023-10-21T21:00:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-85047/"
         }
       ]
     },
