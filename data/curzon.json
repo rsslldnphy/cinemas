@@ -2765,16 +2765,6 @@
           "starts_at": "2023-10-28T21:00:00+01:00",
           "site": "Curzon Victoria",
           "url": "https://www.curzon.com/ticketing/seats/VIC1-68141/"
-        },
-        {
-          "starts_at": "2023-10-28T18:30:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-19695/"
-        },
-        {
-          "starts_at": "2023-10-28T21:00:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-84974/"
         }
       ]
     },
@@ -2803,7 +2793,7 @@
           "url": "https://www.curzon.com/ticketing/seats/SOH1-41835/"
         },
         {
-          "starts_at": "2023-10-28T18:50:00+01:00",
+          "starts_at": "2023-10-28T17:50:00+01:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-19862/"
         },
@@ -3167,7 +3157,7 @@
           "url": "https://www.curzon.com/ticketing/seats/HOX1-13170/"
         },
         {
-          "starts_at": "2023-10-30T17:50:00+00:00",
+          "starts_at": "2023-10-30T17:45:00+00:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-19864/"
         },
