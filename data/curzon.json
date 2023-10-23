@@ -1,34 +1,11 @@
 {
   "2023-10-23": [
     {
-      "title": "Saw X",
-      "trailer": "https://www.youtube.com/watch?v=AjEMxm7l0N0",
-      "synopsis": "John Kramer (Tobin Bell) is back. The most chilling installment of the SAW franchise yet explores the untold chapter of Jigsaw’s most personal game. Set between the events of SAW I and II, a sick and desperate John travels to Mexico for a risky and experimental medical procedure in hopes of a miracle cure for his cancer – only to discover the entire operation is a scam to defraud the most vulnerable. Armed with a newfound purpose, John returns to his work, turning the tables on the con artists in his signature visceral way through a series of ingenious and terrifying traps.",
-      "runtime": 118,
-      "times": [
-        {
-          "starts_at": "2023-10-23T14:30:00+01:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-44805/"
-        },
-        {
-          "starts_at": "2023-10-23T21:00:00+01:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-44803/"
-        }
-      ]
-    },
-    {
       "title": "Killers Of The Flower Moon",
       "trailer": "https://www.youtube.com/watch?v=nFoIg72KGIk",
       "synopsis": "At the turn of the 20th century, oil brought a fortune to the Osage Nation, who became some of the richest people in the world overnight. The wealth of these Native Americans immediately attracted white interlopers, who manipulated, extorted, and stole as much Osage money as they could before resorting to murder. Based on a true story and told through the improbable romance of Ernest Burkhart (Leonardo DiCaprio) and Mollie Kyle (Lily Gladstone), “Killers of the Flower Moon” is an epic western crime saga, where real love crosses paths with unspeakable betrayal. Also starring Robert De Niro and Jesse Plemons, “Killers of the Flower Moon” is directed by Academy Award winner Martin Scorsese from a screenplay by Eric Roth and Martin Scorsese, based on David Grann’s best-selling book.",
       "runtime": 206,
       "times": [
-        {
-          "starts_at": "2023-10-23T14:50:00+01:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-44798/"
-        },
         {
           "starts_at": "2023-10-23T17:10:00+01:00",
           "site": "Curzon Aldgate",
@@ -38,11 +15,6 @@
           "starts_at": "2023-10-23T19:00:00+01:00",
           "site": "Curzon Aldgate",
           "url": "https://www.curzon.com/ticketing/seats/ALD1-44083/"
-        },
-        {
-          "starts_at": "2023-10-23T15:20:00+01:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-41961/"
         },
         {
           "starts_at": "2023-10-23T17:00:00+01:00",
@@ -55,16 +27,6 @@
           "url": "https://www.curzon.com/ticketing/seats/SOH1-41959/"
         },
         {
-          "starts_at": "2023-10-23T14:00:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-68206/"
-        },
-        {
-          "starts_at": "2023-10-23T15:30:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-68205/"
-        },
-        {
           "starts_at": "2023-10-23T18:15:00+01:00",
           "site": "Curzon Victoria",
           "url": "https://www.curzon.com/ticketing/seats/VIC1-67458/"
@@ -75,24 +37,9 @@
           "url": "https://www.curzon.com/ticketing/seats/VIC1-67459/"
         },
         {
-          "starts_at": "2023-10-23T14:40:00+01:00",
-          "site": "Curzon Mayfair",
-          "url": "https://www.curzon.com/ticketing/seats/MAY1-25067/"
-        },
-        {
           "starts_at": "2023-10-23T19:00:00+01:00",
           "site": "Curzon Mayfair",
           "url": "https://www.curzon.com/ticketing/seats/MAY1-25066/"
-        },
-        {
-          "starts_at": "2023-10-23T13:40:00+01:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-13128/"
-        },
-        {
-          "starts_at": "2023-10-23T15:20:00+01:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-13127/"
         },
         {
           "starts_at": "2023-10-23T18:00:00+01:00",
@@ -103,11 +50,6 @@
           "starts_at": "2023-10-23T19:40:00+01:00",
           "site": "Curzon Hoxton",
           "url": "https://www.curzon.com/ticketing/seats/HOX1-12504/"
-        },
-        {
-          "starts_at": "2023-10-23T14:40:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-19736/"
         },
         {
           "starts_at": "2023-10-23T17:30:00+01:00",
@@ -125,47 +67,9 @@
           "url": "https://www.curzon.com/ticketing/seats/CAM1-19735/"
         },
         {
-          "starts_at": "2023-10-23T13:45:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-85064/"
-        },
-        {
-          "starts_at": "2023-10-23T14:30:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-85065/"
-        },
-        {
           "starts_at": "2023-10-23T19:15:00+01:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-85063/"
-        }
-      ]
-    },
-    {
-      "title": "It Lives Inside",
-      "trailer": "https://www.youtube.com/watch?v=_WevCWQ7kMA",
-      "synopsis": "Sam, an Indian-American teen, lives in an idyllic suburb with her conservative mother and her assimilated father. Sam’s cultural insecurities grow due to her estranged friend, Tamira, who mysteriously carries around an empty mason jar all the time. In a moment of anger, Sam breaks Tamira’s jar and unleashes an ancient Indian demonic force that kidnaps Tamira. Sam searches for Tamira, following the trail of a young man who performed a deadly ritual, until the demonic entity starts targeting her, murdering her boyfriend and shattering her reality with terrifying visions. Sam must band together with her parents and a sympathetic teacher to save Tamira and put an end to the terror of the demon.",
-      "runtime": 99,
-      "times": [
-        {
-          "starts_at": "2023-10-23T15:40:00+01:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-44797/"
-        },
-        {
-          "starts_at": "2023-10-23T20:20:00+01:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-44800/"
-        },
-        {
-          "starts_at": "2023-10-23T15:00:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-19748/"
-        },
-        {
-          "starts_at": "2023-10-23T21:30:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-19743/"
         }
       ]
     },
@@ -179,11 +83,6 @@
           "starts_at": "2023-10-23T17:40:00+01:00",
           "site": "Curzon Aldgate",
           "url": "https://www.curzon.com/ticketing/seats/ALD1-44804/"
-        },
-        {
-          "starts_at": "2023-10-23T15:15:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-68213/"
         },
         {
           "starts_at": "2023-10-23T18:00:00+01:00",
@@ -209,14 +108,40 @@
           "url": "https://www.curzon.com/ticketing/seats/ALD1-44794/"
         },
         {
-          "starts_at": "2023-10-23T14:45:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-68210/"
-        },
-        {
           "starts_at": "2023-10-23T20:30:00+01:00",
           "site": "Curzon Victoria",
           "url": "https://www.curzon.com/ticketing/seats/VIC1-68212/"
+        }
+      ]
+    },
+    {
+      "title": "It Lives Inside",
+      "trailer": "https://www.youtube.com/watch?v=_WevCWQ7kMA",
+      "synopsis": "Sam, an Indian-American teen, lives in an idyllic suburb with her conservative mother and her assimilated father. Sam’s cultural insecurities grow due to her estranged friend, Tamira, who mysteriously carries around an empty mason jar all the time. In a moment of anger, Sam breaks Tamira’s jar and unleashes an ancient Indian demonic force that kidnaps Tamira. Sam searches for Tamira, following the trail of a young man who performed a deadly ritual, until the demonic entity starts targeting her, murdering her boyfriend and shattering her reality with terrifying visions. Sam must band together with her parents and a sympathetic teacher to save Tamira and put an end to the terror of the demon.",
+      "runtime": 99,
+      "times": [
+        {
+          "starts_at": "2023-10-23T20:20:00+01:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-44800/"
+        },
+        {
+          "starts_at": "2023-10-23T21:30:00+01:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-19743/"
+        }
+      ]
+    },
+    {
+      "title": "Saw X",
+      "trailer": "https://www.youtube.com/watch?v=AjEMxm7l0N0",
+      "synopsis": "John Kramer (Tobin Bell) is back. The most chilling installment of the SAW franchise yet explores the untold chapter of Jigsaw’s most personal game. Set between the events of SAW I and II, a sick and desperate John travels to Mexico for a risky and experimental medical procedure in hopes of a miracle cure for his cancer – only to discover the entire operation is a scam to defraud the most vulnerable. Armed with a newfound purpose, John returns to his work, turning the tables on the con artists in his signature visceral way through a series of ingenious and terrifying traps.",
+      "runtime": 118,
+      "times": [
+        {
+          "starts_at": "2023-10-23T21:00:00+01:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-44803/"
         }
       ]
     },
@@ -230,29 +155,6 @@
           "starts_at": "2023-10-23T21:20:00+01:00",
           "site": "Curzon Aldgate",
           "url": "https://www.curzon.com/ticketing/seats/ALD1-44795/"
-        }
-      ]
-    },
-    {
-      "title": "Mean Streets (50th Anniversary)",
-      "trailer": "https://www.youtube.com/watch?v=5lhJwhmPKxg",
-      "synopsis": "Martin Scorsese’s electrifying vision of sin and redemption — one of the most influential works of American independent cinema — starring Harvey Keitel and Robert De Niro. Presented in a new 4K digital restoration, approved by director Martin Scorsese and collaborator Thelma Schoonmaker.\n\nMartin Scorsese emerged as a generation-defining filmmaker with this gritty portrait of 1970s New York City, one of the most influential works of American independent cinema. Set in the insular Little Italy neighbourhood of Scorsese’s youth, Mean Streets follows guilt-ridden small-time ringleader Charlie (Harvey Keitel) as he deals with the debts owed by his dangerously volatile best pal, Johnny Boy (Robert De Niro), and pressure from his headstrong girlfriend, Teresa (Amy Robinson). As their intertwined lives spiral out of control, Scorsese showcases his precocious mastery of film style—evident in everything from his propulsive editing rhythms to the lovingly curated soundtrack—to create an electrifying vision of sin and redemption.",
-      "runtime": 112,
-      "times": [
-        {
-          "starts_at": "2023-10-23T15:00:00+01:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-41997/"
-        },
-        {
-          "starts_at": "2023-10-23T15:40:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-85077/"
-        },
-        {
-          "starts_at": "2023-10-23T20:50:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-85066/"
         }
       ]
     },
@@ -273,11 +175,6 @@
           "url": "https://www.curzon.com/ticketing/seats/VIC1-68216/"
         },
         {
-          "starts_at": "2023-10-23T15:40:00+01:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-13132/"
-        },
-        {
           "starts_at": "2023-10-23T18:20:00+01:00",
           "site": "Curzon Hoxton",
           "url": "https://www.curzon.com/ticketing/seats/HOX1-13131/"
@@ -286,11 +183,6 @@
           "starts_at": "2023-10-23T21:00:00+01:00",
           "site": "Curzon Hoxton",
           "url": "https://www.curzon.com/ticketing/seats/HOX1-13130/"
-        },
-        {
-          "starts_at": "2023-10-23T16:10:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-19742/"
         },
         {
           "starts_at": "2023-10-23T18:40:00+01:00",
@@ -303,11 +195,6 @@
           "url": "https://www.curzon.com/ticketing/seats/CAM1-19738/"
         },
         {
-          "starts_at": "2023-10-23T15:30:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-85069/"
-        },
-        {
           "starts_at": "2023-10-23T18:00:00+01:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-85070/"
@@ -316,39 +203,6 @@
           "starts_at": "2023-10-23T20:30:00+01:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-85071/"
-        }
-      ]
-    },
-    {
-      "title": "BlackBerry",
-      "trailer": "https://www.youtube.com/watch?v=13gFs_01ETA",
-      "synopsis": "Every era has its visionaries, and ‘BlackBerry,’ co-written by Director Matt Johnson and Producer Matthew Miller, investigates the brilliance of the individuals that invented the world’s first smartphone. Recounting the Canadian company’s humble yet chaotic rise to market dominance, ‘BlackBerry’ is a darkly comedic telling of the tragic tale of a Canadian company that revolutionized the way we communicate, before swiftly plummeting into obsolescence. \nIt’s 1996, and Mike Lazaridis (Jay Baruchel) and his business partner and best friend Douglas Fregin (Matt Johnson) are on the edge of creating the world’s first smartphone. Unfortunately for them, they are less business savvy than they are tech, and struggle to keep their company, Research in Motion, afloat. Everything changes when cunning business man Jim Balsillie (Glenn Howerton) agrees to join the company, bringing with him the money and experience needed to create and sell a prototype of their invention.\nSeemingly overnight the three men revolutionize the way people work, communicate and connect. Celebrities, politicians and businessmen are now addicted to their Blackberrys. The company's value skyrockets, yet within a few short years shady business dealings, personal grievances, and, perhaps most dangerously, the iPhone, threaten the company’s incredible success.",
-      "runtime": 120,
-      "times": [
-        {
-          "starts_at": "2023-10-23T15:45:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-68218/"
-        },
-        {
-          "starts_at": "2023-10-23T21:00:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-68215/"
-        },
-        {
-          "starts_at": "2023-10-23T15:20:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-19749/"
-        },
-        {
-          "starts_at": "2023-10-23T20:50:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-19746/"
-        },
-        {
-          "starts_at": "2023-10-23T14:10:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-85074/"
         }
       ]
     },
@@ -371,16 +225,29 @@
       ]
     },
     {
+      "title": "BlackBerry",
+      "trailer": "https://www.youtube.com/watch?v=13gFs_01ETA",
+      "synopsis": "Every era has its visionaries, and ‘BlackBerry,’ co-written by Director Matt Johnson and Producer Matthew Miller, investigates the brilliance of the individuals that invented the world’s first smartphone. Recounting the Canadian company’s humble yet chaotic rise to market dominance, ‘BlackBerry’ is a darkly comedic telling of the tragic tale of a Canadian company that revolutionized the way we communicate, before swiftly plummeting into obsolescence. \nIt’s 1996, and Mike Lazaridis (Jay Baruchel) and his business partner and best friend Douglas Fregin (Matt Johnson) are on the edge of creating the world’s first smartphone. Unfortunately for them, they are less business savvy than they are tech, and struggle to keep their company, Research in Motion, afloat. Everything changes when cunning business man Jim Balsillie (Glenn Howerton) agrees to join the company, bringing with him the money and experience needed to create and sell a prototype of their invention.\nSeemingly overnight the three men revolutionize the way people work, communicate and connect. Celebrities, politicians and businessmen are now addicted to their Blackberrys. The company's value skyrockets, yet within a few short years shady business dealings, personal grievances, and, perhaps most dangerously, the iPhone, threaten the company’s incredible success.",
+      "runtime": 120,
+      "times": [
+        {
+          "starts_at": "2023-10-23T21:00:00+01:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-68215/"
+        },
+        {
+          "starts_at": "2023-10-23T20:50:00+01:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-19746/"
+        }
+      ]
+    },
+    {
       "title": "The Great Escaper",
       "trailer": null,
       "synopsis": "In the summer of 2014, Bernard Jordan (Michael Caine) made global headlines. He had staged a “great escape” from his care home to join fellow war veterans on a beach in Normandy, commemorating their fallen comrades at the D-Day Landings 70th anniversary. It was a story that captured the imagination of the world as Bernie embodied the defiant, “can-do” spirit of a generation that was fast disappearing. But of course, it wasn’t the whole story. It was an inspirational but sanitised retelling of one man’s need to come to terms with the lasting trauma of war. Bernie’s adventure, spanning a mere 48 hours, also marked the culmination of his 60-year marriage to Rene (Glenda Jackson) – THE GREAT ESCAPER celebrates their enduring love but always with an eye to the lessons we might learn from the Greatest Generation.",
       "runtime": 96,
       "times": [
-        {
-          "starts_at": "2023-10-23T16:00:00+01:00",
-          "site": "Curzon Mayfair",
-          "url": "https://www.curzon.com/ticketing/seats/MAY1-25071/"
-        },
         {
           "starts_at": "2023-10-23T18:20:00+01:00",
           "site": "Curzon Mayfair",
@@ -412,19 +279,6 @@
       ]
     },
     {
-      "title": "DocHouse: The Pigeon Tunnel",
-      "trailer": null,
-      "synopsis": "Documentary great Errol Morris turns his eye to the storied life and career of former British spy David Cornwell — better known as John le Carré, author of such classic espionage novels as The Spy Who Came in from the Cold, Tinker Tailor Soldier Spy and The Constant Gardener.\r\n\r\nSet against the turbulent backdrop of the Cold War and leading into present day, The Pigeon Tunnel spans six decades as le Carré delivers his final and most candid interview, punctuated with rare archival footage.\r\n\r\nA game of question, obfuscation and revelation between Morris and le Carré, this deeply engaging film is an exploration of the latter's extraordinary life and the paper-thin membrane between fact and fiction.",
-      "runtime": 92,
-      "times": [
-        {
-          "starts_at": "2023-10-23T15:00:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-85107/"
-        }
-      ]
-    },
-    {
       "title": "Dumb Money",
       "trailer": "https://www.youtube.com/watch?v=_VxRoOZNaR8",
       "synopsis": "Dumb Money is based on the insane true story of the YouTuber who brought Wall Street to its knees and got rich by turning the video-game retailer GameStop into the world’s hottest company. In the middle of everything is regular guy Keith Gill (Paul Dano), who starts it all by sinking his life savings into the stock and posting about it. When his social posts start blowing up, so does his life and the lives of everyone following him. As a stock tip becomes a movement, everyone gets rich – until the billionaires fight back, and both sides find their worlds turned upside down.",
@@ -447,6 +301,19 @@
           "starts_at": "2023-10-23T18:10:00+01:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-85067/"
+        }
+      ]
+    },
+    {
+      "title": "Mean Streets (50th Anniversary)",
+      "trailer": "https://www.youtube.com/watch?v=5lhJwhmPKxg",
+      "synopsis": "Martin Scorsese’s electrifying vision of sin and redemption — one of the most influential works of American independent cinema — starring Harvey Keitel and Robert De Niro. Presented in a new 4K digital restoration, approved by director Martin Scorsese and collaborator Thelma Schoonmaker.\n\nMartin Scorsese emerged as a generation-defining filmmaker with this gritty portrait of 1970s New York City, one of the most influential works of American independent cinema. Set in the insular Little Italy neighbourhood of Scorsese’s youth, Mean Streets follows guilt-ridden small-time ringleader Charlie (Harvey Keitel) as he deals with the debts owed by his dangerously volatile best pal, Johnny Boy (Robert De Niro), and pressure from his headstrong girlfriend, Teresa (Amy Robinson). As their intertwined lives spiral out of control, Scorsese showcases his precocious mastery of film style—evident in everything from his propulsive editing rhythms to the lovingly curated soundtrack—to create an electrifying vision of sin and redemption.",
+      "runtime": 112,
+      "times": [
+        {
+          "starts_at": "2023-10-23T20:50:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-85066/"
         }
       ]
     },
@@ -2579,29 +2446,11 @@
   ],
   "2023-10-28": [
     {
-      "title": "Five Nights at Freddy's",
-      "trailer": "https://www.youtube.com/watch?v=UMj-GSXz60g",
-      "synopsis": "Can you survive five nights?\n\nThe terrifying horror game phenomenon becomes a blood-chilling cinematic event, as Blumhouse— the producer of M3GAN, The Black Phone and The Invisible Man— brings Five Nights at Freddy’s to the big screen.\n\nThe film follows a troubled security guard as he begins working at Freddy Fazbear’s Pizza. While spending his first night on the job, he realizes the night shift at Freddy’s won’t be so easy to make it through.\n\nThe film stars Josh Hutcherson (Ultraman, The Hunger Games franchise), Elizabeth Lail (You, Mack & Rita), Piper Rubio (Holly & Ivy, Unstable), Kat Conner Sterling (We Have a Ghost, 9-1-1), with Mary Stuart Masterson (Blindspot, Fried Green Tomatoes) and Matthew Lillard (Good Girls, Scream).\n\nFive Nights at Freddy’s is directed by Emma Tammi (The Wind, Blood Moon) and is written by Scott Cawthon, Emma Tammi and Seth Cuddeback.\n\nThe film’s iconic animatronic characters will be created by Jim Henson’s Creature Shop.\n\nFive Nights at Freddy’s is produced by Jason Blum and Scott Cawthon. The film’s executive producers are Bea Sequeira, Russell Binder, Marc Mostman and Christopher H. Warner. Universal Pictures presents a Blumhouse production, in association with Striker Entertainment.",
-      "runtime": 109,
-      "times": [
-        {
-          "starts_at": "2023-10-28T19:20:00+01:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-44607/"
-        }
-      ]
-    },
-    {
       "title": "The Killer",
       "trailer": null,
       "synopsis": "A man solitary and cold, methodical and unencumbered by scruples or regrets, the killer waits in the shadows, watching for his next target. And yet the longer he waits, the more he thinks he's losing his mind, if not his cool. A brutal, bloody and stylish noir story of a professional assassin lost in a world without a moral compass, this is a case study of a man alone, armed to the teeth and slowly losing his mind.",
       "runtime": 118,
       "times": [
-        {
-          "starts_at": "2023-10-28T22:00:00+01:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-44612/"
-        },
         {
           "starts_at": "2023-10-28T12:30:00+01:00",
           "site": "Curzon Soho",
@@ -2652,11 +2501,6 @@
           "starts_at": "2023-10-28T17:50:00+01:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-19862/"
-        },
-        {
-          "starts_at": "2023-10-28T21:40:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-85125/"
         }
       ]
     },
@@ -2849,7 +2693,7 @@
           "url": "https://www.curzon.com/ticketing/seats/HOX1-12997/"
         },
         {
-          "starts_at": "2023-10-29T17:20:00+00:00",
+          "starts_at": "2023-10-29T17:30:00+00:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-19863/"
         },
