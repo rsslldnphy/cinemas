@@ -7,11 +7,6 @@
       "runtime": 206,
       "times": [
         {
-          "starts_at": "2023-10-24T14:50:00+01:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-44816/"
-        },
-        {
           "starts_at": "2023-10-24T17:00:00+01:00",
           "site": "Curzon Aldgate",
           "url": "https://www.curzon.com/ticketing/seats/ALD1-44813/"
@@ -20,11 +15,6 @@
           "starts_at": "2023-10-24T19:00:00+01:00",
           "site": "Curzon Aldgate",
           "url": "https://www.curzon.com/ticketing/seats/ALD1-44084/"
-        },
-        {
-          "starts_at": "2023-10-24T15:20:00+01:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-41962/"
         },
         {
           "starts_at": "2023-10-24T17:00:00+01:00",
@@ -37,16 +27,6 @@
           "url": "https://www.curzon.com/ticketing/seats/SOH1-41963/"
         },
         {
-          "starts_at": "2023-10-24T14:00:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-68241/"
-        },
-        {
-          "starts_at": "2023-10-24T15:30:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-68242/"
-        },
-        {
           "starts_at": "2023-10-24T18:15:00+01:00",
           "site": "Curzon Victoria",
           "url": "https://www.curzon.com/ticketing/seats/VIC1-67460/"
@@ -57,24 +37,9 @@
           "url": "https://www.curzon.com/ticketing/seats/VIC1-67461/"
         },
         {
-          "starts_at": "2023-10-24T14:40:00+01:00",
-          "site": "Curzon Mayfair",
-          "url": "https://www.curzon.com/ticketing/seats/MAY1-25074/"
-        },
-        {
           "starts_at": "2023-10-24T19:00:00+01:00",
           "site": "Curzon Mayfair",
           "url": "https://www.curzon.com/ticketing/seats/MAY1-25073/"
-        },
-        {
-          "starts_at": "2023-10-24T13:50:00+01:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-13139/"
-        },
-        {
-          "starts_at": "2023-10-24T15:20:00+01:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-13140/"
         },
         {
           "starts_at": "2023-10-24T18:00:00+01:00",
@@ -87,11 +52,6 @@
           "url": "https://www.curzon.com/ticketing/seats/HOX1-12505/"
         },
         {
-          "starts_at": "2023-10-24T14:40:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-19753/"
-        },
-        {
           "starts_at": "2023-10-24T19:00:00+01:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-19062/"
@@ -102,70 +62,9 @@
           "url": "https://www.curzon.com/ticketing/seats/CAM1-19752/"
         },
         {
-          "starts_at": "2023-10-24T13:45:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-85085/"
-        },
-        {
-          "starts_at": "2023-10-24T14:30:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-85084/"
-        },
-        {
           "starts_at": "2023-10-24T19:20:00+01:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-84204/"
-        }
-      ]
-    },
-    {
-      "title": "A Haunting in Venice",
-      "trailer": "https://www.youtube.com/watch?v=LAywaWCFXgw",
-      "synopsis": "In post-World War II Venice, Poirot, now retired and living in his own exile, reluctantly attends a seance, when one of the guests is murdered, it is up to the former detective to once again uncover the killer.",
-      "runtime": 103,
-      "times": [
-        {
-          "starts_at": "2023-10-24T15:20:00+01:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-44810/"
-        },
-        {
-          "starts_at": "2023-10-24T15:15:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-68235/"
-        },
-        {
-          "starts_at": "2023-10-24T20:45:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-68240/"
-        }
-      ]
-    },
-    {
-      "title": "It Lives Inside",
-      "trailer": "https://www.youtube.com/watch?v=_WevCWQ7kMA",
-      "synopsis": "Sam, an Indian-American teen, lives in an idyllic suburb with her conservative mother and her assimilated father. Sam’s cultural insecurities grow due to her estranged friend, Tamira, who mysteriously carries around an empty mason jar all the time. In a moment of anger, Sam breaks Tamira’s jar and unleashes an ancient Indian demonic force that kidnaps Tamira. Sam searches for Tamira, following the trail of a young man who performed a deadly ritual, until the demonic entity starts targeting her, murdering her boyfriend and shattering her reality with terrifying visions. Sam must band together with her parents and a sympathetic teacher to save Tamira and put an end to the terror of the demon.",
-      "runtime": 99,
-      "times": [
-        {
-          "starts_at": "2023-10-24T16:00:00+01:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-44817/"
-        },
-        {
-          "starts_at": "2023-10-24T21:20:00+01:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-44814/"
-        },
-        {
-          "starts_at": "2023-10-24T15:00:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-19764/"
-        },
-        {
-          "starts_at": "2023-10-24T20:30:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-19759/"
         }
       ]
     },
@@ -219,11 +118,6 @@
           "url": "https://www.curzon.com/ticketing/seats/ALD1-44809/"
         },
         {
-          "starts_at": "2023-10-24T14:45:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-68238/"
-        },
-        {
           "starts_at": "2023-10-24T20:30:00+01:00",
           "site": "Curzon Victoria",
           "url": "https://www.curzon.com/ticketing/seats/VIC1-68236/"
@@ -244,25 +138,20 @@
       ]
     },
     {
-      "title": "Mean Streets (50th Anniversary)",
-      "trailer": "https://www.youtube.com/watch?v=5lhJwhmPKxg",
-      "synopsis": "Martin Scorsese’s electrifying vision of sin and redemption — one of the most influential works of American independent cinema — starring Harvey Keitel and Robert De Niro. Presented in a new 4K digital restoration, approved by director Martin Scorsese and collaborator Thelma Schoonmaker.\n\nMartin Scorsese emerged as a generation-defining filmmaker with this gritty portrait of 1970s New York City, one of the most influential works of American independent cinema. Set in the insular Little Italy neighbourhood of Scorsese’s youth, Mean Streets follows guilt-ridden small-time ringleader Charlie (Harvey Keitel) as he deals with the debts owed by his dangerously volatile best pal, Johnny Boy (Robert De Niro), and pressure from his headstrong girlfriend, Teresa (Amy Robinson). As their intertwined lives spiral out of control, Scorsese showcases his precocious mastery of film style—evident in everything from his propulsive editing rhythms to the lovingly curated soundtrack—to create an electrifying vision of sin and redemption.",
-      "runtime": 112,
+      "title": "It Lives Inside",
+      "trailer": "https://www.youtube.com/watch?v=_WevCWQ7kMA",
+      "synopsis": "Sam, an Indian-American teen, lives in an idyllic suburb with her conservative mother and her assimilated father. Sam’s cultural insecurities grow due to her estranged friend, Tamira, who mysteriously carries around an empty mason jar all the time. In a moment of anger, Sam breaks Tamira’s jar and unleashes an ancient Indian demonic force that kidnaps Tamira. Sam searches for Tamira, following the trail of a young man who performed a deadly ritual, until the demonic entity starts targeting her, murdering her boyfriend and shattering her reality with terrifying visions. Sam must band together with her parents and a sympathetic teacher to save Tamira and put an end to the terror of the demon.",
+      "runtime": 99,
       "times": [
         {
-          "starts_at": "2023-10-24T15:00:00+01:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-42001/"
+          "starts_at": "2023-10-24T21:20:00+01:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-44814/"
         },
         {
-          "starts_at": "2023-10-24T15:40:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-85088/"
-        },
-        {
-          "starts_at": "2023-10-24T20:50:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-85083/"
+          "starts_at": "2023-10-24T20:30:00+01:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-19759/"
         }
       ]
     },
@@ -296,24 +185,9 @@
           "url": "https://www.curzon.com/ticketing/seats/VIC1-68246/"
         },
         {
-          "starts_at": "2023-10-24T13:30:00+01:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-13134/"
-        },
-        {
-          "starts_at": "2023-10-24T16:00:00+01:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-13135/"
-        },
-        {
           "starts_at": "2023-10-24T21:00:00+01:00",
           "site": "Curzon Hoxton",
           "url": "https://www.curzon.com/ticketing/seats/HOX1-13137/"
-        },
-        {
-          "starts_at": "2023-10-24T16:10:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-19758/"
         },
         {
           "starts_at": "2023-10-24T18:40:00+01:00",
@@ -324,11 +198,6 @@
           "starts_at": "2023-10-24T21:10:00+01:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-19754/"
-        },
-        {
-          "starts_at": "2023-10-24T15:20:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-85080/"
         },
         {
           "starts_at": "2023-10-24T18:10:00+01:00",
@@ -361,39 +230,6 @@
       ]
     },
     {
-      "title": "BlackBerry",
-      "trailer": "https://www.youtube.com/watch?v=13gFs_01ETA",
-      "synopsis": "Every era has its visionaries, and ‘BlackBerry,’ co-written by Director Matt Johnson and Producer Matthew Miller, investigates the brilliance of the individuals that invented the world’s first smartphone. Recounting the Canadian company’s humble yet chaotic rise to market dominance, ‘BlackBerry’ is a darkly comedic telling of the tragic tale of a Canadian company that revolutionized the way we communicate, before swiftly plummeting into obsolescence. \nIt’s 1996, and Mike Lazaridis (Jay Baruchel) and his business partner and best friend Douglas Fregin (Matt Johnson) are on the edge of creating the world’s first smartphone. Unfortunately for them, they are less business savvy than they are tech, and struggle to keep their company, Research in Motion, afloat. Everything changes when cunning business man Jim Balsillie (Glenn Howerton) agrees to join the company, bringing with him the money and experience needed to create and sell a prototype of their invention.\nSeemingly overnight the three men revolutionize the way people work, communicate and connect. Celebrities, politicians and businessmen are now addicted to their Blackberrys. The company's value skyrockets, yet within a few short years shady business dealings, personal grievances, and, perhaps most dangerously, the iPhone, threaten the company’s incredible success.",
-      "runtime": 120,
-      "times": [
-        {
-          "starts_at": "2023-10-24T15:45:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-68244/"
-        },
-        {
-          "starts_at": "2023-10-24T21:00:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-68247/"
-        },
-        {
-          "starts_at": "2023-10-24T15:20:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-19765/"
-        },
-        {
-          "starts_at": "2023-10-24T20:50:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-19762/"
-        },
-        {
-          "starts_at": "2023-10-24T14:10:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-85091/"
-        }
-      ]
-    },
-    {
       "title": "Pain Hustlers",
       "trailer": "https://www.youtube.com/watch?v=iycLZM7ycbI",
       "synopsis": "Dreaming of a better life for her and her young daughter, Liza Drake, a high-school dropout, lands a job with a failing pharmaceutical start-up in a yellowing strip mall in Central Florida. Liza's charm, guts and drive catapult the company and her into the high life, where she soon finds herself at the center of a criminal conspiracy with deadly consequences.",
@@ -412,16 +248,42 @@
       ]
     },
     {
+      "title": "A Haunting in Venice",
+      "trailer": "https://www.youtube.com/watch?v=LAywaWCFXgw",
+      "synopsis": "In post-World War II Venice, Poirot, now retired and living in his own exile, reluctantly attends a seance, when one of the guests is murdered, it is up to the former detective to once again uncover the killer.",
+      "runtime": 103,
+      "times": [
+        {
+          "starts_at": "2023-10-24T20:45:00+01:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-68240/"
+        }
+      ]
+    },
+    {
+      "title": "BlackBerry",
+      "trailer": "https://www.youtube.com/watch?v=13gFs_01ETA",
+      "synopsis": "Every era has its visionaries, and ‘BlackBerry,’ co-written by Director Matt Johnson and Producer Matthew Miller, investigates the brilliance of the individuals that invented the world’s first smartphone. Recounting the Canadian company’s humble yet chaotic rise to market dominance, ‘BlackBerry’ is a darkly comedic telling of the tragic tale of a Canadian company that revolutionized the way we communicate, before swiftly plummeting into obsolescence. \nIt’s 1996, and Mike Lazaridis (Jay Baruchel) and his business partner and best friend Douglas Fregin (Matt Johnson) are on the edge of creating the world’s first smartphone. Unfortunately for them, they are less business savvy than they are tech, and struggle to keep their company, Research in Motion, afloat. Everything changes when cunning business man Jim Balsillie (Glenn Howerton) agrees to join the company, bringing with him the money and experience needed to create and sell a prototype of their invention.\nSeemingly overnight the three men revolutionize the way people work, communicate and connect. Celebrities, politicians and businessmen are now addicted to their Blackberrys. The company's value skyrockets, yet within a few short years shady business dealings, personal grievances, and, perhaps most dangerously, the iPhone, threaten the company’s incredible success.",
+      "runtime": 120,
+      "times": [
+        {
+          "starts_at": "2023-10-24T21:00:00+01:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-68247/"
+        },
+        {
+          "starts_at": "2023-10-24T20:50:00+01:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-19762/"
+        }
+      ]
+    },
+    {
       "title": "The Great Escaper",
       "trailer": null,
       "synopsis": "In the summer of 2014, Bernard Jordan (Michael Caine) made global headlines. He had staged a “great escape” from his care home to join fellow war veterans on a beach in Normandy, commemorating their fallen comrades at the D-Day Landings 70th anniversary. It was a story that captured the imagination of the world as Bernie embodied the defiant, “can-do” spirit of a generation that was fast disappearing. But of course, it wasn’t the whole story. It was an inspirational but sanitised retelling of one man’s need to come to terms with the lasting trauma of war. Bernie’s adventure, spanning a mere 48 hours, also marked the culmination of his 60-year marriage to Rene (Glenda Jackson) – THE GREAT ESCAPER celebrates their enduring love but always with an eye to the lessons we might learn from the Greatest Generation.",
       "runtime": 96,
       "times": [
-        {
-          "starts_at": "2023-10-24T15:40:00+01:00",
-          "site": "Curzon Mayfair",
-          "url": "https://www.curzon.com/ticketing/seats/MAY1-25078/"
-        },
         {
           "starts_at": "2023-10-24T20:20:00+01:00",
           "site": "Curzon Mayfair",
@@ -444,19 +306,6 @@
           "starts_at": "2023-10-24T18:40:00+01:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-85087/"
-        }
-      ]
-    },
-    {
-      "title": "DocHouse: Cassius X: Becoming Ali",
-      "trailer": null,
-      "synopsis": "How did rookie boxer Cassius Clay transform into World Heavyweight Champion and civil rights hero Muhammad Ali? Muta'Ali's enlightening film examines both the evolution of his craft in his pursuit to become 'The Greatest', and also his spiritual journey from Clay, to Cassius X, to Ali.\r\n\r\nThe film delves into his induction into the Nation of Islam, tracing how his close friendship with Malcolm X set him on a path of awakening. Adopting a new identity and ideology, he stepped forward as a key figure in the Civil Rights Movement.\r\n\r\nCassius X: Becoming Ali gives us new, refreshing access to Muhammad Ali. Featuring interviews with those close to him and archive footage of his early professional career, we learn how a young and inexperienced boxer fought against the status quo and became an icon.",
-      "runtime": 90,
-      "times": [
-        {
-          "starts_at": "2023-10-24T15:00:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-85108/"
         }
       ]
     },
@@ -509,6 +358,19 @@
           "starts_at": "2023-10-24T20:20:00+01:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-85110/"
+        }
+      ]
+    },
+    {
+      "title": "Mean Streets (50th Anniversary)",
+      "trailer": "https://www.youtube.com/watch?v=5lhJwhmPKxg",
+      "synopsis": "Martin Scorsese’s electrifying vision of sin and redemption — one of the most influential works of American independent cinema — starring Harvey Keitel and Robert De Niro. Presented in a new 4K digital restoration, approved by director Martin Scorsese and collaborator Thelma Schoonmaker.\n\nMartin Scorsese emerged as a generation-defining filmmaker with this gritty portrait of 1970s New York City, one of the most influential works of American independent cinema. Set in the insular Little Italy neighbourhood of Scorsese’s youth, Mean Streets follows guilt-ridden small-time ringleader Charlie (Harvey Keitel) as he deals with the debts owed by his dangerously volatile best pal, Johnny Boy (Robert De Niro), and pressure from his headstrong girlfriend, Teresa (Amy Robinson). As their intertwined lives spiral out of control, Scorsese showcases his precocious mastery of film style—evident in everything from his propulsive editing rhythms to the lovingly curated soundtrack—to create an electrifying vision of sin and redemption.",
+      "runtime": 112,
+      "times": [
+        {
+          "starts_at": "2023-10-24T20:50:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-85083/"
         }
       ]
     }
@@ -1467,19 +1329,6 @@
           "starts_at": "2023-10-26T18:40:00+01:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-85021/"
-        }
-      ]
-    },
-    {
-      "title": "Raindance 2023: Typist Artist Pirate King",
-      "trailer": null,
-      "synopsis": "In a last-ditch mission to get recognition for her talent, a non-conformist, forgotten artist persuades her psychiatric nurse to take her on a road trip back to where her story began – but with so many deviations into the past along the way, will they ever make it?\r\n\r\nA dark and funny exploration of the growing friendship between two women as they hit the road in an electric car looking for endings. A road movie and a buddy movie which shifts from tender social commentary to fantastical magical realism filled with humour, vivacity and adventure.",
-      "runtime": 108,
-      "times": [
-        {
-          "starts_at": "2023-10-26T18:20:00+01:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-41572/"
         }
       ]
     },
