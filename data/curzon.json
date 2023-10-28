@@ -1,21 +1,34 @@
 {
   "2023-10-28": [
     {
+      "title": "TAYLOR SWIFT | THE ERAS TOUR",
+      "trailer": null,
+      "synopsis": "The cultural phenomenon continues on the big screen! Immerse yourself in this once-in-a-lifetime concert film experience with a breathtaking, cinematic view of the history-making tour. Taylor Swift Eras attire and friendship bracelets are strongly encouraged!",
+      "runtime": 168,
+      "times": [
+        {
+          "starts_at": "2023-10-28T17:40:00+01:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-44872/"
+        },
+        {
+          "starts_at": "2023-10-28T20:00:00+01:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-68293/"
+        },
+        {
+          "starts_at": "2023-10-28T19:50:00+01:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-19920/"
+        }
+      ]
+    },
+    {
       "title": "Killers Of The Flower Moon",
       "trailer": "https://www.youtube.com/watch?v=nFoIg72KGIk",
       "synopsis": "At the turn of the 20th century, oil brought a fortune to the Osage Nation, who became some of the richest people in the world overnight. The wealth of these Native Americans immediately attracted white interlopers, who manipulated, extorted, and stole as much Osage money as they could before resorting to murder. Based on a true story and told through the improbable romance of Ernest Burkhart (Leonardo DiCaprio) and Mollie Kyle (Lily Gladstone), “Killers of the Flower Moon” is an epic western crime saga, where real love crosses paths with unspeakable betrayal. Also starring Robert De Niro and Jesse Plemons, “Killers of the Flower Moon” is directed by Academy Award winner Martin Scorsese from a screenplay by Eric Roth and Martin Scorsese, based on David Grann’s best-selling book.",
       "runtime": 206,
       "times": [
-        {
-          "starts_at": "2023-10-28T13:40:00+01:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-44880/"
-        },
-        {
-          "starts_at": "2023-10-28T15:20:00+01:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-44605/"
-        },
         {
           "starts_at": "2023-10-28T18:00:00+01:00",
           "site": "Curzon Aldgate",
@@ -27,24 +40,9 @@
           "url": "https://www.curzon.com/ticketing/seats/ALD1-44610/"
         },
         {
-          "starts_at": "2023-10-28T15:40:00+01:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-41839/"
-        },
-        {
           "starts_at": "2023-10-28T19:50:00+01:00",
           "site": "Curzon Soho",
           "url": "https://www.curzon.com/ticketing/seats/SOH1-41838/"
-        },
-        {
-          "starts_at": "2023-10-28T13:45:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-68283/"
-        },
-        {
-          "starts_at": "2023-10-28T15:30:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-68280/"
         },
         {
           "starts_at": "2023-10-28T18:15:00+01:00",
@@ -57,24 +55,9 @@
           "url": "https://www.curzon.com/ticketing/seats/VIC1-68288/"
         },
         {
-          "starts_at": "2023-10-28T14:40:00+01:00",
-          "site": "Curzon Mayfair",
-          "url": "https://www.curzon.com/ticketing/seats/MAY1-25110/"
-        },
-        {
           "starts_at": "2023-10-28T19:00:00+01:00",
           "site": "Curzon Mayfair",
           "url": "https://www.curzon.com/ticketing/seats/MAY1-25112/"
-        },
-        {
-          "starts_at": "2023-10-28T13:40:00+01:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-13219/"
-        },
-        {
-          "starts_at": "2023-10-28T15:20:00+01:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-13178/"
         },
         {
           "starts_at": "2023-10-28T18:20:00+01:00",
@@ -87,42 +70,14 @@
           "url": "https://www.curzon.com/ticketing/seats/HOX1-13180/"
         },
         {
-          "starts_at": "2023-10-28T15:00:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-19915/"
-        },
-        {
           "starts_at": "2023-10-28T19:30:00+01:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-19912/"
         },
         {
-          "starts_at": "2023-10-28T15:20:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-85251/"
-        },
-        {
           "starts_at": "2023-10-28T19:30:00+01:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-85250/"
-        }
-      ]
-    },
-    {
-      "title": "Cat Person",
-      "trailer": "https://www.youtube.com/watch?v=8jMv_5heIBQ",
-      "synopsis": "When Margot (Emilia Jones), a college sophomore goes on a date with the older Robert (Nicholas Braun), she finds that IRL Robert doesn’t live up to the Robert she has been flirting with over texts. CAT PERSON is a razor-sharp exploration of the gender divide, the quagmire of navigating modern dating and the dangerous projections we make in our minds about the person at the other end of our phones.",
-      "runtime": 118,
-      "times": [
-        {
-          "starts_at": "2023-10-28T15:00:00+01:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-44877/"
-        },
-        {
-          "starts_at": "2023-10-28T21:20:00+01:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-44879/"
         }
       ]
     },
@@ -133,47 +88,9 @@
       "runtime": 109,
       "times": [
         {
-          "starts_at": "2023-10-28T15:40:00+01:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-44938/"
-        },
-        {
           "starts_at": "2023-10-28T18:20:00+01:00",
           "site": "Curzon Aldgate",
           "url": "https://www.curzon.com/ticketing/seats/ALD1-44607/"
-        }
-      ]
-    },
-    {
-      "title": "TAYLOR SWIFT | THE ERAS TOUR",
-      "trailer": null,
-      "synopsis": "The cultural phenomenon continues on the big screen! Immerse yourself in this once-in-a-lifetime concert film experience with a breathtaking, cinematic view of the history-making tour. Taylor Swift Eras attire and friendship bracelets are strongly encouraged!",
-      "runtime": 168,
-      "times": [
-        {
-          "starts_at": "2023-10-28T17:40:00+01:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-44872/"
-        },
-        {
-          "starts_at": "2023-10-28T14:00:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-68290/"
-        },
-        {
-          "starts_at": "2023-10-28T20:00:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-68293/"
-        },
-        {
-          "starts_at": "2023-10-28T16:15:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-19917/"
-        },
-        {
-          "starts_at": "2023-10-28T19:50:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-19920/"
         }
       ]
     },
@@ -189,19 +106,9 @@
           "url": "https://www.curzon.com/ticketing/seats/ALD1-44612/"
         },
         {
-          "starts_at": "2023-10-28T15:00:00+01:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-42023/"
-        },
-        {
           "starts_at": "2023-10-28T20:30:00+01:00",
           "site": "Curzon Soho",
           "url": "https://www.curzon.com/ticketing/seats/SOH1-41709/"
-        },
-        {
-          "starts_at": "2023-10-28T15:15:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-68281/"
         },
         {
           "starts_at": "2023-10-28T21:00:00+01:00",
@@ -219,11 +126,6 @@
           "url": "https://www.curzon.com/ticketing/seats/CAM1-19695/"
         },
         {
-          "starts_at": "2023-10-28T15:40:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-85248/"
-        },
-        {
           "starts_at": "2023-10-28T18:20:00+01:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-85252/"
@@ -236,15 +138,15 @@
       ]
     },
     {
-      "title": "Raindance 2023: Mountain Onion",
-      "trailer": null,
-      "synopsis": "11-year-old Jabai sells mountain onions alongside the highway and one day he catches his idol trucker having sex with his mom. Jabai and his sister embark on a journey from their small village in Kazakhstan to China, to obtain the only thing that will save their father, the ‘Golden Viagra’.",
-      "runtime": 90,
+      "title": "Cat Person",
+      "trailer": "https://www.youtube.com/watch?v=8jMv_5heIBQ",
+      "synopsis": "When Margot (Emilia Jones), a college sophomore goes on a date with the older Robert (Nicholas Braun), she finds that IRL Robert doesn’t live up to the Robert she has been flirting with over texts. CAT PERSON is a razor-sharp exploration of the gender divide, the quagmire of navigating modern dating and the dangerous projections we make in our minds about the person at the other end of our phones.",
+      "runtime": 118,
       "times": [
         {
-          "starts_at": "2023-10-28T15:20:00+01:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-41574/"
+          "starts_at": "2023-10-28T21:20:00+01:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-44879/"
         }
       ]
     },
@@ -275,19 +177,9 @@
           "url": "https://www.curzon.com/ticketing/seats/MAY1-25108/"
         },
         {
-          "starts_at": "2023-10-28T15:00:00+01:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-13181/"
-        },
-        {
           "starts_at": "2023-10-28T20:40:00+01:00",
           "site": "Curzon Hoxton",
           "url": "https://www.curzon.com/ticketing/seats/HOX1-13001/"
-        },
-        {
-          "starts_at": "2023-10-28T14:45:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-19907/"
         },
         {
           "starts_at": "2023-10-28T17:50:00+01:00",
@@ -298,11 +190,6 @@
           "starts_at": "2023-10-28T20:50:00+01:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-19919/"
-        },
-        {
-          "starts_at": "2023-10-28T15:00:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-85241/"
         },
         {
           "starts_at": "2023-10-28T17:50:00+01:00",
@@ -343,16 +230,34 @@
       ]
     },
     {
+      "title": "Past Lives",
+      "trailer": "https://www.youtube.com/watch?v=WJTnve_kdu0",
+      "synopsis": "Nora and Hae Sung, two deeply connected childhood friends, are wrest apart after Nora’s family emigrates from South Korea. Two decades later, they are reunited in New York for one fateful week as they confront notions of destiny, love, and the choices that make a life, in this heartrending modern romance.",
+      "runtime": 106,
+      "times": [
+        {
+          "starts_at": "2023-10-28T17:30:00+01:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-68292/"
+        },
+        {
+          "starts_at": "2023-10-28T18:10:00+01:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-19913/"
+        },
+        {
+          "starts_at": "2023-10-28T18:30:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-85238/"
+        }
+      ]
+    },
+    {
       "title": "A Haunting in Venice",
       "trailer": "https://www.youtube.com/watch?v=LAywaWCFXgw",
       "synopsis": "In post-World War II Venice, Poirot, now retired and living in his own exile, reluctantly attends a seance, when one of the guests is murdered, it is up to the former detective to once again uncover the killer.",
       "runtime": 103,
       "times": [
-        {
-          "starts_at": "2023-10-28T15:00:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-68282/"
-        },
         {
           "starts_at": "2023-10-28T17:45:00+01:00",
           "site": "Curzon Victoria",
@@ -366,89 +271,15 @@
       ]
     },
     {
-      "title": "Past Lives",
-      "trailer": "https://www.youtube.com/watch?v=WJTnve_kdu0",
-      "synopsis": "Nora and Hae Sung, two deeply connected childhood friends, are wrest apart after Nora’s family emigrates from South Korea. Two decades later, they are reunited in New York for one fateful week as they confront notions of destiny, love, and the choices that make a life, in this heartrending modern romance.",
-      "runtime": 106,
-      "times": [
-        {
-          "starts_at": "2023-10-28T17:30:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-68292/"
-        },
-        {
-          "starts_at": "2023-10-28T15:30:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-19906/"
-        },
-        {
-          "starts_at": "2023-10-28T18:10:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-19913/"
-        },
-        {
-          "starts_at": "2023-10-28T16:00:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-85239/"
-        },
-        {
-          "starts_at": "2023-10-28T18:30:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-85238/"
-        }
-      ]
-    },
-    {
       "title": "The Great Escaper",
       "trailer": null,
       "synopsis": "In the summer of 2014, Bernard Jordan (Michael Caine) made global headlines. He had staged a “great escape” from his care home to join fellow war veterans on a beach in Normandy, commemorating their fallen comrades at the D-Day Landings 70th anniversary. It was a story that captured the imagination of the world as Bernie embodied the defiant, “can-do” spirit of a generation that was fast disappearing. But of course, it wasn’t the whole story. It was an inspirational but sanitised retelling of one man’s need to come to terms with the lasting trauma of war. Bernie’s adventure, spanning a mere 48 hours, also marked the culmination of his 60-year marriage to Rene (Glenda Jackson) – THE GREAT ESCAPER celebrates their enduring love but always with an eye to the lessons we might learn from the Greatest Generation.",
       "runtime": 96,
       "times": [
         {
-          "starts_at": "2023-10-28T13:40:00+01:00",
-          "site": "Curzon Mayfair",
-          "url": "https://www.curzon.com/ticketing/seats/MAY1-25113/"
-        },
-        {
           "starts_at": "2023-10-28T18:20:00+01:00",
           "site": "Curzon Mayfair",
           "url": "https://www.curzon.com/ticketing/seats/MAY1-25111/"
-        }
-      ]
-    },
-    {
-      "title": "Daliland",
-      "trailer": "https://www.youtube.com/watch?v=CdEaC7kWztw",
-      "synopsis": "From the Director of American Psycho, Academy Award winner Sir Ben Kingsley stars as the great surrealist artist, Salvador Dali. In 1970s New York, Dali enjoys the latter stage of his career with a lifestyle filled with luxury and extravagant parties. Surrounded by his own decadence, and his band of eccentric followers (Rupert Graves, Suki Waterhouse, Andreja Pejic) who worship his charismatic persona, he is content with avoiding a fast-approaching art show and the demands of his formidable wife, Gala (Barbara Sukowa).\nThe story is told through the eyes of James Linton (Christopher Briney), a young gallery assistant, keen to make his name in the art world. After quickly becoming enraptured by the provocative world of Dali, the façade begins to fade when he uncovers that behind the glitz and glamour lies a fragile genius, haunted by the past and unprepared for the changing tide of the world around him.",
-      "runtime": 96,
-      "times": [
-        {
-          "starts_at": "2023-10-28T16:00:00+01:00",
-          "site": "Curzon Mayfair",
-          "url": "https://www.curzon.com/ticketing/seats/MAY1-25109/"
-        }
-      ]
-    },
-    {
-      "title": "Typist Artist Pirate King",
-      "trailer": "https://www.youtube.com/watch?v=Ilq_FiqQah4",
-      "synopsis": "TYPIST ARTIST PIRATE KING puts forgotten artist Audrey Amiss on the map. Inspired by her extensive archive of diaries, letters and art, the film weaves real events into an imagined journey as Audrey goes on a road trip with her psychiatric nurse.\n\nFrom acclaimed British filmmaker, Carol Morley, this dark and funny exploration of the growing friendship between two women as they hit the road in an electric car looking for reconciliation, is filled with adventure, humour and compassion.",
-      "runtime": 108,
-      "times": [
-        {
-          "starts_at": "2023-10-28T15:45:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-19905/"
-        },
-        {
-          "starts_at": "2023-10-28T21:10:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-19916/"
-        },
-        {
-          "starts_at": "2023-10-28T18:50:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-85244/"
         }
       ]
     },
@@ -466,33 +297,20 @@
       ]
     },
     {
-      "title": "DocHouse: Beyond Utopia",
-      "trailer": null,
-      "synopsis": "Gripping, visceral and urgent, Beyond Utopia embeds the viewer with a family of defectors as they attempt to flee North Korea, one of the most oppressive places on Earth - a land they grew up believing was a paradise.",
-      "runtime": 115,
+      "title": "Typist Artist Pirate King",
+      "trailer": "https://www.youtube.com/watch?v=Ilq_FiqQah4",
+      "synopsis": "TYPIST ARTIST PIRATE KING puts forgotten artist Audrey Amiss on the map. Inspired by her extensive archive of diaries, letters and art, the film weaves real events into an imagined journey as Audrey goes on a road trip with her psychiatric nurse.\n\nFrom acclaimed British filmmaker, Carol Morley, this dark and funny exploration of the growing friendship between two women as they hit the road in an electric car looking for reconciliation, is filled with adventure, humour and compassion.",
+      "runtime": 108,
       "times": [
         {
-          "starts_at": "2023-10-28T13:30:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-85284/"
+          "starts_at": "2023-10-28T21:10:00+01:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-19916/"
         },
         {
-          "starts_at": "2023-10-28T18:00:00+01:00",
+          "starts_at": "2023-10-28T18:50:00+01:00",
           "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-84760/"
-        }
-      ]
-    },
-    {
-      "title": "DocHouse: Pianoforte",
-      "trailer": null,
-      "synopsis": "Considered to be one of the most prestigious competitions in classical music, the International Chopin Piano Competition, held in Warsaw every five years since 1927, has been a career launchpad for the world's greatest piano virtuosos.\r\n\r\nPianoforte navigates its way through the multi-stage competition alongside a selection of 2021's elite young hopefuls. We plunge deep into this world of nuanced notes and high drama, in a riveting, adrenaline rush of a film. The pressure is enormous, the practice is exacting, the performances are ecstatic.",
-      "runtime": 91,
-      "times": [
-        {
-          "starts_at": "2023-10-28T16:00:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-85133/"
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-85244/"
         }
       ]
     },
@@ -511,6 +329,19 @@
           "starts_at": "2023-10-28T21:20:00+01:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-85243/"
+        }
+      ]
+    },
+    {
+      "title": "DocHouse: Beyond Utopia",
+      "trailer": null,
+      "synopsis": "Gripping, visceral and urgent, Beyond Utopia embeds the viewer with a family of defectors as they attempt to flee North Korea, one of the most oppressive places on Earth - a land they grew up believing was a paradise.",
+      "runtime": 115,
+      "times": [
+        {
+          "starts_at": "2023-10-28T18:00:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-84760/"
         }
       ]
     },
