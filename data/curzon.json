@@ -1,19 +1,4 @@
 {
-  "2023-10-28": [
-    {
-      "title": "Last Night in Soho",
-      "trailer": "https://www.youtube.com/watch?v=XgNrL4Kf7yU",
-      "synopsis": "In acclaimed director, Edgar Wright’s psychological thriller, Eloise, an aspiring fashion designer, is mysteriously able to enter the 1960s where she encounters a dazzling wannabe singer, Sandie. But the glamour is not all it appears to be and the dreams of the past start to crack and splinter into something far darker.",
-      "runtime": 117,
-      "times": [
-        {
-          "starts_at": "2023-10-28T23:30:00+01:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-41948/"
-        }
-      ]
-    }
-  ],
   "2023-10-29": [
     {
       "title": "Killers Of The Flower Moon",
@@ -3463,6 +3448,75 @@
           "starts_at": "2023-11-04T20:20:00+00:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-84764/"
+        }
+      ]
+    }
+  ],
+  "2023-11-05": [
+    {
+      "title": "On the Adamant",
+      "trailer": "https://www.youtube.com/watch?v=vmWDHgsW8BM",
+      "synopsis": "The Adamant is a unique day-care centre. A floating structure located on the Seine in the heart of Paris, it welcomes adults suffering from mental disorders, offering the kind of care that grounds them in time and space and helps them to recover or keep up their spirits. The team running it tries to resist the deterioration and dehumanisation of psychiatry as best as they can.",
+      "runtime": 114,
+      "times": [
+        {
+          "starts_at": "2023-11-05T17:00:00+00:00",
+          "site": "Curzon Soho",
+          "url": "https://www.curzon.com/ticketing/seats/SOH1-42056/"
+        },
+        {
+          "starts_at": "2023-11-05T13:40:00+00:00",
+          "site": "Curzon Hoxton",
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-13254/"
+        },
+        {
+          "starts_at": "2023-11-05T20:00:00+00:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-20001/"
+        },
+        {
+          "starts_at": "2023-11-05T18:10:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-85328/"
+        }
+      ]
+    },
+    {
+      "title": "DocHouse: Native Spirit: Wapikoni Shorts",
+      "trailer": null,
+      "synopsis": "Native Spirit Film Festival 2023 presents Turtle Island Tales (Torcheu Aachimow) - a showcase of short films from the Wapikoni Mobile project.\r\n\r\nWapikoni Mobile is a travelling studio that trains First Nation, Metis and Inuit Peoples in Canada and facilitates their creation and sharing of audiovisual media. Curated by Jack Belhumeur, this programme of twelve shorts showcases the versatile and diverse experiences of the Wapikoni Mobile participants.",
+      "runtime": 75,
+      "times": [
+        {
+          "starts_at": "2023-11-05T14:00:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-84766/"
+        }
+      ]
+    },
+    {
+      "title": "Persona",
+      "trailer": "https://www.youtube.com/watch?v=XFqwYrbARB0",
+      "synopsis": "Peter Cowie introduces Ingmar Bergman's classic Persona and talks about his new book, God and the Devil, a chronical of the life and stage career of the Swedish auteur, who wrestles of themes of love, sex and betrayal with the figure of Death hovering overhead. Blending biographical information with critical comment, Cowie presents a man whose life and work were intimately fused. The author will sign copies of the book following the screening.\r\nBergman's modernist masterpiece explores the volatile relationship between an actress who refuses to speak and the nurse overseeing her convalescence.\r\n After a mischievous montage 'explaining' the film's origins, the narrative proper gets underway, charting the increasingly tense battle of wits between the chatty Alma (Andersson) and the mute Elisabet (Ullmann), who are isolated together in a cottage on the island of Fårö. With a rich, resonant mix of related themes - the vampiric nature of art, the complex fragility of personality, the difficulty of communication - the film is arguably Bergman's most audacious and formally innovative work, multi-levelled yet utterly lucid. Sven Nykvist's lustrous camerawork, the subtle sound design and matchless lead performances combine to create a mesmerisingly beautiful work of unforgettable, haunting mystery.\r\nWith thanks to Faber & Faber.",
+      "runtime": 84,
+      "times": [
+        {
+          "starts_at": "2023-11-05T15:00:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-83852/"
+        }
+      ]
+    },
+    {
+      "title": "DocHouse: Apolonia Apolonia",
+      "trailer": null,
+      "synopsis": "A captivating portrait of award-winning visual artist Apolonia Sokol - a unique soul, steadfast in forging her own path, taking the art world by storm.\r\n\r\nBorn in an underground theatre to Parisian bohemians before growing up in an artists' community, from the very start Apolonia’s story is far from conventional. Covering a span of 13 years, director Lea Glob follows Apolonia’s attempts to find her place - both in the artworld and in her own life story. But Apolonia's resilience is put to the test as she navigates an often-unforgiving industry.\r\n\r\nApolonia Apolonia celebrates the intimacy and friendship created between its filmmaker and subject. A mesmerising documentary that develops over a decade of filming, and delves into how womanhood can be embraced in a patriarchal world.",
+      "runtime": 116,
+      "times": [
+        {
+          "starts_at": "2023-11-05T16:30:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-84765/"
         }
       ]
     }
