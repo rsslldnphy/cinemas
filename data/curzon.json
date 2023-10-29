@@ -1,44 +1,11 @@
 {
   "2023-10-29": [
     {
-      "title": "TAYLOR SWIFT | THE ERAS TOUR",
-      "trailer": null,
-      "synopsis": "The cultural phenomenon continues on the big screen! Immerse yourself in this once-in-a-lifetime concert film experience with a breathtaking, cinematic view of the history-making tour. Taylor Swift Eras attire and friendship bracelets are strongly encouraged!",
-      "runtime": 168,
-      "times": [
-        {
-          "starts_at": "2023-10-29T17:20:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-44885/"
-        },
-        {
-          "starts_at": "2023-10-29T19:30:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-68308/"
-        },
-        {
-          "starts_at": "2023-10-29T15:30:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-19929/"
-        },
-        {
-          "starts_at": "2023-10-29T19:00:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-19926/"
-        }
-      ]
-    },
-    {
       "title": "Killers Of The Flower Moon",
       "trailer": "https://www.youtube.com/watch?v=nFoIg72KGIk",
       "synopsis": "At the turn of the 20th century, oil brought a fortune to the Osage Nation, who became some of the richest people in the world overnight. The wealth of these Native Americans immediately attracted white interlopers, who manipulated, extorted, and stole as much Osage money as they could before resorting to murder. Based on a true story and told through the improbable romance of Ernest Burkhart (Leonardo DiCaprio) and Mollie Kyle (Lily Gladstone), “Killers of the Flower Moon” is an epic western crime saga, where real love crosses paths with unspeakable betrayal. Also starring Robert De Niro and Jesse Plemons, “Killers of the Flower Moon” is directed by Academy Award winner Martin Scorsese from a screenplay by Eric Roth and Martin Scorsese, based on David Grann’s best-selling book.",
       "runtime": 206,
       "times": [
-        {
-          "starts_at": "2023-10-29T17:40:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-44886/"
-        },
         {
           "starts_at": "2023-10-29T19:30:00+00:00",
           "site": "Curzon Aldgate",
@@ -50,29 +17,14 @@
           "url": "https://www.curzon.com/ticketing/seats/SOH1-41847/"
         },
         {
-          "starts_at": "2023-10-29T17:45:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-68305/"
-        },
-        {
           "starts_at": "2023-10-29T19:15:00+00:00",
           "site": "Curzon Victoria",
           "url": "https://www.curzon.com/ticketing/seats/VIC1-68304/"
         },
         {
-          "starts_at": "2023-10-29T15:40:00+00:00",
-          "site": "Curzon Mayfair",
-          "url": "https://www.curzon.com/ticketing/seats/MAY1-24961/"
-        },
-        {
           "starts_at": "2023-10-29T19:15:00+00:00",
           "site": "Curzon Mayfair",
           "url": "https://www.curzon.com/ticketing/seats/MAY1-25118/"
-        },
-        {
-          "starts_at": "2023-10-29T18:20:00+00:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-13006/"
         },
         {
           "starts_at": "2023-10-29T19:20:00+00:00",
@@ -88,49 +40,6 @@
           "starts_at": "2023-10-29T19:10:00+00:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-85265/"
-        }
-      ]
-    },
-    {
-      "title": "The Killer",
-      "trailer": null,
-      "synopsis": "A man solitary and cold, methodical and unencumbered by scruples or regrets, the killer waits in the shadows, watching for his next target. And yet the longer he waits, the more he thinks he's losing his mind, if not his cool. A brutal, bloody and stylish noir story of a professional assassin lost in a world without a moral compass, this is a case study of a man alone, armed to the teeth and slowly losing his mind.",
-      "runtime": 118,
-      "times": [
-        {
-          "starts_at": "2023-10-29T18:00:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-44778/"
-        },
-        {
-          "starts_at": "2023-10-29T20:30:00+00:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-41843/"
-        },
-        {
-          "starts_at": "2023-10-29T20:30:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-68145/"
-        },
-        {
-          "starts_at": "2023-10-29T20:50:00+00:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-12998/"
-        },
-        {
-          "starts_at": "2023-10-29T18:00:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-19699/"
-        },
-        {
-          "starts_at": "2023-10-29T16:20:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-85253/"
-        },
-        {
-          "starts_at": "2023-10-29T20:45:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-85269/"
         }
       ]
     },
@@ -167,44 +76,14 @@
       "runtime": 128,
       "times": [
         {
-          "starts_at": "2023-10-29T17:00:00+00:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-41850/"
-        },
-        {
           "starts_at": "2023-10-29T20:00:00+00:00",
           "site": "Curzon Soho",
           "url": "https://www.curzon.com/ticketing/seats/SOH1-41851/"
         },
         {
-          "starts_at": "2023-10-29T17:30:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-68294/"
-        },
-        {
-          "starts_at": "2023-10-29T16:20:00+00:00",
-          "site": "Curzon Mayfair",
-          "url": "https://www.curzon.com/ticketing/seats/MAY1-25114/"
-        },
-        {
-          "starts_at": "2023-10-29T18:00:00+00:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-12997/"
-        },
-        {
-          "starts_at": "2023-10-29T17:30:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-19863/"
-        },
-        {
           "starts_at": "2023-10-29T20:20:00+00:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-19927/"
-        },
-        {
-          "starts_at": "2023-10-29T17:20:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-85256/"
         },
         {
           "starts_at": "2023-10-29T20:10:00+00:00",
@@ -214,38 +93,48 @@
       ]
     },
     {
-      "title": "Raindance 2023: Embers",
+      "title": "The Killer",
       "trailer": null,
-      "synopsis": "Amy, a sexual surrogate, is employed to help a high-security psychiatric patient overcome his intimacy issues in order to make parole. Incarcerated for 18 years, Dan must confront his dark past if he is to have any chance of freedom. Amy is Daniel’s last chance.",
-      "runtime": 102,
+      "synopsis": "A man solitary and cold, methodical and unencumbered by scruples or regrets, the killer waits in the shadows, watching for his next target. And yet the longer he waits, the more he thinks he's losing his mind, if not his cool. A brutal, bloody and stylish noir story of a professional assassin lost in a world without a moral compass, this is a case study of a man alone, armed to the teeth and slowly losing his mind.",
+      "runtime": 118,
       "times": [
         {
-          "starts_at": "2023-10-29T17:30:00+00:00",
+          "starts_at": "2023-10-29T20:30:00+00:00",
           "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-41577/"
+          "url": "https://www.curzon.com/ticketing/seats/SOH1-41843/"
+        },
+        {
+          "starts_at": "2023-10-29T20:30:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-68145/"
+        },
+        {
+          "starts_at": "2023-10-29T20:50:00+00:00",
+          "site": "Curzon Hoxton",
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-12998/"
+        },
+        {
+          "starts_at": "2023-10-29T20:45:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-85269/"
         }
       ]
     },
     {
-      "title": "Past Lives",
-      "trailer": "https://www.youtube.com/watch?v=WJTnve_kdu0",
-      "synopsis": "Nora and Hae Sung, two deeply connected childhood friends, are wrest apart after Nora’s family emigrates from South Korea. Two decades later, they are reunited in New York for one fateful week as they confront notions of destiny, love, and the choices that make a life, in this heartrending modern romance.",
-      "runtime": 106,
+      "title": "TAYLOR SWIFT | THE ERAS TOUR",
+      "trailer": null,
+      "synopsis": "The cultural phenomenon continues on the big screen! Immerse yourself in this once-in-a-lifetime concert film experience with a breathtaking, cinematic view of the history-making tour. Taylor Swift Eras attire and friendship bracelets are strongly encouraged!",
+      "runtime": 168,
       "times": [
         {
-          "starts_at": "2023-10-29T17:00:00+00:00",
+          "starts_at": "2023-10-29T19:30:00+00:00",
           "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-68307/"
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-68308/"
         },
         {
-          "starts_at": "2023-10-29T17:10:00+00:00",
+          "starts_at": "2023-10-29T19:00:00+00:00",
           "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-19933/"
-        },
-        {
-          "starts_at": "2023-10-29T17:50:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-85261/"
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-19926/"
         }
       ]
     },
@@ -255,11 +144,6 @@
       "synopsis": "In post-World War II Venice, Poirot, now retired and living in his own exile, reluctantly attends a seance, when one of the guests is murdered, it is up to the former detective to once again uncover the killer.",
       "runtime": 103,
       "times": [
-        {
-          "starts_at": "2023-10-29T17:15:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-68295/"
-        },
         {
           "starts_at": "2023-10-29T19:45:00+00:00",
           "site": "Curzon Victoria",
@@ -303,11 +187,6 @@
           "starts_at": "2023-10-29T20:40:00+00:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-19930/"
-        },
-        {
-          "starts_at": "2023-10-29T18:20:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-85257/"
         }
       ]
     },
@@ -318,45 +197,9 @@
       "runtime": 115,
       "times": [
         {
-          "starts_at": "2023-10-29T15:30:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-84761/"
-        },
-        {
           "starts_at": "2023-10-29T20:00:00+00:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-85287/"
-        }
-      ]
-    },
-    {
-      "title": "Passages",
-      "trailer": null,
-      "synopsis": "Celebrated independent filmmaker Ira Sachs (Love is Strange, Keep the Lights On) makes a breathtaking return with PASSAGES, a fresh, honest and brutally funny take on romantic chaos, featuring honest and emotionally nuanced performances from Franz Rogowski (Great Freedom), Ben Whishsaw (Women Talking) and Adèle Exarchopoulos (Blue Is the Warmest Colour). \n\nSet in contemporary Paris, this seductive comedy-drama tells the story of Tomas (Rogowski) and Martin (Whishaw), a gay couple whose marriage is thrown into crisis when Tomas impulsively begins a passionate affair with a young school teacher, Agathe (Exarchopoulos). Though he embraces this exciting new exploration, the novelty of being with a woman starts to fade when Martin begins an affair of his own, forcing Tomas to confront life decisions he may be unprepared – or unwilling – to deal with. \n\nPerceptive, intimate and unashamedly sexy, PASSAGES sees Sachs put a uniquely European spin on his usually tender style, telling a messy, modern love story that explores the complexities, contradictions and cruelties of sex and desire.",
-      "runtime": 92,
-      "times": [
-        {
-          "starts_at": "2023-10-29T16:00:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-85267/"
-        },
-        {
-          "starts_at": "2023-10-29T21:15:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-85258/"
-        }
-      ]
-    },
-    {
-      "title": "DocHouse: Pianoforte",
-      "trailer": null,
-      "synopsis": "Considered to be one of the most prestigious competitions in classical music, the International Chopin Piano Competition, held in Warsaw every five years since 1927, has been a career launchpad for the world's greatest piano virtuosos.\r\n\r\nPianoforte navigates its way through the multi-stage competition alongside a selection of 2021's elite young hopefuls. We plunge deep into this world of nuanced notes and high drama, in a riveting, adrenaline rush of a film. The pressure is enormous, the practice is exacting, the performances are ecstatic.",
-      "runtime": 91,
-      "times": [
-        {
-          "starts_at": "2023-10-29T18:00:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-85134/"
         }
       ]
     },
@@ -370,6 +213,19 @@
           "starts_at": "2023-10-29T20:30:00+00:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-85271/"
+        }
+      ]
+    },
+    {
+      "title": "Passages",
+      "trailer": null,
+      "synopsis": "Celebrated independent filmmaker Ira Sachs (Love is Strange, Keep the Lights On) makes a breathtaking return with PASSAGES, a fresh, honest and brutally funny take on romantic chaos, featuring honest and emotionally nuanced performances from Franz Rogowski (Great Freedom), Ben Whishsaw (Women Talking) and Adèle Exarchopoulos (Blue Is the Warmest Colour). \n\nSet in contemporary Paris, this seductive comedy-drama tells the story of Tomas (Rogowski) and Martin (Whishaw), a gay couple whose marriage is thrown into crisis when Tomas impulsively begins a passionate affair with a young school teacher, Agathe (Exarchopoulos). Though he embraces this exciting new exploration, the novelty of being with a woman starts to fade when Martin begins an affair of his own, forcing Tomas to confront life decisions he may be unprepared – or unwilling – to deal with. \n\nPerceptive, intimate and unashamedly sexy, PASSAGES sees Sachs put a uniquely European spin on his usually tender style, telling a messy, modern love story that explores the complexities, contradictions and cruelties of sex and desire.",
+      "runtime": 92,
+      "times": [
+        {
+          "starts_at": "2023-10-29T21:15:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-85258/"
         }
       ]
     }
