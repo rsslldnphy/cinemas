@@ -1,21 +1,59 @@
 {
   "2023-11-01": [
     {
+      "title": "The Killer",
+      "trailer": null,
+      "synopsis": "A man solitary and cold, methodical and unencumbered by scruples or regrets, the killer waits in the shadows, watching for his next target. And yet the longer he waits, the more he thinks he's losing his mind, if not his cool. A brutal, bloody and stylish noir story of a professional assassin lost in a world without a moral compass, this is a case study of a man alone, armed to the teeth and slowly losing his mind.",
+      "runtime": 118,
+      "times": [
+        {
+          "starts_at": "2023-11-01T15:40:00+00:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-44918/"
+        },
+        {
+          "starts_at": "2023-11-01T21:00:00+00:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-44779/"
+        },
+        {
+          "starts_at": "2023-11-01T20:30:00+00:00",
+          "site": "Curzon Soho",
+          "url": "https://www.curzon.com/ticketing/seats/SOH1-41712/"
+        },
+        {
+          "starts_at": "2023-11-01T20:30:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-68340/"
+        },
+        {
+          "starts_at": "2023-11-01T18:00:00+00:00",
+          "site": "Curzon Hoxton",
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-13119/"
+        },
+        {
+          "starts_at": "2023-11-01T18:30:00+00:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-19711/"
+        },
+        {
+          "starts_at": "2023-11-01T16:40:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-85177/"
+        },
+        {
+          "starts_at": "2023-11-01T21:10:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-85178/"
+        }
+      ]
+    },
+    {
       "title": "Killers Of The Flower Moon",
       "trailer": "https://www.youtube.com/watch?v=nFoIg72KGIk",
       "synopsis": "At the turn of the 20th century, oil brought a fortune to the Osage Nation, who became some of the richest people in the world overnight. The wealth of these Native Americans immediately attracted white interlopers, who manipulated, extorted, and stole as much Osage money as they could before resorting to murder. Based on a true story and told through the improbable romance of Ernest Burkhart (Leonardo DiCaprio) and Mollie Kyle (Lily Gladstone), “Killers of the Flower Moon” is an epic western crime saga, where real love crosses paths with unspeakable betrayal. Also starring Robert De Niro and Jesse Plemons, “Killers of the Flower Moon” is directed by Academy Award winner Martin Scorsese from a screenplay by Eric Roth and Martin Scorsese, based on David Grann’s best-selling book.",
       "runtime": 206,
       "times": [
-        {
-          "starts_at": "2023-11-01T12:40:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-44920/"
-        },
-        {
-          "starts_at": "2023-11-01T15:00:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-44914/"
-        },
         {
           "starts_at": "2023-11-01T16:30:00+00:00",
           "site": "Curzon Aldgate",
@@ -32,19 +70,9 @@
           "url": "https://www.curzon.com/ticketing/seats/ALD1-44917/"
         },
         {
-          "starts_at": "2023-11-01T14:45:00+00:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-41713/"
-        },
-        {
           "starts_at": "2023-11-01T19:20:00+00:00",
           "site": "Curzon Soho",
           "url": "https://www.curzon.com/ticketing/seats/SOH1-42049/"
-        },
-        {
-          "starts_at": "2023-11-01T14:15:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-68346/"
         },
         {
           "starts_at": "2023-11-01T15:30:00+00:00",
@@ -62,24 +90,9 @@
           "url": "https://www.curzon.com/ticketing/seats/VIC1-68353/"
         },
         {
-          "starts_at": "2023-11-01T14:40:00+00:00",
-          "site": "Curzon Mayfair",
-          "url": "https://www.curzon.com/ticketing/seats/MAY1-25126/"
-        },
-        {
           "starts_at": "2023-11-01T19:20:00+00:00",
           "site": "Curzon Mayfair",
           "url": "https://www.curzon.com/ticketing/seats/MAY1-25128/"
-        },
-        {
-          "starts_at": "2023-11-01T14:00:00+00:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-13197/"
-        },
-        {
-          "starts_at": "2023-11-01T15:20:00+00:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-13194/"
         },
         {
           "starts_at": "2023-11-01T18:20:00+00:00",
@@ -92,16 +105,6 @@
           "url": "https://www.curzon.com/ticketing/seats/HOX1-13196/"
         },
         {
-          "starts_at": "2023-11-01T13:00:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-19896/"
-        },
-        {
-          "starts_at": "2023-11-01T15:15:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-19897/"
-        },
-        {
           "starts_at": "2023-11-01T17:00:00+00:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-19902/"
@@ -110,11 +113,6 @@
           "starts_at": "2023-11-01T19:20:00+00:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-19899/"
-        },
-        {
-          "starts_at": "2023-11-01T14:00:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-85191/"
         },
         {
           "starts_at": "2023-11-01T19:20:00+00:00",
@@ -129,11 +127,6 @@
       "synopsis": "Can you survive five nights?\n\nThe terrifying horror game phenomenon becomes a blood-chilling cinematic event, as Blumhouse— the producer of M3GAN, The Black Phone and The Invisible Man— brings Five Nights at Freddy’s to the big screen.\n\nThe film follows a troubled security guard as he begins working at Freddy Fazbear’s Pizza. While spending his first night on the job, he realizes the night shift at Freddy’s won’t be so easy to make it through.\n\nThe film stars Josh Hutcherson (Ultraman, The Hunger Games franchise), Elizabeth Lail (You, Mack & Rita), Piper Rubio (Holly & Ivy, Unstable), Kat Conner Sterling (We Have a Ghost, 9-1-1), with Mary Stuart Masterson (Blindspot, Fried Green Tomatoes) and Matthew Lillard (Good Girls, Scream).\n\nFive Nights at Freddy’s is directed by Emma Tammi (The Wind, Blood Moon) and is written by Scott Cawthon, Emma Tammi and Seth Cuddeback.\n\nThe film’s iconic animatronic characters will be created by Jim Henson’s Creature Shop.\n\nFive Nights at Freddy’s is produced by Jason Blum and Scott Cawthon. The film’s executive producers are Bea Sequeira, Russell Binder, Marc Mostman and Christopher H. Warner. Universal Pictures presents a Blumhouse production, in association with Striker Entertainment.",
       "runtime": 109,
       "times": [
-        {
-          "starts_at": "2023-11-01T13:00:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-44915/"
-        },
         {
           "starts_at": "2023-11-01T18:20:00+00:00",
           "site": "Curzon Aldgate",
@@ -153,77 +146,9 @@
       "runtime": 118,
       "times": [
         {
-          "starts_at": "2023-11-01T13:40:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-44923/"
-        },
-        {
           "starts_at": "2023-11-01T20:40:00+00:00",
           "site": "Curzon Aldgate",
           "url": "https://www.curzon.com/ticketing/seats/ALD1-44922/"
-        }
-      ]
-    },
-    {
-      "title": "The Killer",
-      "trailer": null,
-      "synopsis": "A man solitary and cold, methodical and unencumbered by scruples or regrets, the killer waits in the shadows, watching for his next target. And yet the longer he waits, the more he thinks he's losing his mind, if not his cool. A brutal, bloody and stylish noir story of a professional assassin lost in a world without a moral compass, this is a case study of a man alone, armed to the teeth and slowly losing his mind.",
-      "runtime": 118,
-      "times": [
-        {
-          "starts_at": "2023-11-01T15:40:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-44918/"
-        },
-        {
-          "starts_at": "2023-11-01T21:00:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-44779/"
-        },
-        {
-          "starts_at": "2023-11-01T13:30:00+00:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-41714/"
-        },
-        {
-          "starts_at": "2023-11-01T20:30:00+00:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-41712/"
-        },
-        {
-          "starts_at": "2023-11-01T15:15:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-68348/"
-        },
-        {
-          "starts_at": "2023-11-01T20:30:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-68340/"
-        },
-        {
-          "starts_at": "2023-11-01T18:00:00+00:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-13119/"
-        },
-        {
-          "starts_at": "2023-11-01T12:45:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-19890/"
-        },
-        {
-          "starts_at": "2023-11-01T18:30:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-19711/"
-        },
-        {
-          "starts_at": "2023-11-01T16:40:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-85177/"
-        },
-        {
-          "starts_at": "2023-11-01T21:10:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-85178/"
         }
       ]
     },
@@ -249,19 +174,9 @@
           "url": "https://www.curzon.com/ticketing/seats/MAY1-25127/"
         },
         {
-          "starts_at": "2023-11-01T15:00:00+00:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-13192/"
-        },
-        {
           "starts_at": "2023-11-01T20:50:00+00:00",
           "site": "Curzon Hoxton",
           "url": "https://www.curzon.com/ticketing/seats/HOX1-13171/"
-        },
-        {
-          "starts_at": "2023-11-01T14:45:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-19891/"
         },
         {
           "starts_at": "2023-11-01T17:50:00+00:00",
@@ -274,11 +189,6 @@
           "url": "https://www.curzon.com/ticketing/seats/CAM1-19901/"
         },
         {
-          "starts_at": "2023-11-01T15:00:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-85180/"
-        },
-        {
           "starts_at": "2023-11-01T17:50:00+00:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-85181/"
@@ -287,19 +197,6 @@
           "starts_at": "2023-11-01T20:40:00+00:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-85130/"
-        }
-      ]
-    },
-    {
-      "title": "Raindance 2023: Sisters Interrupted",
-      "trailer": null,
-      "synopsis": "Sisters Chelsea and Tamsin battle with epilepsy and fight for a treatment that could save their lives. Tamsin often suffers 70 seizures a day and is resistant to every medication, her time is running out. Filmed over three years, this is a defining story of bravery and love.",
-      "runtime": 60,
-      "times": [
-        {
-          "starts_at": "2023-11-01T18:20:00+00:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-41581/"
         }
       ]
     },
@@ -320,16 +217,6 @@
           "url": "https://www.curzon.com/ticketing/seats/VIC1-68352/"
         },
         {
-          "starts_at": "2023-11-01T12:30:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-19889/"
-        },
-        {
-          "starts_at": "2023-11-01T15:00:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-19892/"
-        },
-        {
           "starts_at": "2023-11-01T17:30:00+00:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-19898/"
@@ -338,11 +225,6 @@
           "starts_at": "2023-11-01T21:15:00+00:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-19900/"
-        },
-        {
-          "starts_at": "2023-11-01T14:15:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-85186/"
         },
         {
           "starts_at": "2023-11-01T15:50:00+00:00",
@@ -362,16 +244,6 @@
       "synopsis": "In post-World War II Venice, Poirot, now retired and living in his own exile, reluctantly attends a seance, when one of the guests is murdered, it is up to the former detective to once again uncover the killer.",
       "runtime": 103,
       "times": [
-        {
-          "starts_at": "2023-11-01T12:30:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-68345/"
-        },
-        {
-          "starts_at": "2023-11-01T15:00:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-68347/"
-        },
         {
           "starts_at": "2023-11-01T17:45:00+00:00",
           "site": "Curzon Victoria",
@@ -414,11 +286,6 @@
           "url": "https://www.curzon.com/ticketing/seats/CAM1-19895/"
         },
         {
-          "starts_at": "2023-11-01T13:50:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-85183/"
-        },
-        {
           "starts_at": "2023-11-01T18:30:00+00:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-85184/"
@@ -435,24 +302,6 @@
           "starts_at": "2023-11-01T20:20:00+00:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-19974/"
-        }
-      ]
-    },
-    {
-      "title": "DocHouse: Beyond Utopia",
-      "trailer": null,
-      "synopsis": "Gripping, visceral and urgent, Beyond Utopia embeds the viewer with a family of defectors as they attempt to flee North Korea, one of the most oppressive places on Earth - a land they grew up believing was a paradise.",
-      "runtime": 115,
-      "times": [
-        {
-          "starts_at": "2023-11-01T13:30:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-85298/"
-        },
-        {
-          "starts_at": "2023-11-01T18:15:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-85294/"
         }
       ]
     },
@@ -479,6 +328,19 @@
           "starts_at": "2023-11-01T16:20:00+00:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-85182/"
+        }
+      ]
+    },
+    {
+      "title": "DocHouse: Beyond Utopia",
+      "trailer": null,
+      "synopsis": "Gripping, visceral and urgent, Beyond Utopia embeds the viewer with a family of defectors as they attempt to flee North Korea, one of the most oppressive places on Earth - a land they grew up believing was a paradise.",
+      "runtime": 115,
+      "times": [
+        {
+          "starts_at": "2023-11-01T18:15:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-85294/"
         }
       ]
     },
