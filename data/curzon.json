@@ -7,11 +7,6 @@
       "runtime": 118,
       "times": [
         {
-          "starts_at": "2023-11-02T11:00:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-44934/"
-        },
-        {
           "starts_at": "2023-11-02T12:40:00+00:00",
           "site": "Curzon Aldgate",
           "url": "https://www.curzon.com/ticketing/seats/ALD1-44931/"
@@ -45,11 +40,6 @@
           "starts_at": "2023-11-02T21:00:00+00:00",
           "site": "Curzon Victoria",
           "url": "https://www.curzon.com/ticketing/seats/VIC1-68153/"
-        },
-        {
-          "starts_at": "2023-11-02T12:00:00+00:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-13202/"
         },
         {
           "starts_at": "2023-11-02T21:00:00+00:00",
@@ -95,11 +85,6 @@
       "runtime": 206,
       "times": [
         {
-          "starts_at": "2023-11-02T11:20:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-44933/"
-        },
-        {
           "starts_at": "2023-11-02T13:50:00+00:00",
           "site": "Curzon Aldgate",
           "url": "https://www.curzon.com/ticketing/seats/ALD1-44930/"
@@ -120,11 +105,6 @@
           "url": "https://www.curzon.com/ticketing/seats/ALD1-44936/"
         },
         {
-          "starts_at": "2023-11-02T12:10:00+00:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-42041/"
-        },
-        {
           "starts_at": "2023-11-02T16:30:00+00:00",
           "site": "Curzon Soho",
           "url": "https://www.curzon.com/ticketing/seats/SOH1-42042/"
@@ -133,11 +113,6 @@
           "starts_at": "2023-11-02T19:45:00+00:00",
           "site": "Curzon Soho",
           "url": "https://www.curzon.com/ticketing/seats/SOH1-42043/"
-        },
-        {
-          "starts_at": "2023-11-02T11:15:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-68365/"
         },
         {
           "starts_at": "2023-11-02T13:45:00+00:00",
@@ -158,11 +133,6 @@
           "starts_at": "2023-11-02T19:45:00+00:00",
           "site": "Curzon Victoria",
           "url": "https://www.curzon.com/ticketing/seats/VIC1-68363/"
-        },
-        {
-          "starts_at": "2023-11-02T11:50:00+00:00",
-          "site": "Curzon Mayfair",
-          "url": "https://www.curzon.com/ticketing/seats/MAY1-25137/"
         },
         {
           "starts_at": "2023-11-02T14:40:00+00:00",
@@ -210,11 +180,6 @@
           "url": "https://www.curzon.com/ticketing/seats/CAM1-19963/"
         },
         {
-          "starts_at": "2023-11-02T11:30:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-85201/"
-        },
-        {
           "starts_at": "2023-11-02T15:10:00+00:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-85202/"
@@ -223,29 +188,6 @@
           "starts_at": "2023-11-02T19:20:00+00:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-85203/"
-        }
-      ]
-    },
-    {
-      "title": "Five Nights at Freddy's",
-      "trailer": "https://www.youtube.com/watch?v=UMj-GSXz60g",
-      "synopsis": "Can you survive five nights?\n\nThe terrifying horror game phenomenon becomes a blood-chilling cinematic event, as Blumhouse— the producer of M3GAN, The Black Phone and The Invisible Man— brings Five Nights at Freddy’s to the big screen.\n\nThe film follows a troubled security guard as he begins working at Freddy Fazbear’s Pizza. While spending his first night on the job, he realizes the night shift at Freddy’s won’t be so easy to make it through.\n\nThe film stars Josh Hutcherson (Ultraman, The Hunger Games franchise), Elizabeth Lail (You, Mack & Rita), Piper Rubio (Holly & Ivy, Unstable), Kat Conner Sterling (We Have a Ghost, 9-1-1), with Mary Stuart Masterson (Blindspot, Fried Green Tomatoes) and Matthew Lillard (Good Girls, Scream).\n\nFive Nights at Freddy’s is directed by Emma Tammi (The Wind, Blood Moon) and is written by Scott Cawthon, Emma Tammi and Seth Cuddeback.\n\nThe film’s iconic animatronic characters will be created by Jim Henson’s Creature Shop.\n\nFive Nights at Freddy’s is produced by Jason Blum and Scott Cawthon. The film’s executive producers are Bea Sequeira, Russell Binder, Marc Mostman and Christopher H. Warner. Universal Pictures presents a Blumhouse production, in association with Striker Entertainment.",
-      "runtime": 109,
-      "times": [
-        {
-          "starts_at": "2023-11-02T11:40:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-44932/"
-        },
-        {
-          "starts_at": "2023-11-02T15:40:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-44853/"
-        },
-        {
-          "starts_at": "2023-11-02T21:00:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-44851/"
         }
       ]
     },
@@ -264,6 +206,24 @@
           "starts_at": "2023-11-02T21:20:00+00:00",
           "site": "Curzon Aldgate",
           "url": "https://www.curzon.com/ticketing/seats/ALD1-44935/"
+        }
+      ]
+    },
+    {
+      "title": "Five Nights at Freddy's",
+      "trailer": "https://www.youtube.com/watch?v=UMj-GSXz60g",
+      "synopsis": "Can you survive five nights?\n\nThe terrifying horror game phenomenon becomes a blood-chilling cinematic event, as Blumhouse— the producer of M3GAN, The Black Phone and The Invisible Man— brings Five Nights at Freddy’s to the big screen.\n\nThe film follows a troubled security guard as he begins working at Freddy Fazbear’s Pizza. While spending his first night on the job, he realizes the night shift at Freddy’s won’t be so easy to make it through.\n\nThe film stars Josh Hutcherson (Ultraman, The Hunger Games franchise), Elizabeth Lail (You, Mack & Rita), Piper Rubio (Holly & Ivy, Unstable), Kat Conner Sterling (We Have a Ghost, 9-1-1), with Mary Stuart Masterson (Blindspot, Fried Green Tomatoes) and Matthew Lillard (Good Girls, Scream).\n\nFive Nights at Freddy’s is directed by Emma Tammi (The Wind, Blood Moon) and is written by Scott Cawthon, Emma Tammi and Seth Cuddeback.\n\nThe film’s iconic animatronic characters will be created by Jim Henson’s Creature Shop.\n\nFive Nights at Freddy’s is produced by Jason Blum and Scott Cawthon. The film’s executive producers are Bea Sequeira, Russell Binder, Marc Mostman and Christopher H. Warner. Universal Pictures presents a Blumhouse production, in association with Striker Entertainment.",
+      "runtime": 109,
+      "times": [
+        {
+          "starts_at": "2023-11-02T15:40:00+00:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-44853/"
+        },
+        {
+          "starts_at": "2023-11-02T21:00:00+00:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-44851/"
         }
       ]
     },
@@ -319,16 +279,125 @@
       ]
     },
     {
+      "title": "20,000 Species of Bees",
+      "trailer": "https://www.youtube.com/watch?v=9ZSaa-7aBss",
+      "synopsis": "Lucía is a six-year-old girl, who sometimes struggles as the world tries to catch up with the fact that she has a penis. As the summer holidays pass, she explores her femininity alongside the women of her family who at the same time reflect on their own femininity.",
+      "runtime": 128,
+      "times": [
+        {
+          "starts_at": "2023-11-02T12:30:00+00:00",
+          "site": "Curzon Soho",
+          "url": "https://www.curzon.com/ticketing/seats/SOH1-42048/"
+        },
+        {
+          "starts_at": "2023-11-02T15:20:00+00:00",
+          "site": "Curzon Soho",
+          "url": "https://www.curzon.com/ticketing/seats/SOH1-42047/"
+        },
+        {
+          "starts_at": "2023-11-02T20:40:00+00:00",
+          "site": "Curzon Soho",
+          "url": "https://www.curzon.com/ticketing/seats/SOH1-42045/"
+        },
+        {
+          "starts_at": "2023-11-02T17:30:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-68359/"
+        },
+        {
+          "starts_at": "2023-11-02T20:45:00+00:00",
+          "site": "Curzon Mayfair",
+          "url": "https://www.curzon.com/ticketing/seats/MAY1-25136/"
+        },
+        {
+          "starts_at": "2023-11-02T14:00:00+00:00",
+          "site": "Curzon Hoxton",
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-13204/"
+        },
+        {
+          "starts_at": "2023-11-02T20:20:00+00:00",
+          "site": "Curzon Hoxton",
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-13172/"
+        },
+        {
+          "starts_at": "2023-11-02T14:45:00+00:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-19954/"
+        },
+        {
+          "starts_at": "2023-11-02T17:45:00+00:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-19866/"
+        },
+        {
+          "starts_at": "2023-11-02T20:30:00+00:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-19950/"
+        },
+        {
+          "starts_at": "2023-11-02T14:50:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-85194/"
+        },
+        {
+          "starts_at": "2023-11-02T17:50:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-85195/"
+        },
+        {
+          "starts_at": "2023-11-02T20:40:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-85129/"
+        }
+      ]
+    },
+    {
+      "title": "Raindance 2023: Red Herring",
+      "trailer": null,
+      "synopsis": "When a young filmmaker is diagnosed with terminal cancer, he enlists his family on an intimate and darkly humorous journey. Employing the likes of Jewish conversion and cannabis farming as well as uncovering shocking family revelations, each help them to come to terms with his illness.",
+      "runtime": 94,
+      "times": [
+        {
+          "starts_at": "2023-11-02T18:20:00+00:00",
+          "site": "Curzon Soho",
+          "url": "https://www.curzon.com/ticketing/seats/SOH1-41582/"
+        }
+      ]
+    },
+    {
+      "title": "A Haunting in Venice",
+      "trailer": "https://www.youtube.com/watch?v=LAywaWCFXgw",
+      "synopsis": "In post-World War II Venice, Poirot, now retired and living in his own exile, reluctantly attends a seance, when one of the guests is murdered, it is up to the former detective to once again uncover the killer.",
+      "runtime": 103,
+      "times": [
+        {
+          "starts_at": "2023-11-02T12:30:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-68367/"
+        },
+        {
+          "starts_at": "2023-11-02T15:00:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-68355/"
+        },
+        {
+          "starts_at": "2023-11-02T17:45:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-68358/"
+        },
+        {
+          "starts_at": "2023-11-02T20:30:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-68364/"
+        }
+      ]
+    },
+    {
       "title": "Past Lives",
       "trailer": "https://www.youtube.com/watch?v=WJTnve_kdu0",
       "synopsis": "Nora and Hae Sung, two deeply connected childhood friends, are wrest apart after Nora’s family emigrates from South Korea. Two decades later, they are reunited in New York for one fateful week as they confront notions of destiny, love, and the choices that make a life, in this heartrending modern romance.",
       "runtime": 106,
       "times": [
-        {
-          "starts_at": "2023-11-02T11:40:00+00:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-42040/"
-        },
         {
           "starts_at": "2023-11-02T15:00:00+00:00",
           "site": "Curzon Victoria",
@@ -362,153 +431,6 @@
       ]
     },
     {
-      "title": "20,000 Species of Bees",
-      "trailer": "https://www.youtube.com/watch?v=9ZSaa-7aBss",
-      "synopsis": "Lucía is a six-year-old girl, who sometimes struggles as the world tries to catch up with the fact that she has a penis. As the summer holidays pass, she explores her femininity alongside the women of her family who at the same time reflect on their own femininity.",
-      "runtime": 128,
-      "times": [
-        {
-          "starts_at": "2023-11-02T12:30:00+00:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-42048/"
-        },
-        {
-          "starts_at": "2023-11-02T15:20:00+00:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-42047/"
-        },
-        {
-          "starts_at": "2023-11-02T20:40:00+00:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-42045/"
-        },
-        {
-          "starts_at": "2023-11-02T11:45:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-68366/"
-        },
-        {
-          "starts_at": "2023-11-02T17:30:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-68359/"
-        },
-        {
-          "starts_at": "2023-11-02T11:30:00+00:00",
-          "site": "Curzon Mayfair",
-          "url": "https://www.curzon.com/ticketing/seats/MAY1-25135/"
-        },
-        {
-          "starts_at": "2023-11-02T20:45:00+00:00",
-          "site": "Curzon Mayfair",
-          "url": "https://www.curzon.com/ticketing/seats/MAY1-25136/"
-        },
-        {
-          "starts_at": "2023-11-02T14:00:00+00:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-13204/"
-        },
-        {
-          "starts_at": "2023-11-02T20:20:00+00:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-13172/"
-        },
-        {
-          "starts_at": "2023-11-02T12:00:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-19951/"
-        },
-        {
-          "starts_at": "2023-11-02T14:45:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-19954/"
-        },
-        {
-          "starts_at": "2023-11-02T17:45:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-19866/"
-        },
-        {
-          "starts_at": "2023-11-02T20:30:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-19950/"
-        },
-        {
-          "starts_at": "2023-11-02T12:00:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-85193/"
-        },
-        {
-          "starts_at": "2023-11-02T14:50:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-85194/"
-        },
-        {
-          "starts_at": "2023-11-02T17:50:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-85195/"
-        },
-        {
-          "starts_at": "2023-11-02T20:40:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-85129/"
-        }
-      ]
-    },
-    {
-      "title": "Raindance 2023: Red Herring",
-      "trailer": null,
-      "synopsis": "When a young filmmaker is diagnosed with terminal cancer, he enlists his family on an intimate and darkly humorous journey. Employing the likes of Jewish conversion and cannabis farming as well as uncovering shocking family revelations, each help them to come to terms with his illness.",
-      "runtime": 94,
-      "times": [
-        {
-          "starts_at": "2023-11-02T18:20:00+00:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-41582/"
-        }
-      ]
-    },
-    {
-      "title": "The Creator",
-      "trailer": "https://www.youtube.com/watch?v=DYo4QTsBqP8",
-      "synopsis": "From writer/director Gareth Edwards (“Rogue One,” “Godzilla”) comes an epic sci-fi action thriller set amidst a future war between the human race and the forces of artificial intelligence. Joshua (John David Washington, \"Tenet\"), a hardened ex-special forces agent grieving the disappearance of his wife (Gemma Chan, \"Eternals\"), is recruited to hunt down and kill the Creator, the elusive architect of advanced AI who has developed a mysterious weapon with the power to end the war… and mankind itself.  Joshua and his team of elite operatives journey across enemy lines, into the dark heart of AI-occupied territory… only to discover the world-ending weapon he’s been instructed to destroy is an AI in the form of a young child (newcomer Madeleine Yuna Voyles).",
-      "runtime": 133,
-      "times": [
-        {
-          "starts_at": "2023-11-02T12:00:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-68361/"
-        }
-      ]
-    },
-    {
-      "title": "A Haunting in Venice",
-      "trailer": "https://www.youtube.com/watch?v=LAywaWCFXgw",
-      "synopsis": "In post-World War II Venice, Poirot, now retired and living in his own exile, reluctantly attends a seance, when one of the guests is murdered, it is up to the former detective to once again uncover the killer.",
-      "runtime": 103,
-      "times": [
-        {
-          "starts_at": "2023-11-02T12:30:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-68367/"
-        },
-        {
-          "starts_at": "2023-11-02T15:00:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-68355/"
-        },
-        {
-          "starts_at": "2023-11-02T17:45:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-68358/"
-        },
-        {
-          "starts_at": "2023-11-02T20:30:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-68364/"
-        }
-      ]
-    },
-    {
       "title": "The Great Escaper",
       "trailer": null,
       "synopsis": "In the summer of 2014, Bernard Jordan (Michael Caine) made global headlines. He had staged a “great escape” from his care home to join fellow war veterans on a beach in Normandy, commemorating their fallen comrades at the D-Day Landings 70th anniversary. It was a story that captured the imagination of the world as Bernie embodied the defiant, “can-do” spirit of a generation that was fast disappearing. But of course, it wasn’t the whole story. It was an inspirational but sanitised retelling of one man’s need to come to terms with the lasting trauma of war. Bernie’s adventure, spanning a mere 48 hours, also marked the culmination of his 60-year marriage to Rene (Glenda Jackson) – THE GREAT ESCAPER celebrates their enduring love but always with an eye to the lessons we might learn from the Greatest Generation.",
@@ -531,19 +453,6 @@
           "starts_at": "2023-11-02T18:20:00+00:00",
           "site": "Curzon Mayfair",
           "url": "https://www.curzon.com/ticketing/seats/MAY1-25139/"
-        }
-      ]
-    },
-    {
-      "title": "Mind-Set",
-      "trailer": null,
-      "synopsis": "Lucy, a disillusioned office clerk who lives in a dysfunctional relationship with her slovenly partner Paul, is surprised to find herself on the cusp of a none-too-secret affair with her new work colleague, Daniel. The thrill of the chase for a shred of affection takes her mind off her problematic life but she's not sure that she'll ever leave Paul, or that sex with someone else is the true answer to her problems.\n",
-      "runtime": 89,
-      "times": [
-        {
-          "starts_at": "2023-11-02T11:45:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-19980/"
         }
       ]
     },
@@ -590,24 +499,6 @@
           "starts_at": "2023-11-02T18:50:00+00:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-85208/"
-        }
-      ]
-    },
-    {
-      "title": "Nyad",
-      "trailer": null,
-      "synopsis": "A remarkable true story of tenacity, friendship and the triumph of the human spirit, NYAD recounts a riveting chapter in the life of world-class athlete Diana Nyad. Three decades after giving up marathon swimming in exchange for a prominent career as a sports journalist, at the age of 60, Diana (four-time Academy Award nominee Annette Bening) becomes obsessed with completing an epic swim that always eluded her: the 110 mile trek from Cuba to Florida, often referred to as the “Mount Everest” of swims. Determined to become the first person to finish the swim without a shark cage, Diana goes on a thrilling, four-year journey with her best friend and coach Bonnie Stoll (two-time Academy Award winner Jodie Foster) and a dedicated sailing team. \n\n\nThe inspirational film marks the narrative directorial debut of Academy Award-winning documentary filmmakers Elizabeth Chai Vasarhelyi and Jimmy Chin (Free Solo, The Rescue). NYAD is produced by Andrew Lazar, p.g.a. and Teddy Schwarzman, p.g.a. with a screenplay by Julia Cox, adapted from the memoir \"Find a Way\" by Diana Nyad.",
-      "runtime": 120,
-      "times": [
-        {
-          "starts_at": "2023-11-02T11:40:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-85277/"
-        },
-        {
-          "starts_at": "2023-11-02T20:50:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-85276/"
         }
       ]
     },
@@ -673,6 +564,19 @@
           "starts_at": "2023-11-02T20:10:00+00:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-85296/"
+        }
+      ]
+    },
+    {
+      "title": "Nyad",
+      "trailer": null,
+      "synopsis": "A remarkable true story of tenacity, friendship and the triumph of the human spirit, NYAD recounts a riveting chapter in the life of world-class athlete Diana Nyad. Three decades after giving up marathon swimming in exchange for a prominent career as a sports journalist, at the age of 60, Diana (four-time Academy Award nominee Annette Bening) becomes obsessed with completing an epic swim that always eluded her: the 110 mile trek from Cuba to Florida, often referred to as the “Mount Everest” of swims. Determined to become the first person to finish the swim without a shark cage, Diana goes on a thrilling, four-year journey with her best friend and coach Bonnie Stoll (two-time Academy Award winner Jodie Foster) and a dedicated sailing team. \n\n\nThe inspirational film marks the narrative directorial debut of Academy Award-winning documentary filmmakers Elizabeth Chai Vasarhelyi and Jimmy Chin (Free Solo, The Rescue). NYAD is produced by Andrew Lazar, p.g.a. and Teddy Schwarzman, p.g.a. with a screenplay by Julia Cox, adapted from the memoir \"Find a Way\" by Diana Nyad.",
+      "runtime": 120,
+      "times": [
+        {
+          "starts_at": "2023-11-02T20:50:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-85276/"
         }
       ]
     },
