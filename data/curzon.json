@@ -1,21 +1,29 @@
 {
   "2023-11-03": [
     {
+      "title": "Bottoms",
+      "trailer": null,
+      "synopsis": "Two teen girls start a fight club to find someone to have sex with before graduation.",
+      "runtime": 91,
+      "times": [
+        {
+          "starts_at": "2023-11-03T16:20:00+00:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-44967/"
+        },
+        {
+          "starts_at": "2023-11-03T21:00:00+00:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-44961/"
+        }
+      ]
+    },
+    {
       "title": "Killers Of The Flower Moon",
       "trailer": "https://www.youtube.com/watch?v=nFoIg72KGIk",
       "synopsis": "At the turn of the 20th century, oil brought a fortune to the Osage Nation, who became some of the richest people in the world overnight. The wealth of these Native Americans immediately attracted white interlopers, who manipulated, extorted, and stole as much Osage money as they could before resorting to murder. Based on a true story and told through the improbable romance of Ernest Burkhart (Leonardo DiCaprio) and Mollie Kyle (Lily Gladstone), “Killers of the Flower Moon” is an epic western crime saga, where real love crosses paths with unspeakable betrayal. Also starring Robert De Niro and Jesse Plemons, “Killers of the Flower Moon” is directed by Academy Award winner Martin Scorsese from a screenplay by Eric Roth and Martin Scorsese, based on David Grann’s best-selling book.",
       "runtime": 206,
       "times": [
-        {
-          "starts_at": "2023-11-03T12:40:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-44972/"
-        },
-        {
-          "starts_at": "2023-11-03T15:20:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-44969/"
-        },
         {
           "starts_at": "2023-11-03T17:00:00+00:00",
           "site": "Curzon Aldgate",
@@ -27,19 +35,9 @@
           "url": "https://www.curzon.com/ticketing/seats/ALD1-44963/"
         },
         {
-          "starts_at": "2023-11-03T14:10:00+00:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-42097/"
-        },
-        {
           "starts_at": "2023-11-03T17:00:00+00:00",
           "site": "Curzon Soho",
           "url": "https://www.curzon.com/ticketing/seats/SOH1-42069/"
-        },
-        {
-          "starts_at": "2023-11-03T14:00:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-68383/"
         },
         {
           "starts_at": "2023-11-03T15:30:00+00:00",
@@ -57,19 +55,9 @@
           "url": "https://www.curzon.com/ticketing/seats/VIC1-68380/"
         },
         {
-          "starts_at": "2023-11-03T14:45:00+00:00",
-          "site": "Curzon Mayfair",
-          "url": "https://www.curzon.com/ticketing/seats/MAY1-25156/"
-        },
-        {
           "starts_at": "2023-11-03T19:00:00+00:00",
           "site": "Curzon Mayfair",
           "url": "https://www.curzon.com/ticketing/seats/MAY1-25155/"
-        },
-        {
-          "starts_at": "2023-11-03T14:00:00+00:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-13312/"
         },
         {
           "starts_at": "2023-11-03T19:40:00+00:00",
@@ -77,19 +65,9 @@
           "url": "https://www.curzon.com/ticketing/seats/HOX1-13308/"
         },
         {
-          "starts_at": "2023-11-03T14:45:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-19983/"
-        },
-        {
           "starts_at": "2023-11-03T19:00:00+00:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-19982/"
-        },
-        {
-          "starts_at": "2023-11-03T15:10:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-85317/"
         },
         {
           "starts_at": "2023-11-03T19:20:00+00:00",
@@ -99,16 +77,29 @@
       ]
     },
     {
+      "title": "Five Nights at Freddy's",
+      "trailer": "https://www.youtube.com/watch?v=UMj-GSXz60g",
+      "synopsis": "Can you survive five nights?\n\nThe terrifying horror game phenomenon becomes a blood-chilling cinematic event, as Blumhouse— the producer of M3GAN, The Black Phone and The Invisible Man— brings Five Nights at Freddy’s to the big screen.\n\nThe film follows a troubled security guard as he begins working at Freddy Fazbear’s Pizza. While spending his first night on the job, he realizes the night shift at Freddy’s won’t be so easy to make it through.\n\nThe film stars Josh Hutcherson (Ultraman, The Hunger Games franchise), Elizabeth Lail (You, Mack & Rita), Piper Rubio (Holly & Ivy, Unstable), Kat Conner Sterling (We Have a Ghost, 9-1-1), with Mary Stuart Masterson (Blindspot, Fried Green Tomatoes) and Matthew Lillard (Good Girls, Scream).\n\nFive Nights at Freddy’s is directed by Emma Tammi (The Wind, Blood Moon) and is written by Scott Cawthon, Emma Tammi and Seth Cuddeback.\n\nThe film’s iconic animatronic characters will be created by Jim Henson’s Creature Shop.\n\nFive Nights at Freddy’s is produced by Jason Blum and Scott Cawthon. The film’s executive producers are Bea Sequeira, Russell Binder, Marc Mostman and Christopher H. Warner. Universal Pictures presents a Blumhouse production, in association with Striker Entertainment.",
+      "runtime": 109,
+      "times": [
+        {
+          "starts_at": "2023-11-03T18:00:00+00:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-44970/"
+        },
+        {
+          "starts_at": "2023-11-03T21:20:00+00:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-44965/"
+        }
+      ]
+    },
+    {
       "title": "The Royal Hotel",
       "trailer": "https://www.youtube.com/watch?v=oab293pN3vQ",
       "synopsis": "Americans Hanna (Julia Garner) and Liv (Jessica Henwick) are best friends backpacking in Australia. After they run out of money, Liv, looking for an adventure, convinces Hanna to take a temporary live-in job behind the bar of a pub called 'The Royal Hotel' in a remote Outback mining town. Bar owner Billy and a host of locals give the girls a riotous introduction to Down Under drinking culture but soon Hanna and Liv find themselves trapped in an unnerving situation that grows rapidly out of their control. A Film by Kitty Green Starring Julia Garner, Jessica Henwick, Toby Wallace, Hugo Weaving, Ursula Yovich, Daniel Henshall, James Frecheville, Herbert Nordrum",
       "runtime": 91,
       "times": [
-        {
-          "starts_at": "2023-11-03T14:00:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-44968/"
-        },
         {
           "starts_at": "2023-11-03T18:40:00+00:00",
           "site": "Curzon Aldgate",
@@ -123,11 +114,6 @@
       "runtime": 118,
       "times": [
         {
-          "starts_at": "2023-11-03T15:00:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-44974/"
-        },
-        {
           "starts_at": "2023-11-03T20:40:00+00:00",
           "site": "Curzon Aldgate",
           "url": "https://www.curzon.com/ticketing/seats/ALD1-44966/"
@@ -138,11 +124,6 @@
           "url": "https://www.curzon.com/ticketing/seats/SOH1-42080/"
         },
         {
-          "starts_at": "2023-11-03T15:00:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-68396/"
-        },
-        {
           "starts_at": "2023-11-03T20:45:00+00:00",
           "site": "Curzon Victoria",
           "url": "https://www.curzon.com/ticketing/seats/VIC1-68393/"
@@ -151,11 +132,6 @@
           "starts_at": "2023-11-03T21:00:00+00:00",
           "site": "Curzon Hoxton",
           "url": "https://www.curzon.com/ticketing/seats/HOX1-13310/"
-        },
-        {
-          "starts_at": "2023-11-03T12:40:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-20016/"
         },
         {
           "starts_at": "2023-11-03T15:30:00+00:00",
@@ -185,95 +161,6 @@
       ]
     },
     {
-      "title": "Bottoms",
-      "trailer": null,
-      "synopsis": "Two teen girls start a fight club to find someone to have sex with before graduation.",
-      "runtime": 91,
-      "times": [
-        {
-          "starts_at": "2023-11-03T16:20:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-44967/"
-        },
-        {
-          "starts_at": "2023-11-03T21:00:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-44961/"
-        }
-      ]
-    },
-    {
-      "title": "Five Nights at Freddy's",
-      "trailer": "https://www.youtube.com/watch?v=UMj-GSXz60g",
-      "synopsis": "Can you survive five nights?\n\nThe terrifying horror game phenomenon becomes a blood-chilling cinematic event, as Blumhouse— the producer of M3GAN, The Black Phone and The Invisible Man— brings Five Nights at Freddy’s to the big screen.\n\nThe film follows a troubled security guard as he begins working at Freddy Fazbear’s Pizza. While spending his first night on the job, he realizes the night shift at Freddy’s won’t be so easy to make it through.\n\nThe film stars Josh Hutcherson (Ultraman, The Hunger Games franchise), Elizabeth Lail (You, Mack & Rita), Piper Rubio (Holly & Ivy, Unstable), Kat Conner Sterling (We Have a Ghost, 9-1-1), with Mary Stuart Masterson (Blindspot, Fried Green Tomatoes) and Matthew Lillard (Good Girls, Scream).\n\nFive Nights at Freddy’s is directed by Emma Tammi (The Wind, Blood Moon) and is written by Scott Cawthon, Emma Tammi and Seth Cuddeback.\n\nThe film’s iconic animatronic characters will be created by Jim Henson’s Creature Shop.\n\nFive Nights at Freddy’s is produced by Jason Blum and Scott Cawthon. The film’s executive producers are Bea Sequeira, Russell Binder, Marc Mostman and Christopher H. Warner. Universal Pictures presents a Blumhouse production, in association with Striker Entertainment.",
-      "runtime": 109,
-      "times": [
-        {
-          "starts_at": "2023-11-03T18:00:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-44970/"
-        },
-        {
-          "starts_at": "2023-11-03T21:20:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-44965/"
-        }
-      ]
-    },
-    {
-      "title": "On the Adamant",
-      "trailer": "https://www.youtube.com/watch?v=vmWDHgsW8BM",
-      "synopsis": "Moored on the banks of the Seine in the heart of Paris, the Adamant is a floating care centre that welcomes adults suffering from mental disorders. Using a variety of different approaches, they offer care that grounds participants in time and space, helping to keep spirits high on the path to recovery. The team that runs it tries to resist the deterioration and dehumanization of psychiatry as best they can. The film invites us to board to meet the patients and caregivers who inhabit the Adamant in their day-to-day lives.",
-      "runtime": 114,
-      "times": [
-        {
-          "starts_at": "2023-11-03T12:50:00+00:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-42072/"
-        },
-        {
-          "starts_at": "2023-11-03T17:50:00+00:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-42055/"
-        },
-        {
-          "starts_at": "2023-11-03T13:00:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-68391/"
-        },
-        {
-          "starts_at": "2023-11-03T14:40:00+00:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-13307/"
-        },
-        {
-          "starts_at": "2023-11-03T15:00:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-19990/"
-        },
-        {
-          "starts_at": "2023-11-03T17:50:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-19989/"
-        },
-        {
-          "starts_at": "2023-11-03T20:40:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-19988/"
-        },
-        {
-          "starts_at": "2023-11-03T16:10:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-85309/"
-        },
-        {
-          "starts_at": "2023-11-03T18:40:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-85306/"
-        }
-      ]
-    },
-    {
       "title": "How to Have Sex",
       "trailer": null,
       "synopsis": "Three British teenage girls go on a rites-of-passage holiday, drinking, clubbing and hooking up in what should be the best summer of their lives. As they dance their way across the sun-drenched streets of Malia, they find themselves navigating the complexities of sex, consent and self-discovery.",
@@ -295,16 +182,6 @@
           "url": "https://www.curzon.com/ticketing/seats/HOX1-13309/"
         },
         {
-          "starts_at": "2023-11-03T13:00:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-19995/"
-        },
-        {
-          "starts_at": "2023-11-03T15:15:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-20015/"
-        },
-        {
           "starts_at": "2023-11-03T18:10:00+00:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-19994/"
@@ -315,11 +192,6 @@
           "url": "https://www.curzon.com/ticketing/seats/CAM1-20013/"
         },
         {
-          "starts_at": "2023-11-03T14:00:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-85315/"
-        },
-        {
           "starts_at": "2023-11-03T16:20:00+00:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-85313/"
@@ -328,6 +200,39 @@
           "starts_at": "2023-11-03T21:10:00+00:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-85311/"
+        }
+      ]
+    },
+    {
+      "title": "On the Adamant",
+      "trailer": "https://www.youtube.com/watch?v=vmWDHgsW8BM",
+      "synopsis": "Moored on the banks of the Seine in the heart of Paris, the Adamant is a floating care centre that welcomes adults suffering from mental disorders. Using a variety of different approaches, they offer care that grounds participants in time and space, helping to keep spirits high on the path to recovery. The team that runs it tries to resist the deterioration and dehumanization of psychiatry as best they can. The film invites us to board to meet the patients and caregivers who inhabit the Adamant in their day-to-day lives.",
+      "runtime": 114,
+      "times": [
+        {
+          "starts_at": "2023-11-03T17:50:00+00:00",
+          "site": "Curzon Soho",
+          "url": "https://www.curzon.com/ticketing/seats/SOH1-42055/"
+        },
+        {
+          "starts_at": "2023-11-03T17:50:00+00:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-19989/"
+        },
+        {
+          "starts_at": "2023-11-03T20:40:00+00:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-19988/"
+        },
+        {
+          "starts_at": "2023-11-03T16:10:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-85309/"
+        },
+        {
+          "starts_at": "2023-11-03T18:40:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-85306/"
         }
       ]
     },
@@ -356,80 +261,9 @@
           "url": "https://www.curzon.com/ticketing/seats/SOH1-42074/"
         },
         {
-          "starts_at": "2023-11-03T15:00:00+00:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-13304/"
-        },
-        {
-          "starts_at": "2023-11-03T12:30:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-85334/"
-        },
-        {
           "starts_at": "2023-11-03T18:00:00+00:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-85333/"
-        }
-      ]
-    },
-    {
-      "title": "Past Lives",
-      "trailer": "https://www.youtube.com/watch?v=WJTnve_kdu0",
-      "synopsis": "Nora and Hae Sung, two deeply connected childhood friends, are wrest apart after Nora’s family emigrates from South Korea. Two decades later, they are reunited in New York for one fateful week as they confront notions of destiny, love, and the choices that make a life, in this heartrending modern romance.",
-      "runtime": 106,
-      "times": [
-        {
-          "starts_at": "2023-11-03T12:30:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-68395/"
-        },
-        {
-          "starts_at": "2023-11-03T18:00:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-68394/"
-        },
-        {
-          "starts_at": "2023-11-03T18:30:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-19993/"
-        },
-        {
-          "starts_at": "2023-11-03T15:20:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-85326/"
-        },
-        {
-          "starts_at": "2023-11-03T20:50:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-85324/"
-        }
-      ]
-    },
-    {
-      "title": "A Haunting in Venice",
-      "trailer": "https://www.youtube.com/watch?v=LAywaWCFXgw",
-      "synopsis": "In post-World War II Venice, Poirot, now retired and living in his own exile, reluctantly attends a seance, when one of the guests is murdered, it is up to the former detective to once again uncover the killer.",
-      "runtime": 103,
-      "times": [
-        {
-          "starts_at": "2023-11-03T12:45:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-68387/"
-        },
-        {
-          "starts_at": "2023-11-03T15:15:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-68388/"
-        },
-        {
-          "starts_at": "2023-11-03T17:45:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-68386/"
-        },
-        {
-          "starts_at": "2023-11-03T20:15:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-68385/"
         }
       ]
     },
@@ -453,6 +287,47 @@
           "starts_at": "2023-11-03T18:30:00+00:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-85307/"
+        }
+      ]
+    },
+    {
+      "title": "A Haunting in Venice",
+      "trailer": "https://www.youtube.com/watch?v=LAywaWCFXgw",
+      "synopsis": "In post-World War II Venice, Poirot, now retired and living in his own exile, reluctantly attends a seance, when one of the guests is murdered, it is up to the former detective to once again uncover the killer.",
+      "runtime": 103,
+      "times": [
+        {
+          "starts_at": "2023-11-03T17:45:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-68386/"
+        },
+        {
+          "starts_at": "2023-11-03T20:15:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-68385/"
+        }
+      ]
+    },
+    {
+      "title": "Past Lives",
+      "trailer": "https://www.youtube.com/watch?v=WJTnve_kdu0",
+      "synopsis": "Nora and Hae Sung, two deeply connected childhood friends, are wrest apart after Nora’s family emigrates from South Korea. Two decades later, they are reunited in New York for one fateful week as they confront notions of destiny, love, and the choices that make a life, in this heartrending modern romance.",
+      "runtime": 106,
+      "times": [
+        {
+          "starts_at": "2023-11-03T18:00:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-68394/"
+        },
+        {
+          "starts_at": "2023-11-03T18:30:00+00:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-19993/"
+        },
+        {
+          "starts_at": "2023-11-03T20:50:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-85324/"
         }
       ]
     },
@@ -481,11 +356,6 @@
           "starts_at": "2023-11-03T21:00:00+00:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-19987/"
-        },
-        {
-          "starts_at": "2023-11-03T13:50:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-85314/"
         },
         {
           "starts_at": "2023-11-03T21:00:00+00:00",
@@ -532,27 +402,9 @@
       "runtime": 108,
       "times": [
         {
-          "starts_at": "2023-11-03T13:00:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-85336/"
-        },
-        {
           "starts_at": "2023-11-03T18:10:00+00:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-85335/"
-        }
-      ]
-    },
-    {
-      "title": "DocHouse: Pianoforte",
-      "trailer": null,
-      "synopsis": "Considered to be one of the most prestigious competitions in classical music, the International Chopin Piano Competition, held in Warsaw every five years since 1927, has been a career launchpad for the world's greatest piano virtuosos.\r\n\r\nPianoforte navigates its way through the multi-stage competition alongside a selection of 2021's elite young hopefuls. We plunge deep into this world of nuanced notes and high drama, in a riveting, adrenaline rush of a film. The pressure is enormous, the practice is exacting, the performances are ecstatic.",
-      "runtime": 91,
-      "times": [
-        {
-          "starts_at": "2023-11-03T15:00:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-85466/"
         }
       ]
     },
