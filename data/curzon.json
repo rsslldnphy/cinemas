@@ -7,11 +7,6 @@
       "runtime": 206,
       "times": [
         {
-          "starts_at": "2023-11-04T11:00:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-44983/"
-        },
-        {
           "starts_at": "2023-11-04T12:40:00+00:00",
           "site": "Curzon Aldgate",
           "url": "https://www.curzon.com/ticketing/seats/ALD1-44980/"
@@ -32,19 +27,9 @@
           "url": "https://www.curzon.com/ticketing/seats/ALD1-44987/"
         },
         {
-          "starts_at": "2023-11-04T12:10:00+00:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-42084/"
-        },
-        {
           "starts_at": "2023-11-04T19:45:00+00:00",
           "site": "Curzon Soho",
           "url": "https://www.curzon.com/ticketing/seats/SOH1-42079/"
-        },
-        {
-          "starts_at": "2023-11-04T12:00:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-68430/"
         },
         {
           "starts_at": "2023-11-04T13:45:00+00:00",
@@ -67,11 +52,6 @@
           "url": "https://www.curzon.com/ticketing/seats/VIC1-68415/"
         },
         {
-          "starts_at": "2023-11-04T11:45:00+00:00",
-          "site": "Curzon Mayfair",
-          "url": "https://www.curzon.com/ticketing/seats/MAY1-25162/"
-        },
-        {
           "starts_at": "2023-11-04T14:45:00+00:00",
           "site": "Curzon Mayfair",
           "url": "https://www.curzon.com/ticketing/seats/MAY1-25167/"
@@ -80,11 +60,6 @@
           "starts_at": "2023-11-04T19:00:00+00:00",
           "site": "Curzon Mayfair",
           "url": "https://www.curzon.com/ticketing/seats/MAY1-25164/"
-        },
-        {
-          "starts_at": "2023-11-04T11:40:00+00:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-13236/"
         },
         {
           "starts_at": "2023-11-04T15:30:00+00:00",
@@ -102,11 +77,6 @@
           "url": "https://www.curzon.com/ticketing/seats/HOX1-13241/"
         },
         {
-          "starts_at": "2023-11-04T12:00:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-20025/"
-        },
-        {
           "starts_at": "2023-11-04T14:45:00+00:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-20019/"
@@ -115,11 +85,6 @@
           "starts_at": "2023-11-04T19:00:00+00:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-20029/"
-        },
-        {
-          "starts_at": "2023-11-04T11:10:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-85356/"
         },
         {
           "starts_at": "2023-11-04T16:40:00+00:00",
@@ -134,34 +99,11 @@
       ]
     },
     {
-      "title": "TAYLOR SWIFT | THE ERAS TOUR",
-      "trailer": null,
-      "synopsis": "The cultural phenomenon continues on the big screen! Immerse yourself in this once-in-a-lifetime concert film experience with a breathtaking, cinematic view of the history-making tour. Taylor Swift Eras attire and friendship bracelets are strongly encouraged!",
-      "runtime": 168,
-      "times": [
-        {
-          "starts_at": "2023-11-04T11:20:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-44982/"
-        },
-        {
-          "starts_at": "2023-11-04T14:45:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-68429/"
-        }
-      ]
-    },
-    {
       "title": "Bottoms",
       "trailer": null,
       "synopsis": "Two teen girls start a fight club to find someone to have sex with before graduation.",
       "runtime": 91,
       "times": [
-        {
-          "starts_at": "2023-11-04T11:40:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-44981/"
-        },
         {
           "starts_at": "2023-11-04T14:00:00+00:00",
           "site": "Curzon Aldgate",
@@ -242,11 +184,6 @@
           "url": "https://www.curzon.com/ticketing/seats/VIC1-68422/"
         },
         {
-          "starts_at": "2023-11-04T11:20:00+00:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-13240/"
-        },
-        {
           "starts_at": "2023-11-04T16:00:00+00:00",
           "site": "Curzon Hoxton",
           "url": "https://www.curzon.com/ticketing/seats/HOX1-13242/"
@@ -280,97 +217,6 @@
           "starts_at": "2023-11-04T20:40:00+00:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-85358/"
-        }
-      ]
-    },
-    {
-      "title": "20,000 Species of Bees",
-      "trailer": "https://www.youtube.com/watch?v=9ZSaa-7aBss",
-      "synopsis": "Lucía is a six-year-old girl, who sometimes struggles as the world tries to catch up with the fact that she has a penis. As the summer holidays pass, she explores her femininity alongside the women of her family who at the same time reflect on their own femininity.",
-      "runtime": 128,
-      "times": [
-        {
-          "starts_at": "2023-11-04T11:10:00+00:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-42081/"
-        },
-        {
-          "starts_at": "2023-11-04T16:45:00+00:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-42078/"
-        },
-        {
-          "starts_at": "2023-11-04T14:00:00+00:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-13243/"
-        },
-        {
-          "starts_at": "2023-11-04T12:45:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-20023/"
-        },
-        {
-          "starts_at": "2023-11-04T20:50:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-85361/"
-        }
-      ]
-    },
-    {
-      "title": "On the Adamant",
-      "trailer": "https://www.youtube.com/watch?v=vmWDHgsW8BM",
-      "synopsis": "Moored on the banks of the Seine in the heart of Paris, the Adamant is a floating care centre that welcomes adults suffering from mental disorders. Using a variety of different approaches, they offer care that grounds participants in time and space, helping to keep spirits high on the path to recovery. The team that runs it tries to resist the deterioration and dehumanization of psychiatry as best they can. The film invites us to board to meet the patients and caregivers who inhabit the Adamant in their day-to-day lives.",
-      "runtime": 114,
-      "times": [
-        {
-          "starts_at": "2023-11-04T11:30:00+00:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-42085/"
-        },
-        {
-          "starts_at": "2023-11-04T18:30:00+00:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-42054/"
-        },
-        {
-          "starts_at": "2023-11-04T20:45:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-68424/"
-        },
-        {
-          "starts_at": "2023-11-04T18:40:00+00:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-13239/"
-        },
-        {
-          "starts_at": "2023-11-04T15:30:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-20018/"
-        },
-        {
-          "starts_at": "2023-11-04T18:00:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-20032/"
-        },
-        {
-          "starts_at": "2023-11-04T20:30:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-20000/"
-        },
-        {
-          "starts_at": "2023-11-04T11:20:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-85355/"
-        },
-        {
-          "starts_at": "2023-11-04T16:10:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-85363/"
-        },
-        {
-          "starts_at": "2023-11-04T18:40:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-85327/"
         }
       ]
     },
@@ -451,6 +297,34 @@
       ]
     },
     {
+      "title": "20,000 Species of Bees",
+      "trailer": "https://www.youtube.com/watch?v=9ZSaa-7aBss",
+      "synopsis": "Lucía is a six-year-old girl, who sometimes struggles as the world tries to catch up with the fact that she has a penis. As the summer holidays pass, she explores her femininity alongside the women of her family who at the same time reflect on their own femininity.",
+      "runtime": 128,
+      "times": [
+        {
+          "starts_at": "2023-11-04T16:45:00+00:00",
+          "site": "Curzon Soho",
+          "url": "https://www.curzon.com/ticketing/seats/SOH1-42078/"
+        },
+        {
+          "starts_at": "2023-11-04T14:00:00+00:00",
+          "site": "Curzon Hoxton",
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-13243/"
+        },
+        {
+          "starts_at": "2023-11-04T12:45:00+00:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-20023/"
+        },
+        {
+          "starts_at": "2023-11-04T20:50:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-85361/"
+        }
+      ]
+    },
+    {
       "title": "Raindance 2023: Un Amor",
       "trailer": null,
       "synopsis": "Based on the eponymous best selling novel by Sara Mesa, UN AMOR is a striking account of existential doubt and the transformative power of carnal desire, exploring the subversive nature of gender roles.",
@@ -464,30 +338,50 @@
       ]
     },
     {
-      "title": "A Haunting in Venice",
-      "trailer": "https://www.youtube.com/watch?v=LAywaWCFXgw",
-      "synopsis": "In post-World War II Venice, Poirot, now retired and living in his own exile, reluctantly attends a seance, when one of the guests is murdered, it is up to the former detective to once again uncover the killer.",
-      "runtime": 103,
+      "title": "On the Adamant",
+      "trailer": "https://www.youtube.com/watch?v=vmWDHgsW8BM",
+      "synopsis": "Moored on the banks of the Seine in the heart of Paris, the Adamant is a floating care centre that welcomes adults suffering from mental disorders. Using a variety of different approaches, they offer care that grounds participants in time and space, helping to keep spirits high on the path to recovery. The team that runs it tries to resist the deterioration and dehumanization of psychiatry as best they can. The film invites us to board to meet the patients and caregivers who inhabit the Adamant in their day-to-day lives.",
+      "runtime": 114,
       "times": [
         {
-          "starts_at": "2023-11-04T12:15:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-68421/"
+          "starts_at": "2023-11-04T18:30:00+00:00",
+          "site": "Curzon Soho",
+          "url": "https://www.curzon.com/ticketing/seats/SOH1-42054/"
         },
         {
-          "starts_at": "2023-11-04T15:15:00+00:00",
+          "starts_at": "2023-11-04T20:45:00+00:00",
           "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-68419/"
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-68424/"
         },
         {
-          "starts_at": "2023-11-04T17:45:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-68417/"
+          "starts_at": "2023-11-04T18:40:00+00:00",
+          "site": "Curzon Hoxton",
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-13239/"
         },
         {
-          "starts_at": "2023-11-04T20:15:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-68414/"
+          "starts_at": "2023-11-04T15:30:00+00:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-20018/"
+        },
+        {
+          "starts_at": "2023-11-04T18:00:00+00:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-20032/"
+        },
+        {
+          "starts_at": "2023-11-04T20:30:00+00:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-20000/"
+        },
+        {
+          "starts_at": "2023-11-04T16:10:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-85363/"
+        },
+        {
+          "starts_at": "2023-11-04T18:40:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-85327/"
         }
       ]
     },
@@ -535,6 +429,42 @@
       ]
     },
     {
+      "title": "TAYLOR SWIFT | THE ERAS TOUR",
+      "trailer": null,
+      "synopsis": "The cultural phenomenon continues on the big screen! Immerse yourself in this once-in-a-lifetime concert film experience with a breathtaking, cinematic view of the history-making tour. Taylor Swift Eras attire and friendship bracelets are strongly encouraged!",
+      "runtime": 168,
+      "times": [
+        {
+          "starts_at": "2023-11-04T14:45:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-68429/"
+        }
+      ]
+    },
+    {
+      "title": "A Haunting in Venice",
+      "trailer": "https://www.youtube.com/watch?v=LAywaWCFXgw",
+      "synopsis": "In post-World War II Venice, Poirot, now retired and living in his own exile, reluctantly attends a seance, when one of the guests is murdered, it is up to the former detective to once again uncover the killer.",
+      "runtime": 103,
+      "times": [
+        {
+          "starts_at": "2023-11-04T15:15:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-68419/"
+        },
+        {
+          "starts_at": "2023-11-04T17:45:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-68417/"
+        },
+        {
+          "starts_at": "2023-11-04T20:15:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-68414/"
+        }
+      ]
+    },
+    {
       "title": "Rustin",
       "trailer": null,
       "synopsis": "The architect of 1963’s momentous March on Washington, Bayard Rustin was one of the greatest activists and organizers the world has ever known. He challenged authority, never apologized for who he was, what he believed, or who he desired. And he did not back down. He made history, and in turn, he was forgotten. Directed by DGA award and five-time Tony award winner George C. Wolfe and starring Emmy award winner Colman Domingo, Rustin shines a long overdue spotlight on the extraordinary man who, alongside giants like the Reverend Martin Luther King Jr., Adam Clayton Powell Jr., and Ella Baker, dared to imagine a different world, and inspired a movement in a march toward freedom. Produced by Academy award winner Bruce Cohen, Higher Ground's Tonia Davis and George C. Wolfe, the film features an all-star cast including Chris Rock, Glynn Turman, Jeffrey Wright and Audra McDonald.",
@@ -549,11 +479,6 @@
           "starts_at": "2023-11-04T21:00:00+00:00",
           "site": "Curzon Victoria",
           "url": "https://www.curzon.com/ticketing/seats/VIC1-68428/"
-        },
-        {
-          "starts_at": "2023-11-04T11:30:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-85351/"
         },
         {
           "starts_at": "2023-11-04T18:30:00+00:00",
@@ -574,11 +499,6 @@
           "url": "https://www.curzon.com/ticketing/seats/VIC1-68423/"
         },
         {
-          "starts_at": "2023-11-04T12:15:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-20022/"
-        },
-        {
           "starts_at": "2023-11-04T18:40:00+00:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-20030/"
@@ -592,24 +512,6 @@
           "starts_at": "2023-11-04T21:10:00+00:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-85357/"
-        }
-      ]
-    },
-    {
-      "title": "The Great Escaper",
-      "trailer": null,
-      "synopsis": "In the summer of 2014, Bernard Jordan (Michael Caine) made global headlines. He had staged a “great escape” from his care home to join fellow war veterans on a beach in Normandy, commemorating their fallen comrades at the D-Day Landings 70th anniversary. It was a story that captured the imagination of the world as Bernie embodied the defiant, “can-do” spirit of a generation that was fast disappearing. But of course, it wasn’t the whole story. It was an inspirational but sanitised retelling of one man’s need to come to terms with the lasting trauma of war. Bernie’s adventure, spanning a mere 48 hours, also marked the culmination of his 60-year marriage to Rene (Glenda Jackson) – THE GREAT ESCAPER celebrates their enduring love but always with an eye to the lessons we might learn from the Greatest Generation.",
-      "runtime": 96,
-      "times": [
-        {
-          "starts_at": "2023-11-04T12:15:00+00:00",
-          "site": "Curzon Mayfair",
-          "url": "https://www.curzon.com/ticketing/seats/MAY1-25163/"
-        },
-        {
-          "starts_at": "2023-11-04T18:30:00+00:00",
-          "site": "Curzon Mayfair",
-          "url": "https://www.curzon.com/ticketing/seats/MAY1-25166/"
         }
       ]
     },
@@ -632,33 +534,15 @@
       ]
     },
     {
-      "title": "Kids Club: Teenage Mutant Ninja Turtles: Mutant M",
-      "trailer": "https://www.youtube.com/watch?v=SFUk3VJFHhQ",
-      "synopsis": "After years of being sheltered from the human world, the Turtle brothers set out to win the hearts of New Yorkers and be accepted as normal teenagers through heroic acts. Their new friend April O’Neil helps them take on a mysterious crime syndicate, but they soon get in over their heads when an army of mutants is unleashed upon them.",
-      "runtime": 100,
+      "title": "The Great Escaper",
+      "trailer": null,
+      "synopsis": "In the summer of 2014, Bernard Jordan (Michael Caine) made global headlines. He had staged a “great escape” from his care home to join fellow war veterans on a beach in Normandy, commemorating their fallen comrades at the D-Day Landings 70th anniversary. It was a story that captured the imagination of the world as Bernie embodied the defiant, “can-do” spirit of a generation that was fast disappearing. But of course, it wasn’t the whole story. It was an inspirational but sanitised retelling of one man’s need to come to terms with the lasting trauma of war. Bernie’s adventure, spanning a mere 48 hours, also marked the culmination of his 60-year marriage to Rene (Glenda Jackson) – THE GREAT ESCAPER celebrates their enduring love but always with an eye to the lessons we might learn from the Greatest Generation.",
+      "runtime": 96,
       "times": [
         {
-          "starts_at": "2023-11-04T10:30:00+00:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-13099/"
-        },
-        {
-          "starts_at": "2023-11-04T10:30:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-19868/"
-        }
-      ]
-    },
-    {
-      "title": "Anatomy of a Fall",
-      "trailer": "https://www.youtube.com/watch?v=_MdTMA0PetA",
-      "synopsis": "When her husband Samuel is mysteriously found dead in the snow below their secluded chalet, Sandra becomes the main suspect when the police begin to question whether he fell or was pushed. The trial soon becomes not just an investigation, but a gripping psychological journey into the depths of Sandra and Samuel's complicated marriage. With conflicting evidence and inconsistent testimony, words are wielded like weapons and shocking truths come to light in this thrilling Palme d’Or winner.",
-      "runtime": 152,
-      "times": [
-        {
-          "starts_at": "2023-11-04T11:00:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-85464/"
+          "starts_at": "2023-11-04T18:30:00+00:00",
+          "site": "Curzon Mayfair",
+          "url": "https://www.curzon.com/ticketing/seats/MAY1-25166/"
         }
       ]
     },
