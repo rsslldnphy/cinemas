@@ -7,11 +7,6 @@
       "runtime": 206,
       "times": [
         {
-          "starts_at": "2023-11-06T11:00:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-45034/"
-        },
-        {
           "starts_at": "2023-11-06T12:40:00+00:00",
           "site": "Curzon Aldgate",
           "url": "https://www.curzon.com/ticketing/seats/ALD1-45036/"
@@ -42,11 +37,6 @@
           "url": "https://www.curzon.com/ticketing/seats/SOH1-42098/"
         },
         {
-          "starts_at": "2023-11-06T12:00:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-68448/"
-        },
-        {
           "starts_at": "2023-11-06T14:00:00+00:00",
           "site": "Curzon Victoria",
           "url": "https://www.curzon.com/ticketing/seats/VIC1-68455/"
@@ -67,11 +57,6 @@
           "url": "https://www.curzon.com/ticketing/seats/VIC1-68450/"
         },
         {
-          "starts_at": "2023-11-06T12:15:00+00:00",
-          "site": "Curzon Mayfair",
-          "url": "https://www.curzon.com/ticketing/seats/MAY1-25189/"
-        },
-        {
           "starts_at": "2023-11-06T15:15:00+00:00",
           "site": "Curzon Mayfair",
           "url": "https://www.curzon.com/ticketing/seats/MAY1-25194/"
@@ -80,11 +65,6 @@
           "starts_at": "2023-11-06T19:30:00+00:00",
           "site": "Curzon Mayfair",
           "url": "https://www.curzon.com/ticketing/seats/MAY1-25191/"
-        },
-        {
-          "starts_at": "2023-11-06T11:40:00+00:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-13261/"
         },
         {
           "starts_at": "2023-11-06T15:30:00+00:00",
@@ -100,11 +80,6 @@
           "starts_at": "2023-11-06T19:40:00+00:00",
           "site": "Curzon Hoxton",
           "url": "https://www.curzon.com/ticketing/seats/HOX1-13265/"
-        },
-        {
-          "starts_at": "2023-11-06T11:45:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-20061/"
         },
         {
           "starts_at": "2023-11-06T14:45:00+00:00",
@@ -135,11 +110,6 @@
       "runtime": 91,
       "times": [
         {
-          "starts_at": "2023-11-06T11:40:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-45035/"
-        },
-        {
           "starts_at": "2023-11-06T14:00:00+00:00",
           "site": "Curzon Aldgate",
           "url": "https://www.curzon.com/ticketing/seats/ALD1-45040/"
@@ -157,11 +127,6 @@
       "synopsis": "A man solitary and cold, methodical and unencumbered by scruples or regrets, the killer waits in the shadows, watching for his next target. And yet the longer he waits, the more he thinks he's losing his mind, if not his cool. A brutal, bloody and stylish noir story of a professional assassin lost in a world without a moral compass, this is a case study of a man alone, armed to the teeth and slowly losing his mind.",
       "runtime": 118,
       "times": [
-        {
-          "starts_at": "2023-11-06T12:00:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-45048/"
-        },
         {
           "starts_at": "2023-11-06T15:00:00+00:00",
           "site": "Curzon Aldgate",
@@ -191,11 +156,6 @@
           "starts_at": "2023-11-06T15:00:00+00:00",
           "site": "Curzon Victoria",
           "url": "https://www.curzon.com/ticketing/seats/VIC1-68457/"
-        },
-        {
-          "starts_at": "2023-11-06T11:20:00+00:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-13264/"
         },
         {
           "starts_at": "2023-11-06T16:00:00+00:00",
@@ -267,59 +227,6 @@
           "starts_at": "2023-11-06T21:20:00+00:00",
           "site": "Curzon Aldgate",
           "url": "https://www.curzon.com/ticketing/seats/ALD1-45047/"
-        }
-      ]
-    },
-    {
-      "title": "On the Adamant",
-      "trailer": "https://www.youtube.com/watch?v=vmWDHgsW8BM",
-      "synopsis": "Moored on the banks of the Seine in the heart of Paris, the Adamant is a floating care centre that welcomes adults suffering from mental disorders. Using a variety of different approaches, they offer care that grounds participants in time and space, helping to keep spirits high on the path to recovery. The team that runs it tries to resist the deterioration and dehumanization of psychiatry as best they can. The film invites us to board to meet the patients and caregivers who inhabit the Adamant in their day-to-day lives.",
-      "runtime": 114,
-      "times": [
-        {
-          "starts_at": "2023-11-06T12:10:00+00:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-42103/"
-        },
-        {
-          "starts_at": "2023-11-06T18:20:00+00:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-42099/"
-        },
-        {
-          "starts_at": "2023-11-06T20:45:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-68460/"
-        },
-        {
-          "starts_at": "2023-11-06T21:20:00+00:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-13263/"
-        },
-        {
-          "starts_at": "2023-11-06T15:15:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-20054/"
-        },
-        {
-          "starts_at": "2023-11-06T17:40:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-20068/"
-        },
-        {
-          "starts_at": "2023-11-06T20:30:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-20002/"
-        },
-        {
-          "starts_at": "2023-11-06T16:10:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-85398/"
-        },
-        {
-          "starts_at": "2023-11-06T18:40:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-85329/"
         }
       ]
     },
@@ -415,6 +322,54 @@
       ]
     },
     {
+      "title": "On the Adamant",
+      "trailer": "https://www.youtube.com/watch?v=vmWDHgsW8BM",
+      "synopsis": "Moored on the banks of the Seine in the heart of Paris, the Adamant is a floating care centre that welcomes adults suffering from mental disorders. Using a variety of different approaches, they offer care that grounds participants in time and space, helping to keep spirits high on the path to recovery. The team that runs it tries to resist the deterioration and dehumanization of psychiatry as best they can. The film invites us to board to meet the patients and caregivers who inhabit the Adamant in their day-to-day lives.",
+      "runtime": 114,
+      "times": [
+        {
+          "starts_at": "2023-11-06T18:20:00+00:00",
+          "site": "Curzon Soho",
+          "url": "https://www.curzon.com/ticketing/seats/SOH1-42099/"
+        },
+        {
+          "starts_at": "2023-11-06T20:45:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-68460/"
+        },
+        {
+          "starts_at": "2023-11-06T21:20:00+00:00",
+          "site": "Curzon Hoxton",
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-13263/"
+        },
+        {
+          "starts_at": "2023-11-06T15:15:00+00:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-20054/"
+        },
+        {
+          "starts_at": "2023-11-06T17:40:00+00:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-20068/"
+        },
+        {
+          "starts_at": "2023-11-06T20:30:00+00:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-20002/"
+        },
+        {
+          "starts_at": "2023-11-06T16:10:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-85398/"
+        },
+        {
+          "starts_at": "2023-11-06T18:40:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-85329/"
+        }
+      ]
+    },
+    {
       "title": "Past Lives",
       "trailer": "https://www.youtube.com/watch?v=WJTnve_kdu0",
       "synopsis": "Nora and Hae Sung, two deeply connected childhood friends, are wrest apart after Nora’s family emigrates from South Korea. Two decades later, they are reunited in New York for one fateful week as they confront notions of destiny, love, and the choices that make a life, in this heartrending modern romance.",
@@ -429,11 +384,6 @@
           "starts_at": "2023-11-06T18:00:00+00:00",
           "site": "Curzon Victoria",
           "url": "https://www.curzon.com/ticketing/seats/VIC1-68459/"
-        },
-        {
-          "starts_at": "2023-11-06T12:15:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-20058/"
         },
         {
           "starts_at": "2023-11-06T18:20:00+00:00",
