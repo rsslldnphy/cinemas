@@ -7,11 +7,6 @@
       "runtime": 206,
       "times": [
         {
-          "starts_at": "2023-11-08T11:00:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-45052/"
-        },
-        {
           "starts_at": "2023-11-08T12:40:00+00:00",
           "site": "Curzon Aldgate",
           "url": "https://www.curzon.com/ticketing/seats/ALD1-45050/"
@@ -42,11 +37,6 @@
           "url": "https://www.curzon.com/ticketing/seats/SOH1-42131/"
         },
         {
-          "starts_at": "2023-11-08T12:15:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-68483/"
-        },
-        {
           "starts_at": "2023-11-08T14:15:00+00:00",
           "site": "Curzon Victoria",
           "url": "https://www.curzon.com/ticketing/seats/VIC1-68488/"
@@ -67,16 +57,6 @@
           "url": "https://www.curzon.com/ticketing/seats/VIC1-68481/"
         },
         {
-          "starts_at": "2023-11-08T12:00:00+00:00",
-          "site": "Curzon Mayfair",
-          "url": "https://www.curzon.com/ticketing/seats/MAY1-25196/"
-        },
-        {
-          "starts_at": "2023-11-08T11:20:00+00:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-13291/"
-        },
-        {
           "starts_at": "2023-11-08T15:30:00+00:00",
           "site": "Curzon Hoxton",
           "url": "https://www.curzon.com/ticketing/seats/HOX1-13283/"
@@ -92,11 +72,6 @@
           "url": "https://www.curzon.com/ticketing/seats/HOX1-13287/"
         },
         {
-          "starts_at": "2023-11-08T12:00:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-20115/"
-        },
-        {
           "starts_at": "2023-11-08T14:45:00+00:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-20109/"
@@ -105,11 +80,6 @@
           "starts_at": "2023-11-08T19:00:00+00:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-20119/"
-        },
-        {
-          "starts_at": "2023-11-08T11:10:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-85424/"
         },
         {
           "starts_at": "2023-11-08T15:20:00+00:00",
@@ -130,11 +100,6 @@
       "runtime": 91,
       "times": [
         {
-          "starts_at": "2023-11-08T11:40:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-45051/"
-        },
-        {
           "starts_at": "2023-11-08T14:00:00+00:00",
           "site": "Curzon Aldgate",
           "url": "https://www.curzon.com/ticketing/seats/ALD1-45061/"
@@ -143,79 +108,6 @@
           "starts_at": "2023-11-08T18:40:00+00:00",
           "site": "Curzon Aldgate",
           "url": "https://www.curzon.com/ticketing/seats/ALD1-45055/"
-        }
-      ]
-    },
-    {
-      "title": "The Killer",
-      "trailer": null,
-      "synopsis": "A man solitary and cold, methodical and unencumbered by scruples or regrets, the killer waits in the shadows, watching for his next target. And yet the longer he waits, the more he thinks he's losing his mind, if not his cool. A brutal, bloody and stylish noir story of a professional assassin lost in a world without a moral compass, this is a case study of a man alone, armed to the teeth and slowly losing his mind.",
-      "runtime": 118,
-      "times": [
-        {
-          "starts_at": "2023-11-08T12:20:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-45053/"
-        },
-        {
-          "starts_at": "2023-11-08T20:40:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-45056/"
-        },
-        {
-          "starts_at": "2023-11-08T13:10:00+00:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-42140/"
-        },
-        {
-          "starts_at": "2023-11-08T15:15:00+00:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-42132/"
-        },
-        {
-          "starts_at": "2023-11-08T20:45:00+00:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-42134/"
-        },
-        {
-          "starts_at": "2023-11-08T15:45:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-68486/"
-        },
-        {
-          "starts_at": "2023-11-08T11:00:00+00:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-13288/"
-        },
-        {
-          "starts_at": "2023-11-08T13:45:00+00:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-13284/"
-        },
-        {
-          "starts_at": "2023-11-08T12:45:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-20114/"
-        },
-        {
-          "starts_at": "2023-11-08T15:45:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-20107/"
-        },
-        {
-          "starts_at": "2023-11-08T20:50:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-20117/"
-        },
-        {
-          "starts_at": "2023-11-08T15:30:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-85427/"
-        },
-        {
-          "starts_at": "2023-11-08T20:50:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-85437/"
         }
       ]
     },
@@ -299,60 +191,65 @@
       ]
     },
     {
-      "title": "How to Have Sex",
+      "title": "The Killer",
       "trailer": null,
-      "synopsis": "Three British teenage girls go on a rites-of-passage holiday, drinking, clubbing and hooking up in what should be the best summer of their lives. As they dance their way across the sun-drenched streets of Malia, they find themselves navigating the complexities of sex, consent and self-discovery.",
-      "runtime": 91,
+      "synopsis": "A man solitary and cold, methodical and unencumbered by scruples or regrets, the killer waits in the shadows, watching for his next target. And yet the longer he waits, the more he thinks he's losing his mind, if not his cool. A brutal, bloody and stylish noir story of a professional assassin lost in a world without a moral compass, this is a case study of a man alone, armed to the teeth and slowly losing his mind.",
+      "runtime": 118,
       "times": [
         {
-          "starts_at": "2023-11-08T11:40:00+00:00",
+          "starts_at": "2023-11-08T20:40:00+00:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-45056/"
+        },
+        {
+          "starts_at": "2023-11-08T13:10:00+00:00",
           "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-42135/"
+          "url": "https://www.curzon.com/ticketing/seats/SOH1-42140/"
         },
         {
-          "starts_at": "2023-11-08T18:00:00+00:00",
+          "starts_at": "2023-11-08T15:15:00+00:00",
           "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-42133/"
+          "url": "https://www.curzon.com/ticketing/seats/SOH1-42132/"
         },
         {
-          "starts_at": "2023-11-08T11:40:00+00:00",
+          "starts_at": "2023-11-08T20:45:00+00:00",
+          "site": "Curzon Soho",
+          "url": "https://www.curzon.com/ticketing/seats/SOH1-42134/"
+        },
+        {
+          "starts_at": "2023-11-08T15:45:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-68486/"
+        },
+        {
+          "starts_at": "2023-11-08T13:45:00+00:00",
           "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-13286/"
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-13284/"
         },
         {
-          "starts_at": "2023-11-08T17:00:00+00:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-13281/"
-        },
-        {
-          "starts_at": "2023-11-08T13:00:00+00:00",
+          "starts_at": "2023-11-08T12:45:00+00:00",
           "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-20111/"
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-20114/"
+        },
+        {
+          "starts_at": "2023-11-08T15:45:00+00:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-20107/"
+        },
+        {
+          "starts_at": "2023-11-08T20:50:00+00:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-20117/"
         },
         {
           "starts_at": "2023-11-08T15:30:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-20110/"
-        },
-        {
-          "starts_at": "2023-11-08T20:30:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-20118/"
-        },
-        {
-          "starts_at": "2023-11-08T14:00:00+00:00",
           "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-85433/"
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-85427/"
         },
         {
-          "starts_at": "2023-11-08T16:20:00+00:00",
+          "starts_at": "2023-11-08T20:50:00+00:00",
           "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-85425/"
-        },
-        {
-          "starts_at": "2023-11-08T21:10:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-85434/"
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-85437/"
         }
       ]
     },
@@ -398,11 +295,6 @@
           "url": "https://www.curzon.com/ticketing/seats/CAM1-20005/"
         },
         {
-          "starts_at": "2023-11-08T11:20:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-85423/"
-        },
-        {
           "starts_at": "2023-11-08T16:10:00+00:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-85426/"
@@ -434,11 +326,54 @@
           "starts_at": "2023-11-08T12:30:00+00:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-20113/"
+        }
+      ]
+    },
+    {
+      "title": "How to Have Sex",
+      "trailer": null,
+      "synopsis": "Three British teenage girls go on a rites-of-passage holiday, drinking, clubbing and hooking up in what should be the best summer of their lives. As they dance their way across the sun-drenched streets of Malia, they find themselves navigating the complexities of sex, consent and self-discovery.",
+      "runtime": 91,
+      "times": [
+        {
+          "starts_at": "2023-11-08T18:00:00+00:00",
+          "site": "Curzon Soho",
+          "url": "https://www.curzon.com/ticketing/seats/SOH1-42133/"
         },
         {
-          "starts_at": "2023-11-08T11:40:00+00:00",
+          "starts_at": "2023-11-08T17:00:00+00:00",
+          "site": "Curzon Hoxton",
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-13281/"
+        },
+        {
+          "starts_at": "2023-11-08T13:00:00+00:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-20111/"
+        },
+        {
+          "starts_at": "2023-11-08T15:30:00+00:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-20110/"
+        },
+        {
+          "starts_at": "2023-11-08T20:30:00+00:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-20118/"
+        },
+        {
+          "starts_at": "2023-11-08T14:00:00+00:00",
           "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-85432/"
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-85433/"
+        },
+        {
+          "starts_at": "2023-11-08T16:20:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-85425/"
+        },
+        {
+          "starts_at": "2023-11-08T21:10:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-85434/"
         }
       ]
     },
@@ -525,11 +460,6 @@
           "url": "https://www.curzon.com/ticketing/seats/VIC1-68485/"
         },
         {
-          "starts_at": "2023-11-08T12:15:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-20112/"
-        },
-        {
           "starts_at": "2023-11-08T18:40:00+00:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-20120/"
@@ -561,11 +491,6 @@
           "starts_at": "2023-11-08T21:15:00+00:00",
           "site": "Curzon Victoria",
           "url": "https://www.curzon.com/ticketing/seats/VIC1-68493/"
-        },
-        {
-          "starts_at": "2023-11-08T11:30:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-85430/"
         },
         {
           "starts_at": "2023-11-08T18:30:00+00:00",
@@ -633,19 +558,6 @@
           "starts_at": "2023-11-08T15:00:00+00:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-85477/"
-        }
-      ]
-    },
-    {
-      "title": "DocHouse: Guardian Documentaries Showcase",
-      "trailer": null,
-      "synopsis": "Join us for a collection of short films, curated in collaboration with Guardian Documentaries, telling urgent contemporary stories from around the world with a unique artistic lens.  The films explore a range of compelling personal perspectives, from identity in the age of AI, to a lost language in Laos, to life in Yellowstone's winter wilderness.",
-      "runtime": 81,
-      "times": [
-        {
-          "starts_at": "2023-11-08T18:20:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-84975/"
         }
       ]
     },
