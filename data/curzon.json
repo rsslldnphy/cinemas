@@ -1,77 +1,6 @@
 {
   "2023-11-09": [
     {
-      "title": "Bottoms",
-      "trailer": null,
-      "synopsis": "Two teen girls start a fight club to find someone to have sex with before graduation.",
-      "runtime": 91,
-      "times": [
-        {
-          "starts_at": "2023-11-09T16:20:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-45023/"
-        },
-        {
-          "starts_at": "2023-11-09T21:00:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-45031/"
-        }
-      ]
-    },
-    {
-      "title": "The Killer",
-      "trailer": null,
-      "synopsis": "A man solitary and cold, methodical and unencumbered by scruples or regrets, the killer waits in the shadows, watching for his next target. And yet the longer he waits, the more he thinks he's losing his mind, if not his cool. A brutal, bloody and stylish noir story of a professional assassin lost in a world without a moral compass, this is a case study of a man alone, armed to the teeth and slowly losing his mind.",
-      "runtime": 118,
-      "times": [
-        {
-          "starts_at": "2023-11-09T17:50:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-45025/"
-        },
-        {
-          "starts_at": "2023-11-09T20:40:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-45032/"
-        },
-        {
-          "starts_at": "2023-11-09T18:00:00+00:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-42129/"
-        },
-        {
-          "starts_at": "2023-11-09T20:40:00+00:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-42124/"
-        },
-        {
-          "starts_at": "2023-11-09T20:45:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-68409/"
-        },
-        {
-          "starts_at": "2023-11-09T16:00:00+00:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-13301/"
-        },
-        {
-          "starts_at": "2023-11-09T18:40:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-20105/"
-        },
-        {
-          "starts_at": "2023-11-09T15:30:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-85444/"
-        },
-        {
-          "starts_at": "2023-11-09T20:40:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-85454/"
-        }
-      ]
-    },
-    {
       "title": "The Royal Hotel",
       "trailer": "https://www.youtube.com/watch?v=oab293pN3vQ",
       "synopsis": "Americans Hanna (Julia Garner) and Liv (Jessica Henwick) are best friends backpacking in Australia. After they run out of money, Liv, looking for an adventure, convinces Hanna to take a temporary live-in job behind the bar of a pub called 'The Royal Hotel' in a remote Outback mining town. Bar owner Billy and a host of locals give the girls a riotous introduction to Down Under drinking culture but soon Hanna and Liv find themselves trapped in an unnerving situation that grows rapidly out of their control. A Film by Kitty Green Starring Julia Garner, Jessica Henwick, Toby Wallace, Hugo Weaving, Ursula Yovich, Daniel Henshall, James Frecheville, Herbert Nordrum",
@@ -101,29 +30,9 @@
           "url": "https://www.curzon.com/ticketing/seats/SOH1-42120/"
         },
         {
-          "starts_at": "2023-11-09T15:30:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-68401/"
-        },
-        {
-          "starts_at": "2023-11-09T18:15:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-68399/"
-        },
-        {
           "starts_at": "2023-11-09T19:30:00+00:00",
           "site": "Curzon Mayfair",
           "url": "https://www.curzon.com/ticketing/seats/MAY1-25187/"
-        },
-        {
-          "starts_at": "2023-11-09T15:30:00+00:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-13302/"
-        },
-        {
-          "starts_at": "2023-11-09T17:00:00+00:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-13300/"
         },
         {
           "starts_at": "2023-11-09T19:40:00+00:00",
@@ -143,16 +52,57 @@
       ]
     },
     {
+      "title": "The Killer",
+      "trailer": null,
+      "synopsis": "A man solitary and cold, methodical and unencumbered by scruples or regrets, the killer waits in the shadows, watching for his next target. And yet the longer he waits, the more he thinks he's losing his mind, if not his cool. A brutal, bloody and stylish noir story of a professional assassin lost in a world without a moral compass, this is a case study of a man alone, armed to the teeth and slowly losing his mind.",
+      "runtime": 118,
+      "times": [
+        {
+          "starts_at": "2023-11-09T20:40:00+00:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-45032/"
+        },
+        {
+          "starts_at": "2023-11-09T20:40:00+00:00",
+          "site": "Curzon Soho",
+          "url": "https://www.curzon.com/ticketing/seats/SOH1-42124/"
+        },
+        {
+          "starts_at": "2023-11-09T20:45:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-68409/"
+        },
+        {
+          "starts_at": "2023-11-09T18:40:00+00:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-20105/"
+        },
+        {
+          "starts_at": "2023-11-09T20:40:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-85454/"
+        }
+      ]
+    },
+    {
+      "title": "Bottoms",
+      "trailer": null,
+      "synopsis": "Two teen girls start a fight club to find someone to have sex with before graduation.",
+      "runtime": 91,
+      "times": [
+        {
+          "starts_at": "2023-11-09T21:00:00+00:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-45031/"
+        }
+      ]
+    },
+    {
       "title": "How to Have Sex",
       "trailer": null,
       "synopsis": "Three British teenage girls go on a rites-of-passage holiday, drinking, clubbing and hooking up in what should be the best summer of their lives. As they dance their way across the sun-drenched streets of Malia, they find themselves navigating the complexities of sex, consent and self-discovery.",
       "runtime": 91,
       "times": [
-        {
-          "starts_at": "2023-11-09T15:45:00+00:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-42125/"
-        },
         {
           "starts_at": "2023-11-09T21:00:00+00:00",
           "site": "Curzon Soho",
@@ -164,154 +114,14 @@
           "url": "https://www.curzon.com/ticketing/seats/HOX1-13299/"
         },
         {
-          "starts_at": "2023-11-09T16:00:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-20092/"
-        },
-        {
-          "starts_at": "2023-11-09T17:40:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-20103/"
-        },
-        {
           "starts_at": "2023-11-09T21:10:00+00:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-20100/"
         },
         {
-          "starts_at": "2023-11-09T17:15:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-85442/"
-        },
-        {
           "starts_at": "2023-11-09T21:10:00+00:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-85451/"
-        }
-      ]
-    },
-    {
-      "title": "20,000 Species of Bees",
-      "trailer": "https://www.youtube.com/watch?v=9ZSaa-7aBss",
-      "synopsis": "Lucía is a six-year-old girl, who sometimes struggles as the world tries to catch up with the fact that she has a penis. As the summer holidays pass, she explores her femininity alongside the women of her family who at the same time reflect on their own femininity.",
-      "runtime": 128,
-      "times": [
-        {
-          "starts_at": "2023-11-09T17:00:00+00:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-42121/"
-        },
-        {
-          "starts_at": "2023-11-09T21:00:00+00:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-13313/"
-        },
-        {
-          "starts_at": "2023-11-09T18:00:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-85457/"
-        }
-      ]
-    },
-    {
-      "title": "On the Adamant",
-      "trailer": "https://www.youtube.com/watch?v=vmWDHgsW8BM",
-      "synopsis": "Moored on the banks of the Seine in the heart of Paris, the Adamant is a floating care centre that welcomes adults suffering from mental disorders. Using a variety of different approaches, they offer care that grounds participants in time and space, helping to keep spirits high on the path to recovery. The team that runs it tries to resist the deterioration and dehumanization of psychiatry as best they can. The film invites us to board to meet the patients and caregivers who inhabit the Adamant in their day-to-day lives.",
-      "runtime": 114,
-      "times": [
-        {
-          "starts_at": "2023-11-09T18:20:00+00:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-42130/"
-        },
-        {
-          "starts_at": "2023-11-09T15:30:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-20090/"
-        },
-        {
-          "starts_at": "2023-11-09T18:00:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-20104/"
-        },
-        {
-          "starts_at": "2023-11-09T20:30:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-20004/"
-        },
-        {
-          "starts_at": "2023-11-09T16:10:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-85443/"
-        },
-        {
-          "starts_at": "2023-11-09T18:40:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-85332/"
-        }
-      ]
-    },
-    {
-      "title": "Rustin",
-      "trailer": null,
-      "synopsis": "The architect of 1963’s momentous March on Washington, Bayard Rustin was one of the greatest activists and organizers the world has ever known. He challenged authority, never apologized for who he was, what he believed, or who he desired. And he did not back down. He made history, and in turn, he was forgotten. Directed by DGA award and five-time Tony award winner George C. Wolfe and starring Emmy award winner Colman Domingo, Rustin shines a long overdue spotlight on the extraordinary man who, alongside giants like the Reverend Martin Luther King Jr., Adam Clayton Powell Jr., and Ella Baker, dared to imagine a different world, and inspired a movement in a march toward freedom. Produced by Academy award winner Bruce Cohen, Higher Ground's Tonia Davis and George C. Wolfe, the film features an all-star cast including Chris Rock, Glynn Turman, Jeffrey Wright and Audra McDonald.",
-      "runtime": 106,
-      "times": [
-        {
-          "starts_at": "2023-11-09T16:00:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-68410/"
-        },
-        {
-          "starts_at": "2023-11-09T21:00:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-68413/"
-        },
-        {
-          "starts_at": "2023-11-09T18:30:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-85452/"
-        }
-      ]
-    },
-    {
-      "title": "A Haunting in Venice",
-      "trailer": "https://www.youtube.com/watch?v=LAywaWCFXgw",
-      "synopsis": "In post-World War II Venice, Poirot, now retired and living in his own exile, reluctantly attends a seance, when one of the guests is murdered, it is up to the former detective to once again uncover the killer.",
-      "runtime": 103,
-      "times": [
-        {
-          "starts_at": "2023-11-09T17:45:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-68400/"
-        },
-        {
-          "starts_at": "2023-11-09T20:15:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-68397/"
-        }
-      ]
-    },
-    {
-      "title": "Past Lives",
-      "trailer": "https://www.youtube.com/watch?v=WJTnve_kdu0",
-      "synopsis": "Nora and Hae Sung, two deeply connected childhood friends, are wrest apart after Nora’s family emigrates from South Korea. Two decades later, they are reunited in New York for one fateful week as they confront notions of destiny, love, and the choices that make a life, in this heartrending modern romance.",
-      "runtime": 106,
-      "times": [
-        {
-          "starts_at": "2023-11-09T18:00:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-68408/"
-        },
-        {
-          "starts_at": "2023-11-09T18:20:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-20102/"
-        },
-        {
-          "starts_at": "2023-11-09T20:50:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-85453/"
         }
       ]
     },
@@ -330,11 +140,6 @@
           "starts_at": "2023-11-09T21:20:00+00:00",
           "site": "Curzon Hoxton",
           "url": "https://www.curzon.com/ticketing/seats/HOX1-13296/"
-        },
-        {
-          "starts_at": "2023-11-09T15:45:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-20088/"
         },
         {
           "starts_at": "2023-11-09T20:50:00+00:00",
@@ -367,15 +172,33 @@
       ]
     },
     {
-      "title": "The Great Escaper",
-      "trailer": "https://www.youtube.com/watch?v=uEjslwn022A",
-      "synopsis": "In the summer of 2014, Bernard Jordan (Michael Caine) made global headlines. He had staged a “great escape” from his care home to join fellow war veterans on a beach in Normandy, commemorating their fallen comrades at the D-Day Landings 70th anniversary. It was a story that captured the imagination of the world as Bernie embodied the defiant, “can-do” spirit of a generation that was fast disappearing. But of course, it wasn’t the whole story. It was an inspirational but sanitised retelling of one man’s need to come to terms with the lasting trauma of war. Bernie’s adventure, spanning a mere 48 hours, also marked the culmination of his 60-year marriage to Rene (Glenda Jackson) – THE GREAT ESCAPER celebrates their enduring love but always with an eye to the lessons we might learn from the Greatest Generation.",
-      "runtime": 96,
+      "title": "A Haunting in Venice",
+      "trailer": "https://www.youtube.com/watch?v=LAywaWCFXgw",
+      "synopsis": "In post-World War II Venice, Poirot, now retired and living in his own exile, reluctantly attends a seance, when one of the guests is murdered, it is up to the former detective to once again uncover the killer.",
+      "runtime": 103,
       "times": [
         {
-          "starts_at": "2023-11-09T17:00:00+00:00",
-          "site": "Curzon Mayfair",
-          "url": "https://www.curzon.com/ticketing/seats/MAY1-25182/"
+          "starts_at": "2023-11-09T20:15:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-68397/"
+        }
+      ]
+    },
+    {
+      "title": "Rustin",
+      "trailer": null,
+      "synopsis": "The architect of 1963’s momentous March on Washington, Bayard Rustin was one of the greatest activists and organizers the world has ever known. He challenged authority, never apologized for who he was, what he believed, or who he desired. And he did not back down. He made history, and in turn, he was forgotten. Directed by DGA award and five-time Tony award winner George C. Wolfe and starring Emmy award winner Colman Domingo, Rustin shines a long overdue spotlight on the extraordinary man who, alongside giants like the Reverend Martin Luther King Jr., Adam Clayton Powell Jr., and Ella Baker, dared to imagine a different world, and inspired a movement in a march toward freedom. Produced by Academy award winner Bruce Cohen, Higher Ground's Tonia Davis and George C. Wolfe, the film features an all-star cast including Chris Rock, Glynn Turman, Jeffrey Wright and Audra McDonald.",
+      "runtime": 106,
+      "times": [
+        {
+          "starts_at": "2023-11-09T21:00:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-68413/"
+        },
+        {
+          "starts_at": "2023-11-09T18:30:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-85452/"
         }
       ]
     },
@@ -393,41 +216,33 @@
       ]
     },
     {
-      "title": "DocHouse: Beyond Utopia",
-      "trailer": null,
-      "synopsis": "Gripping, visceral and urgent, Beyond Utopia embeds the viewer with a family of defectors as they attempt to flee North Korea, one of the most oppressive places on Earth - a land they grew up believing was a paradise.",
-      "runtime": 115,
+      "title": "20,000 Species of Bees",
+      "trailer": "https://www.youtube.com/watch?v=9ZSaa-7aBss",
+      "synopsis": "Lucía is a six-year-old girl, who sometimes struggles as the world tries to catch up with the fact that she has a penis. As the summer holidays pass, she explores her femininity alongside the women of her family who at the same time reflect on their own femininity.",
+      "runtime": 128,
       "times": [
         {
-          "starts_at": "2023-11-09T15:40:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-85479/"
+          "starts_at": "2023-11-09T21:00:00+00:00",
+          "site": "Curzon Hoxton",
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-13313/"
         }
       ]
     },
     {
-      "title": "Typist Artist Pirate King",
-      "trailer": "https://www.youtube.com/watch?v=Ilq_FiqQah4",
-      "synopsis": "TYPIST ARTIST PIRATE KING puts forgotten artist Audrey Amiss on the map. Inspired by her extensive archive of diaries, letters and art, the film weaves real events into an imagined journey as Audrey goes on a road trip with her psychiatric nurse.\n\nFrom acclaimed British filmmaker, Carol Morley, this dark and funny exploration of the growing friendship between two women as they hit the road in an electric car looking for reconciliation, is filled with adventure, humour and compassion.",
-      "runtime": 108,
+      "title": "On the Adamant",
+      "trailer": "https://www.youtube.com/watch?v=vmWDHgsW8BM",
+      "synopsis": "Moored on the banks of the Seine in the heart of Paris, the Adamant is a floating care centre that welcomes adults suffering from mental disorders. Using a variety of different approaches, they offer care that grounds participants in time and space, helping to keep spirits high on the path to recovery. The team that runs it tries to resist the deterioration and dehumanization of psychiatry as best they can. The film invites us to board to meet the patients and caregivers who inhabit the Adamant in their day-to-day lives.",
+      "runtime": 114,
       "times": [
         {
-          "starts_at": "2023-11-09T18:10:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-85456/"
-        }
-      ]
-    },
-    {
-      "title": "DocHouse: Apolonia Apolonia",
-      "trailer": null,
-      "synopsis": "A captivating portrait of award-winning visual artist Apolonia Sokol - a unique soul, steadfast in forging her own path, taking the art world by storm.\r\n\r\nBorn in an underground theatre to Parisian bohemians before growing up in an artists' community, from the very start Apolonia’s story is far from conventional. Covering a span of 13 years, director Lea Glob follows Apolonia’s attempts to find her place - both in the artworld and in her own life story. But Apolonia's resilience is put to the test as she navigates an often-unforgiving industry.\r\n\r\nApolonia Apolonia celebrates the intimacy and friendship created between its filmmaker and subject. A mesmerising documentary that develops over a decade of filming, and delves into how womanhood can be embraced in a patriarchal world.",
-      "runtime": 116,
-      "times": [
+          "starts_at": "2023-11-09T20:30:00+00:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-20004/"
+        },
         {
-          "starts_at": "2023-11-09T18:10:00+00:00",
+          "starts_at": "2023-11-09T18:40:00+00:00",
           "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-85140/"
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-85332/"
         }
       ]
     },
@@ -441,6 +256,19 @@
           "starts_at": "2023-11-09T20:30:00+00:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-85139/"
+        }
+      ]
+    },
+    {
+      "title": "Past Lives",
+      "trailer": "https://www.youtube.com/watch?v=WJTnve_kdu0",
+      "synopsis": "Nora and Hae Sung, two deeply connected childhood friends, are wrest apart after Nora’s family emigrates from South Korea. Two decades later, they are reunited in New York for one fateful week as they confront notions of destiny, love, and the choices that make a life, in this heartrending modern romance.",
+      "runtime": 106,
+      "times": [
+        {
+          "starts_at": "2023-11-09T20:50:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-85453/"
         }
       ]
     }
