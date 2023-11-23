@@ -7,24 +7,9 @@
       "runtime": 105,
       "times": [
         {
-          "starts_at": "2023-11-23T16:20:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-45432/"
-        },
-        {
           "starts_at": "2023-11-23T18:50:00+00:00",
           "site": "Curzon Aldgate",
           "url": "https://www.curzon.com/ticketing/seats/ALD1-45435/"
-        },
-        {
-          "starts_at": "2023-11-23T18:15:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-68852/"
-        },
-        {
-          "starts_at": "2023-11-23T17:00:00+00:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-13607/"
         }
       ]
     },
@@ -35,125 +20,14 @@
       "runtime": 157,
       "times": [
         {
-          "starts_at": "2023-11-23T17:20:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-45426/"
-        },
-        {
           "starts_at": "2023-11-23T20:20:00+00:00",
           "site": "Curzon Aldgate",
           "url": "https://www.curzon.com/ticketing/seats/ALD1-45424/"
         },
         {
-          "starts_at": "2023-11-23T17:00:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-68850/"
-        },
-        {
           "starts_at": "2023-11-23T20:45:00+00:00",
           "site": "Curzon Victoria",
           "url": "https://www.curzon.com/ticketing/seats/VIC1-68838/"
-        }
-      ]
-    },
-    {
-      "title": "Leo",
-      "trailer": null,
-      "synopsis": "A 74-year-old lizard named Leo and his turtle friend decide to escape from the terrarium of a Florida school classroom where they have been living for decades.",
-      "runtime": 102,
-      "times": [
-        {
-          "starts_at": "2023-11-23T17:40:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-45428/"
-        },
-        {
-          "starts_at": "2023-11-23T17:15:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-68849/"
-        },
-        {
-          "starts_at": "2023-11-23T17:40:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-20521/"
-        }
-      ]
-    },
-    {
-      "title": "Saltburn",
-      "trailer": "https://www.youtube.com/watch?v=s8l0llLj1uM",
-      "synopsis": "Struggling to find his place at Oxford University, student Oliver Quick finds himself drawn into the world of the charming and aristocratic Felix Catton, who invites him to Saltburn, his eccentric family's sprawling estate, for a summer never to be forgotten.",
-      "runtime": 131,
-      "times": [
-        {
-          "starts_at": "2023-11-23T18:00:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-45436/"
-        },
-        {
-          "starts_at": "2023-11-23T21:00:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-45433/"
-        },
-        {
-          "starts_at": "2023-11-23T18:00:00+00:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-42325/"
-        },
-        {
-          "starts_at": "2023-11-23T21:00:00+00:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-42324/"
-        },
-        {
-          "starts_at": "2023-11-23T18:00:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-68837/"
-        },
-        {
-          "starts_at": "2023-11-23T21:00:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-68845/"
-        },
-        {
-          "starts_at": "2023-11-23T17:40:00+00:00",
-          "site": "Curzon Mayfair",
-          "url": "https://www.curzon.com/ticketing/seats/MAY1-25397/"
-        },
-        {
-          "starts_at": "2023-11-23T21:00:00+00:00",
-          "site": "Curzon Mayfair",
-          "url": "https://www.curzon.com/ticketing/seats/MAY1-25396/"
-        },
-        {
-          "starts_at": "2023-11-23T17:20:00+00:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-13605/"
-        },
-        {
-          "starts_at": "2023-11-23T15:30:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-20523/"
-        },
-        {
-          "starts_at": "2023-11-23T18:20:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-20176/"
-        },
-        {
-          "starts_at": "2023-11-23T20:20:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-20528/"
-        },
-        {
-          "starts_at": "2023-11-23T17:50:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-85832/"
-        },
-        {
-          "starts_at": "2023-11-23T20:50:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-85828/"
         }
       ]
     },
@@ -177,11 +51,44 @@
           "starts_at": "2023-11-23T20:20:00+00:00",
           "site": "Curzon Hoxton",
           "url": "https://www.curzon.com/ticketing/seats/HOX1-13609/"
+        }
+      ]
+    },
+    {
+      "title": "Saltburn",
+      "trailer": "https://www.youtube.com/watch?v=s8l0llLj1uM",
+      "synopsis": "Struggling to find his place at Oxford University, student Oliver Quick finds himself drawn into the world of the charming and aristocratic Felix Catton, who invites him to Saltburn, his eccentric family's sprawling estate, for a summer never to be forgotten.",
+      "runtime": 131,
+      "times": [
+        {
+          "starts_at": "2023-11-23T21:00:00+00:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-45433/"
         },
         {
-          "starts_at": "2023-11-23T18:00:00+00:00",
+          "starts_at": "2023-11-23T21:00:00+00:00",
+          "site": "Curzon Soho",
+          "url": "https://www.curzon.com/ticketing/seats/SOH1-42324/"
+        },
+        {
+          "starts_at": "2023-11-23T21:00:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-68845/"
+        },
+        {
+          "starts_at": "2023-11-23T21:00:00+00:00",
+          "site": "Curzon Mayfair",
+          "url": "https://www.curzon.com/ticketing/seats/MAY1-25396/"
+        },
+        {
+          "starts_at": "2023-11-23T20:20:00+00:00",
           "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-20183/"
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-20528/"
+        },
+        {
+          "starts_at": "2023-11-23T20:50:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-85828/"
         }
       ]
     },
@@ -205,11 +112,6 @@
           "starts_at": "2023-11-23T21:10:00+00:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-20522/"
-        },
-        {
-          "starts_at": "2023-11-23T17:10:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-85834/"
         }
       ]
     },
@@ -220,19 +122,9 @@
       "runtime": 152,
       "times": [
         {
-          "starts_at": "2023-11-23T17:40:00+00:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-42341/"
-        },
-        {
           "starts_at": "2023-11-23T20:40:00+00:00",
           "site": "Curzon Soho",
           "url": "https://www.curzon.com/ticketing/seats/SOH1-42342/"
-        },
-        {
-          "starts_at": "2023-11-23T17:45:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-68851/"
         },
         {
           "starts_at": "2023-11-23T20:40:00+00:00",
@@ -240,9 +132,9 @@
           "url": "https://www.curzon.com/ticketing/seats/MAY1-25395/"
         },
         {
-          "starts_at": "2023-11-23T17:00:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-20527/"
+          "starts_at": "2023-11-23T20:40:00+00:00",
+          "site": "Curzon Hoxton",
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-13600/"
         },
         {
           "starts_at": "2023-11-23T19:40:00+00:00",
@@ -250,32 +142,9 @@
           "url": "https://www.curzon.com/ticketing/seats/CAM1-20529/"
         },
         {
-          "starts_at": "2023-11-23T17:40:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-85829/"
-        },
-        {
           "starts_at": "2023-11-23T20:40:00+00:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-85833/"
-        }
-      ]
-    },
-    {
-      "title": "How to Have Sex",
-      "trailer": null,
-      "synopsis": "Three British teenage girls go on a rites-of-passage holiday, drinking, clubbing and hooking up in what should be the best summer of their lives. As they dance their way across the sun-drenched streets of Malia, they find themselves navigating the complexities of sex, consent and self-discovery.",
-      "runtime": 91,
-      "times": [
-        {
-          "starts_at": "2023-11-23T18:20:00+00:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-42345/"
-        },
-        {
-          "starts_at": "2023-11-23T17:20:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-20530/"
         }
       ]
     },
@@ -316,24 +185,6 @@
       ]
     },
     {
-      "title": "Stamped from the Beginning",
-      "trailer": null,
-      "synopsis": "Following the roots and evolution of racist concepts in the United States in order to understand today's society.",
-      "runtime": 92,
-      "times": [
-        {
-          "starts_at": "2023-11-23T15:45:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-20186/"
-        },
-        {
-          "starts_at": "2023-11-23T21:30:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-20181/"
-        }
-      ]
-    },
-    {
       "title": "The Killer",
       "trailer": null,
       "synopsis": "A man solitary and cold, methodical and unencumbered by scruples or regrets, the killer waits in the shadows, watching for his next target. And yet the longer he waits, the more he thinks he's losing his mind, if not his cool. A brutal, bloody and stylish noir story of a professional assassin lost in a world without a moral compass, this is a case study of a man alone, armed to the teeth and slowly losing his mind.",
@@ -347,46 +198,28 @@
       ]
     },
     {
+      "title": "Stamped from the Beginning",
+      "trailer": null,
+      "synopsis": "Following the roots and evolution of racist concepts in the United States in order to understand today's society.",
+      "runtime": 92,
+      "times": [
+        {
+          "starts_at": "2023-11-23T21:30:00+00:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-20181/"
+        }
+      ]
+    },
+    {
       "title": "May December",
       "trailer": null,
       "synopsis": "May December follows married couple Gracie and Joe Atherton-Yoo (Julianne Moore and Charles Melton) whose 23-year age gap sparked a notorious tabloid romance that gripped the nation two decades ago. Cut to modern day, and their marriage comes under renewed strain when Hollywood actress Elizabeth Berry (Natalie Portman) comes to spend time with the family to better understand Gracie, who she will be playing in a film about the scandal.",
       "runtime": 117,
       "times": [
         {
-          "starts_at": "2023-11-23T15:40:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-85874/"
-        },
-        {
           "starts_at": "2023-11-23T18:30:00+00:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-85875/"
-        }
-      ]
-    },
-    {
-      "title": "DocHouse: Eternal Memory",
-      "trailer": null,
-      "synopsis": "Augusto Góngora, a veteran Chilean journalist and prominent chronicler of the crimes of the Pinochet regime, and Paulina Urrutia, actress, activist and politician, have been a tight-knit loving couple for over 20 years. He was diagnosed with Alzheimer’s eight years ago, and now they both face the inexorable and accelerating descent of his physical and mental powers together.\r\nHeartbreaking and uplifting at the same time, the story of Paulina’s warm and uncompromising dedication and Augusto’s fierce fight to hold on to his identity is a deeply affecting testimony to their love. The Eternal Memory is both an inquiry into human dignity in old age and adversity, and into the mechanisms of individual and collective remembrance. What – and who – do we recall from our past? Why do we forget or suppress certain memories, and what effect does this have, on a person as well as on an entire country?",
-      "runtime": 84,
-      "times": [
-        {
-          "starts_at": "2023-11-23T16:30:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-85883/"
-        }
-      ]
-    },
-    {
-      "title": "DocHouse: Tish",
-      "trailer": null,
-      "synopsis": "A moving portrait of social documentary photographer and trailblazer Tish Murtha, who dedicated her life to documenting the lives of working-class communities in North East England.\r\n \r\nPaul Sng’s powerful film celebrates the work of Murtha and her commitment to fighting for the communities like the one she grew up in. Born in the northern coastal town of South Shields, she was driven by a fierce conviction to record the impact of Thatcher era de-industrialisation upon local communities. Her striking black and white photos convey a tenderness and intimacy that set her apart from her peers and her work would become a powerful record of a world decimated by a new and ruthless form of capitalism. .\r\n \r\nThe film follows Tish’s daughter Ella as she revisits key moments from her mother’s life and work. She is accompanied by people who remained close to Tish throughout her life, and who are committed to ensuring her remarkable legacy is recognised.\r\n",
-      "runtime": 91,
-      "times": [
-        {
-          "starts_at": "2023-11-23T18:20:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-85884/"
         }
       ]
     },
@@ -702,6 +535,11 @@
           "starts_at": "2023-11-24T17:40:00+00:00",
           "site": "Curzon Hoxton",
           "url": "https://www.curzon.com/ticketing/seats/HOX1-13656/"
+        },
+        {
+          "starts_at": "2023-11-24T20:40:00+00:00",
+          "site": "Curzon Hoxton",
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-13627/"
         },
         {
           "starts_at": "2023-11-24T11:30:00+00:00",
