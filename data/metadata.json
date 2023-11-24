@@ -1,10 +1,4 @@
 {
-  "A Haunting in Venice": {
-    "backdrop": "https://image.tmdb.org/t/p/w500//kHlX3oqdD4VGaLpB8O78M25KfdS.jpg",
-    "poster": "https://image.tmdb.org/t/p/w500//1Xgjl22MkAZQUavvOeBqRehrvqO.jpg",
-    "overview": "Celebrated sleuth Hercule Poirot, now retired and living in self-imposed exile in Venice, reluctantly attends a Halloween séance at a decaying, haunted palazzo. When one of the guests is murdered, the detective is thrust into a sinister world of shadows and secrets.",
-    "release_date": "2023-09-13"
-  },
   "A NIGHTMARE ON ELM STREET": {
     "backdrop": "https://image.tmdb.org/t/p/w500//g9ROrZey0JYp7kf8DoAyZtKnObj.jpg",
     "poster": "https://image.tmdb.org/t/p/w500//wGTpGGRMZmyFCcrY2YoxVTIBlli.jpg",
@@ -28,6 +22,12 @@
     "poster": "https://image.tmdb.org/t/p/w500//pU8C939AI6CQIintohv4ghQ132x.jpg",
     "overview": "A college student searches for justice after she discovers deepfake pornography of herself circulating online.",
     "release_date": "2023-10-20"
+  },
+  "Anselm (3D)": {
+    "backdrop": "https://image.tmdb.org/t/p/w500//wgXiRMMZ2vEyo0K0WUPtoK89Kg4.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500//zb3CFlVCw1Sa4Mc6eoUmEK2QbJD.jpg",
+    "overview": "This unique cinematic experience dives deep into an artist’s work and reveals his life path, inspiration, and creative process. It explores his fascination with myth and history. Past and present are interwoven to diffuse the line between film and painting, allowing the audience to be completely immersed in the remarkable world of one of the greatest contemporary artists, Anselm Kiefer. Wim Wenders shot this unique portrait over the course of two years in stunning 3D.",
+    "release_date": "2023-10-12"
   },
   "BIG SHARK": {
     "backdrop": null,
@@ -77,6 +77,12 @@
     "overview": "A young girl discovers an idealized parallel universe behind a secret door in her new home, unaware that it contains a sinister secret.",
     "release_date": "2009-02-05"
   },
+  "DocHouse: Another Body": {
+    "backdrop": "https://image.tmdb.org/t/p/w500//jycEYzpASmk6dUZGGt0lPSnyKSU.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500//pU8C939AI6CQIintohv4ghQ132x.jpg",
+    "overview": "A college student searches for justice after she discovers deepfake pornography of herself circulating online.",
+    "release_date": "2023-10-20"
+  },
   "DocHouse: Aurora's Sunrise": {
     "backdrop": "https://image.tmdb.org/t/p/w500//21oCMK0dJ3G8l7KW6XKSiIGNG3v.jpg",
     "poster": "https://image.tmdb.org/t/p/w500//9XmZBIc5gEbaeAU5ECHSCoc2GtN.jpg",
@@ -106,6 +112,12 @@
     "poster": "https://image.tmdb.org/t/p/w500//g4j8NiY6JZ6zHdWktCbPHaCG1HJ.jpg",
     "overview": "The Adamant is a unique day-care centre. A floating structure located on the Seine in the heart of Paris, it welcomes adults suffering from mental disorders, offering the kind of care that grounds them in time and space and helps them to recover or keep up their spirits. The team running it tries to resist the deterioration and dehumanisation of psychiatry as best as they can.",
     "release_date": "2023-03-22"
+  },
+  "DocHouse: Queendom": {
+    "backdrop": null,
+    "poster": "https://image.tmdb.org/t/p/w500//m2QUVzaA7AX4W8USC30aF4LdhXO.jpg",
+    "overview": "A queer Russian performance artist utilises social media, their identity and a series of remarkable costumes in quiet defiance of prejudice, war and police brutality.",
+    "release_date": "2023-03-11"
   },
   "DocHouse: Stolen": {
     "backdrop": "https://image.tmdb.org/t/p/w500//qFyQsPciaEq8ZTmYROxIOXBDlr1.jpg",
@@ -235,7 +247,7 @@
   },
   "Napoleon": {
     "backdrop": "https://image.tmdb.org/t/p/w500//wOYDsD7WIKsz5DtrnjsvCcEyFJa.jpg",
-    "poster": "https://image.tmdb.org/t/p/w500//jE5o7y9K6pZtWNNMEw3IdpHuncR.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500//p8lmI0Hmp0DeXUIeInwXbyORkLI.jpg",
     "overview": "A personal look at the French military leader’s origins and swift, ruthless climb to emperor, viewed through the prism of Napoleon’s addictive, volatile relationship with his wife and one true love, Josephine.",
     "release_date": "2023-11-22"
   },
@@ -269,11 +281,11 @@
     "overview": "Nora and Hae Sung, two childhood friends, are reunited in New York for one fateful week as they confront notions of destiny, love, and the choices that make a life.",
     "release_date": "2023-06-02"
   },
-  "Rustin": {
-    "backdrop": "https://image.tmdb.org/t/p/w500//dFmp1KIGdSVDhIhy0yQNmCDTjav.jpg",
-    "poster": "https://image.tmdb.org/t/p/w500//lCawCmTJhKT7c2ZOzLBTXDIR8JS.jpg",
-    "overview": "Gay civil rights activist Bayard Rustin helps Martin Luther King Jr. and others organize the 1963 March on Washington.",
-    "release_date": "2023-11-03"
+  "RENAISSANCE: A FILM BY BEYONCÉ": {
+    "backdrop": "https://image.tmdb.org/t/p/w500//jfEluUJiitfcypbmG1HeqCPWCN6.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500//6sVB5xuQq9njHK455JdwgN8Tx07.jpg",
+    "overview": "Accentuates the journey of Renaissance World Tour, from its inception, to the opening in Stockholm, Sweden, to the finale in Kansas City, Missouri. It is about Beyoncé’s intention, hard work, involvement in every aspect of the production, her creative mind and purpose to create her legacy, and master her craft. Received with extraordinary acclaim, Beyoncé’s Renaissance World Tour created a sanctuary for freedom, and shared joy, for more than 2.7 million fans.",
+    "release_date": "2023-12-01"
   },
   "SEVEN": {
     "backdrop": "https://image.tmdb.org/t/p/w500//5OFUCydVG9cSS5hMk4A6XNt1oH4.jpg",
@@ -304,12 +316,6 @@
     "poster": "https://image.tmdb.org/t/p/w500//fezRPcjrd4whodnVVcFRCgDpK11.jpg",
     "overview": "Living alone since her beloved mum died, 12-year-old Georgie fills the flat they shared with her own special magic. But when her absent father Jason turns up out of the blue, she’s forced to confront reality.",
     "release_date": "2023-08-25"
-  },
-  "Stamped from the Beginning": {
-    "backdrop": "https://image.tmdb.org/t/p/w500//cTxmFYOpvg0eNwc0xnEkoqcTMep.jpg",
-    "poster": "https://image.tmdb.org/t/p/w500//dksKQ0jEpKCG31tfyh7Pag7ALiA.jpg",
-    "overview": "Following the roots and evolution of racist concepts in the United States in order to understand today's society.",
-    "release_date": "2023-11-10"
   },
   "THE EXORCIST": {
     "backdrop": "https://image.tmdb.org/t/p/w500//huC0x1don81NMreSGx4ITkrv9aG.jpg",
