@@ -1,37 +1,6 @@
 {
   "2023-11-24": [
     {
-      "title": "The Marvels",
-      "trailer": "https://www.youtube.com/watch?v=QJG4cWmY3BI",
-      "synopsis": "Carol Danvers aka Captain Marvel has reclaimed her identity from the tyrannical Kree and taken revenge on the Supreme Intelligence. But unintended consequences see Carol shouldering the burden of a destabilized universe. When her duties send her to an anomalous wormhole linked to a Kree revolutionary, her powers become entangled with that of Jersey City super-fan, Kamala Khan aka Ms. Marvel, and Carol’s estranged niece, now S.A.B.E.R. astronaut Captain Monica Rambeau. Together, this unlikely trio must team-up and learn to work in concert to save the universe as “The Marvels.”",
-      "runtime": 105,
-      "times": [
-        {
-          "starts_at": "2023-11-24T18:30:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-45116/"
-        }
-      ]
-    },
-    {
-      "title": "The Hunger Games: The Ballad of Songbirds & Snakes",
-      "trailer": "https://www.youtube.com/watch?v=q6wXewnWFow",
-      "synopsis": "Experience the story of THE HUNGER GAMES — 64 years before Katniss Everdeen volunteered as tribute, and decades before Coriolanus Snow became the tyrannical President of Panem. THE HUNGER GAMES: THE BALLAD OF SONGBIRDS & SNAKES follows a young Coriolanus (Tom Blyth) who is the last hope for his failing lineage, the once-proud Snow family that has fallen from grace in a post-war Capitol. With his livelihood threatened, Snow is reluctantly assigned to mentor Lucy Gray Baird (Rachel Zegler), a tribute from the impoverished District 12. But after Lucy Gray’s charm captivates the audience of Panem, Snow sees an opportunity to shift their fates. With everything he has worked for hanging in the balance, Snow unites with Lucy Gray to turn the odds in their favor. Battling his instincts for both good and evil, Snow sets out on a race against time to survive and reveal if he will ultimately become a songbird or a snake.",
-      "runtime": 157,
-      "times": [
-        {
-          "starts_at": "2023-11-24T20:20:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-45115/"
-        },
-        {
-          "starts_at": "2023-11-24T20:45:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-68635/"
-        }
-      ]
-    },
-    {
       "title": "Napoleon",
       "trailer": "https://www.youtube.com/watch?v=1rJjrcKWupE",
       "synopsis": "Napoleon is a spectacle-filled action epic that details the checkered rise and fall of the iconic French Emperor Napoleon Bonaparte, played by Oscar®-winner Joaquin Phoenix. Against a stunning backdrop of large-scale filmmaking orchestrated by legendary director Ridley Scott, the film captures Bonaparte's relentless journey to power through the prism of his addictive, volatile relationship with his one true love, Josephine, showcasing his visionary military and political tactics against some of the most dynamic practical battle sequences ever filmed.",
@@ -43,39 +12,9 @@
           "url": "https://www.curzon.com/ticketing/seats/ALD1-45113/"
         },
         {
-          "starts_at": "2023-11-24T20:00:00+00:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-42355/"
-        },
-        {
-          "starts_at": "2023-11-24T19:15:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-68946/"
-        },
-        {
-          "starts_at": "2023-11-24T20:00:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-68619/"
-        },
-        {
           "starts_at": "2023-11-24T20:30:00+00:00",
           "site": "Curzon Mayfair",
           "url": "https://www.curzon.com/ticketing/seats/MAY1-25237/"
-        },
-        {
-          "starts_at": "2023-11-24T20:20:00+00:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-13620/"
-        },
-        {
-          "starts_at": "2023-11-24T20:00:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-20190/"
-        },
-        {
-          "starts_at": "2023-11-24T20:15:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-85996/"
         }
       ]
     },
@@ -114,11 +53,6 @@
           "starts_at": "2023-11-24T20:40:00+00:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-20541/"
-        },
-        {
-          "starts_at": "2023-11-24T20:50:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-85988/"
         }
       ]
     },
@@ -147,19 +81,22 @@
           "url": "https://www.curzon.com/ticketing/seats/SOH1-42375/"
         },
         {
-          "starts_at": "2023-11-24T20:20:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-68943/"
-        },
-        {
-          "starts_at": "2023-11-24T20:20:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-20542/"
-        },
-        {
           "starts_at": "2023-11-24T20:30:00+00:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-85987/"
+        }
+      ]
+    },
+    {
+      "title": "The Hunger Games: The Ballad of Songbirds & Snakes",
+      "trailer": "https://www.youtube.com/watch?v=q6wXewnWFow",
+      "synopsis": "Experience the story of THE HUNGER GAMES — 64 years before Katniss Everdeen volunteered as tribute, and decades before Coriolanus Snow became the tyrannical President of Panem. THE HUNGER GAMES: THE BALLAD OF SONGBIRDS & SNAKES follows a young Coriolanus (Tom Blyth) who is the last hope for his failing lineage, the once-proud Snow family that has fallen from grace in a post-war Capitol. With his livelihood threatened, Snow is reluctantly assigned to mentor Lucy Gray Baird (Rachel Zegler), a tribute from the impoverished District 12. But after Lucy Gray’s charm captivates the audience of Panem, Snow sees an opportunity to shift their fates. With everything he has worked for hanging in the balance, Snow unites with Lucy Gray to turn the odds in their favor. Battling his instincts for both good and evil, Snow sets out on a race against time to survive and reveal if he will ultimately become a songbird or a snake.",
+      "runtime": 157,
+      "times": [
+        {
+          "starts_at": "2023-11-24T20:45:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-68635/"
         }
       ]
     },
@@ -169,11 +106,6 @@
       "synopsis": "LPFF 2023 screens three of Syrian director, Mohamad Malas’ films set in the Occupied Golan Heights and the refugee camps of Lebanon.\r\n\r\nThe Dream\r\nShot in 1980-81, The Dream is composed of interviews with over 400 Palestinian refugees living in the camps of Sabra, Shatila, Bourj el-Barajneh, Ain al-Hilweh and Rashidieh in Lebanon. \r\n\r\nIn 1982 the Sabra and Shatila massacres occurred, taking the lives of several people Malas interviewed; he stopped working on the project. He returned to it in 1986 and edited the many hours of footage gathered into this 45 minute film, released in 1987.\r\n\r\n\r\nThe Memory\r\nAn elderly woman lives on her own in the small town of Quneitra. She talks to her many cats and chickens, to the film team and to herself. She listens to the stories on the radio. She walks through the rubble.  \r\n\r\nShe remained in Quneitra when the Israeli army occupied the Golan Heights, and all through the war of 1973. When the occupation forces withdrew,  they destroyed the city to make it inhabitable. Few individuals returned. The woman says she used to write down things about the many things that happened. All is gone, what is left is only the memory.\r\n\r\n\r\nQuneitra 74\r\nA ceremonial gathering of the villagers of Quneitra on the Syrian Golan Heights after the Israeli army withdrew and returned the town inhabitable. \r\n\r\nThe press takes photographs of the rubble. One woman starts running in the streets between the ruins, always making sure the audience does not leave her alone, contacting us through the camera. She strolls through the streets and alleys of her hometown, enters a house, cleans the shards of a window. A little girl appears, an old woman with her hens. Three females of three generations connected in solitude.",
       "runtime": 78,
       "times": [
-        {
-          "starts_at": "2023-11-24T18:30:00+00:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-12989/"
-        },
         {
           "starts_at": "2023-11-24T21:00:00+00:00",
           "site": "Curzon Hoxton",
@@ -204,19 +136,6 @@
           "starts_at": "2023-11-24T21:15:00+00:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-20547/"
-        }
-      ]
-    },
-    {
-      "title": "DocHouse: Beyond Utopia",
-      "trailer": null,
-      "synopsis": "Gripping, visceral and urgent, Beyond Utopia embeds the viewer with a family of defectors as they attempt to flee North Korea, one of the most oppressive places on Earth - a land they grew up believing was a paradise.",
-      "runtime": 115,
-      "times": [
-        {
-          "starts_at": "2023-11-24T20:20:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-86002/"
         }
       ]
     },
