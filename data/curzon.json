@@ -1,16 +1,24 @@
 {
   "2023-11-25": [
     {
+      "title": "The Marvels",
+      "trailer": "https://www.youtube.com/watch?v=QJG4cWmY3BI",
+      "synopsis": "Carol Danvers aka Captain Marvel has reclaimed her identity from the tyrannical Kree and taken revenge on the Supreme Intelligence. But unintended consequences see Carol shouldering the burden of a destabilized universe. When her duties send her to an anomalous wormhole linked to a Kree revolutionary, her powers become entangled with that of Jersey City super-fan, Kamala Khan aka Ms. Marvel, and Carol’s estranged niece, now S.A.B.E.R. astronaut Captain Monica Rambeau. Together, this unlikely trio must team-up and learn to work in concert to save the universe as “The Marvels.”",
+      "runtime": 105,
+      "times": [
+        {
+          "starts_at": "2023-11-25T15:40:00+00:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-45447/"
+        }
+      ]
+    },
+    {
       "title": "The Hunger Games: The Ballad of Songbirds & Snakes",
       "trailer": "https://www.youtube.com/watch?v=q6wXewnWFow",
       "synopsis": "Experience the story of THE HUNGER GAMES — 64 years before Katniss Everdeen volunteered as tribute, and decades before Coriolanus Snow became the tyrannical President of Panem. THE HUNGER GAMES: THE BALLAD OF SONGBIRDS & SNAKES follows a young Coriolanus (Tom Blyth) who is the last hope for his failing lineage, the once-proud Snow family that has fallen from grace in a post-war Capitol. With his livelihood threatened, Snow is reluctantly assigned to mentor Lucy Gray Baird (Rachel Zegler), a tribute from the impoverished District 12. But after Lucy Gray’s charm captivates the audience of Panem, Snow sees an opportunity to shift their fates. With everything he has worked for hanging in the balance, Snow unites with Lucy Gray to turn the odds in their favor. Battling his instincts for both good and evil, Snow sets out on a race against time to survive and reveal if he will ultimately become a songbird or a snake.",
       "runtime": 157,
       "times": [
-        {
-          "starts_at": "2023-11-25T13:40:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-45446/"
-        },
         {
           "starts_at": "2023-11-25T17:00:00+00:00",
           "site": "Curzon Aldgate",
@@ -20,11 +28,6 @@
           "starts_at": "2023-11-25T20:20:00+00:00",
           "site": "Curzon Aldgate",
           "url": "https://www.curzon.com/ticketing/seats/ALD1-45451/"
-        },
-        {
-          "starts_at": "2023-11-25T14:15:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-68955/"
         },
         {
           "starts_at": "2023-11-25T17:30:00+00:00",
@@ -45,11 +48,6 @@
       "runtime": 158,
       "times": [
         {
-          "starts_at": "2023-11-25T14:00:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-45129/"
-        },
-        {
           "starts_at": "2023-11-25T17:20:00+00:00",
           "site": "Curzon Aldgate",
           "url": "https://www.curzon.com/ticketing/seats/ALD1-45130/"
@@ -68,11 +66,6 @@
           "starts_at": "2023-11-25T19:30:00+00:00",
           "site": "Curzon Soho",
           "url": "https://www.curzon.com/ticketing/seats/SOH1-42356/"
-        },
-        {
-          "starts_at": "2023-11-25T13:40:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-68964/"
         },
         {
           "starts_at": "2023-11-25T15:50:00+00:00",
@@ -95,11 +88,6 @@
           "url": "https://www.curzon.com/ticketing/seats/VIC1-68640/"
         },
         {
-          "starts_at": "2023-11-25T13:20:00+00:00",
-          "site": "Curzon Mayfair",
-          "url": "https://www.curzon.com/ticketing/seats/MAY1-25452/"
-        },
-        {
           "starts_at": "2023-11-25T17:00:00+00:00",
           "site": "Curzon Mayfair",
           "url": "https://www.curzon.com/ticketing/seats/MAY1-25310/"
@@ -108,11 +96,6 @@
           "starts_at": "2023-11-25T20:30:00+00:00",
           "site": "Curzon Mayfair",
           "url": "https://www.curzon.com/ticketing/seats/MAY1-25312/"
-        },
-        {
-          "starts_at": "2023-11-25T13:30:00+00:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-13352/"
         },
         {
           "starts_at": "2023-11-25T17:00:00+00:00",
@@ -125,16 +108,6 @@
           "url": "https://www.curzon.com/ticketing/seats/HOX1-13348/"
         },
         {
-          "starts_at": "2023-11-25T12:30:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-20558/"
-        },
-        {
-          "starts_at": "2023-11-25T14:20:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-20557/"
-        },
-        {
           "starts_at": "2023-11-25T18:00:00+00:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-20198/"
@@ -143,11 +116,6 @@
           "starts_at": "2023-11-25T20:00:00+00:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-20199/"
-        },
-        {
-          "starts_at": "2023-11-25T14:30:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-85986/"
         },
         {
           "starts_at": "2023-11-25T17:30:00+00:00",
@@ -168,11 +136,6 @@
       "runtime": 131,
       "times": [
         {
-          "starts_at": "2023-11-25T15:20:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-45445/"
-        },
-        {
           "starts_at": "2023-11-25T18:10:00+00:00",
           "site": "Curzon Aldgate",
           "url": "https://www.curzon.com/ticketing/seats/ALD1-45457/"
@@ -183,11 +146,6 @@
           "url": "https://www.curzon.com/ticketing/seats/ALD1-45450/"
         },
         {
-          "starts_at": "2023-11-25T14:30:00+00:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-42414/"
-        },
-        {
           "starts_at": "2023-11-25T17:45:00+00:00",
           "site": "Curzon Soho",
           "url": "https://www.curzon.com/ticketing/seats/SOH1-42411/"
@@ -196,11 +154,6 @@
           "starts_at": "2023-11-25T21:00:00+00:00",
           "site": "Curzon Soho",
           "url": "https://www.curzon.com/ticketing/seats/SOH1-42376/"
-        },
-        {
-          "starts_at": "2023-11-25T15:00:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-68965/"
         },
         {
           "starts_at": "2023-11-25T17:00:00+00:00",
@@ -223,11 +176,6 @@
           "url": "https://www.curzon.com/ticketing/seats/MAY1-25314/"
         },
         {
-          "starts_at": "2023-11-25T14:40:00+00:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-13662/"
-        },
-        {
           "starts_at": "2023-11-25T17:40:00+00:00",
           "site": "Curzon Hoxton",
           "url": "https://www.curzon.com/ticketing/seats/HOX1-13350/"
@@ -238,11 +186,6 @@
           "url": "https://www.curzon.com/ticketing/seats/HOX1-13661/"
         },
         {
-          "starts_at": "2023-11-25T14:00:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-20571/"
-        },
-        {
           "starts_at": "2023-11-25T18:15:00+00:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-20559/"
@@ -251,11 +194,6 @@
           "starts_at": "2023-11-25T20:40:00+00:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-20562/"
-        },
-        {
-          "starts_at": "2023-11-25T15:20:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-85979/"
         },
         {
           "starts_at": "2023-11-25T18:10:00+00:00",
@@ -270,19 +208,6 @@
       ]
     },
     {
-      "title": "The Marvels",
-      "trailer": "https://www.youtube.com/watch?v=QJG4cWmY3BI",
-      "synopsis": "Carol Danvers aka Captain Marvel has reclaimed her identity from the tyrannical Kree and taken revenge on the Supreme Intelligence. But unintended consequences see Carol shouldering the burden of a destabilized universe. When her duties send her to an anomalous wormhole linked to a Kree revolutionary, her powers become entangled with that of Jersey City super-fan, Kamala Khan aka Ms. Marvel, and Carol’s estranged niece, now S.A.B.E.R. astronaut Captain Monica Rambeau. Together, this unlikely trio must team-up and learn to work in concert to save the universe as “The Marvels.”",
-      "runtime": 105,
-      "times": [
-        {
-          "starts_at": "2023-11-25T15:40:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-45447/"
-        }
-      ]
-    },
-    {
       "title": "Dream Scenario",
       "trailer": "https://www.youtube.com/watch?v=EYpviaNOfP4",
       "synopsis": "Hapless family man Paul Matthews (Nicolas Cage) finds his life turned upside down when millions of strangers suddenly start seeing him in their dreams.  But when his nighttime appearances take a nightmarish turn, Paul is forced to navigate his newfound stardom, in this wickedly entertaining comedy from writer-director Kristoffer Borgli (Sick of Myself) and producer Ari Aster.",
@@ -292,16 +217,6 @@
           "starts_at": "2023-11-25T18:30:00+00:00",
           "site": "Curzon Aldgate",
           "url": "https://www.curzon.com/ticketing/seats/ALD1-45522/"
-        },
-        {
-          "starts_at": "2023-11-25T15:15:00+00:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-42416/"
-        },
-        {
-          "starts_at": "2023-11-25T14:40:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-20563/"
         },
         {
           "starts_at": "2023-11-25T21:00:00+00:00",
@@ -340,24 +255,9 @@
           "url": "https://www.curzon.com/ticketing/seats/SOH1-42412/"
         },
         {
-          "starts_at": "2023-11-25T14:00:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-68960/"
-        },
-        {
           "starts_at": "2023-11-25T20:20:00+00:00",
           "site": "Curzon Victoria",
           "url": "https://www.curzon.com/ticketing/seats/VIC1-68961/"
-        },
-        {
-          "starts_at": "2023-11-25T14:40:00+00:00",
-          "site": "Curzon Mayfair",
-          "url": "https://www.curzon.com/ticketing/seats/MAY1-25450/"
-        },
-        {
-          "starts_at": "2023-11-25T15:00:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-20572/"
         },
         {
           "starts_at": "2023-11-25T17:20:00+00:00",
@@ -368,11 +268,6 @@
           "starts_at": "2023-11-25T20:20:00+00:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-20561/"
-        },
-        {
-          "starts_at": "2023-11-25T14:00:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-85977/"
         },
         {
           "starts_at": "2023-11-25T17:10:00+00:00",
@@ -400,24 +295,6 @@
       ]
     },
     {
-      "title": "Killers Of The Flower Moon",
-      "trailer": "https://www.youtube.com/watch?v=nFoIg72KGIk",
-      "synopsis": "At the turn of the 20th century, oil brought a fortune to the Osage Nation, who became some of the richest people in the world overnight. The wealth of these Native Americans immediately attracted white interlopers, who manipulated, extorted, and stole as much Osage money as they could before resorting to murder. Based on a true story and told through the improbable romance of Ernest Burkhart (Leonardo DiCaprio) and Mollie Kyle (Lily Gladstone), “Killers of the Flower Moon” is an epic western crime saga, where real love crosses paths with unspeakable betrayal. Also starring Robert De Niro and Jesse Plemons, “Killers of the Flower Moon” is directed by Academy Award winner Martin Scorsese from a screenplay by Eric Roth and Martin Scorsese, based on David Grann’s best-selling book.",
-      "runtime": 206,
-      "times": [
-        {
-          "starts_at": "2023-11-25T12:30:00+00:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-13665/"
-        },
-        {
-          "starts_at": "2023-11-25T19:20:00+00:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-13664/"
-        }
-      ]
-    },
-    {
       "title": "May December",
       "trailer": null,
       "synopsis": "May December follows married couple Gracie and Joe Atherton-Yoo (Julianne Moore and Charles Melton) whose 23-year age gap sparked a notorious tabloid romance that gripped the nation two decades ago. Cut to modern day, and their marriage comes under renewed strain when Hollywood actress Elizabeth Berry (Natalie Portman) comes to spend time with the family to better understand Gracie, who she will be playing in a film about the scandal.",
@@ -427,11 +304,19 @@
           "starts_at": "2023-11-25T16:40:00+00:00",
           "site": "Curzon Hoxton",
           "url": "https://www.curzon.com/ticketing/seats/HOX1-13351/"
-        },
+        }
+      ]
+    },
+    {
+      "title": "Killers Of The Flower Moon",
+      "trailer": "https://www.youtube.com/watch?v=nFoIg72KGIk",
+      "synopsis": "At the turn of the 20th century, oil brought a fortune to the Osage Nation, who became some of the richest people in the world overnight. The wealth of these Native Americans immediately attracted white interlopers, who manipulated, extorted, and stole as much Osage money as they could before resorting to murder. Based on a true story and told through the improbable romance of Ernest Burkhart (Leonardo DiCaprio) and Mollie Kyle (Lily Gladstone), “Killers of the Flower Moon” is an epic western crime saga, where real love crosses paths with unspeakable betrayal. Also starring Robert De Niro and Jesse Plemons, “Killers of the Flower Moon” is directed by Academy Award winner Martin Scorsese from a screenplay by Eric Roth and Martin Scorsese, based on David Grann’s best-selling book.",
+      "runtime": 206,
+      "times": [
         {
-          "starts_at": "2023-11-25T15:00:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-85974/"
+          "starts_at": "2023-11-25T19:20:00+00:00",
+          "site": "Curzon Hoxton",
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-13664/"
         }
       ]
     },
@@ -454,15 +339,15 @@
       ]
     },
     {
-      "title": "DocHouse: Is There Anybody Out There?",
+      "title": "DocHouse: Stolen",
       "trailer": null,
-      "synopsis": "Filmmaker Ella Glendining has grown up with an 'extremely unusual' body, and in her groundbreaking film she sets out on a global search to find someone else with a body that looks the same as hers.\r\n\r\n\r\nAlong the way, there are surprises and challenges - from an unexpected pregnancy to a pandemic - as well as the daily  challenges of living in a society that sees disabled people as 'lesser'.\r\n\r\nWith honesty, warmth and humour, Ella explores what it takes to love yourself fiercely as a disabled person in an ableist world. ",
-      "runtime": 87,
+      "synopsis": "Margo Harkin's insightful and heartfelt film tells the story of Ireland's Mother and Baby Homes, where 80,000 unmarried mothers were sent between 1922 and 1998. Most were cruelly separated from their babies after birth, and, horrifyingly, the infant mortality rate within the homes was up to five times the national average. Stolen places these Church and state-run institutions in the context of Irish history and culture, and asks how and why it took decades for the breadth of this scandal to be revealed, investigated and condemned. At the emotionally-potent centre of this somber and vital film are the survivors who are invited to tell their stories; the stories of children who grew up never knowing their families, of young people who moved from one institution to another all their lives and of mothers forced to give away their babies.",
+      "runtime": 102,
       "times": [
         {
-          "starts_at": "2023-11-25T14:00:00+00:00",
+          "starts_at": "2023-11-25T16:00:00+00:00",
           "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-85549/"
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-85709/"
         }
       ]
     },
@@ -473,11 +358,6 @@
       "runtime": 129,
       "times": [
         {
-          "starts_at": "2023-11-25T14:50:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-85559/"
-        },
-        {
           "starts_at": "2023-11-25T17:50:00+00:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-85692/"
@@ -486,19 +366,6 @@
           "starts_at": "2023-11-25T20:40:00+00:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-85693/"
-        }
-      ]
-    },
-    {
-      "title": "DocHouse: Stolen",
-      "trailer": null,
-      "synopsis": "Margo Harkin's insightful and heartfelt film tells the story of Ireland's Mother and Baby Homes, where 80,000 unmarried mothers were sent between 1922 and 1998. Most were cruelly separated from their babies after birth, and, horrifyingly, the infant mortality rate within the homes was up to five times the national average. Stolen places these Church and state-run institutions in the context of Irish history and culture, and asks how and why it took decades for the breadth of this scandal to be revealed, investigated and condemned. At the emotionally-potent centre of this somber and vital film are the survivors who are invited to tell their stories; the stories of children who grew up never knowing their families, of young people who moved from one institution to another all their lives and of mothers forced to give away their babies.",
-      "runtime": 102,
-      "times": [
-        {
-          "starts_at": "2023-11-25T16:00:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-85709/"
         }
       ]
     },
