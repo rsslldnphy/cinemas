@@ -7,11 +7,6 @@
       "runtime": 157,
       "times": [
         {
-          "starts_at": "2023-11-26T13:00:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-45459/"
-        },
-        {
           "starts_at": "2023-11-26T16:20:00+00:00",
           "site": "Curzon Aldgate",
           "url": "https://www.curzon.com/ticketing/seats/ALD1-45467/"
@@ -20,11 +15,6 @@
           "starts_at": "2023-11-26T19:40:00+00:00",
           "site": "Curzon Aldgate",
           "url": "https://www.curzon.com/ticketing/seats/ALD1-45464/"
-        },
-        {
-          "starts_at": "2023-11-26T14:15:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-68972/"
         },
         {
           "starts_at": "2023-11-26T17:30:00+00:00",
@@ -45,11 +35,6 @@
       "runtime": 158,
       "times": [
         {
-          "starts_at": "2023-11-26T13:20:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-45132/"
-        },
-        {
           "starts_at": "2023-11-26T16:40:00+00:00",
           "site": "Curzon Aldgate",
           "url": "https://www.curzon.com/ticketing/seats/ALD1-45133/"
@@ -68,11 +53,6 @@
           "starts_at": "2023-11-26T19:45:00+00:00",
           "site": "Curzon Soho",
           "url": "https://www.curzon.com/ticketing/seats/SOH1-42358/"
-        },
-        {
-          "starts_at": "2023-11-26T13:40:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-68981/"
         },
         {
           "starts_at": "2023-11-26T15:50:00+00:00",
@@ -105,11 +85,6 @@
           "url": "https://www.curzon.com/ticketing/seats/MAY1-25439/"
         },
         {
-          "starts_at": "2023-11-26T13:15:00+00:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-13631/"
-        },
-        {
           "starts_at": "2023-11-26T16:40:00+00:00",
           "site": "Curzon Hoxton",
           "url": "https://www.curzon.com/ticketing/seats/HOX1-13629/"
@@ -120,11 +95,6 @@
           "url": "https://www.curzon.com/ticketing/seats/HOX1-13630/"
         },
         {
-          "starts_at": "2023-11-26T13:20:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-20578/"
-        },
-        {
           "starts_at": "2023-11-26T17:30:00+00:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-20200/"
@@ -133,11 +103,6 @@
           "starts_at": "2023-11-26T19:30:00+00:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-20201/"
-        },
-        {
-          "starts_at": "2023-11-26T14:30:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-85962/"
         },
         {
           "starts_at": "2023-11-26T17:30:00+00:00",
@@ -158,11 +123,6 @@
       "runtime": 131,
       "times": [
         {
-          "starts_at": "2023-11-26T14:40:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-45458/"
-        },
-        {
           "starts_at": "2023-11-26T17:30:00+00:00",
           "site": "Curzon Aldgate",
           "url": "https://www.curzon.com/ticketing/seats/ALD1-45470/"
@@ -173,11 +133,6 @@
           "url": "https://www.curzon.com/ticketing/seats/ALD1-45463/"
         },
         {
-          "starts_at": "2023-11-26T14:50:00+00:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-42409/"
-        },
-        {
           "starts_at": "2023-11-26T16:45:00+00:00",
           "site": "Curzon Soho",
           "url": "https://www.curzon.com/ticketing/seats/SOH1-42394/"
@@ -186,11 +141,6 @@
           "starts_at": "2023-11-26T20:30:00+00:00",
           "site": "Curzon Soho",
           "url": "https://www.curzon.com/ticketing/seats/SOH1-42377/"
-        },
-        {
-          "starts_at": "2023-11-26T15:00:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-68982/"
         },
         {
           "starts_at": "2023-11-26T17:00:00+00:00",
@@ -213,11 +163,6 @@
           "url": "https://www.curzon.com/ticketing/seats/MAY1-25226/"
         },
         {
-          "starts_at": "2023-11-26T14:30:00+00:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-13671/"
-        },
-        {
           "starts_at": "2023-11-26T17:30:00+00:00",
           "site": "Curzon Hoxton",
           "url": "https://www.curzon.com/ticketing/seats/HOX1-13667/"
@@ -226,11 +171,6 @@
           "starts_at": "2023-11-26T20:30:00+00:00",
           "site": "Curzon Hoxton",
           "url": "https://www.curzon.com/ticketing/seats/HOX1-13672/"
-        },
-        {
-          "starts_at": "2023-11-26T13:40:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-20582/"
         },
         {
           "starts_at": "2023-11-26T18:00:00+00:00",
@@ -243,11 +183,6 @@
           "url": "https://www.curzon.com/ticketing/seats/CAM1-20573/"
         },
         {
-          "starts_at": "2023-11-26T15:20:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-85971/"
-        },
-        {
           "starts_at": "2023-11-26T18:10:00+00:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-85972/"
@@ -256,24 +191,6 @@
           "starts_at": "2023-11-26T20:50:00+00:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-85958/"
-        }
-      ]
-    },
-    {
-      "title": "Dream Scenario",
-      "trailer": "https://www.youtube.com/watch?v=EYpviaNOfP4",
-      "synopsis": "Hapless family man Paul Matthews (Nicolas Cage) finds his life turned upside down when millions of strangers suddenly start seeing him in their dreams.  But when his nighttime appearances take a nightmarish turn, Paul is forced to navigate his newfound stardom, in this wickedly entertaining comedy from writer-director Kristoffer Borgli (Sick of Myself) and producer Ari Aster.",
-      "runtime": 102,
-      "times": [
-        {
-          "starts_at": "2023-11-26T15:00:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-45465/"
-        },
-        {
-          "starts_at": "2023-11-26T20:45:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-20589/"
         }
       ]
     },
@@ -309,40 +226,33 @@
       ]
     },
     {
+      "title": "How to Have Sex",
+      "trailer": null,
+      "synopsis": "Three British teenage girls go on a rites-of-passage holiday, drinking, clubbing and hooking up in what should be the best summer of their lives. As they dance their way across the sun-drenched streets of Malia, they find themselves navigating the complexities of sex, consent and self-discovery.",
+      "runtime": 91,
+      "times": [
+        {
+          "starts_at": "2023-11-26T17:45:00+00:00",
+          "site": "Curzon Soho",
+          "url": "https://www.curzon.com/ticketing/seats/SOH1-42408/"
+        }
+      ]
+    },
+    {
       "title": "Anatomy of a Fall",
       "trailer": "https://www.youtube.com/watch?v=_MdTMA0PetA",
       "synopsis": "When her husband Samuel is mysteriously found dead in the snow below their secluded chalet, Sandra becomes the main suspect when the police begin to question whether he fell or was pushed. The trial soon becomes not just an investigation, but a gripping psychological journey into the depths of Sandra and Samuel's complicated marriage. With conflicting evidence and inconsistent testimony, words are wielded like weapons and shocking truths come to light in this thrilling Palme d’Or winner.",
       "runtime": 152,
       "times": [
         {
-          "starts_at": "2023-11-26T13:20:00+00:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-42400/"
-        },
-        {
           "starts_at": "2023-11-26T20:10:00+00:00",
           "site": "Curzon Soho",
           "url": "https://www.curzon.com/ticketing/seats/SOH1-42399/"
         },
         {
-          "starts_at": "2023-11-26T14:00:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-68977/"
-        },
-        {
           "starts_at": "2023-11-26T20:20:00+00:00",
           "site": "Curzon Victoria",
           "url": "https://www.curzon.com/ticketing/seats/VIC1-68978/"
-        },
-        {
-          "starts_at": "2023-11-26T14:15:00+00:00",
-          "site": "Curzon Mayfair",
-          "url": "https://www.curzon.com/ticketing/seats/MAY1-25440/"
-        },
-        {
-          "starts_at": "2023-11-26T14:30:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-20581/"
         },
         {
           "starts_at": "2023-11-26T16:45:00+00:00",
@@ -355,11 +265,6 @@
           "url": "https://www.curzon.com/ticketing/seats/CAM1-20574/"
         },
         {
-          "starts_at": "2023-11-26T14:00:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-85959/"
-        },
-        {
           "starts_at": "2023-11-26T17:10:00+00:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-85960/"
@@ -368,37 +273,6 @@
           "starts_at": "2023-11-26T20:20:00+00:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-85957/"
-        }
-      ]
-    },
-    {
-      "title": "Another Body",
-      "trailer": null,
-      "synopsis": "Documentary, following 22 year-old engineering student Taylor. She gets a Facebook message from a friend with a link. She clicks. What she sees is her face, looking back at her, in hardcore pornography. Taylor has been deepfaked: her face has been pulled from her social media and digitally altered to appear in six porn videos without her consent. The creator has put these videos on a pornhub profile impersonating her, listing her real name, college and hometown, and soliciting men to hit her up.",
-      "runtime": 90,
-      "times": [
-        {
-          "starts_at": "2023-11-26T14:30:00+00:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-41776/"
-        },
-        {
-          "starts_at": "2023-11-26T14:00:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-20661/"
-        }
-      ]
-    },
-    {
-      "title": "How to Have Sex",
-      "trailer": null,
-      "synopsis": "Three British teenage girls go on a rites-of-passage holiday, drinking, clubbing and hooking up in what should be the best summer of their lives. As they dance their way across the sun-drenched streets of Malia, they find themselves navigating the complexities of sex, consent and self-discovery.",
-      "runtime": 91,
-      "times": [
-        {
-          "starts_at": "2023-11-26T17:45:00+00:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-42408/"
         }
       ]
     },
@@ -417,19 +291,6 @@
           "starts_at": "2023-11-26T16:30:00+00:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-20587/"
-        }
-      ]
-    },
-    {
-      "title": "Lost Highway",
-      "trailer": null,
-      "synopsis": "\"We've met before, haven't we?”\r\n\r\nDavid Lynch's 1997 classic, introduced by actor Toby Jones, part of the Save Curzon Mayfair campaign. ",
-      "runtime": 134,
-      "times": [
-        {
-          "starts_at": "2023-11-26T14:30:00+00:00",
-          "site": "Curzon Mayfair",
-          "url": "https://www.curzon.com/ticketing/seats/MAY1-24969/"
         }
       ]
     },
@@ -465,87 +326,28 @@
       ]
     },
     {
+      "title": "Dream Scenario",
+      "trailer": "https://www.youtube.com/watch?v=EYpviaNOfP4",
+      "synopsis": "Hapless family man Paul Matthews (Nicolas Cage) finds his life turned upside down when millions of strangers suddenly start seeing him in their dreams.  But when his nighttime appearances take a nightmarish turn, Paul is forced to navigate his newfound stardom, in this wickedly entertaining comedy from writer-director Kristoffer Borgli (Sick of Myself) and producer Ari Aster.",
+      "runtime": 102,
+      "times": [
+        {
+          "starts_at": "2023-11-26T20:45:00+00:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-20589/"
+        }
+      ]
+    },
+    {
       "title": "Girl",
       "trailer": null,
       "synopsis": "Mother and daughter Grace and Ama have established a deep bond that’s protected them from outsiders, but as they try to settle in Glasgow, things begin to change. Ama’s approaching adolescence and growing curiosity set off reminders of a past that Grace has been trying to erase. The comforting fairytale-like story that Grace has been telling Ama for years is shaken by the memories — their sheltered world begins to erode from the inside. To give them both a chance to really start living, Grace has to let Ama grow up. ",
       "runtime": 87,
       "times": [
         {
-          "starts_at": "2023-11-26T15:20:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-20584/"
-        },
-        {
           "starts_at": "2023-11-26T21:00:00+00:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-20583/"
-        }
-      ]
-    },
-    {
-      "title": "The Eternal Daughter",
-      "trailer": "https://www.youtube.com/watch?v=DHkp1I4tDHQ",
-      "synopsis": "An artist and her elderly mother confront long-buried secrets when they return to a former family home, now a hotel haunted by its mysterious past. \n\nFeaturing a towering, deeply moving performance by Tilda Swinton, acclaimed filmmaker Joanna Hogg’s beguiling latest film is a brilliant and captivating exploration of parental relationships and the things we leave behind.  ",
-      "runtime": 96,
-      "times": [
-        {
-          "starts_at": "2023-11-26T13:10:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-85964/"
-        },
-        {
-          "starts_at": "2023-11-26T17:45:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-85967/"
-        }
-      ]
-    },
-    {
-      "title": "DocHouse: On The Adamant",
-      "trailer": null,
-      "synopsis": "In his latest, deeply humane observational film, Nicolas Philibert (the director of 2002's Etre et Avoir) takes us aboard The Adamant; a unique, floating day-care centre, moored on the River Seine. Here, people with mental-health issues can participate in an array of cultural and therapeutic activities - art, movement, poetry - and engage with a team of committed, if over stretched, therapists and support workers.\r\n\r\nWith just the occasional interaction from behind his benevolent camera, Philibert takes the time to observe the people who make use of this facility, the people who provide care and the community that they create together.\r\n\r\nWinner of the Golden Bear at 2023's Berlin Film Festival, On The Adamant is a richly rewarding insight into a space of mental health care with humanity and respect at its core.",
-      "runtime": 114,
-      "times": [
-        {
-          "starts_at": "2023-11-26T13:45:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-85892/"
-        }
-      ]
-    },
-    {
-      "title": "Maestro",
-      "trailer": "https://www.youtube.com/watch?v=gJP2QblqLA0",
-      "synopsis": "Maestro is a towering and fearless love story chronicling the lifelong relationship between Leonard Bernstein and Felicia Montealegre Cohn Bernstein. A love letter to life and art, Maestro at its core is an emotionally epic portrayal of family and love.",
-      "runtime": 129,
-      "times": [
-        {
-          "starts_at": "2023-11-26T14:20:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-85566/"
-        },
-        {
-          "starts_at": "2023-11-26T17:15:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-85564/"
-        },
-        {
-          "starts_at": "2023-11-26T20:10:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-85563/"
-        }
-      ]
-    },
-    {
-      "title": "Past Lives",
-      "trailer": "https://www.youtube.com/watch?v=WJTnve_kdu0",
-      "synopsis": "Nora and Hae Sung, two deeply connected childhood friends, are wrest apart after Nora’s family emigrates from South Korea. Two decades later, they are reunited in New York for one fateful week as they confront notions of destiny, love, and the choices that make a life, in this heartrending modern romance.",
-      "runtime": 106,
-      "times": [
-        {
-          "starts_at": "2023-11-26T15:00:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-85965/"
         }
       ]
     },
@@ -559,6 +361,37 @@
           "starts_at": "2023-11-26T16:00:00+00:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-85155/"
+        }
+      ]
+    },
+    {
+      "title": "Maestro",
+      "trailer": "https://www.youtube.com/watch?v=gJP2QblqLA0",
+      "synopsis": "Maestro is a towering and fearless love story chronicling the lifelong relationship between Leonard Bernstein and Felicia Montealegre Cohn Bernstein. A love letter to life and art, Maestro at its core is an emotionally epic portrayal of family and love.",
+      "runtime": 129,
+      "times": [
+        {
+          "starts_at": "2023-11-26T17:15:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-85564/"
+        },
+        {
+          "starts_at": "2023-11-26T20:10:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-85563/"
+        }
+      ]
+    },
+    {
+      "title": "The Eternal Daughter",
+      "trailer": "https://www.youtube.com/watch?v=DHkp1I4tDHQ",
+      "synopsis": "An artist and her elderly mother confront long-buried secrets when they return to a former family home, now a hotel haunted by its mysterious past. \n\nFeaturing a towering, deeply moving performance by Tilda Swinton, acclaimed filmmaker Joanna Hogg’s beguiling latest film is a brilliant and captivating exploration of parental relationships and the things we leave behind.  ",
+      "runtime": 96,
+      "times": [
+        {
+          "starts_at": "2023-11-26T17:45:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-85967/"
         }
       ]
     },
