@@ -1,37 +1,6 @@
 {
   "2023-11-27": [
     {
-      "title": "The Marvels",
-      "trailer": "https://www.youtube.com/watch?v=QJG4cWmY3BI",
-      "synopsis": "Carol Danvers aka Captain Marvel has reclaimed her identity from the tyrannical Kree and taken revenge on the Supreme Intelligence. But unintended consequences see Carol shouldering the burden of a destabilized universe. When her duties send her to an anomalous wormhole linked to a Kree revolutionary, her powers become entangled with that of Jersey City super-fan, Kamala Khan aka Ms. Marvel, and Carol’s estranged niece, now S.A.B.E.R. astronaut Captain Monica Rambeau. Together, this unlikely trio must team-up and learn to work in concert to save the universe as “The Marvels.”",
-      "runtime": 105,
-      "times": [
-        {
-          "starts_at": "2023-11-27T18:30:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-45478/"
-        }
-      ]
-    },
-    {
-      "title": "The Hunger Games: The Ballad of Songbirds & Snakes",
-      "trailer": "https://www.youtube.com/watch?v=q6wXewnWFow",
-      "synopsis": "Experience the story of THE HUNGER GAMES — 64 years before Katniss Everdeen volunteered as tribute, and decades before Coriolanus Snow became the tyrannical President of Panem. THE HUNGER GAMES: THE BALLAD OF SONGBIRDS & SNAKES follows a young Coriolanus (Tom Blyth) who is the last hope for his failing lineage, the once-proud Snow family that has fallen from grace in a post-war Capitol. With his livelihood threatened, Snow is reluctantly assigned to mentor Lucy Gray Baird (Rachel Zegler), a tribute from the impoverished District 12. But after Lucy Gray’s charm captivates the audience of Panem, Snow sees an opportunity to shift their fates. With everything he has worked for hanging in the balance, Snow unites with Lucy Gray to turn the odds in their favor. Battling his instincts for both good and evil, Snow sets out on a race against time to survive and reveal if he will ultimately become a songbird or a snake.",
-      "runtime": 157,
-      "times": [
-        {
-          "starts_at": "2023-11-27T20:20:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-45472/"
-        },
-        {
-          "starts_at": "2023-11-27T20:45:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-68986/"
-        }
-      ]
-    },
-    {
       "title": "Napoleon",
       "trailer": "https://www.youtube.com/watch?v=1rJjrcKWupE",
       "synopsis": "Napoleon is a spectacle-filled action epic that details the checkered rise and fall of the iconic French Emperor Napoleon Bonaparte, played by Oscar®-winner Joaquin Phoenix. Against a stunning backdrop of large-scale filmmaking orchestrated by legendary director Ridley Scott, the film captures Bonaparte's relentless journey to power through the prism of his addictive, volatile relationship with his one true love, Josephine, showcasing his visionary military and political tactics against some of the most dynamic practical battle sequences ever filmed.",
@@ -43,39 +12,9 @@
           "url": "https://www.curzon.com/ticketing/seats/ALD1-45134/"
         },
         {
-          "starts_at": "2023-11-27T20:00:00+00:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-42382/"
-        },
-        {
-          "starts_at": "2023-11-27T19:15:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-68992/"
-        },
-        {
-          "starts_at": "2023-11-27T20:00:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-68644/"
-        },
-        {
           "starts_at": "2023-11-27T20:30:00+00:00",
           "site": "Curzon Mayfair",
           "url": "https://www.curzon.com/ticketing/seats/MAY1-25282/"
-        },
-        {
-          "starts_at": "2023-11-27T20:20:00+00:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-13623/"
-        },
-        {
-          "starts_at": "2023-11-27T20:00:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-20203/"
-        },
-        {
-          "starts_at": "2023-11-27T20:10:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-85951/"
         }
       ]
     },
@@ -147,19 +86,22 @@
           "url": "https://www.curzon.com/ticketing/seats/SOH1-42381/"
         },
         {
-          "starts_at": "2023-11-27T20:20:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-68995/"
-        },
-        {
-          "starts_at": "2023-11-27T20:20:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-20592/"
-        },
-        {
           "starts_at": "2023-11-27T20:30:00+00:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-85950/"
+        }
+      ]
+    },
+    {
+      "title": "The Hunger Games: The Ballad of Songbirds & Snakes",
+      "trailer": "https://www.youtube.com/watch?v=q6wXewnWFow",
+      "synopsis": "Experience the story of THE HUNGER GAMES — 64 years before Katniss Everdeen volunteered as tribute, and decades before Coriolanus Snow became the tyrannical President of Panem. THE HUNGER GAMES: THE BALLAD OF SONGBIRDS & SNAKES follows a young Coriolanus (Tom Blyth) who is the last hope for his failing lineage, the once-proud Snow family that has fallen from grace in a post-war Capitol. With his livelihood threatened, Snow is reluctantly assigned to mentor Lucy Gray Baird (Rachel Zegler), a tribute from the impoverished District 12. But after Lucy Gray’s charm captivates the audience of Panem, Snow sees an opportunity to shift their fates. With everything he has worked for hanging in the balance, Snow unites with Lucy Gray to turn the odds in their favor. Battling his instincts for both good and evil, Snow sets out on a race against time to survive and reveal if he will ultimately become a songbird or a snake.",
+      "runtime": 157,
+      "times": [
+        {
+          "starts_at": "2023-11-27T20:45:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-68986/"
         }
       ]
     },
@@ -199,19 +141,6 @@
           "starts_at": "2023-11-27T21:20:00+00:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-20607/"
-        }
-      ]
-    },
-    {
-      "title": "DocHouse: Beyond Utopia",
-      "trailer": null,
-      "synopsis": "Gripping, visceral and urgent, Beyond Utopia embeds the viewer with a family of defectors as they attempt to flee North Korea, one of the most oppressive places on Earth - a land they grew up believing was a paradise.",
-      "runtime": 115,
-      "times": [
-        {
-          "starts_at": "2023-11-27T20:20:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-86010/"
         }
       ]
     },
@@ -3090,6 +3019,11 @@
           "starts_at": "2023-12-02T20:00:00+00:00",
           "site": "Curzon Victoria",
           "url": "https://www.curzon.com/ticketing/seats/VIC1-69055/"
+        },
+        {
+          "starts_at": "2023-12-02T11:00:00+00:00",
+          "site": "Curzon Hoxton",
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-13748/"
         },
         {
           "starts_at": "2023-12-02T16:45:00+00:00",
