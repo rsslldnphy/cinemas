@@ -8,7 +8,7 @@
   "American Symphony": {
     "backdrop": "https://image.tmdb.org/t/p/w500//tDHT6QeyBoQXbCN4BkJU0jDpYjX.jpg",
     "poster": "https://image.tmdb.org/t/p/w500//tMmAosGDovC98H8IH6K3dzGeC6D.jpg",
-    "overview": "2022 was shaping up to be a magical year for Jon Batiste: he had just won an Oscar for his SOUL soundtrack; had a fantastic nightly gig as the bandleader for Late Night with Stephen Colbert; and his song “Freedom\", from his We Are record, was topping the charts. And Batiste was embarking upon his most ambitious work, an assemblage of regional sounds and deep historical themes scheduled to premiere at Carnegie Hall. But then, he received crushing news: his partner, the writer Suleika Jaouad, had a relapse of her leukemia.",
+    "overview": "Musician Jon Batiste attempts to compose a symphony as his wife, writer Suleika Jaouad, undergoes cancer treatment.",
     "release_date": "2023-11-24"
   },
   "Anatomy of a Fall": {
@@ -90,7 +90,7 @@
     "release_date": "2023-04-21"
   },
   "DocHouse: Beyond Utopia": {
-    "backdrop": "https://image.tmdb.org/t/p/w500//2pBDP2Ip5mQemw3PYTjDLYv9XI9.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w500//v4cLAQHgY9pwdX33g9cHaFF1lY9.jpg",
     "poster": "https://image.tmdb.org/t/p/w500//fcyCtyXabv0X8TInqoL9yq5DCdb.jpg",
     "overview": "A courageous pastor uses his underground network to rescue and aid North Korean families as they risk their lives to embrace freedom.",
     "release_date": "2023-10-23"
@@ -118,6 +118,12 @@
     "poster": "https://image.tmdb.org/t/p/w500//zxzO6ghSF15s6FCr1C0rHhTB2er.jpg",
     "overview": "A working-class photographer captures the impact of Thatcherism on the north of England but is unable to escape the poverty and inequality she exposed.",
     "release_date": "2023-11-17"
+  },
+  "DocHouse: We Dare To Dream": {
+    "backdrop": null,
+    "poster": "https://image.tmdb.org/t/p/w500//w6b1ldjJyVsqkVikqyqpqpIEhIl.jpg",
+    "overview": "Unprecedented access to the IOC Refugee Olympic Team before, during and after the 2020 Games, which saw 29 athletes competing in Tokyo, originating from 11 countries, and residing in 13 host nations.",
+    "release_date": "2023-11-25"
   },
   "Dream Scenario": {
     "backdrop": "https://image.tmdb.org/t/p/w500//bx6ipM7K7hF6B974POq5PkbqfNc.jpg",
@@ -154,6 +160,12 @@
     "poster": "https://image.tmdb.org/t/p/w500//ca9341N5crOnOCPhCJhQu0iYcTb.jpg",
     "overview": "In modern-day Helsinki, Ansa and Holappa, two lonely souls in search of their first love, meet by chance in a local karaoke bar. However, the pair’s path to happiness is beset by numerous obstacles—from lost phone numbers to mistaken addresses, alcoholism, and a charming stray dog.",
     "release_date": "2023-09-14"
+  },
+  "Fanny: The Other Mendelssohn": {
+    "backdrop": "https://image.tmdb.org/t/p/w500//SOoBuM945nMLqojVmw4Y3x4nb9.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500//hXOqCKmqcrP7B0xlm0VgINkfPhL.jpg",
+    "overview": "Take a celebrated musical genius, some sibling rivalry, an unknown manuscript, a dash of sass and one sensational revelation and what have you got? As moving as it is joyous, this is the story of a very modern woman – who just happened to live 200 years ago.",
+    "release_date": "2023-10-27"
   },
   "Femme": {
     "backdrop": "https://image.tmdb.org/t/p/w500//wWBswxK1EIDNk77GXJyVWA3UIbX.jpg",
@@ -382,6 +394,12 @@
     "poster": "https://image.tmdb.org/t/p/w500//xQ7tIsprm1gvsDKH4qCvCX49YAC.jpg",
     "overview": "The wife of a heart surgeon, suffering from temporary blindness, is home alone. But a strange man ingratiates himself into her household in order to avenge the seduction and death of his wife, for which the surgeon appears responsible...",
     "release_date": "1993-05-27"
+  },
+  "TISH": {
+    "backdrop": "https://image.tmdb.org/t/p/w500//hzaqnwmZbcCsJyk2iqI6tFiPfEd.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500//zxzO6ghSF15s6FCr1C0rHhTB2er.jpg",
+    "overview": "A working-class photographer captures the impact of Thatcherism on the north of England but is unable to escape the poverty and inequality she exposed.",
+    "release_date": "2023-11-17"
   },
   "The Eternal Daughter": {
     "backdrop": "https://image.tmdb.org/t/p/w500//gnpN7VC4adNoAP7qLuMKSYxZPzj.jpg",
