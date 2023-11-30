@@ -1,16 +1,24 @@
 {
   "2023-11-30": [
     {
+      "title": "The Marvels",
+      "trailer": "https://www.youtube.com/watch?v=QJG4cWmY3BI",
+      "synopsis": "Carol Danvers aka Captain Marvel has reclaimed her identity from the tyrannical Kree and taken revenge on the Supreme Intelligence. But unintended consequences see Carol shouldering the burden of a destabilized universe. When her duties send her to an anomalous wormhole linked to a Kree revolutionary, her powers become entangled with that of Jersey City super-fan, Kamala Khan aka Ms. Marvel, and Carol’s estranged niece, now S.A.B.E.R. astronaut Captain Monica Rambeau. Together, this unlikely trio must team-up and learn to work in concert to save the universe as “The Marvels.”",
+      "runtime": 105,
+      "times": [
+        {
+          "starts_at": "2023-11-30T15:40:00+00:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-45516/"
+        }
+      ]
+    },
+    {
       "title": "The Hunger Games: The Ballad of Songbirds & Snakes",
       "trailer": "https://www.youtube.com/watch?v=q6wXewnWFow",
       "synopsis": "Experience the story of THE HUNGER GAMES — 64 years before Katniss Everdeen volunteered as tribute, and decades before Coriolanus Snow became the tyrannical President of Panem. THE HUNGER GAMES: THE BALLAD OF SONGBIRDS & SNAKES follows a young Coriolanus (Tom Blyth) who is the last hope for his failing lineage, the once-proud Snow family that has fallen from grace in a post-war Capitol. With his livelihood threatened, Snow is reluctantly assigned to mentor Lucy Gray Baird (Rachel Zegler), a tribute from the impoverished District 12. But after Lucy Gray’s charm captivates the audience of Panem, Snow sees an opportunity to shift their fates. With everything he has worked for hanging in the balance, Snow unites with Lucy Gray to turn the odds in their favor. Battling his instincts for both good and evil, Snow sets out on a race against time to survive and reveal if he will ultimately become a songbird or a snake.",
       "runtime": 157,
       "times": [
-        {
-          "starts_at": "2023-11-30T13:40:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-45515/"
-        },
         {
           "starts_at": "2023-11-30T17:00:00+00:00",
           "site": "Curzon Aldgate",
@@ -20,11 +28,6 @@
           "starts_at": "2023-11-30T20:20:00+00:00",
           "site": "Curzon Aldgate",
           "url": "https://www.curzon.com/ticketing/seats/ALD1-45510/"
-        },
-        {
-          "starts_at": "2023-11-30T14:30:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-69005/"
         },
         {
           "starts_at": "2023-11-30T19:15:00+00:00",
@@ -40,11 +43,6 @@
       "runtime": 158,
       "times": [
         {
-          "starts_at": "2023-11-30T14:00:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-45144/"
-        },
-        {
           "starts_at": "2023-11-30T17:20:00+00:00",
           "site": "Curzon Aldgate",
           "url": "https://www.curzon.com/ticketing/seats/ALD1-45145/"
@@ -55,11 +53,6 @@
           "url": "https://www.curzon.com/ticketing/seats/ALD1-45143/"
         },
         {
-          "starts_at": "2023-11-30T14:30:00+00:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-42440/"
-        },
-        {
           "starts_at": "2023-11-30T17:40:00+00:00",
           "site": "Curzon Soho",
           "url": "https://www.curzon.com/ticketing/seats/SOH1-42366/"
@@ -68,11 +61,6 @@
           "starts_at": "2023-11-30T20:40:00+00:00",
           "site": "Curzon Soho",
           "url": "https://www.curzon.com/ticketing/seats/SOH1-42367/"
-        },
-        {
-          "starts_at": "2023-11-30T13:40:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-69013/"
         },
         {
           "starts_at": "2023-11-30T15:50:00+00:00",
@@ -105,11 +93,6 @@
           "url": "https://www.curzon.com/ticketing/seats/MAY1-25298/"
         },
         {
-          "starts_at": "2023-11-30T14:40:00+00:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-13691/"
-        },
-        {
           "starts_at": "2023-11-30T17:00:00+00:00",
           "site": "Curzon Hoxton",
           "url": "https://www.curzon.com/ticketing/seats/HOX1-13638/"
@@ -120,11 +103,6 @@
           "url": "https://www.curzon.com/ticketing/seats/HOX1-13637/"
         },
         {
-          "starts_at": "2023-11-30T14:00:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-20614/"
-        },
-        {
           "starts_at": "2023-11-30T17:40:00+00:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-20206/"
@@ -133,11 +111,6 @@
           "starts_at": "2023-11-30T19:40:00+00:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-20207/"
-        },
-        {
-          "starts_at": "2023-11-30T14:30:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-85932/"
         },
         {
           "starts_at": "2023-11-30T17:30:00+00:00",
@@ -158,11 +131,6 @@
       "runtime": 131,
       "times": [
         {
-          "starts_at": "2023-11-30T15:20:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-45514/"
-        },
-        {
           "starts_at": "2023-11-30T18:10:00+00:00",
           "site": "Curzon Aldgate",
           "url": "https://www.curzon.com/ticketing/seats/ALD1-45521/"
@@ -171,11 +139,6 @@
           "starts_at": "2023-11-30T21:00:00+00:00",
           "site": "Curzon Aldgate",
           "url": "https://www.curzon.com/ticketing/seats/ALD1-45518/"
-        },
-        {
-          "starts_at": "2023-11-30T14:45:00+00:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-42439/"
         },
         {
           "starts_at": "2023-11-30T17:20:00+00:00",
@@ -188,11 +151,6 @@
           "url": "https://www.curzon.com/ticketing/seats/SOH1-42393/"
         },
         {
-          "starts_at": "2023-11-30T14:00:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-69014/"
-        },
-        {
           "starts_at": "2023-11-30T17:10:00+00:00",
           "site": "Curzon Victoria",
           "url": "https://www.curzon.com/ticketing/seats/VIC1-69002/"
@@ -201,16 +159,6 @@
           "starts_at": "2023-11-30T21:30:00+00:00",
           "site": "Curzon Victoria",
           "url": "https://www.curzon.com/ticketing/seats/VIC1-69000/"
-        },
-        {
-          "starts_at": "2023-11-30T14:00:00+00:00",
-          "site": "Curzon Mayfair",
-          "url": "https://www.curzon.com/ticketing/seats/MAY1-25297/"
-        },
-        {
-          "starts_at": "2023-11-30T15:00:00+00:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-13693/"
         },
         {
           "starts_at": "2023-11-30T18:00:00+00:00",
@@ -223,11 +171,6 @@
           "url": "https://www.curzon.com/ticketing/seats/HOX1-13687/"
         },
         {
-          "starts_at": "2023-11-30T14:45:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-20618/"
-        },
-        {
           "starts_at": "2023-11-30T18:20:00+00:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-20612/"
@@ -238,11 +181,6 @@
           "url": "https://www.curzon.com/ticketing/seats/CAM1-20609/"
         },
         {
-          "starts_at": "2023-11-30T14:20:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-85940/"
-        },
-        {
           "starts_at": "2023-11-30T17:10:00+00:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-85941/"
@@ -251,19 +189,6 @@
           "starts_at": "2023-11-30T20:50:00+00:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-85928/"
-        }
-      ]
-    },
-    {
-      "title": "The Marvels",
-      "trailer": "https://www.youtube.com/watch?v=QJG4cWmY3BI",
-      "synopsis": "Carol Danvers aka Captain Marvel has reclaimed her identity from the tyrannical Kree and taken revenge on the Supreme Intelligence. But unintended consequences see Carol shouldering the burden of a destabilized universe. When her duties send her to an anomalous wormhole linked to a Kree revolutionary, her powers become entangled with that of Jersey City super-fan, Kamala Khan aka Ms. Marvel, and Carol’s estranged niece, now S.A.B.E.R. astronaut Captain Monica Rambeau. Together, this unlikely trio must team-up and learn to work in concert to save the universe as “The Marvels.”",
-      "runtime": 105,
-      "times": [
-        {
-          "starts_at": "2023-11-30T15:40:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-45516/"
         }
       ]
     },
@@ -304,25 +229,28 @@
       ]
     },
     {
+      "title": "RFF 2023: Familiar",
+      "trailer": null,
+      "synopsis": "A film director investigates the darkest secrets intoxicating his family and tries to neutralize them by transforming them into movie material.\r\n\r\nThe latest film from Golden Bear and FIPRESCI winning filmmaker Calin Peter Netzer (Child's Pose, Ana Mon Amour). This event features a Q&A with lead actor Vlad Ivanov.",
+      "runtime": 100,
+      "times": [
+        {
+          "starts_at": "2023-11-30T18:00:00+00:00",
+          "site": "Curzon Soho",
+          "url": "https://www.curzon.com/ticketing/seats/SOH1-42063/"
+        }
+      ]
+    },
+    {
       "title": "Anatomy of a Fall",
       "trailer": "https://www.youtube.com/watch?v=_MdTMA0PetA",
       "synopsis": "When her husband Samuel is mysteriously found dead in the snow below their secluded chalet, Sandra becomes the main suspect when the police begin to question whether he fell or was pushed. The trial soon becomes not just an investigation, but a gripping psychological journey into the depths of Sandra and Samuel's complicated marriage. With conflicting evidence and inconsistent testimony, words are wielded like weapons and shocking truths come to light in this thrilling Palme d’Or winner.",
       "runtime": 152,
       "times": [
         {
-          "starts_at": "2023-11-30T14:10:00+00:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-42438/"
-        },
-        {
           "starts_at": "2023-11-30T20:20:00+00:00",
           "site": "Curzon Soho",
           "url": "https://www.curzon.com/ticketing/seats/SOH1-42435/"
-        },
-        {
-          "starts_at": "2023-11-30T14:50:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-69009/"
         },
         {
           "starts_at": "2023-11-30T20:20:00+00:00",
@@ -330,24 +258,9 @@
           "url": "https://www.curzon.com/ticketing/seats/VIC1-69010/"
         },
         {
-          "starts_at": "2023-11-30T14:40:00+00:00",
-          "site": "Curzon Mayfair",
-          "url": "https://www.curzon.com/ticketing/seats/MAY1-25296/"
-        },
-        {
-          "starts_at": "2023-11-30T15:00:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-20617/"
-        },
-        {
           "starts_at": "2023-11-30T20:00:00+00:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-20610/"
-        },
-        {
-          "starts_at": "2023-11-30T14:10:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-85929/"
         },
         {
           "starts_at": "2023-11-30T17:20:00+00:00",
@@ -358,19 +271,6 @@
           "starts_at": "2023-11-30T20:30:00+00:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-85927/"
-        }
-      ]
-    },
-    {
-      "title": "RFF 2023: Familiar",
-      "trailer": null,
-      "synopsis": "A film director investigates the darkest secrets intoxicating his family and tries to neutralize them by transforming them into movie material.\r\n\r\nThe latest film from Golden Bear and FIPRESCI winning filmmaker Calin Peter Netzer (Child's Pose, Ana Mon Amour). This event features a Q&A with lead actor Vlad Ivanov.",
-      "runtime": 100,
-      "times": [
-        {
-          "starts_at": "2023-11-30T18:00:00+00:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-42063/"
         }
       ]
     },
@@ -393,19 +293,6 @@
       ]
     },
     {
-      "title": "Killers Of The Flower Moon",
-      "trailer": "https://www.youtube.com/watch?v=nFoIg72KGIk",
-      "synopsis": "At the turn of the 20th century, oil brought a fortune to the Osage Nation, who became some of the richest people in the world overnight. The wealth of these Native Americans immediately attracted white interlopers, who manipulated, extorted, and stole as much Osage money as they could before resorting to murder. Based on a true story and told through the improbable romance of Ernest Burkhart (Leonardo DiCaprio) and Mollie Kyle (Lily Gladstone), “Killers of the Flower Moon” is an epic western crime saga, where real love crosses paths with unspeakable betrayal. Also starring Robert De Niro and Jesse Plemons, “Killers of the Flower Moon” is directed by Academy Award winner Martin Scorsese from a screenplay by Eric Roth and Martin Scorsese, based on David Grann’s best-selling book.",
-      "runtime": 206,
-      "times": [
-        {
-          "starts_at": "2023-11-30T12:40:00+00:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-13688/"
-        }
-      ]
-    },
-    {
       "title": "LPFF 2023: A Gaza Weekend + Screen Talk",
       "trailer": null,
       "synopsis": "A British journalist tries to escape Israel after the UN imposes an embargo from land, air and sea due to the spreading of a virus. Gaza becomes the safest place in the region.\r\n\r\nCouple, British journalist Michael (Stephen Mangan) and his Israeli girlfriend Keren (Mouna Hawa), pay a smuggler to transport them, via Gaza, and onto Cyprus. But they find\r\nthemselves stuck in a basement in Gaza, with Hamas on their trail, and their lives in the hands of hapless Palestinian market traders Emad (Loai Nofi), and Waleed (Adam Bakri) and his  long-suffering but resourceful wife Nuhad (Maria Zreik).\r\n\r\nFollowed by screen talk with director Basil Khalil.",
@@ -424,37 +311,6 @@
       ]
     },
     {
-      "title": "The Old Oak",
-      "trailer": "https://www.youtube.com/watch?v=Fwb0c5zqsyM",
-      "synopsis": "The future for the last remaining pub, The Old Oak in a village of the Northeast England, where people are leaving the land as the mines are closed. Houses are cheap and available thus making it an ideal location for the Syrian refugees.",
-      "runtime": 113,
-      "times": [
-        {
-          "starts_at": "2023-11-30T14:30:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-20626/"
-        }
-      ]
-    },
-    {
-      "title": "Girl",
-      "trailer": null,
-      "synopsis": "Mother and daughter Grace and Ama have established a deep bond that’s protected them from outsiders, but as they try to settle in Glasgow, things begin to change. Ama’s approaching adolescence and growing curiosity set off reminders of a past that Grace has been trying to erase. The comforting fairytale-like story that Grace has been telling Ama for years is shaken by the memories — their sheltered world begins to erode from the inside. To give them both a chance to really start living, Grace has to let Ama grow up. ",
-      "runtime": 87,
-      "times": [
-        {
-          "starts_at": "2023-11-30T15:20:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-20620/"
-        },
-        {
-          "starts_at": "2023-11-30T20:50:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-20619/"
-        }
-      ]
-    },
-    {
       "title": "Another Body",
       "trailer": null,
       "synopsis": "Documentary, following 22 year-old engineering student Taylor. She gets a Facebook message from a friend with a link. She clicks. What she sees is her face, looking back at her, in hardcore pornography. Taylor has been deepfaked: her face has been pulled from her social media and digitally altered to appear in six porn videos without her consent. The creator has put these videos on a pornhub profile impersonating her, listing her real name, college and hometown, and soliciting men to hit her up.",
@@ -468,28 +324,15 @@
       ]
     },
     {
-      "title": "DocHouse: Beyond Utopia",
+      "title": "Girl",
       "trailer": null,
-      "synopsis": "Gripping, visceral and urgent, Beyond Utopia embeds the viewer with a family of defectors as they attempt to flee North Korea, one of the most oppressive places on Earth - a land they grew up believing was a paradise.",
-      "runtime": 115,
+      "synopsis": "Mother and daughter Grace and Ama have established a deep bond that’s protected them from outsiders, but as they try to settle in Glasgow, things begin to change. Ama’s approaching adolescence and growing curiosity set off reminders of a past that Grace has been trying to erase. The comforting fairytale-like story that Grace has been telling Ama for years is shaken by the memories — their sheltered world begins to erode from the inside. To give them both a chance to really start living, Grace has to let Ama grow up. ",
+      "runtime": 87,
       "times": [
         {
-          "starts_at": "2023-11-30T14:50:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-86014/"
-        }
-      ]
-    },
-    {
-      "title": "Past Lives",
-      "trailer": "https://www.youtube.com/watch?v=WJTnve_kdu0",
-      "synopsis": "Nora and Hae Sung, two deeply connected childhood friends, are wrest apart after Nora’s family emigrates from South Korea. Two decades later, they are reunited in New York for one fateful week as they confront notions of destiny, love, and the choices that make a life, in this heartrending modern romance.",
-      "runtime": 106,
-      "times": [
-        {
-          "starts_at": "2023-11-30T15:00:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-85935/"
+          "starts_at": "2023-11-30T20:50:00+00:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-20619/"
         }
       ]
     },
@@ -499,11 +342,6 @@
       "synopsis": "Maestro is a towering and fearless love story chronicling the lifelong relationship between Leonard Bernstein and Felicia Montealegre Cohn Bernstein. A love letter to life and art, Maestro at its core is an emotionally epic portrayal of family and love.",
       "runtime": 129,
       "times": [
-        {
-          "starts_at": "2023-11-30T15:10:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-85580/"
-        },
         {
           "starts_at": "2023-11-30T18:00:00+00:00",
           "site": "Curzon Bloomsbury",
