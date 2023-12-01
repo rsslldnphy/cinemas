@@ -95,6 +95,12 @@
     "overview": "With Olin's 85-year-old father as guide, we experience Norway's most adventurous valley, Oldedalen in Nordfjord. He grew up here, and here generations before him have lived in balance with nature.",
     "release_date": "2023-09-01"
   },
+  "DocHouse: The Gullspang Miracle": {
+    "backdrop": "https://image.tmdb.org/t/p/w500//pmwjki5QS8c4t1Vnzv3e6PKJLR9.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500//hWntRgSwxclrdd9OcmQrRyef9Fd.jpg",
+    "overview": "Two Norwegian sisters receive a premonition from God that makes them buy an apartment in a tiny Swedish town, Gullspång. Meeting the seller, she is a dead-ringer of their older sister, who committed suicide 30 years ago.",
+    "release_date": "2023-10-27"
+  },
   "DocHouse: Tish": {
     "backdrop": "https://image.tmdb.org/t/p/w500//hzaqnwmZbcCsJyk2iqI6tFiPfEd.jpg",
     "poster": "https://image.tmdb.org/t/p/w500//zxzO6ghSF15s6FCr1C0rHhTB2er.jpg",
@@ -112,12 +118,6 @@
     "poster": "https://image.tmdb.org/t/p/w500//w6b1ldjJyVsqkVikqyqpqpIEhIl.jpg",
     "overview": "Unprecedented access to the IOC Refugee Olympic Team before, during and after the 2020 Games, which saw 29 athletes competing in Tokyo, originating from 11 countries, and residing in 13 host nations.",
     "release_date": "2023-11-25"
-  },
-  "Dream Scenario": {
-    "backdrop": "https://image.tmdb.org/t/p/w500//bx6ipM7K7hF6B974POq5PkbqfNc.jpg",
-    "poster": "https://image.tmdb.org/t/p/w500//eMaAi8wTI5wON8pp33w3BDuGyZ8.jpg",
-    "overview": "Hapless family man Paul Matthews finds his life turned upside down when millions of strangers suddenly start seeing him in their dreams. But when his nighttime appearances take a nightmarish turn, Paul is forced to navigate his newfound stardom.",
-    "release_date": "2023-11-10"
   },
   "EVANGELION : 3.0+1.01 THRICE UPON A TIME": {
     "backdrop": "https://image.tmdb.org/t/p/w500//1EAxNqdkVnp48a7NUuNBHGflowM.jpg",
@@ -160,12 +160,6 @@
     "poster": "https://image.tmdb.org/t/p/w500//d0e0jnBdyKBOSHKG3X9QIbflKbU.jpg",
     "overview": "Jules is a drag artist in London who withdraws into himself and loses his career after a horrific attack. Months later, he recognizes one of his assailants in a gay sauna and quickly realizes he has the perfect opportunity to get revenge.",
     "release_date": "2023-12-01"
-  },
-  "Girl": {
-    "backdrop": "https://image.tmdb.org/t/p/w500//oMVqG3v5higxMwEnm8DTxRaaQsp.jpg",
-    "poster": "https://image.tmdb.org/t/p/w500//xsi8n1TVWwCq5XmID3ia0lIfTUG.jpg",
-    "overview": "A young woman returns to her small hometown intent on killing her abusive father only to discover someone murdered him the day before. As the girl searches for answers, she uncovers a family legacy more dangerous than she'd imagined.",
-    "release_date": "2020-12-11"
   },
   "HALLOWEEN (1978)": {
     "backdrop": null,
@@ -395,6 +389,12 @@
     "overview": "A pub landlord in a previously thriving mining community struggles to hold onto his pub. Meanwhile, tensions rise in the town when Syrian refugees are placed in the empty houses in the community.",
     "release_date": "2023-09-29"
   },
+  "The Peasants": {
+    "backdrop": "https://image.tmdb.org/t/p/w500//rhFFbdRxSw25LvylJMbkOGljy2d.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500//pfGhUf7klsHl1RUeW7jK2piseH.jpg",
+    "overview": "Peasant girl Jagna is forced to marry the much older, wealthy farmer Boryna, despite her love for his son Antek. With time, Jagna becomes the object of envy and disdain with the villagers and she must fight to preserve her independence.",
+    "release_date": "2023-10-13"
+  },
   "Tótem": {
     "backdrop": "https://image.tmdb.org/t/p/w500//49h4yo1j6USI783zq8hzDuRrWfO.jpg",
     "poster": "https://image.tmdb.org/t/p/w500//5glZNvNU3YoLhO9SzWAuhoKiGRe.jpg",
@@ -412,5 +412,11 @@
     "poster": "https://image.tmdb.org/t/p/w500//w6b1ldjJyVsqkVikqyqpqpIEhIl.jpg",
     "overview": "Unprecedented access to the IOC Refugee Olympic Team before, during and after the 2020 Games, which saw 29 athletes competing in Tokyo, originating from 11 countries, and residing in 13 host nations.",
     "release_date": "2023-11-25"
+  },
+  "Wonka": {
+    "backdrop": "https://image.tmdb.org/t/p/w500//yOm993lsJyPmBodlYjgpPwBjXP9.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500//qhb1qOilapbapxWQn9jtRCMwXJF.jpg",
+    "overview": "Willy Wonka – chock-full of ideas and determined to change the world one delectable bite at a time – is proof that the best things in life begin with a dream, and if you’re lucky enough to meet Willy Wonka, anything is possible.",
+    "release_date": "2023-12-06"
   }
 }
