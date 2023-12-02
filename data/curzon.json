@@ -1,72 +1,6 @@
 {
   "2023-12-02": [
     {
-      "title": "RENAISSANCE: A FILM BY BEYONCÉ",
-      "trailer": "https://www.youtube.com/watch?v=AqjPzq3uYXQ",
-      "synopsis": "RENAISSANCE: A FILM BY BEYONCÉ accentuates the journey of RENAISSANCE WORLD TOUR, from its inception, to the opening in Stockholm, Sweden, to the finale in Kansas City, Missouri. It is about Beyoncé’s intention, hard work, involvement in every aspect of the production, her creative mind and purpose to create her legacy, and master her craft.  Received with extraordinary acclaim, Beyoncé’s RENAISSANCE WORLD TOUR created a sanctuary for freedom, and shared joy, for more than 2.7 million fans.",
-      "runtime": 169,
-      "times": [
-        {
-          "starts_at": "2023-12-02T19:40:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-45234/"
-        },
-        {
-          "starts_at": "2023-12-02T20:00:00+00:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-42256/"
-        },
-        {
-          "starts_at": "2023-12-02T19:45:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-68742/"
-        },
-        {
-          "starts_at": "2023-12-02T19:40:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-20377/"
-        }
-      ]
-    },
-    {
-      "title": "Napoleon",
-      "trailer": "https://www.youtube.com/watch?v=1rJjrcKWupE",
-      "synopsis": "Napoleon is a spectacle-filled action epic that details the checkered rise and fall of the iconic French Emperor Napoleon Bonaparte, played by Oscar®-winner Joaquin Phoenix. Against a stunning backdrop of large-scale filmmaking orchestrated by legendary director Ridley Scott, the film captures Bonaparte's relentless journey to power through the prism of his addictive, volatile relationship with his one true love, Josephine, showcasing his visionary military and political tactics against some of the most dynamic practical battle sequences ever filmed.",
-      "runtime": 158,
-      "times": [
-        {
-          "starts_at": "2023-12-02T20:20:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-45544/"
-        },
-        {
-          "starts_at": "2023-12-02T20:30:00+00:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-42490/"
-        },
-        {
-          "starts_at": "2023-12-02T20:00:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-69055/"
-        },
-        {
-          "starts_at": "2023-12-02T20:15:00+00:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-13752/"
-        },
-        {
-          "starts_at": "2023-12-02T20:00:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-20710/"
-        },
-        {
-          "starts_at": "2023-12-02T20:15:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-86058/"
-        }
-      ]
-    },
-    {
       "title": "The Hunger Games: The Ballad of Songbirds & Snakes",
       "trailer": "https://www.youtube.com/watch?v=q6wXewnWFow",
       "synopsis": "Experience the story of THE HUNGER GAMES — 64 years before Katniss Everdeen volunteered as tribute, and decades before Coriolanus Snow became the tyrannical President of Panem. THE HUNGER GAMES: THE BALLAD OF SONGBIRDS & SNAKES follows a young Coriolanus (Tom Blyth) who is the last hope for his failing lineage, the once-proud Snow family that has fallen from grace in a post-war Capitol. With his livelihood threatened, Snow is reluctantly assigned to mentor Lucy Gray Baird (Rachel Zegler), a tribute from the impoverished District 12. But after Lucy Gray’s charm captivates the audience of Panem, Snow sees an opportunity to shift their fates. With everything he has worked for hanging in the balance, Snow unites with Lucy Gray to turn the odds in their favor. Battling his instincts for both good and evil, Snow sets out on a race against time to survive and reveal if he will ultimately become a songbird or a snake.",
@@ -109,11 +43,19 @@
           "starts_at": "2023-12-02T21:00:00+00:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-20708/"
-        },
+        }
+      ]
+    },
+    {
+      "title": "Napoleon",
+      "trailer": "https://www.youtube.com/watch?v=1rJjrcKWupE",
+      "synopsis": "Napoleon is a spectacle-filled action epic that details the checkered rise and fall of the iconic French Emperor Napoleon Bonaparte, played by Oscar®-winner Joaquin Phoenix. Against a stunning backdrop of large-scale filmmaking orchestrated by legendary director Ridley Scott, the film captures Bonaparte's relentless journey to power through the prism of his addictive, volatile relationship with his one true love, Josephine, showcasing his visionary military and political tactics against some of the most dynamic practical battle sequences ever filmed.",
+      "runtime": 158,
+      "times": [
         {
-          "starts_at": "2023-12-02T19:40:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-86057/"
+          "starts_at": "2023-12-02T20:30:00+00:00",
+          "site": "Curzon Soho",
+          "url": "https://www.curzon.com/ticketing/seats/SOH1-42490/"
         }
       ]
     },
@@ -173,11 +115,6 @@
           "starts_at": "2023-12-02T21:00:00+00:00",
           "site": "Curzon Hoxton",
           "url": "https://www.curzon.com/ticketing/seats/HOX1-13753/"
-        },
-        {
-          "starts_at": "2023-12-02T19:20:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-86071/"
         }
       ]
     },
@@ -188,27 +125,9 @@
       "runtime": 152,
       "times": [
         {
-          "starts_at": "2023-12-02T20:20:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-20715/"
-        },
-        {
           "starts_at": "2023-12-02T20:30:00+00:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-86059/"
-        }
-      ]
-    },
-    {
-      "title": "DocHouse: Queendom",
-      "trailer": null,
-      "synopsis": "Director Agniia Galdanova points her camera on Putin's Russia, unveiling the harsh repercussions faced by those who stray from societal norms.\r\n\r\n21-year-old Gena is a queer performance artist who transforms the streets of Russia into her runway, confronting the public with her other-wordly, extravagant costumes. She stages radical performances that become a new form of art and activism, but her defiance comes at a price.\r\n\r\nRaised in a small town by her grandparents, Gena leaves to study in Moscow. Through evocative performances, she protests against the government and sheds light on the persecution endured by the LGBTQ+ community. This defiant young activist faces a multitude of challenges, notably the looming threat of compulsory military conscription. Her raw vulnerability is exposed, as she searches for acceptance in a place that adamantly rejects her identity.\r\n\r\nFilmed over four years, and spanning the outbreak of war, Queendom is much more than just an artist's portrait. This visually striking yet thought-provoking film encapsulates a crucial turning point in Russia's transition from its older to younger generation.",
-      "runtime": 97,
-      "times": [
-        {
-          "starts_at": "2023-12-02T20:20:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-85711/"
         }
       ]
     },
