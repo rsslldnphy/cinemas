@@ -7,11 +7,6 @@
       "runtime": 158,
       "times": [
         {
-          "starts_at": "2023-12-11T10:45:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-45647/"
-        },
-        {
           "starts_at": "2023-12-11T13:50:00+00:00",
           "site": "Curzon Aldgate",
           "url": "https://www.curzon.com/ticketing/seats/ALD1-45654/"
@@ -30,11 +25,6 @@
           "starts_at": "2023-12-11T14:30:00+00:00",
           "site": "Curzon Soho",
           "url": "https://www.curzon.com/ticketing/seats/SOH1-42646/"
-        },
-        {
-          "starts_at": "2023-12-11T11:45:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-69229/"
         },
         {
           "starts_at": "2023-12-11T13:45:00+00:00",
@@ -60,11 +50,6 @@
           "starts_at": "2023-12-11T17:20:00+00:00",
           "site": "Curzon Mayfair",
           "url": "https://www.curzon.com/ticketing/seats/MAY1-25509/"
-        },
-        {
-          "starts_at": "2023-12-11T12:20:00+00:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-13873/"
         },
         {
           "starts_at": "2023-12-11T17:20:00+00:00",
@@ -94,16 +79,180 @@
       ]
     },
     {
+      "title": "Maestro",
+      "trailer": "https://www.youtube.com/watch?v=gJP2QblqLA0",
+      "synopsis": "Maestro is a towering and fearless love story chronicling the lifelong relationship between Leonard Bernstein and Felicia Montealegre Cohn Bernstein. A love letter to life and art, Maestro at its core is an emotionally epic portrayal of family and love.",
+      "runtime": 129,
+      "times": [
+        {
+          "starts_at": "2023-12-11T14:10:00+00:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-45653/"
+        },
+        {
+          "starts_at": "2023-12-11T14:20:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-69236/"
+        },
+        {
+          "starts_at": "2023-12-11T16:45:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-69235/"
+        },
+        {
+          "starts_at": "2023-12-11T15:00:00+00:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-20947/"
+        },
+        {
+          "starts_at": "2023-12-11T20:10:00+00:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-20939/"
+        },
+        {
+          "starts_at": "2023-12-11T15:30:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-86296/"
+        },
+        {
+          "starts_at": "2023-12-11T17:50:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-86307/"
+        },
+        {
+          "starts_at": "2023-12-11T20:50:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-86302/"
+        }
+      ]
+    },
+    {
+      "title": "The Hunger Games: The Ballad of Songbirds & Snakes",
+      "trailer": "https://www.youtube.com/watch?v=q6wXewnWFow",
+      "synopsis": "Experience the story of THE HUNGER GAMES — 64 years before Katniss Everdeen volunteered as tribute, and decades before Coriolanus Snow became the tyrannical President of Panem. THE HUNGER GAMES: THE BALLAD OF SONGBIRDS & SNAKES follows a young Coriolanus (Tom Blyth) who is the last hope for his failing lineage, the once-proud Snow family that has fallen from grace in a post-war Capitol. With his livelihood threatened, Snow is reluctantly assigned to mentor Lucy Gray Baird (Rachel Zegler), a tribute from the impoverished District 12. But after Lucy Gray’s charm captivates the audience of Panem, Snow sees an opportunity to shift their fates. With everything he has worked for hanging in the balance, Snow unites with Lucy Gray to turn the odds in their favor. Battling his instincts for both good and evil, Snow sets out on a race against time to survive and reveal if he will ultimately become a songbird or a snake.",
+      "runtime": 157,
+      "times": [
+        {
+          "starts_at": "2023-12-11T14:30:00+00:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-45652/"
+        },
+        {
+          "starts_at": "2023-12-11T20:20:00+00:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-45649/"
+        },
+        {
+          "starts_at": "2023-12-11T20:15:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-69234/"
+        }
+      ]
+    },
+    {
+      "title": "Wonka",
+      "trailer": "https://www.youtube.com/watch?v=qhzNQ9vaJqE",
+      "synopsis": "The Story will focus on a young Willy Wonka and his adventures prior to opening the world’s most famous chocolate factory.",
+      "runtime": 116,
+      "times": [
+        {
+          "starts_at": "2023-12-11T15:20:00+00:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-45253/"
+        },
+        {
+          "starts_at": "2023-12-11T18:10:00+00:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-45254/"
+        },
+        {
+          "starts_at": "2023-12-11T21:00:00+00:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-45255/"
+        },
+        {
+          "starts_at": "2023-12-11T12:45:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-68763/"
+        },
+        {
+          "starts_at": "2023-12-11T15:30:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-68766/"
+        },
+        {
+          "starts_at": "2023-12-11T17:30:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-69287/"
+        },
+        {
+          "starts_at": "2023-12-11T18:15:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-68765/"
+        },
+        {
+          "starts_at": "2023-12-11T20:45:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-69239/"
+        },
+        {
+          "starts_at": "2023-12-11T14:40:00+00:00",
+          "site": "Curzon Mayfair",
+          "url": "https://www.curzon.com/ticketing/seats/MAY1-25512/"
+        },
+        {
+          "starts_at": "2023-12-11T17:45:00+00:00",
+          "site": "Curzon Mayfair",
+          "url": "https://www.curzon.com/ticketing/seats/MAY1-25511/"
+        },
+        {
+          "starts_at": "2023-12-11T20:45:00+00:00",
+          "site": "Curzon Mayfair",
+          "url": "https://www.curzon.com/ticketing/seats/MAY1-25508/"
+        },
+        {
+          "starts_at": "2023-12-11T14:50:00+00:00",
+          "site": "Curzon Hoxton",
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-13482/"
+        },
+        {
+          "starts_at": "2023-12-11T17:40:00+00:00",
+          "site": "Curzon Hoxton",
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-13481/"
+        },
+        {
+          "starts_at": "2023-12-11T20:20:00+00:00",
+          "site": "Curzon Hoxton",
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-13480/"
+        },
+        {
+          "starts_at": "2023-12-11T12:45:00+00:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-20392/"
+        },
+        {
+          "starts_at": "2023-12-11T15:30:00+00:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-20393/"
+        },
+        {
+          "starts_at": "2023-12-11T18:10:00+00:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-20395/"
+        },
+        {
+          "starts_at": "2023-12-11T20:50:00+00:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-20394/"
+        }
+      ]
+    },
+    {
       "title": "Saltburn",
       "trailer": "https://www.youtube.com/watch?v=s8l0llLj1uM",
       "synopsis": "Struggling to find his place at Oxford University, student Oliver Quick finds himself drawn into the world of the charming and aristocratic Felix Catton, who invites him to Saltburn, his eccentric family's sprawling estate, for a summer never to be forgotten.",
       "runtime": 131,
       "times": [
-        {
-          "starts_at": "2023-12-11T11:00:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-45648/"
-        },
         {
           "starts_at": "2023-12-11T17:00:00+00:00",
           "site": "Curzon Aldgate",
@@ -128,11 +277,6 @@
           "starts_at": "2023-12-11T20:30:00+00:00",
           "site": "Curzon Soho",
           "url": "https://www.curzon.com/ticketing/seats/SOH1-42641/"
-        },
-        {
-          "starts_at": "2023-12-11T10:45:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-69231/"
         },
         {
           "starts_at": "2023-12-11T15:00:00+00:00",
@@ -203,11 +347,6 @@
       "runtime": 93,
       "times": [
         {
-          "starts_at": "2023-12-11T12:00:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-45646/"
-        },
-        {
           "starts_at": "2023-12-11T17:50:00+00:00",
           "site": "Curzon Aldgate",
           "url": "https://www.curzon.com/ticketing/seats/ALD1-45657/"
@@ -216,205 +355,6 @@
           "starts_at": "2023-12-11T21:00:00+00:00",
           "site": "Curzon Victoria",
           "url": "https://www.curzon.com/ticketing/seats/VIC1-69163/"
-        }
-      ]
-    },
-    {
-      "title": "Wonka",
-      "trailer": "https://www.youtube.com/watch?v=qhzNQ9vaJqE",
-      "synopsis": "The Story will focus on a young Willy Wonka and his adventures prior to opening the world’s most famous chocolate factory.",
-      "runtime": 116,
-      "times": [
-        {
-          "starts_at": "2023-12-11T12:20:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-45252/"
-        },
-        {
-          "starts_at": "2023-12-11T15:20:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-45253/"
-        },
-        {
-          "starts_at": "2023-12-11T18:10:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-45254/"
-        },
-        {
-          "starts_at": "2023-12-11T21:00:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-45255/"
-        },
-        {
-          "starts_at": "2023-12-11T12:45:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-68763/"
-        },
-        {
-          "starts_at": "2023-12-11T15:30:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-68766/"
-        },
-        {
-          "starts_at": "2023-12-11T17:30:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-69287/"
-        },
-        {
-          "starts_at": "2023-12-11T18:15:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-68765/"
-        },
-        {
-          "starts_at": "2023-12-11T20:45:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-69239/"
-        },
-        {
-          "starts_at": "2023-12-11T11:40:00+00:00",
-          "site": "Curzon Mayfair",
-          "url": "https://www.curzon.com/ticketing/seats/MAY1-25506/"
-        },
-        {
-          "starts_at": "2023-12-11T14:40:00+00:00",
-          "site": "Curzon Mayfair",
-          "url": "https://www.curzon.com/ticketing/seats/MAY1-25512/"
-        },
-        {
-          "starts_at": "2023-12-11T17:45:00+00:00",
-          "site": "Curzon Mayfair",
-          "url": "https://www.curzon.com/ticketing/seats/MAY1-25511/"
-        },
-        {
-          "starts_at": "2023-12-11T20:45:00+00:00",
-          "site": "Curzon Mayfair",
-          "url": "https://www.curzon.com/ticketing/seats/MAY1-25508/"
-        },
-        {
-          "starts_at": "2023-12-11T11:45:00+00:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-13871/"
-        },
-        {
-          "starts_at": "2023-12-11T14:50:00+00:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-13482/"
-        },
-        {
-          "starts_at": "2023-12-11T17:40:00+00:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-13481/"
-        },
-        {
-          "starts_at": "2023-12-11T20:20:00+00:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-13480/"
-        },
-        {
-          "starts_at": "2023-12-11T12:45:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-20392/"
-        },
-        {
-          "starts_at": "2023-12-11T15:30:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-20393/"
-        },
-        {
-          "starts_at": "2023-12-11T18:10:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-20395/"
-        },
-        {
-          "starts_at": "2023-12-11T20:50:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-20394/"
-        }
-      ]
-    },
-    {
-      "title": "Maestro",
-      "trailer": "https://www.youtube.com/watch?v=gJP2QblqLA0",
-      "synopsis": "Maestro is a towering and fearless love story chronicling the lifelong relationship between Leonard Bernstein and Felicia Montealegre Cohn Bernstein. A love letter to life and art, Maestro at its core is an emotionally epic portrayal of family and love.",
-      "runtime": 129,
-      "times": [
-        {
-          "starts_at": "2023-12-11T14:10:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-45653/"
-        },
-        {
-          "starts_at": "2023-12-11T11:30:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-69230/"
-        },
-        {
-          "starts_at": "2023-12-11T14:20:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-69236/"
-        },
-        {
-          "starts_at": "2023-12-11T16:45:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-69235/"
-        },
-        {
-          "starts_at": "2023-12-11T15:00:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-20947/"
-        },
-        {
-          "starts_at": "2023-12-11T20:10:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-20939/"
-        },
-        {
-          "starts_at": "2023-12-11T12:00:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-86292/"
-        },
-        {
-          "starts_at": "2023-12-11T15:30:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-86296/"
-        },
-        {
-          "starts_at": "2023-12-11T17:50:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-86307/"
-        },
-        {
-          "starts_at": "2023-12-11T20:50:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-86302/"
-        }
-      ]
-    },
-    {
-      "title": "The Hunger Games: The Ballad of Songbirds & Snakes",
-      "trailer": "https://www.youtube.com/watch?v=q6wXewnWFow",
-      "synopsis": "Experience the story of THE HUNGER GAMES — 64 years before Katniss Everdeen volunteered as tribute, and decades before Coriolanus Snow became the tyrannical President of Panem. THE HUNGER GAMES: THE BALLAD OF SONGBIRDS & SNAKES follows a young Coriolanus (Tom Blyth) who is the last hope for his failing lineage, the once-proud Snow family that has fallen from grace in a post-war Capitol. With his livelihood threatened, Snow is reluctantly assigned to mentor Lucy Gray Baird (Rachel Zegler), a tribute from the impoverished District 12. But after Lucy Gray’s charm captivates the audience of Panem, Snow sees an opportunity to shift their fates. With everything he has worked for hanging in the balance, Snow unites with Lucy Gray to turn the odds in their favor. Battling his instincts for both good and evil, Snow sets out on a race against time to survive and reveal if he will ultimately become a songbird or a snake.",
-      "runtime": 157,
-      "times": [
-        {
-          "starts_at": "2023-12-11T14:30:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-45652/"
-        },
-        {
-          "starts_at": "2023-12-11T20:20:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-45649/"
-        },
-        {
-          "starts_at": "2023-12-11T11:00:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-69232/"
-        },
-        {
-          "starts_at": "2023-12-11T20:15:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-69234/"
         }
       ]
     },
@@ -432,16 +372,39 @@
       ]
     },
     {
+      "title": "Fallen Leaves",
+      "trailer": null,
+      "synopsis": "Award-winning filmmaker Aki Kaurismäki (Le Havre, The Other Side of Hope) makes a masterful return with FALLEN LEAVES, a timeless, hopeful and satisfying love story that won the Jury Prize at the 2023 Cannes Film Festival.\n\nSet in modern day Helsinki, the film tells the story of Ansa (Alma Pöysti) and Holappa (Jussi Vatanen), two lonely souls whose chance meeting at a local karaoke bar is beset by numerous hurdles. From lost phone numbers to mistaken addresses, alcoholism and a charming stray dog, the pair’s path to happiness is as bittersweet as it is ultimately delightful. \n\nShot through with Kaurismäki’s typically playful, idiosyncratic style and deadpan sense of humor, this tender romantic tragicomedy is both a loving tribute to the filmmaker’s beloved contemporaries and a timely reminder of the potency of movie-going from one of cinema’s living legends. ",
+      "runtime": 91,
+      "times": [
+        {
+          "starts_at": "2023-12-11T12:50:00+00:00",
+          "site": "Curzon Soho",
+          "url": "https://www.curzon.com/ticketing/seats/SOH1-42647/"
+        },
+        {
+          "starts_at": "2023-12-11T20:50:00+00:00",
+          "site": "Curzon Soho",
+          "url": "https://www.curzon.com/ticketing/seats/SOH1-42679/"
+        },
+        {
+          "starts_at": "2023-12-11T17:00:00+00:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-20953/"
+        },
+        {
+          "starts_at": "2023-12-11T18:10:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-86308/"
+        }
+      ]
+    },
+    {
       "title": "Anselm (2D)",
       "trailer": "https://www.youtube.com/watch?v=TqBS8L9niGA",
       "synopsis": "An experience like no other. Wim Wenders creates a portrait of Anselm Kiefer, one of the most innovative and important painters and sculptors of our time, shot in 3D and 6K-resolution. \n\nThe film presents a total immersion in the artist’s work and practice which explores human existence and the cyclical nature of history, inspired by literature, poetry, philosophy, science, mythology and religion. For over two years, Wenders traced Kiefer’s path from his native Germany to his current home in France, connecting the stages of his life to the essential places of his career that spans more than five decades.",
       "runtime": 93,
       "times": [
-        {
-          "starts_at": "2023-12-11T12:10:00+00:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-42648/"
-        },
         {
           "starts_at": "2023-12-11T15:30:00+00:00",
           "site": "Curzon Soho",
@@ -463,11 +426,6 @@
           "url": "https://www.curzon.com/ticketing/seats/VIC1-69255/"
         },
         {
-          "starts_at": "2023-12-11T12:20:00+00:00",
-          "site": "Curzon Mayfair",
-          "url": "https://www.curzon.com/ticketing/seats/MAY1-25537/"
-        },
-        {
           "starts_at": "2023-12-11T15:40:00+00:00",
           "site": "Curzon Hoxton",
           "url": "https://www.curzon.com/ticketing/seats/HOX1-13877/"
@@ -476,11 +434,6 @@
           "starts_at": "2023-12-11T21:00:00+00:00",
           "site": "Curzon Hoxton",
           "url": "https://www.curzon.com/ticketing/seats/HOX1-13872/"
-        },
-        {
-          "starts_at": "2023-12-11T12:15:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-20944/"
         },
         {
           "starts_at": "2023-12-11T14:45:00+00:00",
@@ -496,11 +449,6 @@
           "starts_at": "2023-12-11T19:15:00+00:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-20942/"
-        },
-        {
-          "starts_at": "2023-12-11T12:15:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-86291/"
         },
         {
           "starts_at": "2023-12-11T15:45:00+00:00",
@@ -520,59 +468,11 @@
       ]
     },
     {
-      "title": "Fallen Leaves",
-      "trailer": null,
-      "synopsis": "Award-winning filmmaker Aki Kaurismäki (Le Havre, The Other Side of Hope) makes a masterful return with FALLEN LEAVES, a timeless, hopeful and satisfying love story that won the Jury Prize at the 2023 Cannes Film Festival.\n\nSet in modern day Helsinki, the film tells the story of Ansa (Alma Pöysti) and Holappa (Jussi Vatanen), two lonely souls whose chance meeting at a local karaoke bar is beset by numerous hurdles. From lost phone numbers to mistaken addresses, alcoholism and a charming stray dog, the pair’s path to happiness is as bittersweet as it is ultimately delightful. \n\nShot through with Kaurismäki’s typically playful, idiosyncratic style and deadpan sense of humor, this tender romantic tragicomedy is both a loving tribute to the filmmaker’s beloved contemporaries and a timely reminder of the potency of movie-going from one of cinema’s living legends. ",
-      "runtime": 91,
-      "times": [
-        {
-          "starts_at": "2023-12-11T12:50:00+00:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-42647/"
-        },
-        {
-          "starts_at": "2023-12-11T20:50:00+00:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-42679/"
-        },
-        {
-          "starts_at": "2023-12-11T12:00:00+00:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-13928/"
-        },
-        {
-          "starts_at": "2023-12-11T11:30:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-20948/"
-        },
-        {
-          "starts_at": "2023-12-11T17:00:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-20953/"
-        },
-        {
-          "starts_at": "2023-12-11T12:10:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-86300/"
-        },
-        {
-          "starts_at": "2023-12-11T18:10:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-86308/"
-        }
-      ]
-    },
-    {
       "title": "Anatomy of a Fall",
       "trailer": "https://www.youtube.com/watch?v=_MdTMA0PetA",
       "synopsis": "When her husband Samuel is mysteriously found dead in the snow below their secluded chalet, Sandra becomes the main suspect when the police begin to question whether he fell or was pushed. The trial soon becomes not just an investigation, but a gripping psychological journey into the depths of Sandra and Samuel's complicated marriage. With conflicting evidence and inconsistent testimony, words are wielded like weapons and shocking truths come to light in this thrilling Palme d’Or winner.",
       "runtime": 152,
       "times": [
-        {
-          "starts_at": "2023-12-11T11:45:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-20945/"
-        },
         {
           "starts_at": "2023-12-11T17:20:00+00:00",
           "site": "Curzon Camden",
@@ -2879,6 +2779,11 @@
       "synopsis": "Join Clara at a delightful Christmas Eve party that becomes a magical adventure once everyone else is tucked up in bed. Marvel at the brilliance of Tchaikovsky’s score, as Clara and her enchanted Nutcracker fight the Mouse King and visit the Sugar Plum Fairy and her Prince in the glittering Kingdom of Sweets. Peter Wright’s much-loved production for The Royal Ballet, with gorgeous period designs by Julia Trevelyan Oman, keeps true to the spirit of this festive ballet classic, combining the thrill of the fairy tale with spectacular classical dancing.",
       "runtime": 160,
       "times": [
+        {
+          "starts_at": "2023-12-17T14:00:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-69427/"
+        },
         {
           "starts_at": "2023-12-17T14:00:00+00:00",
           "site": "Curzon Mayfair",
