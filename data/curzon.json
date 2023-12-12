@@ -1,72 +1,6 @@
 {
   "2023-12-12": [
     {
-      "title": "Royal Ballet 2023/24 Season: The Nutcracker",
-      "trailer": null,
-      "synopsis": "Join Clara at a delightful Christmas Eve party that becomes a magical adventure once everyone else is tucked up in bed. Marvel at the brilliance of Tchaikovsky’s score, as Clara and her enchanted Nutcracker fight the Mouse King and visit the Sugar Plum Fairy and her Prince in the glittering Kingdom of Sweets. Peter Wright’s much-loved production for The Royal Ballet, with gorgeous period designs by Julia Trevelyan Oman, keeps true to the spirit of this festive ballet classic, combining the thrill of the fairy tale with spectacular classical dancing.",
-      "runtime": 160,
-      "times": [
-        {
-          "starts_at": "2023-12-12T19:15:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-42444/"
-        },
-        {
-          "starts_at": "2023-12-12T19:15:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-65480/"
-        },
-        {
-          "starts_at": "2023-12-12T19:15:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-16859/"
-        },
-        {
-          "starts_at": "2023-12-12T19:15:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-81699/"
-        }
-      ]
-    },
-    {
-      "title": "Napoleon",
-      "trailer": "https://www.youtube.com/watch?v=1rJjrcKWupE",
-      "synopsis": "Napoleon is a spectacle-filled action epic that details the checkered rise and fall of the iconic French Emperor Napoleon Bonaparte, played by Oscar®-winner Joaquin Phoenix. Against a stunning backdrop of large-scale filmmaking orchestrated by legendary director Ridley Scott, the film captures Bonaparte's relentless journey to power through the prism of his addictive, volatile relationship with his one true love, Josephine, showcasing his visionary military and political tactics against some of the most dynamic practical battle sequences ever filmed.",
-      "runtime": 158,
-      "times": [
-        {
-          "starts_at": "2023-12-12T20:10:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-45679/"
-        },
-        {
-          "starts_at": "2023-12-12T20:30:00+00:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-42652/"
-        },
-        {
-          "starts_at": "2023-12-12T20:30:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-69247/"
-        },
-        {
-          "starts_at": "2023-12-12T20:20:00+00:00",
-          "site": "Curzon Mayfair",
-          "url": "https://www.curzon.com/ticketing/seats/MAY1-25540/"
-        },
-        {
-          "starts_at": "2023-12-12T20:30:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-20988/"
-        },
-        {
-          "starts_at": "2023-12-12T20:30:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-86319/"
-        }
-      ]
-    },
-    {
       "title": "Saltburn",
       "trailer": "https://www.youtube.com/watch?v=s8l0llLj1uM",
       "synopsis": "Struggling to find his place at Oxford University, student Oliver Quick finds himself drawn into the world of the charming and aristocratic Felix Catton, who invites him to Saltburn, his eccentric family's sprawling estate, for a summer never to be forgotten.",
@@ -86,16 +20,6 @@
           "starts_at": "2023-12-12T20:45:00+00:00",
           "site": "Curzon Victoria",
           "url": "https://www.curzon.com/ticketing/seats/VIC1-69244/"
-        },
-        {
-          "starts_at": "2023-12-12T20:40:00+00:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-13888/"
-        },
-        {
-          "starts_at": "2023-12-12T18:30:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-20987/"
         }
       ]
     },
@@ -111,11 +35,6 @@
           "url": "https://www.curzon.com/ticketing/seats/ALD1-45259/"
         },
         {
-          "starts_at": "2023-12-12T20:15:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-69260/"
-        },
-        {
           "starts_at": "2023-12-12T21:00:00+00:00",
           "site": "Curzon Victoria",
           "url": "https://www.curzon.com/ticketing/seats/VIC1-69261/"
@@ -126,14 +45,37 @@
           "url": "https://www.curzon.com/ticketing/seats/MAY1-25539/"
         },
         {
-          "starts_at": "2023-12-12T20:20:00+00:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-13882/"
-        },
-        {
           "starts_at": "2023-12-12T20:50:00+00:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-20398/"
+        }
+      ]
+    },
+    {
+      "title": "Napoleon",
+      "trailer": "https://www.youtube.com/watch?v=1rJjrcKWupE",
+      "synopsis": "Napoleon is a spectacle-filled action epic that details the checkered rise and fall of the iconic French Emperor Napoleon Bonaparte, played by Oscar®-winner Joaquin Phoenix. Against a stunning backdrop of large-scale filmmaking orchestrated by legendary director Ridley Scott, the film captures Bonaparte's relentless journey to power through the prism of his addictive, volatile relationship with his one true love, Josephine, showcasing his visionary military and political tactics against some of the most dynamic practical battle sequences ever filmed.",
+      "runtime": 158,
+      "times": [
+        {
+          "starts_at": "2023-12-12T20:30:00+00:00",
+          "site": "Curzon Soho",
+          "url": "https://www.curzon.com/ticketing/seats/SOH1-42652/"
+        },
+        {
+          "starts_at": "2023-12-12T20:30:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-69247/"
+        },
+        {
+          "starts_at": "2023-12-12T20:30:00+00:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-20988/"
+        },
+        {
+          "starts_at": "2023-12-12T20:30:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-86319/"
         }
       ]
     },
@@ -166,37 +108,6 @@
       ]
     },
     {
-      "title": "Maestro",
-      "trailer": "https://www.youtube.com/watch?v=gJP2QblqLA0",
-      "synopsis": "Maestro is a towering and fearless love story chronicling the lifelong relationship between Leonard Bernstein and Felicia Montealegre Cohn Bernstein. A love letter to life and art, Maestro at its core is an emotionally epic portrayal of family and love.",
-      "runtime": 129,
-      "times": [
-        {
-          "starts_at": "2023-12-12T20:10:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-20989/"
-        },
-        {
-          "starts_at": "2023-12-12T20:50:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-86322/"
-        }
-      ]
-    },
-    {
-      "title": "DocHouse: The Gullspang Miracle",
-      "trailer": null,
-      "synopsis": "A divine premonition leads two sisters to buy an apartment in the small Swedish town of Gullspång. To their surprise, the seller looks identical to their older sister who died by suicide 30 years earlier. What begins as an eerie story of family reunification soon becomes a Pandora's Box as all three women's lives spiral out of control.\r\n\r\nEnlisting the expertise of director Maria Fredriksson, the sisters delve deeper into these peculiar circumstances, propelling Fredriksson into a journey to unearth the enigmatic secrets of this bizarre family tale. Filled with moments of comical awkwardness and a series of captivating revelations, the film skilfully explores the intricacies of identity and the repercussions of unwavering beliefs.\r\n\r\nProving that life always crafts the most astonishing plot twists, The Gullspång Miracle will keep you guessing right until the credits.",
-      "runtime": 108,
-      "times": [
-        {
-          "starts_at": "2023-12-12T20:20:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-86372/"
-        }
-      ]
-    },
-    {
       "title": "Anatomy of a Fall",
       "trailer": "https://www.youtube.com/watch?v=_MdTMA0PetA",
       "synopsis": "When her husband Samuel is mysteriously found dead in the snow below their secluded chalet, Sandra becomes the main suspect when the police begin to question whether he fell or was pushed. The trial soon becomes not just an investigation, but a gripping psychological journey into the depths of Sandra and Samuel's complicated marriage. With conflicting evidence and inconsistent testimony, words are wielded like weapons and shocking truths come to light in this thrilling Palme d’Or winner.",
@@ -206,6 +117,19 @@
           "starts_at": "2023-12-12T20:40:00+00:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-86320/"
+        }
+      ]
+    },
+    {
+      "title": "Maestro",
+      "trailer": "https://www.youtube.com/watch?v=gJP2QblqLA0",
+      "synopsis": "Maestro is a towering and fearless love story chronicling the lifelong relationship between Leonard Bernstein and Felicia Montealegre Cohn Bernstein. A love letter to life and art, Maestro at its core is an emotionally epic portrayal of family and love.",
+      "runtime": 129,
+      "times": [
+        {
+          "starts_at": "2023-12-12T20:50:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-86322/"
         }
       ]
     }
