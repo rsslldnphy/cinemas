@@ -24,7 +24,7 @@
     "release_date": "2023-10-12"
   },
   "BIG SHARK": {
-    "backdrop": "https://image.tmdb.org/t/p/w500//hclizfwL1RCuezDUQwLoJPhoVg4.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w500//bkuuospxn6ioRiIOWd95iqIv6XD.jpg",
     "poster": "https://image.tmdb.org/t/p/w500//1blp4IjuFLtBFw4gudkVa8Gz5UW.jpg",
     "overview": "Baby Shark is forced to leave the world he loves behind after his family’s move to the big city, and must adjust to his new life without his best friend, William. When Baby Shark encounters an evil pop starfish named Stariana who plans to steal his gift of song in order to dominate all underwater music, he must break her spell to restore harmony to the seas.",
     "release_date": "2023-12-08"
@@ -143,12 +143,6 @@
     "overview": "A pregnant single mother, with two children in foster care, embraces her Bay Area community as she fights to reclaim her family.",
     "release_date": "2023-07-07"
   },
-  "Eileen": {
-    "backdrop": "https://image.tmdb.org/t/p/w500//8x0kWa30xdLKBjQWnZNvORnv02v.jpg",
-    "poster": "https://image.tmdb.org/t/p/w500//gdGKBa3UVS5GMZsayqnfupBB5fb.jpg",
-    "overview": "During a bitter 1964 Massachusetts winter, young secretary Eileen becomes enchanted by Rebecca, the glamorous new counselor at the prison where she works. Their budding friendship takes a twisted turn when Rebecca reveals a dark secret — throwing Eileen onto a sinister path.",
-    "release_date": "2023-12-01"
-  },
   "Fallen Leaves": {
     "backdrop": "https://image.tmdb.org/t/p/w500//cru4rjGcdHGhnPyjNXvW82jOrif.jpg",
     "poster": "https://image.tmdb.org/t/p/w500//ca9341N5crOnOCPhCJhQu0iYcTb.jpg",
@@ -184,6 +178,12 @@
     "poster": "https://image.tmdb.org/t/p/w500//iYypPT4bhqXfq1b6EnmxvRt6b2Y.jpg",
     "overview": "Two neighbors become intimate after discovering that their spouses are having an affair with one another.",
     "release_date": "2000-09-29"
+  },
+  "In Bruges": {
+    "backdrop": "https://image.tmdb.org/t/p/w500//dtGxDOcFssdUUTYBr6M6INXTI1e.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500//jMiBBqk72VRo1Y39x2ZbbenEU3a.jpg",
+    "overview": "Ray and Ken, two hit men, are in Bruges, Belgium, waiting for their next mission. While they are there they have time to think and discuss their previous assignment. When the mission is revealed to Ken, it is not what he expected.",
+    "release_date": "2008-02-08"
   },
   "Killers Of The Flower Moon": {
     "backdrop": "https://image.tmdb.org/t/p/w500//1X7vow16X7CnCoexXh4H4F2yDJv.jpg",
