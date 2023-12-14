@@ -23,6 +23,12 @@
     "overview": "This unique cinematic experience dives deep into an artist’s work and reveals his life path, inspiration, and creative process. It explores his fascination with myth and history. Past and present are interwoven to diffuse the line between film and painting, allowing the audience to be completely immersed in the remarkable world of one of the greatest contemporary artists, Anselm Kiefer. Wim Wenders shot this unique portrait over the course of two years in stunning 3D.",
     "release_date": "2023-10-12"
   },
+  "Aquaman and the Lost Kingdom": {
+    "backdrop": "https://image.tmdb.org/t/p/w500//bckxSN9ueOgm0gJpVJmPQrecWul.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500//8xV47NDrjdZDpkVcCFqkdHa3T0C.jpg",
+    "overview": "Black Manta, still driven by the need to avenge his father's death and wielding the power of the mythic Black Trident, will stop at nothing to take Aquaman down once and for all. To defeat him, Aquaman must turn to his imprisoned brother Orm, the former King of Atlantis, to forge an unlikely alliance in order to save the world from irreversible destruction.",
+    "release_date": "2023-12-20"
+  },
   "BIG SHARK": {
     "backdrop": null,
     "poster": "https://image.tmdb.org/t/p/w500//bLRQvT1INcmeAiFScI6XIs8CnkD.jpg",
@@ -88,12 +94,6 @@
     "poster": "https://image.tmdb.org/t/p/w500//9VDdHICgCaKyeeuAlNPDEwbeSYT.jpg",
     "overview": "Focuses on three intersex individuals who overcame shame, secrecy and unauthorized surgery throughout their childhoods to enjoy successful adulthoods, choosing to ignore medical advice to conceal their bodies and coming out as who they truly are.",
     "release_date": "2023-06-30"
-  },
-  "DocHouse: Queendom": {
-    "backdrop": "https://image.tmdb.org/t/p/w500//A4zCy3ShUWVdH2Rh4RJtvWX25k1.jpg",
-    "poster": "https://image.tmdb.org/t/p/w500//cmpVHgtfeJgyIergZwjH85i1NdC.jpg",
-    "overview": "A queer Russian performance artist utilises social media, their identity and a series of remarkable costumes in quiet defiance of prejudice, war and police brutality.",
-    "release_date": "2023-12-01"
   },
   "DocHouse: The Gullspang Miracle": {
     "backdrop": "https://image.tmdb.org/t/p/w500//pmwjki5QS8c4t1Vnzv3e6PKJLR9.jpg",
@@ -361,7 +361,7 @@
   },
   "The Hunger Games: The Ballad of Songbirds & Snakes": {
     "backdrop": "https://image.tmdb.org/t/p/w500//8GnWDLn2AhnmkQ7hlQ9NJUYobSS.jpg",
-    "poster": "https://image.tmdb.org/t/p/w500//mBaXZ95R2OxueZhvQbcEWy2DqyO.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500//ePquoeNxJ6vg8U7iSjRAZ2KdztX.jpg",
     "overview": "64 years before he becomes the tyrannical president of Panem, Coriolanus Snow sees a chance for a change in fortunes when he mentors Lucy Gray Baird, the female tribute from District 12.",
     "release_date": "2023-11-15"
   },
@@ -403,7 +403,7 @@
   },
   "Wonka": {
     "backdrop": "https://image.tmdb.org/t/p/w500//yOm993lsJyPmBodlYjgpPwBjXP9.jpg",
-    "poster": "https://image.tmdb.org/t/p/w500//qhb1qOilapbapxWQn9jtRCMwXJF.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500//xAKI0O5hUXxbmHRBNg72IzFQ06a.jpg",
     "overview": "Willy Wonka – chock-full of ideas and determined to change the world one delectable bite at a time – is proof that the best things in life begin with a dream, and if you’re lucky enough to meet Willy Wonka, anything is possible.",
     "release_date": "2023-12-06"
   }
