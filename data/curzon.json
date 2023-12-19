@@ -7,11 +7,6 @@
       "runtime": 116,
       "times": [
         {
-          "starts_at": "2023-12-19T15:40:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-45774/"
-        },
-        {
           "starts_at": "2023-12-19T18:40:00+00:00",
           "site": "Curzon Aldgate",
           "url": "https://www.curzon.com/ticketing/seats/ALD1-45778/"
@@ -20,16 +15,6 @@
           "starts_at": "2023-12-19T21:00:00+00:00",
           "site": "Curzon Aldgate",
           "url": "https://www.curzon.com/ticketing/seats/ALD1-45772/"
-        },
-        {
-          "starts_at": "2023-12-19T15:45:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-69387/"
-        },
-        {
-          "starts_at": "2023-12-19T18:00:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-69385/"
         },
         {
           "starts_at": "2023-12-19T20:15:00+00:00",
@@ -42,34 +27,14 @@
           "url": "https://www.curzon.com/ticketing/seats/VIC1-69378/"
         },
         {
-          "starts_at": "2023-12-19T15:30:00+00:00",
-          "site": "Curzon Mayfair",
-          "url": "https://www.curzon.com/ticketing/seats/MAY1-25611/"
-        },
-        {
-          "starts_at": "2023-12-19T18:15:00+00:00",
-          "site": "Curzon Mayfair",
-          "url": "https://www.curzon.com/ticketing/seats/MAY1-25608/"
-        },
-        {
           "starts_at": "2023-12-19T21:00:00+00:00",
           "site": "Curzon Mayfair",
           "url": "https://www.curzon.com/ticketing/seats/MAY1-25609/"
         },
         {
-          "starts_at": "2023-12-19T17:40:00+00:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-13996/"
-        },
-        {
           "starts_at": "2023-12-19T20:20:00+00:00",
           "site": "Curzon Hoxton",
           "url": "https://www.curzon.com/ticketing/seats/HOX1-14078/"
-        },
-        {
-          "starts_at": "2023-12-19T17:45:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-21129/"
         },
         {
           "starts_at": "2023-12-19T20:30:00+00:00",
@@ -85,24 +50,9 @@
       "runtime": 158,
       "times": [
         {
-          "starts_at": "2023-12-19T17:00:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-45776/"
-        },
-        {
           "starts_at": "2023-12-19T20:20:00+00:00",
           "site": "Curzon Aldgate",
           "url": "https://www.curzon.com/ticketing/seats/ALD1-45767/"
-        },
-        {
-          "starts_at": "2023-12-19T17:15:00+00:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-42754/"
-        },
-        {
-          "starts_at": "2023-12-19T17:00:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-69380/"
         },
         {
           "starts_at": "2023-12-19T20:00:00+00:00",
@@ -118,87 +68,6 @@
           "starts_at": "2023-12-19T20:00:00+00:00",
           "site": "Curzon Hoxton",
           "url": "https://www.curzon.com/ticketing/seats/HOX1-13994/"
-        }
-      ]
-    },
-    {
-      "title": "Saltburn",
-      "trailer": "https://www.youtube.com/watch?v=s8l0llLj1uM",
-      "synopsis": "Struggling to find his place at Oxford University, student Oliver Quick finds himself drawn into the world of the charming and aristocratic Felix Catton, who invites him to Saltburn, his eccentric family's sprawling estate, for a summer never to be forgotten.",
-      "runtime": 131,
-      "times": [
-        {
-          "starts_at": "2023-12-19T17:40:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-45775/"
-        },
-        {
-          "starts_at": "2023-12-19T18:00:00+00:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-42753/"
-        },
-        {
-          "starts_at": "2023-12-19T21:00:00+00:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-42750/"
-        },
-        {
-          "starts_at": "2023-12-19T17:15:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-69383/"
-        },
-        {
-          "starts_at": "2023-12-19T20:30:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-69375/"
-        },
-        {
-          "starts_at": "2023-12-19T21:00:00+00:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-13995/"
-        },
-        {
-          "starts_at": "2023-12-19T17:30:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-21130/"
-        },
-        {
-          "starts_at": "2023-12-19T20:45:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-21126/"
-        },
-        {
-          "starts_at": "2023-12-19T17:50:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-86451/"
-        },
-        {
-          "starts_at": "2023-12-19T21:00:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-86441/"
-        }
-      ]
-    },
-    {
-      "title": "In Bruges",
-      "trailer": null,
-      "synopsis": "Guilt-stricken after a job gone wrong, hitman Ray and his partner await orders from their ruthless boss in Bruges, Belgium, the last place in the world Ray wants to be.",
-      "runtime": 107,
-      "times": [
-        {
-          "starts_at": "2023-12-19T18:20:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-44943/"
-        },
-        {
-          "starts_at": "2023-12-19T18:20:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-68370/"
-        },
-        {
-          "starts_at": "2023-12-19T18:20:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-20007/"
         }
       ]
     },
@@ -235,11 +104,6 @@
       "runtime": 93,
       "times": [
         {
-          "starts_at": "2023-12-19T15:40:00+00:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-42746/"
-        },
-        {
           "starts_at": "2023-12-19T20:40:00+00:00",
           "site": "Curzon Soho",
           "url": "https://www.curzon.com/ticketing/seats/SOH1-42752/"
@@ -250,19 +114,42 @@
           "url": "https://www.curzon.com/ticketing/seats/VIC1-69374/"
         },
         {
-          "starts_at": "2023-12-19T18:00:00+00:00",
-          "site": "Curzon Mayfair",
-          "url": "https://www.curzon.com/ticketing/seats/MAY1-25606/"
-        },
-        {
-          "starts_at": "2023-12-19T16:00:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-21123/"
-        },
-        {
           "starts_at": "2023-12-19T19:10:00+00:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-86444/"
+        }
+      ]
+    },
+    {
+      "title": "Saltburn",
+      "trailer": "https://www.youtube.com/watch?v=s8l0llLj1uM",
+      "synopsis": "Struggling to find his place at Oxford University, student Oliver Quick finds himself drawn into the world of the charming and aristocratic Felix Catton, who invites him to Saltburn, his eccentric family's sprawling estate, for a summer never to be forgotten.",
+      "runtime": 131,
+      "times": [
+        {
+          "starts_at": "2023-12-19T21:00:00+00:00",
+          "site": "Curzon Soho",
+          "url": "https://www.curzon.com/ticketing/seats/SOH1-42750/"
+        },
+        {
+          "starts_at": "2023-12-19T20:30:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-69375/"
+        },
+        {
+          "starts_at": "2023-12-19T21:00:00+00:00",
+          "site": "Curzon Hoxton",
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-13995/"
+        },
+        {
+          "starts_at": "2023-12-19T20:45:00+00:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-21126/"
+        },
+        {
+          "starts_at": "2023-12-19T21:00:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-86441/"
         }
       ]
     },
@@ -276,83 +163,6 @@
           "starts_at": "2023-12-19T21:20:00+00:00",
           "site": "Curzon Soho",
           "url": "https://www.curzon.com/ticketing/seats/SOH1-42751/"
-        },
-        {
-          "starts_at": "2023-12-19T15:30:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-21120/"
-        },
-        {
-          "starts_at": "2023-12-19T17:00:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-86447/"
-        }
-      ]
-    },
-    {
-      "title": "Chicken Run: Dawn of the Nugget",
-      "trailer": null,
-      "synopsis": "After escaping from Tweedy's farm, Ginger and all the chickens living the dream in their peaceful island sanctuary, far from the dangers of the human world.",
-      "runtime": 97,
-      "times": [
-        {
-          "starts_at": "2023-12-19T17:45:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-69373/"
-        }
-      ]
-    },
-    {
-      "title": "May December",
-      "trailer": null,
-      "synopsis": "May December follows married couple Gracie and Joe Atherton-Yoo (Julianne Moore and Charles Melton) whose 23-year age gap sparked a notorious tabloid romance that gripped the nation two decades ago. Cut to modern day, and their marriage comes under renewed strain when Hollywood actress Elizabeth Berry (Natalie Portman) comes to spend time with the family to better understand Gracie, who she will be playing in a film about the scandal.",
-      "runtime": 117,
-      "times": [
-        {
-          "starts_at": "2023-12-19T15:40:00+00:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-13993/"
-        }
-      ]
-    },
-    {
-      "title": "Monica",
-      "trailer": "https://www.youtube.com/watch?v=rnodEfQJ0yA",
-      "synopsis": "Estranged from her family for many years, Monica is called home to help care for her ailing mother. How can she reconnect with the brother that let her go, and the mother who rejected her? \n\nDirector Andrea Pallaoro crafts a moving, delicate and deeply involving tale of healing, reconciliation and redemption, led by extraordinary performances from Trace Lysette (Transparent, Hustlers) and Patricia Clarkson (She Said, Sharp Objects, Lemony Snicket, Mean Girls). ",
-      "runtime": 113,
-      "times": [
-        {
-          "starts_at": "2023-12-19T17:20:00+00:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-14003/"
-        },
-        {
-          "starts_at": "2023-12-19T21:10:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-86440/"
-        }
-      ]
-    },
-    {
-      "title": "Maestro",
-      "trailer": "https://www.youtube.com/watch?v=gJP2QblqLA0",
-      "synopsis": "Maestro is a towering and fearless love story chronicling the lifelong relationship between Leonard Bernstein and Felicia Montealegre Cohn Bernstein. A love letter to life and art, Maestro at its core is an emotionally epic portrayal of family and love.",
-      "runtime": 129,
-      "times": [
-        {
-          "starts_at": "2023-12-19T17:15:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-21128/"
-        },
-        {
-          "starts_at": "2023-12-19T18:10:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-86436/"
-        },
-        {
-          "starts_at": "2023-12-19T20:50:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-86442/"
         }
       ]
     },
@@ -362,11 +172,6 @@
       "synopsis": "When her husband Samuel is mysteriously found dead in the snow below their secluded chalet, Sandra becomes the main suspect when the police begin to question whether he fell or was pushed. The trial soon becomes not just an investigation, but a gripping psychological journey into the depths of Sandra and Samuel's complicated marriage. With conflicting evidence and inconsistent testimony, words are wielded like weapons and shocking truths come to light in this thrilling Palme d’Or winner.",
       "runtime": 152,
       "times": [
-        {
-          "starts_at": "2023-12-19T18:00:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-21131/"
-        },
         {
           "starts_at": "2023-12-19T20:15:00+00:00",
           "site": "Curzon Camden",
@@ -406,32 +211,6 @@
       ]
     },
     {
-      "title": "DocHouse: To Kill A Tiger",
-      "trailer": null,
-      "synopsis": "An Indian farmer takes on the fight of his life when, against tradition and expectation, he demands justice for his daughter and long-lasting change for their community.\r\n\r\nAfter his 13-year-old daughter is sexually assaulted by men from their village, Ranjit, a rice farmer, accompanies her to the police to report her attackers. The neighbours and the village are against them, and the family must muster all their strength and defiance to navigate the labyrinth of India's courts, amidst village disapproval, threats of violence and mounting tensions.\r\n\r\nWith tremendous access to all facets of this story, To Kill a Tiger is an astutely observed and courageous examination of societal misogyny, and a source of hope for survivors in India. Winning multiple awards at film festivals across the world including Toronto and Palm Springs, it show's how one family's strength can force a social reckoning that will reverberate for years to come.\r\n\r\nTo Kill a Tiger deals with highly sensitive subject matter and contains depictions of sexual violence, which may be triggering for some viewers.",
-      "runtime": 125,
-      "times": [
-        {
-          "starts_at": "2023-12-19T15:30:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-86557/"
-        }
-      ]
-    },
-    {
-      "title": "DocHouse: Every Body",
-      "trailer": null,
-      "synopsis": "For decades, the medical profession has told intersex people that they should keep quiet about their stories and their bodies, and the 'I' in LGBTQI is rarely acknowledged. In Every Body, filmmaker Julie Cohen (RBG) meets three intersex people who have moved from childhoods marked by shame, secrecy and non-consensual surgeries, to thriving adulthoods after each decided to come out publicly as their authentic selves.\r\n\r\n\r\nActor and screenwriter River Gallo, political consultant Alicia Roth Weigel, and Ph.D. student Saifa Wall are now leaders in a global movement advocating for greater understanding of the intersex community. Cohen approaches this sensitive subject gently and yet with a real joy and enthusiasm for River, Alicia and Saifa, who are trailblazing a path of acceptance for the many people across the world born with sex characteristics that don't fit the binary notions of 'male' and 'female'. This is a compelling celebration of River, Alicia and Saifa, as well as a decisive call for equality.",
-      "runtime": 92,
-      "times": [
-        {
-          "starts_at": "2023-12-19T18:20:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-86558/"
-        }
-      ]
-    },
-    {
       "title": "The Peasants",
       "trailer": "https://www.youtube.com/watch?v=QTHuOgQMVN4",
       "synopsis": "The Peasants tells the story of Jagna, a young woman determined to forge her own path within the confines of a late 19th century Polish village – a hotbed of gossip and on-going feuds, held together, rich and poor, by pride in their land, adherence to colourful traditions and deep-rooted patriarchy. When Jagna finds herself caught between the conflicting desires of the village’s richest farmer, his eldest son, and other leading men of the community, her resistance puts her on a tragic collision course with the community around her.",
@@ -454,6 +233,32 @@
           "starts_at": "2023-12-19T20:10:00+00:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-86559/"
+        }
+      ]
+    },
+    {
+      "title": "Maestro",
+      "trailer": "https://www.youtube.com/watch?v=gJP2QblqLA0",
+      "synopsis": "Maestro is a towering and fearless love story chronicling the lifelong relationship between Leonard Bernstein and Felicia Montealegre Cohn Bernstein. A love letter to life and art, Maestro at its core is an emotionally epic portrayal of family and love.",
+      "runtime": 129,
+      "times": [
+        {
+          "starts_at": "2023-12-19T20:50:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-86442/"
+        }
+      ]
+    },
+    {
+      "title": "Monica",
+      "trailer": "https://www.youtube.com/watch?v=rnodEfQJ0yA",
+      "synopsis": "Estranged from her family for many years, Monica is called home to help care for her ailing mother. How can she reconnect with the brother that let her go, and the mother who rejected her? \n\nDirector Andrea Pallaoro crafts a moving, delicate and deeply involving tale of healing, reconciliation and redemption, led by extraordinary performances from Trace Lysette (Transparent, Hustlers) and Patricia Clarkson (She Said, Sharp Objects, Lemony Snicket, Mean Girls). ",
+      "runtime": 113,
+      "times": [
+        {
+          "starts_at": "2023-12-19T21:10:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-86440/"
         }
       ]
     },
