@@ -1,122 +1,6 @@
 {
   "2023-12-21": [
     {
-      "title": "Wonka",
-      "trailer": "https://www.youtube.com/watch?v=qhzNQ9vaJqE",
-      "synopsis": "The Story will focus on a young Willy Wonka and his adventures prior to opening the world’s most famous chocolate factory.",
-      "runtime": 116,
-      "times": [
-        {
-          "starts_at": "2023-12-21T16:20:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-45836/"
-        },
-        {
-          "starts_at": "2023-12-21T17:40:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-45797/"
-        },
-        {
-          "starts_at": "2023-12-21T21:00:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-45806/"
-        },
-        {
-          "starts_at": "2023-12-21T15:45:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-69398/"
-        },
-        {
-          "starts_at": "2023-12-21T18:30:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-69399/"
-        },
-        {
-          "starts_at": "2023-12-21T20:45:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-69392/"
-        },
-        {
-          "starts_at": "2023-12-21T21:15:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-69393/"
-        },
-        {
-          "starts_at": "2023-12-21T17:40:00+00:00",
-          "site": "Curzon Mayfair",
-          "url": "https://www.curzon.com/ticketing/seats/MAY1-25623/"
-        },
-        {
-          "starts_at": "2023-12-21T21:00:00+00:00",
-          "site": "Curzon Mayfair",
-          "url": "https://www.curzon.com/ticketing/seats/MAY1-25624/"
-        },
-        {
-          "starts_at": "2023-12-21T18:00:00+00:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-14085/"
-        },
-        {
-          "starts_at": "2023-12-21T20:20:00+00:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-14083/"
-        },
-        {
-          "starts_at": "2023-12-21T19:00:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-21145/"
-        },
-        {
-          "starts_at": "2023-12-21T20:20:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-21143/"
-        }
-      ]
-    },
-    {
-      "title": "Napoleon",
-      "trailer": "https://www.youtube.com/watch?v=1rJjrcKWupE",
-      "synopsis": "Napoleon is a spectacle-filled action epic that details the checkered rise and fall of the iconic French Emperor Napoleon Bonaparte, played by Oscar®-winner Joaquin Phoenix. Against a stunning backdrop of large-scale filmmaking orchestrated by legendary director Ridley Scott, the film captures Bonaparte's relentless journey to power through the prism of his addictive, volatile relationship with his one true love, Josephine, showcasing his visionary military and political tactics against some of the most dynamic practical battle sequences ever filmed.",
-      "runtime": 158,
-      "times": [
-        {
-          "starts_at": "2023-12-21T17:20:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-45810/"
-        },
-        {
-          "starts_at": "2023-12-21T20:40:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-45799/"
-        },
-        {
-          "starts_at": "2023-12-21T17:15:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-69407/"
-        },
-        {
-          "starts_at": "2023-12-21T20:15:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-69391/"
-        },
-        {
-          "starts_at": "2023-12-21T20:20:00+00:00",
-          "site": "Curzon Mayfair",
-          "url": "https://www.curzon.com/ticketing/seats/MAY1-25622/"
-        },
-        {
-          "starts_at": "2023-12-21T19:40:00+00:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-14087/"
-        },
-        {
-          "starts_at": "2023-12-21T15:45:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-21181/"
-        }
-      ]
-    },
-    {
       "title": "A Year In A Field",
       "trailer": null,
       "synopsis": "The story of one Cornish field told over one climatic year.\n\nWinter Solstice 2020: with his camera and tripod, BAFTA winning documentary filmmaker Christopher Morris began filming each day in a field near his home.",
@@ -171,6 +55,82 @@
       ]
     },
     {
+      "title": "Napoleon",
+      "trailer": "https://www.youtube.com/watch?v=1rJjrcKWupE",
+      "synopsis": "Napoleon is a spectacle-filled action epic that details the checkered rise and fall of the iconic French Emperor Napoleon Bonaparte, played by Oscar®-winner Joaquin Phoenix. Against a stunning backdrop of large-scale filmmaking orchestrated by legendary director Ridley Scott, the film captures Bonaparte's relentless journey to power through the prism of his addictive, volatile relationship with his one true love, Josephine, showcasing his visionary military and political tactics against some of the most dynamic practical battle sequences ever filmed.",
+      "runtime": 158,
+      "times": [
+        {
+          "starts_at": "2023-12-21T20:40:00+00:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-45799/"
+        },
+        {
+          "starts_at": "2023-12-21T20:15:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-69391/"
+        },
+        {
+          "starts_at": "2023-12-21T20:20:00+00:00",
+          "site": "Curzon Mayfair",
+          "url": "https://www.curzon.com/ticketing/seats/MAY1-25622/"
+        },
+        {
+          "starts_at": "2023-12-21T19:40:00+00:00",
+          "site": "Curzon Hoxton",
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-14087/"
+        }
+      ]
+    },
+    {
+      "title": "Wonka",
+      "trailer": "https://www.youtube.com/watch?v=qhzNQ9vaJqE",
+      "synopsis": "The Story will focus on a young Willy Wonka and his adventures prior to opening the world’s most famous chocolate factory.",
+      "runtime": 116,
+      "times": [
+        {
+          "starts_at": "2023-12-21T21:00:00+00:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-45806/"
+        },
+        {
+          "starts_at": "2023-12-21T18:30:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-69399/"
+        },
+        {
+          "starts_at": "2023-12-21T20:45:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-69392/"
+        },
+        {
+          "starts_at": "2023-12-21T21:15:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-69393/"
+        },
+        {
+          "starts_at": "2023-12-21T21:00:00+00:00",
+          "site": "Curzon Mayfair",
+          "url": "https://www.curzon.com/ticketing/seats/MAY1-25624/"
+        },
+        {
+          "starts_at": "2023-12-21T20:20:00+00:00",
+          "site": "Curzon Hoxton",
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-14083/"
+        },
+        {
+          "starts_at": "2023-12-21T19:00:00+00:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-21145/"
+        },
+        {
+          "starts_at": "2023-12-21T20:20:00+00:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-21143/"
+        }
+      ]
+    },
+    {
       "title": "Aquaman and the Lost Kingdom",
       "trailer": "https://www.youtube.com/watch?v=SU4Nr0OsYG0",
       "synopsis": "When an ancient power is unleashed, Aquaman must forge an uneasy alliance with an unlikely ally to protect Atlantis, and the world, from irreversible devastation.",
@@ -184,86 +144,15 @@
       ]
     },
     {
-      "title": "Fallen Leaves",
-      "trailer": null,
-      "synopsis": "Award-winning filmmaker Aki Kaurismäki (Le Havre, The Other Side of Hope) makes a masterful return with FALLEN LEAVES, a timeless, hopeful and satisfying love story that won the Jury Prize at the 2023 Cannes Film Festival.\n\nSet in modern day Helsinki, the film tells the story of Ansa (Alma Pöysti) and Holappa (Jussi Vatanen), two lonely souls whose chance meeting at a local karaoke bar is beset by numerous hurdles. From lost phone numbers to mistaken addresses, alcoholism and a charming stray dog, the pair’s path to happiness is as bittersweet as it is ultimately delightful. \n\nShot through with Kaurismäki’s typically playful, idiosyncratic style and deadpan sense of humor, this tender romantic tragicomedy is both a loving tribute to the filmmaker’s beloved contemporaries and a timely reminder of the potency of movie-going from one of cinema’s living legends. ",
-      "runtime": 91,
-      "times": [
-        {
-          "starts_at": "2023-12-21T16:00:00+00:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-42771/"
-        },
-        {
-          "starts_at": "2023-12-21T18:20:00+00:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-42763/"
-        },
-        {
-          "starts_at": "2023-12-21T15:30:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-21151/"
-        },
-        {
-          "starts_at": "2023-12-21T17:00:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-86463/"
-        }
-      ]
-    },
-    {
-      "title": "Anatomy of a Fall",
-      "trailer": "https://www.youtube.com/watch?v=_MdTMA0PetA",
-      "synopsis": "When her husband Samuel is mysteriously found dead in the snow below their secluded chalet, Sandra becomes the main suspect when the police begin to question whether he fell or was pushed. The trial soon becomes not just an investigation, but a gripping psychological journey into the depths of Sandra and Samuel's complicated marriage. With conflicting evidence and inconsistent testimony, words are wielded like weapons and shocking truths come to light in this thrilling Palme d’Or winner.",
-      "runtime": 152,
-      "times": [
-        {
-          "starts_at": "2023-12-21T17:40:00+00:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-42768/"
-        },
-        {
-          "starts_at": "2023-12-21T18:00:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-21147/"
-        },
-        {
-          "starts_at": "2023-12-21T20:40:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-21154/"
-        },
-        {
-          "starts_at": "2023-12-21T17:35:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-86469/"
-        },
-        {
-          "starts_at": "2023-12-21T20:40:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-86460/"
-        }
-      ]
-    },
-    {
       "title": "Saltburn",
       "trailer": "https://www.youtube.com/watch?v=s8l0llLj1uM",
       "synopsis": "Struggling to find his place at Oxford University, student Oliver Quick finds himself drawn into the world of the charming and aristocratic Felix Catton, who invites him to Saltburn, his eccentric family's sprawling estate, for a summer never to be forgotten.",
       "runtime": 131,
       "times": [
         {
-          "starts_at": "2023-12-21T18:00:00+00:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-42764/"
-        },
-        {
           "starts_at": "2023-12-21T20:40:00+00:00",
           "site": "Curzon Soho",
           "url": "https://www.curzon.com/ticketing/seats/SOH1-42761/"
-        },
-        {
-          "starts_at": "2023-12-21T17:45:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-69395/"
         },
         {
           "starts_at": "2023-12-21T20:30:00+00:00",
@@ -271,29 +160,14 @@
           "url": "https://www.curzon.com/ticketing/seats/VIC1-69402/"
         },
         {
-          "starts_at": "2023-12-21T17:20:00+00:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-14082/"
-        },
-        {
           "starts_at": "2023-12-21T20:40:00+00:00",
           "site": "Curzon Hoxton",
           "url": "https://www.curzon.com/ticketing/seats/HOX1-14086/"
         },
         {
-          "starts_at": "2023-12-21T17:45:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-21146/"
-        },
-        {
           "starts_at": "2023-12-21T21:00:00+00:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-21142/"
-        },
-        {
-          "starts_at": "2023-12-21T17:50:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-86468/"
         },
         {
           "starts_at": "2023-12-21T21:00:00+00:00",
@@ -312,11 +186,6 @@
           "starts_at": "2023-12-21T21:00:00+00:00",
           "site": "Curzon Soho",
           "url": "https://www.curzon.com/ticketing/seats/SOH1-42688/"
-        },
-        {
-          "starts_at": "2023-12-21T18:20:00+00:00",
-          "site": "Curzon Mayfair",
-          "url": "https://www.curzon.com/ticketing/seats/MAY1-25575/"
         }
       ]
     },
@@ -337,21 +206,6 @@
           "url": "https://www.curzon.com/ticketing/seats/VIC1-69401/"
         },
         {
-          "starts_at": "2023-12-21T16:00:00+00:00",
-          "site": "Curzon Mayfair",
-          "url": "https://www.curzon.com/ticketing/seats/MAY1-25620/"
-        },
-        {
-          "starts_at": "2023-12-21T15:40:00+00:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-14090/"
-        },
-        {
-          "starts_at": "2023-12-21T16:20:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-21140/"
-        },
-        {
           "starts_at": "2023-12-21T19:10:00+00:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-86461/"
@@ -359,51 +213,20 @@
       ]
     },
     {
-      "title": "Chicken Run: Dawn of the Nugget",
-      "trailer": null,
-      "synopsis": "After escaping from Tweedy's farm, Ginger and all the chickens living the dream in their peaceful island sanctuary, far from the dangers of the human world.",
-      "runtime": 97,
+      "title": "Anatomy of a Fall",
+      "trailer": "https://www.youtube.com/watch?v=_MdTMA0PetA",
+      "synopsis": "When her husband Samuel is mysteriously found dead in the snow below their secluded chalet, Sandra becomes the main suspect when the police begin to question whether he fell or was pushed. The trial soon becomes not just an investigation, but a gripping psychological journey into the depths of Sandra and Samuel's complicated marriage. With conflicting evidence and inconsistent testimony, words are wielded like weapons and shocking truths come to light in this thrilling Palme d’Or winner.",
+      "runtime": 152,
       "times": [
         {
-          "starts_at": "2023-12-21T18:00:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-69400/"
-        }
-      ]
-    },
-    {
-      "title": "Monica",
-      "trailer": "https://www.youtube.com/watch?v=rnodEfQJ0yA",
-      "synopsis": "Estranged from her family for many years, Monica is called home to help care for her ailing mother. How can she reconnect with the brother that let her go, and the mother who rejected her? \n\nDirector Andrea Pallaoro crafts a moving, delicate and deeply involving tale of healing, reconciliation and redemption, led by extraordinary performances from Trace Lysette (Transparent, Hustlers) and Patricia Clarkson (She Said, Sharp Objects, Lemony Snicket, Mean Girls). ",
-      "runtime": 113,
-      "times": [
-        {
-          "starts_at": "2023-12-21T17:00:00+00:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-14088/"
-        },
-        {
-          "starts_at": "2023-12-21T21:10:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-86457/"
-        }
-      ]
-    },
-    {
-      "title": "Maestro",
-      "trailer": "https://www.youtube.com/watch?v=gJP2QblqLA0",
-      "synopsis": "Maestro is a towering and fearless love story chronicling the lifelong relationship between Leonard Bernstein and Felicia Montealegre Cohn Bernstein. A love letter to life and art, Maestro at its core is an emotionally epic portrayal of family and love.",
-      "runtime": 129,
-      "times": [
-        {
-          "starts_at": "2023-12-21T17:30:00+00:00",
+          "starts_at": "2023-12-21T20:40:00+00:00",
           "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-21144/"
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-21154/"
         },
         {
-          "starts_at": "2023-12-21T20:50:00+00:00",
+          "starts_at": "2023-12-21T20:40:00+00:00",
           "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-86459/"
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-86460/"
         }
       ]
     },
@@ -434,32 +257,6 @@
       ]
     },
     {
-      "title": "DocHouse: We Dare To Dream",
-      "trailer": null,
-      "synopsis": "Director Waad Al-Kateab (For Sama) returns with this powerful story of freedom, following refugee athletes competing for a place in the 2020 Olympic Games. Covering a range of backgrounds, personal stories and Olympic sports, We Dare to Dream shows their lives and aspirations as they prepare to compete on a global platform. But can they succeed in the face of adversity?\r\n\r\nAl-Kateab's storytelling explores the athletes' profound struggles and fervent aspirations. She listens to competitors who have seen their dreams vanish, and accompanies them as they strive for greatness. The journey culminates at the summer Olympics, where they are cheered on by their communities, both old and new.\r\n\r\nWe Dare to Dream is a beautiful celebration of sport, painting a vivid picture of the courage and unyielding determination of these young athletes. It acts as a testament to the indomitable human spirit, and that much more than home can be found in the pursuit of a place to belong.",
-      "runtime": 98,
-      "times": [
-        {
-          "starts_at": "2023-12-21T16:20:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-86563/"
-        }
-      ]
-    },
-    {
-      "title": "DocHouse: Tish",
-      "trailer": null,
-      "synopsis": "A moving portrait of social documentary photographer and trailblazer Tish Murtha, who dedicated her life to documenting the lives of working-class communities in North East England.\r\n \r\nPaul Sng’s powerful film celebrates the work of Murtha and her commitment to fighting for the communities like the one she grew up in. Born in the northern coastal town of South Shields, she was driven by a fierce conviction to record the impact of Thatcher era de-industrialisation upon local communities. Her striking black and white photos convey a tenderness and intimacy that set her apart from her peers and her work would become a powerful record of a world decimated by a new and ruthless form of capitalism. .\r\n \r\nThe film follows Tish’s daughter Ella as she revisits key moments from her mother’s life and work. She is accompanied by people who remained close to Tish throughout her life, and who are committed to ensuring her remarkable legacy is recognised.\r\n",
-      "runtime": 91,
-      "times": [
-        {
-          "starts_at": "2023-12-21T18:20:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-86564/"
-        }
-      ]
-    },
-    {
       "title": "The Peasants",
       "trailer": "https://www.youtube.com/watch?v=QTHuOgQMVN4",
       "synopsis": "The Peasants tells the story of Jagna, a young woman determined to forge her own path within the confines of a late 19th century Polish village – a hotbed of gossip and on-going feuds, held together, rich and poor, by pride in their land, adherence to colourful traditions and deep-rooted patriarchy. When Jagna finds herself caught between the conflicting desires of the village’s richest farmer, his eldest son, and other leading men of the community, her resistance puts her on a tragic collision course with the community around her.",
@@ -482,6 +279,32 @@
           "starts_at": "2023-12-21T20:10:00+00:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-86565/"
+        }
+      ]
+    },
+    {
+      "title": "Maestro",
+      "trailer": "https://www.youtube.com/watch?v=gJP2QblqLA0",
+      "synopsis": "Maestro is a towering and fearless love story chronicling the lifelong relationship between Leonard Bernstein and Felicia Montealegre Cohn Bernstein. A love letter to life and art, Maestro at its core is an emotionally epic portrayal of family and love.",
+      "runtime": 129,
+      "times": [
+        {
+          "starts_at": "2023-12-21T20:50:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-86459/"
+        }
+      ]
+    },
+    {
+      "title": "Monica",
+      "trailer": "https://www.youtube.com/watch?v=rnodEfQJ0yA",
+      "synopsis": "Estranged from her family for many years, Monica is called home to help care for her ailing mother. How can she reconnect with the brother that let her go, and the mother who rejected her? \n\nDirector Andrea Pallaoro crafts a moving, delicate and deeply involving tale of healing, reconciliation and redemption, led by extraordinary performances from Trace Lysette (Transparent, Hustlers) and Patricia Clarkson (She Said, Sharp Objects, Lemony Snicket, Mean Girls). ",
+      "runtime": 113,
+      "times": [
+        {
+          "starts_at": "2023-12-21T21:10:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-86457/"
         }
       ]
     },
