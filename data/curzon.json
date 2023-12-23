@@ -7,11 +7,6 @@
       "runtime": 116,
       "times": [
         {
-          "starts_at": "2023-12-23T13:00:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-45860/"
-        },
-        {
           "starts_at": "2023-12-23T15:40:00+00:00",
           "site": "Curzon Aldgate",
           "url": "https://www.curzon.com/ticketing/seats/ALD1-45856/"
@@ -25,11 +20,6 @@
           "starts_at": "2023-12-23T21:00:00+00:00",
           "site": "Curzon Aldgate",
           "url": "https://www.curzon.com/ticketing/seats/ALD1-45865/"
-        },
-        {
-          "starts_at": "2023-12-23T12:45:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-69549/"
         },
         {
           "starts_at": "2023-12-23T15:30:00+00:00",
@@ -47,11 +37,6 @@
           "url": "https://www.curzon.com/ticketing/seats/VIC1-69466/"
         },
         {
-          "starts_at": "2023-12-23T14:00:00+00:00",
-          "site": "Curzon Mayfair",
-          "url": "https://www.curzon.com/ticketing/seats/MAY1-25638/"
-        },
-        {
           "starts_at": "2023-12-23T17:15:00+00:00",
           "site": "Curzon Mayfair",
           "url": "https://www.curzon.com/ticketing/seats/MAY1-25642/"
@@ -60,16 +45,6 @@
           "starts_at": "2023-12-23T20:20:00+00:00",
           "site": "Curzon Mayfair",
           "url": "https://www.curzon.com/ticketing/seats/MAY1-25639/"
-        },
-        {
-          "starts_at": "2023-12-23T13:20:00+00:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-14156/"
-        },
-        {
-          "starts_at": "2023-12-23T14:40:00+00:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-14115/"
         },
         {
           "starts_at": "2023-12-23T17:20:00+00:00",
@@ -82,16 +57,6 @@
           "url": "https://www.curzon.com/ticketing/seats/HOX1-14113/"
         },
         {
-          "starts_at": "2023-12-23T12:45:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-21217/"
-        },
-        {
-          "starts_at": "2023-12-23T15:00:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-21215/"
-        },
-        {
           "starts_at": "2023-12-23T18:20:00+00:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-21224/"
@@ -100,115 +65,6 @@
           "starts_at": "2023-12-23T20:50:00+00:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-21221/"
-        }
-      ]
-    },
-    {
-      "title": "Godzilla Minus One",
-      "trailer": "https://www.youtube.com/watch?v=11zWVDb_n0o",
-      "synopsis": "Japan, devastated after the war, faces a new threat in the form of Godzilla. How will the country confront this impossible situation?",
-      "runtime": 124,
-      "times": [
-        {
-          "starts_at": "2023-12-23T13:40:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-45857/"
-        }
-      ]
-    },
-    {
-      "title": "Napoleon",
-      "trailer": "https://www.youtube.com/watch?v=1rJjrcKWupE",
-      "synopsis": "Napoleon is a spectacle-filled action epic that details the checkered rise and fall of the iconic French Emperor Napoleon Bonaparte, played by Oscar®-winner Joaquin Phoenix. Against a stunning backdrop of large-scale filmmaking orchestrated by legendary director Ridley Scott, the film captures Bonaparte's relentless journey to power through the prism of his addictive, volatile relationship with his one true love, Josephine, showcasing his visionary military and political tactics against some of the most dynamic practical battle sequences ever filmed.",
-      "runtime": 158,
-      "times": [
-        {
-          "starts_at": "2023-12-23T14:20:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-45859/"
-        },
-        {
-          "starts_at": "2023-12-23T20:00:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-45869/"
-        },
-        {
-          "starts_at": "2023-12-23T17:50:00+00:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-42833/"
-        },
-        {
-          "starts_at": "2023-12-23T14:15:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-69470/"
-        },
-        {
-          "starts_at": "2023-12-23T20:15:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-69461/"
-        },
-        {
-          "starts_at": "2023-12-23T13:40:00+00:00",
-          "site": "Curzon Mayfair",
-          "url": "https://www.curzon.com/ticketing/seats/MAY1-25641/"
-        },
-        {
-          "starts_at": "2023-12-23T16:45:00+00:00",
-          "site": "Curzon Mayfair",
-          "url": "https://www.curzon.com/ticketing/seats/MAY1-25672/"
-        },
-        {
-          "starts_at": "2023-12-23T20:00:00+00:00",
-          "site": "Curzon Mayfair",
-          "url": "https://www.curzon.com/ticketing/seats/MAY1-25640/"
-        },
-        {
-          "starts_at": "2023-12-23T16:40:00+00:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-14117/"
-        },
-        {
-          "starts_at": "2023-12-23T13:50:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-86597/"
-        }
-      ]
-    },
-    {
-      "title": "Aquaman and the Lost Kingdom",
-      "trailer": "https://www.youtube.com/watch?v=SU4Nr0OsYG0",
-      "synopsis": "When an ancient power is unleashed, Aquaman must forge an uneasy alliance with an unlikely ally to protect Atlantis, and the world, from irreversible devastation.",
-      "runtime": 124,
-      "times": [
-        {
-          "starts_at": "2023-12-23T14:40:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-45858/"
-        },
-        {
-          "starts_at": "2023-12-23T17:50:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-45870/"
-        },
-        {
-          "starts_at": "2023-12-23T20:20:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-45866/"
-        },
-        {
-          "starts_at": "2023-12-23T14:45:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-69472/"
-        },
-        {
-          "starts_at": "2023-12-23T17:45:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-69473/"
-        },
-        {
-          "starts_at": "2023-12-23T20:45:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-69465/"
         }
       ]
     },
@@ -239,6 +95,72 @@
       ]
     },
     {
+      "title": "Aquaman and the Lost Kingdom",
+      "trailer": "https://www.youtube.com/watch?v=SU4Nr0OsYG0",
+      "synopsis": "When an ancient power is unleashed, Aquaman must forge an uneasy alliance with an unlikely ally to protect Atlantis, and the world, from irreversible devastation.",
+      "runtime": 124,
+      "times": [
+        {
+          "starts_at": "2023-12-23T17:50:00+00:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-45870/"
+        },
+        {
+          "starts_at": "2023-12-23T20:20:00+00:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-45866/"
+        },
+        {
+          "starts_at": "2023-12-23T17:45:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-69473/"
+        },
+        {
+          "starts_at": "2023-12-23T20:45:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-69465/"
+        }
+      ]
+    },
+    {
+      "title": "Napoleon",
+      "trailer": "https://www.youtube.com/watch?v=1rJjrcKWupE",
+      "synopsis": "Napoleon is a spectacle-filled action epic that details the checkered rise and fall of the iconic French Emperor Napoleon Bonaparte, played by Oscar®-winner Joaquin Phoenix. Against a stunning backdrop of large-scale filmmaking orchestrated by legendary director Ridley Scott, the film captures Bonaparte's relentless journey to power through the prism of his addictive, volatile relationship with his one true love, Josephine, showcasing his visionary military and political tactics against some of the most dynamic practical battle sequences ever filmed.",
+      "runtime": 158,
+      "times": [
+        {
+          "starts_at": "2023-12-23T20:00:00+00:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-45869/"
+        },
+        {
+          "starts_at": "2023-12-23T17:50:00+00:00",
+          "site": "Curzon Soho",
+          "url": "https://www.curzon.com/ticketing/seats/SOH1-42833/"
+        },
+        {
+          "starts_at": "2023-12-23T20:15:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-69461/"
+        },
+        {
+          "starts_at": "2023-12-23T16:45:00+00:00",
+          "site": "Curzon Mayfair",
+          "url": "https://www.curzon.com/ticketing/seats/MAY1-25672/"
+        },
+        {
+          "starts_at": "2023-12-23T20:00:00+00:00",
+          "site": "Curzon Mayfair",
+          "url": "https://www.curzon.com/ticketing/seats/MAY1-25640/"
+        },
+        {
+          "starts_at": "2023-12-23T16:40:00+00:00",
+          "site": "Curzon Hoxton",
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-14117/"
+        }
+      ]
+    },
+    {
       "title": "Saltburn",
       "trailer": "https://www.youtube.com/watch?v=s8l0llLj1uM",
       "synopsis": "Struggling to find his place at Oxford University, student Oliver Quick finds himself drawn into the world of the charming and aristocratic Felix Catton, who invites him to Saltburn, his eccentric family's sprawling estate, for a summer never to be forgotten.",
@@ -248,11 +170,6 @@
           "starts_at": "2023-12-23T20:40:00+00:00",
           "site": "Curzon Aldgate",
           "url": "https://www.curzon.com/ticketing/seats/ALD1-45867/"
-        },
-        {
-          "starts_at": "2023-12-23T14:50:00+00:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-42841/"
         },
         {
           "starts_at": "2023-12-23T17:20:00+00:00",
@@ -275,19 +192,9 @@
           "url": "https://www.curzon.com/ticketing/seats/VIC1-69464/"
         },
         {
-          "starts_at": "2023-12-23T13:40:00+00:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-14157/"
-        },
-        {
           "starts_at": "2023-12-23T20:20:00+00:00",
           "site": "Curzon Hoxton",
           "url": "https://www.curzon.com/ticketing/seats/HOX1-14111/"
-        },
-        {
-          "starts_at": "2023-12-23T15:20:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-21229/"
         },
         {
           "starts_at": "2023-12-23T17:40:00+00:00",
@@ -312,47 +219,6 @@
       ]
     },
     {
-      "title": "Fallen Leaves",
-      "trailer": null,
-      "synopsis": "Award-winning filmmaker Aki Kaurismäki (Le Havre, The Other Side of Hope) makes a masterful return with FALLEN LEAVES, a timeless, hopeful and satisfying love story that won the Jury Prize at the 2023 Cannes Film Festival.\n\nSet in modern day Helsinki, the film tells the story of Ansa (Alma Pöysti) and Holappa (Jussi Vatanen), two lonely souls whose chance meeting at a local karaoke bar is beset by numerous hurdles. From lost phone numbers to mistaken addresses, alcoholism and a charming stray dog, the pair’s path to happiness is as bittersweet as it is ultimately delightful. \n\nShot through with Kaurismäki’s typically playful, idiosyncratic style and deadpan sense of humor, this tender romantic tragicomedy is both a loving tribute to the filmmaker’s beloved contemporaries and a timely reminder of the potency of movie-going from one of cinema’s living legends. ",
-      "runtime": 91,
-      "times": [
-        {
-          "starts_at": "2023-12-23T13:40:00+00:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-42781/"
-        },
-        {
-          "starts_at": "2023-12-23T18:40:00+00:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-42780/"
-        },
-        {
-          "starts_at": "2023-12-23T17:20:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-21231/"
-        },
-        {
-          "starts_at": "2023-12-23T16:50:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-86608/"
-        }
-      ]
-    },
-    {
-      "title": "The Sacrifice",
-      "trailer": "https://www.youtube.com/watch?v=i64Sv4PyWkQ",
-      "synopsis": "Andrei Tarkovsky’s visionary final film unfolds in the hours before a nuclear holocaust. Erland Josephson, in an award-winning role, plays retired actor Alexander who is celebrating his birthday with family and friends when a crackly TV announcement warns of an imminent nuclear catastrophe.\n\nAlexander makes a promise to God that he will sacrifice all he holds dear, if the disaster can be averted. The next day dawns and, as if in a dream, everything is restored to normality. But Alexander must keep his vow.\n\nAmong many other awards, The Sacrifice won the Cannes Grand Prix in 1986, the same year that Tarkovsky died of cancer in Paris at the age of 54.",
-      "runtime": 149,
-      "times": [
-        {
-          "starts_at": "2023-12-23T14:00:00+00:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-42059/"
-        }
-      ]
-    },
-    {
       "title": "Sweet Sue",
       "trailer": null,
       "synopsis": "Fifty-something Sue (Maggie O’Neill) is now back on the dating scene. She meets a mysterious biker called Ron (Tony Pitts) at her brother's funeral and sparks fly. But when she meets Ron’s social-media influencer son Anthony (Harry Trevaldwyn), Sue finds herself in an increasingly surreal battle of wills with this ambitious teenager who is convinced that his dance troupe ‘Electric Destiny’ is tipped for stardom. Will she find the purpose and imagination to bring this little unconventional family together for a chance at happiness?",
@@ -367,11 +233,6 @@
           "starts_at": "2023-12-23T21:00:00+00:00",
           "site": "Curzon Soho",
           "url": "https://www.curzon.com/ticketing/seats/SOH1-42778/"
-        },
-        {
-          "starts_at": "2023-12-23T14:30:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-69551/"
         },
         {
           "starts_at": "2023-12-23T21:15:00+00:00",
@@ -401,6 +262,29 @@
       ]
     },
     {
+      "title": "Fallen Leaves",
+      "trailer": null,
+      "synopsis": "Award-winning filmmaker Aki Kaurismäki (Le Havre, The Other Side of Hope) makes a masterful return with FALLEN LEAVES, a timeless, hopeful and satisfying love story that won the Jury Prize at the 2023 Cannes Film Festival.\n\nSet in modern day Helsinki, the film tells the story of Ansa (Alma Pöysti) and Holappa (Jussi Vatanen), two lonely souls whose chance meeting at a local karaoke bar is beset by numerous hurdles. From lost phone numbers to mistaken addresses, alcoholism and a charming stray dog, the pair’s path to happiness is as bittersweet as it is ultimately delightful. \n\nShot through with Kaurismäki’s typically playful, idiosyncratic style and deadpan sense of humor, this tender romantic tragicomedy is both a loving tribute to the filmmaker’s beloved contemporaries and a timely reminder of the potency of movie-going from one of cinema’s living legends. ",
+      "runtime": 91,
+      "times": [
+        {
+          "starts_at": "2023-12-23T18:40:00+00:00",
+          "site": "Curzon Soho",
+          "url": "https://www.curzon.com/ticketing/seats/SOH1-42780/"
+        },
+        {
+          "starts_at": "2023-12-23T17:20:00+00:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-21231/"
+        },
+        {
+          "starts_at": "2023-12-23T16:50:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-86608/"
+        }
+      ]
+    },
+    {
       "title": "Anselm (2D)",
       "trailer": "https://www.youtube.com/watch?v=TqBS8L9niGA",
       "synopsis": "An experience like no other. Wim Wenders creates a portrait of Anselm Kiefer, one of the most innovative and important painters and sculptors of our time, shot in 3D and 6K-resolution. \n\nThe film presents a total immersion in the artist’s work and practice which explores human existence and the cyclical nature of history, inspired by literature, poetry, philosophy, science, mythology and religion. For over two years, Wenders traced Kiefer’s path from his native Germany to his current home in France, connecting the stages of his life to the essential places of his career that spans more than five decades.",
@@ -410,11 +294,6 @@
           "starts_at": "2023-12-23T21:20:00+00:00",
           "site": "Curzon Soho",
           "url": "https://www.curzon.com/ticketing/seats/SOH1-42834/"
-        },
-        {
-          "starts_at": "2023-12-23T15:00:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-69547/"
         },
         {
           "starts_at": "2023-12-23T16:00:00+00:00",
@@ -440,19 +319,9 @@
           "url": "https://www.curzon.com/ticketing/seats/VIC1-69462/"
         },
         {
-          "starts_at": "2023-12-23T12:30:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-21218/"
-        },
-        {
           "starts_at": "2023-12-23T18:00:00+00:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-21225/"
-        },
-        {
-          "starts_at": "2023-12-23T14:40:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-86609/"
         },
         {
           "starts_at": "2023-12-23T20:40:00+00:00",
@@ -494,11 +363,6 @@
       "runtime": 152,
       "times": [
         {
-          "starts_at": "2023-12-23T13:40:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-21216/"
-        },
-        {
           "starts_at": "2023-12-23T17:00:00+00:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-21227/"
@@ -507,11 +371,6 @@
           "starts_at": "2023-12-23T20:10:00+00:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-21222/"
-        },
-        {
-          "starts_at": "2023-12-23T14:30:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-86596/"
         },
         {
           "starts_at": "2023-12-23T17:30:00+00:00",
@@ -532,19 +391,9 @@
       "runtime": 129,
       "times": [
         {
-          "starts_at": "2023-12-23T14:00:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-21232/"
-        },
-        {
           "starts_at": "2023-12-23T19:50:00+00:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-21223/"
-        },
-        {
-          "starts_at": "2023-12-23T14:50:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-86595/"
         },
         {
           "starts_at": "2023-12-23T17:40:00+00:00",
@@ -555,32 +404,6 @@
           "starts_at": "2023-12-23T20:50:00+00:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-86612/"
-        }
-      ]
-    },
-    {
-      "title": "DocHouse: My Imaginary Country",
-      "trailer": null,
-      "synopsis": "Ever since the turmoil of 1973 that forced documentary filmmaker Patricio Guzmán to leave Chile, he has documented his homeland - in films such as Nostalgia for the Light, The Pearl Button and The Cordillera of Dreams - a country still suffering under the weight of Pinochet's legacy, constitution and decades of inequality, corruption and denial.\r\n\r\n \r\n\r\nThen, in October 2019, there is an unexpected revolution, a social explosion; one and a half million people demonstrate in the streets of Santiago calling for democracy, a more dignified life and a new constitution. Chile has recovered its memory.\r\n\r\nIn his latest film, the renowned documentary-maker returns his razor-sharp gaze to a country on the cusp of long overdue change.  Focussing on the on the pivotal role played by women, he traces the people's path through mass protest to constitutional change. \r\n\r\nWith astonishment and great hope, Guzmán documents Chile's surge towards becoming the country he imagines.",
-      "runtime": 83,
-      "times": [
-        {
-          "starts_at": "2023-12-23T14:00:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-86635/"
-        }
-      ]
-    },
-    {
-      "title": "The Peasants",
-      "trailer": "https://www.youtube.com/watch?v=QTHuOgQMVN4",
-      "synopsis": "The Peasants tells the story of Jagna, a young woman determined to forge her own path within the confines of a late 19th century Polish village – a hotbed of gossip and on-going feuds, held together, rich and poor, by pride in their land, adherence to colourful traditions and deep-rooted patriarchy. When Jagna finds herself caught between the conflicting desires of the village’s richest farmer, his eldest son, and other leading men of the community, her resistance puts her on a tragic collision course with the community around her.",
-      "runtime": 115,
-      "times": [
-        {
-          "starts_at": "2023-12-23T14:10:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-86598/"
         }
       ]
     },
