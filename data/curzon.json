@@ -1,62 +1,6 @@
 {
   "2023-12-27": [
     {
-      "title": "Wonka",
-      "trailer": "https://www.youtube.com/watch?v=qhzNQ9vaJqE",
-      "synopsis": "The Story will focus on a young Willy Wonka and his adventures prior to opening the world’s most famous chocolate factory.",
-      "runtime": 116,
-      "times": [
-        {
-          "starts_at": "2023-12-27T20:00:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-45902/"
-        },
-        {
-          "starts_at": "2023-12-27T20:15:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-69493/"
-        },
-        {
-          "starts_at": "2023-12-27T20:00:00+00:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-14141/"
-        }
-      ]
-    },
-    {
-      "title": "Ferrari",
-      "trailer": "https://www.youtube.com/watch?v=ERIBTIlVVJQ",
-      "synopsis": "It is the summer of 1957. Behind the spectacle of Formula 1, ex-racer Enzo Ferrari is in crisis. Bankruptcy threatens the factory he and his wife, Laura built from nothing ten years earlier. Their volatile marriage has been battered by the loss of their son, Dino a year earlier. Ferrari struggles to acknowledge his son Piero with Lina Lardi. Meanwhile, his drivers’ passion to win pushes them to the edge as they launch into the treacherous 1,000-mile race across Italy, the Mille Miglia.",
-      "runtime": 130,
-      "times": [
-        {
-          "starts_at": "2023-12-27T20:20:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-45896/"
-        },
-        {
-          "starts_at": "2023-12-27T20:40:00+00:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-42820/"
-        },
-        {
-          "starts_at": "2023-12-27T20:30:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-69509/"
-        },
-        {
-          "starts_at": "2023-12-27T20:45:00+00:00",
-          "site": "Curzon Mayfair",
-          "url": "https://www.curzon.com/ticketing/seats/MAY1-25658/"
-        },
-        {
-          "starts_at": "2023-12-27T20:30:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-21250/"
-        }
-      ]
-    },
-    {
       "title": "Aquaman and the Lost Kingdom",
       "trailer": "https://www.youtube.com/watch?v=SU4Nr0OsYG0",
       "synopsis": "When an ancient power is unleashed, Aquaman must forge an uneasy alliance with an unlikely ally to protect Atlantis, and the world, from irreversible devastation.",
@@ -88,25 +32,30 @@
       ]
     },
     {
-      "title": "Sweet Sue",
-      "trailer": null,
-      "synopsis": "Fifty-something Sue (Maggie O’Neill) is now back on the dating scene. She meets a mysterious biker called Ron (Tony Pitts) at her brother's funeral and sparks fly. But when she meets Ron’s social-media influencer son Anthony (Harry Trevaldwyn), Sue finds herself in an increasingly surreal battle of wills with this ambitious teenager who is convinced that his dance troupe ‘Electric Destiny’ is tipped for stardom. Will she find the purpose and imagination to bring this little unconventional family together for a chance at happiness?",
-      "runtime": 100,
+      "title": "Ferrari",
+      "trailer": "https://www.youtube.com/watch?v=ERIBTIlVVJQ",
+      "synopsis": "It is the summer of 1957. Behind the spectacle of Formula 1, ex-racer Enzo Ferrari is in crisis. Bankruptcy threatens the factory he and his wife, Laura built from nothing ten years earlier. Their volatile marriage has been battered by the loss of their son, Dino a year earlier. Ferrari struggles to acknowledge his son Piero with Lina Lardi. Meanwhile, his drivers’ passion to win pushes them to the edge as they launch into the treacherous 1,000-mile race across Italy, the Mille Miglia.",
+      "runtime": 130,
       "times": [
         {
-          "starts_at": "2023-12-27T20:20:00+00:00",
+          "starts_at": "2023-12-27T20:40:00+00:00",
           "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-42801/"
+          "url": "https://www.curzon.com/ticketing/seats/SOH1-42820/"
         },
         {
-          "starts_at": "2023-12-27T21:15:00+00:00",
+          "starts_at": "2023-12-27T20:30:00+00:00",
           "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-69491/"
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-69509/"
         },
         {
-          "starts_at": "2023-12-27T21:10:00+00:00",
+          "starts_at": "2023-12-27T20:45:00+00:00",
+          "site": "Curzon Mayfair",
+          "url": "https://www.curzon.com/ticketing/seats/MAY1-25658/"
+        },
+        {
+          "starts_at": "2023-12-27T20:30:00+00:00",
           "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-21256/"
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-21250/"
         }
       ]
     },
@@ -137,15 +86,20 @@
       ]
     },
     {
-      "title": "Napoleon",
-      "trailer": "https://www.youtube.com/watch?v=1rJjrcKWupE",
-      "synopsis": "Napoleon is a spectacle-filled action epic that details the checkered rise and fall of the iconic French Emperor Napoleon Bonaparte, played by Oscar®-winner Joaquin Phoenix. Against a stunning backdrop of large-scale filmmaking orchestrated by legendary director Ridley Scott, the film captures Bonaparte's relentless journey to power through the prism of his addictive, volatile relationship with his one true love, Josephine, showcasing his visionary military and political tactics against some of the most dynamic practical battle sequences ever filmed.",
-      "runtime": 158,
+      "title": "Sweet Sue",
+      "trailer": null,
+      "synopsis": "Fifty-something Sue (Maggie O’Neill) is now back on the dating scene. She meets a mysterious biker called Ron (Tony Pitts) at her brother's funeral and sparks fly. But when she meets Ron’s social-media influencer son Anthony (Harry Trevaldwyn), Sue finds herself in an increasingly surreal battle of wills with this ambitious teenager who is convinced that his dance troupe ‘Electric Destiny’ is tipped for stardom. Will she find the purpose and imagination to bring this little unconventional family together for a chance at happiness?",
+      "runtime": 100,
       "times": [
         {
-          "starts_at": "2023-12-27T20:15:00+00:00",
-          "site": "Curzon Mayfair",
-          "url": "https://www.curzon.com/ticketing/seats/MAY1-25659/"
+          "starts_at": "2023-12-27T21:15:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-69491/"
+        },
+        {
+          "starts_at": "2023-12-27T21:10:00+00:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-21256/"
         }
       ]
     },
@@ -159,11 +113,6 @@
           "starts_at": "2023-12-27T20:40:00+00:00",
           "site": "Curzon Hoxton",
           "url": "https://www.curzon.com/ticketing/seats/HOX1-14137/"
-        },
-        {
-          "starts_at": "2023-12-27T20:10:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-21255/"
         },
         {
           "starts_at": "2023-12-27T21:00:00+00:00",
@@ -191,24 +140,6 @@
       ]
     },
     {
-      "title": "Anatomy of a Fall",
-      "trailer": "https://www.youtube.com/watch?v=_MdTMA0PetA",
-      "synopsis": "When her husband Samuel is mysteriously found dead in the snow below their secluded chalet, Sandra becomes the main suspect when the police begin to question whether he fell or was pushed. The trial soon becomes not just an investigation, but a gripping psychological journey into the depths of Sandra and Samuel's complicated marriage. With conflicting evidence and inconsistent testimony, words are wielded like weapons and shocking truths come to light in this thrilling Palme d’Or winner.",
-      "runtime": 152,
-      "times": [
-        {
-          "starts_at": "2023-12-27T19:50:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-21260/"
-        },
-        {
-          "starts_at": "2023-12-27T20:10:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-86663/"
-        }
-      ]
-    },
-    {
       "title": "The Boy And The Heron (Dubbed)",
       "trailer": null,
       "synopsis": "The English dub for Hayao Miyazaki's latest adventure features an all-star cast that includes Robert Pattinson, Florence Pugh, Christian Bale, Willem Dafoe and Mark Hamill. The film follows a young boy named Mahito, who yearns for his late mother and ventures into a world shared by the living and the dead. There, death comes to an end, and life finds a new beginning. The Boy and the Heron is a dazzling, semi-autobiographical fantasy about life, death and creation.",
@@ -218,32 +149,6 @@
           "starts_at": "2023-12-27T20:50:00+00:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-21252/"
-        }
-      ]
-    },
-    {
-      "title": "DocHouse: Time Bomb Y2K",
-      "trailer": null,
-      "synopsis": "Cast your mind back to the year 1999 - The Matrix had just come out, music sharing site Napster launched, Ricky Martin was Livin' la Vida Loca... and as the dawn of the new millennium approached, panic spread across the globe over a potentially fatal error in computer code: the millennium bug.\r\n\r\nTime Bomb Y2K documents the countdown to New Year's Eve against the backdrop of the mass hysteria that spread from computer engineers to the mainstream consciousness, and infiltrated everything from politics to pop culture.\r\n\r\nCrafted entirely through archive footage, Time Bomb Y2K is a wild ride through the final days of the '90s, offering a dose of nostalgia with a dose of perspective. It explores a pivotal moment in our relationship with technology at a turning point in the digital revolution.",
-      "runtime": 84,
-      "times": [
-        {
-          "starts_at": "2023-12-27T18:30:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-86390/"
-        }
-      ]
-    },
-    {
-      "title": "DocHouse: My Name Is Alfred Hitchcock",
-      "trailer": null,
-      "synopsis": "A century after Alfred Hitchcock's first feature, Mark Cousins (The Story of Film, The Eyes of Orson Welles) looks at the auteur with a new and radical approach.\r\n\r\nAccompanied by Hitchcock's narration (voiced by Alistair McGowan), we are taken on a playful and revealing odyssey through the auteur's vast and magnificent career.",
-      "runtime": 120,
-      "times": [
-        {
-          "starts_at": "2023-12-27T20:20:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-86694/"
         }
       ]
     },
