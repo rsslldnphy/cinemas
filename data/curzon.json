@@ -1,62 +1,6 @@
 {
   "2023-12-28": [
     {
-      "title": "Wonka",
-      "trailer": "https://www.youtube.com/watch?v=qhzNQ9vaJqE",
-      "synopsis": "The Story will focus on a young Willy Wonka and his adventures prior to opening the world’s most famous chocolate factory.",
-      "runtime": 116,
-      "times": [
-        {
-          "starts_at": "2023-12-28T20:00:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-45923/"
-        },
-        {
-          "starts_at": "2023-12-28T21:00:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-69518/"
-        },
-        {
-          "starts_at": "2023-12-28T20:00:00+00:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-14153/"
-        }
-      ]
-    },
-    {
-      "title": "Ferrari",
-      "trailer": "https://www.youtube.com/watch?v=ERIBTIlVVJQ",
-      "synopsis": "It is the summer of 1957. Behind the spectacle of Formula 1, ex-racer Enzo Ferrari is in crisis. Bankruptcy threatens the factory he and his wife, Laura built from nothing ten years earlier. Their volatile marriage has been battered by the loss of their son, Dino a year earlier. Ferrari struggles to acknowledge his son Piero with Lina Lardi. Meanwhile, his drivers’ passion to win pushes them to the edge as they launch into the treacherous 1,000-mile race across Italy, the Mille Miglia.",
-      "runtime": 130,
-      "times": [
-        {
-          "starts_at": "2023-12-28T20:20:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-45913/"
-        },
-        {
-          "starts_at": "2023-12-28T20:40:00+00:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-42849/"
-        },
-        {
-          "starts_at": "2023-12-28T20:30:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-69522/"
-        },
-        {
-          "starts_at": "2023-12-28T20:45:00+00:00",
-          "site": "Curzon Mayfair",
-          "url": "https://www.curzon.com/ticketing/seats/MAY1-25667/"
-        },
-        {
-          "starts_at": "2023-12-28T20:30:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-21273/"
-        }
-      ]
-    },
-    {
       "title": "Aquaman and the Lost Kingdom",
       "trailer": "https://www.youtube.com/watch?v=SU4Nr0OsYG0",
       "synopsis": "When an ancient power is unleashed, Aquaman must forge an uneasy alliance with an unlikely ally to protect Atlantis, and the world, from irreversible devastation.",
@@ -88,25 +32,30 @@
       ]
     },
     {
-      "title": "Sweet Sue",
-      "trailer": null,
-      "synopsis": "Fifty-something Sue (Maggie O’Neill) is now back on the dating scene. She meets a mysterious biker called Ron (Tony Pitts) at her brother's funeral and sparks fly. But when she meets Ron’s social-media influencer son Anthony (Harry Trevaldwyn), Sue finds herself in an increasingly surreal battle of wills with this ambitious teenager who is convinced that his dance troupe ‘Electric Destiny’ is tipped for stardom. Will she find the purpose and imagination to bring this little unconventional family together for a chance at happiness?",
-      "runtime": 100,
+      "title": "Ferrari",
+      "trailer": "https://www.youtube.com/watch?v=ERIBTIlVVJQ",
+      "synopsis": "It is the summer of 1957. Behind the spectacle of Formula 1, ex-racer Enzo Ferrari is in crisis. Bankruptcy threatens the factory he and his wife, Laura built from nothing ten years earlier. Their volatile marriage has been battered by the loss of their son, Dino a year earlier. Ferrari struggles to acknowledge his son Piero with Lina Lardi. Meanwhile, his drivers’ passion to win pushes them to the edge as they launch into the treacherous 1,000-mile race across Italy, the Mille Miglia.",
+      "runtime": 130,
       "times": [
         {
-          "starts_at": "2023-12-28T20:20:00+00:00",
+          "starts_at": "2023-12-28T20:40:00+00:00",
           "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-42850/"
+          "url": "https://www.curzon.com/ticketing/seats/SOH1-42849/"
         },
         {
-          "starts_at": "2023-12-28T21:15:00+00:00",
+          "starts_at": "2023-12-28T20:30:00+00:00",
           "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-69520/"
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-69522/"
         },
         {
-          "starts_at": "2023-12-28T21:10:00+00:00",
+          "starts_at": "2023-12-28T20:45:00+00:00",
+          "site": "Curzon Mayfair",
+          "url": "https://www.curzon.com/ticketing/seats/MAY1-25667/"
+        },
+        {
+          "starts_at": "2023-12-28T20:30:00+00:00",
           "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-21267/"
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-21273/"
         }
       ]
     },
@@ -124,20 +73,33 @@
       ]
     },
     {
-      "title": "Napoleon",
-      "trailer": "https://www.youtube.com/watch?v=1rJjrcKWupE",
-      "synopsis": "Napoleon is a spectacle-filled action epic that details the checkered rise and fall of the iconic French Emperor Napoleon Bonaparte, played by Oscar®-winner Joaquin Phoenix. Against a stunning backdrop of large-scale filmmaking orchestrated by legendary director Ridley Scott, the film captures Bonaparte's relentless journey to power through the prism of his addictive, volatile relationship with his one true love, Josephine, showcasing his visionary military and political tactics against some of the most dynamic practical battle sequences ever filmed.",
-      "runtime": 158,
+      "title": "Wonka",
+      "trailer": "https://www.youtube.com/watch?v=qhzNQ9vaJqE",
+      "synopsis": "The Story will focus on a young Willy Wonka and his adventures prior to opening the world’s most famous chocolate factory.",
+      "runtime": 116,
       "times": [
         {
-          "starts_at": "2023-12-28T20:15:00+00:00",
+          "starts_at": "2023-12-28T21:00:00+00:00",
           "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-69530/"
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-69518/"
+        }
+      ]
+    },
+    {
+      "title": "Sweet Sue",
+      "trailer": null,
+      "synopsis": "Fifty-something Sue (Maggie O’Neill) is now back on the dating scene. She meets a mysterious biker called Ron (Tony Pitts) at her brother's funeral and sparks fly. But when she meets Ron’s social-media influencer son Anthony (Harry Trevaldwyn), Sue finds herself in an increasingly surreal battle of wills with this ambitious teenager who is convinced that his dance troupe ‘Electric Destiny’ is tipped for stardom. Will she find the purpose and imagination to bring this little unconventional family together for a chance at happiness?",
+      "runtime": 100,
+      "times": [
+        {
+          "starts_at": "2023-12-28T21:15:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-69520/"
         },
         {
-          "starts_at": "2023-12-28T20:15:00+00:00",
-          "site": "Curzon Mayfair",
-          "url": "https://www.curzon.com/ticketing/seats/MAY1-25666/"
+          "starts_at": "2023-12-28T21:10:00+00:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-21267/"
         }
       ]
     },
@@ -151,11 +113,6 @@
           "starts_at": "2023-12-28T20:40:00+00:00",
           "site": "Curzon Hoxton",
           "url": "https://www.curzon.com/ticketing/seats/HOX1-14149/"
-        },
-        {
-          "starts_at": "2023-12-28T20:10:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-21268/"
         },
         {
           "starts_at": "2023-12-28T21:00:00+00:00",
@@ -183,24 +140,6 @@
       ]
     },
     {
-      "title": "Anatomy of a Fall",
-      "trailer": "https://www.youtube.com/watch?v=_MdTMA0PetA",
-      "synopsis": "When her husband Samuel is mysteriously found dead in the snow below their secluded chalet, Sandra becomes the main suspect when the police begin to question whether he fell or was pushed. The trial soon becomes not just an investigation, but a gripping psychological journey into the depths of Sandra and Samuel's complicated marriage. With conflicting evidence and inconsistent testimony, words are wielded like weapons and shocking truths come to light in this thrilling Palme d’Or winner.",
-      "runtime": 152,
-      "times": [
-        {
-          "starts_at": "2023-12-28T19:50:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-21283/"
-        },
-        {
-          "starts_at": "2023-12-28T20:10:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-86683/"
-        }
-      ]
-    },
-    {
       "title": "The Boy And The Heron (Dubbed)",
       "trailer": null,
       "synopsis": "The English dub for Hayao Miyazaki's latest adventure features an all-star cast that includes Robert Pattinson, Florence Pugh, Christian Bale, Willem Dafoe and Mark Hamill. The film follows a young boy named Mahito, who yearns for his late mother and ventures into a world shared by the living and the dead. There, death comes to an end, and life finds a new beginning. The Boy and the Heron is a dazzling, semi-autobiographical fantasy about life, death and creation.",
@@ -210,19 +149,6 @@
           "starts_at": "2023-12-28T20:50:00+00:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-21271/"
-        }
-      ]
-    },
-    {
-      "title": "Society of the Snow",
-      "trailer": null,
-      "synopsis": "The flight of a rugby team crashes on a glacier in the Andes, few passengers who survived the crash, find themselves in one of the world's toughest environments to survive.",
-      "runtime": 143,
-      "times": [
-        {
-          "starts_at": "2023-12-28T20:20:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-86681/"
         }
       ]
     },
@@ -885,6 +811,24 @@
       ]
     },
     {
+      "title": "Anselm (2D)",
+      "trailer": "https://www.youtube.com/watch?v=TqBS8L9niGA",
+      "synopsis": "An experience like no other. Wim Wenders creates a portrait of Anselm Kiefer, one of the most innovative and important painters and sculptors of our time, shot in 3D and 6K-resolution. \n\nThe film presents a total immersion in the artist’s work and practice which explores human existence and the cyclical nature of history, inspired by literature, poetry, philosophy, science, mythology and religion. For over two years, Wenders traced Kiefer’s path from his native Germany to his current home in France, connecting the stages of his life to the essential places of his career that spans more than five decades.",
+      "runtime": 93,
+      "times": [
+        {
+          "starts_at": "2023-12-29T11:50:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-86713/"
+        },
+        {
+          "starts_at": "2023-12-29T18:00:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-86710/"
+        }
+      ]
+    },
+    {
       "title": "Maestro",
       "trailer": "https://www.youtube.com/watch?v=gJP2QblqLA0",
       "synopsis": "Maestro is a towering and fearless love story chronicling the lifelong relationship between Leonard Bernstein and Felicia Montealegre Cohn Bernstein. A love letter to life and art, Maestro at its core is an emotionally epic portrayal of family and love.",
@@ -909,24 +853,6 @@
           "starts_at": "2023-12-29T20:40:00+00:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-86699/"
-        }
-      ]
-    },
-    {
-      "title": "Anselm (2D)",
-      "trailer": "https://www.youtube.com/watch?v=TqBS8L9niGA",
-      "synopsis": "An experience like no other. Wim Wenders creates a portrait of Anselm Kiefer, one of the most innovative and important painters and sculptors of our time, shot in 3D and 6K-resolution. \n\nThe film presents a total immersion in the artist’s work and practice which explores human existence and the cyclical nature of history, inspired by literature, poetry, philosophy, science, mythology and religion. For over two years, Wenders traced Kiefer’s path from his native Germany to his current home in France, connecting the stages of his life to the essential places of his career that spans more than five decades.",
-      "runtime": 93,
-      "times": [
-        {
-          "starts_at": "2023-12-29T11:50:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-86713/"
-        },
-        {
-          "starts_at": "2023-12-29T18:00:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-86710/"
         }
       ]
     },
