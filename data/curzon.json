@@ -1,16 +1,49 @@
 {
   "2023-12-31": [
     {
+      "title": "Wonka",
+      "trailer": "https://www.youtube.com/watch?v=qhzNQ9vaJqE",
+      "synopsis": "The Story will focus on a young Willy Wonka and his adventures prior to opening the world’s most famous chocolate factory.",
+      "runtime": 116,
+      "times": [
+        {
+          "starts_at": "2023-12-31T14:00:00+00:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-45972/"
+        },
+        {
+          "starts_at": "2023-12-31T17:20:00+00:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-45969/"
+        },
+        {
+          "starts_at": "2023-12-31T15:00:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-69598/"
+        },
+        {
+          "starts_at": "2023-12-31T18:00:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-69599/"
+        },
+        {
+          "starts_at": "2023-12-31T17:15:00+00:00",
+          "site": "Curzon Mayfair",
+          "url": "https://www.curzon.com/ticketing/seats/MAY1-25690/"
+        },
+        {
+          "starts_at": "2023-12-31T15:20:00+00:00",
+          "site": "Curzon Hoxton",
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-14186/"
+        }
+      ]
+    },
+    {
       "title": "Aquaman and the Lost Kingdom",
       "trailer": "https://www.youtube.com/watch?v=SU4Nr0OsYG0",
       "synopsis": "When an ancient power is unleashed, Aquaman must forge an uneasy alliance with an unlikely ally to protect Atlantis, and the world, from irreversible devastation.",
       "runtime": 124,
       "times": [
-        {
-          "starts_at": "2023-12-31T11:00:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-45964/"
-        },
         {
           "starts_at": "2023-12-31T14:20:00+00:00",
           "site": "Curzon Aldgate",
@@ -25,120 +58,6 @@
           "starts_at": "2023-12-31T15:40:00+00:00",
           "site": "Curzon Victoria",
           "url": "https://www.curzon.com/ticketing/seats/VIC1-69608/"
-        }
-      ]
-    },
-    {
-      "title": "Wonka",
-      "trailer": "https://www.youtube.com/watch?v=qhzNQ9vaJqE",
-      "synopsis": "The Story will focus on a young Willy Wonka and his adventures prior to opening the world’s most famous chocolate factory.",
-      "runtime": 116,
-      "times": [
-        {
-          "starts_at": "2023-12-31T11:20:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-45966/"
-        },
-        {
-          "starts_at": "2023-12-31T14:00:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-45972/"
-        },
-        {
-          "starts_at": "2023-12-31T17:20:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-45969/"
-        },
-        {
-          "starts_at": "2023-12-31T12:15:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-69597/"
-        },
-        {
-          "starts_at": "2023-12-31T15:00:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-69598/"
-        },
-        {
-          "starts_at": "2023-12-31T18:00:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-69599/"
-        },
-        {
-          "starts_at": "2023-12-31T11:30:00+00:00",
-          "site": "Curzon Mayfair",
-          "url": "https://www.curzon.com/ticketing/seats/MAY1-25689/"
-        },
-        {
-          "starts_at": "2023-12-31T17:15:00+00:00",
-          "site": "Curzon Mayfair",
-          "url": "https://www.curzon.com/ticketing/seats/MAY1-25690/"
-        },
-        {
-          "starts_at": "2023-12-31T11:20:00+00:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-14190/"
-        },
-        {
-          "starts_at": "2023-12-31T15:20:00+00:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-14186/"
-        },
-        {
-          "starts_at": "2023-12-31T12:00:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-21445/"
-        }
-      ]
-    },
-    {
-      "title": "Napoleon",
-      "trailer": "https://www.youtube.com/watch?v=1rJjrcKWupE",
-      "synopsis": "Napoleon is a spectacle-filled action epic that details the checkered rise and fall of the iconic French Emperor Napoleon Bonaparte, played by Oscar®-winner Joaquin Phoenix. Against a stunning backdrop of large-scale filmmaking orchestrated by legendary director Ridley Scott, the film captures Bonaparte's relentless journey to power through the prism of his addictive, volatile relationship with his one true love, Josephine, showcasing his visionary military and political tactics against some of the most dynamic practical battle sequences ever filmed.",
-      "runtime": 158,
-      "times": [
-        {
-          "starts_at": "2023-12-31T11:40:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-45963/"
-        },
-        {
-          "starts_at": "2023-12-31T13:45:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-69604/"
-        }
-      ]
-    },
-    {
-      "title": "The Boy And The Heron (Dubbed)",
-      "trailer": null,
-      "synopsis": "The English dub for Hayao Miyazaki's latest adventure features an all-star cast that includes Robert Pattinson, Florence Pugh, Christian Bale, Willem Dafoe and Mark Hamill. The film follows a young boy named Mahito, who yearns for his late mother and ventures into a world shared by the living and the dead. There, death comes to an end, and life finds a new beginning. The Boy and the Heron is a dazzling, semi-autobiographical fantasy about life, death and creation.",
-      "runtime": 124,
-      "times": [
-        {
-          "starts_at": "2023-12-31T12:00:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-45965/"
-        },
-        {
-          "starts_at": "2023-12-31T11:45:00+00:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-42881/"
-        },
-        {
-          "starts_at": "2023-12-31T11:40:00+00:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-14192/"
-        },
-        {
-          "starts_at": "2023-12-31T12:15:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-21344/"
-        },
-        {
-          "starts_at": "2023-12-31T18:00:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-21346/"
         }
       ]
     },
@@ -215,11 +134,6 @@
           "url": "https://www.curzon.com/ticketing/seats/VIC1-69602/"
         },
         {
-          "starts_at": "2023-12-31T11:00:00+00:00",
-          "site": "Curzon Mayfair",
-          "url": "https://www.curzon.com/ticketing/seats/MAY1-25693/"
-        },
-        {
           "starts_at": "2023-12-31T14:20:00+00:00",
           "site": "Curzon Mayfair",
           "url": "https://www.curzon.com/ticketing/seats/MAY1-25692/"
@@ -228,11 +142,6 @@
           "starts_at": "2023-12-31T16:40:00+00:00",
           "site": "Curzon Mayfair",
           "url": "https://www.curzon.com/ticketing/seats/MAY1-25691/"
-        },
-        {
-          "starts_at": "2023-12-31T12:20:00+00:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-14191/"
         },
         {
           "starts_at": "2023-12-31T17:20:00+00:00",
@@ -295,52 +204,6 @@
       ]
     },
     {
-      "title": "Sweet Sue",
-      "trailer": null,
-      "synopsis": "Fifty-something Sue (Maggie O’Neill) is now back on the dating scene. She meets a mysterious biker called Ron (Tony Pitts) at her brother's funeral and sparks fly. But when she meets Ron’s social-media influencer son Anthony (Harry Trevaldwyn), Sue finds herself in an increasingly surreal battle of wills with this ambitious teenager who is convinced that his dance troupe ‘Electric Destiny’ is tipped for stardom. Will she find the purpose and imagination to bring this little unconventional family together for a chance at happiness?",
-      "runtime": 100,
-      "times": [
-        {
-          "starts_at": "2023-12-31T11:00:00+00:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-42869/"
-        },
-        {
-          "starts_at": "2023-12-31T11:30:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-21444/"
-        },
-        {
-          "starts_at": "2023-12-31T12:20:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-86747/"
-        }
-      ]
-    },
-    {
-      "title": "Priscilla",
-      "trailer": null,
-      "synopsis": "When teenage Priscilla Beaulieu meets Elvis Presley at a party, the man who is already a meteoric rock-and-roll superstar becomes someone entirely unexpected in private moments: a thrilling crush, an ally in loneliness, a vulnerable best friend. Through Priscilla’s eyes, Sofia Coppola tells the unseen side of a great American myth in Elvis and Priscilla's long courtship and turbulent marriage, from a German army base to his dream-world estate at Graceland, in this deeply felt and ravishingly detailed portrait of love, fantasy, and fame.",
-      "runtime": 113,
-      "times": [
-        {
-          "starts_at": "2023-12-31T11:20:00+00:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-42466/"
-        },
-        {
-          "starts_at": "2023-12-31T14:40:00+00:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-42868/"
-        },
-        {
-          "starts_at": "2023-12-31T17:00:00+00:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-42465/"
-        }
-      ]
-    },
-    {
       "title": "Phantom Thread",
       "trailer": "https://www.youtube.com/watch?v=UuXGDFw8qDQ",
       "synopsis": "Set in the glamour of 1950s post-war London, renowned dressmaker Reynolds Woodcock [Daniel Day-Lewis] and his sister Cyril [Lesley Manville] are at the center of British fashion, dressing royalty, movie stars, heiresses, socialites, debutants and dames with the distinct style of The House of Woodcock. Women come and go through Woodcock’s life, providing the confirmed bachelor with inspiration and companionship, until he comes across a young, strong-willed woman, Alma [Vicky Krieps], who soon becomes a fixture in his life as his muse and lover. Once controlled and planned, he finds his carefully tailored life disrupted by love.\n\nWith his latest film, Paul Thomas Anderson paints an illuminating portrait both of an artist on a creative journey, and the women who keep his world running. Phantom Thread is Paul Thomas Anderson’s eighth movie, and his second collaboration with Daniel Day-Lewis.",
@@ -354,6 +217,24 @@
       ]
     },
     {
+      "title": "Priscilla",
+      "trailer": null,
+      "synopsis": "When teenage Priscilla Beaulieu meets Elvis Presley at a party, the man who is already a meteoric rock-and-roll superstar becomes someone entirely unexpected in private moments: a thrilling crush, an ally in loneliness, a vulnerable best friend. Through Priscilla’s eyes, Sofia Coppola tells the unseen side of a great American myth in Elvis and Priscilla's long courtship and turbulent marriage, from a German army base to his dream-world estate at Graceland, in this deeply felt and ravishingly detailed portrait of love, fantasy, and fame.",
+      "runtime": 113,
+      "times": [
+        {
+          "starts_at": "2023-12-31T14:40:00+00:00",
+          "site": "Curzon Soho",
+          "url": "https://www.curzon.com/ticketing/seats/SOH1-42868/"
+        },
+        {
+          "starts_at": "2023-12-31T17:00:00+00:00",
+          "site": "Curzon Soho",
+          "url": "https://www.curzon.com/ticketing/seats/SOH1-42465/"
+        }
+      ]
+    },
+    {
       "title": "Saltburn",
       "trailer": "https://www.youtube.com/watch?v=s8l0llLj1uM",
       "synopsis": "Struggling to find his place at Oxford University, student Oliver Quick finds himself drawn into the world of the charming and aristocratic Felix Catton, who invites him to Saltburn, his eccentric family's sprawling estate, for a summer never to be forgotten.",
@@ -363,11 +244,6 @@
           "starts_at": "2023-12-31T16:40:00+00:00",
           "site": "Curzon Soho",
           "url": "https://www.curzon.com/ticketing/seats/SOH1-42870/"
-        },
-        {
-          "starts_at": "2023-12-31T11:30:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-69605/"
         },
         {
           "starts_at": "2023-12-31T17:40:00+00:00",
@@ -392,38 +268,15 @@
       ]
     },
     {
-      "title": "Chicken Run: Dawn of the Nugget",
-      "trailer": null,
-      "synopsis": "After escaping from Tweedy's farm, Ginger and all the chickens living the dream in their peaceful island sanctuary, far from the dangers of the human world.",
-      "runtime": 97,
+      "title": "Napoleon",
+      "trailer": "https://www.youtube.com/watch?v=1rJjrcKWupE",
+      "synopsis": "Napoleon is a spectacle-filled action epic that details the checkered rise and fall of the iconic French Emperor Napoleon Bonaparte, played by Oscar®-winner Joaquin Phoenix. Against a stunning backdrop of large-scale filmmaking orchestrated by legendary director Ridley Scott, the film captures Bonaparte's relentless journey to power through the prism of his addictive, volatile relationship with his one true love, Josephine, showcasing his visionary military and political tactics against some of the most dynamic practical battle sequences ever filmed.",
+      "runtime": 158,
       "times": [
         {
-          "starts_at": "2023-12-31T11:15:00+00:00",
+          "starts_at": "2023-12-31T13:45:00+00:00",
           "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-69603/"
-        },
-        {
-          "starts_at": "2023-12-31T17:30:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-69606/"
-        }
-      ]
-    },
-    {
-      "title": "Anyone But You",
-      "trailer": "https://www.youtube.com/watch?v=gbjdSlTHFts",
-      "synopsis": "In the comedy Anyone But You, Bea (Sydney Sweeney) and Ben (Glen Powell) look like the perfect couple, but after an amazing first date something happens that turns their fiery hot attraction ice cold - until they find themselves unexpectedly thrust together at a destination wedding in Australia. So they do what any two mature adults would do: pretend to be a couple.",
-      "runtime": 103,
-      "times": [
-        {
-          "starts_at": "2023-12-31T12:00:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-69607/"
-        },
-        {
-          "starts_at": "2023-12-31T18:30:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-69596/"
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-69604/"
         }
       ]
     },
@@ -444,11 +297,6 @@
           "url": "https://www.curzon.com/ticketing/seats/VIC1-69610/"
         },
         {
-          "starts_at": "2023-12-31T11:45:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-21354/"
-        },
-        {
           "starts_at": "2023-12-31T17:00:00+00:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-21357/"
@@ -462,6 +310,32 @@
           "starts_at": "2023-12-31T18:00:00+00:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-86748/"
+        }
+      ]
+    },
+    {
+      "title": "Chicken Run: Dawn of the Nugget",
+      "trailer": null,
+      "synopsis": "After escaping from Tweedy's farm, Ginger and all the chickens living the dream in their peaceful island sanctuary, far from the dangers of the human world.",
+      "runtime": 97,
+      "times": [
+        {
+          "starts_at": "2023-12-31T17:30:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-69606/"
+        }
+      ]
+    },
+    {
+      "title": "Anyone But You",
+      "trailer": "https://www.youtube.com/watch?v=gbjdSlTHFts",
+      "synopsis": "In the comedy Anyone But You, Bea (Sydney Sweeney) and Ben (Glen Powell) look like the perfect couple, but after an amazing first date something happens that turns their fiery hot attraction ice cold - until they find themselves unexpectedly thrust together at a destination wedding in Australia. So they do what any two mature adults would do: pretend to be a couple.",
+      "runtime": 103,
+      "times": [
+        {
+          "starts_at": "2023-12-31T18:30:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-69596/"
         }
       ]
     },
@@ -516,11 +390,6 @@
           "url": "https://www.curzon.com/ticketing/seats/CAM1-21355/"
         },
         {
-          "starts_at": "2023-12-31T11:40:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-86742/"
-        },
-        {
           "starts_at": "2023-12-31T14:20:00+00:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-86744/"
@@ -533,38 +402,15 @@
       ]
     },
     {
-      "title": "Anselm (2D)",
-      "trailer": "https://www.youtube.com/watch?v=TqBS8L9niGA",
-      "synopsis": "An experience like no other. Wim Wenders creates a portrait of Anselm Kiefer, one of the most innovative and important painters and sculptors of our time, shot in 3D and 6K-resolution. \n\nThe film presents a total immersion in the artist’s work and practice which explores human existence and the cyclical nature of history, inspired by literature, poetry, philosophy, science, mythology and religion. For over two years, Wenders traced Kiefer’s path from his native Germany to his current home in France, connecting the stages of his life to the essential places of his career that spans more than five decades.",
-      "runtime": 93,
+      "title": "The Boy And The Heron (Dubbed)",
+      "trailer": null,
+      "synopsis": "The English dub for Hayao Miyazaki's latest adventure features an all-star cast that includes Robert Pattinson, Florence Pugh, Christian Bale, Willem Dafoe and Mark Hamill. The film follows a young boy named Mahito, who yearns for his late mother and ventures into a world shared by the living and the dead. There, death comes to an end, and life finds a new beginning. The Boy and the Heron is a dazzling, semi-autobiographical fantasy about life, death and creation.",
+      "runtime": 124,
       "times": [
         {
-          "starts_at": "2023-12-31T12:00:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-86740/"
-        }
-      ]
-    },
-    {
-      "title": "Maestro",
-      "trailer": "https://www.youtube.com/watch?v=gJP2QblqLA0",
-      "synopsis": "Maestro is a towering and fearless love story chronicling the lifelong relationship between Leonard Bernstein and Felicia Montealegre Cohn Bernstein. A love letter to life and art, Maestro at its core is an emotionally epic portrayal of family and love.",
-      "runtime": 129,
-      "times": [
-        {
-          "starts_at": "2023-12-31T12:10:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-86734/"
-        },
-        {
-          "starts_at": "2023-12-31T15:00:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-86735/"
-        },
-        {
-          "starts_at": "2023-12-31T17:50:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-86736/"
+          "starts_at": "2023-12-31T18:00:00+00:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-21346/"
         }
       ]
     },
