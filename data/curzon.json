@@ -1,7 +1,4 @@
 {
-  "2023-12-31": [
-
-  ],
   "2024-01-01": [
     {
       "title": "The Boy And The Heron (Dubbed)",
@@ -301,6 +298,11 @@
           "starts_at": "2024-01-01T20:20:00+00:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-21455/"
+        },
+        {
+          "starts_at": "2024-01-01T20:50:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-86753/"
         }
       ]
     },
@@ -441,6 +443,16 @@
           "starts_at": "2024-01-01T17:00:00+00:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-21459/"
+        },
+        {
+          "starts_at": "2024-01-01T14:50:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-86761/"
+        },
+        {
+          "starts_at": "2024-01-01T20:20:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-86762/"
         }
       ]
     },
@@ -568,6 +580,19 @@
           "starts_at": "2024-01-01T19:00:00+00:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-86227/"
+        }
+      ]
+    },
+    {
+      "title": "Maestro",
+      "trailer": "https://www.youtube.com/watch?v=gJP2QblqLA0",
+      "synopsis": "Maestro is a towering and fearless love story chronicling the lifelong relationship between Leonard Bernstein and Felicia Montealegre Cohn Bernstein. A love letter to life and art, Maestro at its core is an emotionally epic portrayal of family and love.",
+      "runtime": 129,
+      "times": [
+        {
+          "starts_at": "2024-01-01T20:50:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-86760/"
         }
       ]
     }
@@ -2881,6 +2906,21 @@
           "starts_at": "2024-01-07T18:00:00+00:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-86861/"
+        }
+      ]
+    }
+  ],
+  "2024-01-08": [
+    {
+      "title": "DocHouse: Scala!!!",
+      "trailer": null,
+      "synopsis": "In Britain’s post-punk Thatcher years, the infamous and legendary Scala cinema showed a diverse range of films, from high art to cult classics, sexploitation, horror, Kung-Fu and LGBTQIA+. Nudging boundaries of convention, it became an inspiration for future famous creatives.\r\n\r\nWith interviews from nearly 50 contributors, previously unseen archive footage and film clips, Scala!!! is an anarchic, uproarious documentary telling the riotous inside story, with an original soundtrack by celebrated musician Barry Adamson.\r\n\r\nTranscending nostalgia, Scala!!! is a universal testament to the power of cinemas, providing refuge and community for outsiders. A place where everyone is welcome.",
+      "runtime": 96,
+      "times": [
+        {
+          "starts_at": "2024-01-08T15:00:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-86862/"
         }
       ]
     }
