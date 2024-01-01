@@ -73,21 +73,6 @@
           "url": "https://www.curzon.com/ticketing/seats/ALD1-46052/"
         },
         {
-          "starts_at": "2024-01-01T15:45:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-69619/"
-        },
-        {
-          "starts_at": "2024-01-01T18:15:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-69620/"
-        },
-        {
-          "starts_at": "2024-01-01T21:15:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-69621/"
-        },
-        {
           "starts_at": "2024-01-01T14:40:00+00:00",
           "site": "Curzon Mayfair",
           "url": "https://www.curzon.com/ticketing/seats/MAY1-25697/"
@@ -280,11 +265,6 @@
           "url": "https://www.curzon.com/ticketing/seats/SOH1-42876/"
         },
         {
-          "starts_at": "2024-01-01T13:45:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-69624/"
-        },
-        {
           "starts_at": "2024-01-01T17:20:00+00:00",
           "site": "Curzon Hoxton",
           "url": "https://www.curzon.com/ticketing/seats/HOX1-14194/"
@@ -406,57 +386,6 @@
       ]
     },
     {
-      "title": "Chicken Run: Dawn of the Nugget",
-      "trailer": null,
-      "synopsis": "After escaping from Tweedy's farm, Ginger and all the chickens living the dream in their peaceful island sanctuary, far from the dangers of the human world.",
-      "runtime": 97,
-      "times": [
-        {
-          "starts_at": "2024-01-01T13:15:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-69623/"
-        },
-        {
-          "starts_at": "2024-01-01T17:30:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-69614/"
-        }
-      ]
-    },
-    {
-      "title": "Society of the Snow",
-      "trailer": null,
-      "synopsis": "The flight of a rugby team crashes on a glacier in the Andes, few passengers who survived the crash, find themselves in one of the world's toughest environments to survive.",
-      "runtime": 143,
-      "times": [
-        {
-          "starts_at": "2024-01-01T14:00:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-69622/"
-        },
-        {
-          "starts_at": "2024-01-01T20:00:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-69615/"
-        },
-        {
-          "starts_at": "2024-01-01T17:00:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-21459/"
-        },
-        {
-          "starts_at": "2024-01-01T14:50:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-86761/"
-        },
-        {
-          "starts_at": "2024-01-01T20:20:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-86762/"
-        }
-      ]
-    },
-    {
       "title": "Bridget Jones's Diary",
       "trailer": null,
       "synopsis": "A British woman is determined to improve herself while she looks for love in a year in which she keeps a personal diary.",
@@ -479,6 +408,34 @@
           "starts_at": "2024-01-01T16:45:00+00:00",
           "site": "Curzon Victoria",
           "url": "https://www.curzon.com/ticketing/seats/VIC1-69625/"
+        }
+      ]
+    },
+    {
+      "title": "Society of the Snow",
+      "trailer": null,
+      "synopsis": "The flight of a rugby team crashes on a glacier in the Andes, few passengers who survived the crash, find themselves in one of the world's toughest environments to survive.",
+      "runtime": 143,
+      "times": [
+        {
+          "starts_at": "2024-01-01T20:00:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-69615/"
+        },
+        {
+          "starts_at": "2024-01-01T17:00:00+00:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-21459/"
+        },
+        {
+          "starts_at": "2024-01-01T14:50:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-86761/"
+        },
+        {
+          "starts_at": "2024-01-01T20:20:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-86762/"
         }
       ]
     },
