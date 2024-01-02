@@ -1,127 +1,4 @@
 {
-  "2024-01-01": [
-    {
-      "title": "Wonka",
-      "trailer": "https://www.youtube.com/watch?v=qhzNQ9vaJqE",
-      "synopsis": "The Story will focus on a young Willy Wonka and his adventures prior to opening the world’s most famous chocolate factory.",
-      "runtime": 116,
-      "times": [
-        {
-          "starts_at": "2024-01-01T20:40:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-46052/"
-        },
-        {
-          "starts_at": "2024-01-01T21:15:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-69621/"
-        }
-      ]
-    },
-    {
-      "title": "Next Goal Wins",
-      "trailer": "https://www.youtube.com/watch?v=HyES3QA2mH8",
-      "synopsis": "Next Goal Wins tells the story of the American Samoa soccer team, who suffered the worst loss in World Cup history, losing to Australia 31-0 in 2001. With the 2014 World Cup approaching, the team recruits a down on his luck, maverick coach (Fassbender) to help turn their fate around.",
-      "runtime": 104,
-      "times": [
-        {
-          "starts_at": "2024-01-01T21:00:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-45976/"
-        },
-        {
-          "starts_at": "2024-01-01T21:20:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-21451/"
-        }
-      ]
-    },
-    {
-      "title": "Priscilla",
-      "trailer": null,
-      "synopsis": "When teenage Priscilla Beaulieu meets Elvis Presley at a party, the man who is already a meteoric rock-and-roll superstar becomes someone entirely unexpected in private moments: a thrilling crush, an ally in loneliness, a vulnerable best friend. Through Priscilla’s eyes, Sofia Coppola tells the unseen side of a great American myth in Elvis and Priscilla's long courtship and turbulent marriage, from a German army base to his dream-world estate at Graceland, in this deeply felt and ravishingly detailed portrait of love, fantasy, and fame.",
-      "runtime": 113,
-      "times": [
-        {
-          "starts_at": "2024-01-01T20:40:00+00:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-42467/"
-        },
-        {
-          "starts_at": "2024-01-01T20:40:00+00:00",
-          "site": "Curzon Mayfair",
-          "url": "https://www.curzon.com/ticketing/seats/MAY1-25695/"
-        },
-        {
-          "starts_at": "2024-01-01T20:40:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-21453/"
-        },
-        {
-          "starts_at": "2024-01-01T21:00:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-86858/"
-        }
-      ]
-    },
-    {
-      "title": "Ferrari",
-      "trailer": "https://www.youtube.com/watch?v=ERIBTIlVVJQ",
-      "synopsis": "It is the summer of 1957. Behind the spectacle of Formula 1, ex-racer Enzo Ferrari is in crisis. Bankruptcy threatens the factory he and his wife, Laura built from nothing ten years earlier. Their volatile marriage has been battered by the loss of their son, Dino a year earlier. Ferrari struggles to acknowledge his son Piero with Lina Lardi. Meanwhile, his drivers’ passion to win pushes them to the edge as they launch into the treacherous 1,000-mile race across Italy, the Mille Miglia.",
-      "runtime": 130,
-      "times": [
-        {
-          "starts_at": "2024-01-01T20:30:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-69613/"
-        }
-      ]
-    },
-    {
-      "title": "Aquaman and the Lost Kingdom",
-      "trailer": "https://www.youtube.com/watch?v=SU4Nr0OsYG0",
-      "synopsis": "When an ancient power is unleashed, Aquaman must forge an uneasy alliance with an unlikely ally to protect Atlantis, and the world, from irreversible devastation.",
-      "runtime": 124,
-      "times": [
-        {
-          "starts_at": "2024-01-01T21:00:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-69617/"
-        }
-      ]
-    },
-    {
-      "title": "The Boy And The Heron (Subtitled)",
-      "trailer": null,
-      "synopsis": "A young boy named Mahito yearning for his mother ventures into a world shared by the living and the dead. There death comes to an end, and life finds a new beginning. A semi-autobiographical fantasy about life, death and creation, in tribute to friendship from the mind of Hayao Miyazaki.",
-      "runtime": 124,
-      "times": [
-        {
-          "starts_at": "2024-01-01T21:00:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-21452/"
-        },
-        {
-          "starts_at": "2024-01-01T20:30:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-86855/"
-        }
-      ]
-    },
-    {
-      "title": "Maestro",
-      "trailer": "https://www.youtube.com/watch?v=gJP2QblqLA0",
-      "synopsis": "Maestro is a towering and fearless love story chronicling the lifelong relationship between Leonard Bernstein and Felicia Montealegre Cohn Bernstein. A love letter to life and art, Maestro at its core is an emotionally epic portrayal of family and love.",
-      "runtime": 129,
-      "times": [
-        {
-          "starts_at": "2024-01-01T20:50:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-86760/"
-        }
-      ]
-    }
-  ],
   "2024-01-02": [
     {
       "title": "Wonka",
@@ -2456,6 +2333,21 @@
           "starts_at": "2024-01-08T15:00:00+00:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-86862/"
+        }
+      ]
+    }
+  ],
+  "2024-01-09": [
+    {
+      "title": "DocHouse: Scala!!!",
+      "trailer": null,
+      "synopsis": "In Britain’s post-punk Thatcher years, the infamous and legendary Scala cinema showed a diverse range of films, from high art to cult classics, sexploitation, horror, Kung-Fu and LGBTQIA+. Nudging boundaries of convention, it became an inspiration for future famous creatives.\r\n\r\nWith interviews from nearly 50 contributors, previously unseen archive footage and film clips, Scala!!! is an anarchic, uproarious documentary telling the riotous inside story, with an original soundtrack by celebrated musician Barry Adamson.\r\n\r\nTranscending nostalgia, Scala!!! is a universal testament to the power of cinemas, providing refuge and community for outsiders. A place where everyone is welcome.",
+      "runtime": 96,
+      "times": [
+        {
+          "starts_at": "2024-01-09T18:20:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-86863/"
         }
       ]
     }
