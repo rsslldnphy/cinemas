@@ -1,16 +1,39 @@
 {
   "2024-01-02": [
     {
+      "title": "Next Goal Wins",
+      "trailer": "https://www.youtube.com/watch?v=HyES3QA2mH8",
+      "synopsis": "Next Goal Wins tells the story of the American Samoa soccer team, who suffered the worst loss in World Cup history, losing to Australia 31-0 in 2001. With the 2014 World Cup approaching, the team recruits a down on his luck, maverick coach (Fassbender) to help turn their fate around.",
+      "runtime": 104,
+      "times": [
+        {
+          "starts_at": "2024-01-02T15:40:00+00:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-45988/"
+        },
+        {
+          "starts_at": "2024-01-02T21:00:00+00:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-45997/"
+        },
+        {
+          "starts_at": "2024-01-02T16:10:00+00:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-21424/"
+        },
+        {
+          "starts_at": "2024-01-02T21:20:00+00:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-21425/"
+        }
+      ]
+    },
+    {
       "title": "Ferrari",
       "trailer": "https://www.youtube.com/watch?v=ERIBTIlVVJQ",
       "synopsis": "It is the summer of 1957. Behind the spectacle of Formula 1, ex-racer Enzo Ferrari is in crisis. Bankruptcy threatens the factory he and his wife, Laura built from nothing ten years earlier. Their volatile marriage has been battered by the loss of their son, Dino a year earlier. Ferrari struggles to acknowledge his son Piero with Lina Lardi. Meanwhile, his drivers’ passion to win pushes them to the edge as they launch into the treacherous 1,000-mile race across Italy, the Mille Miglia.",
       "runtime": 130,
       "times": [
-        {
-          "starts_at": "2024-01-02T14:00:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-46040/"
-        },
         {
           "starts_at": "2024-01-02T17:00:00+00:00",
           "site": "Curzon Aldgate",
@@ -22,19 +45,9 @@
           "url": "https://www.curzon.com/ticketing/seats/ALD1-45999/"
         },
         {
-          "starts_at": "2024-01-02T14:40:00+00:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-42882/"
-        },
-        {
           "starts_at": "2024-01-02T20:40:00+00:00",
           "site": "Curzon Soho",
           "url": "https://www.curzon.com/ticketing/seats/SOH1-42885/"
-        },
-        {
-          "starts_at": "2024-01-02T12:30:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-69631/"
         },
         {
           "starts_at": "2024-01-02T17:45:00+00:00",
@@ -67,11 +80,6 @@
           "url": "https://www.curzon.com/ticketing/seats/HOX1-14209/"
         },
         {
-          "starts_at": "2024-01-02T14:50:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-21419/"
-        },
-        {
           "starts_at": "2024-01-02T18:30:00+00:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-21420/"
@@ -84,16 +92,44 @@
       ]
     },
     {
+      "title": "Wonka",
+      "trailer": "https://www.youtube.com/watch?v=qhzNQ9vaJqE",
+      "synopsis": "The Story will focus on a young Willy Wonka and his adventures prior to opening the world’s most famous chocolate factory.",
+      "runtime": 116,
+      "times": [
+        {
+          "starts_at": "2024-01-02T17:20:00+00:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-46003/"
+        },
+        {
+          "starts_at": "2024-01-02T20:40:00+00:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-46053/"
+        },
+        {
+          "starts_at": "2024-01-02T18:00:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-69629/"
+        },
+        {
+          "starts_at": "2024-01-02T21:15:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-69630/"
+        },
+        {
+          "starts_at": "2024-01-02T17:20:00+00:00",
+          "site": "Curzon Hoxton",
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-14206/"
+        }
+      ]
+    },
+    {
       "title": "Aquaman and the Lost Kingdom",
       "trailer": "https://www.youtube.com/watch?v=SU4Nr0OsYG0",
       "synopsis": "When an ancient power is unleashed, Aquaman must forge an uneasy alliance with an unlikely ally to protect Atlantis, and the world, from irreversible devastation.",
       "runtime": 124,
       "times": [
-        {
-          "starts_at": "2024-01-02T14:20:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-45990/"
-        },
         {
           "starts_at": "2024-01-02T17:40:00+00:00",
           "site": "Curzon Aldgate",
@@ -108,87 +144,6 @@
           "starts_at": "2024-01-02T21:00:00+00:00",
           "site": "Curzon Victoria",
           "url": "https://www.curzon.com/ticketing/seats/VIC1-69642/"
-        }
-      ]
-    },
-    {
-      "title": "Wonka",
-      "trailer": "https://www.youtube.com/watch?v=qhzNQ9vaJqE",
-      "synopsis": "The Story will focus on a young Willy Wonka and his adventures prior to opening the world’s most famous chocolate factory.",
-      "runtime": 116,
-      "times": [
-        {
-          "starts_at": "2024-01-02T15:00:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-45989/"
-        },
-        {
-          "starts_at": "2024-01-02T17:20:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-46003/"
-        },
-        {
-          "starts_at": "2024-01-02T20:40:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-46053/"
-        },
-        {
-          "starts_at": "2024-01-02T14:00:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-69628/"
-        },
-        {
-          "starts_at": "2024-01-02T18:00:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-69629/"
-        },
-        {
-          "starts_at": "2024-01-02T21:15:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-69630/"
-        },
-        {
-          "starts_at": "2024-01-02T14:40:00+00:00",
-          "site": "Curzon Mayfair",
-          "url": "https://www.curzon.com/ticketing/seats/MAY1-25707/"
-        },
-        {
-          "starts_at": "2024-01-02T14:20:00+00:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-14208/"
-        },
-        {
-          "starts_at": "2024-01-02T17:20:00+00:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-14206/"
-        }
-      ]
-    },
-    {
-      "title": "Next Goal Wins",
-      "trailer": "https://www.youtube.com/watch?v=HyES3QA2mH8",
-      "synopsis": "Next Goal Wins tells the story of the American Samoa soccer team, who suffered the worst loss in World Cup history, losing to Australia 31-0 in 2001. With the 2014 World Cup approaching, the team recruits a down on his luck, maverick coach (Fassbender) to help turn their fate around.",
-      "runtime": 104,
-      "times": [
-        {
-          "starts_at": "2024-01-02T15:40:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-45988/"
-        },
-        {
-          "starts_at": "2024-01-02T21:00:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-45997/"
-        },
-        {
-          "starts_at": "2024-01-02T16:10:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-21424/"
-        },
-        {
-          "starts_at": "2024-01-02T21:20:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-21425/"
         }
       ]
     },
@@ -219,29 +174,14 @@
           "url": "https://www.curzon.com/ticketing/seats/SOH1-42933/"
         },
         {
-          "starts_at": "2024-01-02T15:00:00+00:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-14212/"
-        },
-        {
           "starts_at": "2024-01-02T20:40:00+00:00",
           "site": "Curzon Hoxton",
           "url": "https://www.curzon.com/ticketing/seats/HOX1-14210/"
         },
         {
-          "starts_at": "2024-01-02T15:10:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-21426/"
-        },
-        {
           "starts_at": "2024-01-02T21:00:00+00:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-21427/"
-        },
-        {
-          "starts_at": "2024-01-02T14:20:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-86840/"
         },
         {
           "starts_at": "2024-01-02T17:50:00+00:00",
@@ -262,11 +202,6 @@
       "runtime": 113,
       "times": [
         {
-          "starts_at": "2024-01-02T13:00:00+00:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-42473/"
-        },
-        {
           "starts_at": "2024-01-02T15:40:00+00:00",
           "site": "Curzon Soho",
           "url": "https://www.curzon.com/ticketing/seats/SOH1-42470/"
@@ -282,19 +217,9 @@
           "url": "https://www.curzon.com/ticketing/seats/SOH1-42472/"
         },
         {
-          "starts_at": "2024-01-02T14:45:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-69644/"
-        },
-        {
           "starts_at": "2024-01-02T20:30:00+00:00",
           "site": "Curzon Victoria",
           "url": "https://www.curzon.com/ticketing/seats/VIC1-69645/"
-        },
-        {
-          "starts_at": "2024-01-02T15:15:00+00:00",
-          "site": "Curzon Mayfair",
-          "url": "https://www.curzon.com/ticketing/seats/MAY1-25701/"
         },
         {
           "starts_at": "2024-01-02T20:40:00+00:00",
@@ -302,34 +227,14 @@
           "url": "https://www.curzon.com/ticketing/seats/MAY1-25704/"
         },
         {
-          "starts_at": "2024-01-02T14:40:00+00:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-14214/"
-        },
-        {
           "starts_at": "2024-01-02T21:00:00+00:00",
           "site": "Curzon Hoxton",
           "url": "https://www.curzon.com/ticketing/seats/HOX1-14204/"
         },
         {
-          "starts_at": "2024-01-02T14:30:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-21437/"
-        },
-        {
           "starts_at": "2024-01-02T20:40:00+00:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-21436/"
-        },
-        {
-          "starts_at": "2024-01-02T12:30:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-86838/"
-        },
-        {
-          "starts_at": "2024-01-02T15:10:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-86834/"
         },
         {
           "starts_at": "2024-01-02T18:10:00+00:00",
@@ -350,11 +255,6 @@
       "runtime": 131,
       "times": [
         {
-          "starts_at": "2024-01-02T14:30:00+00:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-42931/"
-        },
-        {
           "starts_at": "2024-01-02T17:30:00+00:00",
           "site": "Curzon Soho",
           "url": "https://www.curzon.com/ticketing/seats/SOH1-42932/"
@@ -363,11 +263,6 @@
           "starts_at": "2024-01-02T17:40:00+00:00",
           "site": "Curzon Hoxton",
           "url": "https://www.curzon.com/ticketing/seats/HOX1-14211/"
-        },
-        {
-          "starts_at": "2024-01-02T14:10:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-21430/"
         },
         {
           "starts_at": "2024-01-02T20:20:00+00:00",
@@ -382,11 +277,6 @@
       "synopsis": "Napoleon is a spectacle-filled action epic that details the checkered rise and fall of the iconic French Emperor Napoleon Bonaparte, played by Oscar®-winner Joaquin Phoenix. Against a stunning backdrop of large-scale filmmaking orchestrated by legendary director Ridley Scott, the film captures Bonaparte's relentless journey to power through the prism of his addictive, volatile relationship with his one true love, Josephine, showcasing his visionary military and political tactics against some of the most dynamic practical battle sequences ever filmed.",
       "runtime": 158,
       "times": [
-        {
-          "starts_at": "2024-01-02T14:30:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-69695/"
-        },
         {
           "starts_at": "2024-01-02T17:00:00+00:00",
           "site": "Curzon Victoria",
@@ -421,25 +311,20 @@
       ]
     },
     {
-      "title": "Sweet Sue",
+      "title": "Society of the Snow",
       "trailer": null,
-      "synopsis": "Fifty-something Sue (Maggie O’Neill) is now back on the dating scene. She meets a mysterious biker called Ron (Tony Pitts) at her brother's funeral and sparks fly. But when she meets Ron’s social-media influencer son Anthony (Harry Trevaldwyn), Sue finds herself in an increasingly surreal battle of wills with this ambitious teenager who is convinced that his dance troupe ‘Electric Destiny’ is tipped for stardom. Will she find the purpose and imagination to bring this little unconventional family together for a chance at happiness?",
-      "runtime": 100,
+      "synopsis": "The flight of a rugby team crashes on a glacier in the Andes, few passengers who survived the crash, find themselves in one of the world's toughest environments to survive.",
+      "runtime": 143,
       "times": [
         {
-          "starts_at": "2024-01-02T12:45:00+00:00",
+          "starts_at": "2024-01-02T17:00:00+00:00",
           "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-21462/"
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-21422/"
         },
         {
-          "starts_at": "2024-01-02T17:40:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-21463/"
-        },
-        {
-          "starts_at": "2024-01-02T17:30:00+00:00",
+          "starts_at": "2024-01-02T20:10:00+00:00",
           "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-86833/"
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-86846/"
         }
       ]
     },
@@ -449,11 +334,6 @@
       "synopsis": "When her husband Samuel is mysteriously found dead in the snow below their secluded chalet, Sandra becomes the main suspect when the police begin to question whether he fell or was pushed. The trial soon becomes not just an investigation, but a gripping psychological journey into the depths of Sandra and Samuel's complicated marriage. With conflicting evidence and inconsistent testimony, words are wielded like weapons and shocking truths come to light in this thrilling Palme d’Or winner.",
       "runtime": 152,
       "times": [
-        {
-          "starts_at": "2024-01-02T13:00:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-21434/"
-        },
         {
           "starts_at": "2024-01-02T17:20:00+00:00",
           "site": "Curzon Camden",
@@ -467,25 +347,20 @@
       ]
     },
     {
-      "title": "Society of the Snow",
+      "title": "Sweet Sue",
       "trailer": null,
-      "synopsis": "The flight of a rugby team crashes on a glacier in the Andes, few passengers who survived the crash, find themselves in one of the world's toughest environments to survive.",
-      "runtime": 143,
+      "synopsis": "Fifty-something Sue (Maggie O’Neill) is now back on the dating scene. She meets a mysterious biker called Ron (Tony Pitts) at her brother's funeral and sparks fly. But when she meets Ron’s social-media influencer son Anthony (Harry Trevaldwyn), Sue finds herself in an increasingly surreal battle of wills with this ambitious teenager who is convinced that his dance troupe ‘Electric Destiny’ is tipped for stardom. Will she find the purpose and imagination to bring this little unconventional family together for a chance at happiness?",
+      "runtime": 100,
       "times": [
         {
-          "starts_at": "2024-01-02T17:00:00+00:00",
+          "starts_at": "2024-01-02T17:40:00+00:00",
           "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-21422/"
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-21463/"
         },
         {
-          "starts_at": "2024-01-02T14:50:00+00:00",
+          "starts_at": "2024-01-02T17:30:00+00:00",
           "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-86835/"
-        },
-        {
-          "starts_at": "2024-01-02T20:10:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-86846/"
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-86833/"
         }
       ]
     },
@@ -499,19 +374,6 @@
           "starts_at": "2024-01-02T18:00:00+00:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-21428/"
-        }
-      ]
-    },
-    {
-      "title": "DocHouse: While We Watched",
-      "trailer": null,
-      "synopsis": "A gripping newsroom drama, following broadcast journalist Ravish Kumar as he fearlessly tackles misinformation and incompetent governance in India. Kumar and his team at NDTV fight tirelessly to report on the stories overlooked by pro-government mainstream media. However, this is no easy feat as, increasingly, many sensationalise criticism of the Modi government as treason. With fervent nationalism on the rise, dissidents are labelled as enemies of India, with their lives and livelihoods viciously attacked. With budget cuts, mass resignations and mounting death threats, can Kumar persevere in the face of adversity? While We Watched is a riveting tale of truth, courage and journalistic integrity. Kumar’s unyielding spirit is captured brilliantly, and we watch as he faces seemingly unending challenges. With factual reporting in international crisis, director Vinay Shukla trains his lens on a beleaguered lone voice, providing us with hope that there are still determined forces dedicated to speaking truth to power.\"",
-      "runtime": 95,
-      "times": [
-        {
-          "starts_at": "2024-01-02T15:00:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-86228/"
         }
       ]
     },
@@ -1063,11 +925,6 @@
           "starts_at": "2024-01-03T14:30:00+00:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-86798/"
-        },
-        {
-          "starts_at": "2024-01-03T20:50:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-86799/"
         }
       ]
     },
