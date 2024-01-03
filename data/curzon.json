@@ -1,77 +1,6 @@
 {
   "2024-01-03": [
     {
-      "title": "The Boy And The Heron (Subtitled)",
-      "trailer": null,
-      "synopsis": "A young boy named Mahito yearning for his mother ventures into a world shared by the living and the dead. There death comes to an end, and life finds a new beginning. A semi-autobiographical fantasy about life, death and creation, in tribute to friendship from the mind of Hayao Miyazaki.",
-      "runtime": 124,
-      "times": [
-        {
-          "starts_at": "2024-01-03T20:00:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-46017/"
-        },
-        {
-          "starts_at": "2024-01-03T20:50:00+00:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-42905/"
-        },
-        {
-          "starts_at": "2024-01-03T20:40:00+00:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-14222/"
-        },
-        {
-          "starts_at": "2024-01-03T21:00:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-21480/"
-        },
-        {
-          "starts_at": "2024-01-03T20:30:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-86854/"
-        }
-      ]
-    },
-    {
-      "title": "Ferrari",
-      "trailer": "https://www.youtube.com/watch?v=ERIBTIlVVJQ",
-      "synopsis": "It is the summer of 1957. Behind the spectacle of Formula 1, ex-racer Enzo Ferrari is in crisis. Bankruptcy threatens the factory he and his wife, Laura built from nothing ten years earlier. Their volatile marriage has been battered by the loss of their son, Dino a year earlier. Ferrari struggles to acknowledge his son Piero with Lina Lardi. Meanwhile, his drivers’ passion to win pushes them to the edge as they launch into the treacherous 1,000-mile race across Italy, the Mille Miglia.",
-      "runtime": 130,
-      "times": [
-        {
-          "starts_at": "2024-01-03T20:20:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-46016/"
-        },
-        {
-          "starts_at": "2024-01-03T20:45:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-69649/"
-        },
-        {
-          "starts_at": "2024-01-03T20:20:00+00:00",
-          "site": "Curzon Mayfair",
-          "url": "https://www.curzon.com/ticketing/seats/MAY1-25728/"
-        },
-        {
-          "starts_at": "2024-01-03T20:20:00+00:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-14223/"
-        },
-        {
-          "starts_at": "2024-01-03T18:30:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-21473/"
-        },
-        {
-          "starts_at": "2024-01-03T20:00:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-21470/"
-        }
-      ]
-    },
-    {
       "title": "Wonka",
       "trailer": "https://www.youtube.com/watch?v=qhzNQ9vaJqE",
       "synopsis": "The Story will focus on a young Willy Wonka and his adventures prior to opening the world’s most famous chocolate factory.",
@@ -119,14 +48,37 @@
           "url": "https://www.curzon.com/ticketing/seats/SOH1-42929/"
         },
         {
-          "starts_at": "2024-01-03T20:20:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-21471/"
-        },
-        {
           "starts_at": "2024-01-03T20:50:00+00:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-86799/"
+        }
+      ]
+    },
+    {
+      "title": "The Boy And The Heron (Subtitled)",
+      "trailer": null,
+      "synopsis": "A young boy named Mahito yearning for his mother ventures into a world shared by the living and the dead. There death comes to an end, and life finds a new beginning. A semi-autobiographical fantasy about life, death and creation, in tribute to friendship from the mind of Hayao Miyazaki.",
+      "runtime": 124,
+      "times": [
+        {
+          "starts_at": "2024-01-03T20:50:00+00:00",
+          "site": "Curzon Soho",
+          "url": "https://www.curzon.com/ticketing/seats/SOH1-42905/"
+        },
+        {
+          "starts_at": "2024-01-03T20:40:00+00:00",
+          "site": "Curzon Hoxton",
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-14222/"
+        },
+        {
+          "starts_at": "2024-01-03T21:00:00+00:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-21480/"
+        },
+        {
+          "starts_at": "2024-01-03T20:30:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-86854/"
         }
       ]
     },
@@ -169,33 +121,15 @@
       ]
     },
     {
-      "title": "Anyone But You",
-      "trailer": "https://www.youtube.com/watch?v=gbjdSlTHFts",
-      "synopsis": "In the comedy Anyone But You, Bea (Sydney Sweeney) and Ben (Glen Powell) look like the perfect couple, but after an amazing first date something happens that turns their fiery hot attraction ice cold - until they find themselves unexpectedly thrust together at a destination wedding in Australia. So they do what any two mature adults would do: pretend to be a couple.",
-      "runtime": 103,
+      "title": "Ferrari",
+      "trailer": "https://www.youtube.com/watch?v=ERIBTIlVVJQ",
+      "synopsis": "It is the summer of 1957. Behind the spectacle of Formula 1, ex-racer Enzo Ferrari is in crisis. Bankruptcy threatens the factory he and his wife, Laura built from nothing ten years earlier. Their volatile marriage has been battered by the loss of their son, Dino a year earlier. Ferrari struggles to acknowledge his son Piero with Lina Lardi. Meanwhile, his drivers’ passion to win pushes them to the edge as they launch into the treacherous 1,000-mile race across Italy, the Mille Miglia.",
+      "runtime": 130,
       "times": [
         {
-          "starts_at": "2024-01-03T18:30:00+00:00",
+          "starts_at": "2024-01-03T20:45:00+00:00",
           "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-69655/"
-        }
-      ]
-    },
-    {
-      "title": "Society of the Snow",
-      "trailer": null,
-      "synopsis": "The flight of a rugby team crashes on a glacier in the Andes, few passengers who survived the crash, find themselves in one of the world's toughest environments to survive.",
-      "runtime": 143,
-      "times": [
-        {
-          "starts_at": "2024-01-03T20:00:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-69663/"
-        },
-        {
-          "starts_at": "2024-01-03T20:10:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-86795/"
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-69649/"
         }
       ]
     },
@@ -209,32 +143,6 @@
           "starts_at": "2024-01-03T21:00:00+00:00",
           "site": "Curzon Victoria",
           "url": "https://www.curzon.com/ticketing/seats/VIC1-69660/"
-        }
-      ]
-    },
-    {
-      "title": "DocHouse: Smoke Sauna Sisterhood",
-      "trailer": null,
-      "synopsis": "In the warm, dense heat of a Southern Estonian smoke sauna, a group of women share their innermost secrets and intimate experiences. The rituals of the sauna envelop them, as they wash away the shame trapped in their bodies.\r\n\r\nFilmmaker Anna Hints captures this intimate space up close, without any sense of intrusion. In the dark, enclosed space, her camera - richly lit with beams of golden daylight - frames bodies and faces in chiaroscuro, while the women give voice to their past experiences: sharing, accepting, finding laughter and solace, regaining their strength through a sense of communion.\r\n\r\nWatching Smoke Sauna Sisterhood is a transformative experience for the viewer too, brought into a corporeal world of emotional veracity and deep empathy.",
-      "runtime": 89,
-      "times": [
-        {
-          "starts_at": "2024-01-03T20:20:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-86233/"
-        }
-      ]
-    },
-    {
-      "title": "Maestro",
-      "trailer": "https://www.youtube.com/watch?v=gJP2QblqLA0",
-      "synopsis": "Maestro is a towering and fearless love story chronicling the lifelong relationship between Leonard Bernstein and Felicia Montealegre Cohn Bernstein. A love letter to life and art, Maestro at its core is an emotionally epic portrayal of family and love.",
-      "runtime": 129,
-      "times": [
-        {
-          "starts_at": "2024-01-03T20:40:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-86788/"
         }
       ]
     }
