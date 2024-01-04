@@ -1,82 +1,6 @@
 {
   "2024-01-04": [
     {
-      "title": "The Boy And The Heron (Subtitled)",
-      "trailer": null,
-      "synopsis": "A young boy named Mahito yearning for his mother ventures into a world shared by the living and the dead. There death comes to an end, and life finds a new beginning. A semi-autobiographical fantasy about life, death and creation, in tribute to friendship from the mind of Hayao Miyazaki.",
-      "runtime": 124,
-      "times": [
-        {
-          "starts_at": "2024-01-04T20:00:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-46034/"
-        },
-        {
-          "starts_at": "2024-01-04T20:30:00+00:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-42926/"
-        },
-        {
-          "starts_at": "2024-01-04T20:40:00+00:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-14234/"
-        },
-        {
-          "starts_at": "2024-01-04T21:00:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-21500/"
-        },
-        {
-          "starts_at": "2024-01-04T20:30:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-86804/"
-        }
-      ]
-    },
-    {
-      "title": "Ferrari",
-      "trailer": "https://www.youtube.com/watch?v=ERIBTIlVVJQ",
-      "synopsis": "It is the summer of 1957. Behind the spectacle of Formula 1, ex-racer Enzo Ferrari is in crisis. Bankruptcy threatens the factory he and his wife, Laura built from nothing ten years earlier. Their volatile marriage has been battered by the loss of their son, Dino a year earlier. Ferrari struggles to acknowledge his son Piero with Lina Lardi. Meanwhile, his drivers’ passion to win pushes them to the edge as they launch into the treacherous 1,000-mile race across Italy, the Mille Miglia.",
-      "runtime": 130,
-      "times": [
-        {
-          "starts_at": "2024-01-04T20:20:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-46033/"
-        },
-        {
-          "starts_at": "2024-01-04T20:40:00+00:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-42894/"
-        },
-        {
-          "starts_at": "2024-01-04T20:45:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-69669/"
-        },
-        {
-          "starts_at": "2024-01-04T20:20:00+00:00",
-          "site": "Curzon Mayfair",
-          "url": "https://www.curzon.com/ticketing/seats/MAY1-25737/"
-        },
-        {
-          "starts_at": "2024-01-04T21:10:00+00:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-14235/"
-        },
-        {
-          "starts_at": "2024-01-04T18:30:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-21493/"
-        },
-        {
-          "starts_at": "2024-01-04T20:00:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-21490/"
-        }
-      ]
-    },
-    {
       "title": "Wonka",
       "trailer": "https://www.youtube.com/watch?v=qhzNQ9vaJqE",
       "synopsis": "The Story will focus on a young Willy Wonka and his adventures prior to opening the world’s most famous chocolate factory.",
@@ -109,6 +33,57 @@
           "starts_at": "2024-01-04T21:20:00+00:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-21499/"
+        }
+      ]
+    },
+    {
+      "title": "The Boy And The Heron (Subtitled)",
+      "trailer": null,
+      "synopsis": "A young boy named Mahito yearning for his mother ventures into a world shared by the living and the dead. There death comes to an end, and life finds a new beginning. A semi-autobiographical fantasy about life, death and creation, in tribute to friendship from the mind of Hayao Miyazaki.",
+      "runtime": 124,
+      "times": [
+        {
+          "starts_at": "2024-01-04T20:30:00+00:00",
+          "site": "Curzon Soho",
+          "url": "https://www.curzon.com/ticketing/seats/SOH1-42926/"
+        },
+        {
+          "starts_at": "2024-01-04T20:40:00+00:00",
+          "site": "Curzon Hoxton",
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-14234/"
+        },
+        {
+          "starts_at": "2024-01-04T21:00:00+00:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-21500/"
+        },
+        {
+          "starts_at": "2024-01-04T20:30:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-86804/"
+        }
+      ]
+    },
+    {
+      "title": "Ferrari",
+      "trailer": "https://www.youtube.com/watch?v=ERIBTIlVVJQ",
+      "synopsis": "It is the summer of 1957. Behind the spectacle of Formula 1, ex-racer Enzo Ferrari is in crisis. Bankruptcy threatens the factory he and his wife, Laura built from nothing ten years earlier. Their volatile marriage has been battered by the loss of their son, Dino a year earlier. Ferrari struggles to acknowledge his son Piero with Lina Lardi. Meanwhile, his drivers’ passion to win pushes them to the edge as they launch into the treacherous 1,000-mile race across Italy, the Mille Miglia.",
+      "runtime": 130,
+      "times": [
+        {
+          "starts_at": "2024-01-04T20:40:00+00:00",
+          "site": "Curzon Soho",
+          "url": "https://www.curzon.com/ticketing/seats/SOH1-42894/"
+        },
+        {
+          "starts_at": "2024-01-04T20:45:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-69669/"
+        },
+        {
+          "starts_at": "2024-01-04T21:10:00+00:00",
+          "site": "Curzon Hoxton",
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-14235/"
         }
       ]
     },
@@ -151,37 +126,6 @@
       ]
     },
     {
-      "title": "Anyone But You",
-      "trailer": "https://www.youtube.com/watch?v=gbjdSlTHFts",
-      "synopsis": "In the comedy Anyone But You, Bea (Sydney Sweeney) and Ben (Glen Powell) look like the perfect couple, but after an amazing first date something happens that turns their fiery hot attraction ice cold - until they find themselves unexpectedly thrust together at a destination wedding in Australia. So they do what any two mature adults would do: pretend to be a couple.",
-      "runtime": 103,
-      "times": [
-        {
-          "starts_at": "2024-01-04T18:30:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-69675/"
-        }
-      ]
-    },
-    {
-      "title": "Society of the Snow",
-      "trailer": null,
-      "synopsis": "The flight of a rugby team crashes on a glacier in the Andes, few passengers who survived the crash, find themselves in one of the world's toughest environments to survive.",
-      "runtime": 143,
-      "times": [
-        {
-          "starts_at": "2024-01-04T20:00:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-69683/"
-        },
-        {
-          "starts_at": "2024-01-04T20:10:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-86815/"
-        }
-      ]
-    },
-    {
       "title": "Aquaman and the Lost Kingdom",
       "trailer": "https://www.youtube.com/watch?v=SU4Nr0OsYG0",
       "synopsis": "When an ancient power is unleashed, Aquaman must forge an uneasy alliance with an unlikely ally to protect Atlantis, and the world, from irreversible devastation.",
@@ -195,37 +139,6 @@
       ]
     },
     {
-      "title": "Saltburn",
-      "trailer": "https://www.youtube.com/watch?v=s8l0llLj1uM",
-      "synopsis": "Struggling to find his place at Oxford University, student Oliver Quick finds himself drawn into the world of the charming and aristocratic Felix Catton, who invites him to Saltburn, his eccentric family's sprawling estate, for a summer never to be forgotten.",
-      "runtime": 131,
-      "times": [
-        {
-          "starts_at": "2024-01-04T20:20:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-21491/"
-        },
-        {
-          "starts_at": "2024-01-04T20:50:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-86819/"
-        }
-      ]
-    },
-    {
-      "title": "DocHouse: 20 Days In Mariupol",
-      "trailer": null,
-      "synopsis": "On the eve of Russia’s invasion of Ukraine, a team of Ukrainian journalists enter the strategic eastern port city of Mariupol. During the subsequent siege and assault, as bombs fall, inhabitants flee, and access to electricity, food, water and medicine are severed, the team — the only international journalists left — struggles to cover the war and to transmit their footage out.\r\n\r\nUkrainian filmmaker and journalist Mstyslav Chernov offers a window into the practices of conflict zone reporters and an unflinching, anguishing account of the 20 days he and colleagues Evgeniy Maloletka and Vasilisa Stepanenko spent covering Mariupol. Chernov wonders how capturing such footage can make a difference, but residents implore them to let the world bear witness.  \r\n",
-      "runtime": 94,
-      "times": [
-        {
-          "starts_at": "2024-01-04T20:20:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-86235/"
-        }
-      ]
-    },
-    {
       "title": "Maestro",
       "trailer": "https://www.youtube.com/watch?v=gJP2QblqLA0",
       "synopsis": "Maestro is a towering and fearless love story chronicling the lifelong relationship between Leonard Bernstein and Felicia Montealegre Cohn Bernstein. A love letter to life and art, Maestro at its core is an emotionally epic portrayal of family and love.",
@@ -235,6 +148,19 @@
           "starts_at": "2024-01-04T20:40:00+00:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-86808/"
+        }
+      ]
+    },
+    {
+      "title": "Saltburn",
+      "trailer": "https://www.youtube.com/watch?v=s8l0llLj1uM",
+      "synopsis": "Struggling to find his place at Oxford University, student Oliver Quick finds himself drawn into the world of the charming and aristocratic Felix Catton, who invites him to Saltburn, his eccentric family's sprawling estate, for a summer never to be forgotten.",
+      "runtime": 131,
+      "times": [
+        {
+          "starts_at": "2024-01-04T20:50:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-86819/"
         }
       ]
     }
