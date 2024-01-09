@@ -1,69 +1,11 @@
 {
   "2024-01-09": [
     {
-      "title": "Wonka",
-      "trailer": "https://www.youtube.com/watch?v=qhzNQ9vaJqE",
-      "synopsis": "The Story will focus on a young Willy Wonka and his adventures prior to opening the world’s most famous chocolate factory.",
-      "runtime": 116,
-      "times": [
-        {
-          "starts_at": "2024-01-09T11:20:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-46309/"
-        },
-        {
-          "starts_at": "2024-01-09T14:30:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-46317/"
-        },
-        {
-          "starts_at": "2024-01-09T17:20:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-46313/"
-        },
-        {
-          "starts_at": "2024-01-09T12:40:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-69885/"
-        },
-        {
-          "starts_at": "2024-01-09T15:00:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-69830/"
-        },
-        {
-          "starts_at": "2024-01-09T17:40:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-69825/"
-        },
-        {
-          "starts_at": "2024-01-09T20:20:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-69836/"
-        },
-        {
-          "starts_at": "2024-01-09T12:00:00+00:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-14397/"
-        },
-        {
-          "starts_at": "2024-01-09T17:20:00+00:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-14404/"
-        }
-      ]
-    },
-    {
       "title": "Priscilla",
       "trailer": null,
       "synopsis": "When teenage Priscilla Beaulieu meets Elvis Presley at a party, the man who is already a meteoric rock-and-roll superstar becomes someone entirely unexpected in private moments: a thrilling crush, an ally in loneliness, a vulnerable best friend. Through Priscilla’s eyes, Sofia Coppola tells the unseen side of a great American myth in Elvis and Priscilla's long courtship and turbulent marriage, from a German army base to his dream-world estate at Graceland, in this deeply felt and ravishingly detailed portrait of love, fantasy, and fame.",
       "runtime": 113,
       "times": [
-        {
-          "starts_at": "2024-01-09T11:40:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-46306/"
-        },
         {
           "starts_at": "2024-01-09T15:40:00+00:00",
           "site": "Curzon Aldgate",
@@ -78,11 +20,6 @@
           "starts_at": "2024-01-09T21:00:00+00:00",
           "site": "Curzon Aldgate",
           "url": "https://www.curzon.com/ticketing/seats/ALD1-46310/"
-        },
-        {
-          "starts_at": "2024-01-09T12:10:00+00:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-43053/"
         },
         {
           "starts_at": "2024-01-09T15:40:00+00:00",
@@ -100,16 +37,6 @@
           "url": "https://www.curzon.com/ticketing/seats/SOH1-43046/"
         },
         {
-          "starts_at": "2024-01-09T11:10:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-69894/"
-        },
-        {
-          "starts_at": "2024-01-09T15:20:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-69829/"
-        },
-        {
           "starts_at": "2024-01-09T18:00:00+00:00",
           "site": "Curzon Victoria",
           "url": "https://www.curzon.com/ticketing/seats/VIC1-69824/"
@@ -120,19 +47,9 @@
           "url": "https://www.curzon.com/ticketing/seats/VIC1-69833/"
         },
         {
-          "starts_at": "2024-01-09T11:40:00+00:00",
-          "site": "Curzon Mayfair",
-          "url": "https://www.curzon.com/ticketing/seats/MAY1-25774/"
-        },
-        {
           "starts_at": "2024-01-09T21:20:00+00:00",
           "site": "Curzon Mayfair",
           "url": "https://www.curzon.com/ticketing/seats/MAY1-25778/"
-        },
-        {
-          "starts_at": "2024-01-09T11:00:00+00:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-14396/"
         },
         {
           "starts_at": "2024-01-09T18:00:00+00:00",
@@ -143,11 +60,6 @@
           "starts_at": "2024-01-09T20:50:00+00:00",
           "site": "Curzon Hoxton",
           "url": "https://www.curzon.com/ticketing/seats/HOX1-14399/"
-        },
-        {
-          "starts_at": "2024-01-09T13:00:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-21629/"
         },
         {
           "starts_at": "2024-01-09T15:40:00+00:00",
@@ -163,11 +75,6 @@
           "starts_at": "2024-01-09T21:00:00+00:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-21634/"
-        },
-        {
-          "starts_at": "2024-01-09T12:20:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-86992/"
         },
         {
           "starts_at": "2024-01-09T16:00:00+00:00",
@@ -187,59 +94,11 @@
       ]
     },
     {
-      "title": "The Boy And The Heron (Dubbed)",
-      "trailer": null,
-      "synopsis": "The English dub for Hayao Miyazaki's latest adventure features an all-star cast that includes Robert Pattinson, Florence Pugh, Christian Bale, Willem Dafoe and Mark Hamill. The film follows a young boy named Mahito, who yearns for his late mother and ventures into a world shared by the living and the dead. There, death comes to an end, and life finds a new beginning. The Boy and the Heron is a dazzling, semi-autobiographical fantasy about life, death and creation.",
-      "runtime": 124,
-      "times": [
-        {
-          "starts_at": "2024-01-09T12:00:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-46308/"
-        },
-        {
-          "starts_at": "2024-01-09T14:50:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-46305/"
-        },
-        {
-          "starts_at": "2024-01-09T14:30:00+00:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-43047/"
-        },
-        {
-          "starts_at": "2024-01-09T12:20:00+00:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-14398/"
-        },
-        {
-          "starts_at": "2024-01-09T17:40:00+00:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-14403/"
-        },
-        {
-          "starts_at": "2024-01-09T12:15:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-21627/"
-        },
-        {
-          "starts_at": "2024-01-09T17:50:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-21633/"
-        }
-      ]
-    },
-    {
       "title": "Ferrari",
       "trailer": "https://www.youtube.com/watch?v=ERIBTIlVVJQ",
       "synopsis": "It is the summer of 1957. Behind the spectacle of Formula 1, ex-racer Enzo Ferrari is in crisis. Bankruptcy threatens the factory he and his wife, Laura built from nothing ten years earlier. Their volatile marriage has been battered by the loss of their son, Dino a year earlier. Ferrari struggles to acknowledge his son Piero with Lina Lardi. Meanwhile, his drivers’ passion to win pushes them to the edge as they launch into the treacherous 1,000-mile race across Italy, the Mille Miglia.",
       "runtime": 130,
       "times": [
-        {
-          "starts_at": "2024-01-09T12:40:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-46307/"
-        },
         {
           "starts_at": "2024-01-09T17:00:00+00:00",
           "site": "Curzon Aldgate",
@@ -251,29 +110,9 @@
           "url": "https://www.curzon.com/ticketing/seats/SOH1-43051/"
         },
         {
-          "starts_at": "2024-01-09T14:00:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-69831/"
-        },
-        {
           "starts_at": "2024-01-09T20:40:00+00:00",
           "site": "Curzon Victoria",
           "url": "https://www.curzon.com/ticketing/seats/VIC1-69835/"
-        },
-        {
-          "starts_at": "2024-01-09T11:30:00+00:00",
-          "site": "Curzon Mayfair",
-          "url": "https://www.curzon.com/ticketing/seats/MAY1-25775/"
-        },
-        {
-          "starts_at": "2024-01-09T14:30:00+00:00",
-          "site": "Curzon Mayfair",
-          "url": "https://www.curzon.com/ticketing/seats/MAY1-25779/"
-        },
-        {
-          "starts_at": "2024-01-09T14:20:00+00:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-14395/"
         },
         {
           "starts_at": "2024-01-09T17:10:00+00:00",
@@ -283,40 +122,30 @@
       ]
     },
     {
-      "title": "Maestro",
-      "trailer": "https://www.youtube.com/watch?v=gJP2QblqLA0",
-      "synopsis": "Maestro is a towering and fearless love story chronicling the lifelong relationship between Leonard Bernstein and Felicia Montealegre Cohn Bernstein. A love letter to life and art, Maestro at its core is an emotionally epic portrayal of family and love.",
-      "runtime": 129,
+      "title": "Wonka",
+      "trailer": "https://www.youtube.com/watch?v=qhzNQ9vaJqE",
+      "synopsis": "The Story will focus on a young Willy Wonka and his adventures prior to opening the world’s most famous chocolate factory.",
+      "runtime": 116,
       "times": [
         {
-          "starts_at": "2024-01-09T14:00:00+00:00",
+          "starts_at": "2024-01-09T17:20:00+00:00",
           "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-46318/"
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-46313/"
+        },
+        {
+          "starts_at": "2024-01-09T17:40:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-69825/"
         },
         {
           "starts_at": "2024-01-09T20:20:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-46319/"
-        },
-        {
-          "starts_at": "2024-01-09T12:00:00+00:00",
           "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-69887/"
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-69836/"
         },
         {
-          "starts_at": "2024-01-09T11:45:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-86996/"
-        },
-        {
-          "starts_at": "2024-01-09T14:40:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-87000/"
-        },
-        {
-          "starts_at": "2024-01-09T20:30:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-86998/"
+          "starts_at": "2024-01-09T17:20:00+00:00",
+          "site": "Curzon Hoxton",
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-14404/"
         }
       ]
     },
@@ -337,11 +166,6 @@
           "url": "https://www.curzon.com/ticketing/seats/ALD1-46311/"
         },
         {
-          "starts_at": "2024-01-09T11:40:00+00:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-43043/"
-        },
-        {
           "starts_at": "2024-01-09T17:50:00+00:00",
           "site": "Curzon Soho",
           "url": "https://www.curzon.com/ticketing/seats/SOH1-43044/"
@@ -352,34 +176,14 @@
           "url": "https://www.curzon.com/ticketing/seats/SOH1-43049/"
         },
         {
-          "starts_at": "2024-01-09T14:40:00+00:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-14406/"
-        },
-        {
           "starts_at": "2024-01-09T20:00:00+00:00",
           "site": "Curzon Hoxton",
           "url": "https://www.curzon.com/ticketing/seats/HOX1-14401/"
         },
         {
-          "starts_at": "2024-01-09T15:00:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-21632/"
-        },
-        {
           "starts_at": "2024-01-09T20:40:00+00:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-21628/"
-        },
-        {
-          "starts_at": "2024-01-09T13:15:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-87004/"
-        },
-        {
-          "starts_at": "2024-01-09T15:00:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-86991/"
         },
         {
           "starts_at": "2024-01-09T18:30:00+00:00",
@@ -405,11 +209,6 @@
           "url": "https://www.curzon.com/ticketing/seats/ALD1-46312/"
         },
         {
-          "starts_at": "2024-01-09T12:20:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-69886/"
-        },
-        {
           "starts_at": "2024-01-09T20:00:00+00:00",
           "site": "Curzon Victoria",
           "url": "https://www.curzon.com/ticketing/seats/VIC1-69837/"
@@ -422,25 +221,33 @@
       ]
     },
     {
+      "title": "Maestro",
+      "trailer": "https://www.youtube.com/watch?v=gJP2QblqLA0",
+      "synopsis": "Maestro is a towering and fearless love story chronicling the lifelong relationship between Leonard Bernstein and Felicia Montealegre Cohn Bernstein. A love letter to life and art, Maestro at its core is an emotionally epic portrayal of family and love.",
+      "runtime": 129,
+      "times": [
+        {
+          "starts_at": "2024-01-09T20:20:00+00:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-46319/"
+        },
+        {
+          "starts_at": "2024-01-09T20:30:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-86998/"
+        }
+      ]
+    },
+    {
       "title": "Saltburn",
       "trailer": "https://www.youtube.com/watch?v=s8l0llLj1uM",
       "synopsis": "Struggling to find his place at Oxford University, student Oliver Quick finds himself drawn into the world of the charming and aristocratic Felix Catton, who invites him to Saltburn, his eccentric family's sprawling estate, for a summer never to be forgotten.",
       "runtime": 131,
       "times": [
         {
-          "starts_at": "2024-01-09T14:50:00+00:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-43052/"
-        },
-        {
           "starts_at": "2024-01-09T20:40:00+00:00",
           "site": "Curzon Soho",
           "url": "https://www.curzon.com/ticketing/seats/SOH1-43048/"
-        },
-        {
-          "starts_at": "2024-01-09T11:20:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-21642/"
         },
         {
           "starts_at": "2024-01-09T17:30:00+00:00",
@@ -460,54 +267,11 @@
       ]
     },
     {
-      "title": "Society of the Snow",
-      "trailer": null,
-      "synopsis": "The flight of a rugby team crashes on a glacier in the Andes, few passengers who survived the crash, find themselves in one of the world's toughest environments to survive.",
-      "runtime": 143,
-      "times": [
-        {
-          "starts_at": "2024-01-09T11:00:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-69822/"
-        },
-        {
-          "starts_at": "2024-01-09T17:00:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-69826/"
-        },
-        {
-          "starts_at": "2024-01-09T14:00:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-21639/"
-        },
-        {
-          "starts_at": "2024-01-09T20:00:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-21641/"
-        },
-        {
-          "starts_at": "2024-01-09T12:40:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-87001/"
-        },
-        {
-          "starts_at": "2024-01-09T17:30:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-86999/"
-        }
-      ]
-    },
-    {
       "title": "One Life",
       "trailer": "https://www.youtube.com/watch?v=6ethollg-PI",
       "synopsis": "Follows British humanitarian Nicholas Winton, who helped save hundreds of children from the Nazis on the eve of World War II.",
       "runtime": 109,
       "times": [
-        {
-          "starts_at": "2024-01-09T13:45:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-69832/"
-        },
         {
           "starts_at": "2024-01-09T15:40:00+00:00",
           "site": "Curzon Victoria",
@@ -524,29 +288,14 @@
           "url": "https://www.curzon.com/ticketing/seats/VIC1-69834/"
         },
         {
-          "starts_at": "2024-01-09T14:20:00+00:00",
-          "site": "Curzon Mayfair",
-          "url": "https://www.curzon.com/ticketing/seats/MAY1-25776/"
-        },
-        {
           "starts_at": "2024-01-09T20:45:00+00:00",
           "site": "Curzon Mayfair",
           "url": "https://www.curzon.com/ticketing/seats/MAY1-25772/"
         },
         {
-          "starts_at": "2024-01-09T15:20:00+00:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-14405/"
-        },
-        {
           "starts_at": "2024-01-09T20:30:00+00:00",
           "site": "Curzon Hoxton",
           "url": "https://www.curzon.com/ticketing/seats/HOX1-14400/"
-        },
-        {
-          "starts_at": "2024-01-09T13:20:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-21645/"
         },
         {
           "starts_at": "2024-01-09T16:00:00+00:00",
@@ -584,15 +333,43 @@
       ]
     },
     {
-      "title": "Sweet Sue",
+      "title": "Society of the Snow",
       "trailer": null,
-      "synopsis": "Fifty-something Sue (Maggie O’Neill) is now back on the dating scene. She meets a mysterious biker called Ron (Tony Pitts) at her brother's funeral and sparks fly. But when she meets Ron’s social-media influencer son Anthony (Harry Trevaldwyn), Sue finds herself in an increasingly surreal battle of wills with this ambitious teenager who is convinced that his dance troupe ‘Electric Destiny’ is tipped for stardom. Will she find the purpose and imagination to bring this little unconventional family together for a chance at happiness?",
-      "runtime": 100,
+      "synopsis": "The flight of a rugby team crashes on a glacier in the Andes, few passengers who survived the crash, find themselves in one of the world's toughest environments to survive.",
+      "runtime": 143,
       "times": [
         {
-          "starts_at": "2024-01-09T11:40:00+00:00",
+          "starts_at": "2024-01-09T17:00:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-69826/"
+        },
+        {
+          "starts_at": "2024-01-09T20:00:00+00:00",
           "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-21638/"
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-21641/"
+        },
+        {
+          "starts_at": "2024-01-09T17:30:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-86999/"
+        }
+      ]
+    },
+    {
+      "title": "The Boy And The Heron (Dubbed)",
+      "trailer": null,
+      "synopsis": "The English dub for Hayao Miyazaki's latest adventure features an all-star cast that includes Robert Pattinson, Florence Pugh, Christian Bale, Willem Dafoe and Mark Hamill. The film follows a young boy named Mahito, who yearns for his late mother and ventures into a world shared by the living and the dead. There, death comes to an end, and life finds a new beginning. The Boy and the Heron is a dazzling, semi-autobiographical fantasy about life, death and creation.",
+      "runtime": 124,
+      "times": [
+        {
+          "starts_at": "2024-01-09T17:40:00+00:00",
+          "site": "Curzon Hoxton",
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-14403/"
+        },
+        {
+          "starts_at": "2024-01-09T17:50:00+00:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-21633/"
         }
       ]
     },
@@ -603,19 +380,9 @@
       "runtime": 152,
       "times": [
         {
-          "starts_at": "2024-01-09T14:15:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-21643/"
-        },
-        {
           "starts_at": "2024-01-09T20:20:00+00:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-21626/"
-        },
-        {
-          "starts_at": "2024-01-09T14:20:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-87002/"
         },
         {
           "starts_at": "2024-01-09T17:40:00+00:00",
@@ -630,37 +397,6 @@
       ]
     },
     {
-      "title": "Anselm (2D)",
-      "trailer": "https://www.youtube.com/watch?v=TqBS8L9niGA",
-      "synopsis": "An experience like no other. Wim Wenders creates a portrait of Anselm Kiefer, one of the most innovative and important painters and sculptors of our time, shot in 3D and 6K-resolution. \n\nThe film presents a total immersion in the artist’s work and practice which explores human existence and the cyclical nature of history, inspired by literature, poetry, philosophy, science, mythology and religion. For over two years, Wenders traced Kiefer’s path from his native Germany to his current home in France, connecting the stages of his life to the essential places of his career that spans more than five decades.",
-      "runtime": 93,
-      "times": [
-        {
-          "starts_at": "2024-01-09T12:00:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-87005/"
-        },
-        {
-          "starts_at": "2024-01-09T18:45:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-86995/"
-        }
-      ]
-    },
-    {
-      "title": "DocHouse: 20 Days In Mariupol",
-      "trailer": null,
-      "synopsis": "On the eve of Russia’s invasion of Ukraine, a team of Ukrainian journalists enter the strategic eastern port city of Mariupol. During the subsequent siege and assault, as bombs fall, inhabitants flee, and access to electricity, food, water and medicine are severed, the team — the only international journalists left — struggles to cover the war and to transmit their footage out.\r\n\r\nUkrainian filmmaker and journalist Mstyslav Chernov offers a window into the practices of conflict zone reporters and an unflinching, anguishing account of the 20 days he and colleagues Evgeniy Maloletka and Vasilisa Stepanenko spent covering Mariupol. Chernov wonders how capturing such footage can make a difference, but residents implore them to let the world bear witness.  \r\n",
-      "runtime": 94,
-      "times": [
-        {
-          "starts_at": "2024-01-09T15:10:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-87060/"
-        }
-      ]
-    },
-    {
       "title": "DocHouse: Scala!!!",
       "trailer": null,
       "synopsis": "In Britain’s post-punk Thatcher years, the infamous and legendary Scala cinema showed a diverse range of films, from high art to cult classics, sexploitation, horror, Kung-Fu and LGBTQIA+. Nudging boundaries of convention, it became an inspiration for future famous creatives.\r\n\r\nWith interviews from nearly 50 contributors, previously unseen archive footage and film clips, Scala!!! is an anarchic, uproarious documentary telling the riotous inside story, with an original soundtrack by celebrated musician Barry Adamson.\r\n\r\nTranscending nostalgia, Scala!!! is a universal testament to the power of cinemas, providing refuge and community for outsiders. A place where everyone is welcome.",
@@ -670,6 +406,19 @@
           "starts_at": "2024-01-09T18:20:00+00:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-86863/"
+        }
+      ]
+    },
+    {
+      "title": "Anselm (2D)",
+      "trailer": "https://www.youtube.com/watch?v=TqBS8L9niGA",
+      "synopsis": "An experience like no other. Wim Wenders creates a portrait of Anselm Kiefer, one of the most innovative and important painters and sculptors of our time, shot in 3D and 6K-resolution. \n\nThe film presents a total immersion in the artist’s work and practice which explores human existence and the cyclical nature of history, inspired by literature, poetry, philosophy, science, mythology and religion. For over two years, Wenders traced Kiefer’s path from his native Germany to his current home in France, connecting the stages of his life to the essential places of his career that spans more than five decades.",
+      "runtime": 93,
+      "times": [
+        {
+          "starts_at": "2024-01-09T18:45:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-86995/"
         }
       ]
     },
@@ -5387,6 +5136,11 @@
           "url": "https://www.curzon.com/ticketing/seats/SOH1-43116/"
         },
         {
+          "starts_at": "2024-01-16T17:10:00+00:00",
+          "site": "Curzon Soho",
+          "url": "https://www.curzon.com/ticketing/seats/SOH1-43102/"
+        },
+        {
           "starts_at": "2024-01-16T14:10:00+00:00",
           "site": "Curzon Hoxton",
           "url": "https://www.curzon.com/ticketing/seats/HOX1-14496/"
@@ -5499,6 +5253,11 @@
           "starts_at": "2024-01-16T18:20:00+00:00",
           "site": "Curzon Aldgate",
           "url": "https://www.curzon.com/ticketing/seats/ALD1-45531/"
+        },
+        {
+          "starts_at": "2024-01-16T18:20:00+00:00",
+          "site": "Curzon Soho",
+          "url": "https://www.curzon.com/ticketing/seats/SOH1-42505/"
         },
         {
           "starts_at": "2024-01-16T18:15:00+00:00",
