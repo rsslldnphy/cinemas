@@ -7,11 +7,6 @@
       "runtime": 113,
       "times": [
         {
-          "starts_at": "2024-01-13T15:40:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-46377/"
-        },
-        {
           "starts_at": "2024-01-13T18:40:00+00:00",
           "site": "Curzon Aldgate",
           "url": "https://www.curzon.com/ticketing/seats/ALD1-46375/"
@@ -22,19 +17,9 @@
           "url": "https://www.curzon.com/ticketing/seats/SOH1-43076/"
         },
         {
-          "starts_at": "2024-01-13T17:45:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-69923/"
-        },
-        {
           "starts_at": "2024-01-13T18:40:00+00:00",
           "site": "Curzon Hoxton",
           "url": "https://www.curzon.com/ticketing/seats/HOX1-14430/"
-        },
-        {
-          "starts_at": "2024-01-13T18:10:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-21731/"
         },
         {
           "starts_at": "2024-01-13T21:10:00+00:00",
@@ -50,11 +35,6 @@
       "runtime": 142,
       "times": [
         {
-          "starts_at": "2024-01-13T16:00:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-46136/"
-        },
-        {
           "starts_at": "2024-01-13T19:20:00+00:00",
           "site": "Curzon Aldgate",
           "url": "https://www.curzon.com/ticketing/seats/ALD1-46137/"
@@ -65,29 +45,9 @@
           "url": "https://www.curzon.com/ticketing/seats/ALD1-46167/"
         },
         {
-          "starts_at": "2024-01-13T17:30:00+00:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-42951/"
-        },
-        {
-          "starts_at": "2024-01-13T18:20:00+00:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-43071/"
-        },
-        {
           "starts_at": "2024-01-13T20:40:00+00:00",
           "site": "Curzon Soho",
           "url": "https://www.curzon.com/ticketing/seats/SOH1-42950/"
-        },
-        {
-          "starts_at": "2024-01-13T17:30:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-69709/"
-        },
-        {
-          "starts_at": "2024-01-13T18:20:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-70017/"
         },
         {
           "starts_at": "2024-01-13T20:45:00+00:00",
@@ -95,19 +55,9 @@
           "url": "https://www.curzon.com/ticketing/seats/VIC1-69708/"
         },
         {
-          "starts_at": "2024-01-13T17:30:00+00:00",
-          "site": "Curzon Mayfair",
-          "url": "https://www.curzon.com/ticketing/seats/MAY1-25815/"
-        },
-        {
           "starts_at": "2024-01-13T20:40:00+00:00",
           "site": "Curzon Mayfair",
           "url": "https://www.curzon.com/ticketing/seats/MAY1-25816/"
-        },
-        {
-          "starts_at": "2024-01-13T17:50:00+00:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-14308/"
         },
         {
           "starts_at": "2024-01-13T20:00:00+00:00",
@@ -120,85 +70,14 @@
           "url": "https://www.curzon.com/ticketing/seats/HOX1-14307/"
         },
         {
-          "starts_at": "2024-01-13T17:10:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-21829/"
-        },
-        {
-          "starts_at": "2024-01-13T18:30:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-21533/"
-        },
-        {
           "starts_at": "2024-01-13T20:00:00+00:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-21532/"
         },
         {
-          "starts_at": "2024-01-13T17:20:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-86886/"
-        },
-        {
           "starts_at": "2024-01-13T20:40:00+00:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-86887/"
-        }
-      ]
-    },
-    {
-      "title": "Napoleon",
-      "trailer": "https://www.youtube.com/watch?v=1rJjrcKWupE",
-      "synopsis": "Napoleon is a spectacle-filled action epic that details the checkered rise and fall of the iconic French Emperor Napoleon Bonaparte, played by Oscar®-winner Joaquin Phoenix. Against a stunning backdrop of large-scale filmmaking orchestrated by legendary director Ridley Scott, the film captures Bonaparte's relentless journey to power through the prism of his addictive, volatile relationship with his one true love, Josephine, showcasing his visionary military and political tactics against some of the most dynamic practical battle sequences ever filmed.",
-      "runtime": 158,
-      "times": [
-        {
-          "starts_at": "2024-01-13T17:15:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-46380/"
-        },
-        {
-          "starts_at": "2024-01-13T20:15:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-69916/"
-        }
-      ]
-    },
-    {
-      "title": "The Boy And The Heron (Subtitled)",
-      "trailer": null,
-      "synopsis": "A young boy named Mahito yearning for his mother ventures into a world shared by the living and the dead. There death comes to an end, and life finds a new beginning. A semi-autobiographical fantasy about life, death and creation, in tribute to friendship from the mind of Hayao Miyazaki.",
-      "runtime": 124,
-      "times": [
-        {
-          "starts_at": "2024-01-13T18:00:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-46374/"
-        },
-        {
-          "starts_at": "2024-01-13T17:00:00+00:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-43079/"
-        },
-        {
-          "starts_at": "2024-01-13T17:10:00+00:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-14431/"
-        },
-        {
-          "starts_at": "2024-01-13T21:00:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-21734/"
-        },
-        {
-          "starts_at": "2024-01-13T15:30:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-87118/"
-        },
-        {
-          "starts_at": "2024-01-13T18:15:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-87122/"
         }
       ]
     },
@@ -230,42 +109,6 @@
           "starts_at": "2024-01-13T21:30:00+00:00",
           "site": "Curzon Victoria",
           "url": "https://www.curzon.com/ticketing/seats/VIC1-69908/"
-        },
-        {
-          "starts_at": "2024-01-13T17:30:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-21721/"
-        }
-      ]
-    },
-    {
-      "title": "Anyone But You",
-      "trailer": "https://www.youtube.com/watch?v=gbjdSlTHFts",
-      "synopsis": "In the comedy Anyone But You, Bea (Sydney Sweeney) and Ben (Glen Powell) look like the perfect couple, but after an amazing first date something happens that turns their fiery hot attraction ice cold - until they find themselves unexpectedly thrust together at a destination wedding in Australia. So they do what any two mature adults would do: pretend to be a couple.",
-      "runtime": 103,
-      "times": [
-        {
-          "starts_at": "2024-01-13T15:45:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-70021/"
-        },
-        {
-          "starts_at": "2024-01-13T20:30:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-69918/"
-        }
-      ]
-    },
-    {
-      "title": "Wonka",
-      "trailer": "https://www.youtube.com/watch?v=qhzNQ9vaJqE",
-      "synopsis": "The Story will focus on a young Willy Wonka and his adventures prior to opening the world’s most famous chocolate factory.",
-      "runtime": 116,
-      "times": [
-        {
-          "starts_at": "2024-01-13T16:00:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-69926/"
         }
       ]
     },
@@ -286,19 +129,35 @@
           "url": "https://www.curzon.com/ticketing/seats/VIC1-69912/"
         },
         {
-          "starts_at": "2024-01-13T17:45:00+00:00",
-          "site": "Curzon Mayfair",
-          "url": "https://www.curzon.com/ticketing/seats/MAY1-25827/"
-        },
-        {
-          "starts_at": "2024-01-13T16:00:00+00:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-14433/"
-        },
-        {
           "starts_at": "2024-01-13T20:20:00+00:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-21728/"
+        }
+      ]
+    },
+    {
+      "title": "Napoleon",
+      "trailer": "https://www.youtube.com/watch?v=1rJjrcKWupE",
+      "synopsis": "Napoleon is a spectacle-filled action epic that details the checkered rise and fall of the iconic French Emperor Napoleon Bonaparte, played by Oscar®-winner Joaquin Phoenix. Against a stunning backdrop of large-scale filmmaking orchestrated by legendary director Ridley Scott, the film captures Bonaparte's relentless journey to power through the prism of his addictive, volatile relationship with his one true love, Josephine, showcasing his visionary military and political tactics against some of the most dynamic practical battle sequences ever filmed.",
+      "runtime": 158,
+      "times": [
+        {
+          "starts_at": "2024-01-13T20:15:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-69916/"
+        }
+      ]
+    },
+    {
+      "title": "Anyone But You",
+      "trailer": "https://www.youtube.com/watch?v=gbjdSlTHFts",
+      "synopsis": "In the comedy Anyone But You, Bea (Sydney Sweeney) and Ben (Glen Powell) look like the perfect couple, but after an amazing first date something happens that turns their fiery hot attraction ice cold - until they find themselves unexpectedly thrust together at a destination wedding in Australia. So they do what any two mature adults would do: pretend to be a couple.",
+      "runtime": 103,
+      "times": [
+        {
+          "starts_at": "2024-01-13T20:30:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-69918/"
         }
       ]
     },
@@ -329,37 +188,6 @@
       ]
     },
     {
-      "title": "Downfall of the Crypto King",
-      "trailer": null,
-      "synopsis": "Panorama explores the breakneck rise and sensational fall of Sam Bankman-Fried, the maths genius who set out to transform the world of crypto but ended up being its biggest loser.",
-      "runtime": 90,
-      "times": [
-        {
-          "starts_at": "2024-01-13T16:15:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-21722/"
-        },
-        {
-          "starts_at": "2024-01-13T21:30:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-21726/"
-        }
-      ]
-    },
-    {
-      "title": "The Boy And The Heron (Dubbed)",
-      "trailer": null,
-      "synopsis": "The English dub for Hayao Miyazaki's latest adventure features an all-star cast that includes Robert Pattinson, Florence Pugh, Christian Bale, Willem Dafoe and Mark Hamill. The film follows a young boy named Mahito, who yearns for his late mother and ventures into a world shared by the living and the dead. There, death comes to an end, and life finds a new beginning. The Boy and the Heron is a dazzling, semi-autobiographical fantasy about life, death and creation.",
-      "runtime": 124,
-      "times": [
-        {
-          "starts_at": "2024-01-13T17:50:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-21736/"
-        }
-      ]
-    },
-    {
       "title": "Anatomy of a Fall",
       "trailer": "https://www.youtube.com/watch?v=_MdTMA0PetA",
       "synopsis": "When her husband Samuel is mysteriously found dead in the snow below their secluded chalet, Sandra becomes the main suspect when the police begin to question whether he fell or was pushed. The trial soon becomes not just an investigation, but a gripping psychological journey into the depths of Sandra and Samuel's complicated marriage. With conflicting evidence and inconsistent testimony, words are wielded like weapons and shocking truths come to light in this thrilling Palme d’Or winner.",
@@ -371,11 +199,6 @@
           "url": "https://www.curzon.com/ticketing/seats/CAM1-21732/"
         },
         {
-          "starts_at": "2024-01-13T17:45:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-87114/"
-        },
-        {
           "starts_at": "2024-01-13T20:20:00+00:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-87113/"
@@ -383,33 +206,28 @@
       ]
     },
     {
-      "title": "DocHouse: The Disappearance Of Shere Hite",
+      "title": "The Boy And The Heron (Subtitled)",
       "trailer": null,
-      "synopsis": "Feminist researcher Shere Hite changed the discussion around women's sexuality with her groundbreaking studies in the 1970s and 80s, and her books (including The Hite Report) became best-sellers. But both her methodology and her message came under criticism in the backlash from this popularity, and slowly but surely Shere was ridiculed and squeezed out of the mainstream - and eventually out of popular consciousness.\r\n\r\nDirector Nicole Newnham (Crip Camp) recovers Shere Hite from the margins of history, feminism and academia, exploring the charismatic former model's rise and fall from prominence. Using a treasure trove of archive footage, The Disappearance of Shere Hite transports viewers back to a time of great societal change and transformation around sexuality. It rediscovers a pioneer who has had an unmistakable influence on current conversations around gender and sexuality, and asks what led to Shere's erasure.",
-      "runtime": 116,
+      "synopsis": "A young boy named Mahito yearning for his mother ventures into a world shared by the living and the dead. There death comes to an end, and life finds a new beginning. A semi-autobiographical fantasy about life, death and creation, in tribute to friendship from the mind of Hayao Miyazaki.",
+      "runtime": 124,
       "times": [
         {
-          "starts_at": "2024-01-13T16:00:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-86866/"
-        },
-        {
-          "starts_at": "2024-01-13T20:30:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-86867/"
+          "starts_at": "2024-01-13T21:00:00+00:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-21734/"
         }
       ]
     },
     {
-      "title": "Maestro",
-      "trailer": "https://www.youtube.com/watch?v=gJP2QblqLA0",
-      "synopsis": "Maestro is a towering and fearless love story chronicling the lifelong relationship between Leonard Bernstein and Felicia Montealegre Cohn Bernstein. A love letter to life and art, Maestro at its core is an emotionally epic portrayal of family and love.",
-      "runtime": 129,
+      "title": "Downfall of the Crypto King",
+      "trailer": null,
+      "synopsis": "Panorama explores the breakneck rise and sensational fall of Sam Bankman-Fried, the maths genius who set out to transform the world of crypto but ended up being its biggest loser.",
+      "runtime": 90,
       "times": [
         {
-          "starts_at": "2024-01-13T18:00:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-87110/"
+          "starts_at": "2024-01-13T21:30:00+00:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-21726/"
         }
       ]
     },
@@ -423,6 +241,19 @@
           "starts_at": "2024-01-13T18:30:00+00:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-87220/"
+        }
+      ]
+    },
+    {
+      "title": "DocHouse: The Disappearance Of Shere Hite",
+      "trailer": null,
+      "synopsis": "Feminist researcher Shere Hite changed the discussion around women's sexuality with her groundbreaking studies in the 1970s and 80s, and her books (including The Hite Report) became best-sellers. But both her methodology and her message came under criticism in the backlash from this popularity, and slowly but surely Shere was ridiculed and squeezed out of the mainstream - and eventually out of popular consciousness.\r\n\r\nDirector Nicole Newnham (Crip Camp) recovers Shere Hite from the margins of history, feminism and academia, exploring the charismatic former model's rise and fall from prominence. Using a treasure trove of archive footage, The Disappearance of Shere Hite transports viewers back to a time of great societal change and transformation around sexuality. It rediscovers a pioneer who has had an unmistakable influence on current conversations around gender and sexuality, and asks what led to Shere's erasure.",
+      "runtime": 116,
+      "times": [
+        {
+          "starts_at": "2024-01-13T20:30:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-86867/"
         }
       ]
     },
