@@ -83,12 +83,6 @@
     "overview": "A band of fearless chickens flock together to save poultry-kind from an unsettling new threat: a nearby farm that's cooking up something suspicious.",
     "release_date": "2023-12-08"
   },
-  "DocHouse: 20 Days In Mariupol": {
-    "backdrop": "https://image.tmdb.org/t/p/w500//r8sxED3zgVBuLQFp3jvW1YRXUkn.jpg",
-    "poster": "https://image.tmdb.org/t/p/w500//iQ4qXX7XXFxmfl7lNG4cRVUWTbG.jpg",
-    "overview": "As the Russian invasion begins, a team of Ukrainian journalists trapped in the besieged city of Mariupol struggle to continue their work documenting the war’s atrocities.",
-    "release_date": "2023-07-14"
-  },
   "DocHouse: Art Talent Show": {
     "backdrop": "https://image.tmdb.org/t/p/w500//74Y06wfVO1YxhcltxJ6jkIcA6HW.jpg",
     "poster": "https://image.tmdb.org/t/p/w500//5bczAans3psltbHRjFzjiaTDVcE.jpg",
@@ -191,6 +185,12 @@
     "overview": "A towering and fearless love story chronicling the lifelong relationship between Leonard Bernstein and Felicia Montealegre Cohn Bernstein. A love letter to life and art, Maestro at its core is an emotionally epic portrayal of family and love.",
     "release_date": "2023-11-22"
   },
+  "Mean Girls": {
+    "backdrop": "https://image.tmdb.org/t/p/w500//u9x18arVbh9VRY05aeJ43eaiI3t.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500//aYonZXaoKkPLFBDczdZHTrTaoZs.jpg",
+    "overview": "New student Cady Heron is welcomed into the top of the social food chain by the elite group of popular girls called ‘The Plastics,’ ruled by the conniving queen bee Regina George and her minions Gretchen and Karen. However, when Cady makes the major misstep of falling for Regina’s ex-boyfriend Aaron Samuels, she finds herself prey in Regina’s crosshairs. As Cady sets to take down the group’s apex predator with the help of her outcast friends Janis and Damian, she must learn how to stay true to herself while navigating the most cutthroat jungle of all: high school.",
+    "release_date": "2024-01-10"
+  },
   "NOPE": {
     "backdrop": "https://image.tmdb.org/t/p/w500//5N8LOeRzt7LcZIhPbNVaCsVOPdT.jpg",
     "poster": "https://image.tmdb.org/t/p/w500//AcKVlWaNVVVFQwro3nLXqPljcYA.jpg",
@@ -214,6 +214,12 @@
     "poster": "https://image.tmdb.org/t/p/w500//2NQljeavtfl22207D1kxLpa4LS3.jpg",
     "overview": "A knight framed for a tragic crime teams with a scrappy, shape-shifting teen to prove his innocence.",
     "release_date": "2023-06-23"
+  },
+  "Nyad": {
+    "backdrop": "https://image.tmdb.org/t/p/w500//5CPbuhVfnUAbEyuf3LJ5bKiRvx4.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500//ydSqUhKFvg5cZ5OwImmf3K1R6SS.jpg",
+    "overview": "Athlete Diana Nyad sets out at 60 to achieve a nearly impossible lifelong dream: to swim from Cuba to Florida across more than 100 miles of open ocean.",
+    "release_date": "2023-10-18"
   },
   "One Life": {
     "backdrop": "https://image.tmdb.org/t/p/w500//cmunCeGDxPoamBeglhMhf0e92dG.jpg",
@@ -247,7 +253,7 @@
   },
   "Poor Things": {
     "backdrop": "https://image.tmdb.org/t/p/w500//ejTG17sqAEEyIqZVpYhyw0PGUdT.jpg",
-    "poster": "https://image.tmdb.org/t/p/w500//kCGlIMHnOm8JPXq3rXM6c5wMxcT.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500//tXGnVelYue1ytm9hNTT7NKZDsEh.jpg",
     "overview": "Brought back to life by an unorthodox scientist, a young woman runs off with a debauched lawyer on a whirlwind adventure across the continents. Free from the prejudices of her times, she grows steadfast in her purpose to stand for equality and liberation.",
     "release_date": "2023-11-21"
   },
@@ -358,6 +364,12 @@
     "poster": "https://image.tmdb.org/t/p/w500//3Jc93sCl0DqkePYjw47zHpqj7YS.jpg",
     "overview": "A decades-spanning tale of love and resilience and of one woman's journey to independence. Celie faces many hardships in her life, but ultimately finds extraordinary strength and hope in the unbreakable bonds of sisterhood.",
     "release_date": "2023-12-25"
+  },
+  "The End We Start From": {
+    "backdrop": "https://image.tmdb.org/t/p/w500//nmU3WgYuv7TyCrImrVtYG2VB6U6.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500//S9U0axheNakD9LQusEpFijDgSe.jpg",
+    "overview": "As London is submerged below floodwaters, a woman gives birth to her first child. Days later, she and her baby are forced to leave their home in search of safety. They head north through a newly dangerous country seeking refuge from place to place.",
+    "release_date": "2023-12-08"
   },
   "The Holdovers": {
     "backdrop": "https://image.tmdb.org/t/p/w500//sQLMaESdeELB7Dl8HdxfGlZYRzu.jpg",
