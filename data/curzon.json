@@ -7,19 +7,9 @@
       "runtime": 142,
       "times": [
         {
-          "starts_at": "2024-01-17T16:00:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-46160/"
-        },
-        {
           "starts_at": "2024-01-17T19:20:00+00:00",
           "site": "Curzon Aldgate",
           "url": "https://www.curzon.com/ticketing/seats/ALD1-46161/"
-        },
-        {
-          "starts_at": "2024-01-17T18:20:00+00:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-42969/"
         },
         {
           "starts_at": "2024-01-17T19:40:00+00:00",
@@ -32,24 +22,9 @@
           "url": "https://www.curzon.com/ticketing/seats/SOH1-43072/"
         },
         {
-          "starts_at": "2024-01-17T17:30:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-69719/"
-        },
-        {
-          "starts_at": "2024-01-17T18:20:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-70063/"
-        },
-        {
           "starts_at": "2024-01-17T20:45:00+00:00",
           "site": "Curzon Victoria",
           "url": "https://www.curzon.com/ticketing/seats/VIC1-69718/"
-        },
-        {
-          "starts_at": "2024-01-17T17:50:00+00:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-14317/"
         },
         {
           "starts_at": "2024-01-17T20:00:00+00:00",
@@ -62,11 +37,6 @@
           "url": "https://www.curzon.com/ticketing/seats/HOX1-14316/"
         },
         {
-          "starts_at": "2024-01-17T17:10:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-21833/"
-        },
-        {
           "starts_at": "2024-01-17T18:30:00+00:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-21543/"
@@ -77,11 +47,6 @@
           "url": "https://www.curzon.com/ticketing/seats/CAM1-21542/"
         },
         {
-          "starts_at": "2024-01-17T17:10:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-86898/"
-        },
-        {
           "starts_at": "2024-01-17T20:00:00+00:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-87214/"
@@ -90,95 +55,6 @@
           "starts_at": "2024-01-17T20:30:00+00:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-86895/"
-        }
-      ]
-    },
-    {
-      "title": "The Boy And The Heron (Subtitled)",
-      "trailer": null,
-      "synopsis": "A young boy named Mahito yearning for his mother ventures into a world shared by the living and the dead. There death comes to an end, and life finds a new beginning. A semi-autobiographical fantasy about life, death and creation, in tribute to friendship from the mind of Hayao Miyazaki.",
-      "runtime": 124,
-      "times": [
-        {
-          "starts_at": "2024-01-17T17:40:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-46415/"
-        },
-        {
-          "starts_at": "2024-01-17T18:00:00+00:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-43109/"
-        },
-        {
-          "starts_at": "2024-01-17T17:10:00+00:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-14515/"
-        },
-        {
-          "starts_at": "2024-01-17T21:00:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-21798/"
-        },
-        {
-          "starts_at": "2024-01-17T21:00:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-87181/"
-        }
-      ]
-    },
-    {
-      "title": "Napoleon",
-      "trailer": "https://www.youtube.com/watch?v=1rJjrcKWupE",
-      "synopsis": "Napoleon is a spectacle-filled action epic that details the checkered rise and fall of the iconic French Emperor Napoleon Bonaparte, played by Oscar®-winner Joaquin Phoenix. Against a stunning backdrop of large-scale filmmaking orchestrated by legendary director Ridley Scott, the film captures Bonaparte's relentless journey to power through the prism of his addictive, volatile relationship with his one true love, Josephine, showcasing his visionary military and political tactics against some of the most dynamic practical battle sequences ever filmed.",
-      "runtime": 158,
-      "times": [
-        {
-          "starts_at": "2024-01-17T18:00:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-46423/"
-        }
-      ]
-    },
-    {
-      "title": "Priscilla",
-      "trailer": null,
-      "synopsis": "When teenage Priscilla Beaulieu meets Elvis Presley at a party, the man who is already a meteoric rock-and-roll superstar becomes someone entirely unexpected in private moments: a thrilling crush, an ally in loneliness, a vulnerable best friend. Through Priscilla’s eyes, Sofia Coppola tells the unseen side of a great American myth in Elvis and Priscilla's long courtship and turbulent marriage, from a German army base to his dream-world estate at Graceland, in this deeply felt and ravishingly detailed portrait of love, fantasy, and fame.",
-      "runtime": 113,
-      "times": [
-        {
-          "starts_at": "2024-01-17T18:20:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-46418/"
-        },
-        {
-          "starts_at": "2024-01-17T17:00:00+00:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-43107/"
-        },
-        {
-          "starts_at": "2024-01-17T21:30:00+00:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-42971/"
-        },
-        {
-          "starts_at": "2024-01-17T17:45:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-69976/"
-        },
-        {
-          "starts_at": "2024-01-17T18:40:00+00:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-14519/"
-        },
-        {
-          "starts_at": "2024-01-17T18:10:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-21807/"
-        },
-        {
-          "starts_at": "2024-01-17T17:20:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-87182/"
         }
       ]
     },
@@ -228,55 +104,24 @@
           "starts_at": "2024-01-17T21:30:00+00:00",
           "site": "Curzon Victoria",
           "url": "https://www.curzon.com/ticketing/seats/VIC1-70060/"
+        }
+      ]
+    },
+    {
+      "title": "Priscilla",
+      "trailer": null,
+      "synopsis": "When teenage Priscilla Beaulieu meets Elvis Presley at a party, the man who is already a meteoric rock-and-roll superstar becomes someone entirely unexpected in private moments: a thrilling crush, an ally in loneliness, a vulnerable best friend. Through Priscilla’s eyes, Sofia Coppola tells the unseen side of a great American myth in Elvis and Priscilla's long courtship and turbulent marriage, from a German army base to his dream-world estate at Graceland, in this deeply felt and ravishingly detailed portrait of love, fantasy, and fame.",
+      "runtime": 113,
+      "times": [
+        {
+          "starts_at": "2024-01-17T21:30:00+00:00",
+          "site": "Curzon Soho",
+          "url": "https://www.curzon.com/ticketing/seats/SOH1-42971/"
         },
         {
-          "starts_at": "2024-01-17T17:30:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-21794/"
-        }
-      ]
-    },
-    {
-      "title": "Anyone But You",
-      "trailer": "https://www.youtube.com/watch?v=gbjdSlTHFts",
-      "synopsis": "In the comedy Anyone But You, Bea (Sydney Sweeney) and Ben (Glen Powell) look like the perfect couple, but after an amazing first date something happens that turns their fiery hot attraction ice cold - until they find themselves unexpectedly thrust together at a destination wedding in Australia. So they do what any two mature adults would do: pretend to be a couple.",
-      "runtime": 103,
-      "times": [
-        {
-          "starts_at": "2024-01-17T15:45:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-70061/"
-        },
-        {
-          "starts_at": "2024-01-17T20:30:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-69966/"
-        }
-      ]
-    },
-    {
-      "title": "Wonka",
-      "trailer": "https://www.youtube.com/watch?v=qhzNQ9vaJqE",
-      "synopsis": "The Story will focus on a young Willy Wonka and his adventures prior to opening the world’s most famous chocolate factory.",
-      "runtime": 116,
-      "times": [
-        {
-          "starts_at": "2024-01-17T16:00:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-70058/"
-        }
-      ]
-    },
-    {
-      "title": "Boys in the Boat",
-      "trailer": "https://www.youtube.com/watch?v=pzpwDrZeyqI",
-      "synopsis": "A 1930s-set story centered on the University of Washington's rowing team, from their Depression-era beginnings to winning gold at the 1936 Berlin Olympics.",
-      "runtime": 124,
-      "times": [
-        {
-          "starts_at": "2024-01-17T17:15:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-69975/"
+          "starts_at": "2024-01-17T18:40:00+00:00",
+          "site": "Curzon Hoxton",
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-14519/"
         }
       ]
     },
@@ -297,14 +142,22 @@
           "url": "https://www.curzon.com/ticketing/seats/VIC1-70056/"
         },
         {
-          "starts_at": "2024-01-17T16:00:00+00:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-14516/"
-        },
-        {
           "starts_at": "2024-01-17T20:20:00+00:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-21804/"
+        }
+      ]
+    },
+    {
+      "title": "Anyone But You",
+      "trailer": "https://www.youtube.com/watch?v=gbjdSlTHFts",
+      "synopsis": "In the comedy Anyone But You, Bea (Sydney Sweeney) and Ben (Glen Powell) look like the perfect couple, but after an amazing first date something happens that turns their fiery hot attraction ice cold - until they find themselves unexpectedly thrust together at a destination wedding in Australia. So they do what any two mature adults would do: pretend to be a couple.",
+      "runtime": 103,
+      "times": [
+        {
+          "starts_at": "2024-01-17T20:30:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-69966/"
         }
       ]
     },
@@ -322,37 +175,6 @@
       ]
     },
     {
-      "title": "Downfall of the Crypto King",
-      "trailer": null,
-      "synopsis": "Panorama explores the breakneck rise and sensational fall of Sam Bankman-Fried, the maths genius who set out to transform the world of crypto but ended up being its biggest loser.",
-      "runtime": 90,
-      "times": [
-        {
-          "starts_at": "2024-01-17T16:15:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-21795/"
-        },
-        {
-          "starts_at": "2024-01-17T21:30:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-21793/"
-        }
-      ]
-    },
-    {
-      "title": "The Boy And The Heron (Dubbed)",
-      "trailer": null,
-      "synopsis": "The English dub for Hayao Miyazaki's latest adventure features an all-star cast that includes Robert Pattinson, Florence Pugh, Christian Bale, Willem Dafoe and Mark Hamill. The film follows a young boy named Mahito, who yearns for his late mother and ventures into a world shared by the living and the dead. There, death comes to an end, and life finds a new beginning. The Boy and the Heron is a dazzling, semi-autobiographical fantasy about life, death and creation.",
-      "runtime": 124,
-      "times": [
-        {
-          "starts_at": "2024-01-17T17:50:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-21800/"
-        }
-      ]
-    },
-    {
       "title": "Anatomy of a Fall",
       "trailer": "https://www.youtube.com/watch?v=_MdTMA0PetA",
       "synopsis": "When her husband Samuel is mysteriously found dead in the snow below their secluded chalet, Sandra becomes the main suspect when the police begin to question whether he fell or was pushed. The trial soon becomes not just an investigation, but a gripping psychological journey into the depths of Sandra and Samuel's complicated marriage. With conflicting evidence and inconsistent testimony, words are wielded like weapons and shocking truths come to light in this thrilling Palme d’Or winner.",
@@ -362,37 +184,37 @@
           "starts_at": "2024-01-17T20:40:00+00:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-21808/"
+        }
+      ]
+    },
+    {
+      "title": "The Boy And The Heron (Subtitled)",
+      "trailer": null,
+      "synopsis": "A young boy named Mahito yearning for his mother ventures into a world shared by the living and the dead. There death comes to an end, and life finds a new beginning. A semi-autobiographical fantasy about life, death and creation, in tribute to friendship from the mind of Hayao Miyazaki.",
+      "runtime": 124,
+      "times": [
+        {
+          "starts_at": "2024-01-17T21:00:00+00:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-21798/"
         },
         {
-          "starts_at": "2024-01-17T17:45:00+00:00",
+          "starts_at": "2024-01-17T21:00:00+00:00",
           "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-87186/"
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-87181/"
         }
       ]
     },
     {
-      "title": "Maestro",
-      "trailer": "https://www.youtube.com/watch?v=gJP2QblqLA0",
-      "synopsis": "Maestro is a towering and fearless love story chronicling the lifelong relationship between Leonard Bernstein and Felicia Montealegre Cohn Bernstein. A love letter to life and art, Maestro at its core is an emotionally epic portrayal of family and love.",
-      "runtime": 129,
-      "times": [
-        {
-          "starts_at": "2024-01-17T18:00:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-87175/"
-        }
-      ]
-    },
-    {
-      "title": "DocHouse: Art Talent Show",
+      "title": "Downfall of the Crypto King",
       "trailer": null,
-      "synopsis": "At the Prague Academy of Fine Arts, it's time for a new batch of potential students to go through the 3-day entrance exam process. The Academy's tutors prepare to put them through their paces and whittle down hundreds of hopefuls for a few coveted spots.\r\n\r\nThey will question their artistic beliefs as well as their talents, push them out of their comfort zones, encourage debate and travel with them through the highs and lows of the most important three days of their burgeoning careers.\r\n\r\nThe whole process is brilliantly observed with droll detachment by filmmakers Adéla Komrzý and Tomáš Bojar, who have created their own artistic masterpiece - landing somewhere between Ruben Östlund and Frederick Wiseman.\r\n\r\nHow do you assess artistic talent? Who gets to select the artists of the future? What role can art play in today's world? And what is the best theme for the Day 2 practical exam?",
-      "runtime": 102,
+      "synopsis": "Panorama explores the breakneck rise and sensational fall of Sam Bankman-Fried, the maths genius who set out to transform the world of crypto but ended up being its biggest loser.",
+      "runtime": 90,
       "times": [
         {
-          "starts_at": "2024-01-17T18:20:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-86871/"
+          "starts_at": "2024-01-17T21:30:00+00:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-21793/"
         }
       ]
     },
