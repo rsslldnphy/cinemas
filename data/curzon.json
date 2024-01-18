@@ -7,11 +7,6 @@
       "runtime": 113,
       "times": [
         {
-          "starts_at": "2024-01-18T15:40:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-46432/"
-        },
-        {
           "starts_at": "2024-01-18T18:40:00+00:00",
           "site": "Curzon Aldgate",
           "url": "https://www.curzon.com/ticketing/seats/ALD1-46429/"
@@ -22,19 +17,9 @@
           "url": "https://www.curzon.com/ticketing/seats/SOH1-42964/"
         },
         {
-          "starts_at": "2024-01-18T17:45:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-70011/"
-        },
-        {
           "starts_at": "2024-01-18T20:45:00+00:00",
           "site": "Curzon Hoxton",
           "url": "https://www.curzon.com/ticketing/seats/HOX1-14512/"
-        },
-        {
-          "starts_at": "2024-01-18T15:30:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-21823/"
         },
         {
           "starts_at": "2024-01-18T20:20:00+00:00",
@@ -55,24 +40,9 @@
       "runtime": 142,
       "times": [
         {
-          "starts_at": "2024-01-18T16:00:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-46163/"
-        },
-        {
-          "starts_at": "2024-01-18T17:10:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-46431/"
-        },
-        {
           "starts_at": "2024-01-18T19:20:00+00:00",
           "site": "Curzon Aldgate",
           "url": "https://www.curzon.com/ticketing/seats/ALD1-46164/"
-        },
-        {
-          "starts_at": "2024-01-18T18:20:00+00:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-42961/"
         },
         {
           "starts_at": "2024-01-18T20:40:00+00:00",
@@ -80,34 +50,14 @@
           "url": "https://www.curzon.com/ticketing/seats/SOH1-42962/"
         },
         {
-          "starts_at": "2024-01-18T17:30:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-69717/"
-        },
-        {
-          "starts_at": "2024-01-18T18:00:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-70064/"
-        },
-        {
           "starts_at": "2024-01-18T20:45:00+00:00",
           "site": "Curzon Victoria",
           "url": "https://www.curzon.com/ticketing/seats/VIC1-69716/"
         },
         {
-          "starts_at": "2024-01-18T17:30:00+00:00",
-          "site": "Curzon Mayfair",
-          "url": "https://www.curzon.com/ticketing/seats/MAY1-25846/"
-        },
-        {
           "starts_at": "2024-01-18T20:40:00+00:00",
           "site": "Curzon Mayfair",
           "url": "https://www.curzon.com/ticketing/seats/MAY1-25851/"
-        },
-        {
-          "starts_at": "2024-01-18T17:50:00+00:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-14328/"
         },
         {
           "starts_at": "2024-01-18T19:45:00+00:00",
@@ -120,11 +70,6 @@
           "url": "https://www.curzon.com/ticketing/seats/HOX1-14329/"
         },
         {
-          "starts_at": "2024-01-18T17:10:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-21834/"
-        },
-        {
           "starts_at": "2024-01-18T18:30:00+00:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-21541/"
@@ -135,52 +80,9 @@
           "url": "https://www.curzon.com/ticketing/seats/CAM1-21540/"
         },
         {
-          "starts_at": "2024-01-18T17:20:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-87208/"
-        },
-        {
-          "starts_at": "2024-01-18T18:00:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-87215/"
-        },
-        {
           "starts_at": "2024-01-18T20:40:00+00:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-87207/"
-        }
-      ]
-    },
-    {
-      "title": "The Boy And The Heron (Subtitled)",
-      "trailer": null,
-      "synopsis": "A young boy named Mahito yearning for his mother ventures into a world shared by the living and the dead. There death comes to an end, and life finds a new beginning. A semi-autobiographical fantasy about life, death and creation, in tribute to friendship from the mind of Hayao Miyazaki.",
-      "runtime": 124,
-      "times": [
-        {
-          "starts_at": "2024-01-18T18:00:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-46428/"
-        },
-        {
-          "starts_at": "2024-01-18T21:20:00+00:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-43113/"
-        },
-        {
-          "starts_at": "2024-01-18T18:00:00+00:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-14508/"
-        },
-        {
-          "starts_at": "2024-01-18T21:00:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-21816/"
-        },
-        {
-          "starts_at": "2024-01-18T21:00:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-87203/"
         }
       ]
     },
@@ -232,63 +134,32 @@
           "url": "https://www.curzon.com/ticketing/seats/ALD1-46427/"
         },
         {
-          "starts_at": "2024-01-18T15:30:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-70014/"
-        },
-        {
           "starts_at": "2024-01-18T21:30:00+00:00",
           "site": "Curzon Victoria",
           "url": "https://www.curzon.com/ticketing/seats/VIC1-70015/"
-        },
-        {
-          "starts_at": "2024-01-18T17:30:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-21812/"
         }
       ]
     },
     {
-      "title": "Saltburn",
-      "trailer": "https://www.youtube.com/watch?v=s8l0llLj1uM",
-      "synopsis": "Struggling to find his place at Oxford University, student Oliver Quick finds himself drawn into the world of the charming and aristocratic Felix Catton, who invites him to Saltburn, his eccentric family's sprawling estate, for a summer never to be forgotten.",
-      "runtime": 131,
-      "times": [
-        {
-          "starts_at": "2024-01-18T17:40:00+00:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-43114/"
-        },
-        {
-          "starts_at": "2024-01-18T17:00:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-87197/"
-        }
-      ]
-    },
-    {
-      "title": "Wonka",
-      "trailer": "https://www.youtube.com/watch?v=qhzNQ9vaJqE",
-      "synopsis": "The Story will focus on a young Willy Wonka and his adventures prior to opening the world’s most famous chocolate factory.",
-      "runtime": 116,
-      "times": [
-        {
-          "starts_at": "2024-01-18T16:15:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-70013/"
-        }
-      ]
-    },
-    {
-      "title": "Boys in the Boat",
-      "trailer": "https://www.youtube.com/watch?v=pzpwDrZeyqI",
-      "synopsis": "A 1930s-set story centered on the University of Washington's rowing team, from their Depression-era beginnings to winning gold at the 1936 Berlin Olympics.",
+      "title": "The Boy And The Heron (Subtitled)",
+      "trailer": null,
+      "synopsis": "A young boy named Mahito yearning for his mother ventures into a world shared by the living and the dead. There death comes to an end, and life finds a new beginning. A semi-autobiographical fantasy about life, death and creation, in tribute to friendship from the mind of Hayao Miyazaki.",
       "runtime": 124,
       "times": [
         {
-          "starts_at": "2024-01-18T17:15:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-70012/"
+          "starts_at": "2024-01-18T21:20:00+00:00",
+          "site": "Curzon Soho",
+          "url": "https://www.curzon.com/ticketing/seats/SOH1-43113/"
+        },
+        {
+          "starts_at": "2024-01-18T21:00:00+00:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-21816/"
+        },
+        {
+          "starts_at": "2024-01-18T21:00:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-87203/"
         }
       ]
     },
@@ -307,21 +178,6 @@
           "starts_at": "2024-01-18T21:10:00+00:00",
           "site": "Curzon Victoria",
           "url": "https://www.curzon.com/ticketing/seats/VIC1-70016/"
-        },
-        {
-          "starts_at": "2024-01-18T17:45:00+00:00",
-          "site": "Curzon Mayfair",
-          "url": "https://www.curzon.com/ticketing/seats/MAY1-25853/"
-        },
-        {
-          "starts_at": "2024-01-18T15:30:00+00:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-14511/"
-        },
-        {
-          "starts_at": "2024-01-18T18:10:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-21822/"
         }
       ]
     },
@@ -335,50 +191,6 @@
           "starts_at": "2024-01-18T20:30:00+00:00",
           "site": "Curzon Victoria",
           "url": "https://www.curzon.com/ticketing/seats/VIC1-70007/"
-        }
-      ]
-    },
-    {
-      "title": "The Killer",
-      "trailer": null,
-      "synopsis": "A man solitary and cold, methodical and unencumbered by scruples or regrets, the killer waits in the shadows, watching for his next target. And yet the longer he waits, the more he thinks he's losing his mind, if not his cool. A brutal, bloody and stylish noir story of a professional assassin lost in a world without a moral compass, this is a case study of a man alone, armed to the teeth and slowly losing his mind.",
-      "runtime": 118,
-      "times": [
-        {
-          "starts_at": "2024-01-18T17:00:00+00:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-14507/"
-        }
-      ]
-    },
-    {
-      "title": "Downfall of the Crypto King",
-      "trailer": null,
-      "synopsis": "Panorama explores the breakneck rise and sensational fall of Sam Bankman-Fried, the maths genius who set out to transform the world of crypto but ended up being its biggest loser.",
-      "runtime": 90,
-      "times": [
-        {
-          "starts_at": "2024-01-18T16:15:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-21813/"
-        },
-        {
-          "starts_at": "2024-01-18T21:30:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-21811/"
-        }
-      ]
-    },
-    {
-      "title": "The Boy And The Heron (Dubbed)",
-      "trailer": null,
-      "synopsis": "The English dub for Hayao Miyazaki's latest adventure features an all-star cast that includes Robert Pattinson, Florence Pugh, Christian Bale, Willem Dafoe and Mark Hamill. The film follows a young boy named Mahito, who yearns for his late mother and ventures into a world shared by the living and the dead. There, death comes to an end, and life finds a new beginning. The Boy and the Heron is a dazzling, semi-autobiographical fantasy about life, death and creation.",
-      "runtime": 124,
-      "times": [
-        {
-          "starts_at": "2024-01-18T17:50:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-21818/"
         }
       ]
     },
@@ -401,15 +213,15 @@
       ]
     },
     {
-      "title": "Maestro",
-      "trailer": "https://www.youtube.com/watch?v=gJP2QblqLA0",
-      "synopsis": "Maestro is a towering and fearless love story chronicling the lifelong relationship between Leonard Bernstein and Felicia Montealegre Cohn Bernstein. A love letter to life and art, Maestro at its core is an emotionally epic portrayal of family and love.",
-      "runtime": 129,
+      "title": "Downfall of the Crypto King",
+      "trailer": null,
+      "synopsis": "Panorama explores the breakneck rise and sensational fall of Sam Bankman-Fried, the maths genius who set out to transform the world of crypto but ended up being its biggest loser.",
+      "runtime": 90,
       "times": [
         {
-          "starts_at": "2024-01-18T17:40:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-87194/"
+          "starts_at": "2024-01-18T21:30:00+00:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-21811/"
         }
       ]
     },
