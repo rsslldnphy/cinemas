@@ -1,78 +1,138 @@
 {
   "2024-01-20": [
     {
-      "title": "Maestro",
-      "trailer": "https://www.youtube.com/watch?v=zU6GbM5c9aE",
-      "synopsis": "Maestro is a towering and fearless love story chronicling the lifelong relationship between Leonard Bernstein and Felicia Montealegre Cohn Bernstein. A love letter to life and art, Maestro at its core is an emotionally epic portrayal of family and love.",
-      "runtime": 129,
+      "title": "Poor Things",
+      "trailer": "https://www.youtube.com/watch?v=-EfYJWRw2FM",
+      "synopsis": "From filmmaker Yorgos Lanthimos and producer Emma Stone comes the incredible tale and fantastical evolution of Bella Baxter (Stone), a young woman brought back to life by the brilliant and unorthodox scientist Dr. Godwin Baxter (Dafoe).",
+      "runtime": 142,
       "times": [
         {
-          "starts_at": "2024-01-20T11:00:00+00:00",
+          "starts_at": "2024-01-20T12:30:00+00:00",
           "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-46568/"
-        },
-        {
-          "starts_at": "2024-01-20T17:00:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-46572/"
-        },
-        {
-          "starts_at": "2024-01-20T12:50:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-70127/"
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-46558/"
         },
         {
           "starts_at": "2024-01-20T14:20:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-21866/"
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-46571/"
+        },
+        {
+          "starts_at": "2024-01-20T17:40:00+00:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-46570/"
+        },
+        {
+          "starts_at": "2024-01-20T20:00:00+00:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-46561/"
+        },
+        {
+          "starts_at": "2024-01-20T14:40:00+00:00",
+          "site": "Curzon Soho",
+          "url": "https://www.curzon.com/ticketing/seats/SOH1-43156/"
+        },
+        {
+          "starts_at": "2024-01-20T17:10:00+00:00",
+          "site": "Curzon Soho",
+          "url": "https://www.curzon.com/ticketing/seats/SOH1-43152/"
+        },
+        {
+          "starts_at": "2024-01-20T18:00:00+00:00",
+          "site": "Curzon Soho",
+          "url": "https://www.curzon.com/ticketing/seats/SOH1-43151/"
         },
         {
           "starts_at": "2024-01-20T20:20:00+00:00",
+          "site": "Curzon Soho",
+          "url": "https://www.curzon.com/ticketing/seats/SOH1-43146/"
+        },
+        {
+          "starts_at": "2024-01-20T14:30:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-70139/"
+        },
+        {
+          "starts_at": "2024-01-20T18:20:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-70132/"
+        },
+        {
+          "starts_at": "2024-01-20T20:40:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-70143/"
+        },
+        {
+          "starts_at": "2024-01-20T17:00:00+00:00",
+          "site": "Curzon Mayfair",
+          "url": "https://www.curzon.com/ticketing/seats/MAY1-25871/"
+        },
+        {
+          "starts_at": "2024-01-20T20:15:00+00:00",
+          "site": "Curzon Mayfair",
+          "url": "https://www.curzon.com/ticketing/seats/MAY1-25870/"
+        },
+        {
+          "starts_at": "2024-01-20T14:00:00+00:00",
+          "site": "Curzon Hoxton",
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-14570/"
+        },
+        {
+          "starts_at": "2024-01-20T17:10:00+00:00",
+          "site": "Curzon Hoxton",
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-14568/"
+        },
+        {
+          "starts_at": "2024-01-20T19:00:00+00:00",
+          "site": "Curzon Hoxton",
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-14571/"
+        },
+        {
+          "starts_at": "2024-01-20T20:20:00+00:00",
+          "site": "Curzon Hoxton",
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-14565/"
+        },
+        {
+          "starts_at": "2024-01-20T14:00:00+00:00",
           "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-21871/"
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-21864/"
         },
         {
-          "starts_at": "2024-01-20T12:20:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-87287/"
+          "starts_at": "2024-01-20T18:00:00+00:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-21874/"
         },
         {
-          "starts_at": "2024-01-20T17:15:00+00:00",
+          "starts_at": "2024-01-20T20:00:00+00:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-21872/"
+        },
+        {
+          "starts_at": "2024-01-20T13:50:00+00:00",
           "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-87293/"
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-87278/"
+        },
+        {
+          "starts_at": "2024-01-20T17:00:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-87275/"
+        },
+        {
+          "starts_at": "2024-01-20T20:10:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-87283/"
         }
       ]
     },
     {
-      "title": "The Boy And The Heron (Subtitled)",
+      "title": "Rustin",
       "trailer": null,
-      "synopsis": "A young boy named Mahito yearning for his mother ventures into a world shared by the living and the dead. There death comes to an end, and life finds a new beginning. A semi-autobiographical fantasy about life, death and creation, in tribute to friendship from the mind of Hayao Miyazaki.",
-      "runtime": 124,
+      "synopsis": "The architect of 1963’s momentous March on Washington, Bayard Rustin was one of the greatest activists and organizers the world has ever known. He challenged authority, never apologized for who he was, what he believed, or who he desired. And he did not back down. He made history, and in turn, he was forgotten. Directed by DGA award and five-time Tony award winner George C. Wolfe and starring Emmy award winner Colman Domingo, Rustin shines a long overdue spotlight on the extraordinary man who, alongside giants like the Reverend Martin Luther King Jr., Adam Clayton Powell Jr., and Ella Baker, dared to imagine a different world, and inspired a movement in a march toward freedom. Produced by Academy award winner Bruce Cohen, Higher Ground's Tonia Davis and George C. Wolfe, the film features an all-star cast including Chris Rock, Glynn Turman, Jeffrey Wright and Audra McDonald.",
+      "runtime": 106,
       "times": [
         {
-          "starts_at": "2024-01-20T11:20:00+00:00",
+          "starts_at": "2024-01-20T14:00:00+00:00",
           "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-46564/"
-        },
-        {
-          "starts_at": "2024-01-20T21:10:00+00:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-43153/"
-        },
-        {
-          "starts_at": "2024-01-20T13:40:00+00:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-14574/"
-        },
-        {
-          "starts_at": "2024-01-20T15:20:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-87290/"
-        },
-        {
-          "starts_at": "2024-01-20T18:10:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-87288/"
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-46565/"
         }
       ]
     },
@@ -82,11 +142,6 @@
       "synopsis": "From acclaimed director Alexander Payne, The Holdovers follows a curmudgeonly teacher (Paul Giamatti) at a New England prep school who is forced to remain on campus during the holidays to babysit the handful of students with nowhere to go. Eventually he forms an unlikely bond with one of them -- a damaged, brainy troublemaker (newcomer Dominic Sessa) -- and with the school’s head cook, who lost a son in Vietnam (Da’Vine Joy Randolph). With outstanding critical acclaim, The Holdovers is now the winner of 2 Golden Globes for Best Actor (Comedy) for Paul Giamatti and Best Supporting Actress for Da’Vine Joy Randolph.",
       "runtime": 133,
       "times": [
-        {
-          "starts_at": "2024-01-20T12:00:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-46569/"
-        },
         {
           "starts_at": "2024-01-20T15:00:00+00:00",
           "site": "Curzon Aldgate",
@@ -111,11 +166,6 @@
           "starts_at": "2024-01-20T17:40:00+00:00",
           "site": "Curzon Soho",
           "url": "https://www.curzon.com/ticketing/seats/SOH1-43147/"
-        },
-        {
-          "starts_at": "2024-01-20T12:00:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-70126/"
         },
         {
           "starts_at": "2024-01-20T14:15:00+00:00",
@@ -148,11 +198,6 @@
           "url": "https://www.curzon.com/ticketing/seats/MAY1-25866/"
         },
         {
-          "starts_at": "2024-01-20T11:40:00+00:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-14567/"
-        },
-        {
           "starts_at": "2024-01-20T17:30:00+00:00",
           "site": "Curzon Hoxton",
           "url": "https://www.curzon.com/ticketing/seats/HOX1-14564/"
@@ -161,11 +206,6 @@
           "starts_at": "2024-01-20T20:40:00+00:00",
           "site": "Curzon Hoxton",
           "url": "https://www.curzon.com/ticketing/seats/HOX1-14569/"
-        },
-        {
-          "starts_at": "2024-01-20T11:45:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-21868/"
         },
         {
           "starts_at": "2024-01-20T14:40:00+00:00",
@@ -183,11 +223,6 @@
           "url": "https://www.curzon.com/ticketing/seats/CAM1-21870/"
         },
         {
-          "starts_at": "2024-01-20T11:45:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-87281/"
-        },
-        {
           "starts_at": "2024-01-20T14:40:00+00:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-87279/"
@@ -201,172 +236,6 @@
           "starts_at": "2024-01-20T20:40:00+00:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-87285/"
-        }
-      ]
-    },
-    {
-      "title": "Poor Things",
-      "trailer": "https://www.youtube.com/watch?v=-EfYJWRw2FM",
-      "synopsis": "From filmmaker Yorgos Lanthimos and producer Emma Stone comes the incredible tale and fantastical evolution of Bella Baxter (Stone), a young woman brought back to life by the brilliant and unorthodox scientist Dr. Godwin Baxter (Dafoe).",
-      "runtime": 142,
-      "times": [
-        {
-          "starts_at": "2024-01-20T12:30:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-46558/"
-        },
-        {
-          "starts_at": "2024-01-20T14:20:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-46571/"
-        },
-        {
-          "starts_at": "2024-01-20T17:40:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-46570/"
-        },
-        {
-          "starts_at": "2024-01-20T20:00:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-46561/"
-        },
-        {
-          "starts_at": "2024-01-20T11:20:00+00:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-43148/"
-        },
-        {
-          "starts_at": "2024-01-20T14:40:00+00:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-43156/"
-        },
-        {
-          "starts_at": "2024-01-20T17:10:00+00:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-43152/"
-        },
-        {
-          "starts_at": "2024-01-20T18:00:00+00:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-43151/"
-        },
-        {
-          "starts_at": "2024-01-20T20:20:00+00:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-43146/"
-        },
-        {
-          "starts_at": "2024-01-20T11:10:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-70243/"
-        },
-        {
-          "starts_at": "2024-01-20T14:30:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-70139/"
-        },
-        {
-          "starts_at": "2024-01-20T18:20:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-70132/"
-        },
-        {
-          "starts_at": "2024-01-20T20:40:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-70143/"
-        },
-        {
-          "starts_at": "2024-01-20T11:30:00+00:00",
-          "site": "Curzon Mayfair",
-          "url": "https://www.curzon.com/ticketing/seats/MAY1-25872/"
-        },
-        {
-          "starts_at": "2024-01-20T17:00:00+00:00",
-          "site": "Curzon Mayfair",
-          "url": "https://www.curzon.com/ticketing/seats/MAY1-25871/"
-        },
-        {
-          "starts_at": "2024-01-20T20:15:00+00:00",
-          "site": "Curzon Mayfair",
-          "url": "https://www.curzon.com/ticketing/seats/MAY1-25870/"
-        },
-        {
-          "starts_at": "2024-01-20T11:00:00+00:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-14566/"
-        },
-        {
-          "starts_at": "2024-01-20T14:00:00+00:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-14570/"
-        },
-        {
-          "starts_at": "2024-01-20T17:10:00+00:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-14568/"
-        },
-        {
-          "starts_at": "2024-01-20T19:00:00+00:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-14571/"
-        },
-        {
-          "starts_at": "2024-01-20T20:20:00+00:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-14565/"
-        },
-        {
-          "starts_at": "2024-01-20T12:00:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-21867/"
-        },
-        {
-          "starts_at": "2024-01-20T14:00:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-21864/"
-        },
-        {
-          "starts_at": "2024-01-20T18:00:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-21874/"
-        },
-        {
-          "starts_at": "2024-01-20T20:00:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-21872/"
-        },
-        {
-          "starts_at": "2024-01-20T11:15:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-87282/"
-        },
-        {
-          "starts_at": "2024-01-20T13:50:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-87278/"
-        },
-        {
-          "starts_at": "2024-01-20T17:00:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-87275/"
-        },
-        {
-          "starts_at": "2024-01-20T20:10:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-87283/"
-        }
-      ]
-    },
-    {
-      "title": "Rustin",
-      "trailer": null,
-      "synopsis": "The architect of 1963’s momentous March on Washington, Bayard Rustin was one of the greatest activists and organizers the world has ever known. He challenged authority, never apologized for who he was, what he believed, or who he desired. And he did not back down. He made history, and in turn, he was forgotten. Directed by DGA award and five-time Tony award winner George C. Wolfe and starring Emmy award winner Colman Domingo, Rustin shines a long overdue spotlight on the extraordinary man who, alongside giants like the Reverend Martin Luther King Jr., Adam Clayton Powell Jr., and Ella Baker, dared to imagine a different world, and inspired a movement in a march toward freedom. Produced by Academy award winner Bruce Cohen, Higher Ground's Tonia Davis and George C. Wolfe, the film features an all-star cast including Chris Rock, Glynn Turman, Jeffrey Wright and Audra McDonald.",
-      "runtime": 106,
-      "times": [
-        {
-          "starts_at": "2024-01-20T14:00:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-46565/"
         }
       ]
     },
@@ -404,6 +273,39 @@
       ]
     },
     {
+      "title": "Maestro",
+      "trailer": "https://www.youtube.com/watch?v=zU6GbM5c9aE",
+      "synopsis": "Maestro is a towering and fearless love story chronicling the lifelong relationship between Leonard Bernstein and Felicia Montealegre Cohn Bernstein. A love letter to life and art, Maestro at its core is an emotionally epic portrayal of family and love.",
+      "runtime": 129,
+      "times": [
+        {
+          "starts_at": "2024-01-20T17:00:00+00:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-46572/"
+        },
+        {
+          "starts_at": "2024-01-20T12:50:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-70127/"
+        },
+        {
+          "starts_at": "2024-01-20T14:20:00+00:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-21866/"
+        },
+        {
+          "starts_at": "2024-01-20T20:20:00+00:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-21871/"
+        },
+        {
+          "starts_at": "2024-01-20T17:15:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-87293/"
+        }
+      ]
+    },
+    {
       "title": "Chicken Run: Dawn of the Nugget",
       "trailer": null,
       "synopsis": "After escaping from Tweedy's farm, Ginger and all the chickens living the dream in their peaceful island sanctuary, far from the dangers of the human world.",
@@ -413,42 +315,6 @@
           "starts_at": "2024-01-20T21:20:00+00:00",
           "site": "Curzon Aldgate",
           "url": "https://www.curzon.com/ticketing/seats/ALD1-46559/"
-        }
-      ]
-    },
-    {
-      "title": "Saltburn",
-      "trailer": "https://www.youtube.com/watch?v=s8l0llLj1uM",
-      "synopsis": "Struggling to find his place at Oxford University, student Oliver Quick finds himself drawn into the world of the charming and aristocratic Felix Catton, who invites him to Saltburn, his eccentric family's sprawling estate, for a summer never to be forgotten.",
-      "runtime": 131,
-      "times": [
-        {
-          "starts_at": "2024-01-20T11:00:00+00:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-43155/"
-        },
-        {
-          "starts_at": "2024-01-20T20:40:00+00:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-43149/"
-        }
-      ]
-    },
-    {
-      "title": "The Boy And The Heron (Dubbed)",
-      "trailer": null,
-      "synopsis": "The English dub for Hayao Miyazaki's latest adventure features an all-star cast that includes Robert Pattinson, Florence Pugh, Christian Bale, Willem Dafoe and Mark Hamill. The film follows a young boy named Mahito, who yearns for his late mother and ventures into a world shared by the living and the dead. There, death comes to an end, and life finds a new beginning. The Boy and the Heron is a dazzling, semi-autobiographical fantasy about life, death and creation.",
-      "runtime": 124,
-      "times": [
-        {
-          "starts_at": "2024-01-20T11:40:00+00:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-43154/"
-        },
-        {
-          "starts_at": "2024-01-20T18:15:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-21985/"
         }
       ]
     },
@@ -466,51 +332,43 @@
       ]
     },
     {
-      "title": "Wonka",
-      "trailer": "https://www.youtube.com/watch?v=qhzNQ9vaJqE",
-      "synopsis": "The Story will focus on a young Willy Wonka and his adventures prior to opening the world’s most famous chocolate factory.",
-      "runtime": 116,
+      "title": "Saltburn",
+      "trailer": "https://www.youtube.com/watch?v=s8l0llLj1uM",
+      "synopsis": "Struggling to find his place at Oxford University, student Oliver Quick finds himself drawn into the world of the charming and aristocratic Felix Catton, who invites him to Saltburn, his eccentric family's sprawling estate, for a summer never to be forgotten.",
+      "runtime": 131,
       "times": [
         {
-          "starts_at": "2024-01-20T10:20:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-70128/"
+          "starts_at": "2024-01-20T20:40:00+00:00",
+          "site": "Curzon Soho",
+          "url": "https://www.curzon.com/ticketing/seats/SOH1-43149/"
         }
       ]
     },
     {
-      "title": "Samsara",
-      "trailer": "https://www.youtube.com/watch?v=it-YSrv6ttA",
-      "synopsis": "Samsara is the Buddhist cycle of death and reincarnation. From the temples of Laos, alongside with teenage monks, we will accompany a soul in its transit from one body to another through the bardo. The words of the \"Tibetan Book of the Dead\" will be our guide to avoid getting lost in the afterlife. A luminous and sonorous journey that will lead us to reincarnate on the beaches of Zanzibar, where groups of women work in seaweed farms.\r\n\r\nCONTENT WARNING: This film contains flickering or flashing lights that may affect those with photosensitive epilepsy.\r\n",
-      "runtime": 114,
-      "times": [
-        {
-          "starts_at": "2024-01-20T11:00:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-69731/"
-        },
-        {
-          "starts_at": "2024-01-20T11:00:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-21545/"
-        },
-        {
-          "starts_at": "2024-01-20T11:00:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-86900/"
-        }
-      ]
-    },
-    {
-      "title": "Nyad",
+      "title": "The Boy And The Heron (Subtitled)",
       "trailer": null,
-      "synopsis": "A remarkable true story of tenacity, friendship and the triumph of the human spirit, NYAD recounts a riveting chapter in the life of world-class athlete Diana Nyad. Three decades after giving up marathon swimming in exchange for a prominent career as a sports journalist, at the age of 60, Diana (four-time Academy Award nominee Annette Bening) becomes obsessed with completing an epic swim that always eluded her: the 110 mile trek from Cuba to Florida, often referred to as the “Mount Everest” of swims. Determined to become the first person to finish the swim without a shark cage, Diana goes on a thrilling, four-year journey with her best friend and coach Bonnie Stoll (two-time Academy Award winner Jodie Foster) and a dedicated sailing team. \n\n\nThe inspirational film marks the narrative directorial debut of Academy Award-winning documentary filmmakers Elizabeth Chai Vasarhelyi and Jimmy Chin (Free Solo, The Rescue). NYAD is produced by Andrew Lazar, p.g.a. and Teddy Schwarzman, p.g.a. with a screenplay by Julia Cox, adapted from the memoir \"Find a Way\" by Diana Nyad.",
-      "runtime": 120,
+      "synopsis": "A young boy named Mahito yearning for his mother ventures into a world shared by the living and the dead. There death comes to an end, and life finds a new beginning. A semi-autobiographical fantasy about life, death and creation, in tribute to friendship from the mind of Hayao Miyazaki.",
+      "runtime": 124,
       "times": [
         {
-          "starts_at": "2024-01-20T11:40:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-70141/"
+          "starts_at": "2024-01-20T21:10:00+00:00",
+          "site": "Curzon Soho",
+          "url": "https://www.curzon.com/ticketing/seats/SOH1-43153/"
+        },
+        {
+          "starts_at": "2024-01-20T13:40:00+00:00",
+          "site": "Curzon Hoxton",
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-14574/"
+        },
+        {
+          "starts_at": "2024-01-20T15:20:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-87290/"
+        },
+        {
+          "starts_at": "2024-01-20T18:10:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-87288/"
         }
       ]
     },
@@ -534,11 +392,6 @@
           "starts_at": "2024-01-20T14:20:00+00:00",
           "site": "Curzon Mayfair",
           "url": "https://www.curzon.com/ticketing/seats/MAY1-25869/"
-        },
-        {
-          "starts_at": "2024-01-20T11:30:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-21876/"
         }
       ]
     },
@@ -628,37 +481,6 @@
       ]
     },
     {
-      "title": "The Color Purple",
-      "trailer": "https://www.youtube.com/watch?v=T5R74CbagYc",
-      "synopsis": "Produced by Oprah Winfrey, Steven Spielberg, Scott Sanders and Quincy Jones, THE COLOR PURPLE is a bold new take on the classic story of love and resilience, adapted from the beloved novel and the Broadway musical. Torn apart from her sister and her children, Celie faces many hardships in her life, but ultimately learns to find extraordinary strength in the unbreakable bonds of a new kind of sisterhood.",
-      "runtime": 140,
-      "times": [
-        {
-          "starts_at": "2024-01-20T11:00:00+00:00",
-          "site": "Curzon Mayfair",
-          "url": "https://www.curzon.com/ticketing/seats/MAY1-25802/"
-        }
-      ]
-    },
-    {
-      "title": "Kids Club: The Canterville Ghost",
-      "trailer": "https://www.youtube.com/watch?v=MiAP7CorKIo",
-      "synopsis": "In this vivid adaptation of Oscar Wilde’s classic children’s story, the ghost of Sir Simon Canterville (Stephen Fry) has been roaming his castle for centuries, searching for a descendant who can release him from his curse by performing a brave deed.  The only problem is – he keeps scaring them away!  \nFinally, a family move in who refuse to be startled, and Sir Simon is able to tell his tale to the inquisitive and courageous Virgina (Emily Carey).  Can the two of them survive The Ghost Catcher (Miranda Hart), and The Reverend (Toby Jones), to bring balance to the house and set Sir Simon free?\nSignature Entertainment presents The Canterville Ghost only in cinemas September 22.",
-      "runtime": 89,
-      "times": [
-        {
-          "starts_at": "2024-01-20T10:30:00+00:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-14605/"
-        },
-        {
-          "starts_at": "2024-01-20T10:30:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-21842/"
-        }
-      ]
-    },
-    {
       "title": "The End We Start From",
       "trailer": "https://www.youtube.com/watch?v=Vl8STlxCypA",
       "synopsis": "When an environmental crisis sees London submerged by flood waters, a young family is torn apart in the chaos. As a woman (Jodie Comer) and her newborn try and find their way home, the profound novelty of motherhood is brought into sharp focus in this intimate and poetic portrayal of family survival.",
@@ -678,11 +500,6 @@
           "starts_at": "2024-01-20T21:00:00+00:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-21883/"
-        },
-        {
-          "starts_at": "2024-01-20T11:30:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-87280/"
         },
         {
           "starts_at": "2024-01-20T18:00:00+00:00",
@@ -719,6 +536,19 @@
           "starts_at": "2024-01-20T15:15:00+00:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-21882/"
+        }
+      ]
+    },
+    {
+      "title": "The Boy And The Heron (Dubbed)",
+      "trailer": null,
+      "synopsis": "The English dub for Hayao Miyazaki's latest adventure features an all-star cast that includes Robert Pattinson, Florence Pugh, Christian Bale, Willem Dafoe and Mark Hamill. The film follows a young boy named Mahito, who yearns for his late mother and ventures into a world shared by the living and the dead. There, death comes to an end, and life finds a new beginning. The Boy and the Heron is a dazzling, semi-autobiographical fantasy about life, death and creation.",
+      "runtime": 124,
+      "times": [
+        {
+          "starts_at": "2024-01-20T18:15:00+00:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-21985/"
         }
       ]
     },
