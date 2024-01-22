@@ -1,21 +1,62 @@
 {
   "2024-01-22": [
     {
+      "title": "Mean Girls",
+      "trailer": "https://www.youtube.com/watch?v=_h9cZJeuxfs",
+      "synopsis": "From the comedic mind of Tina Fey comes a new twist on the modern classic, MEAN GIRLS. New student Cady Heron (Angourie Rice) is welcomed into the top of the social food chain by the elite group of popular girls called “The Plastics,” ruled by the conniving queen bee Regina George (Reneé Rapp) and her minions Gretchen (Bebe Wood) and Karen (Avantika). However, when Cady makes the major misstep of falling for Regina’s ex-boyfriend Aaron Samuels (Christopher Briney), she finds herself prey in Regina’s crosshairs. As Cady sets to take down the group’s apex predator with the help of her outcast friends Janis (Auli’i Cravalho) and Damian (Jaquel Spivey), she must learn how to stay true to herself while navigating the most cutthroat jungle of all: high school.",
+      "runtime": 112,
+      "times": [
+        {
+          "starts_at": "2024-01-22T15:40:00+00:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-46576/"
+        },
+        {
+          "starts_at": "2024-01-22T18:00:00+00:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-46589/"
+        },
+        {
+          "starts_at": "2024-01-22T21:00:00+00:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-46585/"
+        },
+        {
+          "starts_at": "2024-01-22T21:00:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-70172/"
+        }
+      ]
+    },
+    {
+      "title": "Maestro",
+      "trailer": "https://www.youtube.com/watch?v=zU6GbM5c9aE",
+      "synopsis": "Maestro is a towering and fearless love story chronicling the lifelong relationship between Leonard Bernstein and Felicia Montealegre Cohn Bernstein. A love letter to life and art, Maestro at its core is an emotionally epic portrayal of family and love.",
+      "runtime": 129,
+      "times": [
+        {
+          "starts_at": "2024-01-22T17:00:00+00:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-46575/"
+        },
+        {
+          "starts_at": "2024-01-22T20:20:00+00:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-21946/"
+        },
+        {
+          "starts_at": "2024-01-22T17:00:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-87322/"
+        }
+      ]
+    },
+    {
       "title": "Poor Things",
       "trailer": "https://www.youtube.com/watch?v=-EfYJWRw2FM",
       "synopsis": "From filmmaker Yorgos Lanthimos and producer Emma Stone comes the incredible tale and fantastical evolution of Bella Baxter (Stone), a young woman brought back to life by the brilliant and unorthodox scientist Dr. Godwin Baxter (Dafoe).",
       "runtime": 142,
       "times": [
-        {
-          "starts_at": "2024-01-22T12:30:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-46580/"
-        },
-        {
-          "starts_at": "2024-01-22T14:20:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-46578/"
-        },
         {
           "starts_at": "2024-01-22T17:40:00+00:00",
           "site": "Curzon Aldgate",
@@ -27,11 +68,6 @@
           "url": "https://www.curzon.com/ticketing/seats/ALD1-46587/"
         },
         {
-          "starts_at": "2024-01-22T14:40:00+00:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-43182/"
-        },
-        {
           "starts_at": "2024-01-22T18:00:00+00:00",
           "site": "Curzon Soho",
           "url": "https://www.curzon.com/ticketing/seats/SOH1-43167/"
@@ -40,11 +76,6 @@
           "starts_at": "2024-01-22T20:30:00+00:00",
           "site": "Curzon Soho",
           "url": "https://www.curzon.com/ticketing/seats/SOH1-43168/"
-        },
-        {
-          "starts_at": "2024-01-22T14:20:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-70175/"
         },
         {
           "starts_at": "2024-01-22T18:20:00+00:00",
@@ -67,11 +98,6 @@
           "url": "https://www.curzon.com/ticketing/seats/MAY1-25880/"
         },
         {
-          "starts_at": "2024-01-22T14:20:00+00:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-14548/"
-        },
-        {
           "starts_at": "2024-01-22T17:20:00+00:00",
           "site": "Curzon Hoxton",
           "url": "https://www.curzon.com/ticketing/seats/HOX1-14547/"
@@ -87,11 +113,6 @@
           "url": "https://www.curzon.com/ticketing/seats/HOX1-14543/"
         },
         {
-          "starts_at": "2024-01-22T14:00:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-21953/"
-        },
-        {
           "starts_at": "2024-01-22T18:00:00+00:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-21963/"
@@ -100,11 +121,6 @@
           "starts_at": "2024-01-22T20:00:00+00:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-21945/"
-        },
-        {
-          "starts_at": "2024-01-22T14:40:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-87326/"
         },
         {
           "starts_at": "2024-01-22T17:30:00+00:00",
@@ -119,29 +135,11 @@
       ]
     },
     {
-      "title": "Rustin",
-      "trailer": null,
-      "synopsis": "The architect of 1963’s momentous March on Washington, Bayard Rustin was one of the greatest activists and organizers the world has ever known. He challenged authority, never apologized for who he was, what he believed, or who he desired. And he did not back down. He made history, and in turn, he was forgotten. Directed by DGA award and five-time Tony award winner George C. Wolfe and starring Emmy award winner Colman Domingo, Rustin shines a long overdue spotlight on the extraordinary man who, alongside giants like the Reverend Martin Luther King Jr., Adam Clayton Powell Jr., and Ella Baker, dared to imagine a different world, and inspired a movement in a march toward freedom. Produced by Academy award winner Bruce Cohen, Higher Ground's Tonia Davis and George C. Wolfe, the film features an all-star cast including Chris Rock, Glynn Turman, Jeffrey Wright and Audra McDonald.",
-      "runtime": 106,
-      "times": [
-        {
-          "starts_at": "2024-01-22T14:00:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-46579/"
-        }
-      ]
-    },
-    {
       "title": "The Holdovers",
       "trailer": "https://www.youtube.com/watch?v=E24snz6SwMQ",
       "synopsis": "From acclaimed director Alexander Payne, The Holdovers follows a curmudgeonly teacher (Paul Giamatti) at a New England prep school who is forced to remain on campus during the holidays to babysit the handful of students with nowhere to go. Eventually he forms an unlikely bond with one of them -- a damaged, brainy troublemaker (newcomer Dominic Sessa) -- and with the school’s head cook, who lost a son in Vietnam (Da’Vine Joy Randolph). With outstanding critical acclaim, The Holdovers is now the winner of 2 Golden Globes for Best Actor (Comedy) for Paul Giamatti and Best Supporting Actress for Da’Vine Joy Randolph.",
       "runtime": 133,
       "times": [
-        {
-          "starts_at": "2024-01-22T15:00:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-46577/"
-        },
         {
           "starts_at": "2024-01-22T18:20:00+00:00",
           "site": "Curzon Aldgate",
@@ -153,19 +151,9 @@
           "url": "https://www.curzon.com/ticketing/seats/ALD1-46586/"
         },
         {
-          "starts_at": "2024-01-22T15:00:00+00:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-43184/"
-        },
-        {
           "starts_at": "2024-01-22T20:50:00+00:00",
           "site": "Curzon Soho",
           "url": "https://www.curzon.com/ticketing/seats/SOH1-43183/"
-        },
-        {
-          "starts_at": "2024-01-22T14:00:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-70171/"
         },
         {
           "starts_at": "2024-01-22T18:00:00+00:00",
@@ -178,11 +166,6 @@
           "url": "https://www.curzon.com/ticketing/seats/VIC1-70165/"
         },
         {
-          "starts_at": "2024-01-22T14:45:00+00:00",
-          "site": "Curzon Mayfair",
-          "url": "https://www.curzon.com/ticketing/seats/MAY1-25883/"
-        },
-        {
           "starts_at": "2024-01-22T17:45:00+00:00",
           "site": "Curzon Mayfair",
           "url": "https://www.curzon.com/ticketing/seats/MAY1-25881/"
@@ -191,11 +174,6 @@
           "starts_at": "2024-01-22T20:45:00+00:00",
           "site": "Curzon Mayfair",
           "url": "https://www.curzon.com/ticketing/seats/MAY1-25879/"
-        },
-        {
-          "starts_at": "2024-01-22T14:40:00+00:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-14546/"
         },
         {
           "starts_at": "2024-01-22T17:40:00+00:00",
@@ -208,11 +186,6 @@
           "url": "https://www.curzon.com/ticketing/seats/HOX1-14542/"
         },
         {
-          "starts_at": "2024-01-22T14:45:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-21958/"
-        },
-        {
           "starts_at": "2024-01-22T17:40:00+00:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-21962/"
@@ -221,11 +194,6 @@
           "starts_at": "2024-01-22T20:40:00+00:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-21947/"
-        },
-        {
-          "starts_at": "2024-01-22T14:15:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-87323/"
         },
         {
           "starts_at": "2024-01-22T17:15:00+00:00",
@@ -240,67 +208,6 @@
       ]
     },
     {
-      "title": "Mean Girls",
-      "trailer": "https://www.youtube.com/watch?v=_h9cZJeuxfs",
-      "synopsis": "From the comedic mind of Tina Fey comes a new twist on the modern classic, MEAN GIRLS. New student Cady Heron (Angourie Rice) is welcomed into the top of the social food chain by the elite group of popular girls called “The Plastics,” ruled by the conniving queen bee Regina George (Reneé Rapp) and her minions Gretchen (Bebe Wood) and Karen (Avantika). However, when Cady makes the major misstep of falling for Regina’s ex-boyfriend Aaron Samuels (Christopher Briney), she finds herself prey in Regina’s crosshairs. As Cady sets to take down the group’s apex predator with the help of her outcast friends Janis (Auli’i Cravalho) and Damian (Jaquel Spivey), she must learn how to stay true to herself while navigating the most cutthroat jungle of all: high school.",
-      "runtime": 112,
-      "times": [
-        {
-          "starts_at": "2024-01-22T15:40:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-46576/"
-        },
-        {
-          "starts_at": "2024-01-22T18:00:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-46589/"
-        },
-        {
-          "starts_at": "2024-01-22T21:00:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-46585/"
-        },
-        {
-          "starts_at": "2024-01-22T13:40:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-70177/"
-        },
-        {
-          "starts_at": "2024-01-22T21:00:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-70172/"
-        }
-      ]
-    },
-    {
-      "title": "Maestro",
-      "trailer": "https://www.youtube.com/watch?v=zU6GbM5c9aE",
-      "synopsis": "Maestro is a towering and fearless love story chronicling the lifelong relationship between Leonard Bernstein and Felicia Montealegre Cohn Bernstein. A love letter to life and art, Maestro at its core is an emotionally epic portrayal of family and love.",
-      "runtime": 129,
-      "times": [
-        {
-          "starts_at": "2024-01-22T17:00:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-46575/"
-        },
-        {
-          "starts_at": "2024-01-22T13:00:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-21951/"
-        },
-        {
-          "starts_at": "2024-01-22T20:20:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-21946/"
-        },
-        {
-          "starts_at": "2024-01-22T17:00:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-87322/"
-        }
-      ]
-    },
-    {
       "title": "Chicken Run: Dawn of the Nugget",
       "trailer": null,
       "synopsis": "After escaping from Tweedy's farm, Ginger and all the chickens living the dream in their peaceful island sanctuary, far from the dangers of the human world.",
@@ -310,24 +217,6 @@
           "starts_at": "2024-01-22T21:20:00+00:00",
           "site": "Curzon Aldgate",
           "url": "https://www.curzon.com/ticketing/seats/ALD1-46584/"
-        }
-      ]
-    },
-    {
-      "title": "The Boy And The Heron (Dubbed)",
-      "trailer": null,
-      "synopsis": "The English dub for Hayao Miyazaki's latest adventure features an all-star cast that includes Robert Pattinson, Florence Pugh, Christian Bale, Willem Dafoe and Mark Hamill. The film follows a young boy named Mahito, who yearns for his late mother and ventures into a world shared by the living and the dead. There, death comes to an end, and life finds a new beginning. The Boy and the Heron is a dazzling, semi-autobiographical fantasy about life, death and creation.",
-      "runtime": 124,
-      "times": [
-        {
-          "starts_at": "2024-01-22T14:20:00+00:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-43202/"
-        },
-        {
-          "starts_at": "2024-01-22T18:15:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-21986/"
         }
       ]
     },
@@ -369,27 +258,9 @@
           "url": "https://www.curzon.com/ticketing/seats/SOH1-43196/"
         },
         {
-          "starts_at": "2024-01-22T14:00:00+00:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-14576/"
-        },
-        {
           "starts_at": "2024-01-22T17:45:00+00:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-87332/"
-        }
-      ]
-    },
-    {
-      "title": "Boys in the Boat",
-      "trailer": "https://www.youtube.com/watch?v=pzpwDrZeyqI",
-      "synopsis": "A 1930s-set story centered on the University of Washington's rowing team, from their Depression-era beginnings to winning gold at the 1936 Berlin Olympics.",
-      "runtime": 124,
-      "times": [
-        {
-          "starts_at": "2024-01-22T15:00:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-70176/"
         }
       ]
     },
@@ -439,11 +310,6 @@
           "starts_at": "2024-01-22T17:00:00+00:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-21948/"
-        },
-        {
-          "starts_at": "2024-01-22T14:50:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-87325/"
         }
       ]
     },
@@ -457,11 +323,6 @@
           "starts_at": "2024-01-22T18:40:00+00:00",
           "site": "Curzon Victoria",
           "url": "https://www.curzon.com/ticketing/seats/VIC1-70164/"
-        },
-        {
-          "starts_at": "2024-01-22T14:30:00+00:00",
-          "site": "Curzon Mayfair",
-          "url": "https://www.curzon.com/ticketing/seats/MAY1-25884/"
         }
       ]
     },
@@ -500,45 +361,9 @@
           "url": "https://www.curzon.com/ticketing/seats/CAM1-21954/"
         },
         {
-          "starts_at": "2024-01-22T15:15:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-87315/"
-        },
-        {
           "starts_at": "2024-01-22T21:15:00+00:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-87319/"
-        }
-      ]
-    },
-    {
-      "title": "Anatomy of a Fall",
-      "trailer": "https://www.youtube.com/watch?v=_MdTMA0PetA",
-      "synopsis": "When her husband Samuel is mysteriously found dead in the snow below their secluded chalet, Sandra becomes the main suspect when the police begin to question whether he fell or was pushed. The trial soon becomes not just an investigation, but a gripping psychological journey into the depths of Sandra and Samuel's complicated marriage. With conflicting evidence and inconsistent testimony, words are wielded like weapons and shocking truths come to light in this thrilling Palme d’Or winner.",
-      "runtime": 152,
-      "times": [
-        {
-          "starts_at": "2024-01-22T13:45:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-21952/"
-        },
-        {
-          "starts_at": "2024-01-22T20:00:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-87329/"
-        }
-      ]
-    },
-    {
-      "title": "Fair Play",
-      "trailer": null,
-      "synopsis": "When a coveted promotion at a cutthroat financial firm arises, once supportive exchanges between lovers Emily (Phoebe Dynevor) and Luke (Alden Ehrenreich) begin to sour into something more sinister. As the power dynamics irrevocably shift in their relationship, the couple must face the true price of success and the unnerving limits of ambition. In her feature debut, writer-director Chloe Domont weaves a taut relationship thriller, staring down the destructive gender dynamics that pit partners against each other in a world that is transforming faster than the rules can keep up. Also starring Eddie Marsan, Rich Sommer, and Sebastian De Souza, Fair Play unravels the uncomfortable collision of empowerment and ego.",
-      "runtime": 113,
-      "times": [
-        {
-          "starts_at": "2024-01-22T15:15:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-21955/"
         }
       ]
     },
@@ -556,6 +381,19 @@
       ]
     },
     {
+      "title": "The Boy And The Heron (Dubbed)",
+      "trailer": null,
+      "synopsis": "The English dub for Hayao Miyazaki's latest adventure features an all-star cast that includes Robert Pattinson, Florence Pugh, Christian Bale, Willem Dafoe and Mark Hamill. The film follows a young boy named Mahito, who yearns for his late mother and ventures into a world shared by the living and the dead. There, death comes to an end, and life finds a new beginning. The Boy and the Heron is a dazzling, semi-autobiographical fantasy about life, death and creation.",
+      "runtime": 124,
+      "times": [
+        {
+          "starts_at": "2024-01-22T18:15:00+00:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-21986/"
+        }
+      ]
+    },
+    {
       "title": "The Killer",
       "trailer": null,
       "synopsis": "A man solitary and cold, methodical and unencumbered by scruples or regrets, the killer waits in the shadows, watching for his next target. And yet the longer he waits, the more he thinks he's losing his mind, if not his cool. A brutal, bloody and stylish noir story of a professional assassin lost in a world without a moral compass, this is a case study of a man alone, armed to the teeth and slowly losing his mind.",
@@ -565,37 +403,6 @@
           "starts_at": "2024-01-22T21:15:00+00:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-21959/"
-        }
-      ]
-    },
-    {
-      "title": "Society of the Snow",
-      "trailer": null,
-      "synopsis": "The flight of a rugby team crashes on a glacier in the Andes, few passengers who survived the crash, find themselves in one of the world's toughest environments to survive.",
-      "runtime": 143,
-      "times": [
-        {
-          "starts_at": "2024-01-22T13:50:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-87313/"
-        },
-        {
-          "starts_at": "2024-01-22T20:30:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-87331/"
-        }
-      ]
-    },
-    {
-      "title": "DocHouse: Rojek",
-      "trailer": null,
-      "synopsis": "Filmmaker Zaynê Akyol puts a face to the often disembodied threat of Islamic State (ISIS). In prison camps in Syria, Akyol encounters dozens of detained IS fighters, men and women, who share a common dream: establishing a caliphate.\r\n\r\nConfronted with their fundamentalist beliefs, Rojek attempts to trace the beginning, the rise and fall of ISIS through their personal stories. These up-close, unsettling interviews are set against imagery filmed around decimated, post-war Syrian Kurdistan.\r\n\r\nThis films offers an intimate, uncomfortable gaze at a complex, unknown reality, pointing to an ideological war that extends well beyond the 'fall of ISIS'.",
-      "runtime": 127,
-      "times": [
-        {
-          "starts_at": "2024-01-22T15:00:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-87080/"
         }
       ]
     },
@@ -626,6 +433,19 @@
       ]
     },
     {
+      "title": "Anatomy of a Fall",
+      "trailer": "https://www.youtube.com/watch?v=_MdTMA0PetA",
+      "synopsis": "When her husband Samuel is mysteriously found dead in the snow below their secluded chalet, Sandra becomes the main suspect when the police begin to question whether he fell or was pushed. The trial soon becomes not just an investigation, but a gripping psychological journey into the depths of Sandra and Samuel's complicated marriage. With conflicting evidence and inconsistent testimony, words are wielded like weapons and shocking truths come to light in this thrilling Palme d’Or winner.",
+      "runtime": 152,
+      "times": [
+        {
+          "starts_at": "2024-01-22T20:00:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-87329/"
+        }
+      ]
+    },
+    {
       "title": "DocHouse: The Disappearance Of Shere Hite",
       "trailer": null,
       "synopsis": "Feminist researcher Shere Hite changed the discussion around women's sexuality with her groundbreaking studies in the 1970s and 80s, and her books (including The Hite Report) became best-sellers. But both her methodology and her message came under criticism in the backlash from this popularity, and slowly but surely Shere was ridiculed and squeezed out of the mainstream - and eventually out of popular consciousness.\r\n\r\nDirector Nicole Newnham (Crip Camp) recovers Shere Hite from the margins of history, feminism and academia, exploring the charismatic former model's rise and fall from prominence. Using a treasure trove of archive footage, The Disappearance of Shere Hite transports viewers back to a time of great societal change and transformation around sexuality. It rediscovers a pioneer who has had an unmistakable influence on current conversations around gender and sexuality, and asks what led to Shere's erasure.",
@@ -635,6 +455,19 @@
           "starts_at": "2024-01-22T20:20:00+00:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-87399/"
+        }
+      ]
+    },
+    {
+      "title": "Society of the Snow",
+      "trailer": null,
+      "synopsis": "The flight of a rugby team crashes on a glacier in the Andes, few passengers who survived the crash, find themselves in one of the world's toughest environments to survive.",
+      "runtime": 143,
+      "times": [
+        {
+          "starts_at": "2024-01-22T20:30:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-87331/"
         }
       ]
     }
@@ -3290,7 +3123,7 @@
           "url": "https://www.curzon.com/ticketing/seats/CAM1-21998/"
         },
         {
-          "starts_at": "2024-01-28T20:30:00+00:00",
+          "starts_at": "2024-01-28T20:20:00+00:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-21997/"
         },
@@ -3364,7 +3197,7 @@
           "url": "https://www.curzon.com/ticketing/seats/CAM1-21996/"
         },
         {
-          "starts_at": "2024-01-28T20:10:00+00:00",
+          "starts_at": "2024-01-28T20:00:00+00:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-21995/"
         },
@@ -3379,7 +3212,7 @@
           "url": "https://www.curzon.com/ticketing/seats/BLO1-87424/"
         },
         {
-          "starts_at": "2024-01-28T20:20:00+00:00",
+          "starts_at": "2024-01-28T20:10:00+00:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-87421/"
         }
