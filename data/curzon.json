@@ -1,92 +1,6 @@
 {
   "2024-01-24": [
     {
-      "title": "Poor Things",
-      "trailer": "https://www.youtube.com/watch?v=-EfYJWRw2FM",
-      "synopsis": "From filmmaker Yorgos Lanthimos and producer Emma Stone comes the incredible tale and fantastical evolution of Bella Baxter (Stone), a young woman brought back to life by the brilliant and unorthodox scientist Dr. Godwin Baxter (Dafoe).",
-      "runtime": 142,
-      "times": [
-        {
-          "starts_at": "2024-01-24T19:00:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-46765/"
-        },
-        {
-          "starts_at": "2024-01-24T20:40:00+00:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-43172/"
-        },
-        {
-          "starts_at": "2024-01-24T20:40:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-70220/"
-        },
-        {
-          "starts_at": "2024-01-24T20:20:00+00:00",
-          "site": "Curzon Mayfair",
-          "url": "https://www.curzon.com/ticketing/seats/MAY1-25897/"
-        },
-        {
-          "starts_at": "2024-01-24T19:30:00+00:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-14603/"
-        },
-        {
-          "starts_at": "2024-01-24T20:30:00+00:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-14598/"
-        },
-        {
-          "starts_at": "2024-01-24T20:00:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-21965/"
-        },
-        {
-          "starts_at": "2024-01-24T20:45:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-87368/"
-        }
-      ]
-    },
-    {
-      "title": "The Holdovers",
-      "trailer": "https://www.youtube.com/watch?v=E24snz6SwMQ",
-      "synopsis": "From acclaimed director Alexander Payne, The Holdovers follows a curmudgeonly teacher (Paul Giamatti) at a New England prep school who is forced to remain on campus during the holidays to babysit the handful of students with nowhere to go. Eventually he forms an unlikely bond with one of them -- a damaged, brainy troublemaker (newcomer Dominic Sessa) -- and with the school’s head cook, who lost a son in Vietnam (Da’Vine Joy Randolph). With outstanding critical acclaim, The Holdovers is now the winner of 2 Golden Globes for Best Actor (Comedy) for Paul Giamatti and Best Supporting Actress for Da’Vine Joy Randolph.",
-      "runtime": 133,
-      "times": [
-        {
-          "starts_at": "2024-01-24T20:00:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-46543/"
-        },
-        {
-          "starts_at": "2024-01-24T20:00:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-70204/"
-        },
-        {
-          "starts_at": "2024-01-24T20:45:00+00:00",
-          "site": "Curzon Mayfair",
-          "url": "https://www.curzon.com/ticketing/seats/MAY1-25898/"
-        },
-        {
-          "starts_at": "2024-01-24T20:50:00+00:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-14597/"
-        },
-        {
-          "starts_at": "2024-01-24T20:40:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-21967/"
-        },
-        {
-          "starts_at": "2024-01-24T20:50:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-87370/"
-        }
-      ]
-    },
-    {
       "title": "Mean Girls",
       "trailer": "https://www.youtube.com/watch?v=_h9cZJeuxfs",
       "synopsis": "From the comedic mind of Tina Fey comes a new twist on the modern classic, MEAN GIRLS. New student Cady Heron (Angourie Rice) is welcomed into the top of the social food chain by the elite group of popular girls called “The Plastics,” ruled by the conniving queen bee Regina George (Reneé Rapp) and her minions Gretchen (Bebe Wood) and Karen (Avantika). However, when Cady makes the major misstep of falling for Regina’s ex-boyfriend Aaron Samuels (Christopher Briney), she finds herself prey in Regina’s crosshairs. As Cady sets to take down the group’s apex predator with the help of her outcast friends Janis (Auli’i Cravalho) and Damian (Jaquel Spivey), she must learn how to stay true to herself while navigating the most cutthroat jungle of all: high school.",
@@ -118,6 +32,34 @@
       ]
     },
     {
+      "title": "Poor Things",
+      "trailer": "https://www.youtube.com/watch?v=-EfYJWRw2FM",
+      "synopsis": "From filmmaker Yorgos Lanthimos and producer Emma Stone comes the incredible tale and fantastical evolution of Bella Baxter (Stone), a young woman brought back to life by the brilliant and unorthodox scientist Dr. Godwin Baxter (Dafoe).",
+      "runtime": 142,
+      "times": [
+        {
+          "starts_at": "2024-01-24T20:40:00+00:00",
+          "site": "Curzon Soho",
+          "url": "https://www.curzon.com/ticketing/seats/SOH1-43172/"
+        },
+        {
+          "starts_at": "2024-01-24T20:40:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-70220/"
+        },
+        {
+          "starts_at": "2024-01-24T20:30:00+00:00",
+          "site": "Curzon Hoxton",
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-14598/"
+        },
+        {
+          "starts_at": "2024-01-24T20:45:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-87368/"
+        }
+      ]
+    },
+    {
       "title": "Saltburn",
       "trailer": "https://www.youtube.com/watch?v=s8l0llLj1uM",
       "synopsis": "Struggling to find his place at Oxford University, student Oliver Quick finds himself drawn into the world of the charming and aristocratic Felix Catton, who invites him to Saltburn, his eccentric family's sprawling estate, for a summer never to be forgotten.",
@@ -144,42 +86,6 @@
       ]
     },
     {
-      "title": "Royal Opera 2023/24 Season: Rusalka",
-      "trailer": null,
-      "synopsis": "Rusalka, a water spirit, lives with her family in the pure waters of the forest lake. When she falls in love with a Prince, she sacrifices her voice and leaves her home in the hope of finding true love in a new world – a world that does not love her back.\n\nNatalie Abrahami and Ann Yee create a poetic, contemporary new staging of Dvořák’s lyric fairy tale, revealing our uneasy relationship with the natural world and humanity’s attempts to own and tame it. Semyon Bychkov conducts an all-star cast featuring Asmik Grigorian (Jenůfa) in the title role.",
-      "runtime": 228,
-      "times": [
-        {
-          "starts_at": "2024-01-24T18:45:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-65481/"
-        },
-        {
-          "starts_at": "2024-01-24T18:45:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-16860/"
-        },
-        {
-          "starts_at": "2024-01-24T18:45:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-81700/"
-        }
-      ]
-    },
-    {
-      "title": "One Life",
-      "trailer": "https://www.youtube.com/watch?v=6ethollg-PI",
-      "synopsis": "Follows British humanitarian Nicholas Winton, who helped save hundreds of children from the Nazis on the eve of World War II.",
-      "runtime": 109,
-      "times": [
-        {
-          "starts_at": "2024-01-24T19:00:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-70203/"
-        }
-      ]
-    },
-    {
       "title": "Nimona",
       "trailer": null,
       "synopsis": "When a knight in a futuristic medieval world is framed for a crime he didn’t commit, the only one who can help him prove his innocence is Nimona — a mischievous teen who happens to be a shapeshifting creature he's sworn to destroy.",
@@ -189,6 +95,34 @@
           "starts_at": "2024-01-24T21:30:00+00:00",
           "site": "Curzon Victoria",
           "url": "https://www.curzon.com/ticketing/seats/VIC1-70205/"
+        }
+      ]
+    },
+    {
+      "title": "The Holdovers",
+      "trailer": "https://www.youtube.com/watch?v=E24snz6SwMQ",
+      "synopsis": "From acclaimed director Alexander Payne, The Holdovers follows a curmudgeonly teacher (Paul Giamatti) at a New England prep school who is forced to remain on campus during the holidays to babysit the handful of students with nowhere to go. Eventually he forms an unlikely bond with one of them -- a damaged, brainy troublemaker (newcomer Dominic Sessa) -- and with the school’s head cook, who lost a son in Vietnam (Da’Vine Joy Randolph). With outstanding critical acclaim, The Holdovers is now the winner of 2 Golden Globes for Best Actor (Comedy) for Paul Giamatti and Best Supporting Actress for Da’Vine Joy Randolph.",
+      "runtime": 133,
+      "times": [
+        {
+          "starts_at": "2024-01-24T20:45:00+00:00",
+          "site": "Curzon Mayfair",
+          "url": "https://www.curzon.com/ticketing/seats/MAY1-25898/"
+        },
+        {
+          "starts_at": "2024-01-24T20:50:00+00:00",
+          "site": "Curzon Hoxton",
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-14597/"
+        },
+        {
+          "starts_at": "2024-01-24T20:40:00+00:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-21967/"
+        },
+        {
+          "starts_at": "2024-01-24T20:50:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-87370/"
         }
       ]
     },
@@ -4546,6 +4480,19 @@
           "starts_at": "2024-01-30T17:00:00+00:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-87571/"
+        }
+      ]
+    },
+    {
+      "title": "DocHouse: Your Fat Friend",
+      "trailer": null,
+      "synopsis": "Made over 6 years, acclaimed director Jeanie Finlay charts the rise of writer and activist Aubrey Gordon from anonymous blogger to NYTimes bestselling author and beloved podcaster.\r\n\r\nHer searingly honest writing describes what it’s like to be that fat person on the plane... and how the fantasies, peddled by a diet and wellness industry worth $26 billion a year are on a par with the lies that Big Tobacco told the public in the 1950s.\r\n\r\nHer aim? A paradigm shift in the way we see fat people and the fat on our own bodies. Her life changing work has brought her an ardent, international audience but also threats to her life.\r\n\r\nYour Fat Friend is a film about fatness, family, the complexities of change and the deep, messy feeling we hold about our bodies.",
+      "runtime": 96,
+      "times": [
+        {
+          "starts_at": "2024-01-30T18:20:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-86203/"
         }
       ]
     },
