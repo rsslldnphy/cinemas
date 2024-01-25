@@ -1,67 +1,6 @@
 {
   "2024-01-25": [
     {
-      "title": "Maestro",
-      "trailer": "https://www.youtube.com/watch?v=zU6GbM5c9aE",
-      "synopsis": "Maestro is a towering and fearless love story chronicling the lifelong relationship between Leonard Bernstein and Felicia Montealegre Cohn Bernstein. A love letter to life and art, Maestro at its core is an emotionally epic portrayal of family and love.",
-      "runtime": 129,
-      "times": [
-        {
-          "starts_at": "2024-01-25T11:40:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-46544/"
-        },
-        {
-          "starts_at": "2024-01-25T16:00:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-46554/"
-        },
-        {
-          "starts_at": "2024-01-25T11:20:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-70227/"
-        },
-        {
-          "starts_at": "2024-01-25T17:00:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-70236/"
-        },
-        {
-          "starts_at": "2024-01-25T13:00:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-21926/"
-        },
-        {
-          "starts_at": "2024-01-25T17:00:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-21931/"
-        },
-        {
-          "starts_at": "2024-01-25T11:00:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-87376/"
-        },
-        {
-          "starts_at": "2024-01-25T17:00:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-87380/"
-        }
-      ]
-    },
-    {
-      "title": "Chicken Run: Dawn of the Nugget",
-      "trailer": null,
-      "synopsis": "After escaping from Tweedy's farm, Ginger and all the chickens living the dream in their peaceful island sanctuary, far from the dangers of the human world.",
-      "runtime": 97,
-      "times": [
-        {
-          "starts_at": "2024-01-25T12:00:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-46553/"
-        }
-      ]
-    },
-    {
       "title": "Poor Things",
       "trailer": "https://www.youtube.com/watch?v=-EfYJWRw2FM",
       "synopsis": "From filmmaker Yorgos Lanthimos and producer Emma Stone comes the incredible tale and fantastical evolution of Bella Baxter (Stone), a young woman brought back to life by the brilliant and unorthodox scientist Dr. Godwin Baxter (Dafoe).",
@@ -86,11 +25,6 @@
           "starts_at": "2024-01-25T20:20:00+00:00",
           "site": "Curzon Aldgate",
           "url": "https://www.curzon.com/ticketing/seats/ALD1-46549/"
-        },
-        {
-          "starts_at": "2024-01-25T11:40:00+00:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-43176/"
         },
         {
           "starts_at": "2024-01-25T14:20:00+00:00",
@@ -153,11 +87,6 @@
           "url": "https://www.curzon.com/ticketing/seats/HOX1-14594/"
         },
         {
-          "starts_at": "2024-01-25T12:15:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-21927/"
-        },
-        {
           "starts_at": "2024-01-25T14:00:00+00:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-21924/"
@@ -171,11 +100,6 @@
           "starts_at": "2024-01-25T20:00:00+00:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-21932/"
-        },
-        {
-          "starts_at": "2024-01-25T12:20:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-87375/"
         },
         {
           "starts_at": "2024-01-25T14:15:00+00:00",
@@ -231,11 +155,6 @@
           "url": "https://www.curzon.com/ticketing/seats/SOH1-43190/"
         },
         {
-          "starts_at": "2024-01-25T12:00:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-70226/"
-        },
-        {
           "starts_at": "2024-01-25T14:00:00+00:00",
           "site": "Curzon Victoria",
           "url": "https://www.curzon.com/ticketing/seats/VIC1-70223/"
@@ -249,11 +168,6 @@
           "starts_at": "2024-01-25T20:00:00+00:00",
           "site": "Curzon Victoria",
           "url": "https://www.curzon.com/ticketing/seats/VIC1-70230/"
-        },
-        {
-          "starts_at": "2024-01-25T12:00:00+00:00",
-          "site": "Curzon Mayfair",
-          "url": "https://www.curzon.com/ticketing/seats/MAY1-25904/"
         },
         {
           "starts_at": "2024-01-25T15:45:00+00:00",
@@ -281,11 +195,6 @@
           "url": "https://www.curzon.com/ticketing/seats/HOX1-14595/"
         },
         {
-          "starts_at": "2024-01-25T11:45:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-21928/"
-        },
-        {
           "starts_at": "2024-01-25T14:45:00+00:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-21939/"
@@ -299,11 +208,6 @@
           "starts_at": "2024-01-25T20:40:00+00:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-21930/"
-        },
-        {
-          "starts_at": "2024-01-25T11:15:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-87374/"
         },
         {
           "starts_at": "2024-01-25T15:45:00+00:00",
@@ -351,6 +255,39 @@
       ]
     },
     {
+      "title": "Maestro",
+      "trailer": "https://www.youtube.com/watch?v=zU6GbM5c9aE",
+      "synopsis": "Maestro is a towering and fearless love story chronicling the lifelong relationship between Leonard Bernstein and Felicia Montealegre Cohn Bernstein. A love letter to life and art, Maestro at its core is an emotionally epic portrayal of family and love.",
+      "runtime": 129,
+      "times": [
+        {
+          "starts_at": "2024-01-25T16:00:00+00:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-46554/"
+        },
+        {
+          "starts_at": "2024-01-25T17:00:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-70236/"
+        },
+        {
+          "starts_at": "2024-01-25T13:00:00+00:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-21926/"
+        },
+        {
+          "starts_at": "2024-01-25T17:00:00+00:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-21931/"
+        },
+        {
+          "starts_at": "2024-01-25T17:00:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-87380/"
+        }
+      ]
+    },
+    {
       "title": "National Theatre Live: Dear England",
       "trailer": "https://www.youtube.com/watch?v=UkDiUifHoAc",
       "synopsis": "Joseph Fiennes (The Handmaid’s Tale) plays Gareth Southgate in James Graham’s (Sherwood) gripping examination of nation and game. The country that gave the world football has since delivered a painful pattern of loss. Why can’t England’s men win at their own game?\nWith the worst track record for penalties in the world, Gareth Southgate knows he needs to open his mind and face up to the years of hurt, to take team and country back to the promised land.\nFilmed live on stage at the National Theatre, Rupert Goold (Judy) directs this spectacular new play.",
@@ -392,19 +329,6 @@
       ]
     },
     {
-      "title": "Saltburn",
-      "trailer": "https://www.youtube.com/watch?v=s8l0llLj1uM",
-      "synopsis": "Struggling to find his place at Oxford University, student Oliver Quick finds himself drawn into the world of the charming and aristocratic Felix Catton, who invites him to Saltburn, his eccentric family's sprawling estate, for a summer never to be forgotten.",
-      "runtime": 131,
-      "times": [
-        {
-          "starts_at": "2024-01-25T11:20:00+00:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-43200/"
-        }
-      ]
-    },
-    {
       "title": "The Boy And The Heron (Dubbed)",
       "trailer": null,
       "synopsis": "The English dub for Hayao Miyazaki's latest adventure features an all-star cast that includes Robert Pattinson, Florence Pugh, Christian Bale, Willem Dafoe and Mark Hamill. The film follows a young boy named Mahito, who yearns for his late mother and ventures into a world shared by the living and the dead. There, death comes to an end, and life finds a new beginning. The Boy and the Heron is a dazzling, semi-autobiographical fantasy about life, death and creation.",
@@ -441,45 +365,6 @@
       ]
     },
     {
-      "title": "LSFF 2024: London Lives",
-      "trailer": null,
-      "synopsis": "London's vastness beckons to those looking for something different, somewhere to think and speculate, someplace to retreat and take refuge. Repetition of the everyday and the never-ending skyline offer assurance and ease. Or compel you to investigate the most pressing question plaguing Londoners: what are those 200-foot metal structures dotting the city?  \r\n\r\nThis brilliant line up of London centric films captures the widely experienced emotions of anxiety, the unsettling shift into adulthood, and the dreaded \"panic years.\" One filmmaker examines why we accept things the way we do in a wry and amusing documentary, while another brings alive the historic landscape in a series of visually compelling montages. Warda Mohamed’s debut narrative intimately depicts the different ways people can grieve and the unexpected connections you can find in those solemn moments.\r\n\r\nProgramme:\r\n– Highgate 214, dir. Teva Cheema, UK 2023, 19mins\r\n– Bakari, dir. Rodrigue Wembi Ghenda, UK 2023, 11mins\r\n– Messenger, dir. Alix Eve, UK 2023, 16mins\r\n– Brixton Bustle, dir. Shaun Clark, UK 2023, 5mins\r\n– London's Rocketship Launchers, dir. Julia Mervis, UK 2022, 7mins\r\n– Descent, dir. Syd Farrington, UK 2023, 6mins\r\n– An Ode to The Pigeon, dir. Rosa May Tweedale Gamsu, UK 2023, 3mins\r\n– One Night On Saturn, dir. R Seventeen, UK 2021, 7mins\r\n– Muna, dir. Warda Mohamed, UK 2023, 19mins\r\n\r\n",
-      "runtime": 97,
-      "times": [
-        {
-          "starts_at": "2024-01-25T18:20:00+00:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-42583/"
-        }
-      ]
-    },
-    {
-      "title": "Wonka",
-      "trailer": "https://www.youtube.com/watch?v=qhzNQ9vaJqE",
-      "synopsis": "The Story will focus on a young Willy Wonka and his adventures prior to opening the world’s most famous chocolate factory.",
-      "runtime": 116,
-      "times": [
-        {
-          "starts_at": "2024-01-25T10:40:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-70228/"
-        }
-      ]
-    },
-    {
-      "title": "Nimona",
-      "trailer": null,
-      "synopsis": "When a knight in a futuristic medieval world is framed for a crime he didn’t commit, the only one who can help him prove his innocence is Nimona — a mischievous teen who happens to be a shapeshifting creature he's sworn to destroy.",
-      "runtime": 99,
-      "times": [
-        {
-          "starts_at": "2024-01-25T11:40:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-70229/"
-        }
-      ]
-    },
-    {
       "title": "One Life",
       "trailer": "https://www.youtube.com/watch?v=6ethollg-PI",
       "synopsis": "Follows British humanitarian Nicholas Winton, who helped save hundreds of children from the Nazis on the eve of World War II.",
@@ -499,11 +384,6 @@
           "starts_at": "2024-01-25T15:00:00+00:00",
           "site": "Curzon Mayfair",
           "url": "https://www.curzon.com/ticketing/seats/MAY1-25902/"
-        },
-        {
-          "starts_at": "2024-01-25T11:00:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-21936/"
         }
       ]
     },
@@ -522,11 +402,6 @@
           "starts_at": "2024-01-25T14:00:00+00:00",
           "site": "Curzon Hoxton",
           "url": "https://www.curzon.com/ticketing/seats/HOX1-14589/"
-        },
-        {
-          "starts_at": "2024-01-25T11:30:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-21929/"
         }
       ]
     },
@@ -1156,11 +1031,6 @@
           "starts_at": "2024-01-26T18:40:00+00:00",
           "site": "Curzon Soho",
           "url": "https://www.curzon.com/ticketing/seats/SOH1-43228/"
-        },
-        {
-          "starts_at": "2024-01-26T20:30:00+00:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-42921/"
         },
         {
           "starts_at": "2024-01-26T15:20:00+00:00",
