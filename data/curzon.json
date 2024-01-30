@@ -1,29 +1,6 @@
 {
   "2024-01-30": [
     {
-      "title": "The Color Purple",
-      "trailer": "https://www.youtube.com/watch?v=T5R74CbagYc",
-      "synopsis": "Produced by Oprah Winfrey, Steven Spielberg, Scott Sanders and Quincy Jones, THE COLOR PURPLE is a bold new take on the classic story of love and resilience, adapted from the beloved novel and the Broadway musical. Torn apart from her sister and her children, Celie faces many hardships in her life, but ultimately learns to find extraordinary strength in the unbreakable bonds of a new kind of sisterhood.",
-      "runtime": 140,
-      "times": [
-        {
-          "starts_at": "2024-01-30T20:20:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-46624/"
-        },
-        {
-          "starts_at": "2024-01-30T20:20:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-70316/"
-        },
-        {
-          "starts_at": "2024-01-30T20:30:00+00:00",
-          "site": "Curzon Mayfair",
-          "url": "https://www.curzon.com/ticketing/seats/MAY1-25954/"
-        }
-      ]
-    },
-    {
       "title": "Poor Things",
       "trailer": "https://www.youtube.com/watch?v=-EfYJWRw2FM",
       "synopsis": "From filmmaker Yorgos Lanthimos and producer Emma Stone comes the incredible tale and fantastical evolution of Bella Baxter (Stone), a young woman brought back to life by the brilliant and unorthodox scientist Dr. Godwin Baxter (Dafoe).",
@@ -48,16 +25,6 @@
           "starts_at": "2024-01-30T20:40:00+00:00",
           "site": "Curzon Hoxton",
           "url": "https://www.curzon.com/ticketing/seats/HOX1-14629/"
-        },
-        {
-          "starts_at": "2024-01-30T20:00:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-22073/"
-        },
-        {
-          "starts_at": "2024-01-30T20:10:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-87525/"
         }
       ]
     },
@@ -83,42 +50,9 @@
           "url": "https://www.curzon.com/ticketing/seats/VIC1-70314/"
         },
         {
-          "starts_at": "2024-01-30T20:00:00+00:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-14631/"
-        },
-        {
           "starts_at": "2024-01-30T21:00:00+00:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-22072/"
-        },
-        {
-          "starts_at": "2024-01-30T20:20:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-87524/"
-        }
-      ]
-    },
-    {
-      "title": "Maestro",
-      "trailer": "https://www.youtube.com/watch?v=zU6GbM5c9aE",
-      "synopsis": "Maestro is a towering and fearless love story chronicling the lifelong relationship between Leonard Bernstein and Felicia Montealegre Cohn Bernstein. A love letter to life and art, Maestro at its core is an emotionally epic portrayal of family and love.",
-      "runtime": 129,
-      "times": [
-        {
-          "starts_at": "2024-01-30T21:20:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-46621/"
-        },
-        {
-          "starts_at": "2024-01-30T21:15:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-70313/"
-        },
-        {
-          "starts_at": "2024-01-30T20:50:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-87522/"
         }
       ]
     },
@@ -139,11 +73,6 @@
           "url": "https://www.curzon.com/ticketing/seats/MAY1-25953/"
         },
         {
-          "starts_at": "2024-01-30T18:40:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-22074/"
-        },
-        {
           "starts_at": "2024-01-30T21:20:00+00:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-22069/"
@@ -156,28 +85,33 @@
       ]
     },
     {
-      "title": "Sweet Sue",
-      "trailer": null,
-      "synopsis": "Fifty-something Sue (Maggie O’Neill) is now back on the dating scene. She meets a mysterious biker called Ron (Tony Pitts) at her brother's funeral and sparks fly. But when she meets Ron’s social-media influencer son Anthony (Harry Trevaldwyn), Sue finds herself in an increasingly surreal battle of wills with this ambitious teenager who is convinced that his dance troupe ‘Electric Destiny’ is tipped for stardom. Will she find the purpose and imagination to bring this little unconventional family together for a chance at happiness?",
-      "runtime": 100,
+      "title": "Maestro",
+      "trailer": "https://www.youtube.com/watch?v=zU6GbM5c9aE",
+      "synopsis": "Maestro is a towering and fearless love story chronicling the lifelong relationship between Leonard Bernstein and Felicia Montealegre Cohn Bernstein. A love letter to life and art, Maestro at its core is an emotionally epic portrayal of family and love.",
+      "runtime": 129,
       "times": [
         {
-          "starts_at": "2024-01-30T18:40:00+00:00",
+          "starts_at": "2024-01-30T21:15:00+00:00",
           "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-69051/"
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-70313/"
+        },
+        {
+          "starts_at": "2024-01-30T20:50:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-87522/"
         }
       ]
     },
     {
-      "title": "Napoleon",
-      "trailer": "https://www.youtube.com/watch?v=1rJjrcKWupE",
-      "synopsis": "Napoleon is a spectacle-filled action epic that details the checkered rise and fall of the iconic French Emperor Napoleon Bonaparte, played by Oscar®-winner Joaquin Phoenix. Against a stunning backdrop of large-scale filmmaking orchestrated by legendary director Ridley Scott, the film captures Bonaparte's relentless journey to power through the prism of his addictive, volatile relationship with his one true love, Josephine, showcasing his visionary military and political tactics against some of the most dynamic practical battle sequences ever filmed.",
-      "runtime": 158,
+      "title": "The Color Purple",
+      "trailer": "https://www.youtube.com/watch?v=T5R74CbagYc",
+      "synopsis": "Produced by Oprah Winfrey, Steven Spielberg, Scott Sanders and Quincy Jones, THE COLOR PURPLE is a bold new take on the classic story of love and resilience, adapted from the beloved novel and the Broadway musical. Torn apart from her sister and her children, Celie faces many hardships in her life, but ultimately learns to find extraordinary strength in the unbreakable bonds of a new kind of sisterhood.",
+      "runtime": 140,
       "times": [
         {
-          "starts_at": "2024-01-30T19:40:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-70317/"
+          "starts_at": "2024-01-30T20:30:00+00:00",
+          "site": "Curzon Mayfair",
+          "url": "https://www.curzon.com/ticketing/seats/MAY1-25954/"
         }
       ]
     },
@@ -191,11 +125,6 @@
           "starts_at": "2024-01-30T21:00:00+00:00",
           "site": "Curzon Hoxton",
           "url": "https://www.curzon.com/ticketing/seats/HOX1-14687/"
-        },
-        {
-          "starts_at": "2024-01-30T20:20:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-22071/"
         }
       ]
     },
