@@ -1,24 +1,6 @@
 {
   "2024-02-01": [
     {
-      "title": "The Color Purple",
-      "trailer": "https://www.youtube.com/watch?v=T5R74CbagYc",
-      "synopsis": "Produced by Oprah Winfrey, Steven Spielberg, Scott Sanders and Quincy Jones, THE COLOR PURPLE is a bold new take on the classic story of love and resilience, adapted from the beloved novel and the Broadway musical. Torn apart from her sister and her children, Celie faces many hardships in her life, but ultimately learns to find extraordinary strength in the unbreakable bonds of a new kind of sisterhood.",
-      "runtime": 140,
-      "times": [
-        {
-          "starts_at": "2024-02-01T20:20:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-46729/"
-        },
-        {
-          "starts_at": "2024-02-01T20:20:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-70356/"
-        }
-      ]
-    },
-    {
       "title": "Poor Things",
       "trailer": "https://www.youtube.com/watch?v=-EfYJWRw2FM",
       "synopsis": "From filmmaker Yorgos Lanthimos and producer Emma Stone comes the incredible tale and fantastical evolution of Bella Baxter (Stone), a young woman brought back to life by the brilliant and unorthodox scientist Dr. Godwin Baxter (Dafoe).",
@@ -43,16 +25,6 @@
           "starts_at": "2024-02-01T20:40:00+00:00",
           "site": "Curzon Hoxton",
           "url": "https://www.curzon.com/ticketing/seats/HOX1-14717/"
-        },
-        {
-          "starts_at": "2024-02-01T20:00:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-22113/"
-        },
-        {
-          "starts_at": "2024-02-01T20:10:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-87557/"
         }
       ]
     },
@@ -86,11 +58,6 @@
           "starts_at": "2024-02-01T20:40:00+00:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-22112/"
-        },
-        {
-          "starts_at": "2024-02-01T20:20:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-87556/"
         }
       ]
     },
@@ -127,11 +94,6 @@
           "starts_at": "2024-02-01T21:10:00+00:00",
           "site": "Curzon Soho",
           "url": "https://www.curzon.com/ticketing/seats/SOH1-43333/"
-        },
-        {
-          "starts_at": "2024-02-01T18:40:00+00:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-14721/"
         },
         {
           "starts_at": "2024-02-01T21:00:00+00:00",
@@ -174,32 +136,6 @@
       ]
     },
     {
-      "title": "Anyone But You",
-      "trailer": "https://www.youtube.com/watch?v=gbjdSlTHFts",
-      "synopsis": "In the comedy Anyone But You, Bea (Sydney Sweeney) and Ben (Glen Powell) look like the perfect couple, but after an amazing first date something happens that turns their fiery hot attraction ice cold - until they find themselves unexpectedly thrust together at a destination wedding in Australia. So they do what any two mature adults would do: pretend to be a couple.",
-      "runtime": 103,
-      "times": [
-        {
-          "starts_at": "2024-02-01T18:40:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-70342/"
-        }
-      ]
-    },
-    {
-      "title": "Napoleon",
-      "trailer": "https://www.youtube.com/watch?v=1rJjrcKWupE",
-      "synopsis": "Napoleon is a spectacle-filled action epic that details the checkered rise and fall of the iconic French Emperor Napoleon Bonaparte, played by Oscar®-winner Joaquin Phoenix. Against a stunning backdrop of large-scale filmmaking orchestrated by legendary director Ridley Scott, the film captures Bonaparte's relentless journey to power through the prism of his addictive, volatile relationship with his one true love, Josephine, showcasing his visionary military and political tactics against some of the most dynamic practical battle sequences ever filmed.",
-      "runtime": 158,
-      "times": [
-        {
-          "starts_at": "2024-02-01T19:40:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-70357/"
-        }
-      ]
-    },
-    {
       "title": "The End We Start From",
       "trailer": "https://www.youtube.com/watch?v=Vl8STlxCypA",
       "synopsis": "When an environmental crisis sees London submerged by flood waters, a young family is torn apart in the chaos. As a woman (Jodie Comer) and her newborn try and find their way home, the profound novelty of motherhood is brought into sharp focus in this intimate and poetic portrayal of family survival.",
@@ -209,11 +145,6 @@
           "starts_at": "2024-02-01T21:20:00+00:00",
           "site": "Curzon Hoxton",
           "url": "https://www.curzon.com/ticketing/seats/HOX1-14716/"
-        },
-        {
-          "starts_at": "2024-02-01T20:20:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-22111/"
         }
       ]
     },
