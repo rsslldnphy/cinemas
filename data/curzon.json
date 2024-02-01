@@ -1,33 +1,20 @@
 {
   "2024-02-01": [
     {
-      "title": "Mean Girls",
-      "trailer": "https://www.youtube.com/watch?v=_h9cZJeuxfs",
-      "synopsis": "From the comedic mind of Tina Fey comes a new twist on the modern classic, MEAN GIRLS. New student Cady Heron (Angourie Rice) is welcomed into the top of the social food chain by the elite group of popular girls called “The Plastics,” ruled by the conniving queen bee Regina George (Reneé Rapp) and her minions Gretchen (Bebe Wood) and Karen (Avantika). However, when Cady makes the major misstep of falling for Regina’s ex-boyfriend Aaron Samuels (Christopher Briney), she finds herself prey in Regina’s crosshairs. As Cady sets to take down the group’s apex predator with the help of her outcast friends Janis (Auli’i Cravalho) and Damian (Jaquel Spivey), she must learn how to stay true to herself while navigating the most cutthroat jungle of all: high school.",
-      "runtime": 112,
+      "title": "The Color Purple",
+      "trailer": "https://www.youtube.com/watch?v=T5R74CbagYc",
+      "synopsis": "Produced by Oprah Winfrey, Steven Spielberg, Scott Sanders and Quincy Jones, THE COLOR PURPLE is a bold new take on the classic story of love and resilience, adapted from the beloved novel and the Broadway musical. Torn apart from her sister and her children, Celie faces many hardships in her life, but ultimately learns to find extraordinary strength in the unbreakable bonds of a new kind of sisterhood.",
+      "runtime": 140,
       "times": [
         {
-          "starts_at": "2024-02-01T15:40:00+00:00",
+          "starts_at": "2024-02-01T20:20:00+00:00",
           "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-46719/"
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-46729/"
         },
         {
-          "starts_at": "2024-02-01T17:00:00+00:00",
+          "starts_at": "2024-02-01T20:20:00+00:00",
           "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-70346/"
-        }
-      ]
-    },
-    {
-      "title": "Society of the Snow",
-      "trailer": null,
-      "synopsis": "The flight of a rugby team crashes on a glacier in the Andes, few passengers who survived the crash, find themselves in one of the world's toughest environments to survive.",
-      "runtime": 143,
-      "times": [
-        {
-          "starts_at": "2024-02-01T17:10:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-46733/"
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-70356/"
         }
       ]
     },
@@ -37,11 +24,6 @@
       "synopsis": "From filmmaker Yorgos Lanthimos and producer Emma Stone comes the incredible tale and fantastical evolution of Bella Baxter (Stone), a young woman brought back to life by the brilliant and unorthodox scientist Dr. Godwin Baxter (Dafoe).",
       "runtime": 142,
       "times": [
-        {
-          "starts_at": "2024-02-01T17:30:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-46718/"
-        },
         {
           "starts_at": "2024-02-01T20:40:00+00:00",
           "site": "Curzon Aldgate",
@@ -53,19 +35,9 @@
           "url": "https://www.curzon.com/ticketing/seats/SOH1-43307/"
         },
         {
-          "starts_at": "2024-02-01T17:15:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-70345/"
-        },
-        {
           "starts_at": "2024-02-01T20:40:00+00:00",
           "site": "Curzon Victoria",
           "url": "https://www.curzon.com/ticketing/seats/VIC1-70355/"
-        },
-        {
-          "starts_at": "2024-02-01T17:50:00+00:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-14720/"
         },
         {
           "starts_at": "2024-02-01T20:40:00+00:00",
@@ -73,19 +45,9 @@
           "url": "https://www.curzon.com/ticketing/seats/HOX1-14717/"
         },
         {
-          "starts_at": "2024-02-01T17:15:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-22099/"
-        },
-        {
           "starts_at": "2024-02-01T20:00:00+00:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-22113/"
-        },
-        {
-          "starts_at": "2024-02-01T17:20:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-87560/"
         },
         {
           "starts_at": "2024-02-01T20:10:00+00:00",
@@ -101,34 +63,14 @@
       "runtime": 133,
       "times": [
         {
-          "starts_at": "2024-02-01T18:00:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-46731/"
-        },
-        {
           "starts_at": "2024-02-01T21:00:00+00:00",
           "site": "Curzon Aldgate",
           "url": "https://www.curzon.com/ticketing/seats/ALD1-46727/"
         },
         {
-          "starts_at": "2024-02-01T17:30:00+00:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-43219/"
-        },
-        {
-          "starts_at": "2024-02-01T18:00:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-70343/"
-        },
-        {
           "starts_at": "2024-02-01T21:00:00+00:00",
           "site": "Curzon Victoria",
           "url": "https://www.curzon.com/ticketing/seats/VIC1-70354/"
-        },
-        {
-          "starts_at": "2024-02-01T17:30:00+00:00",
-          "site": "Curzon Mayfair",
-          "url": "https://www.curzon.com/ticketing/seats/MAY1-25966/"
         },
         {
           "starts_at": "2024-02-01T20:30:00+00:00",
@@ -141,11 +83,6 @@
           "url": "https://www.curzon.com/ticketing/seats/HOX1-14718/"
         },
         {
-          "starts_at": "2024-02-01T17:40:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-22116/"
-        },
-        {
           "starts_at": "2024-02-01T20:40:00+00:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-22112/"
@@ -154,39 +91,6 @@
           "starts_at": "2024-02-01T20:20:00+00:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-87556/"
-        }
-      ]
-    },
-    {
-      "title": "The Color Purple",
-      "trailer": "https://www.youtube.com/watch?v=T5R74CbagYc",
-      "synopsis": "Produced by Oprah Winfrey, Steven Spielberg, Scott Sanders and Quincy Jones, THE COLOR PURPLE is a bold new take on the classic story of love and resilience, adapted from the beloved novel and the Broadway musical. Torn apart from her sister and her children, Celie faces many hardships in her life, but ultimately learns to find extraordinary strength in the unbreakable bonds of a new kind of sisterhood.",
-      "runtime": 140,
-      "times": [
-        {
-          "starts_at": "2024-02-01T18:20:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-46730/"
-        },
-        {
-          "starts_at": "2024-02-01T20:20:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-46729/"
-        },
-        {
-          "starts_at": "2024-02-01T17:40:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-70344/"
-        },
-        {
-          "starts_at": "2024-02-01T20:20:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-70356/"
-        },
-        {
-          "starts_at": "2024-02-01T17:50:00+00:00",
-          "site": "Curzon Mayfair",
-          "url": "https://www.curzon.com/ticketing/seats/MAY1-25963/"
         }
       ]
     },
@@ -205,11 +109,6 @@
           "starts_at": "2024-02-01T21:15:00+00:00",
           "site": "Curzon Victoria",
           "url": "https://www.curzon.com/ticketing/seats/VIC1-70353/"
-        },
-        {
-          "starts_at": "2024-02-01T17:00:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-22100/"
         },
         {
           "starts_at": "2024-02-01T20:30:00+00:00",
@@ -235,24 +134,9 @@
           "url": "https://www.curzon.com/ticketing/seats/HOX1-14721/"
         },
         {
-          "starts_at": "2024-02-01T15:40:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-22102/"
-        },
-        {
-          "starts_at": "2024-02-01T18:20:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-22115/"
-        },
-        {
           "starts_at": "2024-02-01T21:00:00+00:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-22110/"
-        },
-        {
-          "starts_at": "2024-02-01T18:00:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-87559/"
         },
         {
           "starts_at": "2024-02-01T20:40:00+00:00",
@@ -278,29 +162,9 @@
           "url": "https://www.curzon.com/ticketing/seats/MAY1-25961/"
         },
         {
-          "starts_at": "2024-02-01T18:10:00+00:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-14719/"
-        },
-        {
-          "starts_at": "2024-02-01T16:00:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-22101/"
-        },
-        {
-          "starts_at": "2024-02-01T18:40:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-22114/"
-        },
-        {
           "starts_at": "2024-02-01T21:20:00+00:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-22109/"
-        },
-        {
-          "starts_at": "2024-02-01T18:10:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-87558/"
         },
         {
           "starts_at": "2024-02-01T21:20:00+00:00",
@@ -350,45 +214,6 @@
           "starts_at": "2024-02-01T20:20:00+00:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-22111/"
-        }
-      ]
-    },
-    {
-      "title": "DocHouse: Miucha: The Voice Of Bossa Nova",
-      "trailer": null,
-      "synopsis": "Brazilian singer Miúcha was associated with some of Bossa Nova's biggest (male) legends - she was known as the sister of Chico Buarque, the pupil of Vinicius de Moraes and the wife of the 'father' of the genre, João Gilberto. But her own role in the developing movement has been neglected.\r\n\r\nA gorgeous film to watch, set to the soundtrack of Miúcha's music and saturated with Bossa Nova vibes, Miúcha: The Voice of Bossa Nova tells her story through 16mm home movies, diaries, personal letters and her own expressive watercolour paintings, animated for the film.\r\n\r\nEven as she struggled to find her own voice in the shadow of her revered husband, Miúcha went on to earn unprecedented success, becoming a symbol of female resilience and a musical legend.",
-      "runtime": 98,
-      "times": [
-        {
-          "starts_at": "2024-02-01T16:00:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-87592/"
-        }
-      ]
-    },
-    {
-      "title": "Anatomy of a Fall",
-      "trailer": "https://www.youtube.com/watch?v=_MdTMA0PetA",
-      "synopsis": "When her husband Samuel is mysteriously found dead in the snow below their secluded chalet, Sandra becomes the main suspect when the police begin to question whether he fell or was pushed. The trial soon becomes not just an investigation, but a gripping psychological journey into the depths of Sandra and Samuel's complicated marriage. With conflicting evidence and inconsistent testimony, words are wielded like weapons and shocking truths come to light in this thrilling Palme d’Or winner.",
-      "runtime": 152,
-      "times": [
-        {
-          "starts_at": "2024-02-01T17:00:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-87573/"
-        }
-      ]
-    },
-    {
-      "title": "DocHouse: Dalton's Dream",
-      "trailer": null,
-      "synopsis": "In 2018, a young musician from rural Jamaica called Dalton Harris became the first non-British and Black man to win The X Factor UK and, with it, a lucrative record deal that promised to transform his life.\r\n\r\nCo-directors Kim Longinotto and Franky Murray Brown chart Dalton's journey as he's catapulted into the limelight and pressure builds from all directions. They capture an extraordinary and talented young man wrestling with the weight of expectations and with his own identity.",
-      "runtime": 91,
-      "times": [
-        {
-          "starts_at": "2024-02-01T18:20:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-87085/"
         }
       ]
     },
