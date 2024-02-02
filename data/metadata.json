@@ -14,7 +14,7 @@
   "American Fiction": {
     "backdrop": "https://image.tmdb.org/t/p/w500//1AT4Nc6oHkmL3p6i27P14SBnIpb.jpg",
     "poster": "https://image.tmdb.org/t/p/w500//57MFWGHarg9jid7yfDTka4RmcMU.jpg",
-    "overview": "Thelonious “Monk” Ellison's writing career has stalled because his work isn’t deemed “Black enough.” Monk, a writer and English professor, writes a satirical novel under a pseudonym, aiming to expose the publishing world's hypocrisies. The book’s immediate success forces him to get deeper enmeshed in his assumed identity and challenges his closely-held worldviews.",
+    "overview": "A novelist fed up with the establishment profiting from \"Black\" entertainment uses a pen name to write a book that propels him into the heart of hypocrisy and the madness he claims to disdain.",
     "release_date": "2023-11-10"
   },
   "Anyone But You": {
@@ -24,8 +24,8 @@
     "release_date": "2023-12-21"
   },
   "Argylle": {
-    "backdrop": "https://image.tmdb.org/t/p/w500//mY3CRicUMaX3Btxv8yspud75UJu.jpg",
-    "poster": "https://image.tmdb.org/t/p/w500//siduVKgOnABO4WH4lOwPQwaGwJp.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w500//8te0oIAuUOxi03RbM1SfL3xUYHB.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500//95VlSEfLMqeX36UVcHJuNlWEpwf.jpg",
     "overview": "When the plots of reclusive author Elly Conway's fictional espionage novels begin to mirror the covert actions of a real-life spy organization, quiet evenings at home become a thing of the past. Accompanied by her cat Alfie and Aiden, a cat-allergic spy, Elly races across the world to stay one step ahead of the killers as the line between Conway's fictional world and her real one begins to blur.",
     "release_date": "2024-01-31"
   },
@@ -95,6 +95,12 @@
     "overview": "Despite her position at the epicentre of the Brazilian bossa nova scene, singer Heloísa Maria Buarque de Hollanda, known as Miúcha, has been largely underappreciated. This documentary, which dives into her career and personal life through a rich collection of archives, aims to change that.",
     "release_date": "2022-09-10"
   },
+  "DocHouse: Motherland": {
+    "backdrop": "https://image.tmdb.org/t/p/w500//iEFXN3ohhIoUXW4LN5qiG3UnLr5.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500//eROfVJI3tQdSXCyAK2mGJQANjAq.jpg",
+    "overview": "Svetlana has lost her son who was found dead while he was in the army. As she tries to shed light on the culture of violence and abuse in the Belarusian military, a group of young friends from the techno underground soon face being drafted themselves. They go to rave parties in undershirts and round sunglasses, but in a moment the party could be over – at least until huge protests break out in the streets following the recent ‘re-election’ of dictator-president and Putin sympathiser, Aleksandr Lukashenko. A glimmer of hope and a promise of change, which only causes the brutality of the authoritarian society to erupt in full force.",
+    "release_date": "2023-08-31"
+  },
   "DocHouse: Our Body": {
     "backdrop": "https://image.tmdb.org/t/p/w500//glJyXwVT4V9bchBMupJRT7rW2TI.jpg",
     "poster": "https://image.tmdb.org/t/p/w500//hvYwBgkw1ss3vOo8g7QnP76ggvG.jpg",
@@ -124,6 +130,12 @@
     "poster": "https://image.tmdb.org/t/p/w500//ne3aPYNq6OD22jr4E43Q3hUoltO.jpg",
     "overview": "With exclusive behind-the-scenes access into Herzog’s everyday life, rare archive material and in-depth interviews with celebrated collaborators – including Christian Bale, Nicole Kidman, and Robert Pattinson, we are given an exciting glimpse into the work and personal life of the iconic artist.",
     "release_date": "2022-10-27"
+  },
+  "DocHouse: Your Fat Friend": {
+    "backdrop": null,
+    "poster": "https://image.tmdb.org/t/p/w500//abugBzOO56iY56pJqEda8kuw0ps.jpg",
+    "overview": "Charting Aubrey Gordon's journey from anonymous blogger to NY Times bestselling author and podcast host, and the complexities of making change. It’s a film about fatness, family and the deep, messy feelings all of us hold about our bodies.",
+    "release_date": "2024-02-09"
   },
   "EVANGELION : 3.0+1.01 THRICE UPON A TIME": {
     "backdrop": "https://image.tmdb.org/t/p/w500//1EAxNqdkVnp48a7NUuNBHGflowM.jpg",
@@ -323,14 +335,8 @@
     "overview": "The wife of a heart surgeon, suffering from temporary blindness, is home alone. But a strange man ingratiates himself into her household in order to avenge the seduction and death of his wife, for which the surgeon appears responsible...",
     "release_date": "1993-05-27"
   },
-  "The End We Start From": {
-    "backdrop": "https://image.tmdb.org/t/p/w500//nmU3WgYuv7TyCrImrVtYG2VB6U6.jpg",
-    "poster": "https://image.tmdb.org/t/p/w500//S9U0axheNakD9LQusEpFijDgSe.jpg",
-    "overview": "As London is submerged below floodwaters, a woman gives birth to her first child. Days later, she and her baby are forced to leave their home in search of safety. They head north through a newly dangerous country seeking refuge from place to place.",
-    "release_date": "2023-12-08"
-  },
   "The Holdovers": {
-    "backdrop": "https://image.tmdb.org/t/p/w500//sQLMaESdeELB7Dl8HdxfGlZYRzu.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w500//57fhbxl9is7W7ur5v6UuvlNsoSg.jpg",
     "poster": "https://image.tmdb.org/t/p/w500//VHSzNBTwxV8vh7wylo7O9CLdac.jpg",
     "overview": "A curmudgeonly instructor at a New England prep school is forced to remain on campus during Christmas break to babysit the handful of students with nowhere to go. Eventually, he forms an unlikely bond with one of them — a damaged, brainy troublemaker — and with the school’s head cook, who has just lost a son in Vietnam.",
     "release_date": "2023-10-27"
@@ -343,7 +349,7 @@
   },
   "The Zone of Interest": {
     "backdrop": "https://image.tmdb.org/t/p/w500//zA4sQNuZc4WcZtnbwE5xe5sy9jC.jpg",
-    "poster": "https://image.tmdb.org/t/p/w500//ruyeAfmxbNPWZ92dWymqwTc6nWV.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500//AbFtI353N2Pggl5TxfsI2VtpUt8.jpg",
     "overview": "The commandant of Auschwitz, Rudolf Höss, and his wife Hedwig, strive to build a dream life for their family in a house and garden next to the camp.",
     "release_date": "2023-11-03"
   },
