@@ -1,62 +1,11 @@
 {
   "2024-02-04": [
     {
-      "title": "Maestro",
-      "trailer": "https://www.youtube.com/watch?v=zU6GbM5c9aE",
-      "synopsis": "Maestro is a towering and fearless love story chronicling the lifelong relationship between Leonard Bernstein and Felicia Montealegre Cohn Bernstein. A love letter to life and art, Maestro at its core is an emotionally epic portrayal of family and love.",
-      "runtime": 129,
-      "times": [
-        {
-          "starts_at": "2024-02-04T10:45:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-46842/"
-        },
-        {
-          "starts_at": "2024-02-04T11:00:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-70479/"
-        },
-        {
-          "starts_at": "2024-02-04T20:20:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-70478/"
-        },
-        {
-          "starts_at": "2024-02-04T14:20:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-87656/"
-        },
-        {
-          "starts_at": "2024-02-04T20:00:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-87648/"
-        }
-      ]
-    },
-    {
-      "title": "Chicken Run: Dawn of the Nugget",
-      "trailer": null,
-      "synopsis": "After escaping from Tweedy's farm, Ginger and all the chickens living the dream in their peaceful island sanctuary, far from the dangers of the human world.",
-      "runtime": 97,
-      "times": [
-        {
-          "starts_at": "2024-02-04T11:00:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-46841/"
-        }
-      ]
-    },
-    {
       "title": "Poor Things",
       "trailer": "https://www.youtube.com/watch?v=-EfYJWRw2FM",
       "synopsis": "From filmmaker Yorgos Lanthimos and producer Emma Stone comes the incredible tale and fantastical evolution of Bella Baxter (Stone), a young woman brought back to life by the brilliant and unorthodox scientist Dr. Godwin Baxter (Dafoe).",
       "runtime": 142,
       "times": [
-        {
-          "starts_at": "2024-02-04T11:10:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-46853/"
-        },
         {
           "starts_at": "2024-02-04T13:20:00+00:00",
           "site": "Curzon Aldgate",
@@ -118,107 +67,9 @@
           "url": "https://www.curzon.com/ticketing/seats/CAM1-22238/"
         },
         {
-          "starts_at": "2024-02-04T12:00:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-87655/"
-        },
-        {
           "starts_at": "2024-02-04T18:00:00+00:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-87650/"
-        }
-      ]
-    },
-    {
-      "title": "All Of Us Strangers",
-      "trailer": "https://www.youtube.com/watch?v=naDbwsI-T8A",
-      "synopsis": "One night in his near-empty tower block in contemporary London, Adam (Andrew Scott) has a chance encounter with a mysterious neighbor Harry (Paul Mescal), which punctures the rhythm of his everyday life. As a relationship develops between them, Adam is preoccupied with memories of the past and finds himself drawn back to the suburban town where he grew up, and the childhood home where his parents (Claire Foy and Jamie Bell), appear to be living, just as they were on the day they died, 30 years before.",
-      "runtime": 105,
-      "times": [
-        {
-          "starts_at": "2024-02-04T12:20:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-46920/"
-        },
-        {
-          "starts_at": "2024-02-04T20:40:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-46921/"
-        },
-        {
-          "starts_at": "2024-02-04T11:20:00+00:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-43343/"
-        },
-        {
-          "starts_at": "2024-02-04T17:40:00+00:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-43345/"
-        },
-        {
-          "starts_at": "2024-02-04T12:10:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-70474/"
-        },
-        {
-          "starts_at": "2024-02-04T17:40:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-70466/"
-        },
-        {
-          "starts_at": "2024-02-04T17:30:00+00:00",
-          "site": "Curzon Mayfair",
-          "url": "https://www.curzon.com/ticketing/seats/MAY1-25977/"
-        },
-        {
-          "starts_at": "2024-02-04T12:30:00+00:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-14758/"
-        },
-        {
-          "starts_at": "2024-02-04T17:20:00+00:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-14759/"
-        },
-        {
-          "starts_at": "2024-02-04T12:40:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-22231/"
-        },
-        {
-          "starts_at": "2024-02-04T15:30:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-22226/"
-        },
-        {
-          "starts_at": "2024-02-04T18:15:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-22240/"
-        },
-        {
-          "starts_at": "2024-02-04T21:15:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-22235/"
-        },
-        {
-          "starts_at": "2024-02-04T12:10:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-87658/"
-        },
-        {
-          "starts_at": "2024-02-04T15:20:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-87652/"
-        },
-        {
-          "starts_at": "2024-02-04T17:40:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-87653/"
-        },
-        {
-          "starts_at": "2024-02-04T21:00:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-87647/"
         }
       ]
     },
@@ -292,11 +143,6 @@
           "url": "https://www.curzon.com/ticketing/seats/HOX1-14804/"
         },
         {
-          "starts_at": "2024-02-04T12:00:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-22225/"
-        },
-        {
           "starts_at": "2024-02-04T17:40:00+00:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-22243/"
@@ -330,11 +176,6 @@
           "url": "https://www.curzon.com/ticketing/seats/ALD1-46851/"
         },
         {
-          "starts_at": "2024-02-04T12:20:00+00:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-43277/"
-        },
-        {
           "starts_at": "2024-02-04T14:20:00+00:00",
           "site": "Curzon Soho",
           "url": "https://www.curzon.com/ticketing/seats/SOH1-43274/"
@@ -365,19 +206,9 @@
           "url": "https://www.curzon.com/ticketing/seats/VIC1-70475/"
         },
         {
-          "starts_at": "2024-02-04T12:15:00+00:00",
-          "site": "Curzon Mayfair",
-          "url": "https://www.curzon.com/ticketing/seats/MAY1-25938/"
-        },
-        {
           "starts_at": "2024-02-04T17:00:00+00:00",
           "site": "Curzon Mayfair",
           "url": "https://www.curzon.com/ticketing/seats/MAY1-25941/"
-        },
-        {
-          "starts_at": "2024-02-04T11:20:00+00:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-14810/"
         },
         {
           "starts_at": "2024-02-04T17:40:00+00:00",
@@ -458,16 +289,84 @@
       ]
     },
     {
+      "title": "All Of Us Strangers",
+      "trailer": "https://www.youtube.com/watch?v=naDbwsI-T8A",
+      "synopsis": "One night in his near-empty tower block in contemporary London, Adam (Andrew Scott) has a chance encounter with a mysterious neighbor Harry (Paul Mescal), which punctures the rhythm of his everyday life. As a relationship develops between them, Adam is preoccupied with memories of the past and finds himself drawn back to the suburban town where he grew up, and the childhood home where his parents (Claire Foy and Jamie Bell), appear to be living, just as they were on the day they died, 30 years before.",
+      "runtime": 105,
+      "times": [
+        {
+          "starts_at": "2024-02-04T20:40:00+00:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-46921/"
+        },
+        {
+          "starts_at": "2024-02-04T17:40:00+00:00",
+          "site": "Curzon Soho",
+          "url": "https://www.curzon.com/ticketing/seats/SOH1-43345/"
+        },
+        {
+          "starts_at": "2024-02-04T17:40:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-70466/"
+        },
+        {
+          "starts_at": "2024-02-04T17:30:00+00:00",
+          "site": "Curzon Mayfair",
+          "url": "https://www.curzon.com/ticketing/seats/MAY1-25977/"
+        },
+        {
+          "starts_at": "2024-02-04T12:30:00+00:00",
+          "site": "Curzon Hoxton",
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-14758/"
+        },
+        {
+          "starts_at": "2024-02-04T17:20:00+00:00",
+          "site": "Curzon Hoxton",
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-14759/"
+        },
+        {
+          "starts_at": "2024-02-04T12:40:00+00:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-22231/"
+        },
+        {
+          "starts_at": "2024-02-04T15:30:00+00:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-22226/"
+        },
+        {
+          "starts_at": "2024-02-04T18:15:00+00:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-22240/"
+        },
+        {
+          "starts_at": "2024-02-04T21:15:00+00:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-22235/"
+        },
+        {
+          "starts_at": "2024-02-04T15:20:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-87652/"
+        },
+        {
+          "starts_at": "2024-02-04T17:40:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-87653/"
+        },
+        {
+          "starts_at": "2024-02-04T21:00:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-87647/"
+        }
+      ]
+    },
+    {
       "title": "The Zone of Interest",
       "trailer": null,
       "synopsis": "The commandant of Auschwitz, Rudolf Höss, and his wife Hedwig, strive to build a dream life for their family in a house and garden next to the camp.",
       "runtime": 105,
       "times": [
-        {
-          "starts_at": "2024-02-04T11:40:00+00:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-43273/"
-        },
         {
           "starts_at": "2024-02-04T15:00:00+00:00",
           "site": "Curzon Soho",
@@ -494,11 +393,6 @@
           "url": "https://www.curzon.com/ticketing/seats/MAY1-25939/"
         },
         {
-          "starts_at": "2024-02-04T11:00:00+00:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-14811/"
-        },
-        {
           "starts_at": "2024-02-04T15:00:00+00:00",
           "site": "Curzon Hoxton",
           "url": "https://www.curzon.com/ticketing/seats/HOX1-14752/"
@@ -507,11 +401,6 @@
           "starts_at": "2024-02-04T20:20:00+00:00",
           "site": "Curzon Hoxton",
           "url": "https://www.curzon.com/ticketing/seats/HOX1-14727/"
-        },
-        {
-          "starts_at": "2024-02-04T11:40:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-22233/"
         },
         {
           "starts_at": "2024-02-04T15:00:00+00:00",
@@ -527,11 +416,6 @@
           "starts_at": "2024-02-04T21:00:00+00:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-22237/"
-        },
-        {
-          "starts_at": "2024-02-04T12:20:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-87442/"
         },
         {
           "starts_at": "2024-02-04T15:40:00+00:00",
@@ -595,20 +479,25 @@
       ]
     },
     {
-      "title": "Society of the Snow",
-      "trailer": null,
-      "synopsis": "The flight of a rugby team crashes on a glacier in the Andes, few passengers who survived the crash, find themselves in one of the world's toughest environments to survive.",
-      "runtime": 143,
+      "title": "Maestro",
+      "trailer": "https://www.youtube.com/watch?v=zU6GbM5c9aE",
+      "synopsis": "Maestro is a towering and fearless love story chronicling the lifelong relationship between Leonard Bernstein and Felicia Montealegre Cohn Bernstein. A love letter to life and art, Maestro at its core is an emotionally epic portrayal of family and love.",
+      "runtime": 129,
       "times": [
         {
-          "starts_at": "2024-02-04T11:20:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-22234/"
+          "starts_at": "2024-02-04T20:20:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-70478/"
         },
         {
-          "starts_at": "2024-02-04T20:20:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-22239/"
+          "starts_at": "2024-02-04T14:20:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-87656/"
+        },
+        {
+          "starts_at": "2024-02-04T20:00:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-87648/"
         }
       ]
     },
@@ -626,20 +515,15 @@
       ]
     },
     {
-      "title": "Samsara",
-      "trailer": "https://www.youtube.com/watch?v=it-YSrv6ttA",
-      "synopsis": "Samsara is the Buddhist cycle of death and reincarnation. From the temples of Laos, alongside with teenage monks, we will accompany a soul in its transit from one body to another through the bardo. The words of the \"Tibetan Book of the Dead\" will be our guide to avoid getting lost in the afterlife. A luminous and sonorous journey that will lead us to reincarnate on the beaches of Zanzibar, where groups of women work in seaweed farms.\r\n\r\nCONTENT WARNING: This film contains flickering or flashing lights that may affect those with photosensitive epilepsy.\r\n",
-      "runtime": 114,
+      "title": "Society of the Snow",
+      "trailer": null,
+      "synopsis": "The flight of a rugby team crashes on a glacier in the Andes, few passengers who survived the crash, find themselves in one of the world's toughest environments to survive.",
+      "runtime": 143,
       "times": [
         {
-          "starts_at": "2024-02-04T11:45:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-87657/"
-        },
-        {
-          "starts_at": "2024-02-04T17:15:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-87649/"
+          "starts_at": "2024-02-04T20:20:00+00:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-22239/"
         }
       ]
     },
@@ -653,6 +537,19 @@
           "starts_at": "2024-02-04T14:00:00+00:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-87241/"
+        }
+      ]
+    },
+    {
+      "title": "Samsara",
+      "trailer": "https://www.youtube.com/watch?v=it-YSrv6ttA",
+      "synopsis": "Samsara is the Buddhist cycle of death and reincarnation. From the temples of Laos, alongside with teenage monks, we will accompany a soul in its transit from one body to another through the bardo. The words of the \"Tibetan Book of the Dead\" will be our guide to avoid getting lost in the afterlife. A luminous and sonorous journey that will lead us to reincarnate on the beaches of Zanzibar, where groups of women work in seaweed farms.\r\n\r\nCONTENT WARNING: This film contains flickering or flashing lights that may affect those with photosensitive epilepsy.\r\n",
+      "runtime": 114,
+      "times": [
+        {
+          "starts_at": "2024-02-04T17:15:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-87649/"
         }
       ]
     },
