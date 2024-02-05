@@ -131,6 +131,12 @@
     "overview": "Charting Aubrey Gordon's journey from anonymous blogger to NY Times bestselling author and podcast host, and the complexities of making change. It’s a film about fatness, family and the deep, messy feelings all of us hold about our bodies.",
     "release_date": "2024-02-09"
   },
+  "Dune": {
+    "backdrop": "https://image.tmdb.org/t/p/w500//sfjqJDmNqMIImO5khiddb9TARvO.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500//d5NXSklXo0qyIYkgV94XAgMIckC.jpg",
+    "overview": "Paul Atreides, a brilliant and gifted young man born into a great destiny beyond his understanding, must travel to the most dangerous planet in the universe to ensure the future of his family and his people. As malevolent forces explode into conflict over the planet's exclusive supply of the most precious resource in existence-a commodity capable of unlocking humanity's greatest potential-only those who can conquer their fear will survive.",
+    "release_date": "2021-09-15"
+  },
   "EVANGELION : 3.0+1.01 THRICE UPON A TIME": {
     "backdrop": "https://image.tmdb.org/t/p/w500//1EAxNqdkVnp48a7NUuNBHGflowM.jpg",
     "poster": "https://image.tmdb.org/t/p/w500//md5wZRRj8biHrGtyitgBZo7674t.jpg",
@@ -335,6 +341,18 @@
     "overview": "A curmudgeonly instructor at a New England prep school is forced to remain on campus during Christmas break to babysit the handful of students with nowhere to go. Eventually, he forms an unlikely bond with one of them — a damaged, brainy troublemaker — and with the school’s head cook, who has just lost a son in Vietnam.",
     "release_date": "2023-10-27"
   },
+  "The Iron Claw": {
+    "backdrop": "https://image.tmdb.org/t/p/w500//r4Xh4d4EpoHGBGmn833roDEwwgx.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500//lsdismtCDga4vsKnmliz0h7CaZT.jpg",
+    "overview": "The true story of the inseparable Von Erich brothers, who made history in the intensely competitive world of professional wrestling in the early 1980s. Through tragedy and triumph, under the shadow of their domineering father and coach, the brothers seek larger-than-life immortality on the biggest stage in sports.",
+    "release_date": "2023-12-21"
+  },
+  "The Settlers": {
+    "backdrop": null,
+    "poster": "https://image.tmdb.org/t/p/w500//cPZs2bSDoLnX2Zevk3B66G0D14z.jpg",
+    "overview": "",
+    "release_date": "2003-01-15"
+  },
   "The Zone of Interest": {
     "backdrop": "https://image.tmdb.org/t/p/w500//zA4sQNuZc4WcZtnbwE5xe5sy9jC.jpg",
     "poster": "https://image.tmdb.org/t/p/w500//AbFtI353N2Pggl5TxfsI2VtpUt8.jpg",
@@ -358,5 +376,11 @@
     "poster": "https://image.tmdb.org/t/p/w500//kOymD1rChAMykmDVEzJpIh4OYS7.jpg",
     "overview": "A sheltered Amish child is the sole witness of a brutal murder in a restroom at a Philadelphia train station, and he must be protected.  The assignment falls to a taciturn detective who goes undercover in a Pennsylvania Dutch community. On the farm, he slowly assimilates despite his urban grit, and forges a romantic bond with the child's beautiful mother.",
     "release_date": "1985-02-08"
+  },
+  "Your Fat Friend": {
+    "backdrop": null,
+    "poster": "https://image.tmdb.org/t/p/w500//abugBzOO56iY56pJqEda8kuw0ps.jpg",
+    "overview": "Charting Aubrey Gordon's journey from anonymous blogger to NY Times bestselling author and podcast host, and the complexities of making change. It’s a film about fatness, family and the deep, messy feelings all of us hold about our bodies.",
+    "release_date": "2024-02-09"
   }
 }

@@ -7,39 +7,14 @@
       "runtime": 117,
       "times": [
         {
-          "starts_at": "2024-02-05T16:00:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-46866/"
-        },
-        {
           "starts_at": "2024-02-05T18:40:00+00:00",
           "site": "Curzon Aldgate",
           "url": "https://www.curzon.com/ticketing/seats/ALD1-46854/"
         },
         {
-          "starts_at": "2024-02-05T15:30:00+00:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-43366/"
-        },
-        {
-          "starts_at": "2024-02-05T18:00:00+00:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-43363/"
-        },
-        {
           "starts_at": "2024-02-05T21:00:00+00:00",
           "site": "Curzon Soho",
           "url": "https://www.curzon.com/ticketing/seats/SOH1-43367/"
-        },
-        {
-          "starts_at": "2024-02-05T15:40:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-70483/"
-        },
-        {
-          "starts_at": "2024-02-05T18:20:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-70494/"
         },
         {
           "starts_at": "2024-02-05T21:00:00+00:00",
@@ -52,19 +27,9 @@
           "url": "https://www.curzon.com/ticketing/seats/MAY1-25979/"
         },
         {
-          "starts_at": "2024-02-05T18:20:00+00:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-14675/"
-        },
-        {
           "starts_at": "2024-02-05T20:40:00+00:00",
           "site": "Curzon Hoxton",
           "url": "https://www.curzon.com/ticketing/seats/HOX1-14763/"
-        },
-        {
-          "starts_at": "2024-02-05T18:00:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-22155/"
         },
         {
           "starts_at": "2024-02-05T20:40:00+00:00",
@@ -80,125 +45,6 @@
           "starts_at": "2024-02-05T20:45:00+00:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-87665/"
-        }
-      ]
-    },
-    {
-      "title": "Maestro",
-      "trailer": "https://www.youtube.com/watch?v=zU6GbM5c9aE",
-      "synopsis": "Maestro is a towering and fearless love story chronicling the lifelong relationship between Leonard Bernstein and Felicia Montealegre Cohn Bernstein. A love letter to life and art, Maestro at its core is an emotionally epic portrayal of family and love.",
-      "runtime": 129,
-      "times": [
-        {
-          "starts_at": "2024-02-05T17:10:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-46864/"
-        },
-        {
-          "starts_at": "2024-02-05T21:15:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-70497/"
-        },
-        {
-          "starts_at": "2024-02-05T20:30:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-87670/"
-        }
-      ]
-    },
-    {
-      "title": "The Holdovers",
-      "trailer": "https://www.youtube.com/watch?v=E24snz6SwMQ",
-      "synopsis": "From acclaimed director Alexander Payne, The Holdovers follows a curmudgeonly teacher (Paul Giamatti) at a New England prep school who is forced to remain on campus during the holidays to babysit the handful of students with nowhere to go. Eventually he forms an unlikely bond with one of them -- a damaged, brainy troublemaker (newcomer Dominic Sessa) -- and with the school’s head cook, who lost a son in Vietnam (Da’Vine Joy Randolph). With outstanding critical acclaim, The Holdovers is now the winner of 2 Golden Globes for Best Actor (Comedy) for Paul Giamatti and Best Supporting Actress for Da’Vine Joy Randolph.",
-      "runtime": 133,
-      "times": [
-        {
-          "starts_at": "2024-02-05T17:30:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-46924/"
-        },
-        {
-          "starts_at": "2024-02-05T17:20:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-70480/"
-        },
-        {
-          "starts_at": "2024-02-05T20:20:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-70491/"
-        },
-        {
-          "starts_at": "2024-02-05T15:30:00+00:00",
-          "site": "Curzon Mayfair",
-          "url": "https://www.curzon.com/ticketing/seats/MAY1-25983/"
-        },
-        {
-          "starts_at": "2024-02-05T20:40:00+00:00",
-          "site": "Curzon Mayfair",
-          "url": "https://www.curzon.com/ticketing/seats/MAY1-25985/"
-        },
-        {
-          "starts_at": "2024-02-05T17:20:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-22149/"
-        },
-        {
-          "starts_at": "2024-02-05T20:20:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-87673/"
-        }
-      ]
-    },
-    {
-      "title": "Poor Things",
-      "trailer": "https://www.youtube.com/watch?v=-EfYJWRw2FM",
-      "synopsis": "From filmmaker Yorgos Lanthimos and producer Emma Stone comes the incredible tale and fantastical evolution of Bella Baxter (Stone), a young woman brought back to life by the brilliant and unorthodox scientist Dr. Godwin Baxter (Dafoe).",
-      "runtime": 142,
-      "times": [
-        {
-          "starts_at": "2024-02-05T17:50:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-46926/"
-        },
-        {
-          "starts_at": "2024-02-05T20:30:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-46928/"
-        },
-        {
-          "starts_at": "2024-02-05T20:40:00+00:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-43347/"
-        },
-        {
-          "starts_at": "2024-02-05T17:00:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-70481/"
-        },
-        {
-          "starts_at": "2024-02-05T20:40:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-70490/"
-        },
-        {
-          "starts_at": "2024-02-05T17:10:00+00:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-14764/"
-        },
-        {
-          "starts_at": "2024-02-05T20:20:00+00:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-14765/"
-        },
-        {
-          "starts_at": "2024-02-05T20:20:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-22148/"
-        },
-        {
-          "starts_at": "2024-02-05T18:00:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-87672/"
         }
       ]
     },
@@ -221,6 +67,39 @@
       ]
     },
     {
+      "title": "Poor Things",
+      "trailer": "https://www.youtube.com/watch?v=-EfYJWRw2FM",
+      "synopsis": "From filmmaker Yorgos Lanthimos and producer Emma Stone comes the incredible tale and fantastical evolution of Bella Baxter (Stone), a young woman brought back to life by the brilliant and unorthodox scientist Dr. Godwin Baxter (Dafoe).",
+      "runtime": 142,
+      "times": [
+        {
+          "starts_at": "2024-02-05T20:30:00+00:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-46928/"
+        },
+        {
+          "starts_at": "2024-02-05T20:40:00+00:00",
+          "site": "Curzon Soho",
+          "url": "https://www.curzon.com/ticketing/seats/SOH1-43347/"
+        },
+        {
+          "starts_at": "2024-02-05T20:40:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-70490/"
+        },
+        {
+          "starts_at": "2024-02-05T20:20:00+00:00",
+          "site": "Curzon Hoxton",
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-14765/"
+        },
+        {
+          "starts_at": "2024-02-05T20:20:00+00:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-22148/"
+        }
+      ]
+    },
+    {
       "title": "All Of Us Strangers",
       "trailer": "https://www.youtube.com/watch?v=naDbwsI-T8A",
       "synopsis": "One night in his near-empty tower block in contemporary London, Adam (Andrew Scott) has a chance encounter with a mysterious neighbor Harry (Paul Mescal), which punctures the rhythm of his everyday life. As a relationship develops between them, Adam is preoccupied with memories of the past and finds himself drawn back to the suburban town where he grew up, and the childhood home where his parents (Claire Foy and Jamie Bell), appear to be living, just as they were on the day they died, 30 years before.",
@@ -237,29 +116,9 @@
           "url": "https://www.curzon.com/ticketing/seats/SOH1-43346/"
         },
         {
-          "starts_at": "2024-02-05T16:00:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-70482/"
-        },
-        {
           "starts_at": "2024-02-05T18:40:00+00:00",
           "site": "Curzon Victoria",
           "url": "https://www.curzon.com/ticketing/seats/VIC1-70493/"
-        },
-        {
-          "starts_at": "2024-02-05T18:00:00+00:00",
-          "site": "Curzon Mayfair",
-          "url": "https://www.curzon.com/ticketing/seats/MAY1-25986/"
-        },
-        {
-          "starts_at": "2024-02-05T18:00:00+00:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-14768/"
-        },
-        {
-          "starts_at": "2024-02-05T16:00:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-22159/"
         },
         {
           "starts_at": "2024-02-05T18:40:00+00:00",
@@ -270,16 +129,6 @@
           "starts_at": "2024-02-05T21:15:00+00:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-22147/"
-        },
-        {
-          "starts_at": "2024-02-05T15:30:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-87674/"
-        },
-        {
-          "starts_at": "2024-02-05T17:50:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-87675/"
         },
         {
           "starts_at": "2024-02-05T21:00:00+00:00",
@@ -302,25 +151,56 @@
       ]
     },
     {
+      "title": "The Holdovers",
+      "trailer": "https://www.youtube.com/watch?v=E24snz6SwMQ",
+      "synopsis": "From acclaimed director Alexander Payne, The Holdovers follows a curmudgeonly teacher (Paul Giamatti) at a New England prep school who is forced to remain on campus during the holidays to babysit the handful of students with nowhere to go. Eventually he forms an unlikely bond with one of them -- a damaged, brainy troublemaker (newcomer Dominic Sessa) -- and with the school’s head cook, who lost a son in Vietnam (Da’Vine Joy Randolph). With outstanding critical acclaim, The Holdovers is now the winner of 2 Golden Globes for Best Actor (Comedy) for Paul Giamatti and Best Supporting Actress for Da’Vine Joy Randolph.",
+      "runtime": 133,
+      "times": [
+        {
+          "starts_at": "2024-02-05T20:20:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-70491/"
+        },
+        {
+          "starts_at": "2024-02-05T20:40:00+00:00",
+          "site": "Curzon Mayfair",
+          "url": "https://www.curzon.com/ticketing/seats/MAY1-25985/"
+        },
+        {
+          "starts_at": "2024-02-05T20:20:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-87673/"
+        }
+      ]
+    },
+    {
+      "title": "Maestro",
+      "trailer": "https://www.youtube.com/watch?v=zU6GbM5c9aE",
+      "synopsis": "Maestro is a towering and fearless love story chronicling the lifelong relationship between Leonard Bernstein and Felicia Montealegre Cohn Bernstein. A love letter to life and art, Maestro at its core is an emotionally epic portrayal of family and love.",
+      "runtime": 129,
+      "times": [
+        {
+          "starts_at": "2024-02-05T21:15:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-70497/"
+        },
+        {
+          "starts_at": "2024-02-05T20:30:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-87670/"
+        }
+      ]
+    },
+    {
       "title": "The Zone of Interest",
       "trailer": null,
       "synopsis": "The commandant of Auschwitz, Rudolf Höss, and his wife Hedwig, strive to build a dream life for their family in a house and garden next to the camp.",
       "runtime": 105,
       "times": [
         {
-          "starts_at": "2024-02-05T18:20:00+00:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-43369/"
-        },
-        {
           "starts_at": "2024-02-05T18:30:00+00:00",
           "site": "Curzon Mayfair",
           "url": "https://www.curzon.com/ticketing/seats/MAY1-25980/"
-        },
-        {
-          "starts_at": "2024-02-05T15:40:00+00:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-14761/"
         },
         {
           "starts_at": "2024-02-05T21:00:00+00:00",
@@ -328,60 +208,14 @@
           "url": "https://www.curzon.com/ticketing/seats/HOX1-14728/"
         },
         {
-          "starts_at": "2024-02-05T15:40:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-22146/"
-        },
-        {
-          "starts_at": "2024-02-05T18:20:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-22152/"
-        },
-        {
           "starts_at": "2024-02-05T21:00:00+00:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-22153/"
         },
         {
-          "starts_at": "2024-02-05T15:45:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-87660/"
-        },
-        {
-          "starts_at": "2024-02-05T18:10:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-87664/"
-        },
-        {
           "starts_at": "2024-02-05T21:15:00+00:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-87662/"
-        }
-      ]
-    },
-    {
-      "title": "Anyone But You",
-      "trailer": "https://www.youtube.com/watch?v=gbjdSlTHFts",
-      "synopsis": "In the comedy Anyone But You, Bea (Sydney Sweeney) and Ben (Glen Powell) look like the perfect couple, but after an amazing first date something happens that turns their fiery hot attraction ice cold - until they find themselves unexpectedly thrust together at a destination wedding in Australia. So they do what any two mature adults would do: pretend to be a couple.",
-      "runtime": 103,
-      "times": [
-        {
-          "starts_at": "2024-02-05T18:00:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-70495/"
-        }
-      ]
-    },
-    {
-      "title": "WHAM!",
-      "trailer": null,
-      "synopsis": "In 1982, the best of friends and still teenagers - George Michael and Andrew Ridgeley as WHAM! set out to conquer the world. By June of 1986 they played their very last gig at Wembley Stadium having done exactly that.\n\nNow for the very first time, told in their own words, the amazing story of how in four years they dominated the charts around the world with timeless and classic pop songs. Hit after hit - Club Tropicana, Wake Me Up Before You Go Go, Freedom, I’m Your Man and of course Last Christmas.\n\nTheir time in the spotlight was white-hot, becoming the very first western pop act to play in China.\n\nIt was a time that both encapsulated and epitomised not just their youth, but also those of the many millions of fans that adored them.\n\nWith unprecedented access to both George and Andrew’s personal archive including remarkable and never-before-seen footage, alongside rare, candid and previously unheard interviews, WHAM! charts their incredible journey from school friends to superstars.",
-      "runtime": 92,
-      "times": [
-        {
-          "starts_at": "2024-02-05T17:00:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-22164/"
         }
       ]
     },
@@ -395,32 +229,6 @@
           "starts_at": "2024-02-05T20:00:00+00:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-22150/"
-        }
-      ]
-    },
-    {
-      "title": "Samsara",
-      "trailer": "https://www.youtube.com/watch?v=it-YSrv6ttA",
-      "synopsis": "Samsara is the Buddhist cycle of death and reincarnation. From the temples of Laos, alongside with teenage monks, we will accompany a soul in its transit from one body to another through the bardo. The words of the \"Tibetan Book of the Dead\" will be our guide to avoid getting lost in the afterlife. A luminous and sonorous journey that will lead us to reincarnate on the beaches of Zanzibar, where groups of women work in seaweed farms.\r\n\r\nCONTENT WARNING: This film contains flickering or flashing lights that may affect those with photosensitive epilepsy.\r\n",
-      "runtime": 114,
-      "times": [
-        {
-          "starts_at": "2024-02-05T17:40:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-87671/"
-        }
-      ]
-    },
-    {
-      "title": "DocHouse: Dalton's Dream",
-      "trailer": null,
-      "synopsis": "In 2018, a young musician from rural Jamaica called Dalton Harris became the first non-British and Black man to win The X Factor UK and, with it, a lucrative record deal that promised to transform his life.\r\n\r\nCo-directors Kim Longinotto and Franky Murray Brown chart Dalton's journey as he's catapulted into the limelight and pressure builds from all directions. They capture an extraordinary and talented young man wrestling with the weight of expectations and with his own identity.",
-      "runtime": 91,
-      "times": [
-        {
-          "starts_at": "2024-02-05T18:20:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-87749/"
         }
       ]
     },
@@ -2516,6 +2324,571 @@
   ],
   "2024-02-09": [
     {
+      "title": "Maestro",
+      "trailer": "https://www.youtube.com/watch?v=zU6GbM5c9aE",
+      "synopsis": "Maestro is a towering and fearless love story chronicling the lifelong relationship between Leonard Bernstein and Felicia Montealegre Cohn Bernstein. A love letter to life and art, Maestro at its core is an emotionally epic portrayal of family and love.",
+      "runtime": 129,
+      "times": [
+        {
+          "starts_at": "2024-02-09T11:20:00+00:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-47148/"
+        },
+        {
+          "starts_at": "2024-02-09T11:00:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-70565/"
+        },
+        {
+          "starts_at": "2024-02-09T17:00:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-70562/"
+        }
+      ]
+    },
+    {
+      "title": "Poor Things",
+      "trailer": "https://www.youtube.com/watch?v=-EfYJWRw2FM",
+      "synopsis": "From filmmaker Yorgos Lanthimos and producer Emma Stone comes the incredible tale and fantastical evolution of Bella Baxter (Stone), a young woman brought back to life by the brilliant and unorthodox scientist Dr. Godwin Baxter (Dafoe).",
+      "runtime": 142,
+      "times": [
+        {
+          "starts_at": "2024-02-09T11:40:00+00:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-47147/"
+        },
+        {
+          "starts_at": "2024-02-09T14:10:00+00:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-47143/"
+        },
+        {
+          "starts_at": "2024-02-09T19:40:00+00:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-47154/"
+        },
+        {
+          "starts_at": "2024-02-09T14:30:00+00:00",
+          "site": "Curzon Soho",
+          "url": "https://www.curzon.com/ticketing/seats/SOH1-43413/"
+        },
+        {
+          "starts_at": "2024-02-09T20:20:00+00:00",
+          "site": "Curzon Soho",
+          "url": "https://www.curzon.com/ticketing/seats/SOH1-43408/"
+        },
+        {
+          "starts_at": "2024-02-09T15:20:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-70568/"
+        },
+        {
+          "starts_at": "2024-02-09T20:00:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-70561/"
+        },
+        {
+          "starts_at": "2024-02-09T11:20:00+00:00",
+          "site": "Curzon Hoxton",
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-14826/"
+        },
+        {
+          "starts_at": "2024-02-09T17:30:00+00:00",
+          "site": "Curzon Hoxton",
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-14822/"
+        },
+        {
+          "starts_at": "2024-02-09T11:40:00+00:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-22309/"
+        },
+        {
+          "starts_at": "2024-02-09T17:40:00+00:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-22310/"
+        },
+        {
+          "starts_at": "2024-02-09T12:00:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-87772/"
+        },
+        {
+          "starts_at": "2024-02-09T17:40:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-87775/"
+        }
+      ]
+    },
+    {
+      "title": "The Iron Claw",
+      "trailer": "https://www.youtube.com/watch?v=MHO0Vqb8F4c",
+      "synopsis": "THE IRON CLAW depicts the true story of the inseparable Von Erich brothers, who made history in the intensely competitive world of professional wrestling in the early 1980s. Through tragedy and triumph, under the shadow of their domineering father and coach, the brothers seek larger-than-life immortality on the biggest stage in sports.",
+      "runtime": 132,
+      "times": [
+        {
+          "starts_at": "2024-02-09T12:20:00+00:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-47146/"
+        },
+        {
+          "starts_at": "2024-02-09T15:20:00+00:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-47144/"
+        },
+        {
+          "starts_at": "2024-02-09T17:40:00+00:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-47155/"
+        },
+        {
+          "starts_at": "2024-02-09T20:40:00+00:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-47151/"
+        },
+        {
+          "starts_at": "2024-02-09T14:50:00+00:00",
+          "site": "Curzon Soho",
+          "url": "https://www.curzon.com/ticketing/seats/SOH1-43412/"
+        },
+        {
+          "starts_at": "2024-02-09T20:40:00+00:00",
+          "site": "Curzon Soho",
+          "url": "https://www.curzon.com/ticketing/seats/SOH1-43411/"
+        },
+        {
+          "starts_at": "2024-02-09T12:00:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-70566/"
+        },
+        {
+          "starts_at": "2024-02-09T15:00:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-70563/"
+        },
+        {
+          "starts_at": "2024-02-09T17:20:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-70425/"
+        },
+        {
+          "starts_at": "2024-02-09T20:40:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-70420/"
+        },
+        {
+          "starts_at": "2024-02-09T12:00:00+00:00",
+          "site": "Curzon Hoxton",
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-14837/"
+        },
+        {
+          "starts_at": "2024-02-09T14:30:00+00:00",
+          "site": "Curzon Hoxton",
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-14827/"
+        },
+        {
+          "starts_at": "2024-02-09T20:20:00+00:00",
+          "site": "Curzon Hoxton",
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-14821/"
+        },
+        {
+          "starts_at": "2024-02-09T11:20:00+00:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-22318/"
+        },
+        {
+          "starts_at": "2024-02-09T14:20:00+00:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-22317/"
+        },
+        {
+          "starts_at": "2024-02-09T17:20:00+00:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-22312/"
+        },
+        {
+          "starts_at": "2024-02-09T20:20:00+00:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-22316/"
+        }
+      ]
+    },
+    {
+      "title": "Argylle",
+      "trailer": "https://www.youtube.com/watch?v=kOQ1TCW4RVQ",
+      "synopsis": "From the twisted mind of Matthew Vaughn (Kingsman franchise, Kick-Ass) comes Argylle, a razor-witted, reality-bending, globe-encircling spy thriller.\n\nBryce Dallas Howard (Jurassic World franchise) is Elly Conway, the reclusive author of a series of best-selling espionage novels, whose idea of bliss is a night at home with her computer and her cat, Alfie. But when the plots of Elly’s fictional books—which center on secret agent Argylle and his mission to unravel a global spy syndicate—begin to mirror the covert actions of a real-life spy organization, quiet evenings at home become a thing of the past.\n\nAccompanied by Aiden (Oscar® winner Sam Rockwell), a cat-allergic spy, Elly (carrying Alfie in her backpack) races across the world to stay one step ahead of the killers as the line between Elly’s fictional world and her real one begins to blur.",
+      "runtime": 139,
+      "times": [
+        {
+          "starts_at": "2024-02-09T12:40:00+00:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-47145/"
+        },
+        {
+          "starts_at": "2024-02-09T14:00:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-70426/"
+        }
+      ]
+    },
+    {
+      "title": "American Fiction",
+      "trailer": "https://www.youtube.com/watch?v=e8YghfAsgpU",
+      "synopsis": "AMERICAN FICTION is Cord Jefferson's hilarious directorial debut, which confronts our culture’s obsession with reducing people to outrageous stereotypes. Jeffrey Wright stars as Monk, a frustrated novelist who’s fed up with the establishment profiting from “Black” entertainment that relies on tired and offensive tropes. To prove his point, Monk uses a pen name to write an outlandish “Black” book of his own, a book that propels him to the heart of hypocrisy and the madness he claims to disdain.",
+      "runtime": 117,
+      "times": [
+        {
+          "starts_at": "2024-02-09T15:00:00+00:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-47158/"
+        },
+        {
+          "starts_at": "2024-02-09T18:40:00+00:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-47153/"
+        },
+        {
+          "starts_at": "2024-02-09T21:00:00+00:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-47152/"
+        },
+        {
+          "starts_at": "2024-02-09T12:30:00+00:00",
+          "site": "Curzon Soho",
+          "url": "https://www.curzon.com/ticketing/seats/SOH1-43415/"
+        },
+        {
+          "starts_at": "2024-02-09T17:40:00+00:00",
+          "site": "Curzon Soho",
+          "url": "https://www.curzon.com/ticketing/seats/SOH1-43407/"
+        },
+        {
+          "starts_at": "2024-02-09T12:20:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-70570/"
+        },
+        {
+          "starts_at": "2024-02-09T15:40:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-70569/"
+        },
+        {
+          "starts_at": "2024-02-09T18:20:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-70423/"
+        },
+        {
+          "starts_at": "2024-02-09T21:00:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-70422/"
+        },
+        {
+          "starts_at": "2024-02-09T12:15:00+00:00",
+          "site": "Curzon Mayfair",
+          "url": "https://www.curzon.com/ticketing/seats/MAY1-26027/"
+        },
+        {
+          "starts_at": "2024-02-09T21:00:00+00:00",
+          "site": "Curzon Mayfair",
+          "url": "https://www.curzon.com/ticketing/seats/MAY1-26022/"
+        },
+        {
+          "starts_at": "2024-02-09T15:00:00+00:00",
+          "site": "Curzon Hoxton",
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-14833/"
+        },
+        {
+          "starts_at": "2024-02-09T18:15:00+00:00",
+          "site": "Curzon Hoxton",
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-14823/"
+        },
+        {
+          "starts_at": "2024-02-09T20:40:00+00:00",
+          "site": "Curzon Hoxton",
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-14906/"
+        },
+        {
+          "starts_at": "2024-02-09T12:40:00+00:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-22307/"
+        },
+        {
+          "starts_at": "2024-02-09T18:00:00+00:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-22306/"
+        },
+        {
+          "starts_at": "2024-02-09T20:40:00+00:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-22300/"
+        },
+        {
+          "starts_at": "2024-02-09T12:50:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-87769/"
+        },
+        {
+          "starts_at": "2024-02-09T15:40:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-87776/"
+        },
+        {
+          "starts_at": "2024-02-09T18:00:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-87773/"
+        },
+        {
+          "starts_at": "2024-02-09T21:00:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-87782/"
+        }
+      ]
+    },
+    {
+      "title": "The Holdovers",
+      "trailer": "https://www.youtube.com/watch?v=E24snz6SwMQ",
+      "synopsis": "From acclaimed director Alexander Payne, The Holdovers follows a curmudgeonly teacher (Paul Giamatti) at a New England prep school who is forced to remain on campus during the holidays to babysit the handful of students with nowhere to go. Eventually he forms an unlikely bond with one of them -- a damaged, brainy troublemaker (newcomer Dominic Sessa) -- and with the school’s head cook, who lost a son in Vietnam (Da’Vine Joy Randolph). With outstanding critical acclaim, The Holdovers is now the winner of 2 Golden Globes for Best Actor (Comedy) for Paul Giamatti and Best Supporting Actress for Da’Vine Joy Randolph.",
+      "runtime": 133,
+      "times": [
+        {
+          "starts_at": "2024-02-09T15:40:00+00:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-47157/"
+        },
+        {
+          "starts_at": "2024-02-09T14:20:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-70564/"
+        },
+        {
+          "starts_at": "2024-02-09T20:20:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-70559/"
+        },
+        {
+          "starts_at": "2024-02-09T14:45:00+00:00",
+          "site": "Curzon Mayfair",
+          "url": "https://www.curzon.com/ticketing/seats/MAY1-26024/"
+        },
+        {
+          "starts_at": "2024-02-09T17:00:00+00:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-22315/"
+        },
+        {
+          "starts_at": "2024-02-09T15:20:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-87778/"
+        },
+        {
+          "starts_at": "2024-02-09T20:40:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-87784/"
+        }
+      ]
+    },
+    {
+      "title": "Chicken Run: Dawn of the Nugget",
+      "trailer": null,
+      "synopsis": "After escaping from Tweedy's farm, Ginger and all the chickens living the dream in their peaceful island sanctuary, far from the dangers of the human world.",
+      "runtime": 97,
+      "times": [
+        {
+          "starts_at": "2024-02-09T17:20:00+00:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-47149/"
+        }
+      ]
+    },
+    {
+      "title": "All Of Us Strangers",
+      "trailer": "https://www.youtube.com/watch?v=naDbwsI-T8A",
+      "synopsis": "One night in his near-empty tower block in contemporary London, Adam (Andrew Scott) has a chance encounter with a mysterious neighbor Harry (Paul Mescal), which punctures the rhythm of his everyday life. As a relationship develops between them, Adam is preoccupied with memories of the past and finds himself drawn back to the suburban town where he grew up, and the childhood home where his parents (Claire Foy and Jamie Bell), appear to be living, just as they were on the day they died, 30 years before.",
+      "runtime": 105,
+      "times": [
+        {
+          "starts_at": "2024-02-09T18:20:00+00:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-47150/"
+        },
+        {
+          "starts_at": "2024-02-09T11:50:00+00:00",
+          "site": "Curzon Soho",
+          "url": "https://www.curzon.com/ticketing/seats/SOH1-43414/"
+        },
+        {
+          "starts_at": "2024-02-09T18:00:00+00:00",
+          "site": "Curzon Soho",
+          "url": "https://www.curzon.com/ticketing/seats/SOH1-43409/"
+        },
+        {
+          "starts_at": "2024-02-09T11:40:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-70567/"
+        },
+        {
+          "starts_at": "2024-02-09T18:00:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-70560/"
+        },
+        {
+          "starts_at": "2024-02-09T12:00:00+00:00",
+          "site": "Curzon Mayfair",
+          "url": "https://www.curzon.com/ticketing/seats/MAY1-26025/"
+        },
+        {
+          "starts_at": "2024-02-09T15:50:00+00:00",
+          "site": "Curzon Hoxton",
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-14834/"
+        },
+        {
+          "starts_at": "2024-02-09T21:00:00+00:00",
+          "site": "Curzon Hoxton",
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-14825/"
+        },
+        {
+          "starts_at": "2024-02-09T15:00:00+00:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-22308/"
+        },
+        {
+          "starts_at": "2024-02-09T21:00:00+00:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-22311/"
+        },
+        {
+          "starts_at": "2024-02-09T12:30:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-87770/"
+        },
+        {
+          "starts_at": "2024-02-09T15:10:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-87779/"
+        },
+        {
+          "starts_at": "2024-02-09T18:10:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-87786/"
+        },
+        {
+          "starts_at": "2024-02-09T20:50:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-87783/"
+        }
+      ]
+    },
+    {
+      "title": "Rustin",
+      "trailer": null,
+      "synopsis": "The architect of 1963’s momentous March on Washington, Bayard Rustin was one of the greatest activists and organizers the world has ever known. He challenged authority, never apologized for who he was, what he believed, or who he desired. And he did not back down. He made history, and in turn, he was forgotten. Directed by DGA award and five-time Tony award winner George C. Wolfe and starring Emmy award winner Colman Domingo, Rustin shines a long overdue spotlight on the extraordinary man who, alongside giants like the Reverend Martin Luther King Jr., Adam Clayton Powell Jr., and Ella Baker, dared to imagine a different world, and inspired a movement in a march toward freedom. Produced by Academy award winner Bruce Cohen, Higher Ground's Tonia Davis and George C. Wolfe, the film features an all-star cast including Chris Rock, Glynn Turman, Jeffrey Wright and Audra McDonald.",
+      "runtime": 106,
+      "times": [
+        {
+          "starts_at": "2024-02-09T21:20:00+00:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-47175/"
+        }
+      ]
+    },
+    {
+      "title": "The Zone of Interest",
+      "trailer": null,
+      "synopsis": "The commandant of Auschwitz, Rudolf Höss, and his wife Hedwig, strive to build a dream life for their family in a house and garden next to the camp.",
+      "runtime": 105,
+      "times": [
+        {
+          "starts_at": "2024-02-09T12:10:00+00:00",
+          "site": "Curzon Soho",
+          "url": "https://www.curzon.com/ticketing/seats/SOH1-43417/"
+        },
+        {
+          "starts_at": "2024-02-09T15:10:00+00:00",
+          "site": "Curzon Soho",
+          "url": "https://www.curzon.com/ticketing/seats/SOH1-43416/"
+        },
+        {
+          "starts_at": "2024-02-09T21:00:00+00:00",
+          "site": "Curzon Soho",
+          "url": "https://www.curzon.com/ticketing/seats/SOH1-43410/"
+        },
+        {
+          "starts_at": "2024-02-09T10:45:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-70572/"
+        },
+        {
+          "starts_at": "2024-02-09T18:40:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-70424/"
+        },
+        {
+          "starts_at": "2024-02-09T21:20:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-70419/"
+        },
+        {
+          "starts_at": "2024-02-09T15:00:00+00:00",
+          "site": "Curzon Mayfair",
+          "url": "https://www.curzon.com/ticketing/seats/MAY1-26026/"
+        },
+        {
+          "starts_at": "2024-02-09T21:20:00+00:00",
+          "site": "Curzon Mayfair",
+          "url": "https://www.curzon.com/ticketing/seats/MAY1-26023/"
+        },
+        {
+          "starts_at": "2024-02-09T11:00:00+00:00",
+          "site": "Curzon Hoxton",
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-14836/"
+        },
+        {
+          "starts_at": "2024-02-09T13:25:00+00:00",
+          "site": "Curzon Hoxton",
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-14835/"
+        },
+        {
+          "starts_at": "2024-02-09T17:50:00+00:00",
+          "site": "Curzon Hoxton",
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-14824/"
+        },
+        {
+          "starts_at": "2024-02-09T12:00:00+00:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-22305/"
+        },
+        {
+          "starts_at": "2024-02-09T16:00:00+00:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-22304/"
+        },
+        {
+          "starts_at": "2024-02-09T18:40:00+00:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-22301/"
+        },
+        {
+          "starts_at": "2024-02-09T13:00:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-87780/"
+        },
+        {
+          "starts_at": "2024-02-09T15:30:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-87777/"
+        },
+        {
+          "starts_at": "2024-02-09T18:30:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-87785/"
+        },
+        {
+          "starts_at": "2024-02-09T21:10:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-87781/"
+        }
+      ]
+    },
+    {
       "title": "From Venice To London: Felicità (Happiness)",
       "trailer": null,
       "synopsis": "This is the story of a broken family, of egotistic and manipulative parents, a two-headed monster that devours every hope of freedom on the part of the children. Desirè is the only one who can save her brother Claudio and will go on fighting against everything and everyone in the name of the only love she knows, in pursuit of a bit of happiness.",
@@ -2529,15 +2902,118 @@
       ]
     },
     {
-      "title": "The Zone of Interest",
-      "trailer": null,
-      "synopsis": "The commandant of Auschwitz, Rudolf Höss, and his wife Hedwig, strive to build a dream life for their family in a house and garden next to the camp.",
-      "runtime": 105,
+      "title": "Anyone But You",
+      "trailer": "https://www.youtube.com/watch?v=gbjdSlTHFts",
+      "synopsis": "In the comedy Anyone But You, Bea (Sydney Sweeney) and Ben (Glen Powell) look like the perfect couple, but after an amazing first date something happens that turns their fiery hot attraction ice cold - until they find themselves unexpectedly thrust together at a destination wedding in Australia. So they do what any two mature adults would do: pretend to be a couple.",
+      "runtime": 103,
       "times": [
         {
-          "starts_at": "2024-02-09T21:20:00+00:00",
+          "starts_at": "2024-02-09T13:15:00+00:00",
           "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-70419/"
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-70571/"
+        }
+      ]
+    },
+    {
+      "title": "Dune",
+      "trailer": "https://www.youtube.com/watch?v=kcQx41TM6MY",
+      "synopsis": "Oscar nominee Denis Villeneuve (“Arrival,” “Blade Runner 2049”) directs Warner Bros. Pictures and Legendary Pictures’ “Dune,” the big-screen adaptation of Frank Herbert’s seminal bestseller of the same name.\n\nA mythic and emotionally charged hero’s journey, “Dune” tells the story of Paul Atreides, a brilliant and gifted young man born into a great destiny beyond his understanding, who must travel to the most dangerous planet in the universe to ensure the future of his family and his people. As malevolent forces explode into conflict over the planet’s exclusive supply of the most precious resource in existence—a commodity capable of unlocking humanity’s greatest potential—only those who can conquer their fear will survive.",
+      "runtime": 155,
+      "times": [
+        {
+          "starts_at": "2024-02-09T17:30:00+00:00",
+          "site": "Curzon Mayfair",
+          "url": "https://www.curzon.com/ticketing/seats/MAY1-26028/"
+        }
+      ]
+    },
+    {
+      "title": "Society of the Snow",
+      "trailer": null,
+      "synopsis": "The flight of a rugby team crashes on a glacier in the Andes, few passengers who survived the crash, find themselves in one of the world's toughest environments to survive.",
+      "runtime": 143,
+      "times": [
+        {
+          "starts_at": "2024-02-09T12:20:00+00:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-22313/"
+        },
+        {
+          "starts_at": "2024-02-09T20:00:00+00:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-22319/"
+        }
+      ]
+    },
+    {
+      "title": "WHAM!",
+      "trailer": null,
+      "synopsis": "In 1982, the best of friends and still teenagers - George Michael and Andrew Ridgeley as WHAM! set out to conquer the world. By June of 1986 they played their very last gig at Wembley Stadium having done exactly that.\n\nNow for the very first time, told in their own words, the amazing story of how in four years they dominated the charts around the world with timeless and classic pop songs. Hit after hit - Club Tropicana, Wake Me Up Before You Go Go, Freedom, I’m Your Man and of course Last Christmas.\n\nTheir time in the spotlight was white-hot, becoming the very first western pop act to play in China.\n\nIt was a time that both encapsulated and epitomised not just their youth, but also those of the many millions of fans that adored them.\n\nWith unprecedented access to both George and Andrew’s personal archive including remarkable and never-before-seen footage, alongside rare, candid and previously unheard interviews, WHAM! charts their incredible journey from school friends to superstars.",
+      "runtime": 92,
+      "times": [
+        {
+          "starts_at": "2024-02-09T14:40:00+00:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-22314/"
+        }
+      ]
+    },
+    {
+      "title": "The Settlers",
+      "trailer": null,
+      "synopsis": "Debut writer-director Felipe Gálvez asserts himself as a revelatory new cinematic voice with THE SETTLERS, a searing and indelible take on the Western. Blending historical specificity with vivid visual style, this Cannes Un Certain Regard FIPRESCI Prize winner creates a singular immersive vision, arresting in both content and form.\n\nAt the turn of the 20th century, three horsemen embark on an expedition across the Tierra del Fuego archipelago at the behest of a wealthy landowner, tasked with securing his vast state-appointed property. Accompanying a reckless British lieutenant and an American mercenary is mestizo marksman Segundo, who comes to realize, amidst rising tensions within the group, their true mission is to murderously “remove” the indigenous population.\n\nSet against stunning mountain landscapes, Chile’s Best International Feature Film entry to the 96th Academy Awards® is a visceral reckoning with national myth and the attendant violence. Painterly yet piercing, this acclaimed frontier epic turns a bold eye to the past, daring to reimagine its depiction in the present and for the future. ",
+      "runtime": 101,
+      "times": [
+        {
+          "starts_at": "2024-02-09T15:20:00+00:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-22302/"
+        },
+        {
+          "starts_at": "2024-02-09T21:20:00+00:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-22303/"
+        },
+        {
+          "starts_at": "2024-02-09T14:50:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-87787/"
+        },
+        {
+          "starts_at": "2024-02-09T20:30:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-87788/"
+        }
+      ]
+    },
+    {
+      "title": "Samsara",
+      "trailer": "https://www.youtube.com/watch?v=it-YSrv6ttA",
+      "synopsis": "Samsara is the Buddhist cycle of death and reincarnation. From the temples of Laos, alongside with teenage monks, we will accompany a soul in its transit from one body to another through the bardo. The words of the \"Tibetan Book of the Dead\" will be our guide to avoid getting lost in the afterlife. A luminous and sonorous journey that will lead us to reincarnate on the beaches of Zanzibar, where groups of women work in seaweed farms.\r\n\r\nCONTENT WARNING: This film contains flickering or flashing lights that may affect those with photosensitive epilepsy.\r\n",
+      "runtime": 114,
+      "times": [
+        {
+          "starts_at": "2024-02-09T12:10:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-87771/"
+        },
+        {
+          "starts_at": "2024-02-09T17:50:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-87774/"
+        }
+      ]
+    },
+    {
+      "title": "DocHouse: Total Trust",
+      "trailer": null,
+      "synopsis": "The full extent of the surveillance state in China is revealed with breathtaking immediacy in this gripping film, which follows the stories of Chinese citizens who have been monitored, intimidated and manipulated by the State.\r\n\r\nTotal Trust is an unflinching look a system of unbridled state power combined with the advancing capacities of Big Data and AI technology. The most heavily monitored country in the world experiences huge infringements of privacy, (self-)censorship and control, whilst systems such as 'social credit scoring' are being tested and deployed.\r\n\r\nChinese filmmaker Jialing Zhang - now living outside the country since co-directing 2019's One Child Nation - directed this eye-opening exposé remotely, with the support of filmmakers within China, who remain anonymous for their own safety.\r\n\r\nTaking China as a mirror, the film sounds an alarm about the increasing use of surveillance tools around the world - even in democratically run countries. If this is the present, what does our future look like?",
+      "runtime": 97,
+      "times": [
+        {
+          "starts_at": "2024-02-09T15:00:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-87911/"
         }
       ]
     },
@@ -2570,6 +3046,579 @@
   ],
   "2024-02-10": [
     {
+      "title": "Rustin",
+      "trailer": null,
+      "synopsis": "The architect of 1963’s momentous March on Washington, Bayard Rustin was one of the greatest activists and organizers the world has ever known. He challenged authority, never apologized for who he was, what he believed, or who he desired. And he did not back down. He made history, and in turn, he was forgotten. Directed by DGA award and five-time Tony award winner George C. Wolfe and starring Emmy award winner Colman Domingo, Rustin shines a long overdue spotlight on the extraordinary man who, alongside giants like the Reverend Martin Luther King Jr., Adam Clayton Powell Jr., and Ella Baker, dared to imagine a different world, and inspired a movement in a march toward freedom. Produced by Academy award winner Bruce Cohen, Higher Ground's Tonia Davis and George C. Wolfe, the film features an all-star cast including Chris Rock, Glynn Turman, Jeffrey Wright and Audra McDonald.",
+      "runtime": 106,
+      "times": [
+        {
+          "starts_at": "2024-02-10T11:20:00+00:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-47176/"
+        }
+      ]
+    },
+    {
+      "title": "Poor Things",
+      "trailer": "https://www.youtube.com/watch?v=-EfYJWRw2FM",
+      "synopsis": "From filmmaker Yorgos Lanthimos and producer Emma Stone comes the incredible tale and fantastical evolution of Bella Baxter (Stone), a young woman brought back to life by the brilliant and unorthodox scientist Dr. Godwin Baxter (Dafoe).",
+      "runtime": 142,
+      "times": [
+        {
+          "starts_at": "2024-02-10T11:30:00+00:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-47083/"
+        },
+        {
+          "starts_at": "2024-02-10T20:40:00+00:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-47086/"
+        },
+        {
+          "starts_at": "2024-02-10T14:50:00+00:00",
+          "site": "Curzon Soho",
+          "url": "https://www.curzon.com/ticketing/seats/SOH1-43425/"
+        },
+        {
+          "starts_at": "2024-02-10T20:40:00+00:00",
+          "site": "Curzon Soho",
+          "url": "https://www.curzon.com/ticketing/seats/SOH1-43420/"
+        },
+        {
+          "starts_at": "2024-02-10T15:20:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-70575/"
+        },
+        {
+          "starts_at": "2024-02-10T20:00:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-70587/"
+        },
+        {
+          "starts_at": "2024-02-10T14:10:00+00:00",
+          "site": "Curzon Hoxton",
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-14829/"
+        },
+        {
+          "starts_at": "2024-02-10T20:20:00+00:00",
+          "site": "Curzon Hoxton",
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-14830/"
+        },
+        {
+          "starts_at": "2024-02-10T11:40:00+00:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-22320/"
+        },
+        {
+          "starts_at": "2024-02-10T17:40:00+00:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-22339/"
+        },
+        {
+          "starts_at": "2024-02-10T11:50:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-87789/"
+        },
+        {
+          "starts_at": "2024-02-10T17:40:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-87790/"
+        }
+      ]
+    },
+    {
+      "title": "Chicken Run: Dawn of the Nugget",
+      "trailer": null,
+      "synopsis": "After escaping from Tweedy's farm, Ginger and all the chickens living the dream in their peaceful island sanctuary, far from the dangers of the human world.",
+      "runtime": 97,
+      "times": [
+        {
+          "starts_at": "2024-02-10T11:40:00+00:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-47085/"
+        }
+      ]
+    },
+    {
+      "title": "The Iron Claw",
+      "trailer": "https://www.youtube.com/watch?v=MHO0Vqb8F4c",
+      "synopsis": "THE IRON CLAW depicts the true story of the inseparable Von Erich brothers, who made history in the intensely competitive world of professional wrestling in the early 1980s. Through tragedy and triumph, under the shadow of their domineering father and coach, the brothers seek larger-than-life immortality on the biggest stage in sports.",
+      "runtime": 132,
+      "times": [
+        {
+          "starts_at": "2024-02-10T12:00:00+00:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-47073/"
+        },
+        {
+          "starts_at": "2024-02-10T15:00:00+00:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-47074/"
+        },
+        {
+          "starts_at": "2024-02-10T18:00:00+00:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-47075/"
+        },
+        {
+          "starts_at": "2024-02-10T20:20:00+00:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-47076/"
+        },
+        {
+          "starts_at": "2024-02-10T17:20:00+00:00",
+          "site": "Curzon Soho",
+          "url": "https://www.curzon.com/ticketing/seats/SOH1-43426/"
+        },
+        {
+          "starts_at": "2024-02-10T20:20:00+00:00",
+          "site": "Curzon Soho",
+          "url": "https://www.curzon.com/ticketing/seats/SOH1-43427/"
+        },
+        {
+          "starts_at": "2024-02-10T12:00:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-70581/"
+        },
+        {
+          "starts_at": "2024-02-10T15:00:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-70576/"
+        },
+        {
+          "starts_at": "2024-02-10T17:20:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-70591/"
+        },
+        {
+          "starts_at": "2024-02-10T20:40:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-70585/"
+        },
+        {
+          "starts_at": "2024-02-10T12:30:00+00:00",
+          "site": "Curzon Hoxton",
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-14828/"
+        },
+        {
+          "starts_at": "2024-02-10T14:40:00+00:00",
+          "site": "Curzon Hoxton",
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-14841/"
+        },
+        {
+          "starts_at": "2024-02-10T17:20:00+00:00",
+          "site": "Curzon Hoxton",
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-14831/"
+        },
+        {
+          "starts_at": "2024-02-10T11:20:00+00:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-22331/"
+        },
+        {
+          "starts_at": "2024-02-10T17:20:00+00:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-22337/"
+        },
+        {
+          "starts_at": "2024-02-10T20:20:00+00:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-22333/"
+        }
+      ]
+    },
+    {
+      "title": "Argylle",
+      "trailer": "https://www.youtube.com/watch?v=kOQ1TCW4RVQ",
+      "synopsis": "From the twisted mind of Matthew Vaughn (Kingsman franchise, Kick-Ass) comes Argylle, a razor-witted, reality-bending, globe-encircling spy thriller.\n\nBryce Dallas Howard (Jurassic World franchise) is Elly Conway, the reclusive author of a series of best-selling espionage novels, whose idea of bliss is a night at home with her computer and her cat, Alfie. But when the plots of Elly’s fictional books—which center on secret agent Argylle and his mission to unravel a global spy syndicate—begin to mirror the covert actions of a real-life spy organization, quiet evenings at home become a thing of the past.\n\nAccompanied by Aiden (Oscar® winner Sam Rockwell), a cat-allergic spy, Elly (carrying Alfie in her backpack) races across the world to stay one step ahead of the killers as the line between Elly’s fictional world and her real one begins to blur.",
+      "runtime": 139,
+      "times": [
+        {
+          "starts_at": "2024-02-10T14:00:00+00:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-47087/"
+        },
+        {
+          "starts_at": "2024-02-10T14:00:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-70578/"
+        }
+      ]
+    },
+    {
+      "title": "All Of Us Strangers",
+      "trailer": "https://www.youtube.com/watch?v=naDbwsI-T8A",
+      "synopsis": "One night in his near-empty tower block in contemporary London, Adam (Andrew Scott) has a chance encounter with a mysterious neighbor Harry (Paul Mescal), which punctures the rhythm of his everyday life. As a relationship develops between them, Adam is preoccupied with memories of the past and finds himself drawn back to the suburban town where he grew up, and the childhood home where his parents (Claire Foy and Jamie Bell), appear to be living, just as they were on the day they died, 30 years before.",
+      "runtime": 105,
+      "times": [
+        {
+          "starts_at": "2024-02-10T14:20:00+00:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-47078/"
+        },
+        {
+          "starts_at": "2024-02-10T12:20:00+00:00",
+          "site": "Curzon Soho",
+          "url": "https://www.curzon.com/ticketing/seats/SOH1-43424/"
+        },
+        {
+          "starts_at": "2024-02-10T18:00:00+00:00",
+          "site": "Curzon Soho",
+          "url": "https://www.curzon.com/ticketing/seats/SOH1-43418/"
+        },
+        {
+          "starts_at": "2024-02-10T11:40:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-70582/"
+        },
+        {
+          "starts_at": "2024-02-10T18:00:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-70590/"
+        },
+        {
+          "starts_at": "2024-02-10T12:45:00+00:00",
+          "site": "Curzon Mayfair",
+          "url": "https://www.curzon.com/ticketing/seats/MAY1-26035/"
+        },
+        {
+          "starts_at": "2024-02-10T21:00:00+00:00",
+          "site": "Curzon Mayfair",
+          "url": "https://www.curzon.com/ticketing/seats/MAY1-26075/"
+        },
+        {
+          "starts_at": "2024-02-10T11:40:00+00:00",
+          "site": "Curzon Hoxton",
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-14843/"
+        },
+        {
+          "starts_at": "2024-02-10T17:50:00+00:00",
+          "site": "Curzon Hoxton",
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-14838/"
+        },
+        {
+          "starts_at": "2024-02-10T15:00:00+00:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-22321/"
+        },
+        {
+          "starts_at": "2024-02-10T21:00:00+00:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-22338/"
+        },
+        {
+          "starts_at": "2024-02-10T12:45:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-87798/"
+        },
+        {
+          "starts_at": "2024-02-10T15:00:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-87794/"
+        },
+        {
+          "starts_at": "2024-02-10T18:10:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-87805/"
+        },
+        {
+          "starts_at": "2024-02-10T20:50:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-87801/"
+        }
+      ]
+    },
+    {
+      "title": "American Fiction",
+      "trailer": "https://www.youtube.com/watch?v=e8YghfAsgpU",
+      "synopsis": "AMERICAN FICTION is Cord Jefferson's hilarious directorial debut, which confronts our culture’s obsession with reducing people to outrageous stereotypes. Jeffrey Wright stars as Monk, a frustrated novelist who’s fed up with the establishment profiting from “Black” entertainment that relies on tired and offensive tropes. To prove his point, Monk uses a pen name to write an outlandish “Black” book of his own, a book that propels him to the heart of hypocrisy and the madness he claims to disdain.",
+      "runtime": 117,
+      "times": [
+        {
+          "starts_at": "2024-02-10T14:40:00+00:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-47080/"
+        },
+        {
+          "starts_at": "2024-02-10T17:40:00+00:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-47081/"
+        },
+        {
+          "starts_at": "2024-02-10T21:00:00+00:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-47082/"
+        },
+        {
+          "starts_at": "2024-02-10T11:15:00+00:00",
+          "site": "Curzon Soho",
+          "url": "https://www.curzon.com/ticketing/seats/SOH1-43428/"
+        },
+        {
+          "starts_at": "2024-02-10T14:30:00+00:00",
+          "site": "Curzon Soho",
+          "url": "https://www.curzon.com/ticketing/seats/SOH1-43423/"
+        },
+        {
+          "starts_at": "2024-02-10T21:00:00+00:00",
+          "site": "Curzon Soho",
+          "url": "https://www.curzon.com/ticketing/seats/SOH1-43419/"
+        },
+        {
+          "starts_at": "2024-02-10T12:20:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-70579/"
+        },
+        {
+          "starts_at": "2024-02-10T15:40:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-70574/"
+        },
+        {
+          "starts_at": "2024-02-10T18:20:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-70589/"
+        },
+        {
+          "starts_at": "2024-02-10T21:00:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-70584/"
+        },
+        {
+          "starts_at": "2024-02-10T12:15:00+00:00",
+          "site": "Curzon Mayfair",
+          "url": "https://www.curzon.com/ticketing/seats/MAY1-26030/"
+        },
+        {
+          "starts_at": "2024-02-10T17:30:00+00:00",
+          "site": "Curzon Mayfair",
+          "url": "https://www.curzon.com/ticketing/seats/MAY1-26034/"
+        },
+        {
+          "starts_at": "2024-02-10T12:05:00+00:00",
+          "site": "Curzon Hoxton",
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-14844/"
+        },
+        {
+          "starts_at": "2024-02-10T18:15:00+00:00",
+          "site": "Curzon Hoxton",
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-14840/"
+        },
+        {
+          "starts_at": "2024-02-10T20:40:00+00:00",
+          "site": "Curzon Hoxton",
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-14845/"
+        },
+        {
+          "starts_at": "2024-02-10T12:40:00+00:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-22322/"
+        },
+        {
+          "starts_at": "2024-02-10T18:00:00+00:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-22323/"
+        },
+        {
+          "starts_at": "2024-02-10T20:40:00+00:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-22329/"
+        },
+        {
+          "starts_at": "2024-02-10T12:30:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-87797/"
+        },
+        {
+          "starts_at": "2024-02-10T15:40:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-87791/"
+        },
+        {
+          "starts_at": "2024-02-10T17:50:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-87806/"
+        },
+        {
+          "starts_at": "2024-02-10T21:00:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-87800/"
+        }
+      ]
+    },
+    {
+      "title": "Maestro",
+      "trailer": "https://www.youtube.com/watch?v=zU6GbM5c9aE",
+      "synopsis": "Maestro is a towering and fearless love story chronicling the lifelong relationship between Leonard Bernstein and Felicia Montealegre Cohn Bernstein. A love letter to life and art, Maestro at its core is an emotionally epic portrayal of family and love.",
+      "runtime": 129,
+      "times": [
+        {
+          "starts_at": "2024-02-10T17:00:00+00:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-47088/"
+        },
+        {
+          "starts_at": "2024-02-10T11:00:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-70583/"
+        },
+        {
+          "starts_at": "2024-02-10T17:00:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-70592/"
+        }
+      ]
+    },
+    {
+      "title": "Dune",
+      "trailer": "https://www.youtube.com/watch?v=kcQx41TM6MY",
+      "synopsis": "Oscar nominee Denis Villeneuve (“Arrival,” “Blade Runner 2049”) directs Warner Bros. Pictures and Legendary Pictures’ “Dune,” the big-screen adaptation of Frank Herbert’s seminal bestseller of the same name.\n\nA mythic and emotionally charged hero’s journey, “Dune” tells the story of Paul Atreides, a brilliant and gifted young man born into a great destiny beyond his understanding, who must travel to the most dangerous planet in the universe to ensure the future of his family and his people. As malevolent forces explode into conflict over the planet’s exclusive supply of the most precious resource in existence—a commodity capable of unlocking humanity’s greatest potential—only those who can conquer their fear will survive.",
+      "runtime": 155,
+      "times": [
+        {
+          "starts_at": "2024-02-10T17:20:00+00:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-47141/"
+        },
+        {
+          "starts_at": "2024-02-10T20:20:00+00:00",
+          "site": "Curzon Mayfair",
+          "url": "https://www.curzon.com/ticketing/seats/MAY1-26029/"
+        }
+      ]
+    },
+    {
+      "title": "The Holdovers",
+      "trailer": "https://www.youtube.com/watch?v=E24snz6SwMQ",
+      "synopsis": "From acclaimed director Alexander Payne, The Holdovers follows a curmudgeonly teacher (Paul Giamatti) at a New England prep school who is forced to remain on campus during the holidays to babysit the handful of students with nowhere to go. Eventually he forms an unlikely bond with one of them -- a damaged, brainy troublemaker (newcomer Dominic Sessa) -- and with the school’s head cook, who lost a son in Vietnam (Da’Vine Joy Randolph). With outstanding critical acclaim, The Holdovers is now the winner of 2 Golden Globes for Best Actor (Comedy) for Paul Giamatti and Best Supporting Actress for Da’Vine Joy Randolph.",
+      "runtime": 133,
+      "times": [
+        {
+          "starts_at": "2024-02-10T20:00:00+00:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-47079/"
+        },
+        {
+          "starts_at": "2024-02-10T14:20:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-70577/"
+        },
+        {
+          "starts_at": "2024-02-10T20:20:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-70586/"
+        },
+        {
+          "starts_at": "2024-02-10T15:20:00+00:00",
+          "site": "Curzon Mayfair",
+          "url": "https://www.curzon.com/ticketing/seats/MAY1-26036/"
+        },
+        {
+          "starts_at": "2024-02-10T13:40:00+00:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-22334/"
+        },
+        {
+          "starts_at": "2024-02-10T15:10:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-87793/"
+        },
+        {
+          "starts_at": "2024-02-10T20:40:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-87802/"
+        }
+      ]
+    },
+    {
+      "title": "The Zone of Interest",
+      "trailer": null,
+      "synopsis": "The commandant of Auschwitz, Rudolf Höss, and his wife Hedwig, strive to build a dream life for their family in a house and garden next to the camp.",
+      "runtime": 105,
+      "times": [
+        {
+          "starts_at": "2024-02-10T12:00:00+00:00",
+          "site": "Curzon Soho",
+          "url": "https://www.curzon.com/ticketing/seats/SOH1-43422/"
+        },
+        {
+          "starts_at": "2024-02-10T18:20:00+00:00",
+          "site": "Curzon Soho",
+          "url": "https://www.curzon.com/ticketing/seats/SOH1-43421/"
+        },
+        {
+          "starts_at": "2024-02-10T10:45:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-70573/"
+        },
+        {
+          "starts_at": "2024-02-10T18:40:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-70588/"
+        },
+        {
+          "starts_at": "2024-02-10T21:20:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-70427/"
+        },
+        {
+          "starts_at": "2024-02-10T15:00:00+00:00",
+          "site": "Curzon Mayfair",
+          "url": "https://www.curzon.com/ticketing/seats/MAY1-26031/"
+        },
+        {
+          "starts_at": "2024-02-10T18:30:00+00:00",
+          "site": "Curzon Mayfair",
+          "url": "https://www.curzon.com/ticketing/seats/MAY1-26033/"
+        },
+        {
+          "starts_at": "2024-02-10T15:30:00+00:00",
+          "site": "Curzon Hoxton",
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-14842/"
+        },
+        {
+          "starts_at": "2024-02-10T21:00:00+00:00",
+          "site": "Curzon Hoxton",
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-14839/"
+        },
+        {
+          "starts_at": "2024-02-10T11:00:00+00:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-22324/"
+        },
+        {
+          "starts_at": "2024-02-10T16:00:00+00:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-22325/"
+        },
+        {
+          "starts_at": "2024-02-10T21:20:00+00:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-22328/"
+        },
+        {
+          "starts_at": "2024-02-10T13:00:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-87796/"
+        },
+        {
+          "starts_at": "2024-02-10T15:20:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-87792/"
+        },
+        {
+          "starts_at": "2024-02-10T18:30:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-87804/"
+        },
+        {
+          "starts_at": "2024-02-10T21:10:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-87808/"
+        }
+      ]
+    },
+    {
       "title": "From Venice To London: Lubo",
       "trailer": null,
       "synopsis": "Franz Rogowski stars as Lubo, a nomad and busker who in 1939 is called up to the Swiss army to defend the country’s borders against the risk of a German invasion. Shortly afterward he finds out that his wife has died in the attempt to stop the gendarmes from taking away their three small children, who, as Yenisch, have been removed from their family as part of the national program of reeducation for “children of the road” (Hilfswerk für die Kinder der Landstrasse). Lubo knows that he will never have peace until he gets his children back and gets justice for his story and that of all outsiders like himself.",
@@ -2583,15 +3632,15 @@
       ]
     },
     {
-      "title": "The Zone of Interest",
-      "trailer": null,
-      "synopsis": "The commandant of Auschwitz, Rudolf Höss, and his wife Hedwig, strive to build a dream life for their family in a house and garden next to the camp.",
-      "runtime": 105,
+      "title": "Anyone But You",
+      "trailer": "https://www.youtube.com/watch?v=gbjdSlTHFts",
+      "synopsis": "In the comedy Anyone But You, Bea (Sydney Sweeney) and Ben (Glen Powell) look like the perfect couple, but after an amazing first date something happens that turns their fiery hot attraction ice cold - until they find themselves unexpectedly thrust together at a destination wedding in Australia. So they do what any two mature adults would do: pretend to be a couple.",
+      "runtime": 103,
       "times": [
         {
-          "starts_at": "2024-02-10T21:20:00+00:00",
+          "starts_at": "2024-02-10T13:15:00+00:00",
           "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-70427/"
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-70580/"
         }
       ]
     },
@@ -2610,6 +3659,109 @@
           "starts_at": "2024-02-10T10:30:00+00:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-21518/"
+        }
+      ]
+    },
+    {
+      "title": "Society of the Snow",
+      "trailer": null,
+      "synopsis": "The flight of a rugby team crashes on a glacier in the Andes, few passengers who survived the crash, find themselves in one of the world's toughest environments to survive.",
+      "runtime": 143,
+      "times": [
+        {
+          "starts_at": "2024-02-10T12:20:00+00:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-22336/"
+        },
+        {
+          "starts_at": "2024-02-10T20:00:00+00:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-22330/"
+        }
+      ]
+    },
+    {
+      "title": "Your Fat Friend",
+      "trailer": null,
+      "synopsis": "Your Fat Friend charts Aubrey Gordon's journey from anonymous blogger Yrfatfriend to NY Times bestselling author and podcast host (@maintenancephase ) and the complexities of making change. It’s a film about fatness, family and the deep, messy feelings all of us hold about our bodies.",
+      "runtime": 94,
+      "times": [
+        {
+          "starts_at": "2024-02-10T14:40:00+00:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-22440/"
+        }
+      ]
+    },
+    {
+      "title": "The Settlers",
+      "trailer": null,
+      "synopsis": "Debut writer-director Felipe Gálvez asserts himself as a revelatory new cinematic voice with THE SETTLERS, a searing and indelible take on the Western. Blending historical specificity with vivid visual style, this Cannes Un Certain Regard FIPRESCI Prize winner creates a singular immersive vision, arresting in both content and form.\n\nAt the turn of the 20th century, three horsemen embark on an expedition across the Tierra del Fuego archipelago at the behest of a wealthy landowner, tasked with securing his vast state-appointed property. Accompanying a reckless British lieutenant and an American mercenary is mestizo marksman Segundo, who comes to realize, amidst rising tensions within the group, their true mission is to murderously “remove” the indigenous population.\n\nSet against stunning mountain landscapes, Chile’s Best International Feature Film entry to the 96th Academy Awards® is a visceral reckoning with national myth and the attendant violence. Painterly yet piercing, this acclaimed frontier epic turns a bold eye to the past, daring to reimagine its depiction in the present and for the future. ",
+      "runtime": 101,
+      "times": [
+        {
+          "starts_at": "2024-02-10T15:20:00+00:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-22327/"
+        },
+        {
+          "starts_at": "2024-02-10T18:40:00+00:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-22326/"
+        },
+        {
+          "starts_at": "2024-02-10T14:45:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-87795/"
+        },
+        {
+          "starts_at": "2024-02-10T20:10:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-87803/"
+        }
+      ]
+    },
+    {
+      "title": "WHAM!",
+      "trailer": null,
+      "synopsis": "In 1982, the best of friends and still teenagers - George Michael and Andrew Ridgeley as WHAM! set out to conquer the world. By June of 1986 they played their very last gig at Wembley Stadium having done exactly that.\n\nNow for the very first time, told in their own words, the amazing story of how in four years they dominated the charts around the world with timeless and classic pop songs. Hit after hit - Club Tropicana, Wake Me Up Before You Go Go, Freedom, I’m Your Man and of course Last Christmas.\n\nTheir time in the spotlight was white-hot, becoming the very first western pop act to play in China.\n\nIt was a time that both encapsulated and epitomised not just their youth, but also those of the many millions of fans that adored them.\n\nWith unprecedented access to both George and Andrew’s personal archive including remarkable and never-before-seen footage, alongside rare, candid and previously unheard interviews, WHAM! charts their incredible journey from school friends to superstars.",
+      "runtime": 92,
+      "times": [
+        {
+          "starts_at": "2024-02-10T17:00:00+00:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-22335/"
+        }
+      ]
+    },
+    {
+      "title": "Samsara",
+      "trailer": "https://www.youtube.com/watch?v=it-YSrv6ttA",
+      "synopsis": "Samsara is the Buddhist cycle of death and reincarnation. From the temples of Laos, alongside with teenage monks, we will accompany a soul in its transit from one body to another through the bardo. The words of the \"Tibetan Book of the Dead\" will be our guide to avoid getting lost in the afterlife. A luminous and sonorous journey that will lead us to reincarnate on the beaches of Zanzibar, where groups of women work in seaweed farms.\r\n\r\nCONTENT WARNING: This film contains flickering or flashing lights that may affect those with photosensitive epilepsy.\r\n",
+      "runtime": 114,
+      "times": [
+        {
+          "starts_at": "2024-02-10T12:00:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-87799/"
+        },
+        {
+          "starts_at": "2024-02-10T17:30:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-87807/"
+        }
+      ]
+    },
+    {
+      "title": "DocHouse: Werner Herzog: Radical Dreamer",
+      "trailer": null,
+      "synopsis": "Filmmaker, auteur, poet, actor, doomsayer, truth seeker - Werner Herzog has become a legend in his own right, and at 81 still continues to add to his considerable oeuvre.\r\n\r\n\r\nRadical Dreamer profiles the man who had a 320-ton steamboat hauled over a hill in Peru, who hypnotises his actors, climbs down into volcanoes, talks to murderers on death row, cooks and eats his own shoe and who once - in an almost magical act - walked from Munich to Paris to prevent the death of a film critic he greatly admired. It is stories like these that have made this most remarkable director a cult figure the world over.\r\n\r\nThis comprehensive portrait by director Thomas von Steinaecke explores Herzog's work, process and everyday life, bringing together rare archive materials and in-depth interviews with the man himself, as well as celebrated collaborators - including Joshua Oppenheimer, Patti Smith, Christian Bale, Nicole Kidman and his wife, Lena Herzog.",
+      "runtime": 90,
+      "times": [
+        {
+          "starts_at": "2024-02-10T14:00:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-87912/"
         }
       ]
     },
@@ -2638,9 +3790,552 @@
           "url": "https://www.curzon.com/ticketing/seats/BLO1-87599/"
         }
       ]
+    },
+    {
+      "title": "DocHouse: Total Trust",
+      "trailer": null,
+      "synopsis": "The full extent of the surveillance state in China is revealed with breathtaking immediacy in this gripping film, which follows the stories of Chinese citizens who have been monitored, intimidated and manipulated by the State.\r\n\r\nTotal Trust is an unflinching look a system of unbridled state power combined with the advancing capacities of Big Data and AI technology. The most heavily monitored country in the world experiences huge infringements of privacy, (self-)censorship and control, whilst systems such as 'social credit scoring' are being tested and deployed.\r\n\r\nChinese filmmaker Jialing Zhang - now living outside the country since co-directing 2019's One Child Nation - directed this eye-opening exposé remotely, with the support of filmmakers within China, who remain anonymous for their own safety.\r\n\r\nTaking China as a mirror, the film sounds an alarm about the increasing use of surveillance tools around the world - even in democratically run countries. If this is the present, what does our future look like?",
+      "runtime": 97,
+      "times": [
+        {
+          "starts_at": "2024-02-10T20:00:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-87913/"
+        }
+      ]
     }
   ],
   "2024-02-11": [
+    {
+      "title": "Maestro",
+      "trailer": "https://www.youtube.com/watch?v=zU6GbM5c9aE",
+      "synopsis": "Maestro is a towering and fearless love story chronicling the lifelong relationship between Leonard Bernstein and Felicia Montealegre Cohn Bernstein. A love letter to life and art, Maestro at its core is an emotionally epic portrayal of family and love.",
+      "runtime": 129,
+      "times": [
+        {
+          "starts_at": "2024-02-11T11:00:00+00:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-47159/"
+        },
+        {
+          "starts_at": "2024-02-11T12:00:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-70609/"
+        },
+        {
+          "starts_at": "2024-02-11T16:40:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-70601/"
+        }
+      ]
+    },
+    {
+      "title": "Poor Things",
+      "trailer": "https://www.youtube.com/watch?v=-EfYJWRw2FM",
+      "synopsis": "From filmmaker Yorgos Lanthimos and producer Emma Stone comes the incredible tale and fantastical evolution of Bella Baxter (Stone), a young woman brought back to life by the brilliant and unorthodox scientist Dr. Godwin Baxter (Dafoe).",
+      "runtime": 142,
+      "times": [
+        {
+          "starts_at": "2024-02-11T11:10:00+00:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-47160/"
+        },
+        {
+          "starts_at": "2024-02-11T13:50:00+00:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-47164/"
+        },
+        {
+          "starts_at": "2024-02-11T19:20:00+00:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-47169/"
+        },
+        {
+          "starts_at": "2024-02-11T14:40:00+00:00",
+          "site": "Curzon Soho",
+          "url": "https://www.curzon.com/ticketing/seats/SOH1-43436/"
+        },
+        {
+          "starts_at": "2024-02-11T19:50:00+00:00",
+          "site": "Curzon Soho",
+          "url": "https://www.curzon.com/ticketing/seats/SOH1-43432/"
+        },
+        {
+          "starts_at": "2024-02-11T19:40:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-70605/"
+        },
+        {
+          "starts_at": "2024-02-11T12:00:00+00:00",
+          "site": "Curzon Hoxton",
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-14856/"
+        },
+        {
+          "starts_at": "2024-02-11T17:10:00+00:00",
+          "site": "Curzon Hoxton",
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-14849/"
+        },
+        {
+          "starts_at": "2024-02-11T11:00:00+00:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-22340/"
+        },
+        {
+          "starts_at": "2024-02-11T17:00:00+00:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-22357/"
+        },
+        {
+          "starts_at": "2024-02-11T11:20:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-87809/"
+        },
+        {
+          "starts_at": "2024-02-11T17:00:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-87810/"
+        }
+      ]
+    },
+    {
+      "title": "The Iron Claw",
+      "trailer": "https://www.youtube.com/watch?v=MHO0Vqb8F4c",
+      "synopsis": "THE IRON CLAW depicts the true story of the inseparable Von Erich brothers, who made history in the intensely competitive world of professional wrestling in the early 1980s. Through tragedy and triumph, under the shadow of their domineering father and coach, the brothers seek larger-than-life immortality on the biggest stage in sports.",
+      "runtime": 132,
+      "times": [
+        {
+          "starts_at": "2024-02-11T12:00:00+00:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-47161/"
+        },
+        {
+          "starts_at": "2024-02-11T14:20:00+00:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-47163/"
+        },
+        {
+          "starts_at": "2024-02-11T17:40:00+00:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-47168/"
+        },
+        {
+          "starts_at": "2024-02-11T20:00:00+00:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-47172/"
+        },
+        {
+          "starts_at": "2024-02-11T11:50:00+00:00",
+          "site": "Curzon Soho",
+          "url": "https://www.curzon.com/ticketing/seats/SOH1-43438/"
+        },
+        {
+          "starts_at": "2024-02-11T20:20:00+00:00",
+          "site": "Curzon Soho",
+          "url": "https://www.curzon.com/ticketing/seats/SOH1-43437/"
+        },
+        {
+          "starts_at": "2024-02-11T11:40:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-70594/"
+        },
+        {
+          "starts_at": "2024-02-11T14:40:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-70598/"
+        },
+        {
+          "starts_at": "2024-02-11T20:20:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-70607/"
+        },
+        {
+          "starts_at": "2024-02-11T11:40:00+00:00",
+          "site": "Curzon Hoxton",
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-14857/"
+        },
+        {
+          "starts_at": "2024-02-11T14:00:00+00:00",
+          "site": "Curzon Hoxton",
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-14855/"
+        },
+        {
+          "starts_at": "2024-02-11T20:00:00+00:00",
+          "site": "Curzon Hoxton",
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-14850/"
+        },
+        {
+          "starts_at": "2024-02-11T13:20:00+00:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-22350/"
+        },
+        {
+          "starts_at": "2024-02-11T16:20:00+00:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-22355/"
+        },
+        {
+          "starts_at": "2024-02-11T19:40:00+00:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-22351/"
+        }
+      ]
+    },
+    {
+      "title": "Argylle",
+      "trailer": "https://www.youtube.com/watch?v=kOQ1TCW4RVQ",
+      "synopsis": "From the twisted mind of Matthew Vaughn (Kingsman franchise, Kick-Ass) comes Argylle, a razor-witted, reality-bending, globe-encircling spy thriller.\n\nBryce Dallas Howard (Jurassic World franchise) is Elly Conway, the reclusive author of a series of best-selling espionage novels, whose idea of bliss is a night at home with her computer and her cat, Alfie. But when the plots of Elly’s fictional books—which center on secret agent Argylle and his mission to unravel a global spy syndicate—begin to mirror the covert actions of a real-life spy organization, quiet evenings at home become a thing of the past.\n\nAccompanied by Aiden (Oscar® winner Sam Rockwell), a cat-allergic spy, Elly (carrying Alfie in her backpack) races across the world to stay one step ahead of the killers as the line between Elly’s fictional world and her real one begins to blur.",
+      "runtime": 139,
+      "times": [
+        {
+          "starts_at": "2024-02-11T12:20:00+00:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-47162/"
+        },
+        {
+          "starts_at": "2024-02-11T13:40:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-70596/"
+        }
+      ]
+    },
+    {
+      "title": "American Fiction",
+      "trailer": "https://www.youtube.com/watch?v=e8YghfAsgpU",
+      "synopsis": "AMERICAN FICTION is Cord Jefferson's hilarious directorial debut, which confronts our culture’s obsession with reducing people to outrageous stereotypes. Jeffrey Wright stars as Monk, a frustrated novelist who’s fed up with the establishment profiting from “Black” entertainment that relies on tired and offensive tropes. To prove his point, Monk uses a pen name to write an outlandish “Black” book of his own, a book that propels him to the heart of hypocrisy and the madness he claims to disdain.",
+      "runtime": 117,
+      "times": [
+        {
+          "starts_at": "2024-02-11T15:00:00+00:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-47165/"
+        },
+        {
+          "starts_at": "2024-02-11T18:20:00+00:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-47170/"
+        },
+        {
+          "starts_at": "2024-02-11T20:40:00+00:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-47171/"
+        },
+        {
+          "starts_at": "2024-02-11T11:30:00+00:00",
+          "site": "Curzon Soho",
+          "url": "https://www.curzon.com/ticketing/seats/SOH1-43434/"
+        },
+        {
+          "starts_at": "2024-02-11T17:00:00+00:00",
+          "site": "Curzon Soho",
+          "url": "https://www.curzon.com/ticketing/seats/SOH1-43431/"
+        },
+        {
+          "starts_at": "2024-02-11T15:20:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-70599/"
+        },
+        {
+          "starts_at": "2024-02-11T18:00:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-70603/"
+        },
+        {
+          "starts_at": "2024-02-11T20:40:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-70608/"
+        },
+        {
+          "starts_at": "2024-02-11T11:45:00+00:00",
+          "site": "Curzon Mayfair",
+          "url": "https://www.curzon.com/ticketing/seats/MAY1-26037/"
+        },
+        {
+          "starts_at": "2024-02-11T17:20:00+00:00",
+          "site": "Curzon Mayfair",
+          "url": "https://www.curzon.com/ticketing/seats/MAY1-26041/"
+        },
+        {
+          "starts_at": "2024-02-11T14:40:00+00:00",
+          "site": "Curzon Hoxton",
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-14853/"
+        },
+        {
+          "starts_at": "2024-02-11T18:00:00+00:00",
+          "site": "Curzon Hoxton",
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-14848/"
+        },
+        {
+          "starts_at": "2024-02-11T20:20:00+00:00",
+          "site": "Curzon Hoxton",
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-14854/"
+        },
+        {
+          "starts_at": "2024-02-11T11:40:00+00:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-22342/"
+        },
+        {
+          "starts_at": "2024-02-11T15:10:00+00:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-22438/"
+        },
+        {
+          "starts_at": "2024-02-11T17:20:00+00:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-22343/"
+        },
+        {
+          "starts_at": "2024-02-11T12:10:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-87817/"
+        },
+        {
+          "starts_at": "2024-02-11T15:00:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-87811/"
+        },
+        {
+          "starts_at": "2024-02-11T17:20:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-87826/"
+        },
+        {
+          "starts_at": "2024-02-11T20:20:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-87820/"
+        }
+      ]
+    },
+    {
+      "title": "The Holdovers",
+      "trailer": "https://www.youtube.com/watch?v=E24snz6SwMQ",
+      "synopsis": "From acclaimed director Alexander Payne, The Holdovers follows a curmudgeonly teacher (Paul Giamatti) at a New England prep school who is forced to remain on campus during the holidays to babysit the handful of students with nowhere to go. Eventually he forms an unlikely bond with one of them -- a damaged, brainy troublemaker (newcomer Dominic Sessa) -- and with the school’s head cook, who lost a son in Vietnam (Da’Vine Joy Randolph). With outstanding critical acclaim, The Holdovers is now the winner of 2 Golden Globes for Best Actor (Comedy) for Paul Giamatti and Best Supporting Actress for Da’Vine Joy Randolph.",
+      "runtime": 133,
+      "times": [
+        {
+          "starts_at": "2024-02-11T15:20:00+00:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-47166/"
+        },
+        {
+          "starts_at": "2024-02-11T15:00:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-70597/"
+        },
+        {
+          "starts_at": "2024-02-11T20:00:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-70606/"
+        },
+        {
+          "starts_at": "2024-02-11T20:15:00+00:00",
+          "site": "Curzon Mayfair",
+          "url": "https://www.curzon.com/ticketing/seats/MAY1-26038/"
+        },
+        {
+          "starts_at": "2024-02-11T20:00:00+00:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-22352/"
+        },
+        {
+          "starts_at": "2024-02-11T14:40:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-87813/"
+        },
+        {
+          "starts_at": "2024-02-11T20:00:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-87822/"
+        }
+      ]
+    },
+    {
+      "title": "Chicken Run: Dawn of the Nugget",
+      "trailer": null,
+      "synopsis": "After escaping from Tweedy's farm, Ginger and all the chickens living the dream in their peaceful island sanctuary, far from the dangers of the human world.",
+      "runtime": 97,
+      "times": [
+        {
+          "starts_at": "2024-02-11T17:00:00+00:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-47174/"
+        }
+      ]
+    },
+    {
+      "title": "All Of Us Strangers",
+      "trailer": "https://www.youtube.com/watch?v=naDbwsI-T8A",
+      "synopsis": "One night in his near-empty tower block in contemporary London, Adam (Andrew Scott) has a chance encounter with a mysterious neighbor Harry (Paul Mescal), which punctures the rhythm of his everyday life. As a relationship develops between them, Adam is preoccupied with memories of the past and finds himself drawn back to the suburban town where he grew up, and the childhood home where his parents (Claire Foy and Jamie Bell), appear to be living, just as they were on the day they died, 30 years before.",
+      "runtime": 105,
+      "times": [
+        {
+          "starts_at": "2024-02-11T17:20:00+00:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-47177/"
+        },
+        {
+          "starts_at": "2024-02-11T12:10:00+00:00",
+          "site": "Curzon Soho",
+          "url": "https://www.curzon.com/ticketing/seats/SOH1-43435/"
+        },
+        {
+          "starts_at": "2024-02-11T17:50:00+00:00",
+          "site": "Curzon Soho",
+          "url": "https://www.curzon.com/ticketing/seats/SOH1-43430/"
+        },
+        {
+          "starts_at": "2024-02-11T11:20:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-70593/"
+        },
+        {
+          "starts_at": "2024-02-11T17:40:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-70602/"
+        },
+        {
+          "starts_at": "2024-02-11T14:40:00+00:00",
+          "site": "Curzon Mayfair",
+          "url": "https://www.curzon.com/ticketing/seats/MAY1-26042/"
+        },
+        {
+          "starts_at": "2024-02-11T15:20:00+00:00",
+          "site": "Curzon Hoxton",
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-14852/"
+        },
+        {
+          "starts_at": "2024-02-11T20:40:00+00:00",
+          "site": "Curzon Hoxton",
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-14846/"
+        },
+        {
+          "starts_at": "2024-02-11T14:20:00+00:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-22341/"
+        },
+        {
+          "starts_at": "2024-02-11T20:20:00+00:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-22356/"
+        },
+        {
+          "starts_at": "2024-02-11T11:50:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-87818/"
+        },
+        {
+          "starts_at": "2024-02-11T14:30:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-87814/"
+        },
+        {
+          "starts_at": "2024-02-11T17:30:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-87825/"
+        },
+        {
+          "starts_at": "2024-02-11T20:10:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-87821/"
+        }
+      ]
+    },
+    {
+      "title": "Rustin",
+      "trailer": null,
+      "synopsis": "The architect of 1963’s momentous March on Washington, Bayard Rustin was one of the greatest activists and organizers the world has ever known. He challenged authority, never apologized for who he was, what he believed, or who he desired. And he did not back down. He made history, and in turn, he was forgotten. Directed by DGA award and five-time Tony award winner George C. Wolfe and starring Emmy award winner Colman Domingo, Rustin shines a long overdue spotlight on the extraordinary man who, alongside giants like the Reverend Martin Luther King Jr., Adam Clayton Powell Jr., and Ella Baker, dared to imagine a different world, and inspired a movement in a march toward freedom. Produced by Academy award winner Bruce Cohen, Higher Ground's Tonia Davis and George C. Wolfe, the film features an all-star cast including Chris Rock, Glynn Turman, Jeffrey Wright and Audra McDonald.",
+      "runtime": 106,
+      "times": [
+        {
+          "starts_at": "2024-02-11T21:00:00+00:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-47178/"
+        }
+      ]
+    },
+    {
+      "title": "The Zone of Interest",
+      "trailer": null,
+      "synopsis": "The commandant of Auschwitz, Rudolf Höss, and his wife Hedwig, strive to build a dream life for their family in a house and garden next to the camp.",
+      "runtime": 105,
+      "times": [
+        {
+          "starts_at": "2024-02-11T14:20:00+00:00",
+          "site": "Curzon Soho",
+          "url": "https://www.curzon.com/ticketing/seats/SOH1-43433/"
+        },
+        {
+          "starts_at": "2024-02-11T20:40:00+00:00",
+          "site": "Curzon Soho",
+          "url": "https://www.curzon.com/ticketing/seats/SOH1-43429/"
+        },
+        {
+          "starts_at": "2024-02-11T12:40:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-70600/"
+        },
+        {
+          "starts_at": "2024-02-11T18:20:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-70604/"
+        },
+        {
+          "starts_at": "2024-02-11T21:00:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-70428/"
+        },
+        {
+          "starts_at": "2024-02-11T11:00:00+00:00",
+          "site": "Curzon Mayfair",
+          "url": "https://www.curzon.com/ticketing/seats/MAY1-26043/"
+        },
+        {
+          "starts_at": "2024-02-11T21:00:00+00:00",
+          "site": "Curzon Mayfair",
+          "url": "https://www.curzon.com/ticketing/seats/MAY1-26040/"
+        },
+        {
+          "starts_at": "2024-02-11T11:20:00+00:00",
+          "site": "Curzon Hoxton",
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-14851/"
+        },
+        {
+          "starts_at": "2024-02-11T17:30:00+00:00",
+          "site": "Curzon Hoxton",
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-14847/"
+        },
+        {
+          "starts_at": "2024-02-11T10:40:00+00:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-22344/"
+        },
+        {
+          "starts_at": "2024-02-11T18:00:00+00:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-22348/"
+        },
+        {
+          "starts_at": "2024-02-11T12:30:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-87816/"
+        },
+        {
+          "starts_at": "2024-02-11T14:50:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-87812/"
+        },
+        {
+          "starts_at": "2024-02-11T17:45:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-87824/"
+        },
+        {
+          "starts_at": "2024-02-11T20:30:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-87828/"
+        }
+      ]
+    },
     {
       "title": "From Venice To London: Lion's Share & Meatseller",
       "trailer": null,
@@ -2668,6 +4363,19 @@
       ]
     },
     {
+      "title": "Anyone But You",
+      "trailer": "https://www.youtube.com/watch?v=gbjdSlTHFts",
+      "synopsis": "In the comedy Anyone But You, Bea (Sydney Sweeney) and Ben (Glen Powell) look like the perfect couple, but after an amazing first date something happens that turns their fiery hot attraction ice cold - until they find themselves unexpectedly thrust together at a destination wedding in Australia. So they do what any two mature adults would do: pretend to be a couple.",
+      "runtime": 103,
+      "times": [
+        {
+          "starts_at": "2024-02-11T11:00:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-70595/"
+        }
+      ]
+    },
+    {
       "title": "Occupied City",
       "trailer": "https://www.youtube.com/watch?v=OAA4ekT36Ao",
       "synopsis": "Where do the memories of a city go? From Oscar- and BAFTA-winning filmmaker and Turner Prize-winning visual artist Steve McQueen comes this mesmerising and monumental excavation of how the past haunts our precarious present: mirroring it and warning us in plain sight. \n\nIn Occupied City, a searching camera sweeps through a vibrant contemporary Amsterdam while, at the same time, the film summons people and memories of the past under Nazi occupation within the city’s map and woven into the fabric of its streets and buildings. McQueen opens up a poetic, dreamlike space where unthinkable history and hope for a new future co-exist. \n\nThe film is informed by the rigorously researched and lauded Atlas of an Occupied City: Amsterdam 1940-1945, written by historian and filmmaker Bianca Stigter, McQueen’s partner. The film travels to around 130 addresses in the city to uncover what occurred behind each window in those calamitous years. The emotional power of these stories accumulates over the course of the film, laying bare the mechanics of both systematic oppression and sudden bravery; both calculated terror and life-saving luck; both ordinary and extraordinary ways of surviving. \n\nYet, the film’s hypnotic imagery is entirely of our time, persistently moving forward. McQueen uses no archival footage, nor a single interview. Instead, the panoramas are awash in the rhythms of modern daily life, shot through at times with the eerie time-distortion of covid’s protocols and losses, and the sudden eruption of fervid street protests—for freedom, against racism, and to halt climate change. \n\nThe film is a meditation on time, memory, and immediacy—history as something all around us, and something we continually create. It is also a highly personal journey, as we weave in and out of houses and remembrances, in and out of grief, indignation, and moments of joy, hearing history, seeing the recent world, and wondering about tomorrow.\r\n\r\nThis event will start promptly at 14:00 and it plays without ads/trailers. \r\n",
@@ -2686,19 +4394,6 @@
       ]
     },
     {
-      "title": "The Zone of Interest",
-      "trailer": null,
-      "synopsis": "The commandant of Auschwitz, Rudolf Höss, and his wife Hedwig, strive to build a dream life for their family in a house and garden next to the camp.",
-      "runtime": 105,
-      "times": [
-        {
-          "starts_at": "2024-02-11T21:00:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-70428/"
-        }
-      ]
-    },
-    {
       "title": "Royal Ballet 2023/24 Season: Manon",
       "trailer": null,
       "synopsis": "Manon’s brother Lescaut is offering her to the highest bidder when she meets Des Grieux and falls in love. They elope to Paris, but when Monsieur G.M. offers Manon a life of luxury as his mistress she can’t resist. \n\nWith the Lescauts’ encouragement Des Grieux cheats at cards in an attempt to win Monsieur G.M.’s fortune. They are caught. Manon is arrested as a prostitute and deported to New Orleans, followed by Des Grieux. On the run, Manon dies from exhaustion.",
@@ -2708,6 +4403,96 @@
           "starts_at": "2024-02-11T14:00:00+00:00",
           "site": "Curzon Mayfair",
           "url": "https://www.curzon.com/ticketing/seats/MAY1-24021/"
+        }
+      ]
+    },
+    {
+      "title": "Dune",
+      "trailer": "https://www.youtube.com/watch?v=kcQx41TM6MY",
+      "synopsis": "Oscar nominee Denis Villeneuve (“Arrival,” “Blade Runner 2049”) directs Warner Bros. Pictures and Legendary Pictures’ “Dune,” the big-screen adaptation of Frank Herbert’s seminal bestseller of the same name.\n\nA mythic and emotionally charged hero’s journey, “Dune” tells the story of Paul Atreides, a brilliant and gifted young man born into a great destiny beyond his understanding, who must travel to the most dangerous planet in the universe to ensure the future of his family and his people. As malevolent forces explode into conflict over the planet’s exclusive supply of the most precious resource in existence—a commodity capable of unlocking humanity’s greatest potential—only those who can conquer their fear will survive.",
+      "runtime": 155,
+      "times": [
+        {
+          "starts_at": "2024-02-11T17:40:00+00:00",
+          "site": "Curzon Mayfair",
+          "url": "https://www.curzon.com/ticketing/seats/MAY1-26039/"
+        }
+      ]
+    },
+    {
+      "title": "WHAM!",
+      "trailer": null,
+      "synopsis": "In 1982, the best of friends and still teenagers - George Michael and Andrew Ridgeley as WHAM! set out to conquer the world. By June of 1986 they played their very last gig at Wembley Stadium having done exactly that.\n\nNow for the very first time, told in their own words, the amazing story of how in four years they dominated the charts around the world with timeless and classic pop songs. Hit after hit - Club Tropicana, Wake Me Up Before You Go Go, Freedom, I’m Your Man and of course Last Christmas.\n\nTheir time in the spotlight was white-hot, becoming the very first western pop act to play in China.\n\nIt was a time that both encapsulated and epitomised not just their youth, but also those of the many millions of fans that adored them.\n\nWith unprecedented access to both George and Andrew’s personal archive including remarkable and never-before-seen footage, alongside rare, candid and previously unheard interviews, WHAM! charts their incredible journey from school friends to superstars.",
+      "runtime": 92,
+      "times": [
+        {
+          "starts_at": "2024-02-11T11:20:00+00:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-22353/"
+        }
+      ]
+    },
+    {
+      "title": "Society of the Snow",
+      "trailer": null,
+      "synopsis": "The flight of a rugby team crashes on a glacier in the Andes, few passengers who survived the crash, find themselves in one of the world's toughest environments to survive.",
+      "runtime": 143,
+      "times": [
+        {
+          "starts_at": "2024-02-11T12:00:00+00:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-22354/"
+        },
+        {
+          "starts_at": "2024-02-11T19:20:00+00:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-22349/"
+        }
+      ]
+    },
+    {
+      "title": "The Settlers",
+      "trailer": null,
+      "synopsis": "Debut writer-director Felipe Gálvez asserts himself as a revelatory new cinematic voice with THE SETTLERS, a searing and indelible take on the Western. Blending historical specificity with vivid visual style, this Cannes Un Certain Regard FIPRESCI Prize winner creates a singular immersive vision, arresting in both content and form.\n\nAt the turn of the 20th century, three horsemen embark on an expedition across the Tierra del Fuego archipelago at the behest of a wealthy landowner, tasked with securing his vast state-appointed property. Accompanying a reckless British lieutenant and an American mercenary is mestizo marksman Segundo, who comes to realize, amidst rising tensions within the group, their true mission is to murderously “remove” the indigenous population.\n\nSet against stunning mountain landscapes, Chile’s Best International Feature Film entry to the 96th Academy Awards® is a visceral reckoning with national myth and the attendant violence. Painterly yet piercing, this acclaimed frontier epic turns a bold eye to the past, daring to reimagine its depiction in the present and for the future. ",
+      "runtime": 101,
+      "times": [
+        {
+          "starts_at": "2024-02-11T14:40:00+00:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-22347/"
+        },
+        {
+          "starts_at": "2024-02-11T20:40:00+00:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-22346/"
+        },
+        {
+          "starts_at": "2024-02-11T14:15:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-87815/"
+        },
+        {
+          "starts_at": "2024-02-11T19:45:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-87823/"
+        }
+      ]
+    },
+    {
+      "title": "Samsara",
+      "trailer": "https://www.youtube.com/watch?v=it-YSrv6ttA",
+      "synopsis": "Samsara is the Buddhist cycle of death and reincarnation. From the temples of Laos, alongside with teenage monks, we will accompany a soul in its transit from one body to another through the bardo. The words of the \"Tibetan Book of the Dead\" will be our guide to avoid getting lost in the afterlife. A luminous and sonorous journey that will lead us to reincarnate on the beaches of Zanzibar, where groups of women work in seaweed farms.\r\n\r\nCONTENT WARNING: This film contains flickering or flashing lights that may affect those with photosensitive epilepsy.\r\n",
+      "runtime": 114,
+      "times": [
+        {
+          "starts_at": "2024-02-11T11:30:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-87819/"
+        },
+        {
+          "starts_at": "2024-02-11T17:10:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-87827/"
         }
       ]
     },
@@ -2727,6 +4512,511 @@
   ],
   "2024-02-12": [
     {
+      "title": "Rustin",
+      "trailer": null,
+      "synopsis": "The architect of 1963’s momentous March on Washington, Bayard Rustin was one of the greatest activists and organizers the world has ever known. He challenged authority, never apologized for who he was, what he believed, or who he desired. And he did not back down. He made history, and in turn, he was forgotten. Directed by DGA award and five-time Tony award winner George C. Wolfe and starring Emmy award winner Colman Domingo, Rustin shines a long overdue spotlight on the extraordinary man who, alongside giants like the Reverend Martin Luther King Jr., Adam Clayton Powell Jr., and Ella Baker, dared to imagine a different world, and inspired a movement in a march toward freedom. Produced by Academy award winner Bruce Cohen, Higher Ground's Tonia Davis and George C. Wolfe, the film features an all-star cast including Chris Rock, Glynn Turman, Jeffrey Wright and Audra McDonald.",
+      "runtime": 106,
+      "times": [
+        {
+          "starts_at": "2024-02-12T11:20:00+00:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-47179/"
+        }
+      ]
+    },
+    {
+      "title": "Poor Things",
+      "trailer": "https://www.youtube.com/watch?v=-EfYJWRw2FM",
+      "synopsis": "From filmmaker Yorgos Lanthimos and producer Emma Stone comes the incredible tale and fantastical evolution of Bella Baxter (Stone), a young woman brought back to life by the brilliant and unorthodox scientist Dr. Godwin Baxter (Dafoe).",
+      "runtime": 142,
+      "times": [
+        {
+          "starts_at": "2024-02-12T11:30:00+00:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-47108/"
+        },
+        {
+          "starts_at": "2024-02-12T17:20:00+00:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-47107/"
+        },
+        {
+          "starts_at": "2024-02-12T20:40:00+00:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-47119/"
+        },
+        {
+          "starts_at": "2024-02-12T14:40:00+00:00",
+          "site": "Curzon Soho",
+          "url": "https://www.curzon.com/ticketing/seats/SOH1-43465/"
+        },
+        {
+          "starts_at": "2024-02-12T20:10:00+00:00",
+          "site": "Curzon Soho",
+          "url": "https://www.curzon.com/ticketing/seats/SOH1-43461/"
+        },
+        {
+          "starts_at": "2024-02-12T15:20:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-70626/"
+        },
+        {
+          "starts_at": "2024-02-12T20:00:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-70619/"
+        },
+        {
+          "starts_at": "2024-02-12T12:00:00+00:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-22407/"
+        },
+        {
+          "starts_at": "2024-02-12T11:45:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-87838/"
+        },
+        {
+          "starts_at": "2024-02-12T17:40:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-87837/"
+        }
+      ]
+    },
+    {
+      "title": "Chicken Run: Dawn of the Nugget",
+      "trailer": null,
+      "synopsis": "After escaping from Tweedy's farm, Ginger and all the chickens living the dream in their peaceful island sanctuary, far from the dangers of the human world.",
+      "runtime": 97,
+      "times": [
+        {
+          "starts_at": "2024-02-12T11:40:00+00:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-47120/"
+        }
+      ]
+    },
+    {
+      "title": "The Iron Claw",
+      "trailer": "https://www.youtube.com/watch?v=MHO0Vqb8F4c",
+      "synopsis": "THE IRON CLAW depicts the true story of the inseparable Von Erich brothers, who made history in the intensely competitive world of professional wrestling in the early 1980s. Through tragedy and triumph, under the shadow of their domineering father and coach, the brothers seek larger-than-life immortality on the biggest stage in sports.",
+      "runtime": 132,
+      "times": [
+        {
+          "starts_at": "2024-02-12T12:00:00+00:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-47106/"
+        },
+        {
+          "starts_at": "2024-02-12T15:00:00+00:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-47105/"
+        },
+        {
+          "starts_at": "2024-02-12T18:00:00+00:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-47116/"
+        },
+        {
+          "starts_at": "2024-02-12T20:20:00+00:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-47115/"
+        },
+        {
+          "starts_at": "2024-02-12T15:20:00+00:00",
+          "site": "Curzon Soho",
+          "url": "https://www.curzon.com/ticketing/seats/SOH1-43464/"
+        },
+        {
+          "starts_at": "2024-02-12T18:20:00+00:00",
+          "site": "Curzon Soho",
+          "url": "https://www.curzon.com/ticketing/seats/SOH1-43463/"
+        },
+        {
+          "starts_at": "2024-02-12T12:00:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-70614/"
+        },
+        {
+          "starts_at": "2024-02-12T15:00:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-70627/"
+        },
+        {
+          "starts_at": "2024-02-12T17:20:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-70623/"
+        },
+        {
+          "starts_at": "2024-02-12T20:40:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-70629/"
+        },
+        {
+          "starts_at": "2024-02-12T11:20:00+00:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-22416/"
+        },
+        {
+          "starts_at": "2024-02-12T14:20:00+00:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-22415/"
+        },
+        {
+          "starts_at": "2024-02-12T17:20:00+00:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-22410/"
+        },
+        {
+          "starts_at": "2024-02-12T20:20:00+00:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-22414/"
+        }
+      ]
+    },
+    {
+      "title": "Argylle",
+      "trailer": "https://www.youtube.com/watch?v=kOQ1TCW4RVQ",
+      "synopsis": "From the twisted mind of Matthew Vaughn (Kingsman franchise, Kick-Ass) comes Argylle, a razor-witted, reality-bending, globe-encircling spy thriller.\n\nBryce Dallas Howard (Jurassic World franchise) is Elly Conway, the reclusive author of a series of best-selling espionage novels, whose idea of bliss is a night at home with her computer and her cat, Alfie. But when the plots of Elly’s fictional books—which center on secret agent Argylle and his mission to unravel a global spy syndicate—begin to mirror the covert actions of a real-life spy organization, quiet evenings at home become a thing of the past.\n\nAccompanied by Aiden (Oscar® winner Sam Rockwell), a cat-allergic spy, Elly (carrying Alfie in her backpack) races across the world to stay one step ahead of the killers as the line between Elly’s fictional world and her real one begins to blur.",
+      "runtime": 139,
+      "times": [
+        {
+          "starts_at": "2024-02-12T14:00:00+00:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-47118/"
+        },
+        {
+          "starts_at": "2024-02-12T14:00:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-70611/"
+        }
+      ]
+    },
+    {
+      "title": "All Of Us Strangers",
+      "trailer": "https://www.youtube.com/watch?v=naDbwsI-T8A",
+      "synopsis": "One night in his near-empty tower block in contemporary London, Adam (Andrew Scott) has a chance encounter with a mysterious neighbor Harry (Paul Mescal), which punctures the rhythm of his everyday life. As a relationship develops between them, Adam is preoccupied with memories of the past and finds himself drawn back to the suburban town where he grew up, and the childhood home where his parents (Claire Foy and Jamie Bell), appear to be living, just as they were on the day they died, 30 years before.",
+      "runtime": 105,
+      "times": [
+        {
+          "starts_at": "2024-02-12T14:20:00+00:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-47113/"
+        },
+        {
+          "starts_at": "2024-02-12T12:00:00+00:00",
+          "site": "Curzon Soho",
+          "url": "https://www.curzon.com/ticketing/seats/SOH1-43466/"
+        },
+        {
+          "starts_at": "2024-02-12T21:15:00+00:00",
+          "site": "Curzon Soho",
+          "url": "https://www.curzon.com/ticketing/seats/SOH1-43462/"
+        },
+        {
+          "starts_at": "2024-02-12T11:40:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-70615/"
+        },
+        {
+          "starts_at": "2024-02-12T18:00:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-70622/"
+        },
+        {
+          "starts_at": "2024-02-12T15:00:00+00:00",
+          "site": "Curzon Mayfair",
+          "url": "https://www.curzon.com/ticketing/seats/MAY1-26047/"
+        },
+        {
+          "starts_at": "2024-02-12T20:40:00+00:00",
+          "site": "Curzon Mayfair",
+          "url": "https://www.curzon.com/ticketing/seats/MAY1-26051/"
+        },
+        {
+          "starts_at": "2024-02-12T15:00:00+00:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-22406/"
+        },
+        {
+          "starts_at": "2024-02-12T20:00:00+00:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-22409/"
+        },
+        {
+          "starts_at": "2024-02-12T12:45:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-87829/"
+        },
+        {
+          "starts_at": "2024-02-12T15:10:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-87833/"
+        },
+        {
+          "starts_at": "2024-02-12T18:10:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-87842/"
+        },
+        {
+          "starts_at": "2024-02-12T20:50:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-87846/"
+        }
+      ]
+    },
+    {
+      "title": "American Fiction",
+      "trailer": "https://www.youtube.com/watch?v=e8YghfAsgpU",
+      "synopsis": "AMERICAN FICTION is Cord Jefferson's hilarious directorial debut, which confronts our culture’s obsession with reducing people to outrageous stereotypes. Jeffrey Wright stars as Monk, a frustrated novelist who’s fed up with the establishment profiting from “Black” entertainment that relies on tired and offensive tropes. To prove his point, Monk uses a pen name to write an outlandish “Black” book of his own, a book that propels him to the heart of hypocrisy and the madness he claims to disdain.",
+      "runtime": 117,
+      "times": [
+        {
+          "starts_at": "2024-02-12T14:40:00+00:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-47111/"
+        },
+        {
+          "starts_at": "2024-02-12T17:40:00+00:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-47110/"
+        },
+        {
+          "starts_at": "2024-02-12T21:00:00+00:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-47109/"
+        },
+        {
+          "starts_at": "2024-02-12T12:40:00+00:00",
+          "site": "Curzon Soho",
+          "url": "https://www.curzon.com/ticketing/seats/SOH1-43469/"
+        },
+        {
+          "starts_at": "2024-02-12T15:00:00+00:00",
+          "site": "Curzon Soho",
+          "url": "https://www.curzon.com/ticketing/seats/SOH1-43467/"
+        },
+        {
+          "starts_at": "2024-02-12T21:00:00+00:00",
+          "site": "Curzon Soho",
+          "url": "https://www.curzon.com/ticketing/seats/SOH1-43471/"
+        },
+        {
+          "starts_at": "2024-02-12T12:20:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-70612/"
+        },
+        {
+          "starts_at": "2024-02-12T15:40:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-70625/"
+        },
+        {
+          "starts_at": "2024-02-12T18:20:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-70621/"
+        },
+        {
+          "starts_at": "2024-02-12T21:00:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-70628/"
+        },
+        {
+          "starts_at": "2024-02-12T12:45:00+00:00",
+          "site": "Curzon Mayfair",
+          "url": "https://www.curzon.com/ticketing/seats/MAY1-26046/"
+        },
+        {
+          "starts_at": "2024-02-12T18:15:00+00:00",
+          "site": "Curzon Mayfair",
+          "url": "https://www.curzon.com/ticketing/seats/MAY1-26048/"
+        },
+        {
+          "starts_at": "2024-02-12T12:40:00+00:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-22405/"
+        },
+        {
+          "starts_at": "2024-02-12T18:00:00+00:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-22404/"
+        },
+        {
+          "starts_at": "2024-02-12T20:40:00+00:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-22398/"
+        },
+        {
+          "starts_at": "2024-02-12T12:30:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-87830/"
+        },
+        {
+          "starts_at": "2024-02-12T15:40:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-87836/"
+        },
+        {
+          "starts_at": "2024-02-12T18:00:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-87841/"
+        },
+        {
+          "starts_at": "2024-02-12T21:00:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-87847/"
+        }
+      ]
+    },
+    {
+      "title": "Maestro",
+      "trailer": "https://www.youtube.com/watch?v=zU6GbM5c9aE",
+      "synopsis": "Maestro is a towering and fearless love story chronicling the lifelong relationship between Leonard Bernstein and Felicia Montealegre Cohn Bernstein. A love letter to life and art, Maestro at its core is an emotionally epic portrayal of family and love.",
+      "runtime": 129,
+      "times": [
+        {
+          "starts_at": "2024-02-12T17:00:00+00:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-47117/"
+        },
+        {
+          "starts_at": "2024-02-12T11:00:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-70616/"
+        },
+        {
+          "starts_at": "2024-02-12T17:00:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-70624/"
+        }
+      ]
+    },
+    {
+      "title": "The Holdovers",
+      "trailer": "https://www.youtube.com/watch?v=E24snz6SwMQ",
+      "synopsis": "From acclaimed director Alexander Payne, The Holdovers follows a curmudgeonly teacher (Paul Giamatti) at a New England prep school who is forced to remain on campus during the holidays to babysit the handful of students with nowhere to go. Eventually he forms an unlikely bond with one of them -- a damaged, brainy troublemaker (newcomer Dominic Sessa) -- and with the school’s head cook, who lost a son in Vietnam (Da’Vine Joy Randolph). With outstanding critical acclaim, The Holdovers is now the winner of 2 Golden Globes for Best Actor (Comedy) for Paul Giamatti and Best Supporting Actress for Da’Vine Joy Randolph.",
+      "runtime": 133,
+      "times": [
+        {
+          "starts_at": "2024-02-12T20:00:00+00:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-47112/"
+        },
+        {
+          "starts_at": "2024-02-12T14:20:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-70610/"
+        },
+        {
+          "starts_at": "2024-02-12T20:20:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-70618/"
+        },
+        {
+          "starts_at": "2024-02-12T12:00:00+00:00",
+          "site": "Curzon Mayfair",
+          "url": "https://www.curzon.com/ticketing/seats/MAY1-26045/"
+        },
+        {
+          "starts_at": "2024-02-12T17:40:00+00:00",
+          "site": "Curzon Mayfair",
+          "url": "https://www.curzon.com/ticketing/seats/MAY1-26050/"
+        },
+        {
+          "starts_at": "2024-02-12T14:00:00+00:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-22413/"
+        },
+        {
+          "starts_at": "2024-02-12T15:20:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-87834/"
+        },
+        {
+          "starts_at": "2024-02-12T20:40:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-87845/"
+        }
+      ]
+    },
+    {
+      "title": "The Zone of Interest",
+      "trailer": null,
+      "synopsis": "The commandant of Auschwitz, Rudolf Höss, and his wife Hedwig, strive to build a dream life for their family in a house and garden next to the camp.",
+      "runtime": 105,
+      "times": [
+        {
+          "starts_at": "2024-02-12T12:20:00+00:00",
+          "site": "Curzon Soho",
+          "url": "https://www.curzon.com/ticketing/seats/SOH1-43468/"
+        },
+        {
+          "starts_at": "2024-02-12T17:40:00+00:00",
+          "site": "Curzon Soho",
+          "url": "https://www.curzon.com/ticketing/seats/SOH1-43470/"
+        },
+        {
+          "starts_at": "2024-02-12T10:45:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-70617/"
+        },
+        {
+          "starts_at": "2024-02-12T18:40:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-70620/"
+        },
+        {
+          "starts_at": "2024-02-12T21:15:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-70429/"
+        },
+        {
+          "starts_at": "2024-02-12T15:40:00+00:00",
+          "site": "Curzon Mayfair",
+          "url": "https://www.curzon.com/ticketing/seats/MAY1-26044/"
+        },
+        {
+          "starts_at": "2024-02-12T21:00:00+00:00",
+          "site": "Curzon Mayfair",
+          "url": "https://www.curzon.com/ticketing/seats/MAY1-26049/"
+        },
+        {
+          "starts_at": "2024-02-12T11:00:00+00:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-22403/"
+        },
+        {
+          "starts_at": "2024-02-12T16:00:00+00:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-22402/"
+        },
+        {
+          "starts_at": "2024-02-12T21:00:00+00:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-22399/"
+        },
+        {
+          "starts_at": "2024-02-12T13:00:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-87831/"
+        },
+        {
+          "starts_at": "2024-02-12T15:30:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-87835/"
+        },
+        {
+          "starts_at": "2024-02-12T18:30:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-87843/"
+        },
+        {
+          "starts_at": "2024-02-12T21:10:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-87839/"
+        }
+      ]
+    },
+    {
       "title": "From Venice To London: Enea",
       "trailer": null,
       "synopsis": "Enea, selected in competition at the 80th anniversary of the Venice Film Festival, has been defined by the festival's director Alberto Barbera as “a kind of The Great Ugliness\". It's the story of a young privileged man who pursues the myth that their name bears. He does it in the company of Valentino, a newly christened aviator. Together with the drug dealing and the parties, the two boys share their youth.",
@@ -2736,6 +5026,148 @@
           "starts_at": "2024-02-12T18:00:00+00:00",
           "site": "Curzon Soho",
           "url": "https://www.curzon.com/ticketing/seats/SOH1-43132/"
+        }
+      ]
+    },
+    {
+      "title": "Anyone But You",
+      "trailer": "https://www.youtube.com/watch?v=gbjdSlTHFts",
+      "synopsis": "In the comedy Anyone But You, Bea (Sydney Sweeney) and Ben (Glen Powell) look like the perfect couple, but after an amazing first date something happens that turns their fiery hot attraction ice cold - until they find themselves unexpectedly thrust together at a destination wedding in Australia. So they do what any two mature adults would do: pretend to be a couple.",
+      "runtime": 103,
+      "times": [
+        {
+          "starts_at": "2024-02-12T13:15:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-70613/"
+        }
+      ]
+    },
+    {
+      "title": "Society of the Snow",
+      "trailer": null,
+      "synopsis": "The flight of a rugby team crashes on a glacier in the Andes, few passengers who survived the crash, find themselves in one of the world's toughest environments to survive.",
+      "runtime": 143,
+      "times": [
+        {
+          "starts_at": "2024-02-12T12:20:00+00:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-22411/"
+        },
+        {
+          "starts_at": "2024-02-12T19:40:00+00:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-22417/"
+        }
+      ]
+    },
+    {
+      "title": "The Settlers",
+      "trailer": null,
+      "synopsis": "Debut writer-director Felipe Gálvez asserts himself as a revelatory new cinematic voice with THE SETTLERS, a searing and indelible take on the Western. Blending historical specificity with vivid visual style, this Cannes Un Certain Regard FIPRESCI Prize winner creates a singular immersive vision, arresting in both content and form.\n\nAt the turn of the 20th century, three horsemen embark on an expedition across the Tierra del Fuego archipelago at the behest of a wealthy landowner, tasked with securing his vast state-appointed property. Accompanying a reckless British lieutenant and an American mercenary is mestizo marksman Segundo, who comes to realize, amidst rising tensions within the group, their true mission is to murderously “remove” the indigenous population.\n\nSet against stunning mountain landscapes, Chile’s Best International Feature Film entry to the 96th Academy Awards® is a visceral reckoning with national myth and the attendant violence. Painterly yet piercing, this acclaimed frontier epic turns a bold eye to the past, daring to reimagine its depiction in the present and for the future. ",
+      "runtime": 101,
+      "times": [
+        {
+          "starts_at": "2024-02-12T15:20:00+00:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-22400/"
+        },
+        {
+          "starts_at": "2024-02-12T18:40:00+00:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-22401/"
+        },
+        {
+          "starts_at": "2024-02-12T14:45:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-87832/"
+        },
+        {
+          "starts_at": "2024-02-12T20:30:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-87844/"
+        }
+      ]
+    },
+    {
+      "title": "WHAM!",
+      "trailer": null,
+      "synopsis": "In 1982, the best of friends and still teenagers - George Michael and Andrew Ridgeley as WHAM! set out to conquer the world. By June of 1986 they played their very last gig at Wembley Stadium having done exactly that.\n\nNow for the very first time, told in their own words, the amazing story of how in four years they dominated the charts around the world with timeless and classic pop songs. Hit after hit - Club Tropicana, Wake Me Up Before You Go Go, Freedom, I’m Your Man and of course Last Christmas.\n\nTheir time in the spotlight was white-hot, becoming the very first western pop act to play in China.\n\nIt was a time that both encapsulated and epitomised not just their youth, but also those of the many millions of fans that adored them.\n\nWith unprecedented access to both George and Andrew’s personal archive including remarkable and never-before-seen footage, alongside rare, candid and previously unheard interviews, WHAM! charts their incredible journey from school friends to superstars.",
+      "runtime": 92,
+      "times": [
+        {
+          "starts_at": "2024-02-12T17:00:00+00:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-22412/"
+        }
+      ]
+    },
+    {
+      "title": "Your Fat Friend",
+      "trailer": null,
+      "synopsis": "Your Fat Friend charts Aubrey Gordon's journey from anonymous blogger Yrfatfriend to NY Times bestselling author and podcast host (@maintenancephase ) and the complexities of making change. It’s a film about fatness, family and the deep, messy feelings all of us hold about our bodies.",
+      "runtime": 94,
+      "times": [
+        {
+          "starts_at": "2024-02-12T17:40:00+00:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-22441/"
+        }
+      ]
+    },
+    {
+      "title": "Samsara",
+      "trailer": "https://www.youtube.com/watch?v=it-YSrv6ttA",
+      "synopsis": "Samsara is the Buddhist cycle of death and reincarnation. From the temples of Laos, alongside with teenage monks, we will accompany a soul in its transit from one body to another through the bardo. The words of the \"Tibetan Book of the Dead\" will be our guide to avoid getting lost in the afterlife. A luminous and sonorous journey that will lead us to reincarnate on the beaches of Zanzibar, where groups of women work in seaweed farms.\r\n\r\nCONTENT WARNING: This film contains flickering or flashing lights that may affect those with photosensitive epilepsy.\r\n",
+      "runtime": 114,
+      "times": [
+        {
+          "starts_at": "2024-02-12T12:00:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-87848/"
+        },
+        {
+          "starts_at": "2024-02-12T17:50:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-87840/"
+        }
+      ]
+    },
+    {
+      "title": "DocHouse: Motherland",
+      "trailer": null,
+      "synopsis": "Winner of the top prize at CPH:DOX 2023, this monumental film from Belarus paints a dark and disturbing picture of the country's brutal military culture. A 'tradition' of violent bullying of new conscripts creates generational trauma deeply embedded in the country's present day culture.\r\n\r\nEncompassing the personal and the political, filmmakers Alexander Mihalkovich and Hanna Badziaka capture a snapshot of a troubled, modern-day Belarus through the real-life experiences of mothers and new conscripts, overlaid with the raw voices of those who have gone before them, taken from their private letters home.",
+      "runtime": 92,
+      "times": [
+        {
+          "starts_at": "2024-02-12T15:00:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-87914/"
+        }
+      ]
+    },
+    {
+      "title": "DocHouse: Werner Herzog: Radical Dreamer",
+      "trailer": null,
+      "synopsis": "Filmmaker, auteur, poet, actor, doomsayer, truth seeker - Werner Herzog has become a legend in his own right, and at 81 still continues to add to his considerable oeuvre.\r\n\r\n\r\nRadical Dreamer profiles the man who had a 320-ton steamboat hauled over a hill in Peru, who hypnotises his actors, climbs down into volcanoes, talks to murderers on death row, cooks and eats his own shoe and who once - in an almost magical act - walked from Munich to Paris to prevent the death of a film critic he greatly admired. It is stories like these that have made this most remarkable director a cult figure the world over.\r\n\r\nThis comprehensive portrait by director Thomas von Steinaecke explores Herzog's work, process and everyday life, bringing together rare archive materials and in-depth interviews with the man himself, as well as celebrated collaborators - including Joshua Oppenheimer, Patti Smith, Christian Bale, Nicole Kidman and his wife, Lena Herzog.",
+      "runtime": 90,
+      "times": [
+        {
+          "starts_at": "2024-02-12T18:20:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-87915/"
+        }
+      ]
+    },
+    {
+      "title": "DocHouse: Total Trust",
+      "trailer": null,
+      "synopsis": "The full extent of the surveillance state in China is revealed with breathtaking immediacy in this gripping film, which follows the stories of Chinese citizens who have been monitored, intimidated and manipulated by the State.\r\n\r\nTotal Trust is an unflinching look a system of unbridled state power combined with the advancing capacities of Big Data and AI technology. The most heavily monitored country in the world experiences huge infringements of privacy, (self-)censorship and control, whilst systems such as 'social credit scoring' are being tested and deployed.\r\n\r\nChinese filmmaker Jialing Zhang - now living outside the country since co-directing 2019's One Child Nation - directed this eye-opening exposé remotely, with the support of filmmakers within China, who remain anonymous for their own safety.\r\n\r\nTaking China as a mirror, the film sounds an alarm about the increasing use of surveillance tools around the world - even in democratically run countries. If this is the present, what does our future look like?",
+      "runtime": 97,
+      "times": [
+        {
+          "starts_at": "2024-02-12T20:15:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-87916/"
         }
       ]
     }
