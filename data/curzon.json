@@ -1,62 +1,6 @@
 {
   "2024-02-11": [
     {
-      "title": "Poor Things",
-      "trailer": "https://www.youtube.com/watch?v=-EfYJWRw2FM",
-      "synopsis": "From filmmaker Yorgos Lanthimos and producer Emma Stone comes the incredible tale and fantastical evolution of Bella Baxter (Stone), a young woman brought back to life by the brilliant and unorthodox scientist Dr. Godwin Baxter (Dafoe).",
-      "runtime": 142,
-      "times": [
-        {
-          "starts_at": "2024-02-11T19:20:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-47169/"
-        },
-        {
-          "starts_at": "2024-02-11T19:50:00+00:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-43432/"
-        },
-        {
-          "starts_at": "2024-02-11T19:40:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-70605/"
-        }
-      ]
-    },
-    {
-      "title": "The Iron Claw",
-      "trailer": "https://www.youtube.com/watch?v=MHO0Vqb8F4c",
-      "synopsis": "THE IRON CLAW depicts the true story of the inseparable Von Erich brothers, who made history in the intensely competitive world of professional wrestling in the early 1980s. Through tragedy and triumph, under the shadow of their domineering father and coach, the brothers seek larger-than-life immortality on the biggest stage in sports.",
-      "runtime": 132,
-      "times": [
-        {
-          "starts_at": "2024-02-11T20:00:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-47172/"
-        },
-        {
-          "starts_at": "2024-02-11T20:20:00+00:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-43437/"
-        },
-        {
-          "starts_at": "2024-02-11T20:20:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-70607/"
-        },
-        {
-          "starts_at": "2024-02-11T20:00:00+00:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-14850/"
-        },
-        {
-          "starts_at": "2024-02-11T19:40:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-22351/"
-        }
-      ]
-    },
-    {
       "title": "American Fiction",
       "trailer": "https://www.youtube.com/watch?v=e8YghfAsgpU",
       "synopsis": "AMERICAN FICTION is Cord Jefferson's hilarious directorial debut, which confronts our culture’s obsession with reducing people to outrageous stereotypes. Jeffrey Wright stars as Monk, a frustrated novelist who’s fed up with the establishment profiting from “Black” entertainment that relies on tired and offensive tropes. To prove his point, Monk uses a pen name to write an outlandish “Black” book of his own, a book that propels him to the heart of hypocrisy and the madness he claims to disdain.",
@@ -71,16 +15,6 @@
           "starts_at": "2024-02-11T20:40:00+00:00",
           "site": "Curzon Victoria",
           "url": "https://www.curzon.com/ticketing/seats/VIC1-70608/"
-        },
-        {
-          "starts_at": "2024-02-11T20:20:00+00:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-14854/"
-        },
-        {
-          "starts_at": "2024-02-11T20:20:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-87820/"
         }
       ]
     },
@@ -126,34 +60,6 @@
       ]
     },
     {
-      "title": "The Holdovers",
-      "trailer": "https://www.youtube.com/watch?v=E24snz6SwMQ",
-      "synopsis": "From acclaimed director Alexander Payne, The Holdovers follows a curmudgeonly teacher (Paul Giamatti) at a New England prep school who is forced to remain on campus during the holidays to babysit the handful of students with nowhere to go. Eventually he forms an unlikely bond with one of them -- a damaged, brainy troublemaker (newcomer Dominic Sessa) -- and with the school’s head cook, who lost a son in Vietnam (Da’Vine Joy Randolph). With outstanding critical acclaim, The Holdovers is now the winner of 2 Golden Globes for Best Actor (Comedy) for Paul Giamatti and Best Supporting Actress for Da’Vine Joy Randolph.",
-      "runtime": 133,
-      "times": [
-        {
-          "starts_at": "2024-02-11T20:00:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-70606/"
-        },
-        {
-          "starts_at": "2024-02-11T20:15:00+00:00",
-          "site": "Curzon Mayfair",
-          "url": "https://www.curzon.com/ticketing/seats/MAY1-26038/"
-        },
-        {
-          "starts_at": "2024-02-11T20:00:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-22352/"
-        },
-        {
-          "starts_at": "2024-02-11T20:00:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-87822/"
-        }
-      ]
-    },
-    {
       "title": "All Of Us Strangers",
       "trailer": "https://www.youtube.com/watch?v=naDbwsI-T8A",
       "synopsis": "One night in his near-empty tower block in contemporary London, Adam (Andrew Scott) has a chance encounter with a mysterious neighbor Harry (Paul Mescal), which punctures the rhythm of his everyday life. As a relationship develops between them, Adam is preoccupied with memories of the past and finds himself drawn back to the suburban town where he grew up, and the childhood home where his parents (Claire Foy and Jamie Bell), appear to be living, just as they were on the day they died, 30 years before.",
@@ -163,60 +69,6 @@
           "starts_at": "2024-02-11T20:40:00+00:00",
           "site": "Curzon Hoxton",
           "url": "https://www.curzon.com/ticketing/seats/HOX1-14846/"
-        },
-        {
-          "starts_at": "2024-02-11T20:20:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-22356/"
-        },
-        {
-          "starts_at": "2024-02-11T20:10:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-87821/"
-        }
-      ]
-    },
-    {
-      "title": "Society of the Snow",
-      "trailer": null,
-      "synopsis": "The flight of a rugby team crashes on a glacier in the Andes, few passengers who survived the crash, find themselves in one of the world's toughest environments to survive.",
-      "runtime": 143,
-      "times": [
-        {
-          "starts_at": "2024-02-11T19:20:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-22349/"
-        }
-      ]
-    },
-    {
-      "title": "The Settlers",
-      "trailer": null,
-      "synopsis": "Debut writer-director Felipe Gálvez asserts himself as a revelatory new cinematic voice with THE SETTLERS, a searing and indelible take on the Western. Blending historical specificity with vivid visual style, this Cannes Un Certain Regard FIPRESCI Prize winner creates a singular immersive vision, arresting in both content and form.\n\nAt the turn of the 20th century, three horsemen embark on an expedition across the Tierra del Fuego archipelago at the behest of a wealthy landowner, tasked with securing his vast state-appointed property. Accompanying a reckless British lieutenant and an American mercenary is mestizo marksman Segundo, who comes to realize, amidst rising tensions within the group, their true mission is to murderously “remove” the indigenous population.\n\nSet against stunning mountain landscapes, Chile’s Best International Feature Film entry to the 96th Academy Awards® is a visceral reckoning with national myth and the attendant violence. Painterly yet piercing, this acclaimed frontier epic turns a bold eye to the past, daring to reimagine its depiction in the present and for the future. ",
-      "runtime": 101,
-      "times": [
-        {
-          "starts_at": "2024-02-11T20:40:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-22346/"
-        },
-        {
-          "starts_at": "2024-02-11T19:45:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-87823/"
-        }
-      ]
-    },
-    {
-      "title": "DocHouse: Motherland",
-      "trailer": null,
-      "synopsis": "Winner of the top prize at CPH:DOX 2023, this monumental film from Belarus paints a dark and disturbing picture of the country's brutal military culture. A 'tradition' of violent bullying of new conscripts creates generational trauma deeply embedded in the country's present day culture.\r\n\r\nEncompassing the personal and the political, filmmakers Alexander Mihalkovich and Hanna Badziaka capture a snapshot of a troubled, modern-day Belarus through the real-life experiences of mothers and new conscripts, overlaid with the raw voices of those who have gone before them, taken from their private letters home.",
-      "runtime": 92,
-      "times": [
-        {
-          "starts_at": "2024-02-11T19:30:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-87248/"
         }
       ]
     }
