@@ -1,78 +1,4 @@
 {
-  "2024-02-11": [
-    {
-      "title": "American Fiction",
-      "trailer": "https://www.youtube.com/watch?v=e8YghfAsgpU",
-      "synopsis": "AMERICAN FICTION is Cord Jefferson's hilarious directorial debut, which confronts our culture’s obsession with reducing people to outrageous stereotypes. Jeffrey Wright stars as Monk, a frustrated novelist who’s fed up with the establishment profiting from “Black” entertainment that relies on tired and offensive tropes. To prove his point, Monk uses a pen name to write an outlandish “Black” book of his own, a book that propels him to the heart of hypocrisy and the madness he claims to disdain.",
-      "runtime": 117,
-      "times": [
-        {
-          "starts_at": "2024-02-11T20:40:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-47171/"
-        },
-        {
-          "starts_at": "2024-02-11T20:40:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-70608/"
-        }
-      ]
-    },
-    {
-      "title": "Rustin",
-      "trailer": null,
-      "synopsis": "The architect of 1963’s momentous March on Washington, Bayard Rustin was one of the greatest activists and organizers the world has ever known. He challenged authority, never apologized for who he was, what he believed, or who he desired. And he did not back down. He made history, and in turn, he was forgotten. Directed by DGA award and five-time Tony award winner George C. Wolfe and starring Emmy award winner Colman Domingo, Rustin shines a long overdue spotlight on the extraordinary man who, alongside giants like the Reverend Martin Luther King Jr., Adam Clayton Powell Jr., and Ella Baker, dared to imagine a different world, and inspired a movement in a march toward freedom. Produced by Academy award winner Bruce Cohen, Higher Ground's Tonia Davis and George C. Wolfe, the film features an all-star cast including Chris Rock, Glynn Turman, Jeffrey Wright and Audra McDonald.",
-      "runtime": 106,
-      "times": [
-        {
-          "starts_at": "2024-02-11T21:00:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-47178/"
-        }
-      ]
-    },
-    {
-      "title": "The Zone of Interest",
-      "trailer": null,
-      "synopsis": "The commandant of Auschwitz, Rudolf Höss, and his wife Hedwig, strive to build a dream life for their family in a house and garden next to the camp.",
-      "runtime": 105,
-      "times": [
-        {
-          "starts_at": "2024-02-11T20:40:00+00:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-43429/"
-        },
-        {
-          "starts_at": "2024-02-11T21:00:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-70428/"
-        },
-        {
-          "starts_at": "2024-02-11T21:00:00+00:00",
-          "site": "Curzon Mayfair",
-          "url": "https://www.curzon.com/ticketing/seats/MAY1-26040/"
-        },
-        {
-          "starts_at": "2024-02-11T20:30:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-87828/"
-        }
-      ]
-    },
-    {
-      "title": "All Of Us Strangers",
-      "trailer": "https://www.youtube.com/watch?v=naDbwsI-T8A",
-      "synopsis": "One night in his near-empty tower block in contemporary London, Adam (Andrew Scott) has a chance encounter with a mysterious neighbor Harry (Paul Mescal), which punctures the rhythm of his everyday life. As a relationship develops between them, Adam is preoccupied with memories of the past and finds himself drawn back to the suburban town where he grew up, and the childhood home where his parents (Claire Foy and Jamie Bell), appear to be living, just as they were on the day they died, 30 years before.",
-      "runtime": 105,
-      "times": [
-        {
-          "starts_at": "2024-02-11T20:40:00+00:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-14846/"
-        }
-      ]
-    }
-  ],
   "2024-02-12": [
     {
       "title": "Rustin",
@@ -3123,6 +3049,34 @@
           "starts_at": "2024-02-18T20:00:00+00:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-87762/"
+        }
+      ]
+    }
+  ],
+  "2024-02-19": [
+    {
+      "title": "The Soil and the Sea",
+      "trailer": null,
+      "synopsis": "In Lebanon there are more than 100 untouched mass graves dating back from the Civil War, and thousands of families awaiting a missing relative or at least a bone to bury \r\n\r\nThe Soil and the Sea unveils the violence lying beneath a garden, a school, a cafe, a hotel, and other unremarkable landscapes. As the camera interrogates these everyday spaces, voices fill them with erased stories. \r\n",
+      "runtime": 74,
+      "times": [
+        {
+          "starts_at": "2024-02-19T18:20:00+00:00",
+          "site": "Curzon Soho",
+          "url": "https://www.curzon.com/ticketing/seats/SOH1-43061/"
+        }
+      ]
+    },
+    {
+      "title": "National Theatre Live: Dear England",
+      "trailer": "https://www.youtube.com/watch?v=UkDiUifHoAc",
+      "synopsis": "Joseph Fiennes (The Handmaid’s Tale) plays Gareth Southgate in James Graham’s (Sherwood) gripping examination of nation and game. The country that gave the world football has since delivered a painful pattern of loss. Why can’t England’s men win at their own game?\nWith the worst track record for penalties in the world, Gareth Southgate knows he needs to open his mind and face up to the years of hurt, to take team and country back to the promised land.\nFilmed live on stage at the National Theatre, Rupert Goold (Judy) directs this spectacular new play.",
+      "runtime": 182,
+      "times": [
+        {
+          "starts_at": "2024-02-19T18:00:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-70687/"
         }
       ]
     }
