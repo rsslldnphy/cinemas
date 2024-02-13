@@ -7,19 +7,9 @@
       "runtime": 117,
       "times": [
         {
-          "starts_at": "2024-02-13T18:40:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-47039/"
-        },
-        {
           "starts_at": "2024-02-13T20:40:00+00:00",
           "site": "Curzon Aldgate",
           "url": "https://www.curzon.com/ticketing/seats/ALD1-47026/"
-        },
-        {
-          "starts_at": "2024-02-13T20:00:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-70646/"
         },
         {
           "starts_at": "2024-02-13T21:00:00+00:00",
@@ -35,39 +25,6 @@
           "starts_at": "2024-02-13T20:50:00+00:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-87880/"
-        }
-      ]
-    },
-    {
-      "title": "The Iron Claw",
-      "trailer": "https://www.youtube.com/watch?v=MHO0Vqb8F4c",
-      "synopsis": "THE IRON CLAW depicts the true story of the inseparable Von Erich brothers, who made history in the intensely competitive world of professional wrestling in the early 1980s. Through tragedy and triumph, under the shadow of their domineering father and coach, the brothers seek larger-than-life immortality on the biggest stage in sports.",
-      "runtime": 132,
-      "times": [
-        {
-          "starts_at": "2024-02-13T20:20:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-47032/"
-        },
-        {
-          "starts_at": "2024-02-13T20:40:00+00:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-43449/"
-        },
-        {
-          "starts_at": "2024-02-13T20:40:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-70641/"
-        },
-        {
-          "starts_at": "2024-02-13T20:40:00+00:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-14886/"
-        },
-        {
-          "starts_at": "2024-02-13T20:00:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-22371/"
         }
       ]
     },
@@ -108,15 +65,25 @@
       ]
     },
     {
-      "title": "Poor Things",
-      "trailer": "https://www.youtube.com/watch?v=-EfYJWRw2FM",
-      "synopsis": "From filmmaker Yorgos Lanthimos and producer Emma Stone comes the incredible tale and fantastical evolution of Bella Baxter (Stone), a young woman brought back to life by the brilliant and unorthodox scientist Dr. Godwin Baxter (Dafoe).",
-      "runtime": 142,
+      "title": "The Iron Claw",
+      "trailer": "https://www.youtube.com/watch?v=MHO0Vqb8F4c",
+      "synopsis": "THE IRON CLAW depicts the true story of the inseparable Von Erich brothers, who made history in the intensely competitive world of professional wrestling in the early 1980s. Through tragedy and triumph, under the shadow of their domineering father and coach, the brothers seek larger-than-life immortality on the biggest stage in sports.",
+      "runtime": 132,
       "times": [
         {
-          "starts_at": "2024-02-13T20:15:00+00:00",
+          "starts_at": "2024-02-13T20:40:00+00:00",
           "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-43442/"
+          "url": "https://www.curzon.com/ticketing/seats/SOH1-43449/"
+        },
+        {
+          "starts_at": "2024-02-13T20:40:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-70641/"
+        },
+        {
+          "starts_at": "2024-02-13T20:40:00+00:00",
+          "site": "Curzon Hoxton",
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-14886/"
         }
       ]
     },
@@ -132,47 +99,14 @@
           "url": "https://www.curzon.com/ticketing/seats/SOH1-43439/"
         },
         {
-          "starts_at": "2024-02-13T18:40:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-70638/"
-        },
-        {
           "starts_at": "2024-02-13T21:15:00+00:00",
           "site": "Curzon Victoria",
           "url": "https://www.curzon.com/ticketing/seats/VIC1-70430/"
         },
         {
-          "starts_at": "2024-02-13T18:40:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-22366/"
-        },
-        {
-          "starts_at": "2024-02-13T18:40:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-87884/"
-        },
-        {
           "starts_at": "2024-02-13T21:10:00+00:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-87888/"
-        }
-      ]
-    },
-    {
-      "title": "The Holdovers",
-      "trailer": "https://www.youtube.com/watch?v=E24snz6SwMQ",
-      "synopsis": "From acclaimed director Alexander Payne, The Holdovers follows a curmudgeonly teacher (Paul Giamatti) at a New England prep school who is forced to remain on campus during the holidays to babysit the handful of students with nowhere to go. Eventually he forms an unlikely bond with one of them -- a damaged, brainy troublemaker (newcomer Dominic Sessa) -- and with the school’s head cook, who lost a son in Vietnam (Da’Vine Joy Randolph). With outstanding critical acclaim, The Holdovers is now the winner of 2 Golden Globes for Best Actor (Comedy) for Paul Giamatti and Best Supporting Actress for Da’Vine Joy Randolph.",
-      "runtime": 133,
-      "times": [
-        {
-          "starts_at": "2024-02-13T20:20:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-70637/"
-        },
-        {
-          "starts_at": "2024-02-13T20:30:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-87882/"
         }
       ]
     },
@@ -193,32 +127,9 @@
           "url": "https://www.curzon.com/ticketing/seats/HOX1-14883/"
         },
         {
-          "starts_at": "2024-02-13T20:20:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-22376/"
-        },
-        {
-          "starts_at": "2024-02-13T18:30:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-87885/"
-        },
-        {
           "starts_at": "2024-02-13T20:40:00+00:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-87881/"
-        }
-      ]
-    },
-    {
-      "title": "Monica",
-      "trailer": "https://www.youtube.com/watch?v=rnodEfQJ0yA",
-      "synopsis": "Estranged from her family for many years, Monica is called home to help care for her ailing mother. How can she reconnect with the brother that let her go, and the mother who rejected her? \n\nDirector Andrea Pallaoro crafts a moving, delicate and deeply involving tale of healing, reconciliation and redemption, led by extraordinary performances from Trace Lysette (Transparent, Hustlers) and Patricia Clarkson (She Said, Sharp Objects, Lemony Snicket, Mean Girls). ",
-      "runtime": 113,
-      "times": [
-        {
-          "starts_at": "2024-02-13T18:40:00+00:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-14249/"
         }
       ]
     },
@@ -254,15 +165,15 @@
       ]
     },
     {
-      "title": "DocHouse: Motherland",
-      "trailer": null,
-      "synopsis": "Winner of the top prize at CPH:DOX 2023, this monumental film from Belarus paints a dark and disturbing picture of the country's brutal military culture. A 'tradition' of violent bullying of new conscripts creates generational trauma deeply embedded in the country's present day culture.\r\n\r\nEncompassing the personal and the political, filmmakers Alexander Mihalkovich and Hanna Badziaka capture a snapshot of a troubled, modern-day Belarus through the real-life experiences of mothers and new conscripts, overlaid with the raw voices of those who have gone before them, taken from their private letters home.",
-      "runtime": 92,
+      "title": "The Holdovers",
+      "trailer": "https://www.youtube.com/watch?v=E24snz6SwMQ",
+      "synopsis": "From acclaimed director Alexander Payne, The Holdovers follows a curmudgeonly teacher (Paul Giamatti) at a New England prep school who is forced to remain on campus during the holidays to babysit the handful of students with nowhere to go. Eventually he forms an unlikely bond with one of them -- a damaged, brainy troublemaker (newcomer Dominic Sessa) -- and with the school’s head cook, who lost a son in Vietnam (Da’Vine Joy Randolph). With outstanding critical acclaim, The Holdovers is now the winner of 2 Golden Globes for Best Actor (Comedy) for Paul Giamatti and Best Supporting Actress for Da’Vine Joy Randolph.",
+      "runtime": 133,
       "times": [
         {
-          "starts_at": "2024-02-13T20:20:00+00:00",
+          "starts_at": "2024-02-13T20:30:00+00:00",
           "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-87918/"
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-87882/"
         }
       ]
     }
@@ -3177,19 +3088,6 @@
           "starts_at": "2024-02-17T15:30:00+00:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-87761/"
-        }
-      ]
-    },
-    {
-      "title": "DocHouse: Hidden Letters",
-      "trailer": null,
-      "synopsis": "There are very few people today who know the secret language of Nushu. Written in poems or songs on paper-folded fans and handkerchiefs, the historical language was developed by Chinese women, who were forbidden to read or write for thousands of years. These hidden letters bonded generations of Chinese women in a clandestine support system of sisterhood, hope and survival.\r\n\r\nTwo millennials, young women called Hu Xin and Simu, are linked through their knowledge of Nushu. A world away from their foremothers who used it by necessity, Hu Xin and Simu are independent women who carry and protect the legacy of this private language of hope and resistance.\r\n\r\nYet, as Violet du Feng and Zhao Qing's gentle, pertinent, film reveals, the weight of patriarchal tradition and expectation still rest heavily on Hu Xin and Simu. Influenced by Nushu’s legacy of female solidarity, the two women struggle to find balance and forge their own paths in a culture steeped in female subservience to men.",
-      "runtime": 86,
-      "times": [
-        {
-          "starts_at": "2024-02-17T18:00:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-87250/"
         }
       ]
     },
