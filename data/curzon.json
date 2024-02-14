@@ -1,16 +1,29 @@
 {
   "2024-02-14": [
     {
+      "title": "The Iron Claw",
+      "trailer": "https://www.youtube.com/watch?v=MHO0Vqb8F4c",
+      "synopsis": "THE IRON CLAW depicts the true story of the inseparable Von Erich brothers, who made history in the intensely competitive world of professional wrestling in the early 1980s. Through tragedy and triumph, under the shadow of their domineering father and coach, the brothers seek larger-than-life immortality on the biggest stage in sports.",
+      "runtime": 132,
+      "times": [
+        {
+          "starts_at": "2024-02-14T20:40:00+00:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-46995/"
+        },
+        {
+          "starts_at": "2024-02-14T20:40:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-70662/"
+        }
+      ]
+    },
+    {
       "title": "American Fiction",
       "trailer": "https://www.youtube.com/watch?v=e8YghfAsgpU",
       "synopsis": "AMERICAN FICTION is Cord Jefferson's hilarious directorial debut, which confronts our culture’s obsession with reducing people to outrageous stereotypes. Jeffrey Wright stars as Monk, a frustrated novelist who’s fed up with the establishment profiting from “Black” entertainment that relies on tired and offensive tropes. To prove his point, Monk uses a pen name to write an outlandish “Black” book of his own, a book that propels him to the heart of hypocrisy and the madness he claims to disdain.",
       "runtime": 117,
       "times": [
-        {
-          "starts_at": "2024-02-14T18:40:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-47003/"
-        },
         {
           "starts_at": "2024-02-14T21:00:00+00:00",
           "site": "Curzon Aldgate",
@@ -32,60 +45,9 @@
           "url": "https://www.curzon.com/ticketing/seats/HOX1-14876/"
         },
         {
-          "starts_at": "2024-02-14T20:40:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-22418/"
-        },
-        {
           "starts_at": "2024-02-14T21:00:00+00:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-87860/"
-        }
-      ]
-    },
-    {
-      "title": "Poor Things",
-      "trailer": "https://www.youtube.com/watch?v=-EfYJWRw2FM",
-      "synopsis": "From filmmaker Yorgos Lanthimos and producer Emma Stone comes the incredible tale and fantastical evolution of Bella Baxter (Stone), a young woman brought back to life by the brilliant and unorthodox scientist Dr. Godwin Baxter (Dafoe).",
-      "runtime": 142,
-      "times": [
-        {
-          "starts_at": "2024-02-14T19:40:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-47000/"
-        },
-        {
-          "starts_at": "2024-02-14T20:30:00+00:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-43474/"
-        },
-        {
-          "starts_at": "2024-02-14T20:40:00+00:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-14875/"
-        }
-      ]
-    },
-    {
-      "title": "The Iron Claw",
-      "trailer": "https://www.youtube.com/watch?v=MHO0Vqb8F4c",
-      "synopsis": "THE IRON CLAW depicts the true story of the inseparable Von Erich brothers, who made history in the intensely competitive world of professional wrestling in the early 1980s. Through tragedy and triumph, under the shadow of their domineering father and coach, the brothers seek larger-than-life immortality on the biggest stage in sports.",
-      "runtime": 132,
-      "times": [
-        {
-          "starts_at": "2024-02-14T20:40:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-46995/"
-        },
-        {
-          "starts_at": "2024-02-14T20:40:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-70662/"
-        },
-        {
-          "starts_at": "2024-02-14T20:15:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-22434/"
         }
       ]
     },
@@ -101,24 +63,9 @@
           "url": "https://www.curzon.com/ticketing/seats/ALD1-47006/"
         },
         {
-          "starts_at": "2024-02-14T18:30:00+00:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-43481/"
-        },
-        {
-          "starts_at": "2024-02-14T20:00:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-70653/"
-        },
-        {
           "starts_at": "2024-02-14T20:30:00+00:00",
           "site": "Curzon Mayfair",
           "url": "https://www.curzon.com/ticketing/seats/MAY1-26066/"
-        },
-        {
-          "starts_at": "2024-02-14T18:40:00+00:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-14873/"
         },
         {
           "starts_at": "2024-02-14T21:00:00+00:00",
@@ -129,6 +76,19 @@
           "starts_at": "2024-02-14T20:50:00+00:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-87861/"
+        }
+      ]
+    },
+    {
+      "title": "Poor Things",
+      "trailer": "https://www.youtube.com/watch?v=-EfYJWRw2FM",
+      "synopsis": "From filmmaker Yorgos Lanthimos and producer Emma Stone comes the incredible tale and fantastical evolution of Bella Baxter (Stone), a young woman brought back to life by the brilliant and unorthodox scientist Dr. Godwin Baxter (Dafoe).",
+      "runtime": 142,
+      "times": [
+        {
+          "starts_at": "2024-02-14T20:30:00+00:00",
+          "site": "Curzon Soho",
+          "url": "https://www.curzon.com/ticketing/seats/SOH1-43474/"
         }
       ]
     },
@@ -151,11 +111,6 @@
       "synopsis": "The commandant of Auschwitz, Rudolf Höss, and his wife Hedwig, strive to build a dream life for their family in a house and garden next to the camp.",
       "runtime": 105,
       "times": [
-        {
-          "starts_at": "2024-02-14T18:40:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-70665/"
-        },
         {
           "starts_at": "2024-02-14T21:15:00+00:00",
           "site": "Curzon Victoria",
@@ -180,50 +135,6 @@
           "starts_at": "2024-02-14T21:10:00+00:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-87868/"
-        }
-      ]
-    },
-    {
-      "title": "The Holdovers",
-      "trailer": "https://www.youtube.com/watch?v=E24snz6SwMQ",
-      "synopsis": "From acclaimed director Alexander Payne, The Holdovers follows a curmudgeonly teacher (Paul Giamatti) at a New England prep school who is forced to remain on campus during the holidays to babysit the handful of students with nowhere to go. Eventually he forms an unlikely bond with one of them -- a damaged, brainy troublemaker (newcomer Dominic Sessa) -- and with the school’s head cook, who lost a son in Vietnam (Da’Vine Joy Randolph). With outstanding critical acclaim, The Holdovers is now the winner of 2 Golden Globes for Best Actor (Comedy) for Paul Giamatti and Best Supporting Actress for Da’Vine Joy Randolph.",
-      "runtime": 133,
-      "times": [
-        {
-          "starts_at": "2024-02-14T20:20:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-70663/"
-        },
-        {
-          "starts_at": "2024-02-14T20:40:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-87862/"
-        }
-      ]
-    },
-    {
-      "title": "Society of the Snow",
-      "trailer": null,
-      "synopsis": "The flight of a rugby team crashes on a glacier in the Andes, few passengers who survived the crash, find themselves in one of the world's toughest environments to survive.",
-      "runtime": 143,
-      "times": [
-        {
-          "starts_at": "2024-02-14T19:40:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-22437/"
-        }
-      ]
-    },
-    {
-      "title": "DocHouse: Total Trust",
-      "trailer": null,
-      "synopsis": "The full extent of the surveillance state in China is revealed with breathtaking immediacy in this gripping film, which follows the stories of Chinese citizens who have been monitored, intimidated and manipulated by the State.\r\n\r\nTotal Trust is an unflinching look a system of unbridled state power combined with the advancing capacities of Big Data and AI technology. The most heavily monitored country in the world experiences huge infringements of privacy, (self-)censorship and control, whilst systems such as 'social credit scoring' are being tested and deployed.\r\n\r\nChinese filmmaker Jialing Zhang - now living outside the country since co-directing 2019's One Child Nation - directed this eye-opening exposé remotely, with the support of filmmakers within China, who remain anonymous for their own safety.\r\n\r\nTaking China as a mirror, the film sounds an alarm about the increasing use of surveillance tools around the world - even in democratically run countries. If this is the present, what does our future look like?",
-      "runtime": 97,
-      "times": [
-        {
-          "starts_at": "2024-02-14T20:20:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-87922/"
         }
       ]
     },
