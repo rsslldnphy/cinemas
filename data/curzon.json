@@ -1,77 +1,6 @@
 {
   "2024-02-15": [
     {
-      "title": "American Fiction",
-      "trailer": "https://www.youtube.com/watch?v=e8YghfAsgpU",
-      "synopsis": "AMERICAN FICTION is Cord Jefferson's hilarious directorial debut, which confronts our culture’s obsession with reducing people to outrageous stereotypes. Jeffrey Wright stars as Monk, a frustrated novelist who’s fed up with the establishment profiting from “Black” entertainment that relies on tired and offensive tropes. To prove his point, Monk uses a pen name to write an outlandish “Black” book of his own, a book that propels him to the heart of hypocrisy and the madness he claims to disdain.",
-      "runtime": 117,
-      "times": [
-        {
-          "starts_at": "2024-02-15T18:40:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-47193/"
-        },
-        {
-          "starts_at": "2024-02-15T21:00:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-47190/"
-        },
-        {
-          "starts_at": "2024-02-15T20:50:00+00:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-43586/"
-        },
-        {
-          "starts_at": "2024-02-15T21:00:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-70680/"
-        },
-        {
-          "starts_at": "2024-02-15T21:00:00+00:00",
-          "site": "Curzon Mayfair",
-          "url": "https://www.curzon.com/ticketing/seats/MAY1-26069/"
-        },
-        {
-          "starts_at": "2024-02-15T18:40:00+00:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-14900/"
-        },
-        {
-          "starts_at": "2024-02-15T21:00:00+00:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-14895/"
-        },
-        {
-          "starts_at": "2024-02-15T20:40:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-22387/"
-        },
-        {
-          "starts_at": "2024-02-15T21:00:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-87900/"
-        }
-      ]
-    },
-    {
-      "title": "Poor Things",
-      "trailer": "https://www.youtube.com/watch?v=-EfYJWRw2FM",
-      "synopsis": "From filmmaker Yorgos Lanthimos and producer Emma Stone comes the incredible tale and fantastical evolution of Bella Baxter (Stone), a young woman brought back to life by the brilliant and unorthodox scientist Dr. Godwin Baxter (Dafoe).",
-      "runtime": 142,
-      "times": [
-        {
-          "starts_at": "2024-02-15T19:40:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-47192/"
-        },
-        {
-          "starts_at": "2024-02-15T20:00:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-70683/"
-        }
-      ]
-    },
-    {
       "title": "The Iron Claw",
       "trailer": "https://www.youtube.com/watch?v=MHO0Vqb8F4c",
       "synopsis": "THE IRON CLAW depicts the true story of the inseparable Von Erich brothers, who made history in the intensely competitive world of professional wrestling in the early 1980s. Through tragedy and triumph, under the shadow of their domineering father and coach, the brothers seek larger-than-life immortality on the biggest stage in sports.",
@@ -96,11 +25,49 @@
           "starts_at": "2024-02-15T20:40:00+00:00",
           "site": "Curzon Hoxton",
           "url": "https://www.curzon.com/ticketing/seats/HOX1-14894/"
+        }
+      ]
+    },
+    {
+      "title": "American Fiction",
+      "trailer": "https://www.youtube.com/watch?v=e8YghfAsgpU",
+      "synopsis": "AMERICAN FICTION is Cord Jefferson's hilarious directorial debut, which confronts our culture’s obsession with reducing people to outrageous stereotypes. Jeffrey Wright stars as Monk, a frustrated novelist who’s fed up with the establishment profiting from “Black” entertainment that relies on tired and offensive tropes. To prove his point, Monk uses a pen name to write an outlandish “Black” book of his own, a book that propels him to the heart of hypocrisy and the madness he claims to disdain.",
+      "runtime": 117,
+      "times": [
+        {
+          "starts_at": "2024-02-15T21:00:00+00:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-47190/"
         },
         {
-          "starts_at": "2024-02-15T20:20:00+00:00",
+          "starts_at": "2024-02-15T20:50:00+00:00",
+          "site": "Curzon Soho",
+          "url": "https://www.curzon.com/ticketing/seats/SOH1-43586/"
+        },
+        {
+          "starts_at": "2024-02-15T21:00:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-70680/"
+        },
+        {
+          "starts_at": "2024-02-15T21:00:00+00:00",
+          "site": "Curzon Mayfair",
+          "url": "https://www.curzon.com/ticketing/seats/MAY1-26069/"
+        },
+        {
+          "starts_at": "2024-02-15T21:00:00+00:00",
+          "site": "Curzon Hoxton",
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-14895/"
+        },
+        {
+          "starts_at": "2024-02-15T20:40:00+00:00",
           "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-22391/"
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-22387/"
+        },
+        {
+          "starts_at": "2024-02-15T21:00:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-87900/"
         }
       ]
     },
@@ -157,55 +124,14 @@
       "runtime": 105,
       "times": [
         {
-          "starts_at": "2024-02-15T18:40:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-70684/"
-        },
-        {
           "starts_at": "2024-02-15T21:15:00+00:00",
           "site": "Curzon Victoria",
           "url": "https://www.curzon.com/ticketing/seats/VIC1-70679/"
         },
         {
-          "starts_at": "2024-02-15T18:30:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-87904/"
-        },
-        {
           "starts_at": "2024-02-15T21:10:00+00:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-87908/"
-        }
-      ]
-    },
-    {
-      "title": "The Holdovers",
-      "trailer": "https://www.youtube.com/watch?v=E24snz6SwMQ",
-      "synopsis": "From acclaimed director Alexander Payne, The Holdovers follows a curmudgeonly teacher (Paul Giamatti) at a New England prep school who is forced to remain on campus during the holidays to babysit the handful of students with nowhere to go. Eventually he forms an unlikely bond with one of them -- a damaged, brainy troublemaker (newcomer Dominic Sessa) -- and with the school’s head cook, who lost a son in Vietnam (Da’Vine Joy Randolph). With outstanding critical acclaim, The Holdovers is now the winner of 2 Golden Globes for Best Actor (Comedy) for Paul Giamatti and Best Supporting Actress for Da’Vine Joy Randolph.",
-      "runtime": 133,
-      "times": [
-        {
-          "starts_at": "2024-02-15T20:20:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-70682/"
-        },
-        {
-          "starts_at": "2024-02-15T20:40:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-87902/"
-        }
-      ]
-    },
-    {
-      "title": "Society of the Snow",
-      "trailer": null,
-      "synopsis": "The flight of a rugby team crashes on a glacier in the Andes, few passengers who survived the crash, find themselves in one of the world's toughest environments to survive.",
-      "runtime": 143,
-      "times": [
-        {
-          "starts_at": "2024-02-15T20:00:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-22388/"
         }
       ]
     },
@@ -219,24 +145,19 @@
           "starts_at": "2024-02-15T21:20:00+00:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-22384/"
-        },
-        {
-          "starts_at": "2024-02-15T20:15:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-87903/"
         }
       ]
     },
     {
-      "title": "DocHouse: Your Fat Friend",
-      "trailer": null,
-      "synopsis": "Made over 6 years, acclaimed director Jeanie Finlay charts the rise of writer and activist Aubrey Gordon from anonymous blogger to NYTimes bestselling author and beloved podcaster.\r\n\r\nHer searingly honest writing describes what it’s like to be that fat person on the plane... and how the fantasies, peddled by a diet and wellness industry worth $26 billion a year are on a par with the lies that Big Tobacco told the public in the 1950s.\r\n\r\nHer aim? A paradigm shift in the way we see fat people and the fat on our own bodies. Her life changing work has brought her an ardent, international audience but also threats to her life.\r\n\r\nYour Fat Friend is a film about fatness, family, the complexities of change and the deep, messy feeling we hold about our bodies.",
-      "runtime": 96,
+      "title": "The Holdovers",
+      "trailer": "https://www.youtube.com/watch?v=E24snz6SwMQ",
+      "synopsis": "From acclaimed director Alexander Payne, The Holdovers follows a curmudgeonly teacher (Paul Giamatti) at a New England prep school who is forced to remain on campus during the holidays to babysit the handful of students with nowhere to go. Eventually he forms an unlikely bond with one of them -- a damaged, brainy troublemaker (newcomer Dominic Sessa) -- and with the school’s head cook, who lost a son in Vietnam (Da’Vine Joy Randolph). With outstanding critical acclaim, The Holdovers is now the winner of 2 Golden Globes for Best Actor (Comedy) for Paul Giamatti and Best Supporting Actress for Da’Vine Joy Randolph.",
+      "runtime": 133,
       "times": [
         {
-          "starts_at": "2024-02-15T20:25:00+00:00",
+          "starts_at": "2024-02-15T20:40:00+00:00",
           "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-87600/"
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-87902/"
         }
       ]
     }
