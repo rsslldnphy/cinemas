@@ -77,17 +77,17 @@
     "overview": "A young girl discovers an idealized parallel universe behind a secret door in her new home, unaware that it contains a sinister secret.",
     "release_date": "2009-02-05"
   },
+  "DocHouse: A Wolfpack Called Ernesto": {
+    "backdrop": "https://image.tmdb.org/t/p/w500//pXSEt6AGm1FfJRVKOAjBBWGL3CX.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500//chZiIguMX8fI23knuH7p6dleSGP.jpg",
+    "overview": "World-renowned Mexican filmmaker Everardo González brings us inside the chilling world of Ernesto, an amalgam of various teenage boys, who, in choosing a gun and a life of organized crime, becomes both victim and perpetrator.",
+    "release_date": "2024-02-23"
+  },
   "DocHouse: Getting It Back: The Story of Cymande": {
     "backdrop": "https://image.tmdb.org/t/p/w500//w7rqhvio03xhzlYCDcXLBCjb3EZ.jpg",
     "poster": "https://image.tmdb.org/t/p/w500//izSu5860VnO6AwBXKFjEMtIUrvx.jpg",
     "overview": "In the racially turbulent UK of the early 70s, a group of black musicians came together in South London with a common love of rhythms and a message of peace. Cymande – with the dove as their symbol – combined jazz, funk, soul and Caribbean grooves to form a unique sound. Despite success in the USA they faced indifference in their native Britain, becoming disillusioned and disbanding. But the music lived on, as new generations of artists imbibed and reworked their pioneering sounds in fresh ways. From Soul II Soul to De La Soul, MC Solaar to The Fugees, the Dove had spread Cymande's message far and wide, prompting their return after forty years. This is their story.",
     "release_date": "2024-02-16"
-  },
-  "DocHouse: Hidden Letters": {
-    "backdrop": "https://image.tmdb.org/t/p/w500//8yGsiFXf30d7C8ZWt359kNSUDiC.jpg",
-    "poster": "https://image.tmdb.org/t/p/w500//v8MBPXNXn7WUVPcGrHozsDKbsnN.jpg",
-    "overview": "In modern day China, two women strive to preserve Nushu, an ancient secret language which bonded generations of Chinese women together through centuries of oppression in a clandestine support system of sisterhood and survival.",
-    "release_date": "2022-06-11"
   },
   "DocHouse: Motherland": {
     "backdrop": null,
@@ -106,6 +106,12 @@
     "poster": "https://image.tmdb.org/t/p/w500//qvSSRmbhwpviAf0iVherJiCL8gK.jpg",
     "overview": "Do Ho Suh's panoramic film is both site-specific and time-specific—a document of Alison and Peter Smithson's modular interiors as they were adapted, decorated, and furnished by residents, as well as a wider meditation about home, memory, and displacement within a physical structure that is about to disappear. [Overview Courtesy of Lehmann Maupin Gallery NYC]",
     "release_date": "2018-05-26"
+  },
+  "DocHouse: We Will Not Fade Away": {
+    "backdrop": "https://image.tmdb.org/t/p/w500//vyECVVJulN3XyjHFW2UZnYoEWvO.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500//8kkKnU0Dhb1sPnxggjDfiuw8KoV.jpg",
+    "overview": "For five teenagers living in the conflict-ridden Donbas region of Ukraine, a Himalayan expedition provides a brief escape from reality. A portrait of a generation that, in spite of everything, is able to recognise and celebrate the fragile beauty of life.  The film's working title was \"Expedition 49\".",
+    "release_date": "2023-02-22"
   },
   "DocHouse: Your Fat Friend": {
     "backdrop": null,
@@ -221,12 +227,6 @@
     "overview": "Brought back to life by an unorthodox scientist, a young woman runs off with a debauched lawyer on a whirlwind adventure across the continents. Free from the prejudices of her times, she grows steadfast in her purpose to stand for equality and liberation.",
     "release_date": "2023-12-07"
   },
-  "Rustin": {
-    "backdrop": "https://image.tmdb.org/t/p/w500//dFmp1KIGdSVDhIhy0yQNmCDTjav.jpg",
-    "poster": "https://image.tmdb.org/t/p/w500//lCawCmTJhKT7c2ZOzLBTXDIR8JS.jpg",
-    "overview": "Activist Bayard Rustin faces racism and homophobia as he helps change the course of Civil Rights history by orchestrating the 1963 March on Washington.",
-    "release_date": "2023-11-03"
-  },
   "SEVEN": {
     "backdrop": "https://image.tmdb.org/t/p/w500//colmzMI1D9h610XN98VGoKNcifi.jpg",
     "poster": "https://image.tmdb.org/t/p/w500//h7904tdTu4O6EVX4UyesxtqF0xR.jpg",
@@ -290,7 +290,7 @@
   "THE LOST BOYS": {
     "backdrop": "https://image.tmdb.org/t/p/w500//m4vNXgy0EfvOSSXMWJC6FfMSyIR.jpg",
     "poster": "https://image.tmdb.org/t/p/w500//nH1lvyQvfbL5GKScTtT6zkIvDEn.jpg",
-    "overview": "A mother and her two teenage sons move to a seemingly nice and quiet small coastal California town yet soon find out that it's overrun by bike gangs and vampires. A couple of teenage friends take it upon themselves to hunt down the vampires that they suspect of a few mysterious murders and restore peace and calm to their town.",
+    "overview": "When an unsuspecting town newcomer is drawn to local blood fiends, the Frog brothers and other unlikely heroes gear up to rescue him.",
     "release_date": "1987-07-31"
   },
   "THE THING": {
