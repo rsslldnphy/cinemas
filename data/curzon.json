@@ -1,16 +1,98 @@
 {
   "2024-02-20": [
     {
+      "title": "Poor Things",
+      "trailer": "https://www.youtube.com/watch?v=-EfYJWRw2FM",
+      "synopsis": "From filmmaker Yorgos Lanthimos and producer Emma Stone comes the incredible tale and fantastical evolution of Bella Baxter (Stone), a young woman brought back to life by the brilliant and unorthodox scientist Dr. Godwin Baxter (Dafoe).",
+      "runtime": 142,
+      "times": [
+        {
+          "starts_at": "2024-02-20T20:40:00+00:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-47359/"
+        },
+        {
+          "starts_at": "2024-02-20T20:40:00+00:00",
+          "site": "Curzon Soho",
+          "url": "https://www.curzon.com/ticketing/seats/SOH1-43528/"
+        }
+      ]
+    },
+    {
+      "title": "All Of Us Strangers",
+      "trailer": "https://www.youtube.com/watch?v=naDbwsI-T8A",
+      "synopsis": "One night in his near-empty tower block in contemporary London, Adam (Andrew Scott) has a chance encounter with a mysterious neighbor Harry (Paul Mescal), which punctures the rhythm of his everyday life. As a relationship develops between them, Adam is preoccupied with memories of the past and finds himself drawn back to the suburban town where he grew up, and the childhood home where his parents (Claire Foy and Jamie Bell), appear to be living, just as they were on the day they died, 30 years before.",
+      "runtime": 105,
+      "times": [
+        {
+          "starts_at": "2024-02-20T21:00:00+00:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-47370/"
+        },
+        {
+          "starts_at": "2024-02-20T21:15:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-70829/"
+        }
+      ]
+    },
+    {
+      "title": "Bob Marley: One Love",
+      "trailer": "https://www.youtube.com/watch?v=g4BRwGpG9UA",
+      "synopsis": "BOB MARLEY: ONE LOVE celebrates the life and music of an icon who inspired generations through his message of love and unity. On the big screen for the first time, discover Bob’s powerful story of overcoming adversity and the journey behind his revolutionary music. Produced in partnership with the Marley family and starring Kingsley Ben-Adir as the legendary musician and Lashana Lynch as his wife Rita.",
+      "runtime": 104,
+      "times": [
+        {
+          "starts_at": "2024-02-20T21:20:00+00:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-47369/"
+        },
+        {
+          "starts_at": "2024-02-20T21:30:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-70810/"
+        },
+        {
+          "starts_at": "2024-02-20T21:00:00+00:00",
+          "site": "Curzon Hoxton",
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-15108/"
+        },
+        {
+          "starts_at": "2024-02-20T21:20:00+00:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-22595/"
+        }
+      ]
+    },
+    {
+      "title": "The Zone of Interest",
+      "trailer": null,
+      "synopsis": "The commandant of Auschwitz, Rudolf Höss, and his wife Hedwig, strive to build a dream life for their family in a house and garden next to the camp.",
+      "runtime": 105,
+      "times": [
+        {
+          "starts_at": "2024-02-20T21:15:00+00:00",
+          "site": "Curzon Soho",
+          "url": "https://www.curzon.com/ticketing/seats/SOH1-43569/"
+        },
+        {
+          "starts_at": "2024-02-20T20:40:00+00:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-22604/"
+        },
+        {
+          "starts_at": "2024-02-20T21:15:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-88048/"
+        }
+      ]
+    },
+    {
       "title": "American Fiction",
       "trailer": "https://www.youtube.com/watch?v=e8YghfAsgpU",
       "synopsis": "AMERICAN FICTION is Cord Jefferson's hilarious directorial debut, which confronts our culture’s obsession with reducing people to outrageous stereotypes. Jeffrey Wright stars as Monk, a frustrated novelist who’s fed up with the establishment profiting from “Black” entertainment that relies on tired and offensive tropes. To prove his point, Monk uses a pen name to write an outlandish “Black” book of his own, a book that propels him to the heart of hypocrisy and the madness he claims to disdain.",
       "runtime": 117,
       "times": [
-        {
-          "starts_at": "2024-02-20T18:40:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-47361/"
-        },
         {
           "starts_at": "2024-02-20T20:45:00+00:00",
           "site": "Curzon Victoria",
@@ -34,159 +116,6 @@
       ]
     },
     {
-      "title": "The Zone of Interest",
-      "trailer": null,
-      "synopsis": "The commandant of Auschwitz, Rudolf Höss, and his wife Hedwig, strive to build a dream life for their family in a house and garden next to the camp.",
-      "runtime": 105,
-      "times": [
-        {
-          "starts_at": "2024-02-20T20:20:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-47401/"
-        },
-        {
-          "starts_at": "2024-02-20T21:15:00+00:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-43569/"
-        },
-        {
-          "starts_at": "2024-02-20T18:40:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-70826/"
-        },
-        {
-          "starts_at": "2024-02-20T18:30:00+00:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-15111/"
-        },
-        {
-          "starts_at": "2024-02-20T20:40:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-22604/"
-        },
-        {
-          "starts_at": "2024-02-20T21:15:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-88048/"
-        }
-      ]
-    },
-    {
-      "title": "Poor Things",
-      "trailer": "https://www.youtube.com/watch?v=-EfYJWRw2FM",
-      "synopsis": "From filmmaker Yorgos Lanthimos and producer Emma Stone comes the incredible tale and fantastical evolution of Bella Baxter (Stone), a young woman brought back to life by the brilliant and unorthodox scientist Dr. Godwin Baxter (Dafoe).",
-      "runtime": 142,
-      "times": [
-        {
-          "starts_at": "2024-02-20T20:40:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-47359/"
-        },
-        {
-          "starts_at": "2024-02-20T20:40:00+00:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-43528/"
-        },
-        {
-          "starts_at": "2024-02-20T20:20:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-22601/"
-        }
-      ]
-    },
-    {
-      "title": "All Of Us Strangers",
-      "trailer": "https://www.youtube.com/watch?v=naDbwsI-T8A",
-      "synopsis": "One night in his near-empty tower block in contemporary London, Adam (Andrew Scott) has a chance encounter with a mysterious neighbor Harry (Paul Mescal), which punctures the rhythm of his everyday life. As a relationship develops between them, Adam is preoccupied with memories of the past and finds himself drawn back to the suburban town where he grew up, and the childhood home where his parents (Claire Foy and Jamie Bell), appear to be living, just as they were on the day they died, 30 years before.",
-      "runtime": 105,
-      "times": [
-        {
-          "starts_at": "2024-02-20T21:00:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-47370/"
-        },
-        {
-          "starts_at": "2024-02-20T21:15:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-70829/"
-        },
-        {
-          "starts_at": "2024-02-20T18:30:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-88059/"
-        }
-      ]
-    },
-    {
-      "title": "Bob Marley: One Love",
-      "trailer": "https://www.youtube.com/watch?v=g4BRwGpG9UA",
-      "synopsis": "BOB MARLEY: ONE LOVE celebrates the life and music of an icon who inspired generations through his message of love and unity. On the big screen for the first time, discover Bob’s powerful story of overcoming adversity and the journey behind his revolutionary music. Produced in partnership with the Marley family and starring Kingsley Ben-Adir as the legendary musician and Lashana Lynch as his wife Rita.",
-      "runtime": 104,
-      "times": [
-        {
-          "starts_at": "2024-02-20T21:20:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-47369/"
-        },
-        {
-          "starts_at": "2024-02-20T19:00:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-70811/"
-        },
-        {
-          "starts_at": "2024-02-20T21:30:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-70810/"
-        },
-        {
-          "starts_at": "2024-02-20T21:00:00+00:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-15108/"
-        },
-        {
-          "starts_at": "2024-02-20T21:20:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-22595/"
-        }
-      ]
-    },
-    {
-      "title": "The Iron Claw",
-      "trailer": "https://www.youtube.com/watch?v=MHO0Vqb8F4c",
-      "synopsis": "THE IRON CLAW depicts the true story of the inseparable Von Erich brothers, who made history in the intensely competitive world of professional wrestling in the early 1980s. Through tragedy and triumph, under the shadow of their domineering father and coach, the brothers seek larger-than-life immortality on the biggest stage in sports.",
-      "runtime": 132,
-      "times": [
-        {
-          "starts_at": "2024-02-20T20:20:00+00:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-43583/"
-        }
-      ]
-    },
-    {
-      "title": "The Taste of Things",
-      "trailer": "https://www.youtube.com/watch?v=LeI-4eWvqwU",
-      "synopsis": "Peerless cook Eugenie (Juliette Binoche) has worked for the famous gourmet Dodin (Benoît Magimel) for the last 20 years. Bonding over a passion for gastronomy and mutual\nadmiration, their relationship develops into romance and gives rise to delicious dishes that impress even the world's most illustrious chefs. But Eugenie is fond of her freedom and has never wanted to marry Dodin. So, he decides to do something he has never done before: cook for her.\nA delectable feast for the senses, THE TASTE OF THINGS is a stunningly beautiful romance that simmers with emotion. The new film from acclaimed director Trần Anh Hùng, it\nwill be an unmissable cinematic treat.",
-      "runtime": 135,
-      "times": [
-        {
-          "starts_at": "2024-02-20T20:20:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-70820/"
-        },
-        {
-          "starts_at": "2024-02-20T20:40:00+00:00",
-          "site": "Curzon Mayfair",
-          "url": "https://www.curzon.com/ticketing/seats/MAY1-26116/"
-        },
-        {
-          "starts_at": "2024-02-20T20:20:00+00:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-15110/"
-        }
-      ]
-    },
-    {
       "title": "The Holdovers",
       "trailer": "https://www.youtube.com/watch?v=E24snz6SwMQ",
       "synopsis": "From acclaimed director Alexander Payne, The Holdovers follows a curmudgeonly teacher (Paul Giamatti) at a New England prep school who is forced to remain on campus during the holidays to babysit the handful of students with nowhere to go. Eventually he forms an unlikely bond with one of them -- a damaged, brainy troublemaker (newcomer Dominic Sessa) -- and with the school’s head cook, who lost a son in Vietnam (Da’Vine Joy Randolph). With outstanding critical acclaim, The Holdovers is now the winner of 2 Golden Globes for Best Actor (Comedy) for Paul Giamatti and Best Supporting Actress for Da’Vine Joy Randolph.",
@@ -205,6 +134,19 @@
       ]
     },
     {
+      "title": "The Taste of Things",
+      "trailer": "https://www.youtube.com/watch?v=LeI-4eWvqwU",
+      "synopsis": "Peerless cook Eugenie (Juliette Binoche) has worked for the famous gourmet Dodin (Benoît Magimel) for the last 20 years. Bonding over a passion for gastronomy and mutual\nadmiration, their relationship develops into romance and gives rise to delicious dishes that impress even the world's most illustrious chefs. But Eugenie is fond of her freedom and has never wanted to marry Dodin. So, he decides to do something he has never done before: cook for her.\nA delectable feast for the senses, THE TASTE OF THINGS is a stunningly beautiful romance that simmers with emotion. The new film from acclaimed director Trần Anh Hùng, it\nwill be an unmissable cinematic treat.",
+      "runtime": 135,
+      "times": [
+        {
+          "starts_at": "2024-02-20T20:40:00+00:00",
+          "site": "Curzon Mayfair",
+          "url": "https://www.curzon.com/ticketing/seats/MAY1-26116/"
+        }
+      ]
+    },
+    {
       "title": "The Promised Land",
       "trailer": null,
       "synopsis": "In 1755, the impoverished Captain Ludvig Kahlen sets out to conquer the uninhabitable Danish heath in the name of the King. But the sole ruler of the area, the merciless Frederik de Schinkel, who believes the land belongs to him, swears revenge when the maid Ann Barbara and her serf husband escape for refuge with Kahlen.",
@@ -219,45 +161,6 @@
           "starts_at": "2024-02-20T20:50:00+00:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-88046/"
-        }
-      ]
-    },
-    {
-      "title": "Getting It Back: The Story of Cymande",
-      "trailer": null,
-      "synopsis": "They are the unsung heroes whose message of peace, love and funk sailed beyond Britain's shores and helped shape music for five decades. Long after they stopped playing, the music played on, so they returned to play some more.",
-      "runtime": 90,
-      "times": [
-        {
-          "starts_at": "2024-02-20T19:00:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-22592/"
-        }
-      ]
-    },
-    {
-      "title": "Eureka",
-      "trailer": "https://www.youtube.com/watch?v=NM7YCl6oi3Y",
-      "synopsis": "Alaina is tired of being a police officer in the Pine Ridge\nReservation, and decides to stop answering her radio. Her niece Sadie spends a long night waiting for her, to no avail. Hurt, she decides to begin her journey with the help of her grandfather: she will fly through time and space to South America, finally she will stop watching old black and white westerns that do not represent her in any way, and everything will feel different when she hears the dreams of other people, those who live in the forest. But there will be no definitive conclusions… Birds don’t talk to humans, yet if only we could understand them, they would surely have a few truths to tell us.",
-      "runtime": 147,
-      "times": [
-        {
-          "starts_at": "2024-02-20T20:00:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-22656/"
-        }
-      ]
-    },
-    {
-      "title": "Samsara",
-      "trailer": "https://www.youtube.com/watch?v=it-YSrv6ttA",
-      "synopsis": "Samsara is the Buddhist cycle of death and reincarnation. From the temples of Laos, alongside with teenage monks, we will accompany a soul in its transit from one body to another through the bardo. The words of the \"Tibetan Book of the Dead\" will be our guide to avoid getting lost in the afterlife. A luminous and sonorous journey that will lead us to reincarnate on the beaches of Zanzibar, where groups of women work in seaweed farms.\r\n\r\nCONTENT WARNING: This film contains flickering or flashing lights that may affect those with photosensitive epilepsy.\r\n",
-      "runtime": 114,
-      "times": [
-        {
-          "starts_at": "2024-02-20T20:20:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-88111/"
         }
       ]
     }
@@ -1463,6 +1366,11 @@
           "starts_at": "2024-02-22T19:00:00+00:00",
           "site": "Curzon Aldgate",
           "url": "https://www.curzon.com/ticketing/seats/ALD1-44960/"
+        },
+        {
+          "starts_at": "2024-02-22T19:00:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-68379/"
         },
         {
           "starts_at": "2024-02-22T19:00:00+00:00",
