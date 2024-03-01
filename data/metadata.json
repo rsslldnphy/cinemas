@@ -17,12 +17,6 @@
     "overview": "A novelist fed up with the establishment profiting from \"Black\" entertainment uses a pen name to write a book that propels him into the heart of hypocrisy and the madness he claims to disdain.",
     "release_date": "2023-11-10"
   },
-  "American Star": {
-    "backdrop": "https://image.tmdb.org/t/p/w500//dkPi08aPgRrOTB8OLrdSpt6zfa3.jpg",
-    "poster": "https://image.tmdb.org/t/p/w500//aFjxI9yMd142au1O74JlUttG4Ki.jpg",
-    "overview": "An assassin on a final assignment in Fuerteventura, to kill a man he has never met. When his target is delayed, he finds himself drawn to the island, people and a ghostly shipwreck. Instead of following protocol he stays. But when the target returns, the world has shifted. Before everything was simple, now nothing is.",
-    "release_date": "2024-01-26"
-  },
   "BIG SHARK": {
     "backdrop": null,
     "poster": "https://image.tmdb.org/t/p/w500//bLRQvT1INcmeAiFScI6XIs8CnkD.jpg",
@@ -77,6 +71,12 @@
     "overview": "A young girl discovers an idealized parallel universe behind a secret door in her new home, unaware that it contains a sinister secret.",
     "release_date": "2009-02-05"
   },
+  "DocHouse: COPA 71": {
+    "backdrop": "https://image.tmdb.org/t/p/w500//cAFsCk8EN819fSzkVSNw0tSA0yE.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500//qOS5vTg9ERlWfYiCk3X04r5VW2y.jpg",
+    "overview": "Tells the story of the 1971 Women’s World Cup, which saw soccer teams from all over the world gather in Mexico City’s Azteca Stadium to compete in front of more than 100,000 spectators. It was the last women’s World Cup until the official FIFA event 20 years later. Dismissed by the male-dominated football associations around the world, the event was written out of history — until now.",
+    "release_date": "2024-03-08"
+  },
   "DocHouse: Four Daughters": {
     "backdrop": "https://image.tmdb.org/t/p/w500//k7bPM2CFFpJfGgSmY1B9EG9xmnI.jpg",
     "poster": "https://image.tmdb.org/t/p/w500//iSpJ6fg1OOSO30IUkZskZDufVzN.jpg",
@@ -88,6 +88,12 @@
     "poster": "https://image.tmdb.org/t/p/w500//a4hgR6aKoohB6MHni171jbi9BkU.jpg",
     "overview": "A biography of artist Frida Kahlo, who channeled the pain of a crippling injury and her tempestuous marriage into her work.",
     "release_date": "2002-08-29"
+  },
+  "DocHouse: High & Low: John Galliano": {
+    "backdrop": "https://image.tmdb.org/t/p/w500//puH2BKhG0bPzK3Oxg4QB93C0i8Y.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500//uVT2hnWACWjLC9wGWk50EfW5IF1.jpg",
+    "overview": "Fashion designer John Galliano was widely recognized as one of the most successful names in 1990s and 2000s couture, until his career abruptly ended when he was caught on camera in 2011 hurling antisemitic and racist insults at bystanders in Paris.",
+    "release_date": "2024-03-08"
   },
   "DocHouse: Occupied City": {
     "backdrop": "https://image.tmdb.org/t/p/w500//dpaRhhMQe1l1mpTSw3OTUuIObG4.jpg",
@@ -120,7 +126,7 @@
     "release_date": "2022-12-16"
   },
   "Dune: Part Two": {
-    "backdrop": "https://image.tmdb.org/t/p/w500//uhUO7vQQKvCTfQWubOt5MAKokbL.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w500//qBQV4i2sjIydDJUKm7pwvpyfy5p.jpg",
     "poster": "https://image.tmdb.org/t/p/w500//8b8R8l88Qje9dn9OE8PY05Nxl1X.jpg",
     "overview": "Follow the mythic journey of Paul Atreides as he unites with Chani and the Fremen while on a path of revenge against the conspirators who destroyed his family. Facing a choice between the love of his life and the fate of the known universe, Paul endeavors to prevent a terrible future only he can foresee.",
     "release_date": "2024-02-27"
@@ -187,8 +193,8 @@
   },
   "NOSFERATU": {
     "backdrop": "https://image.tmdb.org/t/p/w500//hR8ol54rRSt3rouSJ9fHINLPUQg.jpg",
-    "poster": "https://image.tmdb.org/t/p/w500//6TlTimAgWrfr6xQgwRB8kB2yf5E.jpg",
-    "overview": "An ancient Transylvanian vampire stalks a haunted young woman in 19th-century Germany.",
+    "poster": "https://image.tmdb.org/t/p/w500//gVjHF375pdFANPMXUT3aJxoOi0J.jpg",
+    "overview": "A gothic tale of obsession between a haunted young woman and the terrifying vampire infatuated with her, causing untold horror in its wake.",
     "release_date": "2024-12-25"
   },
   "National Theatre Live: Vanya": {
@@ -197,8 +203,14 @@
     "overview": "Andrew Scott brings multiple characters to life in Chekhov's Uncle Vanya, filmed live in West End, London. Hopes, dreams, and regrets are thrust into sharp focus in this one-man adaptation which explores the complexities of human emotions",
     "release_date": "2024-02-22"
   },
+  "Origin": {
+    "backdrop": "https://image.tmdb.org/t/p/w500//3Ddg7f6Jfil7RM6MRcMZNB57a92.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500//jM7PTHpqoeC5ipyDupXP6QLjhGP.jpg",
+    "overview": "While grappling with tremendous personal tragedy, writer Isabel Wilkerson sets herself on a path of global investigation and discovery.",
+    "release_date": "2023-12-08"
+  },
   "PAST LIVES": {
-    "backdrop": "https://image.tmdb.org/t/p/w500//rron9HAuS9s7zBF8iCX1tsafxUo.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w500//7HR38hMBl23lf38MAN63y4pKsHz.jpg",
     "poster": "https://image.tmdb.org/t/p/w500//k3waqVXSnvCZWfJYNtdamTgTtTA.jpg",
     "overview": "Nora and Hae Sung, two childhood friends, are reunited in New York for one fateful week as they confront notions of destiny, love, and the choices that make a life.",
     "release_date": "2023-06-02"
@@ -222,7 +234,7 @@
     "release_date": "2023-11-10"
   },
   "Poor Things": {
-    "backdrop": "https://image.tmdb.org/t/p/w500//gsVC7HMf4VR2XFOyqjTSklY2Tms.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w500//jp5MBWKaDVBuzaSFHTHGc9kpu51.jpg",
     "poster": "https://image.tmdb.org/t/p/w500//kCGlIMHnOm8JPXq3rXM6c5wMxcT.jpg",
     "overview": "Brought back to life by an unorthodox scientist, a young woman runs off with a debauched lawyer on a whirlwind adventure across the continents. Free from the prejudices of her times, she grows steadfast in her purpose to stand for equality and liberation.",
     "release_date": "2023-12-07"
@@ -256,12 +268,6 @@
     "poster": "https://image.tmdb.org/t/p/w500//iB96mhJYhFn44z7yB1kKbvdzvaH.jpg",
     "overview": "Now a successful filmmaker, Lorna Tucker was once a teenage runaway sleeping rough on the streets of London. For this frank, forceful and inspiring documentary, she returns to her former haunts and speaks to current and former homeless people about why, twenty-five years later, record numbers of people are still reduced to living on Britain's streets.",
     "release_date": "2024-02-16"
-  },
-  "Spaceman": {
-    "backdrop": "https://image.tmdb.org/t/p/w500//hVkRPg8cdcqrP5fjENxKiVPRE8h.jpg",
-    "poster": "https://image.tmdb.org/t/p/w500//jDdnDEGu3GiLtJwDXeL4hfFzmGv.jpg",
-    "overview": "During a research mission, an astronaut discovers that his marriage is in trouble. Luckily, he has the help of a mysterious creature hidden in his ship.",
-    "release_date": "2024-02-23"
   },
   "THE EXORCIST": {
     "backdrop": "https://image.tmdb.org/t/p/w500//huC0x1don81NMreSGx4ITkrv9aG.jpg",
@@ -334,6 +340,12 @@
     "poster": "https://image.tmdb.org/t/p/w500//hUu9zyZmDd8VZegKi1iK1Vk0RYS.jpg",
     "overview": "The commandant of Auschwitz, Rudolf Höss, and his wife Hedwig, strive to build a dream life for their family in a house and garden next to the camp.",
     "release_date": "2023-12-15"
+  },
+  "Tomorrow's Freedom": {
+    "backdrop": null,
+    "poster": "https://image.tmdb.org/t/p/w500//iaqkhxDTMHSvxMoNWvpNokMlLM9.jpg",
+    "overview": "Marwan Barghouti, often described as the ‘Palestinian Nelson Mandela’, is serving five life sentences in an Israeli prison. This is his story.",
+    "release_date": "2022-06-26"
   },
   "WAR OF THE WORLDS (2005)": {
     "backdrop": "https://image.tmdb.org/t/p/w500//nH6hPhJq3EEv9CnBZgXU3IQnpJo.jpg",
