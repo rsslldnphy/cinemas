@@ -1,16 +1,59 @@
 {
   "2024-03-02": [
     {
+      "title": "The Zone of Interest",
+      "trailer": null,
+      "synopsis": "The commandant of Auschwitz, Rudolf Höss, and his wife Hedwig, strive to build a dream life for their family in a house and garden next to the camp.",
+      "runtime": 105,
+      "times": [
+        {
+          "starts_at": "2024-03-02T12:40:00+00:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-47554/"
+        },
+        {
+          "starts_at": "2024-03-02T18:20:00+00:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-47549/"
+        },
+        {
+          "starts_at": "2024-03-02T18:40:00+00:00",
+          "site": "Curzon Hoxton",
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-15239/"
+        },
+        {
+          "starts_at": "2024-03-02T20:40:00+00:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-22854/"
+        },
+        {
+          "starts_at": "2024-03-02T13:40:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-88355/"
+        },
+        {
+          "starts_at": "2024-03-02T16:10:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-88356/"
+        },
+        {
+          "starts_at": "2024-03-02T18:40:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-88344/"
+        },
+        {
+          "starts_at": "2024-03-02T21:10:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-88346/"
+        }
+      ]
+    },
+    {
       "title": "Dune: Part Two",
       "trailer": "https://www.youtube.com/watch?v=CHDU-B5K_Xw",
       "synopsis": "Paul Atreides unites with Chani and the Fremen while on a warpath of revenge against the conspirators who destroyed his family. Facing a choice between the love of his life and the fate of the known universe, he endeavors to prevent a terrible future only he can foresee.",
       "runtime": 167,
       "times": [
-        {
-          "starts_at": "2024-03-02T12:00:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-47215/"
-        },
         {
           "starts_at": "2024-03-02T13:20:00+00:00",
           "site": "Curzon Aldgate",
@@ -62,11 +105,6 @@
           "url": "https://www.curzon.com/ticketing/seats/SOH1-43487/"
         },
         {
-          "starts_at": "2024-03-02T12:00:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-70707/"
-        },
-        {
           "starts_at": "2024-03-02T13:20:00+00:00",
           "site": "Curzon Victoria",
           "url": "https://www.curzon.com/ticketing/seats/VIC1-70708/"
@@ -107,11 +145,6 @@
           "url": "https://www.curzon.com/ticketing/seats/MAY1-26081/"
         },
         {
-          "starts_at": "2024-03-02T12:00:00+00:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-15243/"
-        },
-        {
           "starts_at": "2024-03-02T13:30:00+00:00",
           "site": "Curzon Hoxton",
           "url": "https://www.curzon.com/ticketing/seats/HOX1-14922/"
@@ -125,16 +158,6 @@
           "starts_at": "2024-03-02T20:30:00+00:00",
           "site": "Curzon Hoxton",
           "url": "https://www.curzon.com/ticketing/seats/HOX1-14920/"
-        },
-        {
-          "starts_at": "2024-03-02T11:00:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-22454/"
-        },
-        {
-          "starts_at": "2024-03-02T12:00:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-22855/"
         },
         {
           "starts_at": "2024-03-02T14:00:00+00:00",
@@ -185,11 +208,6 @@
       "runtime": 100,
       "times": [
         {
-          "starts_at": "2024-03-02T12:20:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-47553/"
-        },
-        {
           "starts_at": "2024-03-02T15:00:00+00:00",
           "site": "Curzon Aldgate",
           "url": "https://www.curzon.com/ticketing/seats/ALD1-47548/"
@@ -198,11 +216,6 @@
           "starts_at": "2024-03-02T21:30:00+00:00",
           "site": "Curzon Aldgate",
           "url": "https://www.curzon.com/ticketing/seats/ALD1-47545/"
-        },
-        {
-          "starts_at": "2024-03-02T11:30:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-71043/"
         },
         {
           "starts_at": "2024-03-02T13:50:00+00:00",
@@ -247,64 +260,6 @@
       ]
     },
     {
-      "title": "The Zone of Interest",
-      "trailer": null,
-      "synopsis": "The commandant of Auschwitz, Rudolf Höss, and his wife Hedwig, strive to build a dream life for their family in a house and garden next to the camp.",
-      "runtime": 105,
-      "times": [
-        {
-          "starts_at": "2024-03-02T12:40:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-47554/"
-        },
-        {
-          "starts_at": "2024-03-02T18:20:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-47549/"
-        },
-        {
-          "starts_at": "2024-03-02T11:40:00+00:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-43765/"
-        },
-        {
-          "starts_at": "2024-03-02T18:40:00+00:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-15239/"
-        },
-        {
-          "starts_at": "2024-03-02T11:40:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-22850/"
-        },
-        {
-          "starts_at": "2024-03-02T20:40:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-22854/"
-        },
-        {
-          "starts_at": "2024-03-02T13:40:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-88355/"
-        },
-        {
-          "starts_at": "2024-03-02T16:10:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-88356/"
-        },
-        {
-          "starts_at": "2024-03-02T18:40:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-88344/"
-        },
-        {
-          "starts_at": "2024-03-02T21:10:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-88346/"
-        }
-      ]
-    },
-    {
       "title": "American Fiction",
       "trailer": "https://www.youtube.com/watch?v=e8YghfAsgpU",
       "synopsis": "AMERICAN FICTION is Cord Jefferson's hilarious directorial debut, which confronts our culture’s obsession with reducing people to outrageous stereotypes. Jeffrey Wright stars as Monk, a frustrated novelist who’s fed up with the establishment profiting from “Black” entertainment that relies on tired and offensive tropes. To prove his point, Monk uses a pen name to write an outlandish “Black” book of his own, a book that propels him to the heart of hypocrisy and the madness he claims to disdain.",
@@ -319,11 +274,6 @@
           "starts_at": "2024-03-02T17:50:00+00:00",
           "site": "Curzon Soho",
           "url": "https://www.curzon.com/ticketing/seats/SOH1-43717/"
-        },
-        {
-          "starts_at": "2024-03-02T12:20:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-71123/"
         },
         {
           "starts_at": "2024-03-02T20:20:00+00:00",
@@ -349,11 +299,6 @@
           "starts_at": "2024-03-02T14:20:00+00:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-22849/"
-        },
-        {
-          "starts_at": "2024-03-02T11:00:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-88349/"
         },
         {
           "starts_at": "2024-03-02T14:50:00+00:00",
@@ -387,74 +332,6 @@
           "starts_at": "2024-03-02T15:40:00+00:00",
           "site": "Curzon Hoxton",
           "url": "https://www.curzon.com/ticketing/seats/HOX1-15240/"
-        }
-      ]
-    },
-    {
-      "title": "Red Island",
-      "trailer": null,
-      "synopsis": "Robin Campillo, director of the acclaimed 120 BPM and Eastern Boys, mines the memories of his upbringing in post-colonial Madagascar to create a spellbinding, autobiographically inspired drama that mixes forms and textures to stunning and imaginative effect. ",
-      "runtime": 117,
-      "times": [
-        {
-          "starts_at": "2024-03-02T12:20:00+00:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-43715/"
-        },
-        {
-          "starts_at": "2024-03-02T18:10:00+00:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-43716/"
-        },
-        {
-          "starts_at": "2024-03-02T12:40:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-71119/"
-        },
-        {
-          "starts_at": "2024-03-02T18:20:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-71037/"
-        },
-        {
-          "starts_at": "2024-03-02T10:50:00+00:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-15242/"
-        },
-        {
-          "starts_at": "2024-03-02T18:10:00+00:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-15247/"
-        },
-        {
-          "starts_at": "2024-03-02T11:20:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-22453/"
-        },
-        {
-          "starts_at": "2024-03-02T17:40:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-22458/"
-        },
-        {
-          "starts_at": "2024-03-02T12:30:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-88142/"
-        },
-        {
-          "starts_at": "2024-03-02T15:20:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-88143/"
-        },
-        {
-          "starts_at": "2024-03-02T18:00:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-88144/"
-        },
-        {
-          "starts_at": "2024-03-02T20:40:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-88145/"
         }
       ]
     },
@@ -505,11 +382,6 @@
           "url": "https://www.curzon.com/ticketing/seats/CAM1-22853/"
         },
         {
-          "starts_at": "2024-03-02T11:50:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-88350/"
-        },
-        {
           "starts_at": "2024-03-02T15:00:00+00:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-88353/"
@@ -523,6 +395,59 @@
           "starts_at": "2024-03-02T20:50:00+00:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-88354/"
+        }
+      ]
+    },
+    {
+      "title": "Red Island",
+      "trailer": null,
+      "synopsis": "Robin Campillo, director of the acclaimed 120 BPM and Eastern Boys, mines the memories of his upbringing in post-colonial Madagascar to create a spellbinding, autobiographically inspired drama that mixes forms and textures to stunning and imaginative effect. ",
+      "runtime": 117,
+      "times": [
+        {
+          "starts_at": "2024-03-02T18:10:00+00:00",
+          "site": "Curzon Soho",
+          "url": "https://www.curzon.com/ticketing/seats/SOH1-43716/"
+        },
+        {
+          "starts_at": "2024-03-02T12:40:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-71119/"
+        },
+        {
+          "starts_at": "2024-03-02T18:20:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-71037/"
+        },
+        {
+          "starts_at": "2024-03-02T18:10:00+00:00",
+          "site": "Curzon Hoxton",
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-15247/"
+        },
+        {
+          "starts_at": "2024-03-02T17:40:00+00:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-22458/"
+        },
+        {
+          "starts_at": "2024-03-02T12:30:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-88142/"
+        },
+        {
+          "starts_at": "2024-03-02T15:20:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-88143/"
+        },
+        {
+          "starts_at": "2024-03-02T18:00:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-88144/"
+        },
+        {
+          "starts_at": "2024-03-02T20:40:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-88145/"
         }
       ]
     },
@@ -549,11 +474,6 @@
           "starts_at": "2024-03-02T15:20:00+00:00",
           "site": "Curzon Victoria",
           "url": "https://www.curzon.com/ticketing/seats/VIC1-71118/"
-        },
-        {
-          "starts_at": "2024-03-02T10:50:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-88357/"
         }
       ]
     },
@@ -567,42 +487,6 @@
           "starts_at": "2024-03-02T17:50:00+00:00",
           "site": "Curzon Victoria",
           "url": "https://www.curzon.com/ticketing/seats/VIC1-71121/"
-        }
-      ]
-    },
-    {
-      "title": "The Taste of Things",
-      "trailer": "https://www.youtube.com/watch?v=LeI-4eWvqwU",
-      "synopsis": "Peerless cook Eugenie (Juliette Binoche) has worked for the famous gourmet Dodin (Benoît Magimel) for the last 20 years. Bonding over a passion for gastronomy and mutual\nadmiration, their relationship develops into romance and gives rise to delicious dishes that impress even the world's most illustrious chefs. But Eugenie is fond of her freedom and has never wanted to marry Dodin. So, he decides to do something he has never done before: cook for her.\nA delectable feast for the senses, THE TASTE OF THINGS is a stunningly beautiful romance that simmers with emotion. The new film from acclaimed director Trần Anh Hùng, it\nwill be an unmissable cinematic treat.",
-      "runtime": 135,
-      "times": [
-        {
-          "starts_at": "2024-03-02T12:20:00+00:00",
-          "site": "Curzon Mayfair",
-          "url": "https://www.curzon.com/ticketing/seats/MAY1-26209/"
-        },
-        {
-          "starts_at": "2024-03-02T11:40:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-88348/"
-        }
-      ]
-    },
-    {
-      "title": "Kids Club: Rally Road Racers",
-      "trailer": "https://www.youtube.com/watch?v=WgCd5Ua5gF8",
-      "synopsis": "The film tells the inspiring story of a slow-moving mammal with a need for speed. To save his grandmother's home from demolition, young Zhi wages a bet with Vainglorious, the reigning champion of the rally car circuit. With help from a former racing champion, Zhi enters the four-day Silk Road Rally in hopes of winning the cup and living out his racing dreams.",
-      "runtime": 93,
-      "times": [
-        {
-          "starts_at": "2024-03-02T10:30:00+00:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-15140/"
-        },
-        {
-          "starts_at": "2024-03-02T10:30:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-21521/"
         }
       ]
     },
@@ -621,32 +505,6 @@
           "starts_at": "2024-03-02T21:00:00+00:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-22813/"
-        }
-      ]
-    },
-    {
-      "title": "National Theatre Live: Vanya",
-      "trailer": "https://www.youtube.com/watch?v=9cp3Sm2kiqE",
-      "synopsis": "Andrew Scott (Fleabag) brings multiple characters to life in Simon Stephens’ (The Curious Incident of the Dog in the Night-Time) radical new version of Chekhov’s Uncle Vanya.\nHopes, dreams, and regrets are thrust into sharp focus in this one-man adaptation which explores the complexities of human emotions.\nFilmed live during its sold-out run in London’s West End, Vanya will be playing exclusively in cinemas in 2024.",
-      "runtime": 117,
-      "times": [
-        {
-          "starts_at": "2024-03-02T18:00:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-22807/"
-        }
-      ]
-    },
-    {
-      "title": "DocHouse: This Woman",
-      "trailer": null,
-      "synopsis": "In this impressive and courageous debut docufiction, Alan Zhang follows the journey of a young woman in order to profoundly question the role of women in contemporary Chinese society. To what obligations and expectations are they subjected, and how can they free themselves from these constraints? A political and timely film, with a wonderful protagonist and a playful tone.",
-      "runtime": 90,
-      "times": [
-        {
-          "starts_at": "2024-03-02T13:30:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-87765/"
         }
       ]
     },
