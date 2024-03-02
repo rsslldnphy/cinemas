@@ -7,54 +7,14 @@
       "runtime": 167,
       "times": [
         {
-          "starts_at": "2024-03-02T19:20:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-47217/"
-        },
-        {
           "starts_at": "2024-03-02T20:40:00+00:00",
           "site": "Curzon Aldgate",
           "url": "https://www.curzon.com/ticketing/seats/ALD1-47216/"
         },
         {
-          "starts_at": "2024-03-02T20:20:00+00:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-43487/"
-        },
-        {
-          "starts_at": "2024-03-02T19:20:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-70711/"
-        },
-        {
           "starts_at": "2024-03-02T20:40:00+00:00",
           "site": "Curzon Victoria",
           "url": "https://www.curzon.com/ticketing/seats/VIC1-70710/"
-        },
-        {
-          "starts_at": "2024-03-02T20:00:00+00:00",
-          "site": "Curzon Mayfair",
-          "url": "https://www.curzon.com/ticketing/seats/MAY1-26081/"
-        },
-        {
-          "starts_at": "2024-03-02T20:30:00+00:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-14920/"
-        },
-        {
-          "starts_at": "2024-03-02T19:30:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-22847/"
-        },
-        {
-          "starts_at": "2024-03-02T20:20:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-22456/"
-        },
-        {
-          "starts_at": "2024-03-02T20:20:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-87934/"
         }
       ]
     },
@@ -81,11 +41,6 @@
           "starts_at": "2024-03-02T21:30:00+00:00",
           "site": "Curzon Aldgate",
           "url": "https://www.curzon.com/ticketing/seats/ALD1-47545/"
-        },
-        {
-          "starts_at": "2024-03-02T18:50:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-71054/"
         },
         {
           "starts_at": "2024-03-02T21:15:00+00:00",
@@ -129,11 +84,6 @@
           "url": "https://www.curzon.com/ticketing/seats/HOX1-15246/"
         },
         {
-          "starts_at": "2024-03-02T20:00:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-22853/"
-        },
-        {
           "starts_at": "2024-03-02T20:50:00+00:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-88354/"
@@ -146,11 +96,6 @@
       "synopsis": "AMERICAN FICTION is Cord Jefferson's hilarious directorial debut, which confronts our culture’s obsession with reducing people to outrageous stereotypes. Jeffrey Wright stars as Monk, a frustrated novelist who’s fed up with the establishment profiting from “Black” entertainment that relies on tired and offensive tropes. To prove his point, Monk uses a pen name to write an outlandish “Black” book of his own, a book that propels him to the heart of hypocrisy and the madness he claims to disdain.",
       "runtime": 117,
       "times": [
-        {
-          "starts_at": "2024-03-02T20:20:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-71120/"
-        },
         {
           "starts_at": "2024-03-02T20:30:00+00:00",
           "site": "Curzon Mayfair",
@@ -175,19 +120,9 @@
       "runtime": 105,
       "times": [
         {
-          "starts_at": "2024-03-02T18:40:00+00:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-15239/"
-        },
-        {
           "starts_at": "2024-03-02T20:40:00+00:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-22854/"
-        },
-        {
-          "starts_at": "2024-03-02T18:40:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-88344/"
         },
         {
           "starts_at": "2024-03-02T21:10:00+00:00",
