@@ -7,21 +7,6 @@
       "runtime": 167,
       "times": [
         {
-          "starts_at": "2024-03-02T15:40:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-47219/"
-        },
-        {
-          "starts_at": "2024-03-02T17:00:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-47218/"
-        },
-        {
-          "starts_at": "2024-03-02T18:00:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-47547/"
-        },
-        {
           "starts_at": "2024-03-02T19:20:00+00:00",
           "site": "Curzon Aldgate",
           "url": "https://www.curzon.com/ticketing/seats/ALD1-47217/"
@@ -32,24 +17,9 @@
           "url": "https://www.curzon.com/ticketing/seats/ALD1-47216/"
         },
         {
-          "starts_at": "2024-03-02T16:40:00+00:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-43486/"
-        },
-        {
           "starts_at": "2024-03-02T20:20:00+00:00",
           "site": "Curzon Soho",
           "url": "https://www.curzon.com/ticketing/seats/SOH1-43487/"
-        },
-        {
-          "starts_at": "2024-03-02T15:40:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-70706/"
-        },
-        {
-          "starts_at": "2024-03-02T17:00:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-70709/"
         },
         {
           "starts_at": "2024-03-02T19:20:00+00:00",
@@ -62,34 +32,14 @@
           "url": "https://www.curzon.com/ticketing/seats/VIC1-70710/"
         },
         {
-          "starts_at": "2024-03-02T16:20:00+00:00",
-          "site": "Curzon Mayfair",
-          "url": "https://www.curzon.com/ticketing/seats/MAY1-26080/"
-        },
-        {
           "starts_at": "2024-03-02T20:00:00+00:00",
           "site": "Curzon Mayfair",
           "url": "https://www.curzon.com/ticketing/seats/MAY1-26081/"
         },
         {
-          "starts_at": "2024-03-02T17:00:00+00:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-14921/"
-        },
-        {
           "starts_at": "2024-03-02T20:30:00+00:00",
           "site": "Curzon Hoxton",
           "url": "https://www.curzon.com/ticketing/seats/HOX1-14920/"
-        },
-        {
-          "starts_at": "2024-03-02T15:40:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-22856/"
-        },
-        {
-          "starts_at": "2024-03-02T17:20:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-22460/"
         },
         {
           "starts_at": "2024-03-02T19:30:00+00:00",
@@ -102,52 +52,9 @@
           "url": "https://www.curzon.com/ticketing/seats/CAM1-22456/"
         },
         {
-          "starts_at": "2024-03-02T16:50:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-87935/"
-        },
-        {
           "starts_at": "2024-03-02T20:20:00+00:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-87934/"
-        }
-      ]
-    },
-    {
-      "title": "The Zone of Interest",
-      "trailer": null,
-      "synopsis": "The commandant of Auschwitz, Rudolf Höss, and his wife Hedwig, strive to build a dream life for their family in a house and garden next to the camp.",
-      "runtime": 105,
-      "times": [
-        {
-          "starts_at": "2024-03-02T18:20:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-47549/"
-        },
-        {
-          "starts_at": "2024-03-02T18:40:00+00:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-15239/"
-        },
-        {
-          "starts_at": "2024-03-02T20:40:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-22854/"
-        },
-        {
-          "starts_at": "2024-03-02T16:10:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-88356/"
-        },
-        {
-          "starts_at": "2024-03-02T18:40:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-88344/"
-        },
-        {
-          "starts_at": "2024-03-02T21:10:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-88346/"
         }
       ]
     },
@@ -161,11 +68,6 @@
           "starts_at": "2024-03-02T21:00:00+00:00",
           "site": "Curzon Aldgate",
           "url": "https://www.curzon.com/ticketing/seats/ALD1-47550/"
-        },
-        {
-          "starts_at": "2024-03-02T15:40:00+00:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-15240/"
         }
       ]
     },
@@ -181,11 +83,6 @@
           "url": "https://www.curzon.com/ticketing/seats/ALD1-47545/"
         },
         {
-          "starts_at": "2024-03-02T16:20:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-71045/"
-        },
-        {
           "starts_at": "2024-03-02T18:50:00+00:00",
           "site": "Curzon Victoria",
           "url": "https://www.curzon.com/ticketing/seats/VIC1-71054/"
@@ -194,92 +91,6 @@
           "starts_at": "2024-03-02T21:15:00+00:00",
           "site": "Curzon Victoria",
           "url": "https://www.curzon.com/ticketing/seats/VIC1-71051/"
-        },
-        {
-          "starts_at": "2024-03-02T18:00:00+00:00",
-          "site": "Curzon Mayfair",
-          "url": "https://www.curzon.com/ticketing/seats/MAY1-26207/"
-        },
-        {
-          "starts_at": "2024-03-02T17:00:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-22852/"
-        }
-      ]
-    },
-    {
-      "title": "American Fiction",
-      "trailer": "https://www.youtube.com/watch?v=e8YghfAsgpU",
-      "synopsis": "AMERICAN FICTION is Cord Jefferson's hilarious directorial debut, which confronts our culture’s obsession with reducing people to outrageous stereotypes. Jeffrey Wright stars as Monk, a frustrated novelist who’s fed up with the establishment profiting from “Black” entertainment that relies on tired and offensive tropes. To prove his point, Monk uses a pen name to write an outlandish “Black” book of his own, a book that propels him to the heart of hypocrisy and the madness he claims to disdain.",
-      "runtime": 117,
-      "times": [
-        {
-          "starts_at": "2024-03-02T17:50:00+00:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-43717/"
-        },
-        {
-          "starts_at": "2024-03-02T20:20:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-71120/"
-        },
-        {
-          "starts_at": "2024-03-02T20:30:00+00:00",
-          "site": "Curzon Mayfair",
-          "url": "https://www.curzon.com/ticketing/seats/MAY1-26210/"
-        },
-        {
-          "starts_at": "2024-03-02T21:10:00+00:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-15245/"
-        },
-        {
-          "starts_at": "2024-03-02T18:20:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-88352/"
-        },
-        {
-          "starts_at": "2024-03-02T21:00:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-88345/"
-        }
-      ]
-    },
-    {
-      "title": "Red Island",
-      "trailer": null,
-      "synopsis": "Robin Campillo, director of the acclaimed 120 BPM and Eastern Boys, mines the memories of his upbringing in post-colonial Madagascar to create a spellbinding, autobiographically inspired drama that mixes forms and textures to stunning and imaginative effect. ",
-      "runtime": 117,
-      "times": [
-        {
-          "starts_at": "2024-03-02T18:10:00+00:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-43716/"
-        },
-        {
-          "starts_at": "2024-03-02T18:20:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-71037/"
-        },
-        {
-          "starts_at": "2024-03-02T18:10:00+00:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-15247/"
-        },
-        {
-          "starts_at": "2024-03-02T17:40:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-22458/"
-        },
-        {
-          "starts_at": "2024-03-02T18:00:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-88144/"
-        },
-        {
-          "starts_at": "2024-03-02T20:40:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-88145/"
         }
       ]
     },
@@ -323,14 +134,65 @@
           "url": "https://www.curzon.com/ticketing/seats/CAM1-22853/"
         },
         {
-          "starts_at": "2024-03-02T17:50:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-88347/"
-        },
-        {
           "starts_at": "2024-03-02T20:50:00+00:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-88354/"
+        }
+      ]
+    },
+    {
+      "title": "American Fiction",
+      "trailer": "https://www.youtube.com/watch?v=e8YghfAsgpU",
+      "synopsis": "AMERICAN FICTION is Cord Jefferson's hilarious directorial debut, which confronts our culture’s obsession with reducing people to outrageous stereotypes. Jeffrey Wright stars as Monk, a frustrated novelist who’s fed up with the establishment profiting from “Black” entertainment that relies on tired and offensive tropes. To prove his point, Monk uses a pen name to write an outlandish “Black” book of his own, a book that propels him to the heart of hypocrisy and the madness he claims to disdain.",
+      "runtime": 117,
+      "times": [
+        {
+          "starts_at": "2024-03-02T20:20:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-71120/"
+        },
+        {
+          "starts_at": "2024-03-02T20:30:00+00:00",
+          "site": "Curzon Mayfair",
+          "url": "https://www.curzon.com/ticketing/seats/MAY1-26210/"
+        },
+        {
+          "starts_at": "2024-03-02T21:10:00+00:00",
+          "site": "Curzon Hoxton",
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-15245/"
+        },
+        {
+          "starts_at": "2024-03-02T21:00:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-88345/"
+        }
+      ]
+    },
+    {
+      "title": "The Zone of Interest",
+      "trailer": null,
+      "synopsis": "The commandant of Auschwitz, Rudolf Höss, and his wife Hedwig, strive to build a dream life for their family in a house and garden next to the camp.",
+      "runtime": 105,
+      "times": [
+        {
+          "starts_at": "2024-03-02T18:40:00+00:00",
+          "site": "Curzon Hoxton",
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-15239/"
+        },
+        {
+          "starts_at": "2024-03-02T20:40:00+00:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-22854/"
+        },
+        {
+          "starts_at": "2024-03-02T18:40:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-88344/"
+        },
+        {
+          "starts_at": "2024-03-02T21:10:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-88346/"
         }
       ]
     },
@@ -348,32 +210,6 @@
       ]
     },
     {
-      "title": "DocHouse: Theatre Of Violence",
-      "trailer": null,
-      "synopsis": "Can you be a perpetrator and a victim at the same time? A harrowing question of diminished responsibility is complicated by the horrors of Uganda's post-civil war atrocities.\r\n\r\nThe International Criminal Court (ICC) in The Hague is charging Dominic Ongwen with 70 different counts of crimes committed whilst in a commanding role in rebel leader Joseph Kony's Lord's Resistance Army (LRA). Ongwen's defence lawyer, Krispus Ayena, is preparing to argue that his client was abducted at the age of 9 and brainwashed by Kony, who used a combination of Christianity, witchcraft and torture to turn thousands of children into LRA killing machines, in his rebellion against Ugandan president Yoweri Museveni.\r\n\r\n\r\nGrappling with a deeply complex moral conundrum of guilt and punishment, against the backdrop of Uganda's 'theatre of violence', this unprecedented film encourages viewers to confront difficult questions about the various meanings of 'justice'.",
-      "runtime": 106,
-      "times": [
-        {
-          "starts_at": "2024-03-02T16:00:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-87767/"
-        }
-      ]
-    },
-    {
-      "title": "DocHouse: Four Daughters",
-      "trailer": null,
-      "synopsis": "Formally inventive and strikingly astute, this Oscar-nominated hybrid explores the life of Tunisian mother Olfa and her four daughters. While the younger two are present to re-enact scenes from their family history, the disappearance of the older two from the family home becomes the central burning question around which the narrative spirals.\r\n\r\nThe two missing sisters will be played by professional actors in staged reconstructions, guided by Olfa and her younger girls, and multi-award-winning Tunisian-Egyptian actor Hend Sabri steps into Olfa's shoes, and into the narrative.\r\n\r\nAs bonds form between the family members and the actors, director Kaouther Ben Hania sets up an extraordinary film mechanism to unveil the story of Olfa and her family.\r\n\r\n\r\nAn intimate journey full of hope, rebellion, violence, intergenerational transmission and sisterhood, which will question the very foundation of our societies. ",
-      "runtime": 110,
-      "times": [
-        {
-          "starts_at": "2024-03-02T18:10:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-87953/"
-        }
-      ]
-    },
-    {
       "title": "DocHouse: We Will Not Fade Away",
       "trailer": null,
       "synopsis": "Donbas, 2019. This portrait of a generation follows a group of teens living through the dog days of the war that had been burning since 2014, with the prospect of a coming invasion gathering momentum. An imaginative band of dreamers, their hopes for their futures are tempered by the limits of the world the around them, and the sound of gunfire is never far away.\r\n\r\nInto this picture comes an extraordinary opportunity: an expedition to the Himalayas that will provide a brief escape from the reality of war, and open up untold new horizons.\r\n\r\nUkrainian director Alisa Kovalenko's perceptive gaze gently captures a coming-of-age tale like no other, and a generation that, in spite of everything, is able to recognise and celebrate the fragile beauty of life.",
@@ -383,6 +219,19 @@
           "starts_at": "2024-03-02T20:30:00+00:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-88444/"
+        }
+      ]
+    },
+    {
+      "title": "Red Island",
+      "trailer": null,
+      "synopsis": "Robin Campillo, director of the acclaimed 120 BPM and Eastern Boys, mines the memories of his upbringing in post-colonial Madagascar to create a spellbinding, autobiographically inspired drama that mixes forms and textures to stunning and imaginative effect. ",
+      "runtime": 117,
+      "times": [
+        {
+          "starts_at": "2024-03-02T20:40:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-88145/"
         }
       ]
     }
