@@ -1,64 +1,11 @@
 {
   "2024-03-02": [
     {
-      "title": "The Zone of Interest",
-      "trailer": null,
-      "synopsis": "The commandant of Auschwitz, Rudolf Höss, and his wife Hedwig, strive to build a dream life for their family in a house and garden next to the camp.",
-      "runtime": 105,
-      "times": [
-        {
-          "starts_at": "2024-03-02T12:40:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-47554/"
-        },
-        {
-          "starts_at": "2024-03-02T18:20:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-47549/"
-        },
-        {
-          "starts_at": "2024-03-02T18:40:00+00:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-15239/"
-        },
-        {
-          "starts_at": "2024-03-02T20:40:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-22854/"
-        },
-        {
-          "starts_at": "2024-03-02T13:40:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-88355/"
-        },
-        {
-          "starts_at": "2024-03-02T16:10:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-88356/"
-        },
-        {
-          "starts_at": "2024-03-02T18:40:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-88344/"
-        },
-        {
-          "starts_at": "2024-03-02T21:10:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-88346/"
-        }
-      ]
-    },
-    {
       "title": "Dune: Part Two",
       "trailer": "https://www.youtube.com/watch?v=CHDU-B5K_Xw",
       "synopsis": "Paul Atreides unites with Chani and the Fremen while on a warpath of revenge against the conspirators who destroyed his family. Facing a choice between the love of his life and the fate of the known universe, he endeavors to prevent a terrible future only he can foresee.",
       "runtime": 167,
       "times": [
-        {
-          "starts_at": "2024-03-02T13:20:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-47214/"
-        },
         {
           "starts_at": "2024-03-02T15:40:00+00:00",
           "site": "Curzon Aldgate",
@@ -85,16 +32,6 @@
           "url": "https://www.curzon.com/ticketing/seats/ALD1-47216/"
         },
         {
-          "starts_at": "2024-03-02T13:00:00+00:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-43488/"
-        },
-        {
-          "starts_at": "2024-03-02T14:10:00+00:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-43714/"
-        },
-        {
           "starts_at": "2024-03-02T16:40:00+00:00",
           "site": "Curzon Soho",
           "url": "https://www.curzon.com/ticketing/seats/SOH1-43486/"
@@ -103,11 +40,6 @@
           "starts_at": "2024-03-02T20:20:00+00:00",
           "site": "Curzon Soho",
           "url": "https://www.curzon.com/ticketing/seats/SOH1-43487/"
-        },
-        {
-          "starts_at": "2024-03-02T13:20:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-70708/"
         },
         {
           "starts_at": "2024-03-02T15:40:00+00:00",
@@ -130,11 +62,6 @@
           "url": "https://www.curzon.com/ticketing/seats/VIC1-70710/"
         },
         {
-          "starts_at": "2024-03-02T12:40:00+00:00",
-          "site": "Curzon Mayfair",
-          "url": "https://www.curzon.com/ticketing/seats/MAY1-26079/"
-        },
-        {
           "starts_at": "2024-03-02T16:20:00+00:00",
           "site": "Curzon Mayfair",
           "url": "https://www.curzon.com/ticketing/seats/MAY1-26080/"
@@ -145,11 +72,6 @@
           "url": "https://www.curzon.com/ticketing/seats/MAY1-26081/"
         },
         {
-          "starts_at": "2024-03-02T13:30:00+00:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-14922/"
-        },
-        {
           "starts_at": "2024-03-02T17:00:00+00:00",
           "site": "Curzon Hoxton",
           "url": "https://www.curzon.com/ticketing/seats/HOX1-14921/"
@@ -158,11 +80,6 @@
           "starts_at": "2024-03-02T20:30:00+00:00",
           "site": "Curzon Hoxton",
           "url": "https://www.curzon.com/ticketing/seats/HOX1-14920/"
-        },
-        {
-          "starts_at": "2024-03-02T14:00:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-22459/"
         },
         {
           "starts_at": "2024-03-02T15:40:00+00:00",
@@ -185,11 +102,6 @@
           "url": "https://www.curzon.com/ticketing/seats/CAM1-22456/"
         },
         {
-          "starts_at": "2024-03-02T13:20:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-87933/"
-        },
-        {
           "starts_at": "2024-03-02T16:50:00+00:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-87935/"
@@ -202,118 +114,40 @@
       ]
     },
     {
-      "title": "Wicked Little Letters",
-      "trailer": "https://www.youtube.com/watch?v=fgqQvmbP-UU",
-      "synopsis": "A 1920s English seaside town bears witness to a dark and absurd scandal in this riotous mystery comedy. Based on a stranger than fiction true story, WICKED LITTLE LETTERS follows two neighbours: deeply conservative local Edith Swan (Olivia Colman) and rowdy Irish migrant Rose Gooding (Jessie Buckley). When Edith and fellow residents begin to receive wicked letters full of unintentionally hilarious profanities, foulmouthed Rose is charged with the crime. The anonymous letters prompt a national uproar, and a trial ensues. However, as the town's women - led by Police Officer Gladys Moss (Anjana Vasan) - begin to investigate the crime themselves, they suspect that something is amiss, and Rose may not be the culprit after all.",
-      "runtime": 100,
+      "title": "The Zone of Interest",
+      "trailer": null,
+      "synopsis": "The commandant of Auschwitz, Rudolf Höss, and his wife Hedwig, strive to build a dream life for their family in a house and garden next to the camp.",
+      "runtime": 105,
       "times": [
         {
-          "starts_at": "2024-03-02T15:00:00+00:00",
+          "starts_at": "2024-03-02T18:20:00+00:00",
           "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-47548/"
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-47549/"
         },
         {
-          "starts_at": "2024-03-02T21:30:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-47545/"
-        },
-        {
-          "starts_at": "2024-03-02T13:50:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-71048/"
-        },
-        {
-          "starts_at": "2024-03-02T16:20:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-71045/"
-        },
-        {
-          "starts_at": "2024-03-02T18:50:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-71054/"
-        },
-        {
-          "starts_at": "2024-03-02T21:15:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-71051/"
-        },
-        {
-          "starts_at": "2024-03-02T18:00:00+00:00",
-          "site": "Curzon Mayfair",
-          "url": "https://www.curzon.com/ticketing/seats/MAY1-26207/"
-        },
-        {
-          "starts_at": "2024-03-02T13:00:00+00:00",
+          "starts_at": "2024-03-02T18:40:00+00:00",
           "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-15244/"
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-15239/"
         },
         {
-          "starts_at": "2024-03-02T12:45:00+00:00",
+          "starts_at": "2024-03-02T20:40:00+00:00",
           "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-22848/"
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-22854/"
         },
         {
-          "starts_at": "2024-03-02T17:00:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-22852/"
-        }
-      ]
-    },
-    {
-      "title": "American Fiction",
-      "trailer": "https://www.youtube.com/watch?v=e8YghfAsgpU",
-      "synopsis": "AMERICAN FICTION is Cord Jefferson's hilarious directorial debut, which confronts our culture’s obsession with reducing people to outrageous stereotypes. Jeffrey Wright stars as Monk, a frustrated novelist who’s fed up with the establishment profiting from “Black” entertainment that relies on tired and offensive tropes. To prove his point, Monk uses a pen name to write an outlandish “Black” book of his own, a book that propels him to the heart of hypocrisy and the madness he claims to disdain.",
-      "runtime": 117,
-      "times": [
-        {
-          "starts_at": "2024-03-02T15:20:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-47601/"
+          "starts_at": "2024-03-02T16:10:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-88356/"
         },
         {
-          "starts_at": "2024-03-02T17:50:00+00:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-43717/"
-        },
-        {
-          "starts_at": "2024-03-02T20:20:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-71120/"
-        },
-        {
-          "starts_at": "2024-03-02T15:20:00+00:00",
-          "site": "Curzon Mayfair",
-          "url": "https://www.curzon.com/ticketing/seats/MAY1-26208/"
-        },
-        {
-          "starts_at": "2024-03-02T20:30:00+00:00",
-          "site": "Curzon Mayfair",
-          "url": "https://www.curzon.com/ticketing/seats/MAY1-26210/"
+          "starts_at": "2024-03-02T18:40:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-88344/"
         },
         {
           "starts_at": "2024-03-02T21:10:00+00:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-15245/"
-        },
-        {
-          "starts_at": "2024-03-02T14:20:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-22849/"
-        },
-        {
-          "starts_at": "2024-03-02T14:50:00+00:00",
           "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-88351/"
-        },
-        {
-          "starts_at": "2024-03-02T18:20:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-88352/"
-        },
-        {
-          "starts_at": "2024-03-02T21:00:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-88345/"
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-88346/"
         }
       ]
     },
@@ -336,65 +170,78 @@
       ]
     },
     {
-      "title": "Perfect Days",
-      "trailer": null,
-      "synopsis": "A highly anticipated return to fiction feature filmmaking from Wim Wenders (Paris, Texas, Wings of Desire), PERFECT DAYS takes the writer-director to Tokyo to tell a story celebrating the hidden joys and minutiae of Japanese culture. Winner of the Best Actor award at Cannes 2023, Koji Yakusho (Babel, 13 Assassins) stars as Hirayama, a contemplative middle-aged man who lives a life of modesty and serenity, spending his days balancing his job as a dutiful caretaker of Tokyo’s numerous public toilets with his passion for music, literature and photography. As we join him on his structured daily routine, a series of unexpected encounters gradually begin to reveal a hidden past that lies behind his otherwise content and harmonious life. \n\nCombining a refreshingly unstereotypical depiction of the Japanese capital with a soundtrack comprised of iconic hits from the 60s and 80s, this is a subtle, shimmering and ultimately life-affirming reflection on finding beauty in the everyday world around us. Japan’s entry for Best International Film at the 2024 Academy Awards.\n",
-      "runtime": 125,
+      "title": "Wicked Little Letters",
+      "trailer": "https://www.youtube.com/watch?v=fgqQvmbP-UU",
+      "synopsis": "A 1920s English seaside town bears witness to a dark and absurd scandal in this riotous mystery comedy. Based on a stranger than fiction true story, WICKED LITTLE LETTERS follows two neighbours: deeply conservative local Edith Swan (Olivia Colman) and rowdy Irish migrant Rose Gooding (Jessie Buckley). When Edith and fellow residents begin to receive wicked letters full of unintentionally hilarious profanities, foulmouthed Rose is charged with the crime. The anonymous letters prompt a national uproar, and a trial ensues. However, as the town's women - led by Police Officer Gladys Moss (Anjana Vasan) - begin to investigate the crime themselves, they suspect that something is amiss, and Rose may not be the culprit after all.",
+      "runtime": 100,
       "times": [
         {
-          "starts_at": "2024-03-02T15:10:00+00:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-43713/"
+          "starts_at": "2024-03-02T21:30:00+00:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-47545/"
         },
         {
-          "starts_at": "2024-03-02T21:00:00+00:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-43712/"
-        },
-        {
-          "starts_at": "2024-03-02T15:00:00+00:00",
+          "starts_at": "2024-03-02T16:20:00+00:00",
           "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-71122/"
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-71045/"
         },
         {
-          "starts_at": "2024-03-02T21:00:00+00:00",
+          "starts_at": "2024-03-02T18:50:00+00:00",
           "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-71124/"
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-71054/"
         },
         {
-          "starts_at": "2024-03-02T15:20:00+00:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-15241/"
+          "starts_at": "2024-03-02T21:15:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-71051/"
         },
         {
-          "starts_at": "2024-03-02T20:50:00+00:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-15246/"
+          "starts_at": "2024-03-02T18:00:00+00:00",
+          "site": "Curzon Mayfair",
+          "url": "https://www.curzon.com/ticketing/seats/MAY1-26207/"
         },
         {
-          "starts_at": "2024-03-02T15:10:00+00:00",
+          "starts_at": "2024-03-02T17:00:00+00:00",
           "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-22851/"
-        },
-        {
-          "starts_at": "2024-03-02T20:00:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-22853/"
-        },
-        {
-          "starts_at": "2024-03-02T15:00:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-88353/"
-        },
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-22852/"
+        }
+      ]
+    },
+    {
+      "title": "American Fiction",
+      "trailer": "https://www.youtube.com/watch?v=e8YghfAsgpU",
+      "synopsis": "AMERICAN FICTION is Cord Jefferson's hilarious directorial debut, which confronts our culture’s obsession with reducing people to outrageous stereotypes. Jeffrey Wright stars as Monk, a frustrated novelist who’s fed up with the establishment profiting from “Black” entertainment that relies on tired and offensive tropes. To prove his point, Monk uses a pen name to write an outlandish “Black” book of his own, a book that propels him to the heart of hypocrisy and the madness he claims to disdain.",
+      "runtime": 117,
+      "times": [
         {
           "starts_at": "2024-03-02T17:50:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-88347/"
+          "site": "Curzon Soho",
+          "url": "https://www.curzon.com/ticketing/seats/SOH1-43717/"
         },
         {
-          "starts_at": "2024-03-02T20:50:00+00:00",
+          "starts_at": "2024-03-02T20:20:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-71120/"
+        },
+        {
+          "starts_at": "2024-03-02T20:30:00+00:00",
+          "site": "Curzon Mayfair",
+          "url": "https://www.curzon.com/ticketing/seats/MAY1-26210/"
+        },
+        {
+          "starts_at": "2024-03-02T21:10:00+00:00",
+          "site": "Curzon Hoxton",
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-15245/"
+        },
+        {
+          "starts_at": "2024-03-02T18:20:00+00:00",
           "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-88354/"
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-88352/"
+        },
+        {
+          "starts_at": "2024-03-02T21:00:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-88345/"
         }
       ]
     },
@@ -410,11 +257,6 @@
           "url": "https://www.curzon.com/ticketing/seats/SOH1-43716/"
         },
         {
-          "starts_at": "2024-03-02T12:40:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-71119/"
-        },
-        {
           "starts_at": "2024-03-02T18:20:00+00:00",
           "site": "Curzon Victoria",
           "url": "https://www.curzon.com/ticketing/seats/VIC1-71037/"
@@ -428,16 +270,6 @@
           "starts_at": "2024-03-02T17:40:00+00:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-22458/"
-        },
-        {
-          "starts_at": "2024-03-02T12:30:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-88142/"
-        },
-        {
-          "starts_at": "2024-03-02T15:20:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-88143/"
         },
         {
           "starts_at": "2024-03-02T18:00:00+00:00",
@@ -465,28 +297,40 @@
       ]
     },
     {
-      "title": "All Of Us Strangers",
-      "trailer": "https://www.youtube.com/watch?v=naDbwsI-T8A",
-      "synopsis": "One night in his near-empty tower block in contemporary London, Adam (Andrew Scott) has a chance encounter with a mysterious neighbor Harry (Paul Mescal), which punctures the rhythm of his everyday life. As a relationship develops between them, Adam is preoccupied with memories of the past and finds himself drawn back to the suburban town where he grew up, and the childhood home where his parents (Claire Foy and Jamie Bell), appear to be living, just as they were on the day they died, 30 years before.",
-      "runtime": 105,
+      "title": "Perfect Days",
+      "trailer": null,
+      "synopsis": "A highly anticipated return to fiction feature filmmaking from Wim Wenders (Paris, Texas, Wings of Desire), PERFECT DAYS takes the writer-director to Tokyo to tell a story celebrating the hidden joys and minutiae of Japanese culture. Winner of the Best Actor award at Cannes 2023, Koji Yakusho (Babel, 13 Assassins) stars as Hirayama, a contemplative middle-aged man who lives a life of modesty and serenity, spending his days balancing his job as a dutiful caretaker of Tokyo’s numerous public toilets with his passion for music, literature and photography. As we join him on his structured daily routine, a series of unexpected encounters gradually begin to reveal a hidden past that lies behind his otherwise content and harmonious life. \n\nCombining a refreshingly unstereotypical depiction of the Japanese capital with a soundtrack comprised of iconic hits from the 60s and 80s, this is a subtle, shimmering and ultimately life-affirming reflection on finding beauty in the everyday world around us. Japan’s entry for Best International Film at the 2024 Academy Awards.\n",
+      "runtime": 125,
       "times": [
         {
-          "starts_at": "2024-03-02T15:20:00+00:00",
+          "starts_at": "2024-03-02T21:00:00+00:00",
+          "site": "Curzon Soho",
+          "url": "https://www.curzon.com/ticketing/seats/SOH1-43712/"
+        },
+        {
+          "starts_at": "2024-03-02T21:00:00+00:00",
           "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-71118/"
-        }
-      ]
-    },
-    {
-      "title": "Bob Marley: One Love",
-      "trailer": "https://www.youtube.com/watch?v=g4BRwGpG9UA",
-      "synopsis": "BOB MARLEY: ONE LOVE celebrates the life and music of an icon who inspired generations through his message of love and unity. On the big screen for the first time, discover Bob’s powerful story of overcoming adversity and the journey behind his revolutionary music. Produced in partnership with the Marley family and starring Kingsley Ben-Adir as the legendary musician and Lashana Lynch as his wife Rita.",
-      "runtime": 104,
-      "times": [
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-71124/"
+        },
+        {
+          "starts_at": "2024-03-02T20:50:00+00:00",
+          "site": "Curzon Hoxton",
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-15246/"
+        },
+        {
+          "starts_at": "2024-03-02T20:00:00+00:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-22853/"
+        },
         {
           "starts_at": "2024-03-02T17:50:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-71121/"
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-88347/"
+        },
+        {
+          "starts_at": "2024-03-02T20:50:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-88354/"
         }
       ]
     },
@@ -496,11 +340,6 @@
       "synopsis": "The life of Olfa, a Tunisian woman and mother of four daughters, oscillates between light and shadow. One day, her two eldest daughters disappear. To fill their absence, director Kaouther Ben Hania calls upon professional actors and sets up an extraordinary film mechanism to unveil the story of Olfa and her family.\n\nAn intimate journey full of hope, rebellion, violence, intergenerational transmission and sisterhood, which will question the very foundation of our societies.\n",
       "runtime": 108,
       "times": [
-        {
-          "starts_at": "2024-03-02T14:40:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-22812/"
-        },
         {
           "starts_at": "2024-03-02T21:00:00+00:00",
           "site": "Curzon Camden",
