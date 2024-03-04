@@ -7,11 +7,6 @@
       "runtime": 167,
       "times": [
         {
-          "starts_at": "2024-03-04T19:20:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-47227/"
-        },
-        {
           "starts_at": "2024-03-04T20:40:00+00:00",
           "site": "Curzon Aldgate",
           "url": "https://www.curzon.com/ticketing/seats/ALD1-47226/"
@@ -22,34 +17,14 @@
           "url": "https://www.curzon.com/ticketing/seats/SOH1-43493/"
         },
         {
-          "starts_at": "2024-03-04T19:20:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-70717/"
-        },
-        {
           "starts_at": "2024-03-04T20:40:00+00:00",
           "site": "Curzon Victoria",
           "url": "https://www.curzon.com/ticketing/seats/VIC1-70716/"
         },
         {
-          "starts_at": "2024-03-04T20:20:00+00:00",
-          "site": "Curzon Mayfair",
-          "url": "https://www.curzon.com/ticketing/seats/MAY1-26219/"
-        },
-        {
           "starts_at": "2024-03-04T20:30:00+00:00",
           "site": "Curzon Hoxton",
           "url": "https://www.curzon.com/ticketing/seats/HOX1-14936/"
-        },
-        {
-          "starts_at": "2024-03-04T19:20:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-22869/"
-        },
-        {
-          "starts_at": "2024-03-04T20:20:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-22472/"
         },
         {
           "starts_at": "2024-03-04T20:30:00+00:00",
@@ -83,11 +58,6 @@
           "url": "https://www.curzon.com/ticketing/seats/ALD1-47582/"
         },
         {
-          "starts_at": "2024-03-04T18:50:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-71066/"
-        },
-        {
           "starts_at": "2024-03-04T21:00:00+00:00",
           "site": "Curzon Mayfair",
           "url": "https://www.curzon.com/ticketing/seats/MAY1-26220/"
@@ -116,11 +86,6 @@
           "url": "https://www.curzon.com/ticketing/seats/HOX1-15262/"
         },
         {
-          "starts_at": "2024-03-04T19:40:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-22876/"
-        },
-        {
           "starts_at": "2024-03-04T21:00:00+00:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-88380/"
@@ -139,11 +104,6 @@
           "url": "https://www.curzon.com/ticketing/seats/SOH1-43747/"
         },
         {
-          "starts_at": "2024-03-04T20:20:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-71065/"
-        },
-        {
           "starts_at": "2024-03-04T21:10:00+00:00",
           "site": "Curzon Hoxton",
           "url": "https://www.curzon.com/ticketing/seats/HOX1-15261/"
@@ -152,24 +112,6 @@
           "starts_at": "2024-03-04T20:40:00+00:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-22875/"
-        },
-        {
-          "starts_at": "2024-03-04T20:20:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-88384/"
-        }
-      ]
-    },
-    {
-      "title": "National Theatre Live: Vanya",
-      "trailer": "https://www.youtube.com/watch?v=9cp3Sm2kiqE",
-      "synopsis": "Andrew Scott (Fleabag) brings multiple characters to life in Simon Stephens’ (The Curious Incident of the Dog in the Night-Time) radical new version of Chekhov’s Uncle Vanya.\nHopes, dreams, and regrets are thrust into sharp focus in this one-man adaptation which explores the complexities of human emotions.\nFilmed live during its sold-out run in London’s West End, Vanya will be playing exclusively in cinemas in 2024.",
-      "runtime": 117,
-      "times": [
-        {
-          "starts_at": "2024-03-04T18:30:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-71133/"
         }
       ]
     },
@@ -183,29 +125,6 @@
           "starts_at": "2024-03-04T21:30:00+00:00",
           "site": "Curzon Victoria",
           "url": "https://www.curzon.com/ticketing/seats/VIC1-71056/"
-        }
-      ]
-    },
-    {
-      "title": "The Zone of Interest",
-      "trailer": null,
-      "synopsis": "The commandant of Auschwitz, Rudolf Höss, and his wife Hedwig, strive to build a dream life for their family in a house and garden next to the camp.",
-      "runtime": 105,
-      "times": [
-        {
-          "starts_at": "2024-03-04T18:40:00+00:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-15255/"
-        },
-        {
-          "starts_at": "2024-03-04T18:40:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-88383/"
-        },
-        {
-          "starts_at": "2024-03-04T21:10:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-88385/"
         }
       ]
     },
@@ -245,6 +164,19 @@
           "starts_at": "2024-03-04T20:50:00+00:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-88374/"
+        }
+      ]
+    },
+    {
+      "title": "The Zone of Interest",
+      "trailer": null,
+      "synopsis": "The commandant of Auschwitz, Rudolf Höss, and his wife Hedwig, strive to build a dream life for their family in a house and garden next to the camp.",
+      "runtime": 105,
+      "times": [
+        {
+          "starts_at": "2024-03-04T21:10:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-88385/"
         }
       ]
     }
@@ -2250,6 +2182,16 @@
           "url": "https://www.curzon.com/ticketing/seats/ALD1-47617/"
         },
         {
+          "starts_at": "2024-03-08T11:30:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-71160/"
+        },
+        {
+          "starts_at": "2024-03-08T17:40:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-71154/"
+        },
+        {
           "starts_at": "2024-03-08T13:20:00+00:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-22959/"
@@ -2286,6 +2228,31 @@
           "starts_at": "2024-03-08T17:40:00+00:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-22923/"
+        },
+        {
+          "starts_at": "2024-03-08T11:10:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-88493/"
+        },
+        {
+          "starts_at": "2024-03-08T13:40:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-88477/"
+        },
+        {
+          "starts_at": "2024-03-08T16:15:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-88483/"
+        },
+        {
+          "starts_at": "2024-03-08T18:40:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-88490/"
+        },
+        {
+          "starts_at": "2024-03-08T21:10:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-88487/"
         }
       ]
     },
@@ -2366,6 +2333,11 @@
           "url": "https://www.curzon.com/ticketing/seats/VIC1-71144/"
         },
         {
+          "starts_at": "2024-03-08T14:00:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-71159/"
+        },
+        {
           "starts_at": "2024-03-08T15:40:00+00:00",
           "site": "Curzon Victoria",
           "url": "https://www.curzon.com/ticketing/seats/VIC1-71135/"
@@ -2374,6 +2346,11 @@
           "starts_at": "2024-03-08T17:00:00+00:00",
           "site": "Curzon Victoria",
           "url": "https://www.curzon.com/ticketing/seats/VIC1-71143/"
+        },
+        {
+          "starts_at": "2024-03-08T18:00:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-71151/"
         },
         {
           "starts_at": "2024-03-08T19:20:00+00:00",
@@ -2449,6 +2426,21 @@
           "starts_at": "2024-03-08T20:20:00+00:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-22917/"
+        },
+        {
+          "starts_at": "2024-03-08T13:30:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-88454/"
+        },
+        {
+          "starts_at": "2024-03-08T17:00:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-88455/"
+        },
+        {
+          "starts_at": "2024-03-08T20:30:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-88456/"
         }
       ]
     },
@@ -2474,6 +2466,16 @@
           "url": "https://www.curzon.com/ticketing/seats/SOH1-43817/"
         },
         {
+          "starts_at": "2024-03-08T12:40:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-71158/"
+        },
+        {
+          "starts_at": "2024-03-08T18:20:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-71156/"
+        },
+        {
           "starts_at": "2024-03-08T12:15:00+00:00",
           "site": "Curzon Mayfair",
           "url": "https://www.curzon.com/ticketing/seats/MAY1-26255/"
@@ -2487,6 +2489,26 @@
           "starts_at": "2024-03-08T18:40:00+00:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-22953/"
+        },
+        {
+          "starts_at": "2024-03-08T12:20:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-88479/"
+        },
+        {
+          "starts_at": "2024-03-08T15:10:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-88486/"
+        },
+        {
+          "starts_at": "2024-03-08T18:00:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-88482/"
+        },
+        {
+          "starts_at": "2024-03-08T20:50:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-88489/"
         }
       ]
     },
@@ -2505,6 +2527,11 @@
           "starts_at": "2024-03-08T20:40:00+00:00",
           "site": "Curzon Aldgate",
           "url": "https://www.curzon.com/ticketing/seats/ALD1-47536/"
+        },
+        {
+          "starts_at": "2024-03-08T14:50:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-71153/"
         },
         {
           "starts_at": "2024-03-08T20:40:00+00:00",
@@ -2533,6 +2560,16 @@
           "starts_at": "2024-03-08T11:30:00+00:00",
           "site": "Curzon Soho",
           "url": "https://www.curzon.com/ticketing/seats/SOH1-43779/"
+        },
+        {
+          "starts_at": "2024-03-08T12:20:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-71161/"
+        },
+        {
+          "starts_at": "2024-03-08T11:00:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-88494/"
         }
       ]
     },
@@ -2546,6 +2583,16 @@
           "starts_at": "2024-03-08T11:50:00+00:00",
           "site": "Curzon Soho",
           "url": "https://www.curzon.com/ticketing/seats/SOH1-43851/"
+        },
+        {
+          "starts_at": "2024-03-08T12:00:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-88484/"
+        },
+        {
+          "starts_at": "2024-03-08T17:40:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-88480/"
         }
       ]
     },
@@ -2566,6 +2613,16 @@
           "url": "https://www.curzon.com/ticketing/seats/SOH1-43813/"
         },
         {
+          "starts_at": "2024-03-08T15:20:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-71157/"
+        },
+        {
+          "starts_at": "2024-03-08T21:00:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-71155/"
+        },
+        {
           "starts_at": "2024-03-08T21:00:00+00:00",
           "site": "Curzon Hoxton",
           "url": "https://www.curzon.com/ticketing/seats/HOX1-15335/"
@@ -2579,6 +2636,26 @@
           "starts_at": "2024-03-08T21:00:00+00:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-22924/"
+        },
+        {
+          "starts_at": "2024-03-08T12:30:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-88478/"
+        },
+        {
+          "starts_at": "2024-03-08T15:20:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-88485/"
+        },
+        {
+          "starts_at": "2024-03-08T18:10:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-88481/"
+        },
+        {
+          "starts_at": "2024-03-08T21:00:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-88488/"
         }
       ]
     },
@@ -2592,6 +2669,19 @@
           "starts_at": "2024-03-08T15:50:00+00:00",
           "site": "Curzon Soho",
           "url": "https://www.curzon.com/ticketing/seats/SOH1-43818/"
+        }
+      ]
+    },
+    {
+      "title": "Bob Marley: One Love",
+      "trailer": "https://www.youtube.com/watch?v=g4BRwGpG9UA",
+      "synopsis": "BOB MARLEY: ONE LOVE celebrates the life and music of an icon who inspired generations through his message of love and unity. On the big screen for the first time, discover Bob’s powerful story of overcoming adversity and the journey behind his revolutionary music. Produced in partnership with the Marley family and starring Kingsley Ben-Adir as the legendary musician and Lashana Lynch as his wife Rita.",
+      "runtime": 104,
+      "times": [
+        {
+          "starts_at": "2024-03-08T21:30:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-71152/"
         }
       ]
     },
@@ -2678,6 +2768,37 @@
       ]
     },
     {
+      "title": "The Holdovers",
+      "trailer": "https://www.youtube.com/watch?v=E24snz6SwMQ",
+      "synopsis": "From acclaimed director Alexander Payne, The Holdovers follows a curmudgeonly teacher (Paul Giamatti) at a New England prep school who is forced to remain on campus during the holidays to babysit the handful of students with nowhere to go. Eventually he forms an unlikely bond with one of them -- a damaged, brainy troublemaker (newcomer Dominic Sessa) -- and with the school’s head cook, who lost a son in Vietnam (Da’Vine Joy Randolph). With outstanding critical acclaim, The Holdovers is now the winner of 2 Golden Globes for Best Actor (Comedy) for Paul Giamatti and Best Supporting Actress for Da’Vine Joy Randolph.",
+      "runtime": 133,
+      "times": [
+        {
+          "starts_at": "2024-03-08T14:40:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-88492/"
+        }
+      ]
+    },
+    {
+      "title": "DocHouse: COPA 71",
+      "trailer": null,
+      "synopsis": "It's August 1971, 20 years before the first official FIFA Women's World Cup, and a monumental, unofficial football tournament takes place in Mexico City, drawing national women's teams to compete from across the globe. Press, TV and thousands of fans flock to the Azteca Stadium for a tense and glorious tournament - the Copa 71.\r\n\r\nDismissed by both FIFA and domestic football associations around the world, this event has been written out of sporting history.\r\n\r\nTold by the pioneering players who participated in Mexico, and filled with tremendous archive footage unseen for fifty years, Copa 71 is a lively retelling of the highs and lows of this groundbreaking championship.",
+      "runtime": 91,
+      "times": [
+        {
+          "starts_at": "2024-03-08T15:00:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-88613/"
+        },
+        {
+          "starts_at": "2024-03-08T20:40:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-87959/"
+        }
+      ]
+    },
+    {
       "title": "DocHouse: High & Low: John Galliano",
       "trailer": null,
       "synopsis": "Widely recognized as one of the most influential and successful fashion designers of our time, John Galliano dressed the most beautiful and influential men and women in the world for almost 15 years at Givenchy and Dior.\r\n\r\nIn 2011, his career abruptly ended after he was captured on video using shocking, abusive, antisemitic and racist insults. Director Kevin Macdonald investigates the multiple facets and contradictions of John Galliano’s character, and the decades of industry pressure and drug and alcohol addiction that surrounded his downfall.\r\n\r\nFeaturing conversations with Naomi Campbell, Kate Moss, Penelope Cruz, Charlize Theron, Anna Wintour, Edward Enninful, Boris Cyrulnik, Hamish Bowles and Sidney Toledano, among others, High & Low: John Galliano explores culpability, cancellation and questions who society 'cancels' and who gets granted a second chance.",
@@ -2691,15 +2812,15 @@
       ]
     },
     {
-      "title": "DocHouse: COPA 71",
-      "trailer": null,
-      "synopsis": "It's August 1971, 20 years before the first official FIFA Women's World Cup, and a monumental, unofficial football tournament takes place in Mexico City, drawing national women's teams to compete from across the globe. Press, TV and thousands of fans flock to the Azteca Stadium for a tense and glorious tournament - the Copa 71.\r\n\r\nDismissed by both FIFA and domestic football associations around the world, this event has been written out of sporting history.\r\n\r\nTold by the pioneering players who participated in Mexico, and filled with tremendous archive footage unseen for fifty years, Copa 71 is a lively retelling of the highs and lows of this groundbreaking championship.",
-      "runtime": 91,
+      "title": "Do Not Expect Too Much From the End of the World",
+      "trailer": "https://www.youtube.com/watch?v=107BDD11YcY",
+      "synopsis": "An overworked and underpaid production assistant has to shoot a workplace safety video commissioned by a multinational company. But an interviewee makes a statement that forces him to re-invent his story to suit the company's narrative.",
+      "runtime": 163,
       "times": [
         {
-          "starts_at": "2024-03-08T20:40:00+00:00",
+          "starts_at": "2024-03-08T20:20:00+00:00",
           "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-87959/"
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-88491/"
         }
       ]
     }
@@ -2720,6 +2841,16 @@
           "starts_at": "2024-03-09T21:30:00+00:00",
           "site": "Curzon Aldgate",
           "url": "https://www.curzon.com/ticketing/seats/ALD1-47657/"
+        },
+        {
+          "starts_at": "2024-03-09T14:30:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-71174/"
+        },
+        {
+          "starts_at": "2024-03-09T17:40:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-71171/"
         },
         {
           "starts_at": "2024-03-09T13:20:00+00:00",
@@ -2763,6 +2894,26 @@
           "starts_at": "2024-03-09T17:40:00+00:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-22934/"
+        },
+        {
+          "starts_at": "2024-03-09T11:00:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-88499/"
+        },
+        {
+          "starts_at": "2024-03-09T16:15:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-88496/"
+        },
+        {
+          "starts_at": "2024-03-09T18:40:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-88501/"
+        },
+        {
+          "starts_at": "2024-03-09T21:10:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-88503/"
         }
       ]
     },
@@ -2838,14 +2989,34 @@
           "url": "https://www.curzon.com/ticketing/seats/VIC1-71137/"
         },
         {
+          "starts_at": "2024-03-09T14:00:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-71164/"
+        },
+        {
           "starts_at": "2024-03-09T15:40:00+00:00",
           "site": "Curzon Victoria",
           "url": "https://www.curzon.com/ticketing/seats/VIC1-71138/"
         },
         {
+          "starts_at": "2024-03-09T17:00:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-71173/"
+        },
+        {
+          "starts_at": "2024-03-09T18:00:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-71170/"
+        },
+        {
           "starts_at": "2024-03-09T19:20:00+00:00",
           "site": "Curzon Victoria",
           "url": "https://www.curzon.com/ticketing/seats/VIC1-71139/"
+        },
+        {
+          "starts_at": "2024-03-09T20:20:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-71172/"
         },
         {
           "starts_at": "2024-03-09T11:00:00+00:00",
@@ -2911,6 +3082,21 @@
           "starts_at": "2024-03-09T20:20:00+00:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-22932/"
+        },
+        {
+          "starts_at": "2024-03-09T13:20:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-88463/"
+        },
+        {
+          "starts_at": "2024-03-09T16:50:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-88462/"
+        },
+        {
+          "starts_at": "2024-03-09T20:20:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-88461/"
         }
       ]
     },
@@ -2924,6 +3110,11 @@
           "starts_at": "2024-03-09T13:00:00+00:00",
           "site": "Curzon Aldgate",
           "url": "https://www.curzon.com/ticketing/seats/ALD1-47713/"
+        },
+        {
+          "starts_at": "2024-03-09T13:00:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-71263/"
         },
         {
           "starts_at": "2024-03-09T16:20:00+00:00",
@@ -2957,6 +3148,11 @@
           "starts_at": "2024-03-09T20:40:00+00:00",
           "site": "Curzon Aldgate",
           "url": "https://www.curzon.com/ticketing/seats/ALD1-47621/"
+        },
+        {
+          "starts_at": "2024-03-09T14:50:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-71163/"
         },
         {
           "starts_at": "2024-03-09T20:40:00+00:00",
@@ -2997,6 +3193,11 @@
           "url": "https://www.curzon.com/ticketing/seats/SOH1-43819/"
         },
         {
+          "starts_at": "2024-03-09T18:20:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-71169/"
+        },
+        {
           "starts_at": "2024-03-09T14:45:00+00:00",
           "site": "Curzon Mayfair",
           "url": "https://www.curzon.com/ticketing/seats/MAY1-26291/"
@@ -3010,6 +3211,26 @@
           "starts_at": "2024-03-09T18:40:00+00:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-22966/"
+        },
+        {
+          "starts_at": "2024-03-09T12:20:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-88498/"
+        },
+        {
+          "starts_at": "2024-03-09T15:10:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-88504/"
+        },
+        {
+          "starts_at": "2024-03-09T18:10:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-88497/"
+        },
+        {
+          "starts_at": "2024-03-09T21:00:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-88502/"
         }
       ]
     },
@@ -3023,6 +3244,16 @@
           "starts_at": "2024-03-09T11:20:00+00:00",
           "site": "Curzon Soho",
           "url": "https://www.curzon.com/ticketing/seats/SOH1-43822/"
+        },
+        {
+          "starts_at": "2024-03-09T12:20:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-71166/"
+        },
+        {
+          "starts_at": "2024-03-09T10:50:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-88508/"
         }
       ]
     },
@@ -3043,6 +3274,16 @@
           "url": "https://www.curzon.com/ticketing/seats/SOH1-43783/"
         },
         {
+          "starts_at": "2024-03-09T15:20:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-71162/"
+        },
+        {
+          "starts_at": "2024-03-09T21:00:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-71168/"
+        },
+        {
           "starts_at": "2024-03-09T16:20:00+00:00",
           "site": "Curzon Hoxton",
           "url": "https://www.curzon.com/ticketing/seats/HOX1-15330/"
@@ -3056,6 +3297,26 @@
           "starts_at": "2024-03-09T21:00:00+00:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-22930/"
+        },
+        {
+          "starts_at": "2024-03-09T11:15:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-88465/"
+        },
+        {
+          "starts_at": "2024-03-09T13:30:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-88507/"
+        },
+        {
+          "starts_at": "2024-03-09T17:40:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-88505/"
+        },
+        {
+          "starts_at": "2024-03-09T20:30:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-88506/"
         }
       ]
     },
@@ -3082,6 +3343,37 @@
           "starts_at": "2024-03-09T11:00:00+00:00",
           "site": "Curzon Victoria",
           "url": "https://www.curzon.com/ticketing/seats/VIC1-71149/"
+        }
+      ]
+    },
+    {
+      "title": "Red Island",
+      "trailer": null,
+      "synopsis": "Robin Campillo, director of the acclaimed 120 BPM and Eastern Boys, mines the memories of his upbringing in post-colonial Madagascar to create a spellbinding, autobiographically inspired drama that mixes forms and textures to stunning and imaginative effect. ",
+      "runtime": 117,
+      "times": [
+        {
+          "starts_at": "2024-03-09T11:40:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-71175/"
+        },
+        {
+          "starts_at": "2024-03-09T15:00:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-88495/"
+        }
+      ]
+    },
+    {
+      "title": "Bob Marley: One Love",
+      "trailer": "https://www.youtube.com/watch?v=g4BRwGpG9UA",
+      "synopsis": "BOB MARLEY: ONE LOVE celebrates the life and music of an icon who inspired generations through his message of love and unity. On the big screen for the first time, discover Bob’s powerful story of overcoming adversity and the journey behind his revolutionary music. Produced in partnership with the Marley family and starring Kingsley Ben-Adir as the legendary musician and Lashana Lynch as his wife Rita.",
+      "runtime": 104,
+      "times": [
+        {
+          "starts_at": "2024-03-09T21:30:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-71167/"
         }
       ]
     },
@@ -3181,15 +3473,15 @@
       ]
     },
     {
-      "title": "DocHouse: COPA 71",
-      "trailer": null,
-      "synopsis": "It's August 1971, 20 years before the first official FIFA Women's World Cup, and a monumental, unofficial football tournament takes place in Mexico City, drawing national women's teams to compete from across the globe. Press, TV and thousands of fans flock to the Azteca Stadium for a tense and glorious tournament - the Copa 71.\r\n\r\nDismissed by both FIFA and domestic football associations around the world, this event has been written out of sporting history.\r\n\r\nTold by the pioneering players who participated in Mexico, and filled with tremendous archive footage unseen for fifty years, Copa 71 is a lively retelling of the highs and lows of this groundbreaking championship.",
-      "runtime": 91,
+      "title": "Do Not Expect Too Much From the End of the World",
+      "trailer": "https://www.youtube.com/watch?v=107BDD11YcY",
+      "synopsis": "An overworked and underpaid production assistant has to shoot a workplace safety video commissioned by a multinational company. But an interviewee makes a statement that forces him to re-invent his story to suit the company's narrative.",
+      "runtime": 163,
       "times": [
         {
-          "starts_at": "2024-03-09T18:20:00+00:00",
+          "starts_at": "2024-03-09T11:30:00+00:00",
           "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-87962/"
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-88500/"
         }
       ]
     },
@@ -3200,9 +3492,45 @@
       "runtime": 116,
       "times": [
         {
+          "starts_at": "2024-03-09T12:00:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-88614/"
+        },
+        {
           "starts_at": "2024-03-09T20:10:00+00:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-88323/"
+        }
+      ]
+    },
+    {
+      "title": "DocHouse: COPA 71",
+      "trailer": null,
+      "synopsis": "It's August 1971, 20 years before the first official FIFA Women's World Cup, and a monumental, unofficial football tournament takes place in Mexico City, drawing national women's teams to compete from across the globe. Press, TV and thousands of fans flock to the Azteca Stadium for a tense and glorious tournament - the Copa 71.\r\n\r\nDismissed by both FIFA and domestic football associations around the world, this event has been written out of sporting history.\r\n\r\nTold by the pioneering players who participated in Mexico, and filled with tremendous archive footage unseen for fifty years, Copa 71 is a lively retelling of the highs and lows of this groundbreaking championship.",
+      "runtime": 91,
+      "times": [
+        {
+          "starts_at": "2024-03-09T14:20:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-88615/"
+        },
+        {
+          "starts_at": "2024-03-09T18:20:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-87962/"
+        }
+      ]
+    },
+    {
+      "title": "DocHouse: Four Daughters",
+      "trailer": null,
+      "synopsis": "Formally inventive and strikingly astute, this Oscar-nominated hybrid explores the life of Tunisian mother Olfa and her four daughters. While the younger two are present to re-enact scenes from their family history, the disappearance of the older two from the family home becomes the central burning question around which the narrative spirals.\r\n\r\nThe two missing sisters will be played by professional actors in staged reconstructions, guided by Olfa and her younger girls, and multi-award-winning Tunisian-Egyptian actor Hend Sabri steps into Olfa's shoes, and into the narrative.\r\n\r\nAs bonds form between the family members and the actors, director Kaouther Ben Hania sets up an extraordinary film mechanism to unveil the story of Olfa and her family.\r\n\r\n\r\nAn intimate journey full of hope, rebellion, violence, intergenerational transmission and sisterhood, which will question the very foundation of our societies. ",
+      "runtime": 110,
+      "times": [
+        {
+          "starts_at": "2024-03-09T16:10:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-88616/"
         }
       ]
     }
@@ -3223,6 +3551,16 @@
           "starts_at": "2024-03-10T15:20:00+00:00",
           "site": "Curzon Aldgate",
           "url": "https://www.curzon.com/ticketing/seats/ALD1-47662/"
+        },
+        {
+          "starts_at": "2024-03-10T11:15:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-71176/"
+        },
+        {
+          "starts_at": "2024-03-10T17:20:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-71178/"
         },
         {
           "starts_at": "2024-03-10T14:15:00+00:00",
@@ -3261,6 +3599,31 @@
           "starts_at": "2024-03-10T21:00:00+00:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-22943/"
+        },
+        {
+          "starts_at": "2024-03-10T10:40:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-88525/"
+        },
+        {
+          "starts_at": "2024-03-10T13:10:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-88513/"
+        },
+        {
+          "starts_at": "2024-03-10T15:45:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-88519/"
+        },
+        {
+          "starts_at": "2024-03-10T18:10:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-88528/"
+        },
+        {
+          "starts_at": "2024-03-10T20:40:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-88515/"
         }
       ]
     },
@@ -3336,14 +3699,39 @@
           "url": "https://www.curzon.com/ticketing/seats/VIC1-71140/"
         },
         {
+          "starts_at": "2024-03-10T13:00:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-71183/"
+        },
+        {
+          "starts_at": "2024-03-10T13:40:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-71182/"
+        },
+        {
           "starts_at": "2024-03-10T15:20:00+00:00",
           "site": "Curzon Victoria",
           "url": "https://www.curzon.com/ticketing/seats/VIC1-71141/"
         },
         {
+          "starts_at": "2024-03-10T16:40:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-71179/"
+        },
+        {
+          "starts_at": "2024-03-10T17:40:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-71177/"
+        },
+        {
           "starts_at": "2024-03-10T19:00:00+00:00",
           "site": "Curzon Victoria",
           "url": "https://www.curzon.com/ticketing/seats/VIC1-71142/"
+        },
+        {
+          "starts_at": "2024-03-10T20:00:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-71188/"
         },
         {
           "starts_at": "2024-03-10T12:00:00+00:00",
@@ -3409,6 +3797,21 @@
           "starts_at": "2024-03-10T20:00:00+00:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-22945/"
+        },
+        {
+          "starts_at": "2024-03-10T13:00:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-88510/"
+        },
+        {
+          "starts_at": "2024-03-10T16:30:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-88509/"
+        },
+        {
+          "starts_at": "2024-03-10T20:00:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-88511/"
         }
       ]
     },
@@ -3452,6 +3855,11 @@
           "url": "https://www.curzon.com/ticketing/seats/ALD1-47625/"
         },
         {
+          "starts_at": "2024-03-10T14:30:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-71181/"
+        },
+        {
           "starts_at": "2024-03-10T20:20:00+00:00",
           "site": "Curzon Victoria",
           "url": "https://www.curzon.com/ticketing/seats/VIC1-71148/"
@@ -3485,6 +3893,16 @@
           "url": "https://www.curzon.com/ticketing/seats/SOH1-43825/"
         },
         {
+          "starts_at": "2024-03-10T12:20:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-71184/"
+        },
+        {
+          "starts_at": "2024-03-10T18:00:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-71189/"
+        },
+        {
           "starts_at": "2024-03-10T14:15:00+00:00",
           "site": "Curzon Mayfair",
           "url": "https://www.curzon.com/ticketing/seats/MAY1-26257/"
@@ -3503,6 +3921,26 @@
           "starts_at": "2024-03-10T18:00:00+00:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-22969/"
+        },
+        {
+          "starts_at": "2024-03-10T11:50:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-88523/"
+        },
+        {
+          "starts_at": "2024-03-10T14:40:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-88516/"
+        },
+        {
+          "starts_at": "2024-03-10T17:30:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-88520/"
+        },
+        {
+          "starts_at": "2024-03-10T20:10:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-88529/"
         }
       ]
     },
@@ -3516,6 +3954,16 @@
           "starts_at": "2024-03-10T10:40:00+00:00",
           "site": "Curzon Soho",
           "url": "https://www.curzon.com/ticketing/seats/SOH1-43852/"
+        },
+        {
+          "starts_at": "2024-03-10T11:30:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-88518/"
+        },
+        {
+          "starts_at": "2024-03-10T17:10:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-88522/"
         }
       ]
     },
@@ -3554,6 +4002,16 @@
           "url": "https://www.curzon.com/ticketing/seats/SOH1-43796/"
         },
         {
+          "starts_at": "2024-03-10T15:00:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-71180/"
+        },
+        {
+          "starts_at": "2024-03-10T20:40:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-71187/"
+        },
+        {
           "starts_at": "2024-03-10T20:40:00+00:00",
           "site": "Curzon Hoxton",
           "url": "https://www.curzon.com/ticketing/seats/HOX1-15341/"
@@ -3567,6 +4025,26 @@
           "starts_at": "2024-03-10T20:40:00+00:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-22947/"
+        },
+        {
+          "starts_at": "2024-03-10T12:00:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-88512/"
+        },
+        {
+          "starts_at": "2024-03-10T14:50:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-88517/"
+        },
+        {
+          "starts_at": "2024-03-10T17:40:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-88521/"
+        },
+        {
+          "starts_at": "2024-03-10T20:30:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-88514/"
         }
       ]
     },
@@ -3580,6 +4058,29 @@
           "starts_at": "2024-03-10T16:20:00+00:00",
           "site": "Curzon Soho",
           "url": "https://www.curzon.com/ticketing/seats/SOH1-43797/"
+        },
+        {
+          "starts_at": "2024-03-10T12:00:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-71185/"
+        },
+        {
+          "starts_at": "2024-03-10T10:30:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-88524/"
+        }
+      ]
+    },
+    {
+      "title": "Bob Marley: One Love",
+      "trailer": "https://www.youtube.com/watch?v=g4BRwGpG9UA",
+      "synopsis": "BOB MARLEY: ONE LOVE celebrates the life and music of an icon who inspired generations through his message of love and unity. On the big screen for the first time, discover Bob’s powerful story of overcoming adversity and the journey behind his revolutionary music. Produced in partnership with the Marley family and starring Kingsley Ben-Adir as the legendary musician and Lashana Lynch as his wife Rita.",
+      "runtime": 104,
+      "times": [
+        {
+          "starts_at": "2024-03-10T21:10:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-71186/"
         }
       ]
     },
@@ -3648,6 +4149,45 @@
       ]
     },
     {
+      "title": "DocHouse: Frida",
+      "trailer": null,
+      "synopsis": "An intimately raw and magical journey through the life, mind, and heart of iconic artist Frida Kahlo, Frida is told through her own words for the very first time, drawn from her famed illustrated diary, revealing letters, essays, and candid print interviews — and brought vividly to life by lyrical animation inspired by her unforgettable artwork. The feature film directorial debut of acclaimed editor Carla Gutiérrez (RBG, La Corona), Frida posits a striking context as to why the artist – and her art -- remains as powerful as ever. \r\n\r\n\r\n\r\nCovering more than 40 years of her life, the filmmakers received unrestricted access to research materials, much never shown to the general public before. What is extraordinary about Kahlo's life and art is how her images would galvanize multiple generations of admirers worldwide, doing more than solidifying her status as a modern artist of timeless import. \r\n\r\n\r\n\r\nAn intensive journey spanning two years, Gutiérrez and her formidable team of artisans, most of whom are women and proudly Latine, gathered together to craft a singular cinematic experience that could be no ordinary art history lesson. A living portrait emboldened by the magical realism befitting Kahlo's remarkable life emerges. Yet, her voice ultimately stands supreme, a complex and powerful sound of a multitude of Fridas: fearless, seductive, defiant, vulnerable, raucous, and wonderfully alive.",
+      "runtime": 87,
+      "times": [
+        {
+          "starts_at": "2024-03-10T12:15:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-88617/"
+        }
+      ]
+    },
+    {
+      "title": "DocHouse: Four Daughters",
+      "trailer": null,
+      "synopsis": "Formally inventive and strikingly astute, this Oscar-nominated hybrid explores the life of Tunisian mother Olfa and her four daughters. While the younger two are present to re-enact scenes from their family history, the disappearance of the older two from the family home becomes the central burning question around which the narrative spirals.\r\n\r\nThe two missing sisters will be played by professional actors in staged reconstructions, guided by Olfa and her younger girls, and multi-award-winning Tunisian-Egyptian actor Hend Sabri steps into Olfa's shoes, and into the narrative.\r\n\r\nAs bonds form between the family members and the actors, director Kaouther Ben Hania sets up an extraordinary film mechanism to unveil the story of Olfa and her family.\r\n\r\n\r\nAn intimate journey full of hope, rebellion, violence, intergenerational transmission and sisterhood, which will question the very foundation of our societies. ",
+      "runtime": 110,
+      "times": [
+        {
+          "starts_at": "2024-03-10T14:00:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-88618/"
+        }
+      ]
+    },
+    {
+      "title": "The Holdovers",
+      "trailer": "https://www.youtube.com/watch?v=E24snz6SwMQ",
+      "synopsis": "From acclaimed director Alexander Payne, The Holdovers follows a curmudgeonly teacher (Paul Giamatti) at a New England prep school who is forced to remain on campus during the holidays to babysit the handful of students with nowhere to go. Eventually he forms an unlikely bond with one of them -- a damaged, brainy troublemaker (newcomer Dominic Sessa) -- and with the school’s head cook, who lost a son in Vietnam (Da’Vine Joy Randolph). With outstanding critical acclaim, The Holdovers is now the winner of 2 Golden Globes for Best Actor (Comedy) for Paul Giamatti and Best Supporting Actress for Da’Vine Joy Randolph.",
+      "runtime": 133,
+      "times": [
+        {
+          "starts_at": "2024-03-10T14:10:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-88526/"
+        }
+      ]
+    },
+    {
       "title": "DocHouse: COPA 71",
       "trailer": null,
       "synopsis": "It's August 1971, 20 years before the first official FIFA Women's World Cup, and a monumental, unofficial football tournament takes place in Mexico City, drawing national women's teams to compete from across the globe. Press, TV and thousands of fans flock to the Azteca Stadium for a tense and glorious tournament - the Copa 71.\r\n\r\nDismissed by both FIFA and domestic football associations around the world, this event has been written out of sporting history.\r\n\r\nTold by the pioneering players who participated in Mexico, and filled with tremendous archive footage unseen for fifty years, Copa 71 is a lively retelling of the highs and lows of this groundbreaking championship.",
@@ -3677,6 +4217,19 @@
           "url": "https://www.curzon.com/ticketing/seats/BLO1-87958/"
         }
       ]
+    },
+    {
+      "title": "Do Not Expect Too Much From the End of the World",
+      "trailer": "https://www.youtube.com/watch?v=107BDD11YcY",
+      "synopsis": "An overworked and underpaid production assistant has to shoot a workplace safety video commissioned by a multinational company. But an interviewee makes a statement that forces him to re-invent his story to suit the company's narrative.",
+      "runtime": 163,
+      "times": [
+        {
+          "starts_at": "2024-03-10T19:50:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-88527/"
+        }
+      ]
     }
   ],
   "2024-03-11": [
@@ -3695,6 +4248,16 @@
           "starts_at": "2024-03-11T21:30:00+00:00",
           "site": "Curzon Aldgate",
           "url": "https://www.curzon.com/ticketing/seats/ALD1-47677/"
+        },
+        {
+          "starts_at": "2024-03-11T11:30:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-71195/"
+        },
+        {
+          "starts_at": "2024-03-11T17:40:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-71201/"
         },
         {
           "starts_at": "2024-03-11T13:40:00+00:00",
@@ -3733,6 +4296,31 @@
           "starts_at": "2024-03-11T17:40:00+00:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-22977/"
+        },
+        {
+          "starts_at": "2024-03-11T11:10:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-88546/"
+        },
+        {
+          "starts_at": "2024-03-11T13:40:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-88535/"
+        },
+        {
+          "starts_at": "2024-03-11T16:15:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-88542/"
+        },
+        {
+          "starts_at": "2024-03-11T18:40:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-88549/"
+        },
+        {
+          "starts_at": "2024-03-11T21:20:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-88538/"
         }
       ]
     },
@@ -3798,6 +4386,46 @@
           "url": "https://www.curzon.com/ticketing/seats/SOH1-43690/"
         },
         {
+          "starts_at": "2024-03-11T12:00:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-71194/"
+        },
+        {
+          "starts_at": "2024-03-11T13:20:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-71191/"
+        },
+        {
+          "starts_at": "2024-03-11T14:00:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-71190/"
+        },
+        {
+          "starts_at": "2024-03-11T15:40:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-71203/"
+        },
+        {
+          "starts_at": "2024-03-11T17:00:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-71202/"
+        },
+        {
+          "starts_at": "2024-03-11T18:00:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-71200/"
+        },
+        {
+          "starts_at": "2024-03-11T19:20:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-71198/"
+        },
+        {
+          "starts_at": "2024-03-11T20:20:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-71197/"
+        },
+        {
           "starts_at": "2024-03-11T12:45:00+00:00",
           "site": "Curzon Mayfair",
           "url": "https://www.curzon.com/ticketing/seats/MAY1-26275/"
@@ -3851,6 +4479,21 @@
           "starts_at": "2024-03-11T19:20:00+00:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-22987/"
+        },
+        {
+          "starts_at": "2024-03-11T13:30:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-88532/"
+        },
+        {
+          "starts_at": "2024-03-11T17:00:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-88531/"
+        },
+        {
+          "starts_at": "2024-03-11T20:30:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-88530/"
         }
       ]
     },
@@ -3881,6 +4524,16 @@
           "url": "https://www.curzon.com/ticketing/seats/SOH1-43838/"
         },
         {
+          "starts_at": "2024-03-11T12:40:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-71192/"
+        },
+        {
+          "starts_at": "2024-03-11T18:20:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-71199/"
+        },
+        {
           "starts_at": "2024-03-11T12:30:00+00:00",
           "site": "Curzon Mayfair",
           "url": "https://www.curzon.com/ticketing/seats/MAY1-26276/"
@@ -3904,6 +4557,26 @@
           "starts_at": "2024-03-11T18:40:00+00:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-22989/"
+        },
+        {
+          "starts_at": "2024-03-11T12:20:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-88533/"
+        },
+        {
+          "starts_at": "2024-03-11T15:10:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-88539/"
+        },
+        {
+          "starts_at": "2024-03-11T18:00:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-88543/"
+        },
+        {
+          "starts_at": "2024-03-11T21:10:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-88536/"
         }
       ]
     },
@@ -3922,6 +4595,16 @@
           "starts_at": "2024-03-11T20:40:00+00:00",
           "site": "Curzon Aldgate",
           "url": "https://www.curzon.com/ticketing/seats/ALD1-47629/"
+        },
+        {
+          "starts_at": "2024-03-11T14:50:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-71205/"
+        },
+        {
+          "starts_at": "2024-03-11T20:40:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-71196/"
         },
         {
           "starts_at": "2024-03-11T14:40:00+00:00",
@@ -3950,6 +4633,11 @@
           "starts_at": "2024-03-11T12:00:00+00:00",
           "site": "Curzon Hoxton",
           "url": "https://www.curzon.com/ticketing/seats/HOX1-15379/"
+        },
+        {
+          "starts_at": "2024-03-11T15:40:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-88541/"
         }
       ]
     },
@@ -3965,6 +4653,16 @@
           "url": "https://www.curzon.com/ticketing/seats/SOH1-43841/"
         },
         {
+          "starts_at": "2024-03-11T15:20:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-71204/"
+        },
+        {
+          "starts_at": "2024-03-11T21:00:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-71207/"
+        },
+        {
           "starts_at": "2024-03-11T16:30:00+00:00",
           "site": "Curzon Hoxton",
           "url": "https://www.curzon.com/ticketing/seats/HOX1-15351/"
@@ -3978,6 +4676,26 @@
           "starts_at": "2024-03-11T21:00:00+00:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-22985/"
+        },
+        {
+          "starts_at": "2024-03-11T12:30:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-88534/"
+        },
+        {
+          "starts_at": "2024-03-11T15:20:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-88540/"
+        },
+        {
+          "starts_at": "2024-03-11T18:10:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-88544/"
+        },
+        {
+          "starts_at": "2024-03-11T21:00:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-88537/"
         }
       ]
     },
@@ -3991,6 +4709,16 @@
           "starts_at": "2024-03-11T15:00:00+00:00",
           "site": "Curzon Soho",
           "url": "https://www.curzon.com/ticketing/seats/SOH1-43842/"
+        },
+        {
+          "starts_at": "2024-03-11T12:20:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-71193/"
+        },
+        {
+          "starts_at": "2024-03-11T11:00:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-88545/"
         }
       ]
     },
@@ -4004,6 +4732,11 @@
           "starts_at": "2024-03-11T17:40:00+00:00",
           "site": "Curzon Soho",
           "url": "https://www.curzon.com/ticketing/seats/SOH1-43871/"
+        },
+        {
+          "starts_at": "2024-03-11T20:50:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-88547/"
         }
       ]
     },
@@ -4035,6 +4768,19 @@
           "starts_at": "2024-03-11T20:20:00+00:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-23052/"
+        }
+      ]
+    },
+    {
+      "title": "Bob Marley: One Love",
+      "trailer": "https://www.youtube.com/watch?v=g4BRwGpG9UA",
+      "synopsis": "BOB MARLEY: ONE LOVE celebrates the life and music of an icon who inspired generations through his message of love and unity. On the big screen for the first time, discover Bob’s powerful story of overcoming adversity and the journey behind his revolutionary music. Produced in partnership with the Marley family and starring Kingsley Ben-Adir as the legendary musician and Lashana Lynch as his wife Rita.",
+      "runtime": 104,
+      "times": [
+        {
+          "starts_at": "2024-03-11T21:30:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-71206/"
         }
       ]
     },
@@ -4117,6 +4863,55 @@
           "starts_at": "2024-03-11T16:40:00+00:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-22991/"
+        }
+      ]
+    },
+    {
+      "title": "Do Not Expect Too Much From the End of the World",
+      "trailer": "https://www.youtube.com/watch?v=107BDD11YcY",
+      "synopsis": "An overworked and underpaid production assistant has to shoot a workplace safety video commissioned by a multinational company. But an interviewee makes a statement that forces him to re-invent his story to suit the company's narrative.",
+      "runtime": 163,
+      "times": [
+        {
+          "starts_at": "2024-03-11T12:00:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-88548/"
+        }
+      ]
+    },
+    {
+      "title": "DocHouse: COPA 71",
+      "trailer": null,
+      "synopsis": "It's August 1971, 20 years before the first official FIFA Women's World Cup, and a monumental, unofficial football tournament takes place in Mexico City, drawing national women's teams to compete from across the globe. Press, TV and thousands of fans flock to the Azteca Stadium for a tense and glorious tournament - the Copa 71.\r\n\r\nDismissed by both FIFA and domestic football associations around the world, this event has been written out of sporting history.\r\n\r\nTold by the pioneering players who participated in Mexico, and filled with tremendous archive footage unseen for fifty years, Copa 71 is a lively retelling of the highs and lows of this groundbreaking championship.",
+      "runtime": 91,
+      "times": [
+        {
+          "starts_at": "2024-03-11T14:00:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-88619/"
+        },
+        {
+          "starts_at": "2024-03-11T18:30:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-88621/"
+        }
+      ]
+    },
+    {
+      "title": "DocHouse: High & Low: John Galliano",
+      "trailer": null,
+      "synopsis": "Widely recognized as one of the most influential and successful fashion designers of our time, John Galliano dressed the most beautiful and influential men and women in the world for almost 15 years at Givenchy and Dior.\r\n\r\nIn 2011, his career abruptly ended after he was captured on video using shocking, abusive, antisemitic and racist insults. Director Kevin Macdonald investigates the multiple facets and contradictions of John Galliano’s character, and the decades of industry pressure and drug and alcohol addiction that surrounded his downfall.\r\n\r\nFeaturing conversations with Naomi Campbell, Kate Moss, Penelope Cruz, Charlize Theron, Anna Wintour, Edward Enninful, Boris Cyrulnik, Hamish Bowles and Sidney Toledano, among others, High & Low: John Galliano explores culpability, cancellation and questions who society 'cancels' and who gets granted a second chance.",
+      "runtime": 116,
+      "times": [
+        {
+          "starts_at": "2024-03-11T16:00:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-88620/"
+        },
+        {
+          "starts_at": "2024-03-11T20:20:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-88622/"
         }
       ]
     },
