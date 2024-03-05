@@ -7,11 +7,6 @@
       "runtime": 167,
       "times": [
         {
-          "starts_at": "2024-03-05T19:20:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-47233/"
-        },
-        {
           "starts_at": "2024-03-05T20:40:00+00:00",
           "site": "Curzon Aldgate",
           "url": "https://www.curzon.com/ticketing/seats/ALD1-47232/"
@@ -22,34 +17,9 @@
           "url": "https://www.curzon.com/ticketing/seats/SOH1-43495/"
         },
         {
-          "starts_at": "2024-03-05T19:20:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-71092/"
-        },
-        {
-          "starts_at": "2024-03-05T20:20:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-71090/"
-        },
-        {
-          "starts_at": "2024-03-05T20:20:00+00:00",
-          "site": "Curzon Mayfair",
-          "url": "https://www.curzon.com/ticketing/seats/MAY1-26224/"
-        },
-        {
           "starts_at": "2024-03-05T20:30:00+00:00",
           "site": "Curzon Hoxton",
           "url": "https://www.curzon.com/ticketing/seats/HOX1-14939/"
-        },
-        {
-          "starts_at": "2024-03-05T19:20:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-22880/"
-        },
-        {
-          "starts_at": "2024-03-05T20:20:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-22480/"
         },
         {
           "starts_at": "2024-03-05T20:30:00+00:00",
@@ -70,21 +40,6 @@
           "url": "https://www.curzon.com/ticketing/seats/ALD1-47569/"
         },
         {
-          "starts_at": "2024-03-05T18:30:00+00:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-43750/"
-        },
-        {
-          "starts_at": "2024-03-05T18:40:00+00:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-15264/"
-        },
-        {
-          "starts_at": "2024-03-05T18:40:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-88401/"
-        },
-        {
           "starts_at": "2024-03-05T21:10:00+00:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-88403/"
@@ -101,11 +56,6 @@
           "starts_at": "2024-03-05T21:30:00+00:00",
           "site": "Curzon Aldgate",
           "url": "https://www.curzon.com/ticketing/seats/ALD1-47566/"
-        },
-        {
-          "starts_at": "2024-03-05T18:50:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-71093/"
         },
         {
           "starts_at": "2024-03-05T21:15:00+00:00",
@@ -198,24 +148,6 @@
           "starts_at": "2024-03-05T20:40:00+00:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-22886/"
-        },
-        {
-          "starts_at": "2024-03-05T20:20:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-88402/"
-        }
-      ]
-    },
-    {
-      "title": "Driving Mum",
-      "trailer": null,
-      "synopsis": "The death of Jon's mother forces him to take on a journey with her corpse in the backseat to fulfill her last wish. Bresnef the dog comes along and this trip will be the gamechanger Jon never dreamt of.",
-      "runtime": 112,
-      "times": [
-        {
-          "starts_at": "2024-03-05T19:40:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-22912/"
         }
       ]
     },
@@ -768,11 +700,6 @@
           "starts_at": "2024-03-06T15:00:00+00:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-88415/"
-        },
-        {
-          "starts_at": "2024-03-06T17:50:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-88411/"
         },
         {
           "starts_at": "2024-03-06T21:00:00+00:00",
