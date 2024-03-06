@@ -7,11 +7,6 @@
       "runtime": 167,
       "times": [
         {
-          "starts_at": "2024-03-06T19:40:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-47588/"
-        },
-        {
           "starts_at": "2024-03-06T20:40:00+00:00",
           "site": "Curzon Aldgate",
           "url": "https://www.curzon.com/ticketing/seats/ALD1-47587/"
@@ -22,39 +17,14 @@
           "url": "https://www.curzon.com/ticketing/seats/SOH1-43497/"
         },
         {
-          "starts_at": "2024-03-06T19:20:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-70723/"
-        },
-        {
           "starts_at": "2024-03-06T20:40:00+00:00",
           "site": "Curzon Victoria",
           "url": "https://www.curzon.com/ticketing/seats/VIC1-70722/"
         },
         {
-          "starts_at": "2024-03-06T20:20:00+00:00",
-          "site": "Curzon Mayfair",
-          "url": "https://www.curzon.com/ticketing/seats/MAY1-26231/"
-        },
-        {
           "starts_at": "2024-03-06T20:30:00+00:00",
           "site": "Curzon Hoxton",
           "url": "https://www.curzon.com/ticketing/seats/HOX1-14942/"
-        },
-        {
-          "starts_at": "2024-03-06T19:20:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-22891/"
-        },
-        {
-          "starts_at": "2024-03-06T20:20:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-22488/"
-        },
-        {
-          "starts_at": "2024-03-06T20:30:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-87946/"
         }
       ]
     },
@@ -116,11 +86,6 @@
           "url": "https://www.curzon.com/ticketing/seats/HOX1-15280/"
         },
         {
-          "starts_at": "2024-03-06T19:40:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-22897/"
-        },
-        {
           "starts_at": "2024-03-06T21:00:00+00:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-88416/"
@@ -139,11 +104,6 @@
           "url": "https://www.curzon.com/ticketing/seats/SOH1-43763/"
         },
         {
-          "starts_at": "2024-03-06T20:20:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-71077/"
-        },
-        {
           "starts_at": "2024-03-06T21:10:00+00:00",
           "site": "Curzon Hoxton",
           "url": "https://www.curzon.com/ticketing/seats/HOX1-15279/"
@@ -152,47 +112,6 @@
           "starts_at": "2024-03-06T20:40:00+00:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-22896/"
-        },
-        {
-          "starts_at": "2024-03-06T20:20:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-88420/"
-        }
-      ]
-    },
-    {
-      "title": "Red Island",
-      "trailer": null,
-      "synopsis": "Robin Campillo, director of the acclaimed 120 BPM and Eastern Boys, mines the memories of his upbringing in post-colonial Madagascar to create a spellbinding, autobiographically inspired drama that mixes forms and textures to stunning and imaginative effect. ",
-      "runtime": 117,
-      "times": [
-        {
-          "starts_at": "2024-03-06T18:45:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-71111/"
-        },
-        {
-          "starts_at": "2024-03-06T20:50:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-88410/"
-        }
-      ]
-    },
-    {
-      "title": "The Zone of Interest",
-      "trailer": null,
-      "synopsis": "The commandant of Auschwitz, Rudolf Höss, and his wife Hedwig, strive to build a dream life for their family in a house and garden next to the camp.",
-      "runtime": 105,
-      "times": [
-        {
-          "starts_at": "2024-03-06T18:40:00+00:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-15273/"
-        },
-        {
-          "starts_at": "2024-03-06T21:15:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-88421/"
         }
       ]
     },
@@ -219,6 +138,32 @@
           "starts_at": "2024-03-06T20:40:00+00:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-88449/"
+        }
+      ]
+    },
+    {
+      "title": "Red Island",
+      "trailer": null,
+      "synopsis": "Robin Campillo, director of the acclaimed 120 BPM and Eastern Boys, mines the memories of his upbringing in post-colonial Madagascar to create a spellbinding, autobiographically inspired drama that mixes forms and textures to stunning and imaginative effect. ",
+      "runtime": 117,
+      "times": [
+        {
+          "starts_at": "2024-03-06T20:50:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-88410/"
+        }
+      ]
+    },
+    {
+      "title": "The Zone of Interest",
+      "trailer": null,
+      "synopsis": "The commandant of Auschwitz, Rudolf Höss, and his wife Hedwig, strive to build a dream life for their family in a house and garden next to the camp.",
+      "runtime": 105,
+      "times": [
+        {
+          "starts_at": "2024-03-06T21:15:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-88421/"
         }
       ]
     }
