@@ -27,11 +27,6 @@
           "url": "https://www.curzon.com/ticketing/seats/VIC1-71077/"
         },
         {
-          "starts_at": "2024-03-06T12:00:00+00:00",
-          "site": "Curzon Mayfair",
-          "url": "https://www.curzon.com/ticketing/seats/MAY1-26235/"
-        },
-        {
           "starts_at": "2024-03-06T17:40:00+00:00",
           "site": "Curzon Mayfair",
           "url": "https://www.curzon.com/ticketing/seats/MAY1-26232/"
@@ -50,11 +45,6 @@
           "starts_at": "2024-03-06T20:40:00+00:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-22896/"
-        },
-        {
-          "starts_at": "2024-03-06T11:20:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-88423/"
         },
         {
           "starts_at": "2024-03-06T14:50:00+00:00",
@@ -100,19 +90,9 @@
           "url": "https://www.curzon.com/ticketing/seats/HOX1-15273/"
         },
         {
-          "starts_at": "2024-03-06T12:20:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-22894/"
-        },
-        {
           "starts_at": "2024-03-06T17:00:00+00:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-22898/"
-        },
-        {
-          "starts_at": "2024-03-06T11:00:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-88417/"
         },
         {
           "starts_at": "2024-03-06T14:20:00+00:00",
@@ -148,11 +128,6 @@
           "url": "https://www.curzon.com/ticketing/seats/ALD1-47593/"
         },
         {
-          "starts_at": "2024-03-06T11:10:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-71067/"
-        },
-        {
           "starts_at": "2024-03-06T13:40:00+00:00",
           "site": "Curzon Victoria",
           "url": "https://www.curzon.com/ticketing/seats/VIC1-71072/"
@@ -171,16 +146,6 @@
           "starts_at": "2024-03-06T21:00:00+00:00",
           "site": "Curzon Mayfair",
           "url": "https://www.curzon.com/ticketing/seats/MAY1-26230/"
-        },
-        {
-          "starts_at": "2024-03-06T11:10:00+00:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-15281/"
-        },
-        {
-          "starts_at": "2024-03-06T11:40:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-22892/"
         }
       ]
     },
@@ -221,11 +186,6 @@
           "url": "https://www.curzon.com/ticketing/seats/ALD1-47587/"
         },
         {
-          "starts_at": "2024-03-06T11:40:00+00:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-43766/"
-        },
-        {
           "starts_at": "2024-03-06T13:40:00+00:00",
           "site": "Curzon Soho",
           "url": "https://www.curzon.com/ticketing/seats/SOH1-43706/"
@@ -239,11 +199,6 @@
           "starts_at": "2024-03-06T20:30:00+00:00",
           "site": "Curzon Soho",
           "url": "https://www.curzon.com/ticketing/seats/SOH1-43497/"
-        },
-        {
-          "starts_at": "2024-03-06T12:00:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-70719/"
         },
         {
           "starts_at": "2024-03-06T13:20:00+00:00",
@@ -286,11 +241,6 @@
           "url": "https://www.curzon.com/ticketing/seats/MAY1-26231/"
         },
         {
-          "starts_at": "2024-03-06T11:40:00+00:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-15278/"
-        },
-        {
           "starts_at": "2024-03-06T13:30:00+00:00",
           "site": "Curzon Hoxton",
           "url": "https://www.curzon.com/ticketing/seats/HOX1-14940/"
@@ -304,16 +254,6 @@
           "starts_at": "2024-03-06T20:30:00+00:00",
           "site": "Curzon Hoxton",
           "url": "https://www.curzon.com/ticketing/seats/HOX1-14942/"
-        },
-        {
-          "starts_at": "2024-03-06T11:00:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-22486/"
-        },
-        {
-          "starts_at": "2024-03-06T12:00:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-22899/"
         },
         {
           "starts_at": "2024-03-06T14:00:00+00:00",
@@ -399,87 +339,6 @@
       ]
     },
     {
-      "title": "All Of Us Strangers",
-      "trailer": "https://www.youtube.com/watch?v=naDbwsI-T8A",
-      "synopsis": "One night in his near-empty tower block in contemporary London, Adam (Andrew Scott) has a chance encounter with a mysterious neighbor Harry (Paul Mescal), which punctures the rhythm of his everyday life. As a relationship develops between them, Adam is preoccupied with memories of the past and finds himself drawn back to the suburban town where he grew up, and the childhood home where his parents (Claire Foy and Jamie Bell), appear to be living, just as they were on the day they died, 30 years before.",
-      "runtime": 105,
-      "times": [
-        {
-          "starts_at": "2024-03-06T11:10:00+00:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-43755/"
-        }
-      ]
-    },
-    {
-      "title": "Red Island",
-      "trailer": null,
-      "synopsis": "Robin Campillo, director of the acclaimed 120 BPM and Eastern Boys, mines the memories of his upbringing in post-colonial Madagascar to create a spellbinding, autobiographically inspired drama that mixes forms and textures to stunning and imaginative effect. ",
-      "runtime": 117,
-      "times": [
-        {
-          "starts_at": "2024-03-06T12:15:00+00:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-43743/"
-        },
-        {
-          "starts_at": "2024-03-06T18:10:00+00:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-43742/"
-        },
-        {
-          "starts_at": "2024-03-06T12:40:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-71073/"
-        },
-        {
-          "starts_at": "2024-03-06T18:45:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-71111/"
-        },
-        {
-          "starts_at": "2024-03-06T12:40:00+00:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-15277/"
-        },
-        {
-          "starts_at": "2024-03-06T18:10:00+00:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-15274/"
-        },
-        {
-          "starts_at": "2024-03-06T11:20:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-22485/"
-        },
-        {
-          "starts_at": "2024-03-06T17:40:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-22490/"
-        },
-        {
-          "starts_at": "2024-03-06T12:30:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-88409/"
-        },
-        {
-          "starts_at": "2024-03-06T15:20:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-88408/"
-        },
-        {
-          "starts_at": "2024-03-06T18:10:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-88407/"
-        },
-        {
-          "starts_at": "2024-03-06T20:50:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-88410/"
-        }
-      ]
-    },
-    {
       "title": "Perfect Days",
       "trailer": null,
       "synopsis": "A highly anticipated return to fiction feature filmmaking from Wim Wenders (Paris, Texas, Wings of Desire), PERFECT DAYS takes the writer-director to Tokyo to tell a story celebrating the hidden joys and minutiae of Japanese culture. Winner of the Best Actor award at Cannes 2023, Koji Yakusho (Babel, 13 Assassins) stars as Hirayama, a contemplative middle-aged man who lives a life of modesty and serenity, spending his days balancing his job as a dutiful caretaker of Tokyo’s numerous public toilets with his passion for music, literature and photography. As we join him on his structured daily routine, a series of unexpected encounters gradually begin to reveal a hidden past that lies behind his otherwise content and harmonious life. \n\nCombining a refreshingly unstereotypical depiction of the Japanese capital with a soundtrack comprised of iconic hits from the 60s and 80s, this is a subtle, shimmering and ultimately life-affirming reflection on finding beauty in the everyday world around us. Japan’s entry for Best International Film at the 2024 Academy Awards.\n",
@@ -526,11 +385,6 @@
           "url": "https://www.curzon.com/ticketing/seats/CAM1-22897/"
         },
         {
-          "starts_at": "2024-03-06T12:00:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-88412/"
-        },
-        {
           "starts_at": "2024-03-06T15:00:00+00:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-88415/"
@@ -556,15 +410,60 @@
       ]
     },
     {
-      "title": "Bob Marley: One Love",
-      "trailer": "https://www.youtube.com/watch?v=g4BRwGpG9UA",
-      "synopsis": "BOB MARLEY: ONE LOVE celebrates the life and music of an icon who inspired generations through his message of love and unity. On the big screen for the first time, discover Bob’s powerful story of overcoming adversity and the journey behind his revolutionary music. Produced in partnership with the Marley family and starring Kingsley Ben-Adir as the legendary musician and Lashana Lynch as his wife Rita.",
-      "runtime": 104,
+      "title": "Red Island",
+      "trailer": null,
+      "synopsis": "Robin Campillo, director of the acclaimed 120 BPM and Eastern Boys, mines the memories of his upbringing in post-colonial Madagascar to create a spellbinding, autobiographically inspired drama that mixes forms and textures to stunning and imaginative effect. ",
+      "runtime": 117,
       "times": [
         {
-          "starts_at": "2024-03-06T12:20:00+00:00",
+          "starts_at": "2024-03-06T18:10:00+00:00",
+          "site": "Curzon Soho",
+          "url": "https://www.curzon.com/ticketing/seats/SOH1-43742/"
+        },
+        {
+          "starts_at": "2024-03-06T12:40:00+00:00",
           "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-71074/"
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-71073/"
+        },
+        {
+          "starts_at": "2024-03-06T18:45:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-71111/"
+        },
+        {
+          "starts_at": "2024-03-06T12:40:00+00:00",
+          "site": "Curzon Hoxton",
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-15277/"
+        },
+        {
+          "starts_at": "2024-03-06T18:10:00+00:00",
+          "site": "Curzon Hoxton",
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-15274/"
+        },
+        {
+          "starts_at": "2024-03-06T17:40:00+00:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-22490/"
+        },
+        {
+          "starts_at": "2024-03-06T12:30:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-88409/"
+        },
+        {
+          "starts_at": "2024-03-06T15:20:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-88408/"
+        },
+        {
+          "starts_at": "2024-03-06T18:10:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-88407/"
+        },
+        {
+          "starts_at": "2024-03-06T20:50:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-88410/"
         }
       ]
     },
@@ -578,11 +477,6 @@
           "starts_at": "2024-03-06T14:40:00+00:00",
           "site": "Curzon Mayfair",
           "url": "https://www.curzon.com/ticketing/seats/MAY1-26233/"
-        },
-        {
-          "starts_at": "2024-03-06T11:40:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-88422/"
         }
       ]
     },
@@ -614,19 +508,6 @@
           "starts_at": "2024-03-06T15:10:00+00:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-88448/"
-        }
-      ]
-    },
-    {
-      "title": "DocHouse: Frida",
-      "trailer": null,
-      "synopsis": "An intimately raw and magical journey through the life, mind, and heart of iconic artist Frida Kahlo, Frida is told through her own words for the very first time, drawn from her famed illustrated diary, revealing letters, essays, and candid print interviews — and brought vividly to life by lyrical animation inspired by her unforgettable artwork. The feature film directorial debut of acclaimed editor Carla Gutiérrez (RBG, La Corona), Frida posits a striking context as to why the artist – and her art -- remains as powerful as ever. \r\n\r\n\r\n\r\nCovering more than 40 years of her life, the filmmakers received unrestricted access to research materials, much never shown to the general public before. What is extraordinary about Kahlo's life and art is how her images would galvanize multiple generations of admirers worldwide, doing more than solidifying her status as a modern artist of timeless import. \r\n\r\n\r\n\r\nAn intensive journey spanning two years, Gutiérrez and her formidable team of artisans, most of whom are women and proudly Latine, gathered together to craft a singular cinematic experience that could be no ordinary art history lesson. A living portrait emboldened by the magical realism befitting Kahlo's remarkable life emerges. Yet, her voice ultimately stands supreme, a complex and powerful sound of a multitude of Fridas: fearless, seductive, defiant, vulnerable, raucous, and wonderfully alive.",
-      "runtime": 87,
-      "times": [
-        {
-          "starts_at": "2024-03-06T18:20:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-88154/"
         }
       ]
     },
