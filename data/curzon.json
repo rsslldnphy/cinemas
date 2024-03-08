@@ -7,21 +7,6 @@
       "runtime": 167,
       "times": [
         {
-          "starts_at": "2024-03-08T15:40:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-47542/"
-        },
-        {
-          "starts_at": "2024-03-08T17:00:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-47538/"
-        },
-        {
-          "starts_at": "2024-03-08T18:00:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-47614/"
-        },
-        {
           "starts_at": "2024-03-08T19:20:00+00:00",
           "site": "Curzon Aldgate",
           "url": "https://www.curzon.com/ticketing/seats/ALD1-47540/"
@@ -30,11 +15,6 @@
           "starts_at": "2024-03-08T20:20:00+00:00",
           "site": "Curzon Aldgate",
           "url": "https://www.curzon.com/ticketing/seats/ALD1-47537/"
-        },
-        {
-          "starts_at": "2024-03-08T17:40:00+00:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-43770/"
         },
         {
           "starts_at": "2024-03-08T19:00:00+00:00",
@@ -47,21 +27,6 @@
           "url": "https://www.curzon.com/ticketing/seats/SOH1-43773/"
         },
         {
-          "starts_at": "2024-03-08T15:40:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-71135/"
-        },
-        {
-          "starts_at": "2024-03-08T17:00:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-71143/"
-        },
-        {
-          "starts_at": "2024-03-08T18:00:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-71151/"
-        },
-        {
           "starts_at": "2024-03-08T19:20:00+00:00",
           "site": "Curzon Victoria",
           "url": "https://www.curzon.com/ticketing/seats/VIC1-71136/"
@@ -72,34 +37,14 @@
           "url": "https://www.curzon.com/ticketing/seats/VIC1-71145/"
         },
         {
-          "starts_at": "2024-03-08T16:40:00+00:00",
-          "site": "Curzon Mayfair",
-          "url": "https://www.curzon.com/ticketing/seats/MAY1-26248/"
-        },
-        {
           "starts_at": "2024-03-08T20:15:00+00:00",
           "site": "Curzon Mayfair",
           "url": "https://www.curzon.com/ticketing/seats/MAY1-26247/"
         },
         {
-          "starts_at": "2024-03-08T16:00:00+00:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-15293/"
-        },
-        {
-          "starts_at": "2024-03-08T17:00:00+00:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-15336/"
-        },
-        {
           "starts_at": "2024-03-08T19:40:00+00:00",
           "site": "Curzon Hoxton",
           "url": "https://www.curzon.com/ticketing/seats/HOX1-15294/"
-        },
-        {
-          "starts_at": "2024-03-08T17:20:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-22916/"
         },
         {
           "starts_at": "2024-03-08T19:00:00+00:00",
@@ -112,52 +57,9 @@
           "url": "https://www.curzon.com/ticketing/seats/CAM1-22917/"
         },
         {
-          "starts_at": "2024-03-08T17:00:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-88455/"
-        },
-        {
           "starts_at": "2024-03-08T20:30:00+00:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-88456/"
-        }
-      ]
-    },
-    {
-      "title": "American Fiction",
-      "trailer": "https://www.youtube.com/watch?v=e8YghfAsgpU",
-      "synopsis": "AMERICAN FICTION is Cord Jefferson's hilarious directorial debut, which confronts our culture’s obsession with reducing people to outrageous stereotypes. Jeffrey Wright stars as Monk, a frustrated novelist who’s fed up with the establishment profiting from “Black” entertainment that relies on tired and offensive tropes. To prove his point, Monk uses a pen name to write an outlandish “Black” book of his own, a book that propels him to the heart of hypocrisy and the madness he claims to disdain.",
-      "runtime": 117,
-      "times": [
-        {
-          "starts_at": "2024-03-08T17:40:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-47616/"
-        },
-        {
-          "starts_at": "2024-03-08T21:10:00+00:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-43817/"
-        },
-        {
-          "starts_at": "2024-03-08T18:20:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-71156/"
-        },
-        {
-          "starts_at": "2024-03-08T18:40:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-22953/"
-        },
-        {
-          "starts_at": "2024-03-08T18:00:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-88482/"
-        },
-        {
-          "starts_at": "2024-03-08T20:50:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-88489/"
         }
       ]
     },
@@ -196,21 +98,6 @@
           "url": "https://www.curzon.com/ticketing/seats/ALD1-47620/"
         },
         {
-          "starts_at": "2024-03-08T15:40:00+00:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-15320/"
-        },
-        {
-          "starts_at": "2024-03-08T17:40:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-22923/"
-        },
-        {
-          "starts_at": "2024-03-08T16:15:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-88483/"
-        },
-        {
           "starts_at": "2024-03-08T18:40:00+00:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-88490/"
@@ -223,15 +110,25 @@
       ]
     },
     {
-      "title": "Poor Things",
-      "trailer": "https://www.youtube.com/watch?v=-EfYJWRw2FM",
-      "synopsis": "From filmmaker Yorgos Lanthimos and producer Emma Stone comes the incredible tale and fantastical evolution of Bella Baxter (Stone), a young woman brought back to life by the brilliant and unorthodox scientist Dr. Godwin Baxter (Dafoe).",
-      "runtime": 142,
+      "title": "American Fiction",
+      "trailer": "https://www.youtube.com/watch?v=e8YghfAsgpU",
+      "synopsis": "AMERICAN FICTION is Cord Jefferson's hilarious directorial debut, which confronts our culture’s obsession with reducing people to outrageous stereotypes. Jeffrey Wright stars as Monk, a frustrated novelist who’s fed up with the establishment profiting from “Black” entertainment that relies on tired and offensive tropes. To prove his point, Monk uses a pen name to write an outlandish “Black” book of his own, a book that propels him to the heart of hypocrisy and the madness he claims to disdain.",
+      "runtime": 117,
       "times": [
         {
-          "starts_at": "2024-03-08T15:50:00+00:00",
+          "starts_at": "2024-03-08T21:10:00+00:00",
           "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-43818/"
+          "url": "https://www.curzon.com/ticketing/seats/SOH1-43817/"
+        },
+        {
+          "starts_at": "2024-03-08T18:40:00+00:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-22953/"
+        },
+        {
+          "starts_at": "2024-03-08T20:50:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-88489/"
         }
       ]
     },
@@ -241,11 +138,6 @@
       "synopsis": "A highly anticipated return to fiction feature filmmaking from Wim Wenders (Paris, Texas, Wings of Desire), PERFECT DAYS takes the writer-director to Tokyo to tell a story celebrating the hidden joys and minutiae of Japanese culture. Winner of the Best Actor award at Cannes 2023, Koji Yakusho (Babel, 13 Assassins) stars as Hirayama, a contemplative middle-aged man who lives a life of modesty and serenity, spending his days balancing his job as a dutiful caretaker of Tokyo’s numerous public toilets with his passion for music, literature and photography. As we join him on his structured daily routine, a series of unexpected encounters gradually begin to reveal a hidden past that lies behind his otherwise content and harmonious life. \n\nCombining a refreshingly unstereotypical depiction of the Japanese capital with a soundtrack comprised of iconic hits from the 60s and 80s, this is a subtle, shimmering and ultimately life-affirming reflection on finding beauty in the everyday world around us. Japan’s entry for Best International Film at the 2024 Academy Awards.\n",
       "runtime": 125,
       "times": [
-        {
-          "starts_at": "2024-03-08T17:20:00+00:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-43813/"
-        },
         {
           "starts_at": "2024-03-08T21:00:00+00:00",
           "site": "Curzon Victoria",
@@ -269,19 +161,6 @@
       ]
     },
     {
-      "title": "Wicked Little Letters",
-      "trailer": "https://www.youtube.com/watch?v=fgqQvmbP-UU",
-      "synopsis": "A 1920s English seaside town bears witness to a dark and absurd scandal in this riotous mystery comedy. Based on a stranger than fiction true story, WICKED LITTLE LETTERS follows two neighbours: deeply conservative local Edith Swan (Olivia Colman) and rowdy Irish migrant Rose Gooding (Jessie Buckley). When Edith and fellow residents begin to receive wicked letters full of unintentionally hilarious profanities, foulmouthed Rose is charged with the crime. The anonymous letters prompt a national uproar, and a trial ensues. However, as the town's women - led by Police Officer Gladys Moss (Anjana Vasan) - begin to investigate the crime themselves, they suspect that something is amiss, and Rose may not be the culprit after all.",
-      "runtime": 100,
-      "times": [
-        {
-          "starts_at": "2024-03-08T17:40:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-71154/"
-        }
-      ]
-    },
-    {
       "title": "Bob Marley: One Love",
       "trailer": "https://www.youtube.com/watch?v=g4BRwGpG9UA",
       "synopsis": "BOB MARLEY: ONE LOVE celebrates the life and music of an icon who inspired generations through his message of love and unity. On the big screen for the first time, discover Bob’s powerful story of overcoming adversity and the journey behind his revolutionary music. Produced in partnership with the Marley family and starring Kingsley Ben-Adir as the legendary musician and Lashana Lynch as his wife Rita.",
@@ -295,19 +174,6 @@
       ]
     },
     {
-      "title": "Tomorrow's Freedom",
-      "trailer": null,
-      "synopsis": "Marwan Barghouti is serving five life sentences in Israeli prison; Tomorrow’s Freedom captures his story, and the tireless spirit of a people fighting for justice.  \r\n\r\nOver 5 years, Georgia and Sophia Scott followed the family of imprisoned Palestinian political leader and Nobel Peace Prize nominee, Marwan Barghouti. The resulting film shares the struggles of his hunger strikes, brought on by harsh prison conditions and the desire to make a stand. The film also shows painful prison visits, often ending with the family being turned away at the last moment.  \r\n \r\nA collage of interviews with the people who know him best, Tomorrow's Freedom paints a powerful portrait of a man who may one day lead the Palestinian people.",
-      "runtime": 98,
-      "times": [
-        {
-          "starts_at": "2024-03-08T18:20:00+00:00",
-          "site": "Curzon Mayfair",
-          "url": "https://www.curzon.com/ticketing/seats/MAY1-26085/"
-        }
-      ]
-    },
-    {
       "title": "High & Low - John Galliano",
       "trailer": null,
       "synopsis": "HIGH & LOW - JOHN GALLIANO is the gripping and thought-provoking new documentary from Academy Award® winner Kevin Macdonald, charting the rise-and-fall story of fashion designer John Galliano. Galliano was widely recognized as one of the most successful names in 1990s and 2000s couture, until his career abruptly ended when he was caught on camera in 2011 hurling antisemitic and racist insults at bystanders in Paris. Macdonald’s compelling documentary traces Galliano’s working and private life through the decades, candidly investigating his struggles with addiction and the industry pressure he faced along the way. Featuring conversations with Naomi Campbell, Kate Moss, Penelope Cruz, Charlize Theron, Anna Wintour, Edward Enninful and more.",
@@ -317,29 +183,6 @@
           "starts_at": "2024-03-08T21:10:00+00:00",
           "site": "Curzon Mayfair",
           "url": "https://www.curzon.com/ticketing/seats/MAY1-26246/"
-        },
-        {
-          "starts_at": "2024-03-08T18:20:00+00:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-15316/"
-        },
-        {
-          "starts_at": "2024-03-08T18:00:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-22919/"
-        }
-      ]
-    },
-    {
-      "title": "Four Daughters",
-      "trailer": "https://www.youtube.com/watch?v=36th41-rdb8",
-      "synopsis": "The life of Olfa, a Tunisian woman and mother of four daughters, oscillates between light and shadow. One day, her two eldest daughters disappear. To fill their absence, director Kaouther Ben Hania calls upon professional actors and sets up an extraordinary film mechanism to unveil the story of Olfa and her family.\n\nAn intimate journey full of hope, rebellion, violence, intergenerational transmission and sisterhood, which will question the very foundation of our societies.\n",
-      "runtime": 108,
-      "times": [
-        {
-          "starts_at": "2024-03-08T16:00:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-22958/"
         }
       ]
     },
@@ -350,40 +193,9 @@
       "runtime": 117,
       "times": [
         {
-          "starts_at": "2024-03-08T16:20:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-22955/"
-        },
-        {
           "starts_at": "2024-03-08T21:20:00+00:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-22954/"
-        }
-      ]
-    },
-    {
-      "title": "Red Island",
-      "trailer": null,
-      "synopsis": "Robin Campillo, director of the acclaimed 120 BPM and Eastern Boys, mines the memories of his upbringing in post-colonial Madagascar to create a spellbinding, autobiographically inspired drama that mixes forms and textures to stunning and imaginative effect. ",
-      "runtime": 117,
-      "times": [
-        {
-          "starts_at": "2024-03-08T17:40:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-88480/"
-        }
-      ]
-    },
-    {
-      "title": "DocHouse: High & Low: John Galliano",
-      "trailer": null,
-      "synopsis": "Widely recognized as one of the most influential and successful fashion designers of our time, John Galliano dressed the most beautiful and influential men and women in the world for almost 15 years at Givenchy and Dior.\r\n\r\nIn 2011, his career abruptly ended after he was captured on video using shocking, abusive, antisemitic and racist insults. Director Kevin Macdonald investigates the multiple facets and contradictions of John Galliano’s character, and the decades of industry pressure and drug and alcohol addiction that surrounded his downfall.\r\n\r\nFeaturing conversations with Naomi Campbell, Kate Moss, Penelope Cruz, Charlize Theron, Anna Wintour, Edward Enninful, Boris Cyrulnik, Hamish Bowles and Sidney Toledano, among others, High & Low: John Galliano explores culpability, cancellation and questions who society 'cancels' and who gets granted a second chance.",
-      "runtime": 116,
-      "times": [
-        {
-          "starts_at": "2024-03-08T18:20:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-87957/"
         }
       ]
     },
