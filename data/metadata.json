@@ -102,16 +102,28 @@
     "release_date": "2023-07-05"
   },
   "DocHouse: Frida": {
-    "backdrop": "https://image.tmdb.org/t/p/w500//s04Ds4xbJU7DzeGVyamccH4LoxF.jpg",
-    "poster": "https://image.tmdb.org/t/p/w500//a4hgR6aKoohB6MHni171jbi9BkU.jpg",
-    "overview": "A biography of artist Frida Kahlo, who channeled the pain of a crippling injury and her tempestuous marriage into her work.",
-    "release_date": "2002-08-29"
+    "backdrop": "https://image.tmdb.org/t/p/w500//pF0LGTwMbteQV6PFL4AquYsUAZD.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500//boSFmhkQ9KoGBgsZfTqFpXmZ328.jpg",
+    "overview": "An intimately raw and magical journey through the life, mind, and heart of iconic artist Frida Kahlo. Told through her own words for the very first time — drawn from her diary, revealing letters, essays, and print interviews — and brought vividly to life by lyrical animation inspired by her unforgettable artwork.",
+    "release_date": "2024-03-08"
   },
   "DocHouse: High & Low: John Galliano": {
     "backdrop": "https://image.tmdb.org/t/p/w500//puH2BKhG0bPzK3Oxg4QB93C0i8Y.jpg",
     "poster": "https://image.tmdb.org/t/p/w500//uVT2hnWACWjLC9wGWk50EfW5IF1.jpg",
     "overview": "Fashion designer John Galliano was widely recognized as one of the most successful names in 1990s and 2000s couture, until his career abruptly ended when he was caught on camera in 2011 hurling antisemitic and racist insults at bystanders in Paris.",
     "release_date": "2024-03-08"
+  },
+  "DocHouse: I Heard It Through The Grapevine": {
+    "backdrop": null,
+    "poster": "https://image.tmdb.org/t/p/w500//lJCNvyh2xuJy0a5rQFTTCsuzPEB.jpg",
+    "overview": "Renowned Black writer James Baldwin retraces his time in the South during the Civil Rights Movement, reflecting with his trademark brilliance and insight on the passage of more than two decades. From Selma and Birmingham and Atlanta; to the battleground beaches of St. Augustine, Florida, with Chinua Achebe; and back north for a visit to Newark with Amiri Baraka, Baldwin lays bare the fiction of progress in post–Civil Rights America, wondering “what happened to the children” and those 'who did not die, but whose lives were smashed on Freedom Road'.",
+    "release_date": "1982-03-03"
+  },
+  "DocHouse: Phantom Parrot": {
+    "backdrop": "https://image.tmdb.org/t/p/w500//adnO1xO4ccQgJ3hb6YGVAPAg67r.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500//uwnPA584dp2iilTKnInvbIDWVHN.jpg",
+    "overview": "The revelation of a top-secret British surveillance programme brings down the dominoes in a dark and analytical film about technology, rights and structural racism – and about a man with the courage to speak out.",
+    "release_date": "2024-03-15"
   },
   "Dune: Part Two": {
     "backdrop": "https://image.tmdb.org/t/p/w500//xOMo8BRK7PfcJv9JCnx7s5hj0PX.jpg",
@@ -198,7 +210,7 @@
     "release_date": "2024-02-22"
   },
   "Oppenheimer": {
-    "backdrop": "https://image.tmdb.org/t/p/w500//8ohejkcQkNgkJgLn71Ws6Kd35g0.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w500//fm6KqXpk3M2HVveHwCrBSSBaO0V.jpg",
     "poster": "https://image.tmdb.org/t/p/w500//8Gxv8gSFCU0XGDykEGv7zR1n2ua.jpg",
     "overview": "The story of J. Robert Oppenheimer's role in the development of the atomic bomb during World War II.",
     "release_date": "2023-07-19"
@@ -229,12 +241,12 @@
   },
   "Perfect Days": {
     "backdrop": "https://image.tmdb.org/t/p/w500//ae48U4187XzjJ7En7YTAIz2QKQC.jpg",
-    "poster": "https://image.tmdb.org/t/p/w500//4UyKNimG5VHTcGjOH3z5kJFndLM.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500//mjEk5Wwx6TYVqw29zSaUHclMIgp.jpg",
     "overview": "Hirayama is content with his life as a toilet cleaner in Tokyo. Outside of his structured routine, he cherishes music on cassette tapes, books, and taking photos of trees. Through unexpected encounters, he reflects on finding beauty in the world.",
     "release_date": "2023-11-10"
   },
   "Poor Things": {
-    "backdrop": "https://image.tmdb.org/t/p/w500//bQS43HSLZzMjZkcHJz4fGc7fNdz.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w500//o6e8Y0Q7RZIWi4qcJq4s5OYOVJs.jpg",
     "poster": "https://image.tmdb.org/t/p/w500//kCGlIMHnOm8JPXq3rXM6c5wMxcT.jpg",
     "overview": "Brought back to life by an unorthodox scientist, a young woman runs off with a debauched lawyer on a whirlwind adventure across the continents. Free from the prejudices of her times, she grows steadfast in her purpose to stand for equality and liberation.",
     "release_date": "2023-12-07"
