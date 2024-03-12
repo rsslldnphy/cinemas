@@ -7,11 +7,6 @@
       "runtime": 167,
       "times": [
         {
-          "starts_at": "2024-03-12T13:00:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-47635/"
-        },
-        {
           "starts_at": "2024-03-12T15:40:00+00:00",
           "site": "Curzon Aldgate",
           "url": "https://www.curzon.com/ticketing/seats/ALD1-47693/"
@@ -37,11 +32,6 @@
           "url": "https://www.curzon.com/ticketing/seats/ALD1-47698/"
         },
         {
-          "starts_at": "2024-03-12T14:00:00+00:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-43846/"
-        },
-        {
           "starts_at": "2024-03-12T18:40:00+00:00",
           "site": "Curzon Soho",
           "url": "https://www.curzon.com/ticketing/seats/SOH1-43830/"
@@ -50,16 +40,6 @@
           "starts_at": "2024-03-12T20:20:00+00:00",
           "site": "Curzon Soho",
           "url": "https://www.curzon.com/ticketing/seats/SOH1-43831/"
-        },
-        {
-          "starts_at": "2024-03-12T13:40:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-71209/"
-        },
-        {
-          "starts_at": "2024-03-12T14:00:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-71208/"
         },
         {
           "starts_at": "2024-03-12T15:40:00+00:00",
@@ -82,11 +62,6 @@
           "url": "https://www.curzon.com/ticketing/seats/VIC1-71215/"
         },
         {
-          "starts_at": "2024-03-12T12:45:00+00:00",
-          "site": "Curzon Mayfair",
-          "url": "https://www.curzon.com/ticketing/seats/MAY1-26272/"
-        },
-        {
           "starts_at": "2024-03-12T16:20:00+00:00",
           "site": "Curzon Mayfair",
           "url": "https://www.curzon.com/ticketing/seats/MAY1-26270/"
@@ -95,11 +70,6 @@
           "starts_at": "2024-03-12T20:00:00+00:00",
           "site": "Curzon Mayfair",
           "url": "https://www.curzon.com/ticketing/seats/MAY1-26268/"
-        },
-        {
-          "starts_at": "2024-03-12T13:00:00+00:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-15306/"
         },
         {
           "starts_at": "2024-03-12T17:30:00+00:00",
@@ -117,11 +87,6 @@
           "url": "https://www.curzon.com/ticketing/seats/HOX1-15305/"
         },
         {
-          "starts_at": "2024-03-12T13:40:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-22998/"
-        },
-        {
           "starts_at": "2024-03-12T17:00:00+00:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-23001/"
@@ -132,11 +97,6 @@
           "url": "https://www.curzon.com/ticketing/seats/CAM1-23011/"
         },
         {
-          "starts_at": "2024-03-12T13:30:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-88552/"
-        },
-        {
           "starts_at": "2024-03-12T17:00:00+00:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-88551/"
@@ -145,67 +105,6 @@
           "starts_at": "2024-03-12T20:30:00+00:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-88550/"
-        }
-      ]
-    },
-    {
-      "title": "Origin",
-      "trailer": null,
-      "synopsis": "Written and directed by Academy Award nominee Ava DuVernay, ORIGIN chronicles the tragedy and triumph of Pulitzer Prize winning journalist Isabel Wilkerson as she investigates a global phenomenon of epic proportions. Portrayed by Academy Award nominee Aunjanue Ellis-Taylor (“King Richard”), Isabel experiences unfathomable personal loss and love as she crosses continents and cultures to craft one of the defining American books of our time. Inspired by the New York Times best-seller “Caste,” ORIGIN explores the mystery of history, the wonders of romance and a fight for the future of us all.",
-      "runtime": 141,
-      "times": [
-        {
-          "starts_at": "2024-03-12T14:40:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-47694/"
-        },
-        {
-          "starts_at": "2024-03-12T20:40:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-47633/"
-        },
-        {
-          "starts_at": "2024-03-12T15:20:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-71222/"
-        },
-        {
-          "starts_at": "2024-03-12T21:00:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-71214/"
-        },
-        {
-          "starts_at": "2024-03-12T14:20:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-23000/"
-        },
-        {
-          "starts_at": "2024-03-12T20:20:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-23012/"
-        }
-      ]
-    },
-    {
-      "title": "Wicked Little Letters",
-      "trailer": "https://www.youtube.com/watch?v=fgqQvmbP-UU",
-      "synopsis": "A 1920s English seaside town bears witness to a dark and absurd scandal in this riotous mystery comedy. Based on a stranger than fiction true story, WICKED LITTLE LETTERS follows two neighbours: deeply conservative local Edith Swan (Olivia Colman) and rowdy Irish migrant Rose Gooding (Jessie Buckley). When Edith and fellow residents begin to receive wicked letters full of unintentionally hilarious profanities, foulmouthed Rose is charged with the crime. The anonymous letters prompt a national uproar, and a trial ensues. However, as the town's women - led by Police Officer Gladys Moss (Anjana Vasan) - begin to investigate the crime themselves, they suspect that something is amiss, and Rose may not be the culprit after all.",
-      "runtime": 100,
-      "times": [
-        {
-          "starts_at": "2024-03-12T15:00:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-47696/"
-        },
-        {
-          "starts_at": "2024-03-12T17:40:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-71218/"
-        },
-        {
-          "starts_at": "2024-03-12T12:40:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-23008/"
         }
       ]
     },
@@ -238,6 +137,29 @@
       ]
     },
     {
+      "title": "Origin",
+      "trailer": null,
+      "synopsis": "Written and directed by Academy Award nominee Ava DuVernay, ORIGIN chronicles the tragedy and triumph of Pulitzer Prize winning journalist Isabel Wilkerson as she investigates a global phenomenon of epic proportions. Portrayed by Academy Award nominee Aunjanue Ellis-Taylor (“King Richard”), Isabel experiences unfathomable personal loss and love as she crosses continents and cultures to craft one of the defining American books of our time. Inspired by the New York Times best-seller “Caste,” ORIGIN explores the mystery of history, the wonders of romance and a fight for the future of us all.",
+      "runtime": 141,
+      "times": [
+        {
+          "starts_at": "2024-03-12T20:40:00+00:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-47633/"
+        },
+        {
+          "starts_at": "2024-03-12T21:00:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-71214/"
+        },
+        {
+          "starts_at": "2024-03-12T20:20:00+00:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-23012/"
+        }
+      ]
+    },
+    {
       "title": "The Zone of Interest",
       "trailer": null,
       "synopsis": "The commandant of Auschwitz, Rudolf Höss, and his wife Hedwig, strive to build a dream life for their family in a house and garden next to the camp.",
@@ -249,19 +171,9 @@
           "url": "https://www.curzon.com/ticketing/seats/ALD1-47697/"
         },
         {
-          "starts_at": "2024-03-12T15:20:00+00:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-15359/"
-        },
-        {
           "starts_at": "2024-03-12T17:20:00+00:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-23002/"
-        },
-        {
-          "starts_at": "2024-03-12T13:30:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-88555/"
         },
         {
           "starts_at": "2024-03-12T16:00:00+00:00",
@@ -272,19 +184,6 @@
           "starts_at": "2024-03-12T21:10:00+00:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-88558/"
-        }
-      ]
-    },
-    {
-      "title": "Poor Things",
-      "trailer": "https://www.youtube.com/watch?v=-EfYJWRw2FM",
-      "synopsis": "From filmmaker Yorgos Lanthimos and producer Emma Stone comes the incredible tale and fantastical evolution of Bella Baxter (Stone), a young woman brought back to life by the brilliant and unorthodox scientist Dr. Godwin Baxter (Dafoe).",
-      "runtime": 142,
-      "times": [
-        {
-          "starts_at": "2024-03-12T14:40:00+00:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-43848/"
         }
       ]
     },
@@ -305,29 +204,14 @@
           "url": "https://www.curzon.com/ticketing/seats/VIC1-71217/"
         },
         {
-          "starts_at": "2024-03-12T15:15:00+00:00",
-          "site": "Curzon Mayfair",
-          "url": "https://www.curzon.com/ticketing/seats/MAY1-26271/"
-        },
-        {
           "starts_at": "2024-03-12T20:45:00+00:00",
           "site": "Curzon Mayfair",
           "url": "https://www.curzon.com/ticketing/seats/MAY1-26267/"
         },
         {
-          "starts_at": "2024-03-12T14:50:00+00:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-15375/"
-        },
-        {
           "starts_at": "2024-03-12T18:20:00+00:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-23009/"
-        },
-        {
-          "starts_at": "2024-03-12T15:10:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-88559/"
         },
         {
           "starts_at": "2024-03-12T18:00:00+00:00",
@@ -353,11 +237,6 @@
           "url": "https://www.curzon.com/ticketing/seats/SOH1-43844/"
         },
         {
-          "starts_at": "2024-03-12T15:00:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-71221/"
-        },
-        {
           "starts_at": "2024-03-12T20:40:00+00:00",
           "site": "Curzon Victoria",
           "url": "https://www.curzon.com/ticketing/seats/VIC1-71224/"
@@ -368,24 +247,9 @@
           "url": "https://www.curzon.com/ticketing/seats/HOX1-15354/"
         },
         {
-          "starts_at": "2024-03-12T14:00:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-22999/"
-        },
-        {
           "starts_at": "2024-03-12T20:40:00+00:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-23013/"
-        },
-        {
-          "starts_at": "2024-03-12T12:30:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-88554/"
-        },
-        {
-          "starts_at": "2024-03-12T15:20:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-88560/"
         },
         {
           "starts_at": "2024-03-12T18:10:00+00:00",
@@ -409,11 +273,19 @@
           "starts_at": "2024-03-12T20:50:00+00:00",
           "site": "Curzon Soho",
           "url": "https://www.curzon.com/ticketing/seats/SOH1-43847/"
-        },
+        }
+      ]
+    },
+    {
+      "title": "Wicked Little Letters",
+      "trailer": "https://www.youtube.com/watch?v=fgqQvmbP-UU",
+      "synopsis": "A 1920s English seaside town bears witness to a dark and absurd scandal in this riotous mystery comedy. Based on a stranger than fiction true story, WICKED LITTLE LETTERS follows two neighbours: deeply conservative local Edith Swan (Olivia Colman) and rowdy Irish migrant Rose Gooding (Jessie Buckley). When Edith and fellow residents begin to receive wicked letters full of unintentionally hilarious profanities, foulmouthed Rose is charged with the crime. The anonymous letters prompt a national uproar, and a trial ensues. However, as the town's women - led by Police Officer Gladys Moss (Anjana Vasan) - begin to investigate the crime themselves, they suspect that something is amiss, and Rose may not be the culprit after all.",
+      "runtime": 100,
+      "times": [
         {
-          "starts_at": "2024-03-12T12:40:00+00:00",
+          "starts_at": "2024-03-12T17:40:00+00:00",
           "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-71211/"
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-71218/"
         }
       ]
     },
@@ -437,19 +309,9 @@
       "runtime": 117,
       "times": [
         {
-          "starts_at": "2024-03-12T12:30:00+00:00",
-          "site": "Curzon Mayfair",
-          "url": "https://www.curzon.com/ticketing/seats/MAY1-26273/"
-        },
-        {
           "starts_at": "2024-03-12T18:00:00+00:00",
           "site": "Curzon Mayfair",
           "url": "https://www.curzon.com/ticketing/seats/MAY1-26269/"
-        },
-        {
-          "starts_at": "2024-03-12T12:40:00+00:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-15358/"
         },
         {
           "starts_at": "2024-03-12T17:50:00+00:00",
@@ -473,19 +335,6 @@
           "starts_at": "2024-03-12T16:30:00+00:00",
           "site": "Curzon Hoxton",
           "url": "https://www.curzon.com/ticketing/seats/HOX1-15357/"
-        }
-      ]
-    },
-    {
-      "title": "Four Daughters",
-      "trailer": "https://www.youtube.com/watch?v=36th41-rdb8",
-      "synopsis": "The life of Olfa, a Tunisian woman and mother of four daughters, oscillates between light and shadow. One day, her two eldest daughters disappear. To fill their absence, director Kaouther Ben Hania calls upon professional actors and sets up an extraordinary film mechanism to unveil the story of Olfa and her family.\n\nAn intimate journey full of hope, rebellion, violence, intergenerational transmission and sisterhood, which will question the very foundation of our societies.\n",
-      "runtime": 108,
-      "times": [
-        {
-          "starts_at": "2024-03-12T15:20:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-23007/"
         }
       ]
     },
@@ -517,32 +366,6 @@
           "starts_at": "2024-03-12T21:00:00+00:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-23053/"
-        }
-      ]
-    },
-    {
-      "title": "The Holdovers",
-      "trailer": "https://www.youtube.com/watch?v=E24snz6SwMQ",
-      "synopsis": "From acclaimed director Alexander Payne, The Holdovers follows a curmudgeonly teacher (Paul Giamatti) at a New England prep school who is forced to remain on campus during the holidays to babysit the handful of students with nowhere to go. Eventually he forms an unlikely bond with one of them -- a damaged, brainy troublemaker (newcomer Dominic Sessa) -- and with the school’s head cook, who lost a son in Vietnam (Da’Vine Joy Randolph). With outstanding critical acclaim, The Holdovers is now the winner of 2 Golden Globes for Best Actor (Comedy) for Paul Giamatti and Best Supporting Actress for Da’Vine Joy Randolph.",
-      "runtime": 133,
-      "times": [
-        {
-          "starts_at": "2024-03-12T14:40:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-88568/"
-        }
-      ]
-    },
-    {
-      "title": "DocHouse: Four Daughters",
-      "trailer": null,
-      "synopsis": "Formally inventive and strikingly astute, this Oscar-nominated hybrid explores the life of Tunisian mother Olfa and her four daughters. While the younger two are present to re-enact scenes from their family history, the disappearance of the older two from the family home becomes the central burning question around which the narrative spirals.\r\n\r\nThe two missing sisters will be played by professional actors in staged reconstructions, guided by Olfa and her younger girls, and multi-award-winning Tunisian-Egyptian actor Hend Sabri steps into Olfa's shoes, and into the narrative.\r\n\r\nAs bonds form between the family members and the actors, director Kaouther Ben Hania sets up an extraordinary film mechanism to unveil the story of Olfa and her family.\r\n\r\n\r\nAn intimate journey full of hope, rebellion, violence, intergenerational transmission and sisterhood, which will question the very foundation of our societies. ",
-      "runtime": 110,
-      "times": [
-        {
-          "starts_at": "2024-03-12T15:00:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-88624/"
         }
       ]
     },
@@ -1943,6 +1766,49 @@
   ],
   "2024-03-15": [
     {
+      "title": "The Zone of Interest",
+      "trailer": null,
+      "synopsis": "The commandant of Auschwitz, Rudolf Höss, and his wife Hedwig, strive to build a dream life for their family in a house and garden next to the camp.",
+      "runtime": 105,
+      "times": [
+        {
+          "starts_at": "2024-03-15T11:00:00+00:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-47766/"
+        },
+        {
+          "starts_at": "2024-03-15T17:10:00+00:00",
+          "site": "Curzon Hoxton",
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-15386/"
+        },
+        {
+          "starts_at": "2024-03-15T17:40:00+00:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-23090/"
+        },
+        {
+          "starts_at": "2024-03-15T13:10:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-88658/"
+        },
+        {
+          "starts_at": "2024-03-15T15:30:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-88653/"
+        },
+        {
+          "starts_at": "2024-03-15T18:30:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-88656/"
+        },
+        {
+          "starts_at": "2024-03-15T20:50:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-88652/"
+        }
+      ]
+    },
+    {
       "title": "The New Boy",
       "trailer": null,
       "synopsis": "Set in 1940s Australia, the film depicts the mesmeric story of a 9-year-old Aboriginal orphan boy who arrives in the dead of night at a remote monastery run by a renegade nun (Blanchett). The new boy’s presence disturbs the delicately balanced world in this story of spiritual struggle and the cost of survival.",
@@ -1952,6 +1818,11 @@
           "starts_at": "2024-03-15T11:20:00+00:00",
           "site": "Curzon Aldgate",
           "url": "https://www.curzon.com/ticketing/seats/ALD1-47737/"
+        },
+        {
+          "starts_at": "2024-03-15T13:30:00+00:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-47763/"
         },
         {
           "starts_at": "2024-03-15T18:00:00+00:00",
@@ -1986,6 +1857,11 @@
       "synopsis": "Paul Atreides unites with Chani and the Fremen while on a warpath of revenge against the conspirators who destroyed his family. Facing a choice between the love of his life and the fate of the known universe, he endeavors to prevent a terrible future only he can foresee.",
       "runtime": 167,
       "times": [
+        {
+          "starts_at": "2024-03-15T11:40:00+00:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-47729/"
+        },
         {
           "starts_at": "2024-03-15T14:20:00+00:00",
           "site": "Curzon Aldgate",
@@ -2057,6 +1933,16 @@
           "url": "https://www.curzon.com/ticketing/seats/MAY1-26295/"
         },
         {
+          "starts_at": "2024-03-15T12:20:00+00:00",
+          "site": "Curzon Hoxton",
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-15391/"
+        },
+        {
+          "starts_at": "2024-03-15T14:40:00+00:00",
+          "site": "Curzon Hoxton",
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-15387/"
+        },
+        {
           "starts_at": "2024-03-15T19:40:00+00:00",
           "site": "Curzon Hoxton",
           "url": "https://www.curzon.com/ticketing/seats/HOX1-15390/"
@@ -2100,6 +1986,112 @@
           "starts_at": "2024-03-15T19:50:00+00:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-88660/"
+        }
+      ]
+    },
+    {
+      "title": "Shirley",
+      "trailer": null,
+      "synopsis": "The intimate portrayal of trailblazing political icon Shirley Chisholm, the first Black Congresswoman and the first Black woman to run for President of the U.S, and the cost of accomplishment for Shirley herself. This film will tell the story of Chisholm's boundary-breaking and historic presidential campaign, based on exclusive and extensive conversations with family, friends and those who knew her best.",
+      "runtime": 117,
+      "times": [
+        {
+          "starts_at": "2024-03-15T12:00:00+00:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-47867/"
+        },
+        {
+          "starts_at": "2024-03-15T21:20:00+00:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-47866/"
+        },
+        {
+          "starts_at": "2024-03-15T11:40:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-71305/"
+        },
+        {
+          "starts_at": "2024-03-15T21:00:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-71290/"
+        },
+        {
+          "starts_at": "2024-03-15T11:40:00+00:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-23091/"
+        },
+        {
+          "starts_at": "2024-03-15T17:20:00+00:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-23094/"
+        }
+      ]
+    },
+    {
+      "title": "American Fiction",
+      "trailer": "https://www.youtube.com/watch?v=e8YghfAsgpU",
+      "synopsis": "AMERICAN FICTION is Cord Jefferson's hilarious directorial debut, which confronts our culture’s obsession with reducing people to outrageous stereotypes. Jeffrey Wright stars as Monk, a frustrated novelist who’s fed up with the establishment profiting from “Black” entertainment that relies on tired and offensive tropes. To prove his point, Monk uses a pen name to write an outlandish “Black” book of his own, a book that propels him to the heart of hypocrisy and the madness he claims to disdain.",
+      "runtime": 117,
+      "times": [
+        {
+          "starts_at": "2024-03-15T14:40:00+00:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-47764/"
+        },
+        {
+          "starts_at": "2024-03-15T18:20:00+00:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-47765/"
+        },
+        {
+          "starts_at": "2024-03-15T14:20:00+00:00",
+          "site": "Curzon Soho",
+          "url": "https://www.curzon.com/ticketing/seats/SOH1-43895/"
+        },
+        {
+          "starts_at": "2024-03-15T21:10:00+00:00",
+          "site": "Curzon Soho",
+          "url": "https://www.curzon.com/ticketing/seats/SOH1-43887/"
+        },
+        {
+          "starts_at": "2024-03-15T15:40:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-71308/"
+        },
+        {
+          "starts_at": "2024-03-15T20:40:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-71299/"
+        },
+        {
+          "starts_at": "2024-03-15T15:20:00+00:00",
+          "site": "Curzon Mayfair",
+          "url": "https://www.curzon.com/ticketing/seats/MAY1-26299/"
+        },
+        {
+          "starts_at": "2024-03-15T12:40:00+00:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-23095/"
+        },
+        {
+          "starts_at": "2024-03-15T18:00:00+00:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-23096/"
+        },
+        {
+          "starts_at": "2024-03-15T12:10:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-88668/"
+        },
+        {
+          "starts_at": "2024-03-15T15:00:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-88662/"
+        },
+        {
+          "starts_at": "2024-03-15T20:10:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-88659/"
         }
       ]
     },
@@ -2165,6 +2157,16 @@
           "url": "https://www.curzon.com/ticketing/seats/MAY1-26294/"
         },
         {
+          "starts_at": "2024-03-15T12:00:00+00:00",
+          "site": "Curzon Hoxton",
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-15394/"
+        },
+        {
+          "starts_at": "2024-03-15T15:50:00+00:00",
+          "site": "Curzon Hoxton",
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-15388/"
+        },
+        {
           "starts_at": "2024-03-15T18:20:00+00:00",
           "site": "Curzon Hoxton",
           "url": "https://www.curzon.com/ticketing/seats/HOX1-15383/"
@@ -2201,69 +2203,6 @@
           "starts_at": "2024-03-15T18:20:00+00:00",
           "site": "Curzon Victoria",
           "url": "https://www.curzon.com/ticketing/seats/VIC1-71300/"
-        }
-      ]
-    },
-    {
-      "title": "American Fiction",
-      "trailer": "https://www.youtube.com/watch?v=e8YghfAsgpU",
-      "synopsis": "AMERICAN FICTION is Cord Jefferson's hilarious directorial debut, which confronts our culture’s obsession with reducing people to outrageous stereotypes. Jeffrey Wright stars as Monk, a frustrated novelist who’s fed up with the establishment profiting from “Black” entertainment that relies on tired and offensive tropes. To prove his point, Monk uses a pen name to write an outlandish “Black” book of his own, a book that propels him to the heart of hypocrisy and the madness he claims to disdain.",
-      "runtime": 117,
-      "times": [
-        {
-          "starts_at": "2024-03-15T18:20:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-47765/"
-        },
-        {
-          "starts_at": "2024-03-15T14:20:00+00:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-43895/"
-        },
-        {
-          "starts_at": "2024-03-15T21:10:00+00:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-43887/"
-        },
-        {
-          "starts_at": "2024-03-15T15:40:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-71308/"
-        },
-        {
-          "starts_at": "2024-03-15T20:40:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-71299/"
-        },
-        {
-          "starts_at": "2024-03-15T15:20:00+00:00",
-          "site": "Curzon Mayfair",
-          "url": "https://www.curzon.com/ticketing/seats/MAY1-26299/"
-        },
-        {
-          "starts_at": "2024-03-15T12:40:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-23095/"
-        },
-        {
-          "starts_at": "2024-03-15T18:00:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-23096/"
-        },
-        {
-          "starts_at": "2024-03-15T12:10:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-88668/"
-        },
-        {
-          "starts_at": "2024-03-15T15:00:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-88662/"
-        },
-        {
-          "starts_at": "2024-03-15T20:10:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-88659/"
         }
       ]
     },
@@ -2305,6 +2244,11 @@
           "starts_at": "2024-03-15T17:20:00+00:00",
           "site": "Curzon Victoria",
           "url": "https://www.curzon.com/ticketing/seats/VIC1-71301/"
+        },
+        {
+          "starts_at": "2024-03-15T14:20:00+00:00",
+          "site": "Curzon Hoxton",
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-15509/"
         },
         {
           "starts_at": "2024-03-15T13:40:00+00:00",
@@ -2350,6 +2294,11 @@
           "url": "https://www.curzon.com/ticketing/seats/SOH1-43888/"
         },
         {
+          "starts_at": "2024-03-15T11:40:00+00:00",
+          "site": "Curzon Hoxton",
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-15392/"
+        },
+        {
           "starts_at": "2024-03-15T18:00:00+00:00",
           "site": "Curzon Hoxton",
           "url": "https://www.curzon.com/ticketing/seats/HOX1-15382/"
@@ -2387,34 +2336,6 @@
       ]
     },
     {
-      "title": "Shirley",
-      "trailer": null,
-      "synopsis": "The intimate portrayal of trailblazing political icon Shirley Chisholm, the first Black Congresswoman and the first Black woman to run for President of the U.S, and the cost of accomplishment for Shirley herself. This film will tell the story of Chisholm's boundary-breaking and historic presidential campaign, based on exclusive and extensive conversations with family, friends and those who knew her best.",
-      "runtime": 117,
-      "times": [
-        {
-          "starts_at": "2024-03-15T11:40:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-71305/"
-        },
-        {
-          "starts_at": "2024-03-15T21:00:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-71290/"
-        },
-        {
-          "starts_at": "2024-03-15T11:40:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-23091/"
-        },
-        {
-          "starts_at": "2024-03-15T17:20:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-23094/"
-        }
-      ]
-    },
-    {
       "title": "High & Low - John Galliano",
       "trailer": null,
       "synopsis": "HIGH & LOW - JOHN GALLIANO is the gripping and thought-provoking new documentary from Academy Award® winner Kevin Macdonald, charting the rise-and-fall story of fashion designer John Galliano. Galliano was widely recognized as one of the most successful names in 1990s and 2000s couture, until his career abruptly ended when he was caught on camera in 2011 hurling antisemitic and racist insults at bystanders in Paris. Macdonald’s compelling documentary traces Galliano’s working and private life through the decades, candidly investigating his struggles with addiction and the industry pressure he faced along the way. Featuring conversations with Naomi Campbell, Kate Moss, Penelope Cruz, Charlize Theron, Anna Wintour, Edward Enninful and more.",
@@ -2444,44 +2365,6 @@
           "starts_at": "2024-03-15T20:40:00+00:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-23099/"
-        }
-      ]
-    },
-    {
-      "title": "The Zone of Interest",
-      "trailer": null,
-      "synopsis": "The commandant of Auschwitz, Rudolf Höss, and his wife Hedwig, strive to build a dream life for their family in a house and garden next to the camp.",
-      "runtime": 105,
-      "times": [
-        {
-          "starts_at": "2024-03-15T17:10:00+00:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-15386/"
-        },
-        {
-          "starts_at": "2024-03-15T17:40:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-23090/"
-        },
-        {
-          "starts_at": "2024-03-15T13:10:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-88658/"
-        },
-        {
-          "starts_at": "2024-03-15T15:30:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-88653/"
-        },
-        {
-          "starts_at": "2024-03-15T18:30:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-88656/"
-        },
-        {
-          "starts_at": "2024-03-15T20:50:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-88652/"
         }
       ]
     },
@@ -2584,6 +2467,49 @@
   ],
   "2024-03-16": [
     {
+      "title": "The Zone of Interest",
+      "trailer": null,
+      "synopsis": "The commandant of Auschwitz, Rudolf Höss, and his wife Hedwig, strive to build a dream life for their family in a house and garden next to the camp.",
+      "runtime": 105,
+      "times": [
+        {
+          "starts_at": "2024-03-16T11:00:00+00:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-47800/"
+        },
+        {
+          "starts_at": "2024-03-16T17:10:00+00:00",
+          "site": "Curzon Hoxton",
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-15514/"
+        },
+        {
+          "starts_at": "2024-03-16T17:40:00+00:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-23110/"
+        },
+        {
+          "starts_at": "2024-03-16T12:40:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-88669/"
+        },
+        {
+          "starts_at": "2024-03-16T15:40:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-88674/"
+        },
+        {
+          "starts_at": "2024-03-16T18:20:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-88671/"
+        },
+        {
+          "starts_at": "2024-03-16T21:00:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-88675/"
+        }
+      ]
+    },
+    {
       "title": "The New Boy",
       "trailer": null,
       "synopsis": "Set in 1940s Australia, the film depicts the mesmeric story of a 9-year-old Aboriginal orphan boy who arrives in the dead of night at a remote monastery run by a renegade nun (Blanchett). The new boy’s presence disturbs the delicately balanced world in this story of spiritual struggle and the cost of survival.",
@@ -2593,6 +2519,11 @@
           "starts_at": "2024-03-16T11:20:00+00:00",
           "site": "Curzon Aldgate",
           "url": "https://www.curzon.com/ticketing/seats/ALD1-47799/"
+        },
+        {
+          "starts_at": "2024-03-16T13:30:00+00:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-47806/"
         },
         {
           "starts_at": "2024-03-16T18:00:00+00:00",
@@ -2760,6 +2691,107 @@
       ]
     },
     {
+      "title": "Shirley",
+      "trailer": null,
+      "synopsis": "The intimate portrayal of trailblazing political icon Shirley Chisholm, the first Black Congresswoman and the first Black woman to run for President of the U.S, and the cost of accomplishment for Shirley herself. This film will tell the story of Chisholm's boundary-breaking and historic presidential campaign, based on exclusive and extensive conversations with family, friends and those who knew her best.",
+      "runtime": 117,
+      "times": [
+        {
+          "starts_at": "2024-03-16T12:00:00+00:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-47869/"
+        },
+        {
+          "starts_at": "2024-03-16T21:20:00+00:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-47868/"
+        },
+        {
+          "starts_at": "2024-03-16T11:40:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-71375/"
+        },
+        {
+          "starts_at": "2024-03-16T21:00:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-71378/"
+        },
+        {
+          "starts_at": "2024-03-16T11:00:00+00:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-23111/"
+        },
+        {
+          "starts_at": "2024-03-16T17:00:00+00:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-23114/"
+        }
+      ]
+    },
+    {
+      "title": "American Fiction",
+      "trailer": "https://www.youtube.com/watch?v=e8YghfAsgpU",
+      "synopsis": "AMERICAN FICTION is Cord Jefferson's hilarious directorial debut, which confronts our culture’s obsession with reducing people to outrageous stereotypes. Jeffrey Wright stars as Monk, a frustrated novelist who’s fed up with the establishment profiting from “Black” entertainment that relies on tired and offensive tropes. To prove his point, Monk uses a pen name to write an outlandish “Black” book of his own, a book that propels him to the heart of hypocrisy and the madness he claims to disdain.",
+      "runtime": 117,
+      "times": [
+        {
+          "starts_at": "2024-03-16T14:40:00+00:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-47809/"
+        },
+        {
+          "starts_at": "2024-03-16T18:20:00+00:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-47815/"
+        },
+        {
+          "starts_at": "2024-03-16T15:00:00+00:00",
+          "site": "Curzon Soho",
+          "url": "https://www.curzon.com/ticketing/seats/SOH1-43937/"
+        },
+        {
+          "starts_at": "2024-03-16T15:40:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-71369/"
+        },
+        {
+          "starts_at": "2024-03-16T20:40:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-71379/"
+        },
+        {
+          "starts_at": "2024-03-16T16:10:00+00:00",
+          "site": "Curzon Mayfair",
+          "url": "https://www.curzon.com/ticketing/seats/MAY1-26303/"
+        },
+        {
+          "starts_at": "2024-03-16T12:20:00+00:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-23115/"
+        },
+        {
+          "starts_at": "2024-03-16T18:00:00+00:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-23116/"
+        },
+        {
+          "starts_at": "2024-03-16T12:10:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-88678/"
+        },
+        {
+          "starts_at": "2024-03-16T17:15:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-88684/"
+        },
+        {
+          "starts_at": "2024-03-16T20:10:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-88687/"
+        }
+      ]
+    },
+    {
       "title": "Drive-Away Dolls",
       "trailer": "https://www.youtube.com/watch?v=cJIr0p-X63w",
       "synopsis": "Written by Ethan Coen and Tricia Cooke, this comedy caper follows Jamie, an uninhibited free spirit bemoaning yet another breakup with a girlfriend, and her demure friend Marian who desperately needs to loosen up. In search of a fresh start, the two embark on an impromptu road trip to Tallahassee, but things quickly go awry when they cross paths with a group of inept criminals along the way. Directed by Ethan Coen.",
@@ -2867,64 +2899,6 @@
           "starts_at": "2024-03-16T18:20:00+00:00",
           "site": "Curzon Victoria",
           "url": "https://www.curzon.com/ticketing/seats/VIC1-71383/"
-        }
-      ]
-    },
-    {
-      "title": "American Fiction",
-      "trailer": "https://www.youtube.com/watch?v=e8YghfAsgpU",
-      "synopsis": "AMERICAN FICTION is Cord Jefferson's hilarious directorial debut, which confronts our culture’s obsession with reducing people to outrageous stereotypes. Jeffrey Wright stars as Monk, a frustrated novelist who’s fed up with the establishment profiting from “Black” entertainment that relies on tired and offensive tropes. To prove his point, Monk uses a pen name to write an outlandish “Black” book of his own, a book that propels him to the heart of hypocrisy and the madness he claims to disdain.",
-      "runtime": 117,
-      "times": [
-        {
-          "starts_at": "2024-03-16T18:20:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-47815/"
-        },
-        {
-          "starts_at": "2024-03-16T15:00:00+00:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-43937/"
-        },
-        {
-          "starts_at": "2024-03-16T15:40:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-71369/"
-        },
-        {
-          "starts_at": "2024-03-16T20:40:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-71379/"
-        },
-        {
-          "starts_at": "2024-03-16T16:10:00+00:00",
-          "site": "Curzon Mayfair",
-          "url": "https://www.curzon.com/ticketing/seats/MAY1-26303/"
-        },
-        {
-          "starts_at": "2024-03-16T12:20:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-23115/"
-        },
-        {
-          "starts_at": "2024-03-16T18:00:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-23116/"
-        },
-        {
-          "starts_at": "2024-03-16T12:10:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-88678/"
-        },
-        {
-          "starts_at": "2024-03-16T17:15:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-88684/"
-        },
-        {
-          "starts_at": "2024-03-16T20:10:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-88687/"
         }
       ]
     },
@@ -3071,34 +3045,6 @@
       ]
     },
     {
-      "title": "Shirley",
-      "trailer": null,
-      "synopsis": "The intimate portrayal of trailblazing political icon Shirley Chisholm, the first Black Congresswoman and the first Black woman to run for President of the U.S, and the cost of accomplishment for Shirley herself. This film will tell the story of Chisholm's boundary-breaking and historic presidential campaign, based on exclusive and extensive conversations with family, friends and those who knew her best.",
-      "runtime": 117,
-      "times": [
-        {
-          "starts_at": "2024-03-16T11:40:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-71375/"
-        },
-        {
-          "starts_at": "2024-03-16T21:00:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-71378/"
-        },
-        {
-          "starts_at": "2024-03-16T11:00:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-23111/"
-        },
-        {
-          "starts_at": "2024-03-16T17:00:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-23114/"
-        }
-      ]
-    },
-    {
       "title": "High & Low - John Galliano",
       "trailer": null,
       "synopsis": "HIGH & LOW - JOHN GALLIANO is the gripping and thought-provoking new documentary from Academy Award® winner Kevin Macdonald, charting the rise-and-fall story of fashion designer John Galliano. Galliano was widely recognized as one of the most successful names in 1990s and 2000s couture, until his career abruptly ended when he was caught on camera in 2011 hurling antisemitic and racist insults at bystanders in Paris. Macdonald’s compelling documentary traces Galliano’s working and private life through the decades, candidly investigating his struggles with addiction and the industry pressure he faced along the way. Featuring conversations with Naomi Campbell, Kate Moss, Penelope Cruz, Charlize Theron, Anna Wintour, Edward Enninful and more.",
@@ -3146,44 +3092,6 @@
           "starts_at": "2024-03-16T10:30:00+00:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-23217/"
-        }
-      ]
-    },
-    {
-      "title": "The Zone of Interest",
-      "trailer": null,
-      "synopsis": "The commandant of Auschwitz, Rudolf Höss, and his wife Hedwig, strive to build a dream life for their family in a house and garden next to the camp.",
-      "runtime": 105,
-      "times": [
-        {
-          "starts_at": "2024-03-16T17:10:00+00:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-15514/"
-        },
-        {
-          "starts_at": "2024-03-16T17:40:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-23110/"
-        },
-        {
-          "starts_at": "2024-03-16T12:40:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-88669/"
-        },
-        {
-          "starts_at": "2024-03-16T15:40:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-88674/"
-        },
-        {
-          "starts_at": "2024-03-16T18:20:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-88671/"
-        },
-        {
-          "starts_at": "2024-03-16T21:00:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-88675/"
         }
       ]
     },
@@ -3292,7 +3200,7 @@
       "runtime": 96,
       "times": [
         {
-          "starts_at": "2024-03-17T10:40:00+00:00",
+          "starts_at": "2024-03-17T10:50:00+00:00",
           "site": "Curzon Aldgate",
           "url": "https://www.curzon.com/ticketing/seats/ALD1-47816/"
         },
@@ -3352,50 +3260,40 @@
       ]
     },
     {
-      "title": "The Zone of Interest",
+      "title": "Shirley",
       "trailer": null,
-      "synopsis": "The commandant of Auschwitz, Rudolf Höss, and his wife Hedwig, strive to build a dream life for their family in a house and garden next to the camp.",
-      "runtime": 105,
+      "synopsis": "The intimate portrayal of trailblazing political icon Shirley Chisholm, the first Black Congresswoman and the first Black woman to run for President of the U.S, and the cost of accomplishment for Shirley herself. This film will tell the story of Chisholm's boundary-breaking and historic presidential campaign, based on exclusive and extensive conversations with family, friends and those who knew her best.",
+      "runtime": 117,
       "times": [
         {
           "starts_at": "2024-03-17T11:20:00+00:00",
           "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-47817/"
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-47871/"
         },
         {
-          "starts_at": "2024-03-17T16:00:00+00:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-15526/"
+          "starts_at": "2024-03-17T21:20:00+00:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-47870/"
         },
         {
           "starts_at": "2024-03-17T11:20:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-71394/"
+        },
+        {
+          "starts_at": "2024-03-17T20:45:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-71398/"
+        },
+        {
+          "starts_at": "2024-03-17T11:40:00+00:00",
           "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-23124/"
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-23131/"
         },
         {
-          "starts_at": "2024-03-17T16:40:00+00:00",
+          "starts_at": "2024-03-17T17:40:00+00:00",
           "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-23130/"
-        },
-        {
-          "starts_at": "2024-03-17T12:30:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-88705/"
-        },
-        {
-          "starts_at": "2024-03-17T14:50:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-88692/"
-        },
-        {
-          "starts_at": "2024-03-17T17:50:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-88689/"
-        },
-        {
-          "starts_at": "2024-03-17T20:10:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-88693/"
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-23134/"
         }
       ]
     },
@@ -3534,6 +3432,54 @@
           "starts_at": "2024-03-17T19:10:00+00:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-88703/"
+        }
+      ]
+    },
+    {
+      "title": "The Zone of Interest",
+      "trailer": null,
+      "synopsis": "The commandant of Auschwitz, Rudolf Höss, and his wife Hedwig, strive to build a dream life for their family in a house and garden next to the camp.",
+      "runtime": 105,
+      "times": [
+        {
+          "starts_at": "2024-03-17T13:20:00+00:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-47817/"
+        },
+        {
+          "starts_at": "2024-03-17T16:00:00+00:00",
+          "site": "Curzon Hoxton",
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-15526/"
+        },
+        {
+          "starts_at": "2024-03-17T11:20:00+00:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-23124/"
+        },
+        {
+          "starts_at": "2024-03-17T16:40:00+00:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-23130/"
+        },
+        {
+          "starts_at": "2024-03-17T12:30:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-88705/"
+        },
+        {
+          "starts_at": "2024-03-17T14:50:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-88692/"
+        },
+        {
+          "starts_at": "2024-03-17T17:50:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-88689/"
+        },
+        {
+          "starts_at": "2024-03-17T20:10:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-88693/"
         }
       ]
     },
@@ -3818,34 +3764,6 @@
       ]
     },
     {
-      "title": "Shirley",
-      "trailer": null,
-      "synopsis": "The intimate portrayal of trailblazing political icon Shirley Chisholm, the first Black Congresswoman and the first Black woman to run for President of the U.S, and the cost of accomplishment for Shirley herself. This film will tell the story of Chisholm's boundary-breaking and historic presidential campaign, based on exclusive and extensive conversations with family, friends and those who knew her best.",
-      "runtime": 117,
-      "times": [
-        {
-          "starts_at": "2024-03-17T11:20:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-71394/"
-        },
-        {
-          "starts_at": "2024-03-17T20:45:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-71398/"
-        },
-        {
-          "starts_at": "2024-03-17T11:40:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-23131/"
-        },
-        {
-          "starts_at": "2024-03-17T17:40:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-23134/"
-        }
-      ]
-    },
-    {
       "title": "High & Low - John Galliano",
       "trailer": null,
       "synopsis": "HIGH & LOW - JOHN GALLIANO is the gripping and thought-provoking new documentary from Academy Award® winner Kevin Macdonald, charting the rise-and-fall story of fashion designer John Galliano. Galliano was widely recognized as one of the most successful names in 1990s and 2000s couture, until his career abruptly ended when he was caught on camera in 2011 hurling antisemitic and racist insults at bystanders in Paris. Macdonald’s compelling documentary traces Galliano’s working and private life through the decades, candidly investigating his struggles with addiction and the industry pressure he faced along the way. Featuring conversations with Naomi Campbell, Kate Moss, Penelope Cruz, Charlize Theron, Anna Wintour, Edward Enninful and more.",
@@ -3976,6 +3894,87 @@
     }
   ],
   "2024-03-18": [
+    {
+      "title": "The New Boy",
+      "trailer": null,
+      "synopsis": "Set in 1940s Australia, the film depicts the mesmeric story of a 9-year-old Aboriginal orphan boy who arrives in the dead of night at a remote monastery run by a renegade nun (Blanchett). The new boy’s presence disturbs the delicately balanced world in this story of spiritual struggle and the cost of survival.",
+      "runtime": 96,
+      "times": [
+        {
+          "starts_at": "2024-03-18T11:00:00+00:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-47835/"
+        },
+        {
+          "starts_at": "2024-03-18T13:30:00+00:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-47845/"
+        },
+        {
+          "starts_at": "2024-03-18T18:00:00+00:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-47840/"
+        },
+        {
+          "starts_at": "2024-03-18T14:10:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-71435/"
+        },
+        {
+          "starts_at": "2024-03-18T16:15:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-71451/"
+        },
+        {
+          "starts_at": "2024-03-18T20:20:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-71445/"
+        },
+        {
+          "starts_at": "2024-03-18T20:40:00+00:00",
+          "site": "Curzon Mayfair",
+          "url": "https://www.curzon.com/ticketing/seats/MAY1-26323/"
+        }
+      ]
+    },
+    {
+      "title": "Shirley",
+      "trailer": null,
+      "synopsis": "The intimate portrayal of trailblazing political icon Shirley Chisholm, the first Black Congresswoman and the first Black woman to run for President of the U.S, and the cost of accomplishment for Shirley herself. This film will tell the story of Chisholm's boundary-breaking and historic presidential campaign, based on exclusive and extensive conversations with family, friends and those who knew her best.",
+      "runtime": 117,
+      "times": [
+        {
+          "starts_at": "2024-03-18T11:20:00+00:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-47873/"
+        },
+        {
+          "starts_at": "2024-03-18T21:20:00+00:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-47872/"
+        },
+        {
+          "starts_at": "2024-03-18T11:40:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-71439/"
+        },
+        {
+          "starts_at": "2024-03-18T21:00:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-71443/"
+        },
+        {
+          "starts_at": "2024-03-18T11:00:00+00:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-23081/"
+        },
+        {
+          "starts_at": "2024-03-18T17:00:00+00:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-23078/"
+        }
+      ]
+    },
     {
       "title": "Dune: Part Two",
       "trailer": "https://www.youtube.com/watch?v=CHDU-B5K_Xw",
@@ -4115,45 +4114,118 @@
       ]
     },
     {
-      "title": "The New Boy",
+      "title": "The Zone of Interest",
       "trailer": null,
-      "synopsis": "Set in 1940s Australia, the film depicts the mesmeric story of a 9-year-old Aboriginal orphan boy who arrives in the dead of night at a remote monastery run by a renegade nun (Blanchett). The new boy’s presence disturbs the delicately balanced world in this story of spiritual struggle and the cost of survival.",
-      "runtime": 96,
+      "synopsis": "The commandant of Auschwitz, Rudolf Höss, and his wife Hedwig, strive to build a dream life for their family in a house and garden next to the camp.",
+      "runtime": 105,
       "times": [
         {
-          "starts_at": "2024-03-18T12:20:00+00:00",
+          "starts_at": "2024-03-18T12:00:00+00:00",
           "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-47835/"
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-47836/"
         },
         {
-          "starts_at": "2024-03-18T13:30:00+00:00",
+          "starts_at": "2024-03-18T17:10:00+00:00",
+          "site": "Curzon Hoxton",
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-15535/"
+        },
+        {
+          "starts_at": "2024-03-18T11:20:00+00:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-23063/"
+        },
+        {
+          "starts_at": "2024-03-18T17:40:00+00:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-23065/"
+        },
+        {
+          "starts_at": "2024-03-18T14:00:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-88719/"
+        },
+        {
+          "starts_at": "2024-03-18T15:50:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-88709/"
+        },
+        {
+          "starts_at": "2024-03-18T18:40:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-88707/"
+        },
+        {
+          "starts_at": "2024-03-18T21:10:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-88710/"
+        }
+      ]
+    },
+    {
+      "title": "American Fiction",
+      "trailer": "https://www.youtube.com/watch?v=e8YghfAsgpU",
+      "synopsis": "AMERICAN FICTION is Cord Jefferson's hilarious directorial debut, which confronts our culture’s obsession with reducing people to outrageous stereotypes. Jeffrey Wright stars as Monk, a frustrated novelist who’s fed up with the establishment profiting from “Black” entertainment that relies on tired and offensive tropes. To prove his point, Monk uses a pen name to write an outlandish “Black” book of his own, a book that propels him to the heart of hypocrisy and the madness he claims to disdain.",
+      "runtime": 117,
+      "times": [
+        {
+          "starts_at": "2024-03-18T14:40:00+00:00",
           "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-47845/"
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-47833/"
         },
         {
-          "starts_at": "2024-03-18T18:00:00+00:00",
+          "starts_at": "2024-03-18T18:20:00+00:00",
           "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-47840/"
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-47839/"
         },
         {
-          "starts_at": "2024-03-18T14:10:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-71435/"
+          "starts_at": "2024-03-18T14:30:00+00:00",
+          "site": "Curzon Soho",
+          "url": "https://www.curzon.com/ticketing/seats/SOH1-43947/"
         },
         {
-          "starts_at": "2024-03-18T16:15:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-71451/"
+          "starts_at": "2024-03-18T20:50:00+00:00",
+          "site": "Curzon Soho",
+          "url": "https://www.curzon.com/ticketing/seats/SOH1-43953/"
         },
         {
-          "starts_at": "2024-03-18T20:20:00+00:00",
+          "starts_at": "2024-03-18T15:40:00+00:00",
           "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-71445/"
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-71433/"
         },
         {
           "starts_at": "2024-03-18T20:40:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-71444/"
+        },
+        {
+          "starts_at": "2024-03-18T15:20:00+00:00",
           "site": "Curzon Mayfair",
-          "url": "https://www.curzon.com/ticketing/seats/MAY1-26323/"
+          "url": "https://www.curzon.com/ticketing/seats/MAY1-26324/"
+        },
+        {
+          "starts_at": "2024-03-18T12:20:00+00:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-23077/"
+        },
+        {
+          "starts_at": "2024-03-18T18:00:00+00:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-23076/"
+        },
+        {
+          "starts_at": "2024-03-18T11:20:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-88778/"
+        },
+        {
+          "starts_at": "2024-03-18T18:10:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-88721/"
+        },
+        {
+          "starts_at": "2024-03-18T20:50:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-88718/"
         }
       ]
     },
@@ -4265,69 +4337,6 @@
           "starts_at": "2024-03-18T18:20:00+00:00",
           "site": "Curzon Victoria",
           "url": "https://www.curzon.com/ticketing/seats/VIC1-71448/"
-        }
-      ]
-    },
-    {
-      "title": "American Fiction",
-      "trailer": "https://www.youtube.com/watch?v=e8YghfAsgpU",
-      "synopsis": "AMERICAN FICTION is Cord Jefferson's hilarious directorial debut, which confronts our culture’s obsession with reducing people to outrageous stereotypes. Jeffrey Wright stars as Monk, a frustrated novelist who’s fed up with the establishment profiting from “Black” entertainment that relies on tired and offensive tropes. To prove his point, Monk uses a pen name to write an outlandish “Black” book of his own, a book that propels him to the heart of hypocrisy and the madness he claims to disdain.",
-      "runtime": 117,
-      "times": [
-        {
-          "starts_at": "2024-03-18T18:20:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-47839/"
-        },
-        {
-          "starts_at": "2024-03-18T14:30:00+00:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-43947/"
-        },
-        {
-          "starts_at": "2024-03-18T20:50:00+00:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-43953/"
-        },
-        {
-          "starts_at": "2024-03-18T15:40:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-71433/"
-        },
-        {
-          "starts_at": "2024-03-18T20:40:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-71444/"
-        },
-        {
-          "starts_at": "2024-03-18T15:20:00+00:00",
-          "site": "Curzon Mayfair",
-          "url": "https://www.curzon.com/ticketing/seats/MAY1-26324/"
-        },
-        {
-          "starts_at": "2024-03-18T12:20:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-23077/"
-        },
-        {
-          "starts_at": "2024-03-18T18:00:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-23076/"
-        },
-        {
-          "starts_at": "2024-03-18T11:20:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-88778/"
-        },
-        {
-          "starts_at": "2024-03-18T18:10:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-88721/"
-        },
-        {
-          "starts_at": "2024-03-18T20:50:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-88718/"
         }
       ]
     },
@@ -4451,34 +4460,6 @@
       ]
     },
     {
-      "title": "Shirley",
-      "trailer": null,
-      "synopsis": "The intimate portrayal of trailblazing political icon Shirley Chisholm, the first Black Congresswoman and the first Black woman to run for President of the U.S, and the cost of accomplishment for Shirley herself. This film will tell the story of Chisholm's boundary-breaking and historic presidential campaign, based on exclusive and extensive conversations with family, friends and those who knew her best.",
-      "runtime": 117,
-      "times": [
-        {
-          "starts_at": "2024-03-18T11:40:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-71439/"
-        },
-        {
-          "starts_at": "2024-03-18T21:00:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-71443/"
-        },
-        {
-          "starts_at": "2024-03-18T11:00:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-23081/"
-        },
-        {
-          "starts_at": "2024-03-18T17:00:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-23078/"
-        }
-      ]
-    },
-    {
       "title": "High & Low - John Galliano",
       "trailer": null,
       "synopsis": "HIGH & LOW - JOHN GALLIANO is the gripping and thought-provoking new documentary from Academy Award® winner Kevin Macdonald, charting the rise-and-fall story of fashion designer John Galliano. Galliano was widely recognized as one of the most successful names in 1990s and 2000s couture, until his career abruptly ended when he was caught on camera in 2011 hurling antisemitic and racist insults at bystanders in Paris. Macdonald’s compelling documentary traces Galliano’s working and private life through the decades, candidly investigating his struggles with addiction and the industry pressure he faced along the way. Featuring conversations with Naomi Campbell, Kate Moss, Penelope Cruz, Charlize Theron, Anna Wintour, Edward Enninful and more.",
@@ -4508,49 +4489,6 @@
           "starts_at": "2024-03-18T20:40:00+00:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-23073/"
-        }
-      ]
-    },
-    {
-      "title": "The Zone of Interest",
-      "trailer": null,
-      "synopsis": "The commandant of Auschwitz, Rudolf Höss, and his wife Hedwig, strive to build a dream life for their family in a house and garden next to the camp.",
-      "runtime": 105,
-      "times": [
-        {
-          "starts_at": "2024-03-18T17:10:00+00:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-15535/"
-        },
-        {
-          "starts_at": "2024-03-18T11:20:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-23063/"
-        },
-        {
-          "starts_at": "2024-03-18T17:40:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-23065/"
-        },
-        {
-          "starts_at": "2024-03-18T14:00:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-88719/"
-        },
-        {
-          "starts_at": "2024-03-18T15:50:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-88709/"
-        },
-        {
-          "starts_at": "2024-03-18T18:40:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-88707/"
-        },
-        {
-          "starts_at": "2024-03-18T21:10:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-88710/"
         }
       ]
     },
@@ -4665,6 +4603,87 @@
     }
   ],
   "2024-03-19": [
+    {
+      "title": "The New Boy",
+      "trailer": null,
+      "synopsis": "Set in 1940s Australia, the film depicts the mesmeric story of a 9-year-old Aboriginal orphan boy who arrives in the dead of night at a remote monastery run by a renegade nun (Blanchett). The new boy’s presence disturbs the delicately balanced world in this story of spiritual struggle and the cost of survival.",
+      "runtime": 96,
+      "times": [
+        {
+          "starts_at": "2024-03-19T11:00:00+00:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-47852/"
+        },
+        {
+          "starts_at": "2024-03-19T13:30:00+00:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-47862/"
+        },
+        {
+          "starts_at": "2024-03-19T18:00:00+00:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-47857/"
+        },
+        {
+          "starts_at": "2024-03-19T14:10:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-71410/"
+        },
+        {
+          "starts_at": "2024-03-19T16:15:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-71426/"
+        },
+        {
+          "starts_at": "2024-03-19T20:20:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-71420/"
+        },
+        {
+          "starts_at": "2024-03-19T18:00:00+00:00",
+          "site": "Curzon Mayfair",
+          "url": "https://www.curzon.com/ticketing/seats/MAY1-26331/"
+        }
+      ]
+    },
+    {
+      "title": "Shirley",
+      "trailer": null,
+      "synopsis": "The intimate portrayal of trailblazing political icon Shirley Chisholm, the first Black Congresswoman and the first Black woman to run for President of the U.S, and the cost of accomplishment for Shirley herself. This film will tell the story of Chisholm's boundary-breaking and historic presidential campaign, based on exclusive and extensive conversations with family, friends and those who knew her best.",
+      "runtime": 117,
+      "times": [
+        {
+          "starts_at": "2024-03-19T11:20:00+00:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-47875/"
+        },
+        {
+          "starts_at": "2024-03-19T21:20:00+00:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-47874/"
+        },
+        {
+          "starts_at": "2024-03-19T11:40:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-71414/"
+        },
+        {
+          "starts_at": "2024-03-19T21:00:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-71418/"
+        },
+        {
+          "starts_at": "2024-03-19T11:00:00+00:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-23160/"
+        },
+        {
+          "starts_at": "2024-03-19T17:00:00+00:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-23157/"
+        }
+      ]
+    },
     {
       "title": "Dune: Part Two",
       "trailer": "https://www.youtube.com/watch?v=CHDU-B5K_Xw",
@@ -4804,45 +4823,113 @@
       ]
     },
     {
-      "title": "The New Boy",
+      "title": "The Zone of Interest",
       "trailer": null,
-      "synopsis": "Set in 1940s Australia, the film depicts the mesmeric story of a 9-year-old Aboriginal orphan boy who arrives in the dead of night at a remote monastery run by a renegade nun (Blanchett). The new boy’s presence disturbs the delicately balanced world in this story of spiritual struggle and the cost of survival.",
-      "runtime": 96,
+      "synopsis": "The commandant of Auschwitz, Rudolf Höss, and his wife Hedwig, strive to build a dream life for their family in a house and garden next to the camp.",
+      "runtime": 105,
       "times": [
         {
-          "starts_at": "2024-03-19T12:20:00+00:00",
+          "starts_at": "2024-03-19T12:00:00+00:00",
           "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-47852/"
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-47853/"
         },
         {
-          "starts_at": "2024-03-19T13:30:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-47862/"
+          "starts_at": "2024-03-19T17:10:00+00:00",
+          "site": "Curzon Hoxton",
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-15546/"
         },
         {
-          "starts_at": "2024-03-19T18:00:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-47857/"
+          "starts_at": "2024-03-19T11:20:00+00:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-23147/"
         },
         {
-          "starts_at": "2024-03-19T14:10:00+00:00",
+          "starts_at": "2024-03-19T17:40:00+00:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-23141/"
+        },
+        {
+          "starts_at": "2024-03-19T12:50:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-88730/"
+        },
+        {
+          "starts_at": "2024-03-19T15:30:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-88735/"
+        },
+        {
+          "starts_at": "2024-03-19T18:20:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-88805/"
+        },
+        {
+          "starts_at": "2024-03-19T21:00:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-88723/"
+        }
+      ]
+    },
+    {
+      "title": "American Fiction",
+      "trailer": "https://www.youtube.com/watch?v=e8YghfAsgpU",
+      "synopsis": "AMERICAN FICTION is Cord Jefferson's hilarious directorial debut, which confronts our culture’s obsession with reducing people to outrageous stereotypes. Jeffrey Wright stars as Monk, a frustrated novelist who’s fed up with the establishment profiting from “Black” entertainment that relies on tired and offensive tropes. To prove his point, Monk uses a pen name to write an outlandish “Black” book of his own, a book that propels him to the heart of hypocrisy and the madness he claims to disdain.",
+      "runtime": 117,
+      "times": [
+        {
+          "starts_at": "2024-03-19T14:40:00+00:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-47850/"
+        },
+        {
+          "starts_at": "2024-03-19T18:20:00+00:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-47856/"
+        },
+        {
+          "starts_at": "2024-03-19T14:40:00+00:00",
+          "site": "Curzon Soho",
+          "url": "https://www.curzon.com/ticketing/seats/SOH1-43911/"
+        },
+        {
+          "starts_at": "2024-03-19T21:10:00+00:00",
+          "site": "Curzon Soho",
+          "url": "https://www.curzon.com/ticketing/seats/SOH1-43909/"
+        },
+        {
+          "starts_at": "2024-03-19T15:40:00+00:00",
           "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-71410/"
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-71408/"
         },
         {
-          "starts_at": "2024-03-19T16:15:00+00:00",
+          "starts_at": "2024-03-19T20:40:00+00:00",
           "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-71426/"
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-71419/"
+        },
+        {
+          "starts_at": "2024-03-19T15:20:00+00:00",
+          "site": "Curzon Mayfair",
+          "url": "https://www.curzon.com/ticketing/seats/MAY1-26332/"
+        },
+        {
+          "starts_at": "2024-03-19T18:20:00+00:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-23155/"
+        },
+        {
+          "starts_at": "2024-03-19T12:30:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-88736/"
+        },
+        {
+          "starts_at": "2024-03-19T15:10:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-88726/"
         },
         {
           "starts_at": "2024-03-19T20:20:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-71420/"
-        },
-        {
-          "starts_at": "2024-03-19T18:00:00+00:00",
-          "site": "Curzon Mayfair",
-          "url": "https://www.curzon.com/ticketing/seats/MAY1-26331/"
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-88729/"
         }
       ]
     },
@@ -4949,64 +5036,6 @@
           "starts_at": "2024-03-19T18:20:00+00:00",
           "site": "Curzon Victoria",
           "url": "https://www.curzon.com/ticketing/seats/VIC1-71423/"
-        }
-      ]
-    },
-    {
-      "title": "American Fiction",
-      "trailer": "https://www.youtube.com/watch?v=e8YghfAsgpU",
-      "synopsis": "AMERICAN FICTION is Cord Jefferson's hilarious directorial debut, which confronts our culture’s obsession with reducing people to outrageous stereotypes. Jeffrey Wright stars as Monk, a frustrated novelist who’s fed up with the establishment profiting from “Black” entertainment that relies on tired and offensive tropes. To prove his point, Monk uses a pen name to write an outlandish “Black” book of his own, a book that propels him to the heart of hypocrisy and the madness he claims to disdain.",
-      "runtime": 117,
-      "times": [
-        {
-          "starts_at": "2024-03-19T18:20:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-47856/"
-        },
-        {
-          "starts_at": "2024-03-19T14:40:00+00:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-43911/"
-        },
-        {
-          "starts_at": "2024-03-19T21:10:00+00:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-43909/"
-        },
-        {
-          "starts_at": "2024-03-19T15:40:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-71408/"
-        },
-        {
-          "starts_at": "2024-03-19T20:40:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-71419/"
-        },
-        {
-          "starts_at": "2024-03-19T15:20:00+00:00",
-          "site": "Curzon Mayfair",
-          "url": "https://www.curzon.com/ticketing/seats/MAY1-26332/"
-        },
-        {
-          "starts_at": "2024-03-19T18:20:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-23155/"
-        },
-        {
-          "starts_at": "2024-03-19T12:30:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-88736/"
-        },
-        {
-          "starts_at": "2024-03-19T15:20:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-88726/"
-        },
-        {
-          "starts_at": "2024-03-19T20:20:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-88729/"
         }
       ]
     },
@@ -5118,7 +5147,7 @@
           "url": "https://www.curzon.com/ticketing/seats/BLO1-88734/"
         },
         {
-          "starts_at": "2024-03-19T15:40:00+00:00",
+          "starts_at": "2024-03-19T15:20:00+00:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-88731/"
         },
@@ -5131,34 +5160,6 @@
           "starts_at": "2024-03-19T20:50:00+00:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-88733/"
-        }
-      ]
-    },
-    {
-      "title": "Shirley",
-      "trailer": null,
-      "synopsis": "The intimate portrayal of trailblazing political icon Shirley Chisholm, the first Black Congresswoman and the first Black woman to run for President of the U.S, and the cost of accomplishment for Shirley herself. This film will tell the story of Chisholm's boundary-breaking and historic presidential campaign, based on exclusive and extensive conversations with family, friends and those who knew her best.",
-      "runtime": 117,
-      "times": [
-        {
-          "starts_at": "2024-03-19T11:40:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-71414/"
-        },
-        {
-          "starts_at": "2024-03-19T21:00:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-71418/"
-        },
-        {
-          "starts_at": "2024-03-19T11:00:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-23160/"
-        },
-        {
-          "starts_at": "2024-03-19T17:00:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-23157/"
         }
       ]
     },
@@ -5187,44 +5188,6 @@
           "starts_at": "2024-03-19T20:40:00+00:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-23152/"
-        }
-      ]
-    },
-    {
-      "title": "The Zone of Interest",
-      "trailer": null,
-      "synopsis": "The commandant of Auschwitz, Rudolf Höss, and his wife Hedwig, strive to build a dream life for their family in a house and garden next to the camp.",
-      "runtime": 105,
-      "times": [
-        {
-          "starts_at": "2024-03-19T17:10:00+00:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-15546/"
-        },
-        {
-          "starts_at": "2024-03-19T11:20:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-23147/"
-        },
-        {
-          "starts_at": "2024-03-19T17:40:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-23141/"
-        },
-        {
-          "starts_at": "2024-03-19T13:10:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-88730/"
-        },
-        {
-          "starts_at": "2024-03-19T15:30:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-88735/"
-        },
-        {
-          "starts_at": "2024-03-19T21:00:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-88723/"
         }
       ]
     },
