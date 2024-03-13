@@ -53,12 +53,6 @@
     "overview": "Banel and Adama are fiercely in love. The young married couple lives in a remote village in northern Senegal. For them, nothing else exists. Yet their perfect everlasting love is on a collision course with their community’s customs. Because in this world, there is no room for passion, let alone chaos.",
     "release_date": "2023-08-30"
   },
-  "Barbie": {
-    "backdrop": "https://image.tmdb.org/t/p/w500//ctMserH8g2SeOAnCw5gFjdQF8mo.jpg",
-    "poster": "https://image.tmdb.org/t/p/w500//iuFNMS8U5cb6xfzi51Dbkovj7vM.jpg",
-    "overview": "Barbie and Ken are having the time of their lives in the colorful and seemingly perfect world of Barbie Land. However, when they get a chance to go to the real world, they soon discover the joys and perils of living among humans.",
-    "release_date": "2023-07-19"
-  },
   "Bob Marley: One Love": {
     "backdrop": "https://image.tmdb.org/t/p/w500//bPe6svQylMx7zS4RyuMJbOL46ao.jpg",
     "poster": "https://image.tmdb.org/t/p/w500//mKWalirPreEdCKDJjc5TKeOP2xi.jpg",
@@ -98,7 +92,7 @@
   "DocHouse: 20 Days In Mariupol": {
     "backdrop": "https://image.tmdb.org/t/p/w500//xeyN8FF1s9DaEe36LzFhX4PBol9.jpg",
     "poster": "https://image.tmdb.org/t/p/w500//iQ4qXX7XXFxmfl7lNG4cRVUWTbG.jpg",
-    "overview": "As the Russian invasion begins, a team of Ukrainian journalists trapped in the besieged city of Mariupol struggle to continue their work documenting the war’s atrocities.",
+    "overview": "As the Russian invasion begins, a team of Ukrainian journalists trapped in the besieged city of Mariupol struggle to continue their work documenting the war's atrocities.",
     "release_date": "2023-07-14"
   },
   "DocHouse: COPA 71": {
@@ -137,6 +131,12 @@
     "overview": "Renowned Black writer James Baldwin retraces his time in the South during the Civil Rights Movement, reflecting with his trademark brilliance and insight on the passage of more than two decades. From Selma and Birmingham and Atlanta; to the battleground beaches of St. Augustine, Florida, with Chinua Achebe; and back north for a visit to Newark with Amiri Baraka, Baldwin lays bare the fiction of progress in post–Civil Rights America, wondering “what happened to the children” and those 'who did not die, but whose lives were smashed on Freedom Road'.",
     "release_date": "1982-03-03"
   },
+  "DocHouse: I Like It Here": {
+    "backdrop": null,
+    "poster": "https://image.tmdb.org/t/p/w500//59d2z6VNxEqsJ5prsgp1fOWF3ED.jpg",
+    "overview": "\"I Like It Here,\" follows a young man named Takyi, who struggles with his identity as a hybrid of two cultures. Born and raised African-American speaking only English, he also belongs to the richly diverse West African country - Ghana. Attempting to reconnect with his terminally ill Grandfather (who he's named after), he realizes how out of place he is in a society that should be his inheritance. In one life changing taxi ride, we get to the root of his cultural displacement and why he feels he needs to establish a bond with his homeland and his people.",
+    "release_date": "2020-08-06"
+  },
   "DocHouse: Phantom Parrot": {
     "backdrop": "https://image.tmdb.org/t/p/w500//adnO1xO4ccQgJ3hb6YGVAPAg67r.jpg",
     "poster": "https://image.tmdb.org/t/p/w500//uwnPA584dp2iilTKnInvbIDWVHN.jpg",
@@ -144,14 +144,20 @@
     "release_date": "2024-03-15"
   },
   "Drive-Away Dolls": {
-    "backdrop": "https://image.tmdb.org/t/p/w500//l52Xr9urnN7U9MVgmZJUBde2Zj7.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w500//aFapXbk597Wo4xUb0StVzNmToto.jpg",
     "poster": "https://image.tmdb.org/t/p/w500//gavGnAMTXPkpoFgG0stwgIgKb64.jpg",
     "overview": "Jamie, an uninhibited free spirit bemoaning yet another breakup with a girlfriend, and her demure friend Marian desperately needs to loosen up. In search of a fresh start, the two embark on an impromptu road trip to Tallahassee, but things quickly go awry when they cross paths with a group of inept criminals along the way.",
     "release_date": "2024-02-22"
   },
+  "Driving Mum": {
+    "backdrop": "https://image.tmdb.org/t/p/w500//6muVeDQ1xf3Gt3ufy9iHs8WzHQy.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500//pXJTeStGhePd1nxXqLJHnnUYmzF.jpg",
+    "overview": "The death of Jon's mother forces him to take on a journey with her corpse in the backseat to fulfill her last wish. Bresnef the dog comes along and this trip will be the gamechanger Jon never dreamt of.",
+    "release_date": "2022-12-16"
+  },
   "Dune: Part Two": {
     "backdrop": "https://image.tmdb.org/t/p/w500//f6ahdeUZPwUVirr86gcZ1QmiasQ.jpg",
-    "poster": "https://image.tmdb.org/t/p/w500//8b8R8l88Qje9dn9OE8PY05Nxl1X.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500//5aUVLiqcW0kFTBfGsCWjvLas91w.jpg",
     "overview": "Follow the mythic journey of Paul Atreides as he unites with Chani and the Fremen while on a path of revenge against the conspirators who destroyed his family. Facing a choice between the love of his life and the fate of the known universe, Paul endeavors to prevent a terrible future only he can foresee.",
     "release_date": "2024-02-27"
   },
