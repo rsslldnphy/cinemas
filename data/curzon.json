@@ -7,16 +7,6 @@
       "runtime": 167,
       "times": [
         {
-          "starts_at": "2024-03-13T15:40:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-47690/"
-        },
-        {
-          "starts_at": "2024-03-13T17:00:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-47638/"
-        },
-        {
           "starts_at": "2024-03-13T19:20:00+00:00",
           "site": "Curzon Aldgate",
           "url": "https://www.curzon.com/ticketing/seats/ALD1-47640/"
@@ -27,29 +17,9 @@
           "url": "https://www.curzon.com/ticketing/seats/ALD1-47692/"
         },
         {
-          "starts_at": "2024-03-13T17:30:00+00:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-43833/"
-        },
-        {
           "starts_at": "2024-03-13T20:00:00+00:00",
           "site": "Curzon Soho",
           "url": "https://www.curzon.com/ticketing/seats/SOH1-43832/"
-        },
-        {
-          "starts_at": "2024-03-13T15:40:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-71234/"
-        },
-        {
-          "starts_at": "2024-03-13T17:00:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-71230/"
-        },
-        {
-          "starts_at": "2024-03-13T18:00:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-71228/"
         },
         {
           "starts_at": "2024-03-13T19:20:00+00:00",
@@ -62,19 +32,9 @@
           "url": "https://www.curzon.com/ticketing/seats/VIC1-71241/"
         },
         {
-          "starts_at": "2024-03-13T16:20:00+00:00",
-          "site": "Curzon Mayfair",
-          "url": "https://www.curzon.com/ticketing/seats/MAY1-26284/"
-        },
-        {
           "starts_at": "2024-03-13T20:00:00+00:00",
           "site": "Curzon Mayfair",
           "url": "https://www.curzon.com/ticketing/seats/MAY1-26282/"
-        },
-        {
-          "starts_at": "2024-03-13T17:30:00+00:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-15309/"
         },
         {
           "starts_at": "2024-03-13T19:20:00+00:00",
@@ -87,67 +47,14 @@
           "url": "https://www.curzon.com/ticketing/seats/HOX1-15308/"
         },
         {
-          "starts_at": "2024-03-13T17:20:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-23020/"
-        },
-        {
           "starts_at": "2024-03-13T20:00:00+00:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-23030/"
         },
         {
-          "starts_at": "2024-03-13T17:00:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-88572/"
-        },
-        {
           "starts_at": "2024-03-13T20:30:00+00:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-88571/"
-        }
-      ]
-    },
-    {
-      "title": "American Fiction",
-      "trailer": "https://www.youtube.com/watch?v=e8YghfAsgpU",
-      "synopsis": "AMERICAN FICTION is Cord Jefferson's hilarious directorial debut, which confronts our culture’s obsession with reducing people to outrageous stereotypes. Jeffrey Wright stars as Monk, a frustrated novelist who’s fed up with the establishment profiting from “Black” entertainment that relies on tired and offensive tropes. To prove his point, Monk uses a pen name to write an outlandish “Black” book of his own, a book that propels him to the heart of hypocrisy and the madness he claims to disdain.",
-      "runtime": 117,
-      "times": [
-        {
-          "starts_at": "2024-03-13T17:40:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-47691/"
-        },
-        {
-          "starts_at": "2024-03-13T17:10:00+00:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-43860/"
-        },
-        {
-          "starts_at": "2024-03-13T18:20:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-71243/"
-        },
-        {
-          "starts_at": "2024-03-13T18:00:00+00:00",
-          "site": "Curzon Mayfair",
-          "url": "https://www.curzon.com/ticketing/seats/MAY1-26281/"
-        },
-        {
-          "starts_at": "2024-03-13T18:40:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-23028/"
-        },
-        {
-          "starts_at": "2024-03-13T18:00:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-88584/"
-        },
-        {
-          "starts_at": "2024-03-13T20:50:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-88577/"
         }
       ]
     },
@@ -184,11 +91,6 @@
           "starts_at": "2024-03-13T21:30:00+00:00",
           "site": "Curzon Aldgate",
           "url": "https://www.curzon.com/ticketing/seats/ALD1-47688/"
-        },
-        {
-          "starts_at": "2024-03-13T17:40:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-71229/"
         }
       ]
     },
@@ -209,19 +111,9 @@
           "url": "https://www.curzon.com/ticketing/seats/VIC1-71239/"
         },
         {
-          "starts_at": "2024-03-13T16:30:00+00:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-15369/"
-        },
-        {
           "starts_at": "2024-03-13T21:00:00+00:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-23032/"
-        },
-        {
-          "starts_at": "2024-03-13T18:10:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-88585/"
         },
         {
           "starts_at": "2024-03-13T21:00:00+00:00",
@@ -258,75 +150,24 @@
           "starts_at": "2024-03-13T21:00:00+00:00",
           "site": "Curzon Hoxton",
           "url": "https://www.curzon.com/ticketing/seats/HOX1-15372/"
-        },
-        {
-          "starts_at": "2024-03-13T18:00:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-23022/"
         }
       ]
     },
     {
-      "title": "The Zone of Interest",
-      "trailer": null,
-      "synopsis": "The commandant of Auschwitz, Rudolf Höss, and his wife Hedwig, strive to build a dream life for their family in a house and garden next to the camp.",
-      "runtime": 105,
-      "times": [
-        {
-          "starts_at": "2024-03-13T18:00:00+00:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-15370/"
-        },
-        {
-          "starts_at": "2024-03-13T17:40:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-23021/"
-        },
-        {
-          "starts_at": "2024-03-13T16:15:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-88583/"
-        },
-        {
-          "starts_at": "2024-03-13T18:40:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-88591/"
-        },
-        {
-          "starts_at": "2024-03-13T21:10:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-88579/"
-        }
-      ]
-    },
-    {
-      "title": "National Theatre Live: Vanya",
-      "trailer": "https://www.youtube.com/watch?v=9cp3Sm2kiqE",
-      "synopsis": "Andrew Scott (Fleabag) brings multiple characters to life in Simon Stephens’ (The Curious Incident of the Dog in the Night-Time) radical new version of Chekhov’s Uncle Vanya.\nHopes, dreams, and regrets are thrust into sharp focus in this one-man adaptation which explores the complexities of human emotions.\nFilmed live during its sold-out run in London’s West End, Vanya will be playing exclusively in cinemas in 2024.",
+      "title": "American Fiction",
+      "trailer": "https://www.youtube.com/watch?v=e8YghfAsgpU",
+      "synopsis": "AMERICAN FICTION is Cord Jefferson's hilarious directorial debut, which confronts our culture’s obsession with reducing people to outrageous stereotypes. Jeffrey Wright stars as Monk, a frustrated novelist who’s fed up with the establishment profiting from “Black” entertainment that relies on tired and offensive tropes. To prove his point, Monk uses a pen name to write an outlandish “Black” book of his own, a book that propels him to the heart of hypocrisy and the madness he claims to disdain.",
       "runtime": 117,
       "times": [
         {
-          "starts_at": "2024-03-13T16:20:00+00:00",
+          "starts_at": "2024-03-13T18:40:00+00:00",
           "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-23023/"
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-23028/"
         },
         {
-          "starts_at": "2024-03-13T21:20:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-23029/"
-        }
-      ]
-    },
-    {
-      "title": "Four Daughters",
-      "trailer": "https://www.youtube.com/watch?v=36th41-rdb8",
-      "synopsis": "The life of Olfa, a Tunisian woman and mother of four daughters, oscillates between light and shadow. One day, her two eldest daughters disappear. To fill their absence, director Kaouther Ben Hania calls upon professional actors and sets up an extraordinary film mechanism to unveil the story of Olfa and her family.\n\nAn intimate journey full of hope, rebellion, violence, intergenerational transmission and sisterhood, which will question the very foundation of our societies.\n",
-      "runtime": 108,
-      "times": [
-        {
-          "starts_at": "2024-03-13T17:00:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-23026/"
+          "starts_at": "2024-03-13T20:50:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-88577/"
         }
       ]
     },
@@ -344,41 +185,15 @@
       ]
     },
     {
-      "title": "DocHouse: COPA 71",
-      "trailer": null,
-      "synopsis": "It's August 1971, 20 years before the first official FIFA Women's World Cup, and a monumental, unofficial football tournament takes place in Mexico City, drawing national women's teams to compete from across the globe. Press, TV and thousands of fans flock to the Azteca Stadium for a tense and glorious tournament - the Copa 71.\r\n\r\nDismissed by both FIFA and domestic football associations around the world, this event has been written out of sporting history.\r\n\r\nTold by the pioneering players who participated in Mexico, and filled with tremendous archive footage unseen for fifty years, Copa 71 is a lively retelling of the highs and lows of this groundbreaking championship.",
-      "runtime": 91,
-      "times": [
-        {
-          "starts_at": "2024-03-13T16:30:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-88626/"
-        }
-      ]
-    },
-    {
-      "title": "Red Island",
-      "trailer": null,
-      "synopsis": "Robin Campillo, director of the acclaimed 120 BPM and Eastern Boys, mines the memories of his upbringing in post-colonial Madagascar to create a spellbinding, autobiographically inspired drama that mixes forms and textures to stunning and imaginative effect. ",
+      "title": "National Theatre Live: Vanya",
+      "trailer": "https://www.youtube.com/watch?v=9cp3Sm2kiqE",
+      "synopsis": "Andrew Scott (Fleabag) brings multiple characters to life in Simon Stephens’ (The Curious Incident of the Dog in the Night-Time) radical new version of Chekhov’s Uncle Vanya.\nHopes, dreams, and regrets are thrust into sharp focus in this one-man adaptation which explores the complexities of human emotions.\nFilmed live during its sold-out run in London’s West End, Vanya will be playing exclusively in cinemas in 2024.",
       "runtime": 117,
       "times": [
         {
-          "starts_at": "2024-03-13T17:40:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-88586/"
-        }
-      ]
-    },
-    {
-      "title": "DocHouse: Four Daughters",
-      "trailer": null,
-      "synopsis": "Formally inventive and strikingly astute, this Oscar-nominated hybrid explores the life of Tunisian mother Olfa and her four daughters. While the younger two are present to re-enact scenes from their family history, the disappearance of the older two from the family home becomes the central burning question around which the narrative spirals.\r\n\r\nThe two missing sisters will be played by professional actors in staged reconstructions, guided by Olfa and her younger girls, and multi-award-winning Tunisian-Egyptian actor Hend Sabri steps into Olfa's shoes, and into the narrative.\r\n\r\nAs bonds form between the family members and the actors, director Kaouther Ben Hania sets up an extraordinary film mechanism to unveil the story of Olfa and her family.\r\n\r\n\r\nAn intimate journey full of hope, rebellion, violence, intergenerational transmission and sisterhood, which will question the very foundation of our societies. ",
-      "runtime": 110,
-      "times": [
-        {
-          "starts_at": "2024-03-13T18:20:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-88627/"
+          "starts_at": "2024-03-13T21:20:00+00:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-23029/"
         }
       ]
     },
@@ -405,6 +220,19 @@
           "starts_at": "2024-03-13T20:40:00+00:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-88628/"
+        }
+      ]
+    },
+    {
+      "title": "The Zone of Interest",
+      "trailer": null,
+      "synopsis": "The commandant of Auschwitz, Rudolf Höss, and his wife Hedwig, strive to build a dream life for their family in a house and garden next to the camp.",
+      "runtime": 105,
+      "times": [
+        {
+          "starts_at": "2024-03-13T21:10:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-88579/"
         }
       ]
     }
@@ -4282,6 +4110,11 @@
           "url": "https://www.curzon.com/ticketing/seats/VIC1-71422/"
         },
         {
+          "starts_at": "2024-03-19T21:30:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-71417/"
+        },
+        {
           "starts_at": "2024-03-19T15:00:00+00:00",
           "site": "Curzon Mayfair",
           "url": "https://www.curzon.com/ticketing/seats/MAY1-26327/"
@@ -4617,6 +4450,84 @@
       ]
     },
     {
+      "title": "Drive-Away Dolls",
+      "trailer": "https://www.youtube.com/watch?v=cJIr0p-X63w",
+      "synopsis": "Written by Ethan Coen and Tricia Cooke, this comedy caper follows Jamie, an uninhibited free spirit bemoaning yet another breakup with a girlfriend, and her demure friend Marian who desperately needs to loosen up. In search of a fresh start, the two embark on an impromptu road trip to Tallahassee, but things quickly go awry when they cross paths with a group of inept criminals along the way. Directed by Ethan Coen.",
+      "runtime": 84,
+      "times": [
+        {
+          "starts_at": "2024-03-20T11:30:00+00:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-47782/"
+        },
+        {
+          "starts_at": "2024-03-20T15:20:00+00:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-47772/"
+        },
+        {
+          "starts_at": "2024-03-20T17:20:00+00:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-47770/"
+        },
+        {
+          "starts_at": "2024-03-20T11:50:00+00:00",
+          "site": "Curzon Soho",
+          "url": "https://www.curzon.com/ticketing/seats/SOH1-43954/"
+        },
+        {
+          "starts_at": "2024-03-20T21:15:00+00:00",
+          "site": "Curzon Soho",
+          "url": "https://www.curzon.com/ticketing/seats/SOH1-43958/"
+        },
+        {
+          "starts_at": "2024-03-20T14:40:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-71339/"
+        },
+        {
+          "starts_at": "2024-03-20T21:10:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-71345/"
+        },
+        {
+          "starts_at": "2024-03-20T14:45:00+00:00",
+          "site": "Curzon Mayfair",
+          "url": "https://www.curzon.com/ticketing/seats/MAY1-26335/"
+        },
+        {
+          "starts_at": "2024-03-20T21:20:00+00:00",
+          "site": "Curzon Mayfair",
+          "url": "https://www.curzon.com/ticketing/seats/MAY1-26337/"
+        },
+        {
+          "starts_at": "2024-03-20T12:00:00+00:00",
+          "site": "Curzon Hoxton",
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-15568/"
+        },
+        {
+          "starts_at": "2024-03-20T15:50:00+00:00",
+          "site": "Curzon Hoxton",
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-15560/"
+        },
+        {
+          "starts_at": "2024-03-20T18:20:00+00:00",
+          "site": "Curzon Hoxton",
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-15563/"
+        },
+        {
+          "starts_at": "2024-03-20T16:00:00+00:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-23173/"
+        },
+        {
+          "starts_at": "2024-03-20T21:20:00+00:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-23174/"
+        }
+      ]
+    },
+    {
       "title": "Dune: Part Two",
       "trailer": "https://www.youtube.com/watch?v=CHDU-B5K_Xw",
       "synopsis": "Paul Atreides unites with Chani and the Fremen while on a warpath of revenge against the conspirators who destroyed his family. Facing a choice between the love of his life and the fate of the known universe, he endeavors to prevent a terrible future only he can foresee.",
@@ -4865,79 +4776,6 @@
           "starts_at": "2024-03-20T20:20:00+00:00",
           "site": "Curzon Victoria",
           "url": "https://www.curzon.com/ticketing/seats/VIC1-71427/"
-        }
-      ]
-    },
-    {
-      "title": "Drive-Away Dolls",
-      "trailer": "https://www.youtube.com/watch?v=cJIr0p-X63w",
-      "synopsis": "Written by Ethan Coen and Tricia Cooke, this comedy caper follows Jamie, an uninhibited free spirit bemoaning yet another breakup with a girlfriend, and her demure friend Marian who desperately needs to loosen up. In search of a fresh start, the two embark on an impromptu road trip to Tallahassee, but things quickly go awry when they cross paths with a group of inept criminals along the way. Directed by Ethan Coen.",
-      "runtime": 84,
-      "times": [
-        {
-          "starts_at": "2024-03-20T15:20:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-47772/"
-        },
-        {
-          "starts_at": "2024-03-20T17:20:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-47770/"
-        },
-        {
-          "starts_at": "2024-03-20T11:50:00+00:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-43954/"
-        },
-        {
-          "starts_at": "2024-03-20T21:15:00+00:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-43958/"
-        },
-        {
-          "starts_at": "2024-03-20T14:40:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-71339/"
-        },
-        {
-          "starts_at": "2024-03-20T21:10:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-71345/"
-        },
-        {
-          "starts_at": "2024-03-20T14:45:00+00:00",
-          "site": "Curzon Mayfair",
-          "url": "https://www.curzon.com/ticketing/seats/MAY1-26335/"
-        },
-        {
-          "starts_at": "2024-03-20T21:20:00+00:00",
-          "site": "Curzon Mayfair",
-          "url": "https://www.curzon.com/ticketing/seats/MAY1-26337/"
-        },
-        {
-          "starts_at": "2024-03-20T12:00:00+00:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-15568/"
-        },
-        {
-          "starts_at": "2024-03-20T15:50:00+00:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-15560/"
-        },
-        {
-          "starts_at": "2024-03-20T18:20:00+00:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-15563/"
-        },
-        {
-          "starts_at": "2024-03-20T16:00:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-23173/"
-        },
-        {
-          "starts_at": "2024-03-20T21:20:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-23174/"
         }
       ]
     },
