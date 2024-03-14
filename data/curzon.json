@@ -7,21 +7,6 @@
       "runtime": 167,
       "times": [
         {
-          "starts_at": "2024-03-14T15:40:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-47709/"
-        },
-        {
-          "starts_at": "2024-03-14T17:00:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-47642/"
-        },
-        {
-          "starts_at": "2024-03-14T18:00:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-47707/"
-        },
-        {
           "starts_at": "2024-03-14T19:20:00+00:00",
           "site": "Curzon Aldgate",
           "url": "https://www.curzon.com/ticketing/seats/ALD1-47644/"
@@ -32,29 +17,9 @@
           "url": "https://www.curzon.com/ticketing/seats/ALD1-47706/"
         },
         {
-          "starts_at": "2024-03-14T17:30:00+00:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-43835/"
-        },
-        {
           "starts_at": "2024-03-14T20:00:00+00:00",
           "site": "Curzon Soho",
           "url": "https://www.curzon.com/ticketing/seats/SOH1-43834/"
-        },
-        {
-          "starts_at": "2024-03-14T15:40:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-71249/"
-        },
-        {
-          "starts_at": "2024-03-14T17:00:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-71248/"
-        },
-        {
-          "starts_at": "2024-03-14T18:00:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-71246/"
         },
         {
           "starts_at": "2024-03-14T19:20:00+00:00",
@@ -67,11 +32,6 @@
           "url": "https://www.curzon.com/ticketing/seats/VIC1-71259/"
         },
         {
-          "starts_at": "2024-03-14T17:30:00+00:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-15325/"
-        },
-        {
           "starts_at": "2024-03-14T19:20:00+00:00",
           "site": "Curzon Hoxton",
           "url": "https://www.curzon.com/ticketing/seats/HOX1-15364/"
@@ -82,62 +42,14 @@
           "url": "https://www.curzon.com/ticketing/seats/HOX1-15326/"
         },
         {
-          "starts_at": "2024-03-14T17:20:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-23039/"
-        },
-        {
           "starts_at": "2024-03-14T20:00:00+00:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-23049/"
         },
         {
-          "starts_at": "2024-03-14T17:00:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-88593/"
-        },
-        {
           "starts_at": "2024-03-14T20:30:00+00:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-88592/"
-        }
-      ]
-    },
-    {
-      "title": "American Fiction",
-      "trailer": "https://www.youtube.com/watch?v=e8YghfAsgpU",
-      "synopsis": "AMERICAN FICTION is Cord Jefferson's hilarious directorial debut, which confronts our culture’s obsession with reducing people to outrageous stereotypes. Jeffrey Wright stars as Monk, a frustrated novelist who’s fed up with the establishment profiting from “Black” entertainment that relies on tired and offensive tropes. To prove his point, Monk uses a pen name to write an outlandish “Black” book of his own, a book that propels him to the heart of hypocrisy and the madness he claims to disdain.",
-      "runtime": 117,
-      "times": [
-        {
-          "starts_at": "2024-03-14T17:40:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-47708/"
-        },
-        {
-          "starts_at": "2024-03-14T17:10:00+00:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-43861/"
-        },
-        {
-          "starts_at": "2024-03-14T18:20:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-71261/"
-        },
-        {
-          "starts_at": "2024-03-14T18:40:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-23047/"
-        },
-        {
-          "starts_at": "2024-03-14T18:00:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-88605/"
-        },
-        {
-          "starts_at": "2024-03-14T20:50:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-88598/"
         }
       ]
     },
@@ -174,16 +86,6 @@
           "starts_at": "2024-03-14T21:30:00+00:00",
           "site": "Curzon Aldgate",
           "url": "https://www.curzon.com/ticketing/seats/ALD1-47705/"
-        },
-        {
-          "starts_at": "2024-03-14T17:40:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-23040/"
-        },
-        {
-          "starts_at": "2024-03-14T16:15:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-88604/"
         },
         {
           "starts_at": "2024-03-14T21:10:00+00:00",
@@ -227,27 +129,9 @@
           "url": "https://www.curzon.com/ticketing/seats/CAM1-23051/"
         },
         {
-          "starts_at": "2024-03-14T18:10:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-88606/"
-        },
-        {
           "starts_at": "2024-03-14T21:00:00+00:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-88599/"
-        }
-      ]
-    },
-    {
-      "title": "Wicked Little Letters",
-      "trailer": "https://www.youtube.com/watch?v=fgqQvmbP-UU",
-      "synopsis": "A 1920s English seaside town bears witness to a dark and absurd scandal in this riotous mystery comedy. Based on a stranger than fiction true story, WICKED LITTLE LETTERS follows two neighbours: deeply conservative local Edith Swan (Olivia Colman) and rowdy Irish migrant Rose Gooding (Jessie Buckley). When Edith and fellow residents begin to receive wicked letters full of unintentionally hilarious profanities, foulmouthed Rose is charged with the crime. The anonymous letters prompt a national uproar, and a trial ensues. However, as the town's women - led by Police Officer Gladys Moss (Anjana Vasan) - begin to investigate the crime themselves, they suspect that something is amiss, and Rose may not be the culprit after all.",
-      "runtime": 100,
-      "times": [
-        {
-          "starts_at": "2024-03-14T17:40:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-71247/"
         }
       ]
     },
@@ -261,11 +145,6 @@
           "starts_at": "2024-03-14T21:00:00+00:00",
           "site": "Curzon Victoria",
           "url": "https://www.curzon.com/ticketing/seats/VIC1-71264/"
-        },
-        {
-          "starts_at": "2024-03-14T16:20:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-23042/"
         },
         {
           "starts_at": "2024-03-14T21:20:00+00:00",
@@ -288,46 +167,20 @@
       ]
     },
     {
-      "title": "The Iron Claw",
-      "trailer": "https://www.youtube.com/watch?v=MHO0Vqb8F4c",
-      "synopsis": "THE IRON CLAW depicts the true story of the inseparable Von Erich brothers, who made history in the intensely competitive world of professional wrestling in the early 1980s. Through tragedy and triumph, under the shadow of their domineering father and coach, the brothers seek larger-than-life immortality on the biggest stage in sports.",
-      "runtime": 132,
-      "times": [
-        {
-          "starts_at": "2024-03-14T16:20:00+00:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-15362/"
-        }
-      ]
-    },
-    {
-      "title": "High & Low - John Galliano",
-      "trailer": null,
-      "synopsis": "HIGH & LOW - JOHN GALLIANO is the gripping and thought-provoking new documentary from Academy Award® winner Kevin Macdonald, charting the rise-and-fall story of fashion designer John Galliano. Galliano was widely recognized as one of the most successful names in 1990s and 2000s couture, until his career abruptly ended when he was caught on camera in 2011 hurling antisemitic and racist insults at bystanders in Paris. Macdonald’s compelling documentary traces Galliano’s working and private life through the decades, candidly investigating his struggles with addiction and the industry pressure he faced along the way. Featuring conversations with Naomi Campbell, Kate Moss, Penelope Cruz, Charlize Theron, Anna Wintour, Edward Enninful and more.",
+      "title": "American Fiction",
+      "trailer": "https://www.youtube.com/watch?v=e8YghfAsgpU",
+      "synopsis": "AMERICAN FICTION is Cord Jefferson's hilarious directorial debut, which confronts our culture’s obsession with reducing people to outrageous stereotypes. Jeffrey Wright stars as Monk, a frustrated novelist who’s fed up with the establishment profiting from “Black” entertainment that relies on tired and offensive tropes. To prove his point, Monk uses a pen name to write an outlandish “Black” book of his own, a book that propels him to the heart of hypocrisy and the madness he claims to disdain.",
       "runtime": 117,
       "times": [
         {
-          "starts_at": "2024-03-14T17:50:00+00:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-15366/"
+          "starts_at": "2024-03-14T18:40:00+00:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-23047/"
         },
         {
-          "starts_at": "2024-03-14T18:00:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-23041/"
-        }
-      ]
-    },
-    {
-      "title": "Four Daughters",
-      "trailer": "https://www.youtube.com/watch?v=36th41-rdb8",
-      "synopsis": "The life of Olfa, a Tunisian woman and mother of four daughters, oscillates between light and shadow. One day, her two eldest daughters disappear. To fill their absence, director Kaouther Ben Hania calls upon professional actors and sets up an extraordinary film mechanism to unveil the story of Olfa and her family.\n\nAn intimate journey full of hope, rebellion, violence, intergenerational transmission and sisterhood, which will question the very foundation of our societies.\n",
-      "runtime": 108,
-      "times": [
-        {
-          "starts_at": "2024-03-14T17:00:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-23045/"
+          "starts_at": "2024-03-14T20:50:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-88598/"
         }
       ]
     },
@@ -341,45 +194,6 @@
           "starts_at": "2024-03-14T20:20:00+00:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-23055/"
-        }
-      ]
-    },
-    {
-      "title": "DocHouse: High & Low: John Galliano",
-      "trailer": null,
-      "synopsis": "Widely recognized as one of the most influential and successful fashion designers of our time, John Galliano dressed the most beautiful and influential men and women in the world for almost 15 years at Givenchy and Dior.\r\n\r\nIn 2011, his career abruptly ended after he was captured on video using shocking, abusive, antisemitic and racist insults. Director Kevin Macdonald investigates the multiple facets and contradictions of John Galliano’s character, and the decades of industry pressure and drug and alcohol addiction that surrounded his downfall.\r\n\r\nFeaturing conversations with Naomi Campbell, Kate Moss, Penelope Cruz, Charlize Theron, Anna Wintour, Edward Enninful, Boris Cyrulnik, Hamish Bowles and Sidney Toledano, among others, High & Low: John Galliano explores culpability, cancellation and questions who society 'cancels' and who gets granted a second chance.",
-      "runtime": 116,
-      "times": [
-        {
-          "starts_at": "2024-03-14T16:00:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-88325/"
-        }
-      ]
-    },
-    {
-      "title": "Red Island",
-      "trailer": null,
-      "synopsis": "Robin Campillo, director of the acclaimed 120 BPM and Eastern Boys, mines the memories of his upbringing in post-colonial Madagascar to create a spellbinding, autobiographically inspired drama that mixes forms and textures to stunning and imaginative effect. ",
-      "runtime": 117,
-      "times": [
-        {
-          "starts_at": "2024-03-14T17:40:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-88607/"
-        }
-      ]
-    },
-    {
-      "title": "DocHouse: COPA 71",
-      "trailer": null,
-      "synopsis": "It's August 1971, 20 years before the first official FIFA Women's World Cup, and a monumental, unofficial football tournament takes place in Mexico City, drawing national women's teams to compete from across the globe. Press, TV and thousands of fans flock to the Azteca Stadium for a tense and glorious tournament - the Copa 71.\r\n\r\nDismissed by both FIFA and domestic football associations around the world, this event has been written out of sporting history.\r\n\r\nTold by the pioneering players who participated in Mexico, and filled with tremendous archive footage unseen for fifty years, Copa 71 is a lively retelling of the highs and lows of this groundbreaking championship.",
-      "runtime": 91,
-      "times": [
-        {
-          "starts_at": "2024-03-14T18:20:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-88472/"
         }
       ]
     },
@@ -3915,6 +3729,44 @@
   ],
   "2024-03-20": [
     {
+      "title": "Shirley",
+      "trailer": null,
+      "synopsis": "The intimate portrayal of trailblazing political icon Shirley Chisholm, the first Black Congresswoman and the first Black woman to run for President of the U.S, and the cost of accomplishment for Shirley herself. This film will tell the story of Chisholm's boundary-breaking and historic presidential campaign, based on exclusive and extensive conversations with family, friends and those who knew her best.",
+      "runtime": 117,
+      "times": [
+        {
+          "starts_at": "2024-03-20T11:30:00+00:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-47877/"
+        },
+        {
+          "starts_at": "2024-03-20T21:20:00+00:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-47876/"
+        },
+        {
+          "starts_at": "2024-03-20T11:20:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-71336/"
+        },
+        {
+          "starts_at": "2024-03-20T17:00:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-71344/"
+        },
+        {
+          "starts_at": "2024-03-20T12:00:00+00:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-23180/"
+        },
+        {
+          "starts_at": "2024-03-20T20:40:00+00:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-23177/"
+        }
+      ]
+    },
+    {
       "title": "Drive-Away Dolls",
       "trailer": "https://www.youtube.com/watch?v=cJIr0p-X63w",
       "synopsis": "Written by Ethan Coen and Tricia Cooke, this comedy caper follows Jamie, an uninhibited free spirit bemoaning yet another breakup with a girlfriend, and her demure friend Marian who desperately needs to loosen up. In search of a fresh start, the two embark on an impromptu road trip to Tallahassee, but things quickly go awry when they cross paths with a group of inept criminals along the way. Directed by Ethan Coen.",
@@ -3989,44 +3841,6 @@
           "starts_at": "2024-03-20T21:20:00+00:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-23174/"
-        }
-      ]
-    },
-    {
-      "title": "Shirley",
-      "trailer": null,
-      "synopsis": "The intimate portrayal of trailblazing political icon Shirley Chisholm, the first Black Congresswoman and the first Black woman to run for President of the U.S, and the cost of accomplishment for Shirley herself. This film will tell the story of Chisholm's boundary-breaking and historic presidential campaign, based on exclusive and extensive conversations with family, friends and those who knew her best.",
-      "runtime": 117,
-      "times": [
-        {
-          "starts_at": "2024-03-20T11:30:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-47877/"
-        },
-        {
-          "starts_at": "2024-03-20T21:20:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-47876/"
-        },
-        {
-          "starts_at": "2024-03-20T11:20:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-71336/"
-        },
-        {
-          "starts_at": "2024-03-20T17:00:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-71344/"
-        },
-        {
-          "starts_at": "2024-03-20T12:00:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-23180/"
-        },
-        {
-          "starts_at": "2024-03-20T20:40:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-23177/"
         }
       ]
     },
