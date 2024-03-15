@@ -7,11 +7,6 @@
       "runtime": 167,
       "times": [
         {
-          "starts_at": "2024-03-15T19:30:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-47721/"
-        },
-        {
           "starts_at": "2024-03-15T20:40:00+00:00",
           "site": "Curzon Aldgate",
           "url": "https://www.curzon.com/ticketing/seats/ALD1-47716/"
@@ -22,29 +17,9 @@
           "url": "https://www.curzon.com/ticketing/seats/SOH1-43886/"
         },
         {
-          "starts_at": "2024-03-15T19:40:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-71289/"
-        },
-        {
-          "starts_at": "2024-03-15T19:40:00+00:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-15390/"
-        },
-        {
           "starts_at": "2024-03-15T20:30:00+00:00",
           "site": "Curzon Hoxton",
           "url": "https://www.curzon.com/ticketing/seats/HOX1-15384/"
-        },
-        {
-          "starts_at": "2024-03-15T20:00:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-23089/"
-        },
-        {
-          "starts_at": "2024-03-15T19:50:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-88660/"
         }
       ]
     },
@@ -58,11 +33,6 @@
           "starts_at": "2024-03-15T21:00:00+00:00",
           "site": "Curzon Aldgate",
           "url": "https://www.curzon.com/ticketing/seats/ALD1-47725/"
-        },
-        {
-          "starts_at": "2024-03-15T18:50:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-71296/"
         },
         {
           "starts_at": "2024-03-15T21:30:00+00:00",
@@ -111,11 +81,6 @@
           "url": "https://www.curzon.com/ticketing/seats/SOH1-43888/"
         },
         {
-          "starts_at": "2024-03-15T20:20:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-23092/"
-        },
-        {
           "starts_at": "2024-03-15T21:00:00+00:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-88655/"
@@ -137,19 +102,6 @@
           "starts_at": "2024-03-15T20:40:00+00:00",
           "site": "Curzon Victoria",
           "url": "https://www.curzon.com/ticketing/seats/VIC1-71299/"
-        }
-      ]
-    },
-    {
-      "title": "The New Boy",
-      "trailer": "https://www.youtube.com/watch?v=BNT-jpoo9KU",
-      "synopsis": "Set in 1940s Australia, the film depicts the mesmeric story of a 9-year-old Aboriginal orphan boy who arrives in the dead of night at a remote monastery run by a renegade nun (Blanchett). The new boy’s presence disturbs the delicately balanced world in this story of spiritual struggle and the cost of survival.",
-      "runtime": 96,
-      "times": [
-        {
-          "starts_at": "2024-03-15T20:20:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-71298/"
         }
       ]
     },
@@ -186,19 +138,6 @@
           "starts_at": "2024-03-15T21:00:00+00:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-23203/"
-        }
-      ]
-    },
-    {
-      "title": "Perfect Days",
-      "trailer": null,
-      "synopsis": "A highly anticipated return to fiction feature filmmaking from Wim Wenders (Paris, Texas, Wings of Desire), PERFECT DAYS takes the writer-director to Tokyo to tell a story celebrating the hidden joys and minutiae of Japanese culture. Winner of the Best Actor award at Cannes 2023, Koji Yakusho (Babel, 13 Assassins) stars as Hirayama, a contemplative middle-aged man who lives a life of modesty and serenity, spending his days balancing his job as a dutiful caretaker of Tokyo’s numerous public toilets with his passion for music, literature and photography. As we join him on his structured daily routine, a series of unexpected encounters gradually begin to reveal a hidden past that lies behind his otherwise content and harmonious life. \n\nCombining a refreshingly unstereotypical depiction of the Japanese capital with a soundtrack comprised of iconic hits from the 60s and 80s, this is a subtle, shimmering and ultimately life-affirming reflection on finding beauty in the everyday world around us. Japan’s entry for Best International Film at the 2024 Academy Awards.\n",
-      "runtime": 125,
-      "times": [
-        {
-          "starts_at": "2024-03-15T20:30:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-88661/"
         }
       ]
     },
