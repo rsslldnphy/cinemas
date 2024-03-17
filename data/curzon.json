@@ -1,45 +1,101 @@
 {
   "2024-03-17": [
     {
-      "title": "The Zone of Interest",
-      "trailer": null,
-      "synopsis": "The commandant of Auschwitz, Rudolf Höss, and his wife Hedwig, strive to build a dream life for their family in a house and garden next to the camp.",
-      "runtime": 105,
+      "title": "Wicked Little Letters",
+      "trailer": "https://www.youtube.com/watch?v=fgqQvmbP-UU",
+      "synopsis": "A 1920s English seaside town bears witness to a dark and absurd scandal in this riotous mystery comedy. Based on a stranger than fiction true story, WICKED LITTLE LETTERS follows two neighbours: deeply conservative local Edith Swan (Olivia Colman) and rowdy Irish migrant Rose Gooding (Jessie Buckley). When Edith and fellow residents begin to receive wicked letters full of unintentionally hilarious profanities, foulmouthed Rose is charged with the crime. The anonymous letters prompt a national uproar, and a trial ensues. However, as the town's women - led by Police Officer Gladys Moss (Anjana Vasan) - begin to investigate the crime themselves, they suspect that something is amiss, and Rose may not be the culprit after all.",
+      "runtime": 100,
       "times": [
         {
-          "starts_at": "2024-03-17T13:20:00+00:00",
+          "starts_at": "2024-03-17T15:50:00+00:00",
           "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-47817/"
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-47821/"
         },
         {
-          "starts_at": "2024-03-17T16:00:00+00:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-15526/"
+          "starts_at": "2024-03-17T18:00:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-71403/"
+        }
+      ]
+    },
+    {
+      "title": "Drive-Away Dolls",
+      "trailer": "https://www.youtube.com/watch?v=cJIr0p-X63w",
+      "synopsis": "Written by Ethan Coen and Tricia Cooke, this comedy caper follows Jamie, an uninhibited free spirit bemoaning yet another breakup with a girlfriend, and her demure friend Marian who desperately needs to loosen up. In search of a fresh start, the two embark on an impromptu road trip to Tallahassee, but things quickly go awry when they cross paths with a group of inept criminals along the way. Directed by Ethan Coen.",
+      "runtime": 84,
+      "times": [
+        {
+          "starts_at": "2024-03-17T17:00:00+00:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-47820/"
         },
         {
-          "starts_at": "2024-03-17T16:40:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-23130/"
-        },
-        {
-          "starts_at": "2024-03-17T12:30:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-88705/"
-        },
-        {
-          "starts_at": "2024-03-17T14:50:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-88692/"
+          "starts_at": "2024-03-17T21:00:00+00:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-47828/"
         },
         {
           "starts_at": "2024-03-17T17:50:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-88689/"
+          "site": "Curzon Soho",
+          "url": "https://www.curzon.com/ticketing/seats/SOH1-43905/"
         },
         {
-          "starts_at": "2024-03-17T20:10:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-88693/"
+          "starts_at": "2024-03-17T18:40:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-71402/"
+        },
+        {
+          "starts_at": "2024-03-17T21:10:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-71397/"
+        },
+        {
+          "starts_at": "2024-03-17T20:40:00+00:00",
+          "site": "Curzon Mayfair",
+          "url": "https://www.curzon.com/ticketing/seats/MAY1-26315/"
+        },
+        {
+          "starts_at": "2024-03-17T17:40:00+00:00",
+          "site": "Curzon Hoxton",
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-15532/"
+        },
+        {
+          "starts_at": "2024-03-17T15:30:00+00:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-23138/"
+        },
+        {
+          "starts_at": "2024-03-17T21:00:00+00:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-23137/"
+        }
+      ]
+    },
+    {
+      "title": "The New Boy",
+      "trailer": "https://www.youtube.com/watch?v=BNT-jpoo9KU",
+      "synopsis": "Set in 1940s Australia, the film depicts the mesmeric story of a 9-year-old Aboriginal orphan boy who arrives in the dead of night at a remote monastery run by a renegade nun (Blanchett). The new boy’s presence disturbs the delicately balanced world in this story of spiritual struggle and the cost of survival.",
+      "runtime": 96,
+      "times": [
+        {
+          "starts_at": "2024-03-17T17:20:00+00:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-47818/"
+        },
+        {
+          "starts_at": "2024-03-17T16:00:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-71406/"
+        },
+        {
+          "starts_at": "2024-03-17T20:00:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-71400/"
+        },
+        {
+          "starts_at": "2024-03-17T17:40:00+00:00",
+          "site": "Curzon Mayfair",
+          "url": "https://www.curzon.com/ticketing/seats/MAY1-26317/"
         }
       ]
     },
@@ -49,11 +105,6 @@
       "synopsis": "Paul Atreides unites with Chani and the Fremen while on a warpath of revenge against the conspirators who destroyed his family. Facing a choice between the love of his life and the fate of the known universe, he endeavors to prevent a terrible future only he can foresee.",
       "runtime": 167,
       "times": [
-        {
-          "starts_at": "2024-03-17T13:40:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-47824/"
-        },
         {
           "starts_at": "2024-03-17T17:40:00+00:00",
           "site": "Curzon Aldgate",
@@ -70,11 +121,6 @@
           "url": "https://www.curzon.com/ticketing/seats/ALD1-47829/"
         },
         {
-          "starts_at": "2024-03-17T14:00:00+00:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-43901/"
-        },
-        {
           "starts_at": "2024-03-17T17:00:00+00:00",
           "site": "Curzon Soho",
           "url": "https://www.curzon.com/ticketing/seats/SOH1-43902/"
@@ -83,11 +129,6 @@
           "starts_at": "2024-03-17T20:00:00+00:00",
           "site": "Curzon Soho",
           "url": "https://www.curzon.com/ticketing/seats/SOH1-43898/"
-        },
-        {
-          "starts_at": "2024-03-17T14:10:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-71389/"
         },
         {
           "starts_at": "2024-03-17T15:40:00+00:00",
@@ -110,11 +151,6 @@
           "url": "https://www.curzon.com/ticketing/seats/MAY1-26314/"
         },
         {
-          "starts_at": "2024-03-17T14:00:00+00:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-15525/"
-        },
-        {
           "starts_at": "2024-03-17T18:40:00+00:00",
           "site": "Curzon Hoxton",
           "url": "https://www.curzon.com/ticketing/seats/HOX1-15531/"
@@ -123,11 +159,6 @@
           "starts_at": "2024-03-17T20:00:00+00:00",
           "site": "Curzon Hoxton",
           "url": "https://www.curzon.com/ticketing/seats/HOX1-15530/"
-        },
-        {
-          "starts_at": "2024-03-17T13:40:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-23123/"
         },
         {
           "starts_at": "2024-03-17T17:00:00+00:00",
@@ -140,148 +171,9 @@
           "url": "https://www.curzon.com/ticketing/seats/CAM1-23129/"
         },
         {
-          "starts_at": "2024-03-17T15:20:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-88700/"
-        },
-        {
           "starts_at": "2024-03-17T19:10:00+00:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-88703/"
-        }
-      ]
-    },
-    {
-      "title": "The New Boy",
-      "trailer": "https://www.youtube.com/watch?v=BNT-jpoo9KU",
-      "synopsis": "Set in 1940s Australia, the film depicts the mesmeric story of a 9-year-old Aboriginal orphan boy who arrives in the dead of night at a remote monastery run by a renegade nun (Blanchett). The new boy’s presence disturbs the delicately balanced world in this story of spiritual struggle and the cost of survival.",
-      "runtime": 96,
-      "times": [
-        {
-          "starts_at": "2024-03-17T14:20:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-47823/"
-        },
-        {
-          "starts_at": "2024-03-17T17:20:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-47818/"
-        },
-        {
-          "starts_at": "2024-03-17T13:50:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-71390/"
-        },
-        {
-          "starts_at": "2024-03-17T16:00:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-71406/"
-        },
-        {
-          "starts_at": "2024-03-17T20:00:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-71400/"
-        },
-        {
-          "starts_at": "2024-03-17T17:40:00+00:00",
-          "site": "Curzon Mayfair",
-          "url": "https://www.curzon.com/ticketing/seats/MAY1-26317/"
-        }
-      ]
-    },
-    {
-      "title": "Drive-Away Dolls",
-      "trailer": "https://www.youtube.com/watch?v=cJIr0p-X63w",
-      "synopsis": "Written by Ethan Coen and Tricia Cooke, this comedy caper follows Jamie, an uninhibited free spirit bemoaning yet another breakup with a girlfriend, and her demure friend Marian who desperately needs to loosen up. In search of a fresh start, the two embark on an impromptu road trip to Tallahassee, but things quickly go awry when they cross paths with a group of inept criminals along the way. Directed by Ethan Coen.",
-      "runtime": 84,
-      "times": [
-        {
-          "starts_at": "2024-03-17T15:20:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-47822/"
-        },
-        {
-          "starts_at": "2024-03-17T17:00:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-47820/"
-        },
-        {
-          "starts_at": "2024-03-17T21:00:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-47828/"
-        },
-        {
-          "starts_at": "2024-03-17T17:50:00+00:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-43905/"
-        },
-        {
-          "starts_at": "2024-03-17T13:20:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-71391/"
-        },
-        {
-          "starts_at": "2024-03-17T18:40:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-71402/"
-        },
-        {
-          "starts_at": "2024-03-17T21:10:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-71397/"
-        },
-        {
-          "starts_at": "2024-03-17T14:40:00+00:00",
-          "site": "Curzon Mayfair",
-          "url": "https://www.curzon.com/ticketing/seats/MAY1-26313/"
-        },
-        {
-          "starts_at": "2024-03-17T20:40:00+00:00",
-          "site": "Curzon Mayfair",
-          "url": "https://www.curzon.com/ticketing/seats/MAY1-26315/"
-        },
-        {
-          "starts_at": "2024-03-17T15:10:00+00:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-15524/"
-        },
-        {
-          "starts_at": "2024-03-17T17:40:00+00:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-15532/"
-        },
-        {
-          "starts_at": "2024-03-17T15:30:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-23138/"
-        },
-        {
-          "starts_at": "2024-03-17T21:00:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-23137/"
-        }
-      ]
-    },
-    {
-      "title": "Wicked Little Letters",
-      "trailer": "https://www.youtube.com/watch?v=fgqQvmbP-UU",
-      "synopsis": "A 1920s English seaside town bears witness to a dark and absurd scandal in this riotous mystery comedy. Based on a stranger than fiction true story, WICKED LITTLE LETTERS follows two neighbours: deeply conservative local Edith Swan (Olivia Colman) and rowdy Irish migrant Rose Gooding (Jessie Buckley). When Edith and fellow residents begin to receive wicked letters full of unintentionally hilarious profanities, foulmouthed Rose is charged with the crime. The anonymous letters prompt a national uproar, and a trial ensues. However, as the town's women - led by Police Officer Gladys Moss (Anjana Vasan) - begin to investigate the crime themselves, they suspect that something is amiss, and Rose may not be the culprit after all.",
-      "runtime": 100,
-      "times": [
-        {
-          "starts_at": "2024-03-17T15:50:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-47821/"
-        },
-        {
-          "starts_at": "2024-03-17T12:40:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-71392/"
-        },
-        {
-          "starts_at": "2024-03-17T18:00:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-71403/"
         }
       ]
     },
@@ -302,34 +194,14 @@
           "url": "https://www.curzon.com/ticketing/seats/SOH1-43899/"
         },
         {
-          "starts_at": "2024-03-17T15:20:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-71388/"
-        },
-        {
           "starts_at": "2024-03-17T20:20:00+00:00",
           "site": "Curzon Victoria",
           "url": "https://www.curzon.com/ticketing/seats/VIC1-71399/"
         },
         {
-          "starts_at": "2024-03-17T15:00:00+00:00",
-          "site": "Curzon Mayfair",
-          "url": "https://www.curzon.com/ticketing/seats/MAY1-26310/"
-        },
-        {
-          "starts_at": "2024-03-17T14:20:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-23135/"
-        },
-        {
           "starts_at": "2024-03-17T17:20:00+00:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-23136/"
-        },
-        {
-          "starts_at": "2024-03-17T14:20:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-88701/"
         },
         {
           "starts_at": "2024-03-17T19:30:00+00:00",
@@ -368,11 +240,6 @@
       "runtime": 125,
       "times": [
         {
-          "starts_at": "2024-03-17T13:40:00+00:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-43900/"
-        },
-        {
           "starts_at": "2024-03-17T17:30:00+00:00",
           "site": "Curzon Soho",
           "url": "https://www.curzon.com/ticketing/seats/SOH1-43897/"
@@ -383,19 +250,9 @@
           "url": "https://www.curzon.com/ticketing/seats/VIC1-71405/"
         },
         {
-          "starts_at": "2024-03-17T13:00:00+00:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-15523/"
-        },
-        {
           "starts_at": "2024-03-17T18:00:00+00:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-23128/"
-        },
-        {
-          "starts_at": "2024-03-17T14:00:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-88697/"
         },
         {
           "starts_at": "2024-03-17T17:00:00+00:00",
@@ -416,11 +273,6 @@
       "runtime": 127,
       "times": [
         {
-          "starts_at": "2024-03-17T14:30:00+00:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-43904/"
-        },
-        {
           "starts_at": "2024-03-17T20:20:00+00:00",
           "site": "Curzon Soho",
           "url": "https://www.curzon.com/ticketing/seats/SOH1-43906/"
@@ -431,19 +283,9 @@
           "url": "https://www.curzon.com/ticketing/seats/HOX1-15522/"
         },
         {
-          "starts_at": "2024-03-17T13:20:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-23133/"
-        },
-        {
           "starts_at": "2024-03-17T20:00:00+00:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-23132/"
-        },
-        {
-          "starts_at": "2024-03-17T15:00:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-88688/"
         },
         {
           "starts_at": "2024-03-17T17:20:00+00:00",
@@ -481,33 +323,43 @@
       ]
     },
     {
+      "title": "The Zone of Interest",
+      "trailer": null,
+      "synopsis": "The commandant of Auschwitz, Rudolf Höss, and his wife Hedwig, strive to build a dream life for their family in a house and garden next to the camp.",
+      "runtime": 105,
+      "times": [
+        {
+          "starts_at": "2024-03-17T16:00:00+00:00",
+          "site": "Curzon Hoxton",
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-15526/"
+        },
+        {
+          "starts_at": "2024-03-17T16:40:00+00:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-23130/"
+        },
+        {
+          "starts_at": "2024-03-17T17:50:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-88689/"
+        },
+        {
+          "starts_at": "2024-03-17T20:10:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-88693/"
+        }
+      ]
+    },
+    {
       "title": "Sunderland 'Til I Die",
       "trailer": null,
       "synopsis": "Two seasons since we last saw them, Sunderland AFC remain in the doldrums of English football, their hopes of escape dangling by a thread. Now under the ownership of a 24-year-old billionaire, can the young man's arrival bring about new hope or will this football club continue to fade into irrelevance?",
       "runtime": 122,
       "times": [
         {
-          "starts_at": "2024-03-17T14:00:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-23206/"
-        },
-        {
           "starts_at": "2024-03-17T20:40:00+00:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-23207/"
-        }
-      ]
-    },
-    {
-      "title": "DocHouse: COPA 71",
-      "trailer": null,
-      "synopsis": "It's August 1971, 20 years before the first official FIFA Women's World Cup, and a monumental, unofficial football tournament takes place in Mexico City, drawing national women's teams to compete from across the globe. Press, TV and thousands of fans flock to the Azteca Stadium for a tense and glorious tournament - the Copa 71.\r\n\r\nDismissed by both FIFA and domestic football associations around the world, this event has been written out of sporting history.\r\n\r\nTold by the pioneering players who participated in Mexico, and filled with tremendous archive footage unseen for fifty years, Copa 71 is a lively retelling of the highs and lows of this groundbreaking championship.",
-      "runtime": 91,
-      "times": [
-        {
-          "starts_at": "2024-03-17T14:10:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-88791/"
         }
       ]
     },
