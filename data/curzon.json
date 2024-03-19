@@ -7,44 +7,14 @@
       "runtime": 167,
       "times": [
         {
-          "starts_at": "2024-03-19T19:30:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-47855/"
-        },
-        {
           "starts_at": "2024-03-19T20:40:00+00:00",
           "site": "Curzon Aldgate",
           "url": "https://www.curzon.com/ticketing/seats/ALD1-47854/"
         },
         {
-          "starts_at": "2024-03-19T20:10:00+00:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-43908/"
-        },
-        {
-          "starts_at": "2024-03-19T19:40:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-71421/"
-        },
-        {
-          "starts_at": "2024-03-19T19:40:00+00:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-15552/"
-        },
-        {
           "starts_at": "2024-03-19T20:30:00+00:00",
           "site": "Curzon Hoxton",
           "url": "https://www.curzon.com/ticketing/seats/HOX1-15551/"
-        },
-        {
-          "starts_at": "2024-03-19T19:45:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-23142/"
-        },
-        {
-          "starts_at": "2024-03-19T19:40:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-88728/"
         }
       ]
     },
@@ -58,11 +28,6 @@
           "starts_at": "2024-03-19T21:00:00+00:00",
           "site": "Curzon Aldgate",
           "url": "https://www.curzon.com/ticketing/seats/ALD1-47865/"
-        },
-        {
-          "starts_at": "2024-03-19T18:50:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-71422/"
         },
         {
           "starts_at": "2024-03-19T21:30:00+00:00",
@@ -111,11 +76,6 @@
           "url": "https://www.curzon.com/ticketing/seats/SOH1-43918/"
         },
         {
-          "starts_at": "2024-03-19T20:20:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-23159/"
-        },
-        {
           "starts_at": "2024-03-19T20:50:00+00:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-88733/"
@@ -137,24 +97,6 @@
           "starts_at": "2024-03-19T20:40:00+00:00",
           "site": "Curzon Victoria",
           "url": "https://www.curzon.com/ticketing/seats/VIC1-71419/"
-        },
-        {
-          "starts_at": "2024-03-19T20:20:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-88729/"
-        }
-      ]
-    },
-    {
-      "title": "The New Boy",
-      "trailer": "https://www.youtube.com/watch?v=BNT-jpoo9KU",
-      "synopsis": "A mysterious new arrival disturbs the delicate balance of a remote monastery run by renegade nun (Cate Blanchett- Tar, Carol) in this captivating story of spiritual struggle and the cost of survival. The arrival of the ‘new boy’ (newcomer Aswan Reid) unsettles the monastery, but enlivens Sister Eileen’s fervour for Christ to be his guide, and as his Indigenous spirituality clashes with Sister Eileen’s teachings, she must make a choice: uphold tradition or embrace what comes next...",
-      "runtime": 96,
-      "times": [
-        {
-          "starts_at": "2024-03-19T20:20:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-71420/"
         }
       ]
     },
@@ -191,19 +133,6 @@
           "starts_at": "2024-03-19T21:00:00+00:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-23211/"
-        }
-      ]
-    },
-    {
-      "title": "DocHouse: Phantom Parrot",
-      "trailer": null,
-      "synopsis": "When a human rights activist, returning home to the UK, refuses to give border police access to his electronic devices, he is arrested and prosecuted under British Anti-Terror laws that came into force 20 years ago.\r\n\r\nFollowing the journey that led Muhammad Rabbani (Director of human rights organisation CAGE) to that airport interrogation room, and the subsequent case against him, Phantom Parrot unravels a secret British government surveillance programme designed to copy the personal data of individuals at airports and border crossings.\r\n\r\nFrom there, the dominoes start falling in all directions in a dark detective film about technology, surveillance and structural racism in a time where knowledge might still equal power but where data is even better. Director Kate Stonehill has crafted a razor-sharp analysis that unveils unsettling questions about the rule of law, modern espionage and digital privacy.",
-      "runtime": 85,
-      "times": [
-        {
-          "starts_at": "2024-03-19T20:10:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-88639/"
         }
       ]
     },
