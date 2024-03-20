@@ -7,11 +7,6 @@
       "runtime": 167,
       "times": [
         {
-          "starts_at": "2024-03-20T19:30:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-47780/"
-        },
-        {
           "starts_at": "2024-03-20T20:40:00+00:00",
           "site": "Curzon Aldgate",
           "url": "https://www.curzon.com/ticketing/seats/ALD1-47779/"
@@ -22,29 +17,9 @@
           "url": "https://www.curzon.com/ticketing/seats/SOH1-43956/"
         },
         {
-          "starts_at": "2024-03-20T19:40:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-71335/"
-        },
-        {
-          "starts_at": "2024-03-20T19:40:00+00:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-15564/"
-        },
-        {
           "starts_at": "2024-03-20T20:30:00+00:00",
           "site": "Curzon Hoxton",
           "url": "https://www.curzon.com/ticketing/seats/HOX1-15565/"
-        },
-        {
-          "starts_at": "2024-03-20T19:45:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-23201/"
-        },
-        {
-          "starts_at": "2024-03-20T19:50:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-88747/"
         }
       ]
     },
@@ -58,11 +33,6 @@
           "starts_at": "2024-03-20T21:00:00+00:00",
           "site": "Curzon Aldgate",
           "url": "https://www.curzon.com/ticketing/seats/ALD1-47768/"
-        },
-        {
-          "starts_at": "2024-03-20T20:00:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-71342/"
         },
         {
           "starts_at": "2024-03-20T20:50:00+00:00",
@@ -141,19 +111,6 @@
       ]
     },
     {
-      "title": "Wicked Little Letters",
-      "trailer": "https://www.youtube.com/watch?v=fgqQvmbP-UU",
-      "synopsis": "A 1920s English seaside town bears witness to a dark and absurd scandal in this riotous mystery comedy. Based on a stranger than fiction true story, WICKED LITTLE LETTERS follows two neighbours: deeply conservative local Edith Swan (Olivia Colman) and rowdy Irish migrant Rose Gooding (Jessie Buckley). When Edith and fellow residents begin to receive wicked letters full of unintentionally hilarious profanities, foulmouthed Rose is charged with the crime. The anonymous letters prompt a national uproar, and a trial ensues. However, as the town's women - led by Police Officer Gladys Moss (Anjana Vasan) - begin to investigate the crime themselves, they suspect that something is amiss, and Rose may not be the culprit after all.",
-      "runtime": 100,
-      "times": [
-        {
-          "starts_at": "2024-03-20T20:20:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-71427/"
-        }
-      ]
-    },
-    {
       "title": "American Fiction",
       "trailer": "https://www.youtube.com/watch?v=e8YghfAsgpU",
       "synopsis": "AMERICAN FICTION is Cord Jefferson's hilarious directorial debut, which confronts our culture’s obsession with reducing people to outrageous stereotypes. Jeffrey Wright stars as Monk, a frustrated novelist who’s fed up with the establishment profiting from “Black” entertainment that relies on tired and offensive tropes. To prove his point, Monk uses a pen name to write an outlandish “Black” book of his own, a book that propels him to the heart of hypocrisy and the madness he claims to disdain.",
@@ -172,24 +129,6 @@
       ]
     },
     {
-      "title": "Monster",
-      "trailer": "https://www.youtube.com/watch?v=e5Dt4O952iE",
-      "synopsis": "Mysterious and deeply moving, MONSTER is a breathtaking piece of cinema from master director Hirokazu Kore-eda (Broker, Shoplifters). \nWhen her young son Minato starts to behave strangely, single mother Saori knows that there is something wrong. Discovering that one of his teachers might be responsible, she storms into the school demanding answers. But as the story unfolds through the eyes of mother, teacher and child, shocking truths begin to emerge. A timely tale of family, false impressions, and, ultimately, hope, Kore-eda’s typically sensitive work features powerful performances by Ando Sakura, Tanaka Yuko and Nagayama Eita, and a sublime score from the Oscar-winning composer Ryuichi Sakamoto.",
-      "runtime": 127,
-      "times": [
-        {
-          "starts_at": "2024-03-20T20:20:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-23179/"
-        },
-        {
-          "starts_at": "2024-03-20T21:00:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-88752/"
-        }
-      ]
-    },
-    {
       "title": "Sunderland 'Til I Die",
       "trailer": null,
       "synopsis": "Two seasons since we last saw them, Sunderland AFC remain in the doldrums of English football, their hopes of escape dangling by a thread. Now under the ownership of a 24-year-old billionaire, can the young man's arrival bring about new hope or will this football club continue to fade into irrelevance?",
@@ -203,24 +142,6 @@
       ]
     },
     {
-      "title": "The Zone of Interest",
-      "trailer": null,
-      "synopsis": "The commandant of Auschwitz, Rudolf Höss, and his wife Hedwig, strive to build a dream life for their family in a house and garden next to the camp.",
-      "runtime": 105,
-      "times": [
-        {
-          "starts_at": "2024-03-20T18:30:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-88751/"
-        },
-        {
-          "starts_at": "2024-03-20T20:50:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-88742/"
-        }
-      ]
-    },
-    {
       "title": "DocHouse: High & Low: John Galliano",
       "trailer": null,
       "synopsis": "Widely recognized as one of the most influential and successful fashion designers of our time, John Galliano dressed the most beautiful and influential men and women in the world for almost 15 years at Givenchy and Dior.\r\n\r\nIn 2011, his career abruptly ended after he was captured on video using shocking, abusive, antisemitic and racist insults. Director Kevin Macdonald investigates the multiple facets and contradictions of John Galliano’s character, and the decades of industry pressure and drug and alcohol addiction that surrounded his downfall.\r\n\r\nFeaturing conversations with Naomi Campbell, Kate Moss, Penelope Cruz, Charlize Theron, Anna Wintour, Edward Enninful, Boris Cyrulnik, Hamish Bowles and Sidney Toledano, among others, High & Low: John Galliano explores culpability, cancellation and questions who society 'cancels' and who gets granted a second chance.",
@@ -230,6 +151,32 @@
           "starts_at": "2024-03-20T20:40:00+00:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-88800/"
+        }
+      ]
+    },
+    {
+      "title": "The Zone of Interest",
+      "trailer": null,
+      "synopsis": "The commandant of Auschwitz, Rudolf Höss, and his wife Hedwig, strive to build a dream life for their family in a house and garden next to the camp.",
+      "runtime": 105,
+      "times": [
+        {
+          "starts_at": "2024-03-20T20:50:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-88742/"
+        }
+      ]
+    },
+    {
+      "title": "Monster",
+      "trailer": "https://www.youtube.com/watch?v=e5Dt4O952iE",
+      "synopsis": "Mysterious and deeply moving, MONSTER is a breathtaking piece of cinema from master director Hirokazu Kore-eda (Broker, Shoplifters). \nWhen her young son Minato starts to behave strangely, single mother Saori knows that there is something wrong. Discovering that one of his teachers might be responsible, she storms into the school demanding answers. But as the story unfolds through the eyes of mother, teacher and child, shocking truths begin to emerge. A timely tale of family, false impressions, and, ultimately, hope, Kore-eda’s typically sensitive work features powerful performances by Ando Sakura, Tanaka Yuko and Nagayama Eita, and a sublime score from the Oscar-winning composer Ryuichi Sakamoto.",
+      "runtime": 127,
+      "times": [
+        {
+          "starts_at": "2024-03-20T21:00:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-88752/"
         }
       ]
     }
