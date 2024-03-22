@@ -432,16 +432,44 @@
       ]
     },
     {
+      "title": "Monster",
+      "trailer": "https://www.youtube.com/watch?v=e5Dt4O952iE",
+      "synopsis": "Mysterious and deeply moving, MONSTER is a breathtaking piece of cinema from master director Hirokazu Kore-eda (Broker, Shoplifters). \nWhen her young son Minato starts to behave strangely, single mother Saori knows that there is something wrong. Discovering that one of his teachers might be responsible, she storms into the school demanding answers. But as the story unfolds through the eyes of mother, teacher and child, shocking truths begin to emerge. A timely tale of family, false impressions, and, ultimately, hope, Kore-eda’s typically sensitive work features powerful performances by Ando Sakura, Tanaka Yuko and Nagayama Eita, and a sublime score from the Oscar-winning composer Ryuichi Sakamoto.",
+      "runtime": 127,
+      "times": [
+        {
+          "starts_at": "2024-03-22T15:10:00+00:00",
+          "site": "Curzon Soho",
+          "url": "https://www.curzon.com/ticketing/seats/SOH1-43983/"
+        },
+        {
+          "starts_at": "2024-03-22T12:00:00+00:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-23242/"
+        },
+        {
+          "starts_at": "2024-03-22T14:50:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-88855/"
+        },
+        {
+          "starts_at": "2024-03-22T17:00:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-88858/"
+        },
+        {
+          "starts_at": "2024-03-22T20:50:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-88851/"
+        }
+      ]
+    },
+    {
       "title": "Perfect Days",
       "trailer": null,
       "synopsis": "A highly anticipated return to fiction feature filmmaking from Wim Wenders (Paris, Texas, Wings of Desire), PERFECT DAYS takes the writer-director to Tokyo to tell a story celebrating the hidden joys and minutiae of Japanese culture. Winner of the Best Actor award at Cannes 2023, Koji Yakusho (Babel, 13 Assassins) stars as Hirayama, a contemplative middle-aged man who lives a life of modesty and serenity, spending his days balancing his job as a dutiful caretaker of Tokyo’s numerous public toilets with his passion for music, literature and photography. As we join him on his structured daily routine, a series of unexpected encounters gradually begin to reveal a hidden past that lies behind his otherwise content and harmonious life. \n\nCombining a refreshingly unstereotypical depiction of the Japanese capital with a soundtrack comprised of iconic hits from the 60s and 80s, this is a subtle, shimmering and ultimately life-affirming reflection on finding beauty in the everyday world around us. Japan’s entry for Best International Film at the 2024 Academy Awards.\n",
       "runtime": 125,
       "times": [
-        {
-          "starts_at": "2024-03-22T12:15:00+00:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-43987/"
-        },
         {
           "starts_at": "2024-03-22T18:20:00+00:00",
           "site": "Curzon Soho",
@@ -476,39 +504,6 @@
           "starts_at": "2024-03-22T20:30:00+00:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-88852/"
-        }
-      ]
-    },
-    {
-      "title": "Monster",
-      "trailer": "https://www.youtube.com/watch?v=e5Dt4O952iE",
-      "synopsis": "Mysterious and deeply moving, MONSTER is a breathtaking piece of cinema from master director Hirokazu Kore-eda (Broker, Shoplifters). \nWhen her young son Minato starts to behave strangely, single mother Saori knows that there is something wrong. Discovering that one of his teachers might be responsible, she storms into the school demanding answers. But as the story unfolds through the eyes of mother, teacher and child, shocking truths begin to emerge. A timely tale of family, false impressions, and, ultimately, hope, Kore-eda’s typically sensitive work features powerful performances by Ando Sakura, Tanaka Yuko and Nagayama Eita, and a sublime score from the Oscar-winning composer Ryuichi Sakamoto.",
-      "runtime": 127,
-      "times": [
-        {
-          "starts_at": "2024-03-22T15:10:00+00:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-43983/"
-        },
-        {
-          "starts_at": "2024-03-22T12:00:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-23242/"
-        },
-        {
-          "starts_at": "2024-03-22T14:50:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-88855/"
-        },
-        {
-          "starts_at": "2024-03-22T17:00:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-88858/"
-        },
-        {
-          "starts_at": "2024-03-22T20:50:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-88851/"
         }
       ]
     },
