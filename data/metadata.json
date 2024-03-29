@@ -35,12 +35,6 @@
     "overview": "Bubba Ho-tep tells the \"true\" story of what really did become of Elvis Presley. We find Elvis as an elderly resident in an East Texas rest home, who switched identities with an Elvis impersonator years before his \"death,\" then missed his chance to switch back. He must team up with JFK and fight an ancient Egyptian mummy for the souls of their fellow residents.",
     "release_date": "2002-06-09"
   },
-  "Baltimore": {
-    "backdrop": "https://image.tmdb.org/t/p/w500//kl7CXppySJY9nzHp6GOjBUixpeC.jpg",
-    "poster": "https://image.tmdb.org/t/p/w500//tCc88pmKmxfdYPruInXvbeXWEOz.jpg",
-    "overview": "Based on actual events that took place on 26 April 1974, former debutante turned IRA member Rose Dugdale and three comrades carried out an armed raid on Russborough House, Wicklow, in which nineteen masterpieces were stolen in an effort to support the IRA’s armed struggle. The film plays out over the course of the days following the raid, when Rose is in hiding in a remote cottage.",
-    "release_date": "2024-03-22"
-  },
   "CHILD'S PLAY": {
     "backdrop": "https://image.tmdb.org/t/p/w500//edghRD7vw1XgWEpMLpGt1VSGB5w.jpg",
     "poster": "https://image.tmdb.org/t/p/w500//wvpgvcWNkF2HLuTEMIM7K83MvZ.jpg",
@@ -71,12 +65,6 @@
     "overview": "After a painful journey through Europe, Alex, the Belarusian, joins the Foreign Legion in France and clings to a confused hope of a European identity. Jomo, the Nigerian, fights for the survival and durability of his people in the Niger Delta and is ready to die to defend his ideas. These two young people who are sacrificed and smashed together will, against all odds, meet and their destinies will merge to continue across borders, bodies, life and death...",
     "release_date": "2023-03-09"
   },
-  "DocHouse: 20 Days In Mariupol": {
-    "backdrop": "https://image.tmdb.org/t/p/w500//986n9SAXsuxpPJzFAWK3azPknX0.jpg",
-    "poster": "https://image.tmdb.org/t/p/w500//zIRp1IeuPh4GgqFCH3y0DQuY9xP.jpg",
-    "overview": "As the Russian invasion begins, a team of Ukrainian journalists trapped in the besieged city of Mariupol struggle to continue their work documenting the war's atrocities.",
-    "release_date": "2023-07-14"
-  },
   "DocHouse: Celluloid Underground": {
     "backdrop": null,
     "poster": "https://image.tmdb.org/t/p/w500//hJLiOO4TFTMJheb8oHaiTSG8BC0.jpg",
@@ -100,6 +88,12 @@
     "poster": "https://image.tmdb.org/t/p/w500//lJCNvyh2xuJy0a5rQFTTCsuzPEB.jpg",
     "overview": "Renowned Black writer James Baldwin retraces his time in the South during the Civil Rights Movement, reflecting with his trademark brilliance and insight on the passage of more than two decades. From Selma and Birmingham and Atlanta; to the battleground beaches of St. Augustine, Florida, with Chinua Achebe; and back north for a visit to Newark with Amiri Baraka, Baldwin lays bare the fiction of progress in post–Civil Rights America, wondering “what happened to the children” and those 'who did not die, but whose lives were smashed on Freedom Road'.",
     "release_date": "1982-03-03"
+  },
+  "DocHouse: March On Rome": {
+    "backdrop": "https://image.tmdb.org/t/p/w500//e6LdlmzATQbIdFjw4fYoJ7chG1I.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500//pTXMaEsbmykZpYIv06NTnXBjRLO.jpg",
+    "overview": "March on Rome (Italian: La marcia su Roma) is a 1962 comedy film by Dino Risi with Vittorio Gassman and Ugo Tognazzi, aimed at describing the March on Rome of Benito Mussolini's black shirts from the point of view of two newly recruited, naïve black shirts",
+    "release_date": "1962-12-20"
   },
   "DocHouse: Occupied City": {
     "backdrop": "https://image.tmdb.org/t/p/w500//dpaRhhMQe1l1mpTSw3OTUuIObG4.jpg",
@@ -145,7 +139,7 @@
   },
   "Dune: Part Two": {
     "backdrop": "https://image.tmdb.org/t/p/w500//87IVlclAfWL6mdicU1DDuxdwXwe.jpg",
-    "poster": "https://image.tmdb.org/t/p/w500//8b8R8l88Qje9dn9OE8PY05Nxl1X.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500//czembW0Rk1Ke7lCJGahbOhdCuhV.jpg",
     "overview": "Follow the mythic journey of Paul Atreides as he unites with Chani and the Fremen while on a path of revenge against the conspirators who destroyed his family. Facing a choice between the love of his life and the fate of the known universe, Paul endeavors to prevent a terrible future only he can foresee.",
     "release_date": "2024-02-27"
   },
@@ -161,6 +155,12 @@
     "overview": "A reunion between two estranged sisters gets cut short by the rise of flesh-possessing demons, thrusting them into a primal battle for survival as they face the most nightmarish version of family imaginable.",
     "release_date": "2023-04-12"
   },
+  "Evil Does Not Exist": {
+    "backdrop": "https://image.tmdb.org/t/p/w500//dSyNPeQa4KnWSluU2rP3yansB4P.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500//qTOFI3coAqrYYER1SuzVj2GqyRh.jpg",
+    "overview": "Takumi and his daughter Hana live in Mizubiki Village, close to Tokyo. One day, the village inhabitants become aware of a plan to build a camping site near Takumi's house offering city residents a comfortable \"escape\" to nature.",
+    "release_date": "2023-12-06"
+  },
   "Ghostbusters: Frozen Empire": {
     "backdrop": "https://image.tmdb.org/t/p/w500//3IoSYT0gnuImnZ73rqYySJnmefA.jpg",
     "poster": "https://image.tmdb.org/t/p/w500//r65fWcFELCSeyyrkq5wY09EPSGN.jpg",
@@ -169,7 +169,7 @@
   },
   "Godzilla x Kong: The New Empire": {
     "backdrop": "https://image.tmdb.org/t/p/w500//qrGtVFxaD8c7et0jUtaYhyTzzPg.jpg",
-    "poster": "https://image.tmdb.org/t/p/w500//lF9LNf420WMH81gG7sq6ioDOhtl.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500//phmjv93zEwitWLJEOvlXPhtK58o.jpg",
     "overview": "Following their explosive showdown, Godzilla and Kong must reunite against a colossal undiscovered threat hidden within our world, challenging their very existence – and our own.",
     "release_date": "2024-03-27"
   },
