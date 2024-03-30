@@ -7,11 +7,6 @@
       "runtime": 94,
       "times": [
         {
-          "starts_at": "2024-03-30T14:00:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-48014/"
-        },
-        {
           "starts_at": "2024-03-30T16:20:00+00:00",
           "site": "Curzon Aldgate",
           "url": "https://www.curzon.com/ticketing/seats/ALD1-48024/"
@@ -20,11 +15,6 @@
           "starts_at": "2024-03-30T18:40:00+00:00",
           "site": "Curzon Aldgate",
           "url": "https://www.curzon.com/ticketing/seats/ALD1-48018/"
-        },
-        {
-          "starts_at": "2024-03-30T13:20:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-71604/"
         },
         {
           "starts_at": "2024-03-30T15:40:00+00:00",
@@ -39,16 +29,44 @@
       ]
     },
     {
+      "title": "Robot Dreams",
+      "trailer": null,
+      "synopsis": "A heart-swelling, hand-drawn delight that invites audiences of all ages to explore love and loss through its tender portrait of a new friendship. Part of the Official Selection of the 2023 Cannes Film Festival, Oscar-nominated Robot Dreams is the first animated film from Pablo Berger (Blancanieves).\n\nDog is lonely. He spends a lot of time by himself, whiling away long evenings in his Manhattan studio apartment, eating microwave meals for one in front of the TV. Tired of his solitary existence, he decides to purchase a friend. When his order arrives, he builds Robot, a fun-loving, happy-go-lucky companion to keep him company. Dog and Robot spend an idyllic day together – frolicking through the city to the joyful melody of Earth, Wind & Fire’s ‘September’ – ending up at Coney Island to enjoy the fun. But they are soon separated on the beach. Dog, devastated at the loss of his friend, does everything in his power to get Robot back.  \n\nSet in the 1980s, vivified by a poppy soundtrack and a strong affinity for cinema history, Robot Dreams is a deeply felt, bittersweet buddy comedy that embraces ambiguity and the uncertainty of life’s path.\n",
+      "runtime": 102,
+      "times": [
+        {
+          "starts_at": "2024-03-30T17:20:00+00:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-48023/"
+        },
+        {
+          "starts_at": "2024-03-30T17:20:00+00:00",
+          "site": "Curzon Soho",
+          "url": "https://www.curzon.com/ticketing/seats/SOH1-44078/"
+        },
+        {
+          "starts_at": "2024-03-30T17:00:00+00:00",
+          "site": "Curzon Hoxton",
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-15671/"
+        },
+        {
+          "starts_at": "2024-03-30T17:40:00+00:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-23424/"
+        },
+        {
+          "starts_at": "2024-03-30T17:00:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-89036/"
+        }
+      ]
+    },
+    {
       "title": "Dune: Part Two",
       "trailer": "https://www.youtube.com/watch?v=CHDU-B5K_Xw",
       "synopsis": "Paul Atreides unites with Chani and the Fremen while on a warpath of revenge against the conspirators who destroyed his family. Facing a choice between the love of his life and the fate of the known universe, he endeavors to prevent a terrible future only he can foresee.",
       "runtime": 167,
       "times": [
-        {
-          "starts_at": "2024-03-30T14:20:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-48013/"
-        },
         {
           "starts_at": "2024-03-30T17:40:00+00:00",
           "site": "Curzon Aldgate",
@@ -63,11 +81,6 @@
           "starts_at": "2024-03-30T20:10:00+00:00",
           "site": "Curzon Soho",
           "url": "https://www.curzon.com/ticketing/seats/SOH1-44072/"
-        },
-        {
-          "starts_at": "2024-03-30T15:20:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-71647/"
         },
         {
           "starts_at": "2024-03-30T17:00:00+00:00",
@@ -85,19 +98,9 @@
           "url": "https://www.curzon.com/ticketing/seats/VIC1-71655/"
         },
         {
-          "starts_at": "2024-03-30T14:45:00+00:00",
-          "site": "Curzon Mayfair",
-          "url": "https://www.curzon.com/ticketing/seats/MAY1-26417/"
-        },
-        {
           "starts_at": "2024-03-30T20:00:00+00:00",
           "site": "Curzon Mayfair",
           "url": "https://www.curzon.com/ticketing/seats/MAY1-26419/"
-        },
-        {
-          "starts_at": "2024-03-30T13:30:00+00:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-15670/"
         },
         {
           "starts_at": "2024-03-30T17:40:00+00:00",
@@ -108,11 +111,6 @@
           "starts_at": "2024-03-30T19:30:00+00:00",
           "site": "Curzon Hoxton",
           "url": "https://www.curzon.com/ticketing/seats/HOX1-15661/"
-        },
-        {
-          "starts_at": "2024-03-30T14:20:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-23423/"
         },
         {
           "starts_at": "2024-03-30T17:20:00+00:00",
@@ -127,74 +125,11 @@
       ]
     },
     {
-      "title": "Robot Dreams",
-      "trailer": null,
-      "synopsis": "A heart-swelling, hand-drawn delight that invites audiences of all ages to explore love and loss through its tender portrait of a new friendship. Part of the Official Selection of the 2023 Cannes Film Festival, Oscar-nominated Robot Dreams is the first animated film from Pablo Berger (Blancanieves).\n\nDog is lonely. He spends a lot of time by himself, whiling away long evenings in his Manhattan studio apartment, eating microwave meals for one in front of the TV. Tired of his solitary existence, he decides to purchase a friend. When his order arrives, he builds Robot, a fun-loving, happy-go-lucky companion to keep him company. Dog and Robot spend an idyllic day together – frolicking through the city to the joyful melody of Earth, Wind & Fire’s ‘September’ – ending up at Coney Island to enjoy the fun. But they are soon separated on the beach. Dog, devastated at the loss of his friend, does everything in his power to get Robot back.  \n\nSet in the 1980s, vivified by a poppy soundtrack and a strong affinity for cinema history, Robot Dreams is a deeply felt, bittersweet buddy comedy that embraces ambiguity and the uncertainty of life’s path.\n",
-      "runtime": 102,
-      "times": [
-        {
-          "starts_at": "2024-03-30T14:40:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-48025/"
-        },
-        {
-          "starts_at": "2024-03-30T17:20:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-48023/"
-        },
-        {
-          "starts_at": "2024-03-30T14:40:00+00:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-44075/"
-        },
-        {
-          "starts_at": "2024-03-30T17:20:00+00:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-44078/"
-        },
-        {
-          "starts_at": "2024-03-30T14:40:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-71646/"
-        },
-        {
-          "starts_at": "2024-03-30T17:00:00+00:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-15671/"
-        },
-        {
-          "starts_at": "2024-03-30T15:00:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-23433/"
-        },
-        {
-          "starts_at": "2024-03-30T17:40:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-23424/"
-        },
-        {
-          "starts_at": "2024-03-30T14:30:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-89037/"
-        },
-        {
-          "starts_at": "2024-03-30T17:00:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-89036/"
-        }
-      ]
-    },
-    {
       "title": "Godzilla x Kong: The New Empire",
       "trailer": "https://www.youtube.com/watch?v=JZAT58-DyqE",
       "synopsis": "The epic battle continues!  Legendary Pictures’ cinematic Monsterverse follows up the explosive showdown of “Godzilla vs. Kong” with an all-new adventure that pits the almighty Kong and the fearsome Godzilla against a colossal undiscovered threat hidden within our world, challenging their very existence—and our own. “Godzilla x Kong: The New Empire” delves further into the histories of these Titans and their origins, as well as the mysteries of Skull Island and beyond, while uncovering the mythic battle that helped forge these extraordinary beings and tied them to humankind forever.",
       "runtime": 115,
       "times": [
-        {
-          "starts_at": "2024-03-30T15:00:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-48028/"
-        },
         {
           "starts_at": "2024-03-30T18:00:00+00:00",
           "site": "Curzon Aldgate",
@@ -222,16 +157,6 @@
           "starts_at": "2024-03-30T20:50:00+00:00",
           "site": "Curzon Soho",
           "url": "https://www.curzon.com/ticketing/seats/SOH1-44070/"
-        },
-        {
-          "starts_at": "2024-03-30T13:10:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-71650/"
-        },
-        {
-          "starts_at": "2024-03-30T14:40:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-89041/"
         },
         {
           "starts_at": "2024-03-30T20:20:00+00:00",
@@ -264,100 +189,6 @@
       ]
     },
     {
-      "title": "Drive-Away Dolls",
-      "trailer": "https://www.youtube.com/watch?v=cJIr0p-X63w",
-      "synopsis": "Written by Ethan Coen and Tricia Cooke, this comedy caper follows Jamie, an uninhibited free spirit bemoaning yet another breakup with a girlfriend, and her demure friend Marian who desperately needs to loosen up. In search of a fresh start, the two embark on an impromptu road trip to Tallahassee, but things quickly go awry when they cross paths with a group of inept criminals along the way. Directed by Ethan Coen.",
-      "runtime": 84,
-      "times": [
-        {
-          "starts_at": "2024-03-30T12:50:00+00:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-44079/"
-        }
-      ]
-    },
-    {
-      "title": "Perfect Days",
-      "trailer": null,
-      "synopsis": "A highly anticipated return to fiction feature filmmaking from Wim Wenders (Paris, Texas, Wings of Desire), PERFECT DAYS takes the writer-director to Tokyo to tell a story celebrating the hidden joys and minutiae of Japanese culture. Winner of the Best Actor award at Cannes 2023, Koji Yakusho (Babel, 13 Assassins) stars as Hirayama, a contemplative middle-aged man who lives a life of modesty and serenity, spending his days balancing his job as a dutiful caretaker of Tokyo’s numerous public toilets with his passion for music, literature and photography. As we join him on his structured daily routine, a series of unexpected encounters gradually begin to reveal a hidden past that lies behind his otherwise content and harmonious life. \n\nCombining a refreshingly unstereotypical depiction of the Japanese capital with a soundtrack comprised of iconic hits from the 60s and 80s, this is a subtle, shimmering and ultimately life-affirming reflection on finding beauty in the everyday world around us. Japan’s entry for Best International Film at the 2024 Academy Awards.\n",
-      "runtime": 125,
-      "times": [
-        {
-          "starts_at": "2024-03-30T15:00:00+00:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-44074/"
-        },
-        {
-          "starts_at": "2024-03-30T18:00:00+00:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-44080/"
-        },
-        {
-          "starts_at": "2024-03-30T17:00:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-23420/"
-        },
-        {
-          "starts_at": "2024-03-30T20:20:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-23419/"
-        },
-        {
-          "starts_at": "2024-03-30T15:10:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-89027/"
-        },
-        {
-          "starts_at": "2024-03-30T17:50:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-89033/"
-        },
-        {
-          "starts_at": "2024-03-30T20:40:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-89030/"
-        }
-      ]
-    },
-    {
-      "title": "Disco Boy",
-      "trailer": null,
-      "synopsis": "After a painful journey through Europe, Aleksei arrives in Paris to join the Foreign Legion. In the Niger Delta, Jomo struggles against the oil companies threatening his village and the lives of his family. One day, at the head of an armed group, he kidnaps French nationals. A commando of the Foreign Legion intervenes, led by Aleksei. The destinies of Aleksei and Jomo will merge and continue across borders, bodies, life and death.",
-      "runtime": 92,
-      "times": [
-        {
-          "starts_at": "2024-03-30T15:20:00+00:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-44073/"
-        },
-        {
-          "starts_at": "2024-03-30T18:40:00+00:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-15659/"
-        },
-        {
-          "starts_at": "2024-03-30T16:00:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-23431/"
-        },
-        {
-          "starts_at": "2024-03-30T21:20:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-23430/"
-        },
-        {
-          "starts_at": "2024-03-30T13:45:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-89024/"
-        },
-        {
-          "starts_at": "2024-03-30T18:30:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-89022/"
-        }
-      ]
-    },
-    {
       "title": "Silver Haze",
       "trailer": null,
       "synopsis": "Fifteen years after she got burnt when the pub where she slept as a child caught fire, Franky (23) seeks revenge because she still hasn't found any answers.",
@@ -367,11 +198,6 @@
           "starts_at": "2024-03-30T17:40:00+00:00",
           "site": "Curzon Soho",
           "url": "https://www.curzon.com/ticketing/seats/SOH1-44077/"
-        },
-        {
-          "starts_at": "2024-03-30T13:40:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-23429/"
         },
         {
           "starts_at": "2024-03-30T18:20:00+00:00",
@@ -391,6 +217,39 @@
       ]
     },
     {
+      "title": "Perfect Days",
+      "trailer": null,
+      "synopsis": "A highly anticipated return to fiction feature filmmaking from Wim Wenders (Paris, Texas, Wings of Desire), PERFECT DAYS takes the writer-director to Tokyo to tell a story celebrating the hidden joys and minutiae of Japanese culture. Winner of the Best Actor award at Cannes 2023, Koji Yakusho (Babel, 13 Assassins) stars as Hirayama, a contemplative middle-aged man who lives a life of modesty and serenity, spending his days balancing his job as a dutiful caretaker of Tokyo’s numerous public toilets with his passion for music, literature and photography. As we join him on his structured daily routine, a series of unexpected encounters gradually begin to reveal a hidden past that lies behind his otherwise content and harmonious life. \n\nCombining a refreshingly unstereotypical depiction of the Japanese capital with a soundtrack comprised of iconic hits from the 60s and 80s, this is a subtle, shimmering and ultimately life-affirming reflection on finding beauty in the everyday world around us. Japan’s entry for Best International Film at the 2024 Academy Awards.\n",
+      "runtime": 125,
+      "times": [
+        {
+          "starts_at": "2024-03-30T18:00:00+00:00",
+          "site": "Curzon Soho",
+          "url": "https://www.curzon.com/ticketing/seats/SOH1-44080/"
+        },
+        {
+          "starts_at": "2024-03-30T17:00:00+00:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-23420/"
+        },
+        {
+          "starts_at": "2024-03-30T20:20:00+00:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-23419/"
+        },
+        {
+          "starts_at": "2024-03-30T17:50:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-89033/"
+        },
+        {
+          "starts_at": "2024-03-30T20:40:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-89030/"
+        }
+      ]
+    },
+    {
       "title": "Monster",
       "trailer": "https://www.youtube.com/watch?v=e5Dt4O952iE",
       "synopsis": "Mysterious and deeply moving, MONSTER is a breathtaking piece of cinema from master director Hirokazu Kore-eda (Broker, Shoplifters). \nWhen her young son Minato starts to behave strangely, single mother Saori knows that there is something wrong. Discovering that one of his teachers might be responsible, she storms into the school demanding answers. But as the story unfolds through the eyes of mother, teacher and child, shocking truths begin to emerge. A timely tale of family, false impressions, and, ultimately, hope, Kore-eda’s typically sensitive work features powerful performances by Ando Sakura, Tanaka Yuko and Nagayama Eita, and a sublime score from the Oscar-winning composer Ryuichi Sakamoto.",
@@ -405,24 +264,6 @@
           "starts_at": "2024-03-30T17:20:00+00:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-89040/"
-        }
-      ]
-    },
-    {
-      "title": "Ghostbusters: Frozen Empire",
-      "trailer": "https://www.youtube.com/watch?v=mMZ8yYtMFu4",
-      "synopsis": "In Ghostbusters: Frozen Empire, the Spengler family returns to where it all started – the iconic New York City firehouse – to team up with the original Ghostbusters, who’ve developed a top-secret research lab to take busting ghosts to the next level. But when the discovery of an ancient artifact unleashes an evil force, Ghostbusters new and old must join forces to protect their home and save the world from a second Ice Age.\n",
-      "runtime": 115,
-      "times": [
-        {
-          "starts_at": "2024-03-30T13:50:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-71660/"
-        },
-        {
-          "starts_at": "2024-03-30T18:40:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-71652/"
         }
       ]
     },
@@ -453,14 +294,22 @@
           "url": "https://www.curzon.com/ticketing/seats/MAY1-26420/"
         },
         {
-          "starts_at": "2024-03-30T13:50:00+00:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-15665/"
-        },
-        {
           "starts_at": "2024-03-30T21:00:00+00:00",
           "site": "Curzon Hoxton",
           "url": "https://www.curzon.com/ticketing/seats/HOX1-15660/"
+        }
+      ]
+    },
+    {
+      "title": "Ghostbusters: Frozen Empire",
+      "trailer": "https://www.youtube.com/watch?v=mMZ8yYtMFu4",
+      "synopsis": "In Ghostbusters: Frozen Empire, the Spengler family returns to where it all started – the iconic New York City firehouse – to team up with the original Ghostbusters, who’ve developed a top-secret research lab to take busting ghosts to the next level. But when the discovery of an ancient artifact unleashes an evil force, Ghostbusters new and old must join forces to protect their home and save the world from a second Ice Age.\n",
+      "runtime": 115,
+      "times": [
+        {
+          "starts_at": "2024-03-30T18:40:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-71652/"
         }
       ]
     },
@@ -478,34 +327,6 @@
       ]
     },
     {
-      "title": "The Origin of Evil",
-      "trailer": null,
-      "synopsis": "In this wickedly funny French thriller, shady relatives scheme for family fortunes through a succession of ingenious twists. Stéphane’s volatile lover is halfway through her prison sentence while she’s stuck working in a fish cannery. One day Stéphane boldly decides to reach out to her wealthy, estranged father. Stéphane discovers the dysfunctional family around him to be a vipers’ nest, all angling for the old man’s inheritance and suspicious of the new interloper. Soon enough, she finds herself embroiled in devious hidden agendas during a ruthless fight for the family empire in a luxury seaside French villa. Who’s the predator and who’s the prey?\n",
-      "runtime": 123,
-      "times": [
-        {
-          "starts_at": "2024-03-30T14:30:00+00:00",
-          "site": "Curzon Mayfair",
-          "url": "https://www.curzon.com/ticketing/seats/MAY1-26414/"
-        },
-        {
-          "starts_at": "2024-03-30T20:40:00+00:00",
-          "site": "Curzon Mayfair",
-          "url": "https://www.curzon.com/ticketing/seats/MAY1-26421/"
-        },
-        {
-          "starts_at": "2024-03-30T14:00:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-23435/"
-        },
-        {
-          "starts_at": "2024-03-30T20:40:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-23426/"
-        }
-      ]
-    },
-    {
       "title": "High & Low - John Galliano",
       "trailer": null,
       "synopsis": "HIGH & LOW - JOHN GALLIANO is the gripping and thought-provoking new documentary from Academy Award® winner Kevin Macdonald, charting the rise-and-fall story of fashion designer John Galliano. Galliano was widely recognized as one of the most successful names in 1990s and 2000s couture, until his career abruptly ended when he was caught on camera in 2011 hurling antisemitic and racist insults at bystanders in Paris. Macdonald’s compelling documentary traces Galliano’s working and private life through the decades, candidly investigating his struggles with addiction and the industry pressure he faced along the way. Featuring conversations with Naomi Campbell, Kate Moss, Penelope Cruz, Charlize Theron, Anna Wintour, Edward Enninful and more.",
@@ -519,25 +340,20 @@
       ]
     },
     {
-      "title": "Late Night With the Devil",
-      "trailer": "https://www.youtube.com/watch?v=cVqBtqCfagQ",
-      "synopsis": "October 31, 1977. Johnny Carson rival Jack Delroy hosts a syndicated late night talk show ‘Night Owls’ that has long been a trusted companion to insomniacs around the country. A year after the tragic death of Jack’s wife, ratings have plummeted. Desperate to turn his fortunes around, Jack plans a Halloween\nspecial like no other, unaware that he is about to unleash evil into the living rooms of America.",
-      "runtime": 93,
+      "title": "The Origin of Evil",
+      "trailer": null,
+      "synopsis": "In this wickedly funny French thriller, shady relatives scheme for family fortunes through a succession of ingenious twists. Stéphane’s volatile lover is halfway through her prison sentence while she’s stuck working in a fish cannery. One day Stéphane boldly decides to reach out to her wealthy, estranged father. Stéphane discovers the dysfunctional family around him to be a vipers’ nest, all angling for the old man’s inheritance and suspicious of the new interloper. Soon enough, she finds herself embroiled in devious hidden agendas during a ruthless fight for the family empire in a luxury seaside French villa. Who’s the predator and who’s the prey?\n",
+      "runtime": 123,
       "times": [
         {
-          "starts_at": "2024-03-30T15:20:00+00:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-15664/"
+          "starts_at": "2024-03-30T20:40:00+00:00",
+          "site": "Curzon Mayfair",
+          "url": "https://www.curzon.com/ticketing/seats/MAY1-26421/"
         },
         {
-          "starts_at": "2024-03-30T21:20:00+00:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-15668/"
-        },
-        {
-          "starts_at": "2024-03-30T14:40:00+00:00",
+          "starts_at": "2024-03-30T20:40:00+00:00",
           "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-23436/"
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-23426/"
         }
       ]
     },
@@ -558,16 +374,6 @@
           "url": "https://www.curzon.com/ticketing/seats/CAM1-23434/"
         },
         {
-          "starts_at": "2024-03-30T12:30:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-89026/"
-        },
-        {
-          "starts_at": "2024-03-30T15:20:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-89029/"
-        },
-        {
           "starts_at": "2024-03-30T18:10:00+00:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-89031/"
@@ -576,6 +382,47 @@
           "starts_at": "2024-03-30T20:50:00+00:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-89032/"
+        }
+      ]
+    },
+    {
+      "title": "Disco Boy",
+      "trailer": null,
+      "synopsis": "After a painful journey through Europe, Aleksei arrives in Paris to join the Foreign Legion. In the Niger Delta, Jomo struggles against the oil companies threatening his village and the lives of his family. One day, at the head of an armed group, he kidnaps French nationals. A commando of the Foreign Legion intervenes, led by Aleksei. The destinies of Aleksei and Jomo will merge and continue across borders, bodies, life and death.",
+      "runtime": 92,
+      "times": [
+        {
+          "starts_at": "2024-03-30T18:40:00+00:00",
+          "site": "Curzon Hoxton",
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-15659/"
+        },
+        {
+          "starts_at": "2024-03-30T16:00:00+00:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-23431/"
+        },
+        {
+          "starts_at": "2024-03-30T21:20:00+00:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-23430/"
+        },
+        {
+          "starts_at": "2024-03-30T18:30:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-89022/"
+        }
+      ]
+    },
+    {
+      "title": "Late Night With the Devil",
+      "trailer": "https://www.youtube.com/watch?v=cVqBtqCfagQ",
+      "synopsis": "October 31, 1977. Johnny Carson rival Jack Delroy hosts a syndicated late night talk show ‘Night Owls’ that has long been a trusted companion to insomniacs around the country. A year after the tragic death of Jack’s wife, ratings have plummeted. Desperate to turn his fortunes around, Jack plans a Halloween\nspecial like no other, unaware that he is about to unleash evil into the living rooms of America.",
+      "runtime": 93,
+      "times": [
+        {
+          "starts_at": "2024-03-30T21:20:00+00:00",
+          "site": "Curzon Hoxton",
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-15668/"
         }
       ]
     },
@@ -589,19 +436,6 @@
           "starts_at": "2024-03-30T18:00:00+00:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-23427/"
-        }
-      ]
-    },
-    {
-      "title": "DocHouse: Radical Wolfe",
-      "trailer": null,
-      "synopsis": "From a beat reporter at the Washington Post to an overnight sensation as the leader of the New Journalism movement, Tom Wolfe was at the forefront of reshaping how American stories are told. Recognising the importance of overlooked subcultures and communities, he documented everything from rural stock car drivers to hippies in Haight Ashbury to the Apollo Astronauts.\r\n\r\nWith a distinctive and oft-imitated style all his own, Wolfe’s body of work includes some of the most memorable and culturally impactful stories of the 20th century like The Right Stuff, The Bonfire of the Vanities and A Man in Full.\r\n\r\nRadical Wolfe is a personal and illuminating look at the man inside the famous white suit, featuring conversations and interviews with those who knew him best, including Michael Lewis, Gay Talese, Lynn Nesbit and Alexandra Wolfe.",
-      "runtime": 75,
-      "times": [
-        {
-          "starts_at": "2024-03-30T14:00:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-88807/"
         }
       ]
     },
