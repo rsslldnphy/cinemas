@@ -1,7 +1,4 @@
 {
-  "2024-04-01": [
-
-  ],
   "2024-04-02": [
     {
       "title": "Kung Fu Panda 4",
@@ -2466,7 +2463,7 @@
           "url": "https://www.curzon.com/ticketing/seats/CAM1-23643/"
         },
         {
-          "starts_at": "2024-04-06T20:40:00+01:00",
+          "starts_at": "2024-04-06T21:00:00+01:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-23646/"
         },
@@ -2637,11 +2634,6 @@
           "url": "https://www.curzon.com/ticketing/seats/CAM1-23649/"
         },
         {
-          "starts_at": "2024-04-07T20:20:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-23648/"
-        },
-        {
           "starts_at": "2024-04-07T11:40:00+01:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-89181/"
@@ -2731,5 +2723,35 @@
   ],
   "2024-04-08": [
 
+  ],
+  "2024-04-09": [
+    {
+      "title": "Royal Ballet 2023/24 Season: Macmillan Celebrated",
+      "trailer": null,
+      "synopsis": "Danses Concertantes, commissioned by Ninette de Valois in 1955, was MacMillan’s first major work. An early sign of the incredible artistic output that would follow, the work’s critical success spurred MacMillan to abandon performing in favour of choreography. It is followed by Different Drummer, MacMillan’s complex and haunting balletic interpretation of Woyzeck, Georg Büchner's play about a soldier’s descent into madness. The mixed programme concludes with Requiem, his 1976 work for Stuttgart Ballet, created in memory of its late artistic director, MacMillan’s friend and former Royal Ballet dancer and choreographer John Cranko. ",
+      "runtime": 165,
+      "times": [
+        {
+          "starts_at": "2024-04-09T19:15:00+01:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-42448/"
+        },
+        {
+          "starts_at": "2024-04-09T19:15:00+01:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-65484/"
+        },
+        {
+          "starts_at": "2024-04-09T19:15:00+01:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-16863/"
+        },
+        {
+          "starts_at": "2024-04-09T19:15:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-81703/"
+        }
+      ]
+    }
   ]
 }
