@@ -5486,44 +5486,6 @@
   ],
   "2024-04-11": [
     {
-      "title": "Kung Fu Panda 4",
-      "trailer": "https://www.youtube.com/watch?v=xCVBU07uGf4",
-      "synopsis": "This spring, for the first time in almost a decade, comedy icon Jack Black returns to his role as Po, the world’s most unlikely kung fu master, with a hilarious, butt-kicking new chapter in DreamWorks Animation’s beloved action-comedy franchise: Kung Fu Panda 4.",
-      "runtime": 94,
-      "times": [
-        {
-          "starts_at": "2024-04-11T11:10:00+01:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-48214/"
-        },
-        {
-          "starts_at": "2024-04-11T13:40:00+01:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-48215/"
-        },
-        {
-          "starts_at": "2024-04-11T16:00:00+01:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-48227/"
-        },
-        {
-          "starts_at": "2024-04-11T11:15:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-71945/"
-        },
-        {
-          "starts_at": "2024-04-11T14:40:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-71952/"
-        },
-        {
-          "starts_at": "2024-04-11T16:20:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-71966/"
-        }
-      ]
-    },
-    {
       "title": "Robot Dreams",
       "trailer": null,
       "synopsis": "A heart-swelling, hand-drawn delight that invites audiences of all ages to explore love and loss through its tender portrait of a new friendship. Part of the Official Selection of the 2023 Cannes Film Festival, Oscar-nominated Robot Dreams is the first animated film from Pablo Berger (Blancanieves).\n\nDog is lonely. He spends a lot of time by himself, whiling away long evenings in his Manhattan studio apartment, eating microwave meals for one in front of the TV. Tired of his solitary existence, he decides to purchase a friend. When his order arrives, he builds Robot, a fun-loving, happy-go-lucky companion to keep him company. Dog and Robot spend an idyllic day together – frolicking through the city to the joyful melody of Earth, Wind & Fire’s ‘September’ – ending up at Coney Island to enjoy the fun. But they are soon separated on the beach. Dog, devastated at the loss of his friend, does everything in his power to get Robot back.  \n\nSet in the 1980s, vivified by a poppy soundtrack and a strong affinity for cinema history, Robot Dreams is a deeply felt, bittersweet buddy comedy that embraces ambiguity and the uncertainty of life’s path.\n",
@@ -5543,21 +5505,6 @@
           "starts_at": "2024-04-11T21:00:00+01:00",
           "site": "Curzon Soho",
           "url": "https://www.curzon.com/ticketing/seats/SOH1-44228/"
-        },
-        {
-          "starts_at": "2024-04-11T11:30:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-71956/"
-        },
-        {
-          "starts_at": "2024-04-11T14:00:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-71957/"
-        },
-        {
-          "starts_at": "2024-04-11T11:00:00+01:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-15896/"
         },
         {
           "starts_at": "2024-04-11T17:50:00+01:00",
@@ -5641,7 +5588,7 @@
           "url": "https://www.curzon.com/ticketing/seats/VIC1-71942/"
         },
         {
-          "starts_at": "2024-04-11T15:20:00+01:00",
+          "starts_at": "2024-04-11T15:00:00+01:00",
           "site": "Curzon Victoria",
           "url": "https://www.curzon.com/ticketing/seats/VIC1-71943/"
         },
@@ -5677,11 +5624,6 @@
           "starts_at": "2024-04-11T20:20:00+01:00",
           "site": "Curzon Aldgate",
           "url": "https://www.curzon.com/ticketing/seats/ALD1-48219/"
-        },
-        {
-          "starts_at": "2024-04-11T13:40:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-71954/"
         },
         {
           "starts_at": "2024-04-11T17:00:00+01:00",
@@ -5721,30 +5663,38 @@
       ]
     },
     {
+      "title": "Kung Fu Panda 4",
+      "trailer": "https://www.youtube.com/watch?v=xCVBU07uGf4",
+      "synopsis": "This spring, for the first time in almost a decade, comedy icon Jack Black returns to his role as Po, the world’s most unlikely kung fu master, with a hilarious, butt-kicking new chapter in DreamWorks Animation’s beloved action-comedy franchise: Kung Fu Panda 4.",
+      "runtime": 94,
+      "times": [
+        {
+          "starts_at": "2024-04-11T14:45:00+01:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-48227/"
+        },
+        {
+          "starts_at": "2024-04-11T14:40:00+01:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-71952/"
+        },
+        {
+          "starts_at": "2024-04-11T15:40:00+01:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-71966/"
+        }
+      ]
+    },
+    {
       "title": "Civil War",
       "trailer": "https://www.youtube.com/watch?v=Vm8869svOxI",
       "synopsis": "In the near future, a team of journalists travel across the United States during a rapidly escalating civil war that has engulfed the entire nation.",
       "runtime": 109,
       "times": [
         {
-          "starts_at": "2024-04-11T14:40:00+01:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-48226/"
-        },
-        {
           "starts_at": "2024-04-11T20:40:00+01:00",
           "site": "Curzon Aldgate",
           "url": "https://www.curzon.com/ticketing/seats/ALD1-48225/"
-        },
-        {
-          "starts_at": "2024-04-11T12:00:00+01:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-44207/"
-        },
-        {
-          "starts_at": "2024-04-11T15:30:00+01:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-44206/"
         },
         {
           "starts_at": "2024-04-11T17:50:00+01:00",
@@ -5757,16 +5707,6 @@
           "url": "https://www.curzon.com/ticketing/seats/SOH1-44205/"
         },
         {
-          "starts_at": "2024-04-11T12:00:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-71967/"
-        },
-        {
-          "starts_at": "2024-04-11T15:00:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-71968/"
-        },
-        {
           "starts_at": "2024-04-11T18:40:00+01:00",
           "site": "Curzon Victoria",
           "url": "https://www.curzon.com/ticketing/seats/VIC1-71811/"
@@ -5777,11 +5717,6 @@
           "url": "https://www.curzon.com/ticketing/seats/VIC1-71810/"
         },
         {
-          "starts_at": "2024-04-11T13:40:00+01:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-15907/"
-        },
-        {
           "starts_at": "2024-04-11T16:20:00+01:00",
           "site": "Curzon Hoxton",
           "url": "https://www.curzon.com/ticketing/seats/HOX1-15906/"
@@ -5790,16 +5725,6 @@
           "starts_at": "2024-04-11T21:00:00+01:00",
           "site": "Curzon Hoxton",
           "url": "https://www.curzon.com/ticketing/seats/HOX1-15905/"
-        },
-        {
-          "starts_at": "2024-04-11T12:40:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-23821/"
-        },
-        {
-          "starts_at": "2024-04-11T15:45:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-23820/"
         },
         {
           "starts_at": "2024-04-11T18:20:00+01:00",
@@ -5819,11 +5744,6 @@
       "synopsis": "When a young American woman is sent to Rome to begin a life of service to the church, she encounters a darkness that causes her to question her own faith and uncovers a terrifying conspiracy that hopes to bring about the birth of evil incarnate.",
       "runtime": 119,
       "times": [
-        {
-          "starts_at": "2024-04-11T18:30:00+01:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-48210/"
-        },
         {
           "starts_at": "2024-04-11T21:20:00+01:00",
           "site": "Curzon Aldgate",
