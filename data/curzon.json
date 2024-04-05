@@ -1,7 +1,4 @@
 {
-  "2024-04-04": [
-
-  ],
   "2024-04-05": [
     {
       "title": "Kung Fu Panda 4",
@@ -5439,6 +5436,115 @@
           "starts_at": "2024-04-11T20:10:00+01:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-89349/"
+        }
+      ]
+    }
+  ],
+  "2024-04-12": [
+    {
+      "title": "Back to Black",
+      "trailer": "https://www.youtube.com/watch?v=bWHz9zJth1s",
+      "synopsis": "A celebration of the most iconic – and much missed – homegrown star of the 21st century, BACK TO BLACK tells the extraordinary tale of Amy Winehouse. Painting a vivid, vibrant picture of the Camden streets she called home and capturing the struggles of global fame, BACK TO BLACK honours Amy’s artistry, wit, and honesty, as well as trying to understand her demons. An unflinching look at the modern celebrity machine and a powerful tribute to a once-in-a-generation talent.",
+      "runtime": 122,
+      "times": [
+        {
+          "starts_at": "2024-04-12T11:00:00+01:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-23661/"
+        },
+        {
+          "starts_at": "2024-04-12T14:00:00+01:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-23662/"
+        },
+        {
+          "starts_at": "2024-04-12T18:00:00+01:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-23654/"
+        },
+        {
+          "starts_at": "2024-04-12T20:00:00+01:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-23664/"
+        },
+        {
+          "starts_at": "2024-04-12T21:00:00+01:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-23653/"
+        }
+      ]
+    },
+    {
+      "title": "Civil War",
+      "trailer": "https://www.youtube.com/watch?v=Vm8869svOxI",
+      "synopsis": "In the near future, a team of journalists travel across the United States during a rapidly escalating civil war that has engulfed the entire nation.",
+      "runtime": 109,
+      "times": [
+        {
+          "starts_at": "2024-04-12T13:20:00+01:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-23660/"
+        },
+        {
+          "starts_at": "2024-04-12T16:00:00+01:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-23659/"
+        },
+        {
+          "starts_at": "2024-04-12T18:40:00+01:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-23658/"
+        },
+        {
+          "starts_at": "2024-04-12T21:20:00+01:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-23657/"
+        }
+      ]
+    },
+    {
+      "title": "The Teachers' Lounge",
+      "trailer": null,
+      "synopsis": "When one of her students is suspected of theft, teacher Carla Nowak decides to get to the bottom of the matter. Caught between her ideals and the school system, the consequences of her actions threaten to break her.",
+      "runtime": 99,
+      "times": [
+        {
+          "starts_at": "2024-04-12T17:40:00+01:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-23665/"
+        },
+        {
+          "starts_at": "2024-04-12T13:30:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-89188/"
+        },
+        {
+          "starts_at": "2024-04-12T16:00:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-89187/"
+        },
+        {
+          "starts_at": "2024-04-12T18:30:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-89185/"
+        },
+        {
+          "starts_at": "2024-04-12T21:00:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-89186/"
+        }
+      ]
+    },
+    {
+      "title": "DocHouse: Tomorrow's Freedom",
+      "trailer": null,
+      "synopsis": "A portrait of Palestinian political leader and activist, Marwan Barghouti. Tracing the origins of his political life to his imprisonment, we witness the evolution of a freedom fighter to leader. Including new interviews with politicians from Israel, Palestine and South Africa, and members of family and inner circle, Tomorrow’s Freedom’ reveals a man of resilience and intelligence, with an infectious dream of freedom for Palestine from the decades old Occupation.",
+      "runtime": 97,
+      "times": [
+        {
+          "starts_at": "2024-04-12T18:20:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-88820/"
         }
       ]
     }
