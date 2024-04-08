@@ -1,7 +1,4 @@
 {
-  "2024-04-07": [
-
-  ],
   "2024-04-08": [
     {
       "title": "Kung Fu Panda 4",
@@ -3002,7 +2999,7 @@
     },
     {
       "title": "Opponent",
-      "trailer": null,
+      "trailer": "https://www.youtube.com/watch?v=RQQr5wrxGjU",
       "synopsis": "Iman and his family flee Iran and end up in a hotel turned into a refugee center in Northern Sweden. Iman maintains his role as family patriarch but he breaks promise to his wife and joins the local wrestling club. Rumours spread, Iman's fear and desperation begin to take a hold.",
       "runtime": 119,
       "times": [
@@ -3199,6 +3196,11 @@
       "synopsis": "After escaping from Tweedy's farm, Ginger and all the chickens living the dream in their peaceful island sanctuary, far from the dangers of the human world.",
       "runtime": 97,
       "times": [
+        {
+          "starts_at": "2024-04-13T10:30:00+01:00",
+          "site": "Curzon Hoxton",
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-15922/"
+        },
         {
           "starts_at": "2024-04-13T10:30:00+01:00",
           "site": "Curzon Camden",
@@ -3432,6 +3434,21 @@
           "starts_at": "2024-04-14T15:30:00+01:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-89003/"
+        }
+      ]
+    }
+  ],
+  "2024-04-15": [
+    {
+      "title": "DocHouse: Red Herring",
+      "trailer": null,
+      "synopsis": "Kit’s family had already experienced its fair share of tumult when the 24-year-old was diagnosed with terminal cancer. Kit’s mum, a community nurse who spends much of her time caring for dying patients, was traumatised by the thought that her son will be one of them. Meanwhile his dad, Lawrence, threw himself into a series of obscure diversion tactics – from growing cannabis in his spare room, to relinquishing his lifelong atheism and secretly attending a local synagogue. What Kit captures with his camera traverses the fine line between humour and grief, detailing his family’s acceptance of his fate, and celebrating the relationships that keep us going, particularly in life's darker moments.",
+      "runtime": 94,
+      "times": [
+        {
+          "starts_at": "2024-04-15T18:20:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-89005/"
         }
       ]
     }
