@@ -2654,6 +2654,11 @@
           "starts_at": "2024-04-12T14:40:00+01:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-23838/"
+        },
+        {
+          "starts_at": "2024-04-12T15:15:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-89360/"
         }
       ]
     },
@@ -2760,6 +2765,21 @@
           "starts_at": "2024-04-12T20:20:00+01:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-23828/"
+        },
+        {
+          "starts_at": "2024-04-12T14:50:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-89369/"
+        },
+        {
+          "starts_at": "2024-04-12T17:40:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-89364/"
+        },
+        {
+          "starts_at": "2024-04-12T20:30:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-89363/"
         }
       ]
     },
@@ -2793,6 +2813,16 @@
           "starts_at": "2024-04-12T17:20:00+01:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-23827/"
+        },
+        {
+          "starts_at": "2024-04-12T12:45:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-89368/"
+        },
+        {
+          "starts_at": "2024-04-12T18:10:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-89367/"
         }
       ]
     },
@@ -2816,6 +2846,11 @@
           "starts_at": "2024-04-12T15:30:00+01:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-23927/"
+        },
+        {
+          "starts_at": "2024-04-12T12:10:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-89372/"
         }
       ]
     },
@@ -2882,6 +2917,65 @@
       ]
     },
     {
+      "title": "The Zone of Interest",
+      "trailer": null,
+      "synopsis": "The commandant of Auschwitz, Rudolf Höss, and his wife Hedwig, strive to build a dream life for their family in a house and garden next to the camp.",
+      "runtime": 105,
+      "times": [
+        {
+          "starts_at": "2024-04-12T12:20:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-89370/"
+        },
+        {
+          "starts_at": "2024-04-12T15:30:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-89366/"
+        },
+        {
+          "starts_at": "2024-04-12T17:30:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-89365/"
+        },
+        {
+          "starts_at": "2024-04-12T21:10:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-89362/"
+        }
+      ]
+    },
+    {
+      "title": "Opponent",
+      "trailer": "https://www.youtube.com/watch?v=RQQr5wrxGjU",
+      "synopsis": "In the aftermath of a devastating rumour, Iman and his family have been forced to flee Iran. As refugees, they end up in a run-down hotel in northern Sweden. Despite feeling powerless, Iman tries to maintain his role as the family patriarch. To increase their chances of asylum, he breaks a promise to his wife and joins the local wrestling club. As the rumours start to resurface, Iman’s fear and desperation begin to take a hold.",
+      "runtime": 119,
+      "times": [
+        {
+          "starts_at": "2024-04-12T12:30:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-89361/"
+        },
+        {
+          "starts_at": "2024-04-12T18:00:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-89358/"
+        }
+      ]
+    },
+    {
+      "title": "Monster",
+      "trailer": "https://www.youtube.com/watch?v=e5Dt4O952iE",
+      "synopsis": "Mysterious and deeply moving, MONSTER is a breathtaking piece of cinema from master director Hirokazu Kore-eda (Broker, Shoplifters). \nWhen her young son Minato starts to behave strangely, single mother Saori knows that there is something wrong. Discovering that one of his teachers might be responsible, she storms into the school demanding answers. But as the story unfolds through the eyes of mother, teacher and child, shocking truths begin to emerge. A timely tale of family, false impressions, and, ultimately, hope, Kore-eda’s typically sensitive work features powerful performances by Ando Sakura, Tanaka Yuko and Nagayama Eita, and a sublime score from the Oscar-winning composer Ryuichi Sakamoto.",
+      "runtime": 127,
+      "times": [
+        {
+          "starts_at": "2024-04-12T14:40:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-89371/"
+        }
+      ]
+    },
+    {
       "title": "DocHouse: Ryuichi Sakamoto Opus",
       "trailer": null,
       "synopsis": "On March 28th, 2023, legendary composer Ryuichi Sakamoto passed away after his struggle against cancer. In the years leading up to his death, Sakamoto could no longer perform live. Single concerts, not to mention sprawling global tours, were too taxing. Despite this, in late 2022, Sakamoto mustered all of his energy to leave the world with one final performance: a concert film, featuring just him and his piano.",
@@ -2904,6 +2998,32 @@
           "starts_at": "2024-04-12T18:20:00+01:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-88820/"
+        }
+      ]
+    },
+    {
+      "title": "Close Your Eyes",
+      "trailer": null,
+      "synopsis": "It tells the story of an actor who disappears during filming a project after falling off a cliff into the sea. Years later he reappears, but without knowing who he is or anything about his previous life.",
+      "runtime": 169,
+      "times": [
+        {
+          "starts_at": "2024-04-12T20:00:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-89357/"
+        }
+      ]
+    },
+    {
+      "title": "American Fiction",
+      "trailer": "https://www.youtube.com/watch?v=e8YghfAsgpU",
+      "synopsis": "AMERICAN FICTION is Cord Jefferson's hilarious directorial debut, which confronts our culture’s obsession with reducing people to outrageous stereotypes. Jeffrey Wright stars as Monk, a frustrated novelist who’s fed up with the establishment profiting from “Black” entertainment that relies on tired and offensive tropes. To prove his point, Monk uses a pen name to write an outlandish “Black” book of his own, a book that propels him to the heart of hypocrisy and the madness he claims to disdain.",
+      "runtime": 117,
+      "times": [
+        {
+          "starts_at": "2024-04-12T20:40:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-89359/"
         }
       ]
     },
@@ -3288,6 +3408,11 @@
           "starts_at": "2024-04-13T14:40:00+01:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-23839/"
+        },
+        {
+          "starts_at": "2024-04-13T15:20:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-89375/"
         }
       ]
     },
@@ -3399,6 +3524,21 @@
           "starts_at": "2024-04-13T17:20:00+01:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-23833/"
+        },
+        {
+          "starts_at": "2024-04-13T14:45:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-89382/"
+        },
+        {
+          "starts_at": "2024-04-13T17:40:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-89387/"
+        },
+        {
+          "starts_at": "2024-04-13T20:30:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-89388/"
         }
       ]
     },
@@ -3432,6 +3572,16 @@
           "starts_at": "2024-04-13T20:20:00+01:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-23831/"
+        },
+        {
+          "starts_at": "2024-04-13T12:45:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-89383/"
+        },
+        {
+          "starts_at": "2024-04-13T18:10:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-89384/"
         }
       ]
     },
@@ -3455,6 +3605,11 @@
           "starts_at": "2024-04-13T11:00:00+01:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-23928/"
+        },
+        {
+          "starts_at": "2024-04-13T12:00:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-89379/"
         }
       ]
     },
@@ -3539,6 +3694,52 @@
       ]
     },
     {
+      "title": "The Zone of Interest",
+      "trailer": null,
+      "synopsis": "The commandant of Auschwitz, Rudolf Höss, and his wife Hedwig, strive to build a dream life for their family in a house and garden next to the camp.",
+      "runtime": 105,
+      "times": [
+        {
+          "starts_at": "2024-04-13T12:15:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-89381/"
+        },
+        {
+          "starts_at": "2024-04-13T15:40:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-89385/"
+        },
+        {
+          "starts_at": "2024-04-13T17:20:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-89386/"
+        },
+        {
+          "starts_at": "2024-04-13T20:50:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-89373/"
+        }
+      ]
+    },
+    {
+      "title": "Opponent",
+      "trailer": "https://www.youtube.com/watch?v=RQQr5wrxGjU",
+      "synopsis": "In the aftermath of a devastating rumour, Iman and his family have been forced to flee Iran. As refugees, they end up in a run-down hotel in northern Sweden. Despite feeling powerless, Iman tries to maintain his role as the family patriarch. To increase their chances of asylum, he breaks a promise to his wife and joins the local wrestling club. As the rumours start to resurface, Iman’s fear and desperation begin to take a hold.",
+      "runtime": 119,
+      "times": [
+        {
+          "starts_at": "2024-04-13T12:30:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-89374/"
+        },
+        {
+          "starts_at": "2024-04-13T17:50:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-89377/"
+        }
+      ]
+    },
+    {
       "title": "DocHouse: Goya, Carrière & The Ghost of Buñuel",
       "trailer": null,
       "synopsis": "In his last journey, lauded and prolific French screenwriter Jean-Claude Carrière - a long term collaborator of Luis Buñuel - returns to Spain on a pilgrimage of admiration for the painter Francisco de Goya. Travelling to Goya’s key places, diving into his abundant work, Carrière leads us through a personal exploration of a painter who anticipated modernity both in his subject matter and in his form.\r\n\r\nPersonal memories abound, as Carrière recalls his work with Buñuel and traces the lines of surrealism and inspiration between these artists, conjuring ghosts and providing a rich and rewarding insight into the painter, and those who came after him.",
@@ -3548,6 +3749,19 @@
           "starts_at": "2024-04-13T13:40:00+01:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-89487/"
+        }
+      ]
+    },
+    {
+      "title": "Monster",
+      "trailer": "https://www.youtube.com/watch?v=e5Dt4O952iE",
+      "synopsis": "Mysterious and deeply moving, MONSTER is a breathtaking piece of cinema from master director Hirokazu Kore-eda (Broker, Shoplifters). \nWhen her young son Minato starts to behave strangely, single mother Saori knows that there is something wrong. Discovering that one of his teachers might be responsible, she storms into the school demanding answers. But as the story unfolds through the eyes of mother, teacher and child, shocking truths begin to emerge. A timely tale of family, false impressions, and, ultimately, hope, Kore-eda’s typically sensitive work features powerful performances by Ando Sakura, Tanaka Yuko and Nagayama Eita, and a sublime score from the Oscar-winning composer Ryuichi Sakamoto.",
+      "runtime": 127,
+      "times": [
+        {
+          "starts_at": "2024-04-13T14:30:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-89380/"
         }
       ]
     },
@@ -3578,6 +3792,19 @@
       ]
     },
     {
+      "title": "Close Your Eyes",
+      "trailer": null,
+      "synopsis": "It tells the story of an actor who disappears during filming a project after falling off a cliff into the sea. Years later he reappears, but without knowing who he is or anything about his previous life.",
+      "runtime": 169,
+      "times": [
+        {
+          "starts_at": "2024-04-13T19:50:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-89378/"
+        }
+      ]
+    },
+    {
       "title": "DocHouse: Joan Baez: I Am Noise",
       "trailer": null,
       "synopsis": "Facing the end of a 60-year musical career, legendary folk singer and activist Joan Baez takes an honest look back and a deep look inward as she tries to make sense of both her public and her private story.\r\n\r\nThis unusually intimate portrait shifts back and forth through time as it follows Joan on her final tour and delves into her extraordinary archive, including newly discovered home movies, diaries, artwork, therapy tapes, and audio recordings.\r\n\r\nJoan is also remarkably revealing about her life - from her lifelong emotional struggles to her civil rights work with Martin Luther King and a heartbreaking romance with a young Bob Dylan. A searingly honest look at a living legend, this film is a compelling and deeply personal exploration of an iconic artist who has never told the full truth of her life, as she experienced it, until now.",
@@ -3587,6 +3814,19 @@
           "starts_at": "2024-04-13T20:00:00+01:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-89002/"
+        }
+      ]
+    },
+    {
+      "title": "American Fiction",
+      "trailer": "https://www.youtube.com/watch?v=e8YghfAsgpU",
+      "synopsis": "AMERICAN FICTION is Cord Jefferson's hilarious directorial debut, which confronts our culture’s obsession with reducing people to outrageous stereotypes. Jeffrey Wright stars as Monk, a frustrated novelist who’s fed up with the establishment profiting from “Black” entertainment that relies on tired and offensive tropes. To prove his point, Monk uses a pen name to write an outlandish “Black” book of his own, a book that propels him to the heart of hypocrisy and the madness he claims to disdain.",
+      "runtime": 117,
+      "times": [
+        {
+          "starts_at": "2024-04-13T20:40:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-89376/"
         }
       ]
     }
@@ -3904,6 +4144,11 @@
           "starts_at": "2024-04-14T10:50:00+01:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-23929/"
+        },
+        {
+          "starts_at": "2024-04-14T11:40:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-89404/"
         }
       ]
     },
@@ -3991,6 +4236,21 @@
           "starts_at": "2024-04-14T20:00:00+01:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-23840/"
+        },
+        {
+          "starts_at": "2024-04-14T14:30:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-89401/"
+        },
+        {
+          "starts_at": "2024-04-14T17:20:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-89396/"
+        },
+        {
+          "starts_at": "2024-04-14T20:10:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-89395/"
         }
       ]
     },
@@ -4092,6 +4352,11 @@
           "starts_at": "2024-04-14T14:50:00+01:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-23844/"
+        },
+        {
+          "starts_at": "2024-04-14T15:00:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-89392/"
         }
       ]
     },
@@ -4125,6 +4390,16 @@
           "starts_at": "2024-04-14T17:40:00+01:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-23841/"
+        },
+        {
+          "starts_at": "2024-04-14T11:50:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-89400/"
+        },
+        {
+          "starts_at": "2024-04-14T17:10:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-89399/"
         }
       ]
     },
@@ -4191,6 +4466,52 @@
       ]
     },
     {
+      "title": "The Zone of Interest",
+      "trailer": null,
+      "synopsis": "The commandant of Auschwitz, Rudolf Höss, and his wife Hedwig, strive to build a dream life for their family in a house and garden next to the camp.",
+      "runtime": 105,
+      "times": [
+        {
+          "starts_at": "2024-04-14T12:00:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-89402/"
+        },
+        {
+          "starts_at": "2024-04-14T14:40:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-89398/"
+        },
+        {
+          "starts_at": "2024-04-14T17:00:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-89397/"
+        },
+        {
+          "starts_at": "2024-04-14T19:50:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-89394/"
+        }
+      ]
+    },
+    {
+      "title": "Opponent",
+      "trailer": "https://www.youtube.com/watch?v=RQQr5wrxGjU",
+      "synopsis": "In the aftermath of a devastating rumour, Iman and his family have been forced to flee Iran. As refugees, they end up in a run-down hotel in northern Sweden. Despite feeling powerless, Iman tries to maintain his role as the family patriarch. To increase their chances of asylum, he breaks a promise to his wife and joins the local wrestling club. As the rumours start to resurface, Iman’s fear and desperation begin to take a hold.",
+      "runtime": 119,
+      "times": [
+        {
+          "starts_at": "2024-04-14T12:15:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-89393/"
+        },
+        {
+          "starts_at": "2024-04-14T17:40:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-89390/"
+        }
+      ]
+    },
+    {
       "title": "DocHouse: March On Rome",
       "trailer": null,
       "synopsis": "Through little-seen archive and his characteristically cinematic analysis, Mark Cousins narrates the ascent of fascism in Italy and its fall-out across 1930s Europe. Both essay film and historical document, Cousins contextualises history through the now, holding a mirror to a political landscape of a creeping far right and manipulated media.",
@@ -4200,6 +4521,19 @@
           "starts_at": "2024-04-14T13:30:00+01:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-89489/"
+        }
+      ]
+    },
+    {
+      "title": "Monster",
+      "trailer": "https://www.youtube.com/watch?v=e5Dt4O952iE",
+      "synopsis": "Mysterious and deeply moving, MONSTER is a breathtaking piece of cinema from master director Hirokazu Kore-eda (Broker, Shoplifters). \nWhen her young son Minato starts to behave strangely, single mother Saori knows that there is something wrong. Discovering that one of his teachers might be responsible, she storms into the school demanding answers. But as the story unfolds through the eyes of mother, teacher and child, shocking truths begin to emerge. A timely tale of family, false impressions, and, ultimately, hope, Kore-eda’s typically sensitive work features powerful performances by Ando Sakura, Tanaka Yuko and Nagayama Eita, and a sublime score from the Oscar-winning composer Ryuichi Sakamoto.",
+      "runtime": 127,
+      "times": [
+        {
+          "starts_at": "2024-04-14T14:10:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-89403/"
         }
       ]
     },
@@ -4230,6 +4564,19 @@
       ]
     },
     {
+      "title": "Close Your Eyes",
+      "trailer": null,
+      "synopsis": "It tells the story of an actor who disappears during filming a project after falling off a cliff into the sea. Years later he reappears, but without knowing who he is or anything about his previous life.",
+      "runtime": 169,
+      "times": [
+        {
+          "starts_at": "2024-04-14T19:30:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-89389/"
+        }
+      ]
+    },
+    {
       "title": "DocHouse: Ryuichi Sakamoto Opus",
       "trailer": null,
       "synopsis": "On March 28th, 2023, legendary composer Ryuichi Sakamoto passed away after his struggle against cancer. In the years leading up to his death, Sakamoto could no longer perform live. Single concerts, not to mention sprawling global tours, were too taxing. Despite this, in late 2022, Sakamoto mustered all of his energy to leave the world with one final performance: a concert film, featuring just him and his piano.",
@@ -4239,6 +4586,19 @@
           "starts_at": "2024-04-14T20:00:00+01:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-89491/"
+        }
+      ]
+    },
+    {
+      "title": "American Fiction",
+      "trailer": "https://www.youtube.com/watch?v=e8YghfAsgpU",
+      "synopsis": "AMERICAN FICTION is Cord Jefferson's hilarious directorial debut, which confronts our culture’s obsession with reducing people to outrageous stereotypes. Jeffrey Wright stars as Monk, a frustrated novelist who’s fed up with the establishment profiting from “Black” entertainment that relies on tired and offensive tropes. To prove his point, Monk uses a pen name to write an outlandish “Black” book of his own, a book that propels him to the heart of hypocrisy and the madness he claims to disdain.",
+      "runtime": 117,
+      "times": [
+        {
+          "starts_at": "2024-04-14T20:20:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-89391/"
         }
       ]
     }
@@ -4590,6 +4950,11 @@
           "starts_at": "2024-04-15T14:40:00+01:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-23905/"
+        },
+        {
+          "starts_at": "2024-04-15T15:15:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-89413/"
         }
       ]
     },
@@ -4653,6 +5018,26 @@
           "starts_at": "2024-04-15T20:30:00+01:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-23906/"
+        },
+        {
+          "starts_at": "2024-04-15T13:50:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-89408/"
+        },
+        {
+          "starts_at": "2024-04-15T16:15:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-89407/"
+        },
+        {
+          "starts_at": "2024-04-15T18:40:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-89406/"
+        },
+        {
+          "starts_at": "2024-04-15T21:00:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-89405/"
         }
       ]
     },
@@ -4681,6 +5066,21 @@
           "starts_at": "2024-04-15T17:20:00+01:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-23902/"
+        },
+        {
+          "starts_at": "2024-04-15T14:50:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-89420/"
+        },
+        {
+          "starts_at": "2024-04-15T17:40:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-89409/"
+        },
+        {
+          "starts_at": "2024-04-15T20:30:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-89410/"
         }
       ]
     },
@@ -4694,6 +5094,11 @@
           "starts_at": "2024-04-15T15:00:00+01:00",
           "site": "Curzon Soho",
           "url": "https://www.curzon.com/ticketing/seats/SOH1-44285/"
+        },
+        {
+          "starts_at": "2024-04-15T12:10:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-89417/"
         }
       ]
     },
@@ -4727,6 +5132,16 @@
           "starts_at": "2024-04-15T20:10:00+01:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-23904/"
+        },
+        {
+          "starts_at": "2024-04-15T12:00:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-89421/"
+        },
+        {
+          "starts_at": "2024-04-15T18:10:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-89422/"
         }
       ]
     },
@@ -4775,6 +5190,60 @@
       ]
     },
     {
+      "title": "The Zone of Interest",
+      "trailer": null,
+      "synopsis": "The commandant of Auschwitz, Rudolf Höss, and his wife Hedwig, strive to build a dream life for their family in a house and garden next to the camp.",
+      "runtime": 105,
+      "times": [
+        {
+          "starts_at": "2024-04-15T11:20:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-89419/"
+        },
+        {
+          "starts_at": "2024-04-15T17:30:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-89424/"
+        },
+        {
+          "starts_at": "2024-04-15T21:10:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-89411/"
+        }
+      ]
+    },
+    {
+      "title": "Opponent",
+      "trailer": "https://www.youtube.com/watch?v=RQQr5wrxGjU",
+      "synopsis": "In the aftermath of a devastating rumour, Iman and his family have been forced to flee Iran. As refugees, they end up in a run-down hotel in northern Sweden. Despite feeling powerless, Iman tries to maintain his role as the family patriarch. To increase their chances of asylum, he breaks a promise to his wife and joins the local wrestling club. As the rumours start to resurface, Iman’s fear and desperation begin to take a hold.",
+      "runtime": 119,
+      "times": [
+        {
+          "starts_at": "2024-04-15T12:30:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-89412/"
+        },
+        {
+          "starts_at": "2024-04-15T18:00:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-89415/"
+        }
+      ]
+    },
+    {
+      "title": "Monster",
+      "trailer": "https://www.youtube.com/watch?v=e5Dt4O952iE",
+      "synopsis": "Mysterious and deeply moving, MONSTER is a breathtaking piece of cinema from master director Hirokazu Kore-eda (Broker, Shoplifters). \nWhen her young son Minato starts to behave strangely, single mother Saori knows that there is something wrong. Discovering that one of his teachers might be responsible, she storms into the school demanding answers. But as the story unfolds through the eyes of mother, teacher and child, shocking truths begin to emerge. A timely tale of family, false impressions, and, ultimately, hope, Kore-eda’s typically sensitive work features powerful performances by Ando Sakura, Tanaka Yuko and Nagayama Eita, and a sublime score from the Oscar-winning composer Ryuichi Sakamoto.",
+      "runtime": 127,
+      "times": [
+        {
+          "starts_at": "2024-04-15T14:40:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-89418/"
+        }
+      ]
+    },
+    {
       "title": "DocHouse: Joan Baez: I Am Noise",
       "trailer": null,
       "synopsis": "Facing the end of a 60-year musical career, legendary folk singer and activist Joan Baez takes an honest look back and a deep look inward as she tries to make sense of both her public and her private story.\r\n\r\nThis unusually intimate portrait shifts back and forth through time as it follows Joan on her final tour and delves into her extraordinary archive, including newly discovered home movies, diaries, artwork, therapy tapes, and audio recordings.\r\n\r\nJoan is also remarkably revealing about her life - from her lifelong emotional struggles to her civil rights work with Martin Luther King and a heartbreaking romance with a young Bob Dylan. A searingly honest look at a living legend, this film is a compelling and deeply personal exploration of an iconic artist who has never told the full truth of her life, as she experienced it, until now.",
@@ -4797,6 +5266,32 @@
           "starts_at": "2024-04-15T18:20:00+01:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-89005/"
+        }
+      ]
+    },
+    {
+      "title": "Close Your Eyes",
+      "trailer": null,
+      "synopsis": "It tells the story of an actor who disappears during filming a project after falling off a cliff into the sea. Years later he reappears, but without knowing who he is or anything about his previous life.",
+      "runtime": 169,
+      "times": [
+        {
+          "starts_at": "2024-04-15T20:00:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-89416/"
+        }
+      ]
+    },
+    {
+      "title": "American Fiction",
+      "trailer": "https://www.youtube.com/watch?v=e8YghfAsgpU",
+      "synopsis": "AMERICAN FICTION is Cord Jefferson's hilarious directorial debut, which confronts our culture’s obsession with reducing people to outrageous stereotypes. Jeffrey Wright stars as Monk, a frustrated novelist who’s fed up with the establishment profiting from “Black” entertainment that relies on tired and offensive tropes. To prove his point, Monk uses a pen name to write an outlandish “Black” book of his own, a book that propels him to the heart of hypocrisy and the madness he claims to disdain.",
+      "runtime": 117,
+      "times": [
+        {
+          "starts_at": "2024-04-15T20:40:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-89414/"
         }
       ]
     },
@@ -5161,6 +5656,21 @@
           "starts_at": "2024-04-16T20:10:00+01:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-23863/"
+        },
+        {
+          "starts_at": "2024-04-16T12:00:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-89429/"
+        },
+        {
+          "starts_at": "2024-04-16T14:50:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-89440/"
+        },
+        {
+          "starts_at": "2024-04-16T20:40:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-89430/"
         }
       ]
     },
@@ -5224,6 +5734,26 @@
           "starts_at": "2024-04-16T20:30:00+01:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-23860/"
+        },
+        {
+          "starts_at": "2024-04-16T13:30:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-89428/"
+        },
+        {
+          "starts_at": "2024-04-16T16:00:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-89427/"
+        },
+        {
+          "starts_at": "2024-04-16T18:30:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-89426/"
+        },
+        {
+          "starts_at": "2024-04-16T21:00:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-89425/"
         }
       ]
     },
@@ -5242,6 +5772,11 @@
           "starts_at": "2024-04-16T14:40:00+01:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-23866/"
+        },
+        {
+          "starts_at": "2024-04-16T15:30:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-89433/"
         }
       ]
     },
@@ -5275,6 +5810,16 @@
           "starts_at": "2024-04-16T17:20:00+01:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-23864/"
+        },
+        {
+          "starts_at": "2024-04-16T12:45:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-89441/"
+        },
+        {
+          "starts_at": "2024-04-16T17:40:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-89442/"
         }
       ]
     },
@@ -5293,6 +5838,11 @@
           "starts_at": "2024-04-16T11:00:00+01:00",
           "site": "Curzon Victoria",
           "url": "https://www.curzon.com/ticketing/seats/VIC1-72070/"
+        },
+        {
+          "starts_at": "2024-04-16T12:10:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-89437/"
         }
       ]
     },
@@ -5364,6 +5914,37 @@
       ]
     },
     {
+      "title": "Opponent",
+      "trailer": "https://www.youtube.com/watch?v=RQQr5wrxGjU",
+      "synopsis": "In the aftermath of a devastating rumour, Iman and his family have been forced to flee Iran. As refugees, they end up in a run-down hotel in northern Sweden. Despite feeling powerless, Iman tries to maintain his role as the family patriarch. To increase their chances of asylum, he breaks a promise to his wife and joins the local wrestling club. As the rumours start to resurface, Iman’s fear and desperation begin to take a hold.",
+      "runtime": 119,
+      "times": [
+        {
+          "starts_at": "2024-04-16T12:30:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-89432/"
+        },
+        {
+          "starts_at": "2024-04-16T18:00:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-89435/"
+        }
+      ]
+    },
+    {
+      "title": "Monster",
+      "trailer": "https://www.youtube.com/watch?v=e5Dt4O952iE",
+      "synopsis": "Mysterious and deeply moving, MONSTER is a breathtaking piece of cinema from master director Hirokazu Kore-eda (Broker, Shoplifters). \nWhen her young son Minato starts to behave strangely, single mother Saori knows that there is something wrong. Discovering that one of his teachers might be responsible, she storms into the school demanding answers. But as the story unfolds through the eyes of mother, teacher and child, shocking truths begin to emerge. A timely tale of family, false impressions, and, ultimately, hope, Kore-eda’s typically sensitive work features powerful performances by Ando Sakura, Tanaka Yuko and Nagayama Eita, and a sublime score from the Oscar-winning composer Ryuichi Sakamoto.",
+      "runtime": 127,
+      "times": [
+        {
+          "starts_at": "2024-04-16T14:40:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-89438/"
+        }
+      ]
+    },
+    {
       "title": "DocHouse: March On Rome",
       "trailer": null,
       "synopsis": "Through little-seen archive and his characteristically cinematic analysis, Mark Cousins narrates the ascent of fascism in Italy and its fall-out across 1930s Europe. Both essay film and historical document, Cousins contextualises history through the now, holding a mirror to a political landscape of a creeping far right and manipulated media.",
@@ -5373,6 +5954,29 @@
           "starts_at": "2024-04-16T15:00:00+01:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-89494/"
+        }
+      ]
+    },
+    {
+      "title": "The Zone of Interest",
+      "trailer": null,
+      "synopsis": "The commandant of Auschwitz, Rudolf Höss, and his wife Hedwig, strive to build a dream life for their family in a house and garden next to the camp.",
+      "runtime": 105,
+      "times": [
+        {
+          "starts_at": "2024-04-16T15:45:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-89443/"
+        },
+        {
+          "starts_at": "2024-04-16T17:30:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-89444/"
+        },
+        {
+          "starts_at": "2024-04-16T21:10:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-89431/"
         }
       ]
     },
@@ -5390,6 +5994,19 @@
       ]
     },
     {
+      "title": "Close Your Eyes",
+      "trailer": null,
+      "synopsis": "It tells the story of an actor who disappears during filming a project after falling off a cliff into the sea. Years later he reappears, but without knowing who he is or anything about his previous life.",
+      "runtime": 169,
+      "times": [
+        {
+          "starts_at": "2024-04-16T20:00:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-89436/"
+        }
+      ]
+    },
+    {
       "title": "DocHouse: Goya, Carrière & The Ghost of Buñuel",
       "trailer": null,
       "synopsis": "In his last journey, lauded and prolific French screenwriter Jean-Claude Carrière - a long term collaborator of Luis Buñuel - returns to Spain on a pilgrimage of admiration for the painter Francisco de Goya. Travelling to Goya’s key places, diving into his abundant work, Carrière leads us through a personal exploration of a painter who anticipated modernity both in his subject matter and in his form.\r\n\r\nPersonal memories abound, as Carrière recalls his work with Buñuel and traces the lines of surrealism and inspiration between these artists, conjuring ghosts and providing a rich and rewarding insight into the painter, and those who came after him.",
@@ -5399,6 +6016,19 @@
           "starts_at": "2024-04-16T20:30:00+01:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-89495/"
+        }
+      ]
+    },
+    {
+      "title": "American Fiction",
+      "trailer": "https://www.youtube.com/watch?v=e8YghfAsgpU",
+      "synopsis": "AMERICAN FICTION is Cord Jefferson's hilarious directorial debut, which confronts our culture’s obsession with reducing people to outrageous stereotypes. Jeffrey Wright stars as Monk, a frustrated novelist who’s fed up with the establishment profiting from “Black” entertainment that relies on tired and offensive tropes. To prove his point, Monk uses a pen name to write an outlandish “Black” book of his own, a book that propels him to the heart of hypocrisy and the madness he claims to disdain.",
+      "runtime": 117,
+      "times": [
+        {
+          "starts_at": "2024-04-16T20:50:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-89434/"
         }
       ]
     }
