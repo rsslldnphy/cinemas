@@ -7,19 +7,9 @@
       "runtime": 167,
       "times": [
         {
-          "starts_at": "2024-04-11T17:10:00+01:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-48213/"
-        },
-        {
           "starts_at": "2024-04-11T20:20:00+01:00",
           "site": "Curzon Aldgate",
           "url": "https://www.curzon.com/ticketing/seats/ALD1-48219/"
-        },
-        {
-          "starts_at": "2024-04-11T17:00:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-71955/"
         },
         {
           "starts_at": "2024-04-11T20:00:00+01:00",
@@ -32,11 +22,6 @@
           "url": "https://www.curzon.com/ticketing/seats/HOX1-15902/"
         },
         {
-          "starts_at": "2024-04-11T16:40:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-23815/"
-        },
-        {
           "starts_at": "2024-04-11T19:50:00+01:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-23813/"
@@ -44,15 +29,35 @@
       ]
     },
     {
-      "title": "Godzilla x Kong: The New Empire",
-      "trailer": "https://www.youtube.com/watch?v=JZAT58-DyqE",
-      "synopsis": "The epic battle continues!  Legendary Pictures’ cinematic Monsterverse follows up the explosive showdown of “Godzilla vs. Kong” with an all-new adventure that pits the almighty Kong and the fearsome Godzilla against a colossal undiscovered threat hidden within our world, challenging their very existence—and our own. “Godzilla x Kong: The New Empire” delves further into the histories of these Titans and their origins, as well as the mysteries of Skull Island and beyond, while uncovering the mythic battle that helped forge these extraordinary beings and tied them to humankind forever.",
-      "runtime": 115,
+      "title": "Civil War",
+      "trailer": "https://www.youtube.com/watch?v=Vm8869svOxI",
+      "synopsis": "In the near future, a team of journalists travel across the United States during a rapidly escalating civil war that has engulfed the entire nation.\r\n\r\nContent warning: This film contains a sequence of flashing lights which might affect customers who are susceptible to photosensitive epilepsy. ",
+      "runtime": 109,
       "times": [
         {
-          "starts_at": "2024-04-11T17:40:00+01:00",
+          "starts_at": "2024-04-11T20:40:00+01:00",
           "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-48218/"
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-48225/"
+        },
+        {
+          "starts_at": "2024-04-11T21:20:00+01:00",
+          "site": "Curzon Soho",
+          "url": "https://www.curzon.com/ticketing/seats/SOH1-44205/"
+        },
+        {
+          "starts_at": "2024-04-11T20:30:00+01:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-71810/"
+        },
+        {
+          "starts_at": "2024-04-11T21:00:00+01:00",
+          "site": "Curzon Hoxton",
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-15905/"
+        },
+        {
+          "starts_at": "2024-04-11T20:10:00+01:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-23818/"
         }
       ]
     },
@@ -63,19 +68,9 @@
       "runtime": 121,
       "times": [
         {
-          "starts_at": "2024-04-11T18:10:00+01:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-48222/"
-        },
-        {
           "starts_at": "2024-04-11T21:00:00+01:00",
           "site": "Curzon Aldgate",
           "url": "https://www.curzon.com/ticketing/seats/ALD1-48212/"
-        },
-        {
-          "starts_at": "2024-04-11T18:10:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-71944/"
         },
         {
           "starts_at": "2024-04-11T21:00:00+01:00",
@@ -91,95 +86,9 @@
       "runtime": 119,
       "times": [
         {
-          "starts_at": "2024-04-11T18:30:00+01:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-48210/"
-        },
-        {
           "starts_at": "2024-04-11T21:20:00+01:00",
           "site": "Curzon Aldgate",
           "url": "https://www.curzon.com/ticketing/seats/ALD1-48211/"
-        }
-      ]
-    },
-    {
-      "title": "Civil War",
-      "trailer": "https://www.youtube.com/watch?v=Vm8869svOxI",
-      "synopsis": "In the near future, a team of journalists travel across the United States during a rapidly escalating civil war that has engulfed the entire nation.",
-      "runtime": 109,
-      "times": [
-        {
-          "starts_at": "2024-04-11T20:40:00+01:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-48225/"
-        },
-        {
-          "starts_at": "2024-04-11T17:50:00+01:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-44208/"
-        },
-        {
-          "starts_at": "2024-04-11T21:20:00+01:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-44205/"
-        },
-        {
-          "starts_at": "2024-04-11T18:40:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-71811/"
-        },
-        {
-          "starts_at": "2024-04-11T20:30:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-71810/"
-        },
-        {
-          "starts_at": "2024-04-11T21:00:00+01:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-15905/"
-        },
-        {
-          "starts_at": "2024-04-11T18:20:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-23819/"
-        },
-        {
-          "starts_at": "2024-04-11T20:10:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-23818/"
-        }
-      ]
-    },
-    {
-      "title": "Io capitano",
-      "trailer": null,
-      "synopsis": "IO CAPITANO tells the story Seydou and Moussa, two Senegalese teenagers who leave Dakar to travel to Europe where they believe opportunities await. On a journey neither could have imagined, the boys face the dangers and the beauty of the desert, detention centres in Libya, and the perils of the sea in their pursuit of a better life, in an epic story that offers a deeply human perspective on the migrant crisis.\n\nDirected by two-time BAFTA-nominee Matteo Garrone (Gomorrah, Tale of Tales), IO CAPITANO has been nominated for Best International Feature at the Academy Awards, and won Best Director and Best Young Actor Awards at Venice Film Festival.",
-      "runtime": 122,
-      "times": [
-        {
-          "starts_at": "2024-04-11T18:10:00+01:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-44191/"
-        },
-        {
-          "starts_at": "2024-04-11T17:50:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-71941/"
-        },
-        {
-          "starts_at": "2024-04-11T18:10:00+01:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-15901/"
-        },
-        {
-          "starts_at": "2024-04-11T18:00:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-23809/"
-        },
-        {
-          "starts_at": "2024-04-11T18:10:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-89274/"
         }
       ]
     },
@@ -193,11 +102,6 @@
           "starts_at": "2024-04-11T20:40:00+01:00",
           "site": "Curzon Soho",
           "url": "https://www.curzon.com/ticketing/seats/SOH1-44190/"
-        },
-        {
-          "starts_at": "2024-04-11T18:50:00+01:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-15903/"
         },
         {
           "starts_at": "2024-04-11T20:50:00+01:00",
@@ -221,34 +125,6 @@
           "starts_at": "2024-04-11T21:00:00+01:00",
           "site": "Curzon Soho",
           "url": "https://www.curzon.com/ticketing/seats/SOH1-44228/"
-        },
-        {
-          "starts_at": "2024-04-11T17:50:00+01:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-15904/"
-        },
-        {
-          "starts_at": "2024-04-11T17:20:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-23806/"
-        },
-        {
-          "starts_at": "2024-04-11T17:40:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-89281/"
-        }
-      ]
-    },
-    {
-      "title": "Wicked Little Letters",
-      "trailer": "https://www.youtube.com/watch?v=fgqQvmbP-UU",
-      "synopsis": "A 1920s English seaside town bears witness to a dark and absurd scandal in this riotous mystery comedy. Based on a stranger than fiction true story, WICKED LITTLE LETTERS follows two neighbours: deeply conservative local Edith Swan (Olivia Colman) and rowdy Irish migrant Rose Gooding (Jessie Buckley). When Edith and fellow residents begin to receive wicked letters full of unintentionally hilarious profanities, foulmouthed Rose is charged with the crime. The anonymous letters prompt a national uproar, and a trial ensues. However, as the town's women - led by Police Officer Gladys Moss (Anjana Vasan) - begin to investigate the crime themselves, they suspect that something is amiss, and Rose may not be the culprit after all.",
-      "runtime": 100,
-      "times": [
-        {
-          "starts_at": "2024-04-11T17:30:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-71949/"
         }
       ]
     },
@@ -303,68 +179,14 @@
       "runtime": 125,
       "times": [
         {
-          "starts_at": "2024-04-11T17:40:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-23804/"
-        },
-        {
           "starts_at": "2024-04-11T20:30:00+01:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-23803/"
         },
         {
-          "starts_at": "2024-04-11T17:50:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-89291/"
-        },
-        {
           "starts_at": "2024-04-11T20:40:00+01:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-89282/"
-        }
-      ]
-    },
-    {
-      "title": "Opponent",
-      "trailer": "https://www.youtube.com/watch?v=RQQr5wrxGjU",
-      "synopsis": "In the aftermath of a devastating rumour, Iman and his family have been forced to flee Iran. As refugees, they end up in a run-down hotel in northern Sweden. Despite feeling powerless, Iman tries to maintain his role as the family patriarch. To increase their chances of asylum, he breaks a promise to his wife and joins the local wrestling club. As the rumours start to resurface, Iman’s fear and desperation begin to take a hold.",
-      "runtime": 119,
-      "times": [
-        {
-          "starts_at": "2024-04-11T18:00:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-88637/"
-        }
-      ]
-    },
-    {
-      "title": "DocHouse: Goya, Carrière & The Ghost of Buñuel",
-      "trailer": null,
-      "synopsis": "In his last journey, lauded and prolific French screenwriter Jean-Claude Carrière - a long term collaborator of Luis Buñuel - returns to Spain on a pilgrimage of admiration for the painter Francisco de Goya. Travelling to Goya’s key places, diving into his abundant work, Carrière leads us through a personal exploration of a painter who anticipated modernity both in his subject matter and in his form.\r\n\r\nPersonal memories abound, as Carrière recalls his work with Buñuel and traces the lines of surrealism and inspiration between these artists, conjuring ghosts and providing a rich and rewarding insight into the painter, and those who came after him.",
-      "runtime": 90,
-      "times": [
-        {
-          "starts_at": "2024-04-11T18:20:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-88819/"
-        }
-      ]
-    },
-    {
-      "title": "The Zone of Interest",
-      "trailer": null,
-      "synopsis": "The commandant of Auschwitz, Rudolf Höss, and his wife Hedwig, strive to build a dream life for their family in a house and garden next to the camp.",
-      "runtime": 105,
-      "times": [
-        {
-          "starts_at": "2024-04-11T18:40:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-89279/"
-        },
-        {
-          "starts_at": "2024-04-11T21:10:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-89283/"
         }
       ]
     },
@@ -404,6 +226,19 @@
           "starts_at": "2024-04-11T21:00:00+01:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-89289/"
+        }
+      ]
+    },
+    {
+      "title": "The Zone of Interest",
+      "trailer": null,
+      "synopsis": "The commandant of Auschwitz, Rudolf Höss, and his wife Hedwig, strive to build a dream life for their family in a house and garden next to the camp.",
+      "runtime": 105,
+      "times": [
+        {
+          "starts_at": "2024-04-11T21:10:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-89283/"
         }
       ]
     }
@@ -586,7 +421,7 @@
     {
       "title": "Civil War",
       "trailer": "https://www.youtube.com/watch?v=Vm8869svOxI",
-      "synopsis": "In the near future, a team of journalists travel across the United States during a rapidly escalating civil war that has engulfed the entire nation.",
+      "synopsis": "In the near future, a team of journalists travel across the United States during a rapidly escalating civil war that has engulfed the entire nation.\r\n\r\nContent warning: This film contains a sequence of flashing lights which might affect customers who are susceptible to photosensitive epilepsy. ",
       "runtime": 109,
       "times": [
         {
@@ -1340,7 +1175,7 @@
     {
       "title": "Civil War",
       "trailer": "https://www.youtube.com/watch?v=Vm8869svOxI",
-      "synopsis": "In the near future, a team of journalists travel across the United States during a rapidly escalating civil war that has engulfed the entire nation.",
+      "synopsis": "In the near future, a team of journalists travel across the United States during a rapidly escalating civil war that has engulfed the entire nation.\r\n\r\nContent warning: This film contains a sequence of flashing lights which might affect customers who are susceptible to photosensitive epilepsy. ",
       "runtime": 109,
       "times": [
         {
@@ -2130,7 +1965,7 @@
     {
       "title": "Civil War",
       "trailer": "https://www.youtube.com/watch?v=Vm8869svOxI",
-      "synopsis": "In the near future, a team of journalists travel across the United States during a rapidly escalating civil war that has engulfed the entire nation.",
+      "synopsis": "In the near future, a team of journalists travel across the United States during a rapidly escalating civil war that has engulfed the entire nation.\r\n\r\nContent warning: This film contains a sequence of flashing lights which might affect customers who are susceptible to photosensitive epilepsy. ",
       "runtime": 109,
       "times": [
         {
@@ -2897,7 +2732,7 @@
     {
       "title": "Civil War",
       "trailer": "https://www.youtube.com/watch?v=Vm8869svOxI",
-      "synopsis": "In the near future, a team of journalists travel across the United States during a rapidly escalating civil war that has engulfed the entire nation.",
+      "synopsis": "In the near future, a team of journalists travel across the United States during a rapidly escalating civil war that has engulfed the entire nation.\r\n\r\nContent warning: This film contains a sequence of flashing lights which might affect customers who are susceptible to photosensitive epilepsy. ",
       "runtime": 109,
       "times": [
         {
@@ -3598,7 +3433,7 @@
     {
       "title": "Civil War",
       "trailer": "https://www.youtube.com/watch?v=Vm8869svOxI",
-      "synopsis": "In the near future, a team of journalists travel across the United States during a rapidly escalating civil war that has engulfed the entire nation.",
+      "synopsis": "In the near future, a team of journalists travel across the United States during a rapidly escalating civil war that has engulfed the entire nation.\r\n\r\nContent warning: This film contains a sequence of flashing lights which might affect customers who are susceptible to photosensitive epilepsy. ",
       "runtime": 109,
       "times": [
         {
@@ -4337,7 +4172,7 @@
     {
       "title": "Civil War",
       "trailer": "https://www.youtube.com/watch?v=Vm8869svOxI",
-      "synopsis": "In the near future, a team of journalists travel across the United States during a rapidly escalating civil war that has engulfed the entire nation.",
+      "synopsis": "In the near future, a team of journalists travel across the United States during a rapidly escalating civil war that has engulfed the entire nation.\r\n\r\nContent warning: This film contains a sequence of flashing lights which might affect customers who are susceptible to photosensitive epilepsy. ",
       "runtime": 109,
       "times": [
         {
@@ -5091,7 +4926,7 @@
     {
       "title": "Civil War",
       "trailer": "https://www.youtube.com/watch?v=Vm8869svOxI",
-      "synopsis": "In the near future, a team of journalists travel across the United States during a rapidly escalating civil war that has engulfed the entire nation.",
+      "synopsis": "In the near future, a team of journalists travel across the United States during a rapidly escalating civil war that has engulfed the entire nation.\r\n\r\nContent warning: This film contains a sequence of flashing lights which might affect customers who are susceptible to photosensitive epilepsy. ",
       "runtime": 109,
       "times": [
         {
