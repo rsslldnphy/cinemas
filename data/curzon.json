@@ -1,7 +1,4 @@
 {
-  "2024-04-13": [
-
-  ],
   "2024-04-14": [
     {
       "title": "Kung Fu Panda 4",
@@ -3772,6 +3769,67 @@
           "starts_at": "2024-04-20T18:20:00+01:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-89202/"
+        }
+      ]
+    }
+  ],
+  "2024-04-21": [
+    {
+      "title": "Challengers",
+      "trailer": "https://www.youtube.com/watch?v=iJOPZYaNVgQ",
+      "synopsis": "A tennis coach helps her husband transform from a mediocre player to a champion. To end a recent losing streak, they enter at the lowest level of a tournament and find themselves facing off against a once-promising and now burnt-out former friend who used to date the wife.",
+      "runtime": 120,
+      "times": [
+        {
+          "starts_at": "2024-04-21T18:00:00+01:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-48229/"
+        },
+        {
+          "starts_at": "2024-04-21T18:00:00+01:00",
+          "site": "Curzon Soho",
+          "url": "https://www.curzon.com/ticketing/seats/SOH1-44259/"
+        }
+      ]
+    },
+    {
+      "title": "Kidnapped",
+      "trailer": null,
+      "synopsis": "Never one to shy away from controversial subject matter, the veteran Italian filmmaker Marco Bellocchio (Fists in the Pocket, The Conviction) here brings to life an unbelievable true story lifted from the pages of a shocking and horrifying history. \n\nThe film follows the true story of how a six-year-old Jewish boy, Edgardo Mortara, was taken by the Catholic Church following claims that he was baptized by the family’s maid as a baby. While the distraught Mortara family fight to get him back, they find themselves at the epicentre of a wider historical battle between the forces of Catholic authoritarianism and the growing opposition movement. ",
+      "runtime": 134,
+      "times": [
+        {
+          "starts_at": "2024-04-21T15:00:00+01:00",
+          "site": "Curzon Mayfair",
+          "url": "https://www.curzon.com/ticketing/seats/MAY1-26528/"
+        },
+        {
+          "starts_at": "2024-04-21T11:05:00+01:00",
+          "site": "Curzon Hoxton",
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-15908/"
+        },
+        {
+          "starts_at": "2024-04-21T15:00:00+01:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-23822/"
+        },
+        {
+          "starts_at": "2024-04-21T11:00:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-89350/"
+        }
+      ]
+    },
+    {
+      "title": "DocHouse: Beyond The Raging Sea",
+      "trailer": null,
+      "synopsis": "Extreme athletes Omar Samra and Omar Nour enter the world’s toughest rowing race: the Atlantic Challenge, an unsupported 3,000 mile open-ocean race from the Canary Islands to Antigua, despite neither having experience on open water.\r\n\r\nThe athletes trained for an entire year before embarking on the voyage in a high-tech unsinkable rowboat, which they dedicate to the plight of refugees worldwide for whom unimaginable peril, exposure and even death at sea comes to tens of thousands annually. What they couldn’t prepare for is what happened.",
+      "runtime": 70,
+      "times": [
+        {
+          "starts_at": "2024-04-21T16:00:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-89353/"
         }
       ]
     }
