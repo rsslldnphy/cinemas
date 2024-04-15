@@ -1,7 +1,4 @@
 {
-  "2024-04-14": [
-
-  ],
   "2024-04-15": [
     {
       "title": "Back to Black",
@@ -3061,6 +3058,52 @@
           "starts_at": "2024-04-21T16:00:00+01:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-89353/"
+        }
+      ]
+    }
+  ],
+  "2024-04-22": [
+    {
+      "title": "Kidnapped",
+      "trailer": null,
+      "synopsis": "Never one to shy away from controversial subject matter, the veteran Italian filmmaker Marco Bellocchio (Fists in the Pocket, The Conviction) here brings to life an unbelievable true story lifted from the pages of a shocking and horrifying history. \n\nThe film follows the true story of how a six-year-old Jewish boy, Edgardo Mortara, was taken by the Catholic Church following claims that he was baptized by the family’s maid as a baby. While the distraught Mortara family fight to get him back, they find themselves at the epicentre of a wider historical battle between the forces of Catholic authoritarianism and the growing opposition movement. ",
+      "runtime": 134,
+      "times": [
+        {
+          "starts_at": "2024-04-22T18:00:00+01:00",
+          "site": "Curzon Soho",
+          "url": "https://www.curzon.com/ticketing/seats/SOH1-44260/"
+        }
+      ]
+    },
+    {
+      "title": "Love Lies Bleeding",
+      "trailer": "https://www.youtube.com/watch?v=cFm99w3K6zc",
+      "synopsis": "From Director Rose Glass comes an electric new love story; reclusive gym manager Lou falls hard for Jackie, an ambitious bodybuilder headed through town to Vegas in pursuit of her dream. But their love ignites violence, pulling them deep into the web of Lou’s criminal family.",
+      "runtime": 104,
+      "times": [
+        {
+          "starts_at": "2024-04-22T18:20:00+01:00",
+          "site": "Curzon Mayfair",
+          "url": "https://www.curzon.com/ticketing/seats/MAY1-26526/"
+        }
+      ]
+    },
+    {
+      "title": "Challengers",
+      "trailer": "https://www.youtube.com/watch?v=iJOPZYaNVgQ",
+      "synopsis": "A tennis coach helps her husband transform from a mediocre player to a champion. To end a recent losing streak, they enter at the lowest level of a tournament and find themselves facing off against a once-promising and now burnt-out former friend who used to date the wife.",
+      "runtime": 120,
+      "times": [
+        {
+          "starts_at": "2024-04-22T18:00:00+01:00",
+          "site": "Curzon Hoxton",
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-15909/"
+        },
+        {
+          "starts_at": "2024-04-22T18:00:00+01:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-23823/"
         }
       ]
     }
