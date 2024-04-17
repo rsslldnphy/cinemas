@@ -1,16 +1,62 @@
 {
   "2024-04-17": [
     {
+      "title": "Kung Fu Panda 4",
+      "trailer": "https://www.youtube.com/watch?v=xCVBU07uGf4",
+      "synopsis": "This spring, for the first time in almost a decade, comedy icon Jack Black returns to his role as Po, the world’s most unlikely kung fu master, with a hilarious, butt-kicking new chapter in DreamWorks Animation’s beloved action-comedy franchise: Kung Fu Panda 4.",
+      "runtime": 94,
+      "times": [
+        {
+          "starts_at": "2024-04-17T13:40:00+01:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-48328/"
+        },
+        {
+          "starts_at": "2024-04-17T17:00:00+01:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-72098/"
+        }
+      ]
+    },
+    {
+      "title": "Dune: Part Two",
+      "trailer": "https://www.youtube.com/watch?v=CHDU-B5K_Xw",
+      "synopsis": "Paul Atreides unites with Chani and the Fremen while on a warpath of revenge against the conspirators who destroyed his family. Facing a choice between the love of his life and the fate of the known universe, he endeavors to prevent a terrible future only he can foresee.",
+      "runtime": 167,
+      "times": [
+        {
+          "starts_at": "2024-04-17T14:00:00+01:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-48330/"
+        },
+        {
+          "starts_at": "2024-04-17T20:20:00+01:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-48316/"
+        },
+        {
+          "starts_at": "2024-04-17T13:50:00+01:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-72110/"
+        },
+        {
+          "starts_at": "2024-04-17T19:20:00+01:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-72097/"
+        },
+        {
+          "starts_at": "2024-04-17T20:00:00+01:00",
+          "site": "Curzon Hoxton",
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-15978/"
+        }
+      ]
+    },
+    {
       "title": "Back to Black",
       "trailer": "https://www.youtube.com/watch?v=bWHz9zJth1s",
       "synopsis": "A celebration of the most iconic – and much missed – homegrown star of the 21st century, BACK TO BLACK tells the extraordinary tale of Amy Winehouse. Painting a vivid, vibrant picture of the Camden streets she called home and capturing the struggles of global fame, BACK TO BLACK honours Amy’s artistry, wit, and honesty, as well as trying to understand her demons. An unflinching look at the modern celebrity machine and a powerful tribute to a once-in-a-generation talent.",
       "runtime": 122,
       "times": [
-        {
-          "starts_at": "2024-04-17T11:00:00+01:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-48325/"
-        },
         {
           "starts_at": "2024-04-17T15:00:00+01:00",
           "site": "Curzon Aldgate",
@@ -25,11 +71,6 @@
           "starts_at": "2024-04-17T20:40:00+01:00",
           "site": "Curzon Aldgate",
           "url": "https://www.curzon.com/ticketing/seats/ALD1-48323/"
-        },
-        {
-          "starts_at": "2024-04-17T12:00:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-72107/"
         },
         {
           "starts_at": "2024-04-17T14:20:00+01:00",
@@ -77,16 +118,6 @@
           "url": "https://www.curzon.com/ticketing/seats/HOX1-15977/"
         },
         {
-          "starts_at": "2024-04-17T11:00:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-23914/"
-        },
-        {
-          "starts_at": "2024-04-17T12:00:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-23913/"
-        },
-        {
           "starts_at": "2024-04-17T14:00:00+01:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-23911/"
@@ -119,39 +150,11 @@
       ]
     },
     {
-      "title": "Kung Fu Panda 4",
-      "trailer": "https://www.youtube.com/watch?v=xCVBU07uGf4",
-      "synopsis": "This spring, for the first time in almost a decade, comedy icon Jack Black returns to his role as Po, the world’s most unlikely kung fu master, with a hilarious, butt-kicking new chapter in DreamWorks Animation’s beloved action-comedy franchise: Kung Fu Panda 4.",
-      "runtime": 94,
-      "times": [
-        {
-          "starts_at": "2024-04-17T11:20:00+01:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-48326/"
-        },
-        {
-          "starts_at": "2024-04-17T13:40:00+01:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-48328/"
-        },
-        {
-          "starts_at": "2024-04-17T17:00:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-72098/"
-        }
-      ]
-    },
-    {
       "title": "Monkey Man",
       "trailer": "https://www.youtube.com/watch?v=g8zxiB5Qhsc",
       "synopsis": "Oscar® nominee Dev Patel (Lion, Slumdog Millionaire) achieves an astonishing, tour-de-force feature directing debut with an action thriller about one man’s quest for vengeance against the corrupt leaders who murdered his mother and continue to systemically victimize the poor and powerless.\nInspired by the legend of Hanuman, an icon embodying strength and courage, Monkey Man stars Patel as Kid, an anonymous young man who ekes out a meager living in an underground fight club where, night after night, wearing a gorilla mask, he is beaten bloody by more popular fighters for cash.\nAfter years of suppressed rage, Kid discovers a way to infiltrate the enclave of the city’s sinister elite. As his childhood trauma boils over, his mysteriously scarred hands unleash an explosive campaign of retribution to settle the score with the men who took everything from him.\n\n",
       "runtime": 121,
       "times": [
-        {
-          "starts_at": "2024-04-17T12:00:00+01:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-48327/"
-        },
         {
           "starts_at": "2024-04-17T15:20:00+01:00",
           "site": "Curzon Aldgate",
@@ -181,11 +184,6 @@
       "runtime": 109,
       "times": [
         {
-          "starts_at": "2024-04-17T12:40:00+01:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-48324/"
-        },
-        {
           "starts_at": "2024-04-17T16:00:00+01:00",
           "site": "Curzon Aldgate",
           "url": "https://www.curzon.com/ticketing/seats/ALD1-48319/"
@@ -214,11 +212,6 @@
           "starts_at": "2024-04-17T20:50:00+01:00",
           "site": "Curzon Soho",
           "url": "https://www.curzon.com/ticketing/seats/SOH1-44295/"
-        },
-        {
-          "starts_at": "2024-04-17T11:30:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-72106/"
         },
         {
           "starts_at": "2024-04-17T15:00:00+01:00",
@@ -256,11 +249,6 @@
           "url": "https://www.curzon.com/ticketing/seats/MAY1-26558/"
         },
         {
-          "starts_at": "2024-04-17T12:00:00+01:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-15975/"
-        },
-        {
           "starts_at": "2024-04-17T14:40:00+01:00",
           "site": "Curzon Hoxton",
           "url": "https://www.curzon.com/ticketing/seats/HOX1-15972/"
@@ -276,11 +264,6 @@
           "url": "https://www.curzon.com/ticketing/seats/HOX1-15976/"
         },
         {
-          "starts_at": "2024-04-17T12:20:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-23912/"
-        },
-        {
           "starts_at": "2024-04-17T15:20:00+01:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-23909/"
@@ -294,39 +277,6 @@
           "starts_at": "2024-04-17T21:10:00+01:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-23915/"
-        }
-      ]
-    },
-    {
-      "title": "Dune: Part Two",
-      "trailer": "https://www.youtube.com/watch?v=CHDU-B5K_Xw",
-      "synopsis": "Paul Atreides unites with Chani and the Fremen while on a warpath of revenge against the conspirators who destroyed his family. Facing a choice between the love of his life and the fate of the known universe, he endeavors to prevent a terrible future only he can foresee.",
-      "runtime": 167,
-      "times": [
-        {
-          "starts_at": "2024-04-17T14:00:00+01:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-48330/"
-        },
-        {
-          "starts_at": "2024-04-17T20:20:00+01:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-48316/"
-        },
-        {
-          "starts_at": "2024-04-17T13:50:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-72110/"
-        },
-        {
-          "starts_at": "2024-04-17T19:20:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-72097/"
-        },
-        {
-          "starts_at": "2024-04-17T20:00:00+01:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-15978/"
         }
       ]
     },
@@ -357,50 +307,30 @@
       ]
     },
     {
-      "title": "Io capitano",
+      "title": "Perfect Days",
       "trailer": null,
-      "synopsis": "IO CAPITANO tells the story Seydou and Moussa, two Senegalese teenagers who leave Dakar to travel to Europe where they believe opportunities await. On a journey neither could have imagined, the boys face the dangers and the beauty of the desert, detention centres in Libya, and the perils of the sea in their pursuit of a better life, in an epic story that offers a deeply human perspective on the migrant crisis.\n\nDirected by two-time BAFTA-nominee Matteo Garrone (Gomorrah, Tale of Tales), IO CAPITANO has been nominated for Best International Feature at the Academy Awards, and won Best Director and Best Young Actor Awards at Venice Film Festival.",
-      "runtime": 122,
+      "synopsis": "A highly anticipated return to fiction feature filmmaking from Wim Wenders (Paris, Texas, Wings of Desire), PERFECT DAYS takes the writer-director to Tokyo to tell a story celebrating the hidden joys and minutiae of Japanese culture. Winner of the Best Actor award at Cannes 2023, Koji Yakusho (Babel, 13 Assassins) stars as Hirayama, a contemplative middle-aged man who lives a life of modesty and serenity, spending his days balancing his job as a dutiful caretaker of Tokyo’s numerous public toilets with his passion for music, literature and photography. As we join him on his structured daily routine, a series of unexpected encounters gradually begin to reveal a hidden past that lies behind his otherwise content and harmonious life. \n\nCombining a refreshingly unstereotypical depiction of the Japanese capital with a soundtrack comprised of iconic hits from the 60s and 80s, this is a subtle, shimmering and ultimately life-affirming reflection on finding beauty in the everyday world around us. Japan’s entry for Best International Film at the 2024 Academy Awards.\n",
+      "runtime": 125,
       "times": [
         {
-          "starts_at": "2024-04-17T11:50:00+01:00",
+          "starts_at": "2024-04-17T15:00:00+01:00",
           "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-44315/"
+          "url": "https://www.curzon.com/ticketing/seats/SOH1-44316/"
+        },
+        {
+          "starts_at": "2024-04-17T17:20:00+01:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-23922/"
+        },
+        {
+          "starts_at": "2024-04-17T14:50:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-89460/"
         },
         {
           "starts_at": "2024-04-17T20:30:00+01:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-44310/"
-        },
-        {
-          "starts_at": "2024-04-17T14:10:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-72099/"
-        },
-        {
-          "starts_at": "2024-04-17T13:00:00+01:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-15973/"
-        },
-        {
-          "starts_at": "2024-04-17T14:20:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-23921/"
-        },
-        {
-          "starts_at": "2024-04-17T20:10:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-23924/"
-        },
-        {
-          "starts_at": "2024-04-17T12:45:00+01:00",
           "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-89461/"
-        },
-        {
-          "starts_at": "2024-04-17T17:45:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-89462/"
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-89450/"
         }
       ]
     },
@@ -410,11 +340,6 @@
       "synopsis": "Oscar-nominated The Teachers’ Lounge is German writer-director İlker Çatak’s brilliantly observed drama. Playing out like a thriller, the film expertly explores the fault lines of contemporary society. ",
       "runtime": 99,
       "times": [
-        {
-          "starts_at": "2024-04-17T12:10:00+01:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-44296/"
-        },
         {
           "starts_at": "2024-04-17T15:40:00+01:00",
           "site": "Curzon Soho",
@@ -441,19 +366,9 @@
           "url": "https://www.curzon.com/ticketing/seats/VIC1-72094/"
         },
         {
-          "starts_at": "2024-04-17T12:30:00+01:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-15974/"
-        },
-        {
           "starts_at": "2024-04-17T17:30:00+01:00",
           "site": "Curzon Hoxton",
           "url": "https://www.curzon.com/ticketing/seats/HOX1-15981/"
-        },
-        {
-          "starts_at": "2024-04-17T11:40:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-23920/"
         },
         {
           "starts_at": "2024-04-17T17:40:00+01:00",
@@ -488,63 +403,35 @@
       ]
     },
     {
-      "title": "Robot Dreams",
+      "title": "Io capitano",
       "trailer": null,
-      "synopsis": "A heart-swelling, hand-drawn delight that invites audiences of all ages to explore love and loss through its tender portrait of a new friendship. Part of the Official Selection of the 2023 Cannes Film Festival, Oscar-nominated Robot Dreams is the first animated film from Pablo Berger (Blancanieves).\n\nDog is lonely. He spends a lot of time by himself, whiling away long evenings in his Manhattan studio apartment, eating microwave meals for one in front of the TV. Tired of his solitary existence, he decides to purchase a friend. When his order arrives, he builds Robot, a fun-loving, happy-go-lucky companion to keep him company. Dog and Robot spend an idyllic day together – frolicking through the city to the joyful melody of Earth, Wind & Fire’s ‘September’ – ending up at Coney Island to enjoy the fun. But they are soon separated on the beach. Dog, devastated at the loss of his friend, does everything in his power to get Robot back.  \n\nSet in the 1980s, vivified by a poppy soundtrack and a strong affinity for cinema history, Robot Dreams is a deeply felt, bittersweet buddy comedy that embraces ambiguity and the uncertainty of life’s path.\n",
-      "runtime": 102,
+      "synopsis": "IO CAPITANO tells the story Seydou and Moussa, two Senegalese teenagers who leave Dakar to travel to Europe where they believe opportunities await. On a journey neither could have imagined, the boys face the dangers and the beauty of the desert, detention centres in Libya, and the perils of the sea in their pursuit of a better life, in an epic story that offers a deeply human perspective on the migrant crisis.\n\nDirected by two-time BAFTA-nominee Matteo Garrone (Gomorrah, Tale of Tales), IO CAPITANO has been nominated for Best International Feature at the Academy Awards, and won Best Director and Best Young Actor Awards at Venice Film Festival.",
+      "runtime": 122,
       "times": [
-        {
-          "starts_at": "2024-04-17T13:00:00+01:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-44320/"
-        },
-        {
-          "starts_at": "2024-04-17T11:15:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-72102/"
-        },
-        {
-          "starts_at": "2024-04-17T12:10:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-89457/"
-        }
-      ]
-    },
-    {
-      "title": "Perfect Days",
-      "trailer": null,
-      "synopsis": "A highly anticipated return to fiction feature filmmaking from Wim Wenders (Paris, Texas, Wings of Desire), PERFECT DAYS takes the writer-director to Tokyo to tell a story celebrating the hidden joys and minutiae of Japanese culture. Winner of the Best Actor award at Cannes 2023, Koji Yakusho (Babel, 13 Assassins) stars as Hirayama, a contemplative middle-aged man who lives a life of modesty and serenity, spending his days balancing his job as a dutiful caretaker of Tokyo’s numerous public toilets with his passion for music, literature and photography. As we join him on his structured daily routine, a series of unexpected encounters gradually begin to reveal a hidden past that lies behind his otherwise content and harmonious life. \n\nCombining a refreshingly unstereotypical depiction of the Japanese capital with a soundtrack comprised of iconic hits from the 60s and 80s, this is a subtle, shimmering and ultimately life-affirming reflection on finding beauty in the everyday world around us. Japan’s entry for Best International Film at the 2024 Academy Awards.\n",
-      "runtime": 125,
-      "times": [
-        {
-          "starts_at": "2024-04-17T15:00:00+01:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-44316/"
-        },
-        {
-          "starts_at": "2024-04-17T11:20:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-23923/"
-        },
-        {
-          "starts_at": "2024-04-17T17:20:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-23922/"
-        },
-        {
-          "starts_at": "2024-04-17T12:00:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-89449/"
-        },
-        {
-          "starts_at": "2024-04-17T14:50:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-89460/"
-        },
         {
           "starts_at": "2024-04-17T20:30:00+01:00",
+          "site": "Curzon Soho",
+          "url": "https://www.curzon.com/ticketing/seats/SOH1-44310/"
+        },
+        {
+          "starts_at": "2024-04-17T14:10:00+01:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-72099/"
+        },
+        {
+          "starts_at": "2024-04-17T14:20:00+01:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-23921/"
+        },
+        {
+          "starts_at": "2024-04-17T20:10:00+01:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-23924/"
+        },
+        {
+          "starts_at": "2024-04-17T17:45:00+01:00",
           "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-89450/"
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-89462/"
         }
       ]
     },
@@ -555,45 +442,9 @@
       "runtime": 100,
       "times": [
         {
-          "starts_at": "2024-04-17T11:00:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-72092/"
-        },
-        {
           "starts_at": "2024-04-17T17:20:00+01:00",
           "site": "Curzon Victoria",
           "url": "https://www.curzon.com/ticketing/seats/VIC1-72096/"
-        }
-      ]
-    },
-    {
-      "title": "Mothers’ Instinct",
-      "trailer": "https://www.youtube.com/watch?v=aLikloRQiUE",
-      "synopsis": "Starring Academy Award winners Jessica Chastain and Anne Hathaway, Mothers’ Instinct is an unnerving psychological thriller about two best friends and neighbors, Alice and Céline, whose perfect lives in ‘60s suburbia are shattered by a tragic accident involving one of their children. Marking the directorial debut of acclaimed cinematographer Benoit Delhomme, we follow Alice and Céline as their familial bonds are gradually undermined by guilt and paranoia and a gripping battle of wills develops, revealing the darker side of maternal love.  ",
-      "runtime": 94,
-      "times": [
-        {
-          "starts_at": "2024-04-17T11:45:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-72100/"
-        },
-        {
-          "starts_at": "2024-04-17T13:00:00+01:00",
-          "site": "Curzon Mayfair",
-          "url": "https://www.curzon.com/ticketing/seats/MAY1-26561/"
-        }
-      ]
-    },
-    {
-      "title": "The Trouble with Jessica",
-      "trailer": "https://www.youtube.com/watch?v=LQ42BAZf_hI",
-      "synopsis": "Sarah and Tom are in terrible financial trouble. On the brink of losing everything, they’ve managed to find a buyer for their stylish London home. When their best friends Richard and Beth come round for a final dinner, an uninvited old friend, Jessica, tags along. After a seemingly trivial argument, Jessica hangs herself in the garden. Tom goes to call the police when Sarah realizes if the buyer finds out, the sale will collapse, meaning definite financial ruin. The only solution - to convince Richard and Beth to take Jessica’s body to her flat and make it look like she killed herself there. If they’re clever enough about it, what could possibly go wrong?",
-      "runtime": 89,
-      "times": [
-        {
-          "starts_at": "2024-04-17T12:30:00+01:00",
-          "site": "Curzon Mayfair",
-          "url": "https://www.curzon.com/ticketing/seats/MAY1-26560/"
         }
       ]
     },
@@ -625,24 +476,6 @@
           "starts_at": "2024-04-17T15:30:00+01:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-89453/"
-        }
-      ]
-    },
-    {
-      "title": "Opponent",
-      "trailer": "https://www.youtube.com/watch?v=RQQr5wrxGjU",
-      "synopsis": "In the aftermath of a devastating rumour, Iman and his family have been forced to flee Iran. As refugees, they end up in a run-down hotel in northern Sweden. Despite feeling powerless, Iman tries to maintain his role as the family patriarch. To increase their chances of asylum, he breaks a promise to his wife and joins the local wrestling club. As the rumours start to resurface, Iman’s fear and desperation begin to take a hold.",
-      "runtime": 119,
-      "times": [
-        {
-          "starts_at": "2024-04-17T12:30:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-89452/"
-        },
-        {
-          "starts_at": "2024-04-17T18:00:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-89455/"
         }
       ]
     },
@@ -692,6 +525,19 @@
           "starts_at": "2024-04-17T21:10:00+01:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-89451/"
+        }
+      ]
+    },
+    {
+      "title": "Opponent",
+      "trailer": "https://www.youtube.com/watch?v=RQQr5wrxGjU",
+      "synopsis": "In the aftermath of a devastating rumour, Iman and his family have been forced to flee Iran. As refugees, they end up in a run-down hotel in northern Sweden. Despite feeling powerless, Iman tries to maintain his role as the family patriarch. To increase their chances of asylum, he breaks a promise to his wife and joins the local wrestling club. As the rumours start to resurface, Iman’s fear and desperation begin to take a hold.",
+      "runtime": 119,
+      "times": [
+        {
+          "starts_at": "2024-04-17T18:00:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-89455/"
         }
       ]
     },
