@@ -1,16 +1,29 @@
 {
   "2024-04-22": [
     {
+      "title": "Dune: Part Two",
+      "trailer": "https://www.youtube.com/watch?v=CHDU-B5K_Xw",
+      "synopsis": "Paul Atreides unites with Chani and the Fremen while on a warpath of revenge against the conspirators who destroyed his family. Facing a choice between the love of his life and the fate of the known universe, he endeavors to prevent a terrible future only he can foresee.",
+      "runtime": 167,
+      "times": [
+        {
+          "starts_at": "2024-04-22T17:10:00+01:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-48445/"
+        },
+        {
+          "starts_at": "2024-04-22T20:00:00+01:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-72234/"
+        }
+      ]
+    },
+    {
       "title": "Monkey Man",
       "trailer": "https://www.youtube.com/watch?v=g8zxiB5Qhsc",
       "synopsis": "Oscar® nominee Dev Patel (Lion, Slumdog Millionaire) achieves an astonishing, tour-de-force feature directing debut with an action thriller about one man’s quest for vengeance against the corrupt leaders who murdered his mother and continue to systemically victimize the poor and powerless.\nInspired by the legend of Hanuman, an icon embodying strength and courage, Monkey Man stars Patel as Kid, an anonymous young man who ekes out a meager living in an underground fight club where, night after night, wearing a gorilla mask, he is beaten bloody by more popular fighters for cash.\nAfter years of suppressed rage, Kid discovers a way to infiltrate the enclave of the city’s sinister elite. As his childhood trauma boils over, his mysteriously scarred hands unleash an explosive campaign of retribution to settle the score with the men who took everything from him.\n\n",
       "runtime": 121,
       "times": [
-        {
-          "starts_at": "2024-04-22T14:15:00+01:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-48449/"
-        },
         {
           "starts_at": "2024-04-22T17:30:00+01:00",
           "site": "Curzon Aldgate",
@@ -24,35 +37,96 @@
       ]
     },
     {
+      "title": "Civil War",
+      "trailer": "https://www.youtube.com/watch?v=Vm8869svOxI",
+      "synopsis": "In the near future, a team of journalists travel across the United States during a rapidly escalating civil war that has engulfed the entire nation.\r\n\r\nContent warning: This film contains a sequence of flashing lights which might affect customers who are susceptible to photosensitive epilepsy. ",
+      "runtime": 109,
+      "times": [
+        {
+          "starts_at": "2024-04-22T18:00:00+01:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-48443/"
+        },
+        {
+          "starts_at": "2024-04-22T20:40:00+01:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-48453/"
+        },
+        {
+          "starts_at": "2024-04-22T17:40:00+01:00",
+          "site": "Curzon Soho",
+          "url": "https://www.curzon.com/ticketing/seats/SOH1-44403/"
+        },
+        {
+          "starts_at": "2024-04-22T21:00:00+01:00",
+          "site": "Curzon Soho",
+          "url": "https://www.curzon.com/ticketing/seats/SOH1-44398/"
+        },
+        {
+          "starts_at": "2024-04-22T18:00:00+01:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-72232/"
+        },
+        {
+          "starts_at": "2024-04-22T20:40:00+01:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-72236/"
+        },
+        {
+          "starts_at": "2024-04-22T21:20:00+01:00",
+          "site": "Curzon Mayfair",
+          "url": "https://www.curzon.com/ticketing/seats/MAY1-26580/"
+        },
+        {
+          "starts_at": "2024-04-22T17:40:00+01:00",
+          "site": "Curzon Hoxton",
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-16024/"
+        },
+        {
+          "starts_at": "2024-04-22T21:00:00+01:00",
+          "site": "Curzon Hoxton",
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-16023/"
+        },
+        {
+          "starts_at": "2024-04-22T18:40:00+01:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-24008/"
+        }
+      ]
+    },
+    {
+      "title": "Abigail",
+      "trailer": "https://www.youtube.com/watch?v=yincrFV0P8s",
+      "synopsis": "After a group of would-be criminals kidnap the 12-year-old ballerina daughter of a powerful underworld figure, all they have to do to collect a $50 million ransom is watch the girl overnight. In an isolated mansion, the captors start to dwindle, one by one, and they discover, to their mounting horror, that they’re locked inside with no normal little girl.",
+      "runtime": 109,
+      "times": [
+        {
+          "starts_at": "2024-04-22T18:40:00+01:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-48442/"
+        },
+        {
+          "starts_at": "2024-04-22T21:00:00+01:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-48452/"
+        }
+      ]
+    },
+    {
       "title": "Back to Black",
       "trailer": "https://www.youtube.com/watch?v=bWHz9zJth1s",
       "synopsis": "A celebration of the most iconic – and much missed – homegrown star of the 21st century, BACK TO BLACK tells the extraordinary tale of Amy Winehouse. Painting a vivid, vibrant picture of the Camden streets she called home and capturing the struggles of global fame, BACK TO BLACK honours Amy’s artistry, wit, and honesty, as well as trying to understand her demons. An unflinching look at the modern celebrity machine and a powerful tribute to a once-in-a-generation talent.",
       "runtime": 122,
       "times": [
         {
-          "starts_at": "2024-04-22T14:40:00+01:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-48448/"
-        },
-        {
           "starts_at": "2024-04-22T20:20:00+01:00",
           "site": "Curzon Aldgate",
           "url": "https://www.curzon.com/ticketing/seats/ALD1-48441/"
         },
         {
-          "starts_at": "2024-04-22T15:10:00+01:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-44393/"
-        },
-        {
           "starts_at": "2024-04-22T18:20:00+01:00",
           "site": "Curzon Soho",
           "url": "https://www.curzon.com/ticketing/seats/SOH1-44402/"
-        },
-        {
-          "starts_at": "2024-04-22T14:40:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-72244/"
         },
         {
           "starts_at": "2024-04-22T18:20:00+01:00",
@@ -70,24 +144,9 @@
           "url": "https://www.curzon.com/ticketing/seats/MAY1-26579/"
         },
         {
-          "starts_at": "2024-04-22T14:40:00+01:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-16028/"
-        },
-        {
           "starts_at": "2024-04-22T20:20:00+01:00",
           "site": "Curzon Hoxton",
           "url": "https://www.curzon.com/ticketing/seats/HOX1-16027/"
-        },
-        {
-          "starts_at": "2024-04-22T14:20:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-23991/"
-        },
-        {
-          "starts_at": "2024-04-22T15:00:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-23990/"
         },
         {
           "starts_at": "2024-04-22T17:10:00+01:00",
@@ -103,135 +162,6 @@
           "starts_at": "2024-04-22T21:00:00+01:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-23996/"
-        }
-      ]
-    },
-    {
-      "title": "Abigail",
-      "trailer": "https://www.youtube.com/watch?v=yincrFV0P8s",
-      "synopsis": "After a group of would-be criminals kidnap the 12-year-old ballerina daughter of a powerful underworld figure, all they have to do to collect a $50 million ransom is watch the girl overnight. In an isolated mansion, the captors start to dwindle, one by one, and they discover, to their mounting horror, that they’re locked inside with no normal little girl.",
-      "runtime": 109,
-      "times": [
-        {
-          "starts_at": "2024-04-22T15:20:00+01:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-48447/"
-        },
-        {
-          "starts_at": "2024-04-22T18:40:00+01:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-48442/"
-        },
-        {
-          "starts_at": "2024-04-22T21:00:00+01:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-48452/"
-        }
-      ]
-    },
-    {
-      "title": "Civil War",
-      "trailer": "https://www.youtube.com/watch?v=Vm8869svOxI",
-      "synopsis": "In the near future, a team of journalists travel across the United States during a rapidly escalating civil war that has engulfed the entire nation.\r\n\r\nContent warning: This film contains a sequence of flashing lights which might affect customers who are susceptible to photosensitive epilepsy. ",
-      "runtime": 109,
-      "times": [
-        {
-          "starts_at": "2024-04-22T16:00:00+01:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-48446/"
-        },
-        {
-          "starts_at": "2024-04-22T18:00:00+01:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-48443/"
-        },
-        {
-          "starts_at": "2024-04-22T20:40:00+01:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-48453/"
-        },
-        {
-          "starts_at": "2024-04-22T14:50:00+01:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-44392/"
-        },
-        {
-          "starts_at": "2024-04-22T17:40:00+01:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-44403/"
-        },
-        {
-          "starts_at": "2024-04-22T21:00:00+01:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-44398/"
-        },
-        {
-          "starts_at": "2024-04-22T15:20:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-72231/"
-        },
-        {
-          "starts_at": "2024-04-22T18:00:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-72232/"
-        },
-        {
-          "starts_at": "2024-04-22T20:40:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-72236/"
-        },
-        {
-          "starts_at": "2024-04-22T14:30:00+01:00",
-          "site": "Curzon Mayfair",
-          "url": "https://www.curzon.com/ticketing/seats/MAY1-26610/"
-        },
-        {
-          "starts_at": "2024-04-22T21:20:00+01:00",
-          "site": "Curzon Mayfair",
-          "url": "https://www.curzon.com/ticketing/seats/MAY1-26580/"
-        },
-        {
-          "starts_at": "2024-04-22T15:20:00+01:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-16025/"
-        },
-        {
-          "starts_at": "2024-04-22T17:40:00+01:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-16024/"
-        },
-        {
-          "starts_at": "2024-04-22T21:00:00+01:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-16023/"
-        },
-        {
-          "starts_at": "2024-04-22T16:00:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-23995/"
-        },
-        {
-          "starts_at": "2024-04-22T18:40:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-24008/"
-        }
-      ]
-    },
-    {
-      "title": "Dune: Part Two",
-      "trailer": "https://www.youtube.com/watch?v=CHDU-B5K_Xw",
-      "synopsis": "Paul Atreides unites with Chani and the Fremen while on a warpath of revenge against the conspirators who destroyed his family. Facing a choice between the love of his life and the fate of the known universe, he endeavors to prevent a terrible future only he can foresee.",
-      "runtime": 167,
-      "times": [
-        {
-          "starts_at": "2024-04-22T17:10:00+01:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-48445/"
-        },
-        {
-          "starts_at": "2024-04-22T20:00:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-72234/"
         }
       ]
     },
@@ -255,54 +185,6 @@
           "starts_at": "2024-04-22T20:40:00+01:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-24007/"
-        }
-      ]
-    },
-    {
-      "title": "The Teachers' Lounge",
-      "trailer": null,
-      "synopsis": "Oscar-nominated The Teachers’ Lounge is German writer-director İlker Çatak’s brilliantly observed drama. Playing out like a thriller, the film expertly explores the fault lines of contemporary society. ",
-      "runtime": 99,
-      "times": [
-        {
-          "starts_at": "2024-04-22T15:30:00+01:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-44438/"
-        },
-        {
-          "starts_at": "2024-04-22T17:40:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-72233/"
-        },
-        {
-          "starts_at": "2024-04-22T18:40:00+01:00",
-          "site": "Curzon Mayfair",
-          "url": "https://www.curzon.com/ticketing/seats/MAY1-26581/"
-        },
-        {
-          "starts_at": "2024-04-22T15:40:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-24001/"
-        },
-        {
-          "starts_at": "2024-04-22T21:15:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-24091/"
-        },
-        {
-          "starts_at": "2024-04-22T15:10:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-89575/"
-        },
-        {
-          "starts_at": "2024-04-22T18:10:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-89570/"
-        },
-        {
-          "starts_at": "2024-04-22T20:20:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-89583/"
         }
       ]
     },
@@ -336,11 +218,6 @@
           "url": "https://www.curzon.com/ticketing/seats/CAM1-24002/"
         },
         {
-          "starts_at": "2024-04-22T15:20:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-89574/"
-        },
-        {
           "starts_at": "2024-04-22T17:30:00+01:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-89572/"
@@ -364,11 +241,6 @@
           "url": "https://www.curzon.com/ticketing/seats/SOH1-44399/"
         },
         {
-          "starts_at": "2024-04-22T16:00:00+01:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-16022/"
-        },
-        {
           "starts_at": "2024-04-22T20:40:00+01:00",
           "site": "Curzon Hoxton",
           "url": "https://www.curzon.com/ticketing/seats/HOX1-16020/"
@@ -377,11 +249,6 @@
           "starts_at": "2024-04-22T18:20:00+01:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-24006/"
-        },
-        {
-          "starts_at": "2024-04-22T16:00:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-89587/"
         },
         {
           "starts_at": "2024-04-22T21:00:00+01:00",
@@ -397,14 +264,42 @@
       "runtime": 97,
       "times": [
         {
-          "starts_at": "2024-04-22T14:20:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-72316/"
-        },
-        {
           "starts_at": "2024-04-22T17:20:00+01:00",
           "site": "Curzon Victoria",
           "url": "https://www.curzon.com/ticketing/seats/VIC1-72315/"
+        }
+      ]
+    },
+    {
+      "title": "The Teachers' Lounge",
+      "trailer": null,
+      "synopsis": "Oscar-nominated The Teachers’ Lounge is German writer-director İlker Çatak’s brilliantly observed drama. Playing out like a thriller, the film expertly explores the fault lines of contemporary society. ",
+      "runtime": 99,
+      "times": [
+        {
+          "starts_at": "2024-04-22T17:40:00+01:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-72233/"
+        },
+        {
+          "starts_at": "2024-04-22T18:40:00+01:00",
+          "site": "Curzon Mayfair",
+          "url": "https://www.curzon.com/ticketing/seats/MAY1-26581/"
+        },
+        {
+          "starts_at": "2024-04-22T21:15:00+01:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-24091/"
+        },
+        {
+          "starts_at": "2024-04-22T18:10:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-89570/"
+        },
+        {
+          "starts_at": "2024-04-22T20:20:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-89583/"
         }
       ]
     },
@@ -415,27 +310,9 @@
       "runtime": 100,
       "times": [
         {
-          "starts_at": "2024-04-22T15:40:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-72241/"
-        },
-        {
           "starts_at": "2024-04-22T21:10:00+01:00",
           "site": "Curzon Victoria",
           "url": "https://www.curzon.com/ticketing/seats/VIC1-72238/"
-        }
-      ]
-    },
-    {
-      "title": "Jeanne du Barry",
-      "trailer": null,
-      "synopsis": "Jeanne du Barry follows Jeanne Vaubernier, a woman born into poverty who uses her intellect and charms to climb the social ladder, rising to the opulent court of King Louis XV of France. On her official introduction to the King, their attraction is irresistible and Jeanne becomes his favourite courtesan, reigniting his appetite for life. The two fall madly in love and against all convention, Jeanne moves into the Palace of Versailles as scandal and revolution ensue.",
-      "runtime": 117,
-      "times": [
-        {
-          "starts_at": "2024-04-22T14:45:00+01:00",
-          "site": "Curzon Mayfair",
-          "url": "https://www.curzon.com/ticketing/seats/MAY1-26608/"
         }
       ]
     },
@@ -482,63 +359,9 @@
           "url": "https://www.curzon.com/ticketing/seats/HOX1-16019/"
         },
         {
-          "starts_at": "2024-04-22T14:40:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-24000/"
-        },
-        {
           "starts_at": "2024-04-22T20:20:00+01:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-24003/"
-        }
-      ]
-    },
-    {
-      "title": "American Fiction",
-      "trailer": "https://www.youtube.com/watch?v=e8YghfAsgpU",
-      "synopsis": "AMERICAN FICTION is Cord Jefferson's hilarious directorial debut, which confronts our culture’s obsession with reducing people to outrageous stereotypes. Jeffrey Wright stars as Monk, a frustrated novelist who’s fed up with the establishment profiting from “Black” entertainment that relies on tired and offensive tropes. To prove his point, Monk uses a pen name to write an outlandish “Black” book of his own, a book that propels him to the heart of hypocrisy and the madness he claims to disdain.",
-      "runtime": 117,
-      "times": [
-        {
-          "starts_at": "2024-04-22T14:50:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-89581/"
-        }
-      ]
-    },
-    {
-      "title": "DocHouse: It Runs In The Family",
-      "trailer": null,
-      "synopsis": "\r\nVictoria Linares Villegas discovers that she is related to a once well-known film director, Oscar Torres. A queer filmmaker during Dominican Republic's authoritarian 1940s, Torres was a prominent force of Carribean docufiction and leftist movements - and he was ostracised from her family.\r\n\r\nThis is the starting point for Linares Villegas's (Ramona) wonderfully creative, filmic excavation, and her journey of kindred self-discovery.\r\nTracing his story and defining her own, she steps into Torres's shoes to lead a series of re-enactments of his unproduced screenplays, performed by the family who erased him - her family.\r\n\r\nIn It Runs in the Family, Linares Villegas conveys great depth with a light touch, her playful tone resonating through layers of personal and political history.\r\n",
-      "runtime": 84,
-      "times": [
-        {
-          "starts_at": "2024-04-22T15:00:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-89653/"
-        }
-      ]
-    },
-    {
-      "title": "The Zone of Interest",
-      "trailer": null,
-      "synopsis": "The commandant of Auschwitz, Rudolf Höss, and his wife Hedwig, strive to build a dream life for their family in a house and garden next to the camp.",
-      "runtime": 105,
-      "times": [
-        {
-          "starts_at": "2024-04-22T16:15:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-89573/"
-        },
-        {
-          "starts_at": "2024-04-22T18:45:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-89584/"
-        },
-        {
-          "starts_at": "2024-04-22T21:15:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-89580/"
         }
       ]
     },
@@ -578,6 +401,24 @@
           "starts_at": "2024-04-22T18:30:00+01:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-89588/"
+        }
+      ]
+    },
+    {
+      "title": "The Zone of Interest",
+      "trailer": null,
+      "synopsis": "The commandant of Auschwitz, Rudolf Höss, and his wife Hedwig, strive to build a dream life for their family in a house and garden next to the camp.",
+      "runtime": 105,
+      "times": [
+        {
+          "starts_at": "2024-04-22T18:45:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-89584/"
+        },
+        {
+          "starts_at": "2024-04-22T21:15:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-89580/"
         }
       ]
     },
