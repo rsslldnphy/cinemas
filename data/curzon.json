@@ -1,21 +1,92 @@
 {
   "2024-04-30": [
     {
+      "title": "Civil War",
+      "trailer": "https://www.youtube.com/watch?v=Vm8869svOxI",
+      "synopsis": "In the near future, a team of journalists travel across the United States during a rapidly escalating civil war that has engulfed the entire nation.\r\n\r\nContent warning: This film contains a sequence of flashing lights which might affect customers who are susceptible to photosensitive epilepsy. ",
+      "runtime": 109,
+      "times": [
+        {
+          "starts_at": "2024-04-30T17:15:00+01:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-48595/"
+        },
+        {
+          "starts_at": "2024-04-30T20:20:00+01:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-48594/"
+        },
+        {
+          "starts_at": "2024-04-30T21:15:00+01:00",
+          "site": "Curzon Soho",
+          "url": "https://www.curzon.com/ticketing/seats/SOH1-44530/"
+        },
+        {
+          "starts_at": "2024-04-30T18:40:00+01:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-72429/"
+        },
+        {
+          "starts_at": "2024-04-30T21:20:00+01:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-72423/"
+        },
+        {
+          "starts_at": "2024-04-30T18:20:00+01:00",
+          "site": "Curzon Hoxton",
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-16143/"
+        },
+        {
+          "starts_at": "2024-04-30T21:20:00+01:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-24169/"
+        }
+      ]
+    },
+    {
+      "title": "Back to Black",
+      "trailer": "https://www.youtube.com/watch?v=q9Y_4TYYdDQ",
+      "synopsis": "A celebration of the most iconic – and much missed – homegrown star of the 21st century, BACK TO BLACK tells the extraordinary tale of Amy Winehouse. Painting a vivid, vibrant picture of the Camden streets she called home and capturing the struggles of global fame, BACK TO BLACK honours Amy’s artistry, wit, and honesty, as well as trying to understand her demons. An unflinching look at the modern celebrity machine and a powerful tribute to a once-in-a-generation talent.",
+      "runtime": 122,
+      "times": [
+        {
+          "starts_at": "2024-04-30T17:30:00+01:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-48592/"
+        },
+        {
+          "starts_at": "2024-04-30T17:40:00+01:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-72416/"
+        },
+        {
+          "starts_at": "2024-04-30T20:20:00+01:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-72417/"
+        },
+        {
+          "starts_at": "2024-04-30T17:20:00+01:00",
+          "site": "Curzon Hoxton",
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-16140/"
+        },
+        {
+          "starts_at": "2024-04-30T17:20:00+01:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-24170/"
+        },
+        {
+          "starts_at": "2024-04-30T20:20:00+01:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-24152/"
+        }
+      ]
+    },
+    {
       "title": "Challengers",
       "trailer": "https://www.youtube.com/watch?v=iJOPZYaNVgQ",
       "synopsis": "A tennis coach helps her husband transform from a mediocre player to a champion. To end a recent losing streak, they enter at the lowest level of a tournament and find themselves facing off against a once-promising and now burnt-out former friend who used to date the wife.",
       "runtime": 131,
       "times": [
-        {
-          "starts_at": "2024-04-30T14:00:00+01:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-48588/"
-        },
-        {
-          "starts_at": "2024-04-30T15:00:00+01:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-48525/"
-        },
         {
           "starts_at": "2024-04-30T18:00:00+01:00",
           "site": "Curzon Aldgate",
@@ -32,11 +103,6 @@
           "url": "https://www.curzon.com/ticketing/seats/ALD1-48527/"
         },
         {
-          "starts_at": "2024-04-30T15:00:00+01:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-44508/"
-        },
-        {
           "starts_at": "2024-04-30T18:00:00+01:00",
           "site": "Curzon Soho",
           "url": "https://www.curzon.com/ticketing/seats/SOH1-44501/"
@@ -45,11 +111,6 @@
           "starts_at": "2024-04-30T21:00:00+01:00",
           "site": "Curzon Soho",
           "url": "https://www.curzon.com/ticketing/seats/SOH1-44506/"
-        },
-        {
-          "starts_at": "2024-04-30T15:00:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-72350/"
         },
         {
           "starts_at": "2024-04-30T18:00:00+01:00",
@@ -72,19 +133,9 @@
           "url": "https://www.curzon.com/ticketing/seats/MAY1-26673/"
         },
         {
-          "starts_at": "2024-04-30T14:40:00+01:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-16106/"
-        },
-        {
           "starts_at": "2024-04-30T20:40:00+01:00",
           "site": "Curzon Hoxton",
           "url": "https://www.curzon.com/ticketing/seats/HOX1-16108/"
-        },
-        {
-          "starts_at": "2024-04-30T15:00:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-24161/"
         },
         {
           "starts_at": "2024-04-30T18:00:00+01:00",
@@ -95,11 +146,6 @@
           "starts_at": "2024-04-30T21:00:00+01:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-24157/"
-        },
-        {
-          "starts_at": "2024-04-30T15:00:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-89763/"
         },
         {
           "starts_at": "2024-04-30T17:40:00+01:00",
@@ -120,130 +166,9 @@
       "runtime": 121,
       "times": [
         {
-          "starts_at": "2024-04-30T14:40:00+01:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-48596/"
-        },
-        {
           "starts_at": "2024-04-30T18:30:00+01:00",
           "site": "Curzon Aldgate",
           "url": "https://www.curzon.com/ticketing/seats/ALD1-48590/"
-        }
-      ]
-    },
-    {
-      "title": "Civil War",
-      "trailer": "https://www.youtube.com/watch?v=Vm8869svOxI",
-      "synopsis": "In the near future, a team of journalists travel across the United States during a rapidly escalating civil war that has engulfed the entire nation.\r\n\r\nContent warning: This film contains a sequence of flashing lights which might affect customers who are susceptible to photosensitive epilepsy. ",
-      "runtime": 109,
-      "times": [
-        {
-          "starts_at": "2024-04-30T15:50:00+01:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-48591/"
-        },
-        {
-          "starts_at": "2024-04-30T17:15:00+01:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-48595/"
-        },
-        {
-          "starts_at": "2024-04-30T20:20:00+01:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-48594/"
-        },
-        {
-          "starts_at": "2024-04-30T15:20:00+01:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-44531/"
-        },
-        {
-          "starts_at": "2024-04-30T21:15:00+01:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-44530/"
-        },
-        {
-          "starts_at": "2024-04-30T16:00:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-72428/"
-        },
-        {
-          "starts_at": "2024-04-30T18:40:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-72429/"
-        },
-        {
-          "starts_at": "2024-04-30T21:20:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-72423/"
-        },
-        {
-          "starts_at": "2024-04-30T15:20:00+01:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-16139/"
-        },
-        {
-          "starts_at": "2024-04-30T18:20:00+01:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-16143/"
-        },
-        {
-          "starts_at": "2024-04-30T16:00:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-24168/"
-        },
-        {
-          "starts_at": "2024-04-30T21:20:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-24169/"
-        }
-      ]
-    },
-    {
-      "title": "Back to Black",
-      "trailer": "https://www.youtube.com/watch?v=q9Y_4TYYdDQ",
-      "synopsis": "A celebration of the most iconic – and much missed – homegrown star of the 21st century, BACK TO BLACK tells the extraordinary tale of Amy Winehouse. Painting a vivid, vibrant picture of the Camden streets she called home and capturing the struggles of global fame, BACK TO BLACK honours Amy’s artistry, wit, and honesty, as well as trying to understand her demons. An unflinching look at the modern celebrity machine and a powerful tribute to a once-in-a-generation talent.",
-      "runtime": 122,
-      "times": [
-        {
-          "starts_at": "2024-04-30T17:30:00+01:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-48592/"
-        },
-        {
-          "starts_at": "2024-04-30T14:40:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-72425/"
-        },
-        {
-          "starts_at": "2024-04-30T17:40:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-72416/"
-        },
-        {
-          "starts_at": "2024-04-30T20:20:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-72417/"
-        },
-        {
-          "starts_at": "2024-04-30T17:20:00+01:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-16140/"
-        },
-        {
-          "starts_at": "2024-04-30T14:20:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-24153/"
-        },
-        {
-          "starts_at": "2024-04-30T17:20:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-24170/"
-        },
-        {
-          "starts_at": "2024-04-30T20:20:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-24152/"
         }
       ]
     },
@@ -267,11 +192,6 @@
       "runtime": 134,
       "times": [
         {
-          "starts_at": "2024-04-30T14:40:00+01:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-44503/"
-        },
-        {
           "starts_at": "2024-04-30T17:40:00+01:00",
           "site": "Curzon Soho",
           "url": "https://www.curzon.com/ticketing/seats/SOH1-44504/"
@@ -282,19 +202,9 @@
           "url": "https://www.curzon.com/ticketing/seats/SOH1-44505/"
         },
         {
-          "starts_at": "2024-04-30T15:20:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-72414/"
-        },
-        {
           "starts_at": "2024-04-30T20:40:00+01:00",
           "site": "Curzon Victoria",
           "url": "https://www.curzon.com/ticketing/seats/VIC1-72353/"
-        },
-        {
-          "starts_at": "2024-04-30T15:00:00+01:00",
-          "site": "Curzon Mayfair",
-          "url": "https://www.curzon.com/ticketing/seats/MAY1-26668/"
         },
         {
           "starts_at": "2024-04-30T20:30:00+01:00",
@@ -307,11 +217,6 @@
           "url": "https://www.curzon.com/ticketing/seats/HOX1-16107/"
         },
         {
-          "starts_at": "2024-04-30T14:40:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-24160/"
-        },
-        {
           "starts_at": "2024-04-30T17:40:00+01:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-24151/"
@@ -320,11 +225,6 @@
           "starts_at": "2024-04-30T20:40:00+01:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-24156/"
-        },
-        {
-          "starts_at": "2024-04-30T14:40:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-89770/"
         },
         {
           "starts_at": "2024-04-30T18:00:00+01:00",
@@ -348,24 +248,6 @@
           "starts_at": "2024-04-30T18:20:00+01:00",
           "site": "Curzon Soho",
           "url": "https://www.curzon.com/ticketing/seats/SOH1-43968/"
-        }
-      ]
-    },
-    {
-      "title": "Dune: Part Two",
-      "trailer": "https://www.youtube.com/watch?v=CHDU-B5K_Xw",
-      "synopsis": "Paul Atreides unites with Chani and the Fremen while on a warpath of revenge against the conspirators who destroyed his family. Facing a choice between the love of his life and the fate of the known universe, he endeavors to prevent a terrible future only he can foresee.",
-      "runtime": 167,
-      "times": [
-        {
-          "starts_at": "2024-04-30T13:40:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-72419/"
-        },
-        {
-          "starts_at": "2024-04-30T19:40:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-72422/"
         }
       ]
     },
@@ -394,16 +276,6 @@
           "url": "https://www.curzon.com/ticketing/seats/VIC1-72420/"
         },
         {
-          "starts_at": "2024-04-30T13:40:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-24164/"
-        },
-        {
-          "starts_at": "2024-04-30T14:10:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-89774/"
-        },
-        {
           "starts_at": "2024-04-30T18:50:00+01:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-89775/"
@@ -416,16 +288,24 @@
       ]
     },
     {
+      "title": "Dune: Part Two",
+      "trailer": "https://www.youtube.com/watch?v=CHDU-B5K_Xw",
+      "synopsis": "Paul Atreides unites with Chani and the Fremen while on a warpath of revenge against the conspirators who destroyed his family. Facing a choice between the love of his life and the fate of the known universe, he endeavors to prevent a terrible future only he can foresee.",
+      "runtime": 167,
+      "times": [
+        {
+          "starts_at": "2024-04-30T19:40:00+01:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-72422/"
+        }
+      ]
+    },
+    {
       "title": "Jeanne du Barry",
       "trailer": null,
       "synopsis": "Jeanne du Barry follows Jeanne Vaubernier, a woman born into poverty who uses her intellect and charms to climb the social ladder, rising to the opulent court of King Louis XV of France. On her official introduction to the King, their attraction is irresistible and Jeanne becomes his favourite courtesan, reigniting his appetite for life. The two fall madly in love and against all convention, Jeanne moves into the Palace of Versailles as scandal and revolution ensue.",
       "runtime": 117,
       "times": [
-        {
-          "starts_at": "2024-04-30T14:40:00+01:00",
-          "site": "Curzon Mayfair",
-          "url": "https://www.curzon.com/ticketing/seats/MAY1-26672/"
-        },
         {
           "starts_at": "2024-04-30T17:40:00+01:00",
           "site": "Curzon Mayfair",
@@ -439,11 +319,6 @@
       "synopsis": "Fran likes to think about dying. It brings sensation to her quiet life. When she makes the new guy at work laugh, it leads to more: a date, a slice of pie, a conversation, a spark. The only thing standing in their way is Fran herself.",
       "runtime": 93,
       "times": [
-        {
-          "starts_at": "2024-04-30T15:00:00+01:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-16141/"
-        },
         {
           "starts_at": "2024-04-30T20:20:00+01:00",
           "site": "Curzon Hoxton",
@@ -475,24 +350,6 @@
       ]
     },
     {
-      "title": "There's Still Tomorrow",
-      "trailer": null,
-      "synopsis": "In post-war Italy, the family of typical housewife Delia is in turmoil over the impending engagement of beloved firstborn Marcella. The arrival of a mysterious letter, however, will ignite Delia's courage to face her abusive husband and imagine a better future.",
-      "runtime": 118,
-      "times": [
-        {
-          "starts_at": "2024-04-30T14:00:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-24163/"
-        },
-        {
-          "starts_at": "2024-04-30T20:00:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-24162/"
-        }
-      ]
-    },
-    {
       "title": "Perfect Days",
       "trailer": null,
       "synopsis": "A highly anticipated return to fiction feature filmmaking from Wim Wenders (Paris, Texas, Wings of Desire), PERFECT DAYS takes the writer-director to Tokyo to tell a story celebrating the hidden joys and minutiae of Japanese culture. Winner of the Best Actor award at Cannes 2023, Koji Yakusho (Babel, 13 Assassins) stars as Hirayama, a contemplative middle-aged man who lives a life of modesty and serenity, spending his days balancing his job as a dutiful caretaker of Tokyo’s numerous public toilets with his passion for music, literature and photography. As we join him on his structured daily routine, a series of unexpected encounters gradually begin to reveal a hidden past that lies behind his otherwise content and harmonious life. \n\nCombining a refreshingly unstereotypical depiction of the Japanese capital with a soundtrack comprised of iconic hits from the 60s and 80s, this is a subtle, shimmering and ultimately life-affirming reflection on finding beauty in the everyday world around us. Japan’s entry for Best International Film at the 2024 Academy Awards.\n",
@@ -502,11 +359,6 @@
           "starts_at": "2024-04-30T17:00:00+01:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-24165/"
-        },
-        {
-          "starts_at": "2024-04-30T14:50:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-89766/"
         },
         {
           "starts_at": "2024-04-30T17:50:00+01:00",
@@ -521,33 +373,15 @@
       ]
     },
     {
-      "title": "The Zone of Interest",
+      "title": "There's Still Tomorrow",
       "trailer": null,
-      "synopsis": "The commandant of Auschwitz, Rudolf Höss, and his wife Hedwig, strive to build a dream life for their family in a house and garden next to the camp.",
-      "runtime": 105,
+      "synopsis": "In post-war Italy, the family of typical housewife Delia is in turmoil over the impending engagement of beloved firstborn Marcella. The arrival of a mysterious letter, however, will ignite Delia's courage to face her abusive husband and imagine a better future.",
+      "runtime": 118,
       "times": [
         {
-          "starts_at": "2024-04-30T14:20:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-89773/"
-        },
-        {
-          "starts_at": "2024-04-30T20:20:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-89779/"
-        }
-      ]
-    },
-    {
-      "title": "DocHouse: Tomorrow's Freedom",
-      "trailer": null,
-      "synopsis": "A portrait of Palestinian political leader and activist, Marwan Barghouti. Tracing the origins of his political life to his imprisonment, we witness the evolution of a freedom fighter to leader. Including new interviews with politicians from Israel, Palestine and South Africa, and members of family and inner circle, Tomorrow’s Freedom’ reveals a man of resilience and intelligence, with an infectious dream of freedom for Palestine from the decades old Occupation.",
-      "runtime": 97,
-      "times": [
-        {
-          "starts_at": "2024-04-30T15:10:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-89828/"
+          "starts_at": "2024-04-30T20:00:00+01:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-24162/"
         }
       ]
     },
@@ -574,6 +408,19 @@
           "starts_at": "2024-04-30T18:10:00+01:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-89829/"
+        }
+      ]
+    },
+    {
+      "title": "The Zone of Interest",
+      "trailer": null,
+      "synopsis": "The commandant of Auschwitz, Rudolf Höss, and his wife Hedwig, strive to build a dream life for their family in a house and garden next to the camp.",
+      "runtime": 105,
+      "times": [
+        {
+          "starts_at": "2024-04-30T20:20:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-89779/"
         }
       ]
     },
