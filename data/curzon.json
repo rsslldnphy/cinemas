@@ -1,25 +1,33 @@
 {
   "2024-05-10": [
     {
+      "title": "Kingdom of the Planet of the Apes",
+      "trailer": "https://www.youtube.com/watch?v=tP4hZiX4pTk",
+      "synopsis": "Director Wes Ball breathes new life into the global, epic franchise set several generations in the future following Caesar’s reign, in which apes are the dominant species living harmoniously and humans have been reduced to living in the shadows. As a new tyrannical ape leader builds his empire, one young ape undertakes a harrowing journey that will cause him to question all that he has known about the past and to make choices that will define a future for apes and humans alike.",
+      "runtime": 144,
+      "times": [
+        {
+          "starts_at": "2024-05-10T20:20:00+01:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-48615/"
+        },
+        {
+          "starts_at": "2024-05-10T20:40:00+01:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-72475/"
+        }
+      ]
+    },
+    {
       "title": "Challengers",
       "trailer": "https://www.youtube.com/watch?v=iJOPZYaNVgQ",
       "synopsis": "A tennis coach helps her husband transform from a mediocre player to a champion. To end a recent losing streak, they enter at the lowest level of a tournament and find themselves facing off against a once-promising and now burnt-out former friend who used to date the wife.",
       "runtime": 131,
       "times": [
         {
-          "starts_at": "2024-05-10T17:20:00+01:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-48620/"
-        },
-        {
           "starts_at": "2024-05-10T20:40:00+01:00",
           "site": "Curzon Aldgate",
           "url": "https://www.curzon.com/ticketing/seats/ALD1-48621/"
-        },
-        {
-          "starts_at": "2024-05-10T18:20:00+01:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-44684/"
         },
         {
           "starts_at": "2024-05-10T20:30:00+01:00",
@@ -27,19 +35,9 @@
           "url": "https://www.curzon.com/ticketing/seats/SOH1-44690/"
         },
         {
-          "starts_at": "2024-05-10T17:00:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-72727/"
-        },
-        {
           "starts_at": "2024-05-10T20:20:00+01:00",
           "site": "Curzon Victoria",
           "url": "https://www.curzon.com/ticketing/seats/VIC1-72673/"
-        },
-        {
-          "starts_at": "2024-05-10T17:40:00+01:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-16335/"
         },
         {
           "starts_at": "2024-05-10T20:40:00+01:00",
@@ -47,19 +45,9 @@
           "url": "https://www.curzon.com/ticketing/seats/HOX1-16330/"
         },
         {
-          "starts_at": "2024-05-10T17:40:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-24467/"
-        },
-        {
           "starts_at": "2024-05-10T20:40:00+01:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-24466/"
-        },
-        {
-          "starts_at": "2024-05-10T17:30:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-90042/"
         },
         {
           "starts_at": "2024-05-10T20:20:00+01:00",
@@ -75,65 +63,14 @@
       "runtime": 126,
       "times": [
         {
-          "starts_at": "2024-05-10T17:40:00+01:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-48616/"
-        },
-        {
           "starts_at": "2024-05-10T21:00:00+01:00",
           "site": "Curzon Aldgate",
           "url": "https://www.curzon.com/ticketing/seats/ALD1-48619/"
         },
         {
-          "starts_at": "2024-05-10T18:00:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-72483/"
-        },
-        {
           "starts_at": "2024-05-10T21:00:00+01:00",
           "site": "Curzon Victoria",
           "url": "https://www.curzon.com/ticketing/seats/VIC1-72482/"
-        }
-      ]
-    },
-    {
-      "title": "Kingdom of the Planet of the Apes",
-      "trailer": "https://www.youtube.com/watch?v=tP4hZiX4pTk",
-      "synopsis": "Director Wes Ball breathes new life into the global, epic franchise set several generations in the future following Caesar’s reign, in which apes are the dominant species living harmoniously and humans have been reduced to living in the shadows. As a new tyrannical ape leader builds his empire, one young ape undertakes a harrowing journey that will cause him to question all that he has known about the past and to make choices that will define a future for apes and humans alike.",
-      "runtime": 144,
-      "times": [
-        {
-          "starts_at": "2024-05-10T18:00:00+01:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-48618/"
-        },
-        {
-          "starts_at": "2024-05-10T20:20:00+01:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-48615/"
-        },
-        {
-          "starts_at": "2024-05-10T17:20:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-72480/"
-        },
-        {
-          "starts_at": "2024-05-10T20:40:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-72475/"
-        }
-      ]
-    },
-    {
-      "title": "Monkey Man",
-      "trailer": "https://www.youtube.com/watch?v=g8zxiB5Qhsc",
-      "synopsis": "Oscar® nominee Dev Patel (Lion, Slumdog Millionaire) achieves an astonishing, tour-de-force feature directing debut with an action thriller about one man’s quest for vengeance against the corrupt leaders who murdered his mother and continue to systemically victimize the poor and powerless.\nInspired by the legend of Hanuman, an icon embodying strength and courage, Monkey Man stars Patel as Kid, an anonymous young man who ekes out a meager living in an underground fight club where, night after night, wearing a gorilla mask, he is beaten bloody by more popular fighters for cash.\nAfter years of suppressed rage, Kid discovers a way to infiltrate the enclave of the city’s sinister elite. As his childhood trauma boils over, his mysteriously scarred hands unleash an explosive campaign of retribution to settle the score with the men who took everything from him.\n\n",
-      "runtime": 121,
-      "times": [
-        {
-          "starts_at": "2024-05-10T18:15:00+01:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-48860/"
         }
       ]
     },
@@ -149,11 +86,6 @@
           "url": "https://www.curzon.com/ticketing/seats/ALD1-48859/"
         },
         {
-          "starts_at": "2024-05-10T17:40:00+01:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-44691/"
-        },
-        {
           "starts_at": "2024-05-10T21:15:00+01:00",
           "site": "Curzon Soho",
           "url": "https://www.curzon.com/ticketing/seats/SOH1-44683/"
@@ -167,11 +99,6 @@
           "starts_at": "2024-05-10T21:20:00+01:00",
           "site": "Curzon Mayfair",
           "url": "https://www.curzon.com/ticketing/seats/MAY1-26770/"
-        },
-        {
-          "starts_at": "2024-05-10T18:50:00+01:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-16334/"
         },
         {
           "starts_at": "2024-05-10T21:20:00+01:00",
@@ -197,29 +124,9 @@
       "runtime": 131,
       "times": [
         {
-          "starts_at": "2024-05-10T18:00:00+01:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-44574/"
-        },
-        {
           "starts_at": "2024-05-10T21:00:00+01:00",
           "site": "Curzon Soho",
           "url": "https://www.curzon.com/ticketing/seats/SOH1-44575/"
-        },
-        {
-          "starts_at": "2024-05-10T18:15:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-72476/"
-        },
-        {
-          "starts_at": "2024-05-10T17:40:00+01:00",
-          "site": "Curzon Mayfair",
-          "url": "https://www.curzon.com/ticketing/seats/MAY1-26694/"
-        },
-        {
-          "starts_at": "2024-05-10T18:00:00+01:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-16171/"
         },
         {
           "starts_at": "2024-05-10T21:00:00+01:00",
@@ -227,37 +134,14 @@
           "url": "https://www.curzon.com/ticketing/seats/HOX1-16397/"
         },
         {
-          "starts_at": "2024-05-10T18:00:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-24246/"
-        },
-        {
           "starts_at": "2024-05-10T21:00:00+01:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-24247/"
         },
         {
-          "starts_at": "2024-05-10T18:00:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-89843/"
-        },
-        {
           "starts_at": "2024-05-10T21:00:00+01:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-89844/"
-        }
-      ]
-    },
-    {
-      "title": "Civil War",
-      "trailer": "https://www.youtube.com/watch?v=Vm8869svOxI",
-      "synopsis": "In the near future, a team of journalists travel across the United States during a rapidly escalating civil war that has engulfed the entire nation.\r\n\r\nContent warning: This film contains a sequence of flashing lights which might affect customers who are susceptible to photosensitive epilepsy. ",
-      "runtime": 109,
-      "times": [
-        {
-          "starts_at": "2024-05-10T17:40:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-72723/"
         }
       ]
     },
@@ -293,45 +177,6 @@
       ]
     },
     {
-      "title": "Power",
-      "trailer": null,
-      "synopsis": "Delve into the untold history of American policing in this thought-provoking documentary that asks, \"Who is more powerful: the people — or the police?\"",
-      "runtime": 88,
-      "times": [
-        {
-          "starts_at": "2024-05-10T17:00:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-24506/"
-        }
-      ]
-    },
-    {
-      "title": "There's Still Tomorrow",
-      "trailer": null,
-      "synopsis": "In post-war Italy, the family of typical housewife Delia is in turmoil over the impending engagement of beloved firstborn Marcella. The arrival of a mysterious letter, however, will ignite Delia's courage to face her abusive husband and imagine a better future.",
-      "runtime": 118,
-      "times": [
-        {
-          "starts_at": "2024-05-10T17:20:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-24468/"
-        }
-      ]
-    },
-    {
-      "title": "Back to Black",
-      "trailer": "https://www.youtube.com/watch?v=q9Y_4TYYdDQ",
-      "synopsis": "A celebration of the most iconic – and much missed – homegrown star of the 21st century, BACK TO BLACK tells the extraordinary tale of Amy Winehouse. Painting a vivid, vibrant picture of the Camden streets she called home and capturing the struggles of global fame, BACK TO BLACK honours Amy’s artistry, wit, and honesty, as well as trying to understand her demons. An unflinching look at the modern celebrity machine and a powerful tribute to a once-in-a-generation talent.",
-      "runtime": 122,
-      "times": [
-        {
-          "starts_at": "2024-05-10T18:30:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-24470/"
-        }
-      ]
-    },
-    {
       "title": "Perfect Days",
       "trailer": null,
       "synopsis": "A highly anticipated return to fiction feature filmmaking from Wim Wenders (Paris, Texas, Wings of Desire), PERFECT DAYS takes the writer-director to Tokyo to tell a story celebrating the hidden joys and minutiae of Japanese culture. Winner of the Best Actor award at Cannes 2023, Koji Yakusho (Babel, 13 Assassins) stars as Hirayama, a contemplative middle-aged man who lives a life of modesty and serenity, spending his days balancing his job as a dutiful caretaker of Tokyo’s numerous public toilets with his passion for music, literature and photography. As we join him on his structured daily routine, a series of unexpected encounters gradually begin to reveal a hidden past that lies behind his otherwise content and harmonious life. \n\nCombining a refreshingly unstereotypical depiction of the Japanese capital with a soundtrack comprised of iconic hits from the 60s and 80s, this is a subtle, shimmering and ultimately life-affirming reflection on finding beauty in the everyday world around us. Japan’s entry for Best International Film at the 2024 Academy Awards.\n",
@@ -346,71 +191,6 @@
           "starts_at": "2024-05-10T20:30:00+01:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-90045/"
-        }
-      ]
-    },
-    {
-      "title": "DocHouse: Big Banana Feet",
-      "trailer": null,
-      "synopsis": "This long lost film of Billy Connolly's 1975 tour of Ireland captures the Big Yin at his beguiling best, using humour and charm to successfully navigate the political tensions of 1970s Dublin and Belfast.\r\n\r\nInspired by the fly-on-the-wall style of DA Pennebaker's Bob Dylan documentary Don't Look Back, director Murray Grigor follows Connolly both on stage and off, capturing iconic stand-up material alongside fascinating behind-the-scenes glimpses. This previously elusive milestone of British comedy is now newly restored in 2k from original 16mm materials.",
-      "runtime": 77,
-      "times": [
-        {
-          "starts_at": "2024-05-10T16:30:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-90175/"
-        }
-      ]
-    },
-    {
-      "title": "Kidnapped",
-      "trailer": null,
-      "synopsis": "Never one to shy away from controversial subject matter, the veteran Italian filmmaker Marco Bellocchio (Fists in the Pocket, The Conviction) here brings to life an unbelievable true story lifted from the pages of a shocking and horrifying history. \n\nThe film follows the true story of how a six-year-old Jewish boy, Edgardo Mortara, was taken by the Catholic Church following claims that he was baptized by the family’s maid as a baby. While the distraught Mortara family fight to get him back, they find themselves at the epicentre of a wider historical battle between the forces of Catholic authoritarianism and the growing opposition movement. ",
-      "runtime": 134,
-      "times": [
-        {
-          "starts_at": "2024-05-10T17:50:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-90047/"
-        }
-      ]
-    },
-    {
-      "title": "The Teachers' Lounge",
-      "trailer": null,
-      "synopsis": "Oscar-nominated The Teachers’ Lounge is German writer-director İlker Çatak’s brilliantly observed drama. Playing out like a thriller, the film expertly explores the fault lines of contemporary society. ",
-      "runtime": 99,
-      "times": [
-        {
-          "starts_at": "2024-05-10T18:10:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-90046/"
-        }
-      ]
-    },
-    {
-      "title": "DocHouse: Dancing On The Edge Of A Volcano",
-      "trailer": null,
-      "synopsis": "In the aftermath of the Beirut explosion in 2020, a local film crew must choose between fighting for their project or surrendering to the devastation of their surroundings.\r\n\r\nMounia Akl and her team are working on her debut feature film, Costa Brava, Lebanon, in August 2020, when the catastrophic explosion in the port of Beirut ravages the city around them. Amidst the upheaval and tragedy, they face a pivotal decision - to abandon everything, or to forge ahead through the series of crises that ensue.\r\n\r\nDancing on the Edge of a Volcano captures the resilience of this group of collaborators in the face of adversity, and their certainty in the transformative power of cinema, even in crisis. It shows the Lebanese capital from the perspective of the people who live there, and reminds us of the human capacity to make meaning in chaos.",
-      "runtime": 87,
-      "times": [
-        {
-          "starts_at": "2024-05-10T18:20:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-90176/"
-        }
-      ]
-    },
-    {
-      "title": "Our Mothers",
-      "trailer": null,
-      "synopsis": "Winner of Cannes Camera D’Or, OUR MOTHERS is set in 2018 as Guatemala confronts its violent past when soldiers who were responsible for the civil war and genocide of the disappeared and murdered indigenous people, finally stand trial. \nErnesto, a young, dedicated anthropologist, works tirelessly for the Forensic Foundation to identify the missing. A chance encounter during a victim's testimony leads him to believe he may have found a clue to his own “guerrillero” father's disappearance during the war. Against his mother's wishes, he embarks on a quest for truth and closure. ",
-      "runtime": 78,
-      "times": [
-        {
-          "starts_at": "2024-05-10T18:30:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-90040/"
         }
       ]
     },
