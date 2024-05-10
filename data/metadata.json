@@ -1,4 +1,10 @@
 {
+  " Catching Fire: The Story of Anita Pallenberg": {
+    "backdrop": "https://image.tmdb.org/t/p/w500//fNULuwmzQs8mjh8Cljp4ulr6Yu0.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500//mO41UPBGnb5kOKmiaXaeVPMzLyT.jpg",
+    "overview": "An exploration of the life of Anita Pallenberg, European actress and rock ’n’ roll muse. Told in Anita’s own words, from her unpublished memoir, and in the words of her family, this bittersweet film is a never-seen-before look at life with The Rolling Stones.",
+    "release_date": "2024-05-03"
+  },
   "A NIGHTMARE ON ELM STREET": {
     "backdrop": "https://image.tmdb.org/t/p/w500//g9ROrZey0JYp7kf8DoAyZtKnObj.jpg",
     "poster": "https://image.tmdb.org/t/p/w500//wGTpGGRMZmyFCcrY2YoxVTIBlli.jpg",
@@ -83,11 +89,23 @@
     "overview": "Billy Connolly was, in the 1970s, a sort of Scottish Lenny Bruce, who, with devastating humour, sliced through the hypocrisies he perceived. This 1976 documentary follows the singer-comic during his 1975 Irish tour. Made in a cinema verité fashion, the performer appears to be completely unaware of the presence of the camera in his off-stage and backstage moments.",
     "release_date": "1976-01-01"
   },
+  "DocHouse: Catching Fire": {
+    "backdrop": "https://image.tmdb.org/t/p/w500//48gojWXx1G2Bs0KFtXYfNJ2naDr.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500//uFQbcR7h1stMlN1d3a7RmV0luLZ.jpg",
+    "overview": "Katniss Everdeen has returned home safe after winning the 74th Annual Hunger Games along with fellow tribute Peeta Mellark. Winning means that they must turn around and leave their family and close friends, embarking on a \"Victor's Tour\" of the districts. Along the way Katniss senses that a rebellion is simmering, but the Capitol is still very much in control as President Snow prepares the 75th Annual Hunger Games (The Quarter Quell) - a competition that could change Panem forever.",
+    "release_date": "2013-11-15"
+  },
   "DocHouse: Dancing On The Edge Of A Volcano": {
     "backdrop": "https://image.tmdb.org/t/p/w500//48tdLi9AznZvcdHeTQqrJH5EHKp.jpg",
     "poster": "https://image.tmdb.org/t/p/w500//4UT5i68UoiURS5TUP92xfmfL3NV.jpg",
     "overview": "On August 4th, 2020, the catastrophic explosion at the port of Beirut leaves a large part of the Lebanese capital in ruins. In the midst of the chaos, a troubled film crew face an overwhelming decision: to continue the production of their movie or abandon it? As they face the aftermath of the catastrophe, they are torn between their firm belief in the transformative power of cinema and a deep sense of cynicism about its ability to effect change in a nation plagued by economic turmoil and societal collapse. Dancing on the Edge of a Volcano chronicles their struggles and highlights the crew's resilience as they strive to find meaning and purpose in their work amidst the devastation.",
     "release_date": "2023-07-03"
+  },
+  "DocHouse: Flickering Lights": {
+    "backdrop": "https://image.tmdb.org/t/p/w500//oW8tmQwXbg45AwqLqKCRhbgV89P.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500//20ApKJUi1XYri37RAH3SDIp2Ykh.jpg",
+    "overview": "Four small gangsters from Copenhagen trick a gangster boss: they take over 4,000,000 kroner which they were supposed to bring him. Trying to escape to Barcelona they are forced to stop in the countryside, in an old, wrecked house, hiding there for several weeks. Slowly, one after another, they realize, that they would like to stay there, start a new life.",
+    "release_date": "2000-11-03"
   },
   "DocHouse: Made In England": {
     "backdrop": "https://image.tmdb.org/t/p/w500//4Q3CG0clzmwZWnfdRZFuxs0oj9Q.jpg",
@@ -156,8 +174,8 @@
     "release_date": "2021-03-18"
   },
   "Kingdom of the Planet of the Apes": {
-    "backdrop": "https://image.tmdb.org/t/p/w500//fqv8v6AycXKsivp1T5yKtLbGXce.jpg",
-    "poster": "https://image.tmdb.org/t/p/w500//gKkl37BQuKTanygYQG1pyYgLVgf.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w500//wMPb9uQjeE6CJ2fJQlYzyhvA1HN.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500//3Z80SOYIRUee6QMDiBVV4XEzKHG.jpg",
     "overview": "Several generations in the future following Caesar's reign, apes are now the dominant species and live harmoniously while humans have been reduced to living in the shadows. As a new tyrannical ape leader builds his empire, one young ape undertakes a harrowing journey that will cause him to question all that he has known about the past and to make choices that will define a future for apes and humans alike.",
     "release_date": "2024-05-08"
   },
@@ -337,7 +355,7 @@
   },
   "The Fall Guy": {
     "backdrop": "https://image.tmdb.org/t/p/w500//2rjI2uXmjitMAaXVO21r9ao7v2j.jpg",
-    "poster": "https://image.tmdb.org/t/p/w500//aBkqu7EddWK7qmY4grL4I6edx2h.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500//cuhlf6yll6rXG6EwoF9sK73qJce.jpg",
     "overview": "Fresh off an almost career-ending accident, stuntman Colt Seavers has to track down a missing movie star, solve a conspiracy and try to win back the love of his life while still doing his day job.",
     "release_date": "2024-04-24"
   },
