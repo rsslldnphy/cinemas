@@ -1,16 +1,44 @@
 {
   "2024-05-19": [
     {
+      "title": "Kingdom of the Planet of the Apes",
+      "trailer": "https://www.youtube.com/watch?v=tP4hZiX4pTk",
+      "synopsis": "Director Wes Ball breathes new life into the global, epic franchise set several generations in the future following Caesar’s reign, in which apes are the dominant species living harmoniously and humans have been reduced to living in the shadows. As a new tyrannical ape leader builds his empire, one young ape undertakes a harrowing journey that will cause him to question all that he has known about the past and to make choices that will define a future for apes and humans alike.",
+      "runtime": 144,
+      "times": [
+        {
+          "starts_at": "2024-05-19T14:00:00+01:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-48969/"
+        },
+        {
+          "starts_at": "2024-05-19T17:00:00+01:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-48973/"
+        },
+        {
+          "starts_at": "2024-05-19T20:00:00+01:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-48978/"
+        },
+        {
+          "starts_at": "2024-05-19T13:30:00+01:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-72874/"
+        },
+        {
+          "starts_at": "2024-05-19T17:40:00+01:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-72876/"
+        }
+      ]
+    },
+    {
       "title": "IF",
       "trailer": "https://www.youtube.com/watch?v=wWhgmkYT39U",
       "synopsis": "From writer and director John Krasinski, IF is about a girl who discovers that she can see everyone’s imaginary friends — and what she does with that superpower — as she embarks on a magical adventure to reconnect forgotten IFs with their kids. IF stars Ryan Reynolds, John Krasinski, Cailey Fleming, Fiona Shaw, and the voices of Phoebe Waller-Bridge, Louis Gossett Jr. and Steve Carell alongside many more as the wonderfully unique characters that reflect the incredible power of a child’s imagination.",
       "runtime": 104,
       "times": [
-        {
-          "starts_at": "2024-05-19T11:00:00+01:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-48981/"
-        },
         {
           "starts_at": "2024-05-19T14:20:00+01:00",
           "site": "Curzon Aldgate",
@@ -25,11 +53,6 @@
           "starts_at": "2024-05-19T20:40:00+01:00",
           "site": "Curzon Aldgate",
           "url": "https://www.curzon.com/ticketing/seats/ALD1-48979/"
-        },
-        {
-          "starts_at": "2024-05-19T12:45:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-72548/"
         },
         {
           "starts_at": "2024-05-19T15:40:00+01:00",
@@ -49,30 +72,189 @@
       ]
     },
     {
+      "title": "The Fall Guy",
+      "trailer": "https://www.youtube.com/watch?v=Ujupby_q66Q",
+      "synopsis": "He’s a stuntman, and like everyone in the stunt community, he gets blown up, shot, crashed, thrown through windows and dropped from the highest of heights, all for our entertainment. And now, fresh off an almost career-ending accident, this working-class hero has to track down a missing movie star, solve a conspiracy and try to win back the love of his life while still doing his day job. What could possibly go right?",
+      "runtime": 126,
+      "times": [
+        {
+          "starts_at": "2024-05-19T14:40:00+01:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-48971/"
+        },
+        {
+          "starts_at": "2024-05-19T17:40:00+01:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-48976/"
+        },
+        {
+          "starts_at": "2024-05-19T14:50:00+01:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-72870/"
+        },
+        {
+          "starts_at": "2024-05-19T17:00:00+01:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-72872/"
+        },
+        {
+          "starts_at": "2024-05-19T21:00:00+01:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-72862/"
+        }
+      ]
+    },
+    {
+      "title": "Tiger Stripes",
+      "trailer": "https://www.youtube.com/watch?v=a-C-opQn4aM",
+      "synopsis": "The first amongst her friends to hit puberty, Zaffan, 12,\ndiscovers a terrifying secret about her body. Ostracised by\nher community, Zaffan fights back, learning that to be free\nshe must embrace the body she feared, emerging as a proud,\nstrong woman.",
+      "runtime": 95,
+      "times": [
+        {
+          "starts_at": "2024-05-19T15:40:00+01:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-48972/"
+        },
+        {
+          "starts_at": "2024-05-19T21:00:00+01:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-48980/"
+        },
+        {
+          "starts_at": "2024-05-19T18:20:00+01:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-24628/"
+        },
+        {
+          "starts_at": "2024-05-19T21:00:00+01:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-24631/"
+        },
+        {
+          "starts_at": "2024-05-19T14:10:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-90250/"
+        },
+        {
+          "starts_at": "2024-05-19T17:40:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-90246/"
+        },
+        {
+          "starts_at": "2024-05-19T20:00:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-90243/"
+        }
+      ]
+    },
+    {
+      "title": "La Chimera",
+      "trailer": "https://www.youtube.com/watch?v=k0oGUwzxefk",
+      "synopsis": "Set in the 1980s, in the former Etruscian landscape of rural Italy, Arthur, a vagabond-type character, is mourning the loss of his love. A local ragtag group of graverobbers make use of his archaeological skills to find ancient tombs filled with artefacts, but Arthur uses the digs to search for a door to the afterlife, of which myths speak, where he imagines reuniting with her.",
+      "runtime": 131,
+      "times": [
+        {
+          "starts_at": "2024-05-19T18:00:00+01:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-49050/"
+        },
+        {
+          "starts_at": "2024-05-19T14:00:00+01:00",
+          "site": "Curzon Soho",
+          "url": "https://www.curzon.com/ticketing/seats/SOH1-44792/"
+        },
+        {
+          "starts_at": "2024-05-19T17:00:00+01:00",
+          "site": "Curzon Soho",
+          "url": "https://www.curzon.com/ticketing/seats/SOH1-44788/"
+        },
+        {
+          "starts_at": "2024-05-19T20:20:00+01:00",
+          "site": "Curzon Soho",
+          "url": "https://www.curzon.com/ticketing/seats/SOH1-44797/"
+        },
+        {
+          "starts_at": "2024-05-19T14:00:00+01:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-72869/"
+        },
+        {
+          "starts_at": "2024-05-19T16:40:00+01:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-72871/"
+        },
+        {
+          "starts_at": "2024-05-19T20:00:00+01:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-72863/"
+        },
+        {
+          "starts_at": "2024-05-19T13:40:00+01:00",
+          "site": "Curzon Mayfair",
+          "url": "https://www.curzon.com/ticketing/seats/MAY1-26833/"
+        },
+        {
+          "starts_at": "2024-05-19T17:00:00+01:00",
+          "site": "Curzon Mayfair",
+          "url": "https://www.curzon.com/ticketing/seats/MAY1-26832/"
+        },
+        {
+          "starts_at": "2024-05-19T19:40:00+01:00",
+          "site": "Curzon Mayfair",
+          "url": "https://www.curzon.com/ticketing/seats/MAY1-26837/"
+        },
+        {
+          "starts_at": "2024-05-19T15:00:00+01:00",
+          "site": "Curzon Hoxton",
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-16436/"
+        },
+        {
+          "starts_at": "2024-05-19T19:40:00+01:00",
+          "site": "Curzon Hoxton",
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-16431/"
+        },
+        {
+          "starts_at": "2024-05-19T14:00:00+01:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-24632/"
+        },
+        {
+          "starts_at": "2024-05-19T17:40:00+01:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-24633/"
+        },
+        {
+          "starts_at": "2024-05-19T20:00:00+01:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-24635/"
+        },
+        {
+          "starts_at": "2024-05-19T14:20:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-90238/"
+        },
+        {
+          "starts_at": "2024-05-19T17:20:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-90247/"
+        },
+        {
+          "starts_at": "2024-05-19T19:30:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-90251/"
+        }
+      ]
+    },
+    {
       "title": "Challengers",
       "trailer": "https://www.youtube.com/watch?v=iJOPZYaNVgQ",
       "synopsis": "A tennis coach helps her husband transform from a mediocre player to a champion. To end a recent losing streak, they enter at the lowest level of a tournament and find themselves facing off against a once-promising and now burnt-out former friend who used to date the wife.",
       "runtime": 131,
       "times": [
         {
-          "starts_at": "2024-05-19T11:20:00+01:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-48975/"
-        },
-        {
-          "starts_at": "2024-05-19T12:40:00+01:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-48983/"
-        },
-        {
           "starts_at": "2024-05-19T20:20:00+01:00",
           "site": "Curzon Aldgate",
           "url": "https://www.curzon.com/ticketing/seats/ALD1-48974/"
-        },
-        {
-          "starts_at": "2024-05-19T11:40:00+01:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-44794/"
         },
         {
           "starts_at": "2024-05-19T14:40:00+01:00",
@@ -88,11 +270,6 @@
           "starts_at": "2024-05-19T20:00:00+01:00",
           "site": "Curzon Soho",
           "url": "https://www.curzon.com/ticketing/seats/SOH1-44786/"
-        },
-        {
-          "starts_at": "2024-05-19T11:00:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-72947/"
         },
         {
           "starts_at": "2024-05-19T17:20:00+01:00",
@@ -147,281 +324,6 @@
       ]
     },
     {
-      "title": "La Chimera",
-      "trailer": "https://www.youtube.com/watch?v=k0oGUwzxefk",
-      "synopsis": "Set in the 1980s, in the former Etruscian landscape of rural Italy, Arthur, a vagabond-type character, is mourning the loss of his love. A local ragtag group of graverobbers make use of his archaeological skills to find ancient tombs filled with artefacts, but Arthur uses the digs to search for a door to the afterlife, of which myths speak, where he imagines reuniting with her.",
-      "runtime": 131,
-      "times": [
-        {
-          "starts_at": "2024-05-19T11:40:00+01:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-49049/"
-        },
-        {
-          "starts_at": "2024-05-19T18:00:00+01:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-49050/"
-        },
-        {
-          "starts_at": "2024-05-19T11:00:00+01:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-44793/"
-        },
-        {
-          "starts_at": "2024-05-19T14:00:00+01:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-44792/"
-        },
-        {
-          "starts_at": "2024-05-19T17:00:00+01:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-44788/"
-        },
-        {
-          "starts_at": "2024-05-19T20:20:00+01:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-44797/"
-        },
-        {
-          "starts_at": "2024-05-19T14:00:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-72869/"
-        },
-        {
-          "starts_at": "2024-05-19T16:40:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-72871/"
-        },
-        {
-          "starts_at": "2024-05-19T20:00:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-72863/"
-        },
-        {
-          "starts_at": "2024-05-19T11:30:00+01:00",
-          "site": "Curzon Mayfair",
-          "url": "https://www.curzon.com/ticketing/seats/MAY1-26835/"
-        },
-        {
-          "starts_at": "2024-05-19T13:40:00+01:00",
-          "site": "Curzon Mayfair",
-          "url": "https://www.curzon.com/ticketing/seats/MAY1-26833/"
-        },
-        {
-          "starts_at": "2024-05-19T17:00:00+01:00",
-          "site": "Curzon Mayfair",
-          "url": "https://www.curzon.com/ticketing/seats/MAY1-26832/"
-        },
-        {
-          "starts_at": "2024-05-19T19:40:00+01:00",
-          "site": "Curzon Mayfair",
-          "url": "https://www.curzon.com/ticketing/seats/MAY1-26837/"
-        },
-        {
-          "starts_at": "2024-05-19T15:00:00+01:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-16436/"
-        },
-        {
-          "starts_at": "2024-05-19T19:40:00+01:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-16431/"
-        },
-        {
-          "starts_at": "2024-05-19T12:00:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-24634/"
-        },
-        {
-          "starts_at": "2024-05-19T14:00:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-24632/"
-        },
-        {
-          "starts_at": "2024-05-19T17:40:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-24633/"
-        },
-        {
-          "starts_at": "2024-05-19T20:00:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-24635/"
-        },
-        {
-          "starts_at": "2024-05-19T11:15:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-90241/"
-        },
-        {
-          "starts_at": "2024-05-19T14:20:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-90238/"
-        },
-        {
-          "starts_at": "2024-05-19T17:20:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-90247/"
-        },
-        {
-          "starts_at": "2024-05-19T19:30:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-90251/"
-        }
-      ]
-    },
-    {
-      "title": "Kingdom of the Planet of the Apes",
-      "trailer": "https://www.youtube.com/watch?v=tP4hZiX4pTk",
-      "synopsis": "Director Wes Ball breathes new life into the global, epic franchise set several generations in the future following Caesar’s reign, in which apes are the dominant species living harmoniously and humans have been reduced to living in the shadows. As a new tyrannical ape leader builds his empire, one young ape undertakes a harrowing journey that will cause him to question all that he has known about the past and to make choices that will define a future for apes and humans alike.",
-      "runtime": 144,
-      "times": [
-        {
-          "starts_at": "2024-05-19T14:00:00+01:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-48969/"
-        },
-        {
-          "starts_at": "2024-05-19T17:00:00+01:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-48973/"
-        },
-        {
-          "starts_at": "2024-05-19T20:00:00+01:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-48978/"
-        },
-        {
-          "starts_at": "2024-05-19T11:40:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-72873/"
-        },
-        {
-          "starts_at": "2024-05-19T13:30:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-72874/"
-        },
-        {
-          "starts_at": "2024-05-19T17:40:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-72876/"
-        }
-      ]
-    },
-    {
-      "title": "The Fall Guy",
-      "trailer": "https://www.youtube.com/watch?v=Ujupby_q66Q",
-      "synopsis": "He’s a stuntman, and like everyone in the stunt community, he gets blown up, shot, crashed, thrown through windows and dropped from the highest of heights, all for our entertainment. And now, fresh off an almost career-ending accident, this working-class hero has to track down a missing movie star, solve a conspiracy and try to win back the love of his life while still doing his day job. What could possibly go right?",
-      "runtime": 126,
-      "times": [
-        {
-          "starts_at": "2024-05-19T14:40:00+01:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-48971/"
-        },
-        {
-          "starts_at": "2024-05-19T17:40:00+01:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-48976/"
-        },
-        {
-          "starts_at": "2024-05-19T10:40:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-72868/"
-        },
-        {
-          "starts_at": "2024-05-19T14:50:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-72870/"
-        },
-        {
-          "starts_at": "2024-05-19T17:00:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-72872/"
-        },
-        {
-          "starts_at": "2024-05-19T21:00:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-72862/"
-        }
-      ]
-    },
-    {
-      "title": "Tiger Stripes",
-      "trailer": "https://www.youtube.com/watch?v=a-C-opQn4aM",
-      "synopsis": "The first amongst her friends to hit puberty, Zaffan, 12,\ndiscovers a terrifying secret about her body. Ostracised by\nher community, Zaffan fights back, learning that to be free\nshe must embrace the body she feared, emerging as a proud,\nstrong woman.",
-      "runtime": 95,
-      "times": [
-        {
-          "starts_at": "2024-05-19T15:40:00+01:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-48972/"
-        },
-        {
-          "starts_at": "2024-05-19T21:00:00+01:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-48980/"
-        },
-        {
-          "starts_at": "2024-05-19T11:45:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-24637/"
-        },
-        {
-          "starts_at": "2024-05-19T18:20:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-24628/"
-        },
-        {
-          "starts_at": "2024-05-19T21:00:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-24631/"
-        },
-        {
-          "starts_at": "2024-05-19T14:10:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-90250/"
-        },
-        {
-          "starts_at": "2024-05-19T17:40:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-90246/"
-        },
-        {
-          "starts_at": "2024-05-19T20:00:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-90243/"
-        }
-      ]
-    },
-    {
-      "title": "Perfect Days",
-      "trailer": null,
-      "synopsis": "A highly anticipated return to fiction feature filmmaking from Wim Wenders (Paris, Texas, Wings of Desire), PERFECT DAYS takes the writer-director to Tokyo to tell a story celebrating the hidden joys and minutiae of Japanese culture. Winner of the Best Actor award at Cannes 2023, Koji Yakusho (Babel, 13 Assassins) stars as Hirayama, a contemplative middle-aged man who lives a life of modesty and serenity, spending his days balancing his job as a dutiful caretaker of Tokyo’s numerous public toilets with his passion for music, literature and photography. As we join him on his structured daily routine, a series of unexpected encounters gradually begin to reveal a hidden past that lies behind his otherwise content and harmonious life. \n\nCombining a refreshingly unstereotypical depiction of the Japanese capital with a soundtrack comprised of iconic hits from the 60s and 80s, this is a subtle, shimmering and ultimately life-affirming reflection on finding beauty in the everyday world around us. Japan’s entry for Best International Film at the 2024 Academy Awards.\n",
-      "runtime": 125,
-      "times": [
-        {
-          "starts_at": "2024-05-19T12:00:00+01:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-44795/"
-        },
-        {
-          "starts_at": "2024-05-19T11:00:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-90242/"
-        },
-        {
-          "starts_at": "2024-05-19T14:50:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-90254/"
-        },
-        {
-          "starts_at": "2024-05-19T16:50:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-90249/"
-        }
-      ]
-    },
-    {
       "title": "Love Lies Bleeding",
       "trailer": "https://www.youtube.com/watch?v=OCYd8Th9ywI",
       "synopsis": "From Director Rose Glass comes an electric new love story; reclusive gym manager Lou falls hard for Jackie, an ambitious bodybuilder headed through town to Vegas in pursuit of her dream. But their love ignites violence, pulling them deep into the web of Lou’s criminal family.",
@@ -453,11 +355,6 @@
           "url": "https://www.curzon.com/ticketing/seats/HOX1-16433/"
         },
         {
-          "starts_at": "2024-05-19T11:15:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-24638/"
-        },
-        {
           "starts_at": "2024-05-19T16:40:00+01:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-24642/"
@@ -466,24 +363,6 @@
           "starts_at": "2024-05-19T14:30:00+01:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-90257/"
-        }
-      ]
-    },
-    {
-      "title": "The Godfather: Part II - 50th Anniversary",
-      "trailer": null,
-      "synopsis": "The early life and career of Vito Corleone in 1920s New York City is portrayed, while his son, Michael, expands and tightens his grip on the family crime syndicate.",
-      "runtime": 201,
-      "times": [
-        {
-          "starts_at": "2024-05-19T13:00:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-72948/"
-        },
-        {
-          "starts_at": "2024-05-19T13:00:00+01:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-16495/"
         }
       ]
     },
@@ -497,44 +376,6 @@
           "starts_at": "2024-05-19T19:40:00+01:00",
           "site": "Curzon Victoria",
           "url": "https://www.curzon.com/ticketing/seats/VIC1-72875/"
-        }
-      ]
-    },
-    {
-      "title": "Catching Fire: The Story of Anita Pallenberg",
-      "trailer": "https://www.youtube.com/watch?v=K-pk8lWwcMA",
-      "synopsis": "CATCHING FIRE: THE STORY OF ANITA PALLENBERG is about a woman who was at many points in her life a newspaper headline: Anita Pallenberg was a “rock n’ roll goddess,” a “voodoo priestess,” and an “evil seductress.” She was accused of trying to break up the Rolling Stones, among other things. But those who loved her considered her an exciting cultural force, and a loving mother – and innocent of the accusations. Never-seen-before home movies and family photographs explore life with the Rolling Stones and tell a bittersweet tale of both triumph and heartbreak. From Barbarella to the Swiss Alps, and the Lower East Side to London, Anita Pallenberg was a creative force ahead of her time.",
-      "runtime": 115,
-      "times": [
-        {
-          "starts_at": "2024-05-19T11:00:00+01:00",
-          "site": "Curzon Mayfair",
-          "url": "https://www.curzon.com/ticketing/seats/MAY1-26831/"
-        },
-        {
-          "starts_at": "2024-05-19T20:00:00+01:00",
-          "site": "Curzon Mayfair",
-          "url": "https://www.curzon.com/ticketing/seats/MAY1-26834/"
-        },
-        {
-          "starts_at": "2024-05-19T11:20:00+01:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-16435/"
-        },
-        {
-          "starts_at": "2024-05-19T18:00:00+01:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-16432/"
-        },
-        {
-          "starts_at": "2024-05-19T15:00:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-24643/"
-        },
-        {
-          "starts_at": "2024-05-19T20:40:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-24630/"
         }
       ]
     },
@@ -561,11 +402,34 @@
           "starts_at": "2024-05-19T16:40:00+01:00",
           "site": "Curzon Mayfair",
           "url": "https://www.curzon.com/ticketing/seats/MAY1-26836/"
+        }
+      ]
+    },
+    {
+      "title": "Catching Fire: The Story of Anita Pallenberg",
+      "trailer": "https://www.youtube.com/watch?v=K-pk8lWwcMA",
+      "synopsis": "CATCHING FIRE: THE STORY OF ANITA PALLENBERG is about a woman who was at many points in her life a newspaper headline: Anita Pallenberg was a “rock n’ roll goddess,” a “voodoo priestess,” and an “evil seductress.” She was accused of trying to break up the Rolling Stones, among other things. But those who loved her considered her an exciting cultural force, and a loving mother – and innocent of the accusations. Never-seen-before home movies and family photographs explore life with the Rolling Stones and tell a bittersweet tale of both triumph and heartbreak. From Barbarella to the Swiss Alps, and the Lower East Side to London, Anita Pallenberg was a creative force ahead of her time.",
+      "runtime": 115,
+      "times": [
+        {
+          "starts_at": "2024-05-19T20:00:00+01:00",
+          "site": "Curzon Mayfair",
+          "url": "https://www.curzon.com/ticketing/seats/MAY1-26834/"
         },
         {
-          "starts_at": "2024-05-19T12:20:00+01:00",
+          "starts_at": "2024-05-19T18:00:00+01:00",
+          "site": "Curzon Hoxton",
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-16432/"
+        },
+        {
+          "starts_at": "2024-05-19T15:00:00+01:00",
           "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-24639/"
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-24643/"
+        },
+        {
+          "starts_at": "2024-05-19T20:40:00+01:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-24630/"
         }
       ]
     },
@@ -576,19 +440,9 @@
       "runtime": 126,
       "times": [
         {
-          "starts_at": "2024-05-19T12:00:00+01:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-16425/"
-        },
-        {
           "starts_at": "2024-05-19T16:40:00+01:00",
           "site": "Curzon Hoxton",
           "url": "https://www.curzon.com/ticketing/seats/HOX1-16430/"
-        },
-        {
-          "starts_at": "2024-05-19T11:30:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-24645/"
         },
         {
           "starts_at": "2024-05-19T15:20:00+01:00",
@@ -604,11 +458,6 @@
           "starts_at": "2024-05-19T19:40:00+01:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-24641/"
-        },
-        {
-          "starts_at": "2024-05-19T11:40:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-90239/"
         },
         {
           "starts_at": "2024-05-19T17:00:00+01:00",
@@ -636,32 +485,6 @@
       ]
     },
     {
-      "title": "Blackbird Blackbird Blackberry",
-      "trailer": null,
-      "synopsis": "Etero, a 48-year-old woman living in a small village in Georgia, never wanted a husband. She cherishes her freedom as much as her cakes. But her choice to live alone is the cause of much gossip among her fellow villagers. Unexpectedly, she finds herself passionately falling for a man, and is suddenly faced with the decision to pursue a relationship or continue a life of independence. Etero must grapple with her feelings and decide how to find her own path to happiness.",
-      "runtime": 111,
-      "times": [
-        {
-          "starts_at": "2024-05-19T11:30:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-90256/"
-        }
-      ]
-    },
-    {
-      "title": "Kidnapped",
-      "trailer": null,
-      "synopsis": "Never one to shy away from controversial subject matter, the veteran Italian filmmaker Marco Bellocchio (Fists in the Pocket, The Conviction) here brings to life an unbelievable true story lifted from the pages of a shocking and horrifying history. \n\nThe film follows the true story of how a six-year-old Jewish boy, Edgardo Mortara, was taken by the Catholic Church following claims that he was baptized by the family’s maid as a baby. While the distraught Mortara family fight to get him back, they find themselves at the epicentre of a wider historical battle between the forces of Catholic authoritarianism and the growing opposition movement. ",
-      "runtime": 134,
-      "times": [
-        {
-          "starts_at": "2024-05-19T11:50:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-90253/"
-        }
-      ]
-    },
-    {
       "title": "DocHouse: Knit's Island",
       "trailer": null,
       "synopsis": "The internet is a foreign country, and nowhere more so than inside the survivalist fiction video game, DayZ. Here, under the guise of their avatars, players from around the world interact, explore, cultivate food and kill the odd zombie. In something of a bravura filmmaking experiment, a French film crew spends 900 hours there and the resulting documentary, Knit's Island, is filmed entirely within this virtual world.\r\n\r\nAs they get to know other players, avatar to avatar, the mysterious, post-apocalyptic rural landscape is revealed as a meeting place, where stories, ideas and friendships are shared. Slowly the players drop their masks to reveal their realities, their daily lives, their relationships of love and friendship. Somewhere, in the borderlands of the internet, strangers find community.\r\n\r\nWith beautiful in-game cinematography and filmic editing, Knit's Island delves into a world beyond the world, and explores the first steps towards the virtualisation of our lives.",
@@ -671,6 +494,24 @@
           "starts_at": "2024-05-19T14:00:00+01:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-89859/"
+        }
+      ]
+    },
+    {
+      "title": "Perfect Days",
+      "trailer": null,
+      "synopsis": "A highly anticipated return to fiction feature filmmaking from Wim Wenders (Paris, Texas, Wings of Desire), PERFECT DAYS takes the writer-director to Tokyo to tell a story celebrating the hidden joys and minutiae of Japanese culture. Winner of the Best Actor award at Cannes 2023, Koji Yakusho (Babel, 13 Assassins) stars as Hirayama, a contemplative middle-aged man who lives a life of modesty and serenity, spending his days balancing his job as a dutiful caretaker of Tokyo’s numerous public toilets with his passion for music, literature and photography. As we join him on his structured daily routine, a series of unexpected encounters gradually begin to reveal a hidden past that lies behind his otherwise content and harmonious life. \n\nCombining a refreshingly unstereotypical depiction of the Japanese capital with a soundtrack comprised of iconic hits from the 60s and 80s, this is a subtle, shimmering and ultimately life-affirming reflection on finding beauty in the everyday world around us. Japan’s entry for Best International Film at the 2024 Academy Awards.\n",
+      "runtime": 125,
+      "times": [
+        {
+          "starts_at": "2024-05-19T14:50:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-90254/"
+        },
+        {
+          "starts_at": "2024-05-19T16:50:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-90249/"
         }
       ]
     },
