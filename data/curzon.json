@@ -1,7 +1,4 @@
 {
-  "2024-05-19": [
-
-  ],
   "2024-05-20": [
     {
       "title": "IF",
@@ -2976,11 +2973,6 @@
           "url": "https://www.curzon.com/ticketing/seats/HOX1-16309/"
         },
         {
-          "starts_at": "2024-05-24T14:40:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-24442/"
-        },
-        {
           "starts_at": "2024-05-24T17:40:00+01:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-24440/"
@@ -3290,6 +3282,86 @@
           "starts_at": "2024-05-26T16:00:00+01:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-89861/"
+        }
+      ]
+    }
+  ],
+  "2024-05-27": [
+    {
+      "title": "Furiosa: A Mad Max Saga",
+      "trailer": "https://www.youtube.com/watch?v=lCyOYEjryBA",
+      "synopsis": "As the world fell, young Furiosa is snatched from the Green Place of Many Mothers and falls into the hands of a great Biker Horde led by the Warlord Dementus. Sweeping through the Wasteland they come across the Citadel presided over by The Immortan Joe. While the two Tyrants war for dominance, Furiosa must survive many trials as she puts together the means to find her way home.",
+      "runtime": 148,
+      "times": [
+        {
+          "starts_at": "2024-05-27T18:00:00+01:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-48853/"
+        },
+        {
+          "starts_at": "2024-05-27T20:20:00+01:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-48854/"
+        },
+        {
+          "starts_at": "2024-05-27T17:00:00+01:00",
+          "site": "Curzon Soho",
+          "url": "https://www.curzon.com/ticketing/seats/SOH1-44675/"
+        },
+        {
+          "starts_at": "2024-05-27T20:00:00+01:00",
+          "site": "Curzon Soho",
+          "url": "https://www.curzon.com/ticketing/seats/SOH1-44674/"
+        },
+        {
+          "starts_at": "2024-05-27T20:00:00+01:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-72712/"
+        },
+        {
+          "starts_at": "2024-05-27T14:00:00+01:00",
+          "site": "Curzon Hoxton",
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-16320/"
+        },
+        {
+          "starts_at": "2024-05-27T17:20:00+01:00",
+          "site": "Curzon Hoxton",
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-16319/"
+        },
+        {
+          "starts_at": "2024-05-27T20:40:00+01:00",
+          "site": "Curzon Hoxton",
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-16318/"
+        },
+        {
+          "starts_at": "2024-05-27T14:40:00+01:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-24453/"
+        },
+        {
+          "starts_at": "2024-05-27T17:40:00+01:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-24452/"
+        },
+        {
+          "starts_at": "2024-05-27T20:40:00+01:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-24451/"
+        },
+        {
+          "starts_at": "2024-05-27T13:40:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-90392/"
+        },
+        {
+          "starts_at": "2024-05-27T17:00:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-90394/"
+        },
+        {
+          "starts_at": "2024-05-27T20:20:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-90393/"
         }
       ]
     }
