@@ -7,11 +7,6 @@
       "runtime": 144,
       "times": [
         {
-          "starts_at": "2024-05-21T14:20:00+01:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-49005/"
-        },
-        {
           "starts_at": "2024-05-21T17:20:00+01:00",
           "site": "Curzon Aldgate",
           "url": "https://www.curzon.com/ticketing/seats/ALD1-49001/"
@@ -20,11 +15,6 @@
           "starts_at": "2024-05-21T20:20:00+01:00",
           "site": "Curzon Aldgate",
           "url": "https://www.curzon.com/ticketing/seats/ALD1-49011/"
-        },
-        {
-          "starts_at": "2024-05-21T13:50:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-72910/"
         },
         {
           "starts_at": "2024-05-21T18:00:00+01:00",
@@ -40,11 +30,6 @@
       "runtime": 104,
       "times": [
         {
-          "starts_at": "2024-05-21T14:40:00+01:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-49004/"
-        },
-        {
           "starts_at": "2024-05-21T17:40:00+01:00",
           "site": "Curzon Aldgate",
           "url": "https://www.curzon.com/ticketing/seats/ALD1-48646/"
@@ -53,16 +38,6 @@
           "starts_at": "2024-05-21T21:00:00+01:00",
           "site": "Curzon Aldgate",
           "url": "https://www.curzon.com/ticketing/seats/ALD1-49010/"
-        },
-        {
-          "starts_at": "2024-05-21T13:30:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-72536/"
-        },
-        {
-          "starts_at": "2024-05-21T16:00:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-72537/"
         },
         {
           "starts_at": "2024-05-21T18:30:00+01:00",
@@ -83,19 +58,9 @@
       "runtime": 126,
       "times": [
         {
-          "starts_at": "2024-05-21T15:00:00+01:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-49003/"
-        },
-        {
           "starts_at": "2024-05-21T18:00:00+01:00",
           "site": "Curzon Aldgate",
           "url": "https://www.curzon.com/ticketing/seats/ALD1-49013/"
-        },
-        {
-          "starts_at": "2024-05-21T15:10:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-72906/"
         },
         {
           "starts_at": "2024-05-21T17:20:00+01:00",
@@ -106,49 +71,6 @@
           "starts_at": "2024-05-21T21:00:00+01:00",
           "site": "Curzon Victoria",
           "url": "https://www.curzon.com/ticketing/seats/VIC1-72897/"
-        }
-      ]
-    },
-    {
-      "title": "Tiger Stripes",
-      "trailer": "https://www.youtube.com/watch?v=a-C-opQn4aM",
-      "synopsis": "The first amongst her friends to hit puberty, Zaffan, 12,\ndiscovers a terrifying secret about her body. Ostracised by\nher community, Zaffan fights back, learning that to be free\nshe must embrace the body she feared, emerging as a proud,\nstrong woman.",
-      "runtime": 95,
-      "times": [
-        {
-          "starts_at": "2024-05-21T16:00:00+01:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-49002/"
-        },
-        {
-          "starts_at": "2024-05-21T21:20:00+01:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-49009/"
-        },
-        {
-          "starts_at": "2024-05-21T18:40:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-24648/"
-        },
-        {
-          "starts_at": "2024-05-21T21:20:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-24651/"
-        },
-        {
-          "starts_at": "2024-05-21T14:50:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-90290/"
-        },
-        {
-          "starts_at": "2024-05-21T18:30:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-90286/"
-        },
-        {
-          "starts_at": "2024-05-21T20:50:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-90283/"
         }
       ]
     },
@@ -164,11 +86,6 @@
           "url": "https://www.curzon.com/ticketing/seats/ALD1-49053/"
         },
         {
-          "starts_at": "2024-05-21T15:20:00+01:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-44861/"
-        },
-        {
           "starts_at": "2024-05-21T18:20:00+01:00",
           "site": "Curzon Soho",
           "url": "https://www.curzon.com/ticketing/seats/SOH1-44864/"
@@ -177,11 +94,6 @@
           "starts_at": "2024-05-21T20:40:00+01:00",
           "site": "Curzon Soho",
           "url": "https://www.curzon.com/ticketing/seats/SOH1-44866/"
-        },
-        {
-          "starts_at": "2024-05-21T14:20:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-72905/"
         },
         {
           "starts_at": "2024-05-21T17:00:00+01:00",
@@ -194,11 +106,6 @@
           "url": "https://www.curzon.com/ticketing/seats/VIC1-72898/"
         },
         {
-          "starts_at": "2024-05-21T14:40:00+01:00",
-          "site": "Curzon Mayfair",
-          "url": "https://www.curzon.com/ticketing/seats/MAY1-26849/"
-        },
-        {
           "starts_at": "2024-05-21T18:00:00+01:00",
           "site": "Curzon Mayfair",
           "url": "https://www.curzon.com/ticketing/seats/MAY1-26845/"
@@ -209,19 +116,9 @@
           "url": "https://www.curzon.com/ticketing/seats/MAY1-26850/"
         },
         {
-          "starts_at": "2024-05-21T14:50:00+01:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-16439/"
-        },
-        {
           "starts_at": "2024-05-21T20:40:00+01:00",
           "site": "Curzon Hoxton",
           "url": "https://www.curzon.com/ticketing/seats/HOX1-16444/"
-        },
-        {
-          "starts_at": "2024-05-21T14:00:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-24652/"
         },
         {
           "starts_at": "2024-05-21T17:40:00+01:00",
@@ -232,11 +129,6 @@
           "starts_at": "2024-05-21T20:00:00+01:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-24655/"
-        },
-        {
-          "starts_at": "2024-05-21T15:10:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-90278/"
         },
         {
           "starts_at": "2024-05-21T18:00:00+01:00",
@@ -262,11 +154,6 @@
           "url": "https://www.curzon.com/ticketing/seats/ALD1-49000/"
         },
         {
-          "starts_at": "2024-05-21T15:00:00+01:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-44860/"
-        },
-        {
           "starts_at": "2024-05-21T17:20:00+01:00",
           "site": "Curzon Soho",
           "url": "https://www.curzon.com/ticketing/seats/SOH1-44862/"
@@ -275,11 +162,6 @@
           "starts_at": "2024-05-21T20:20:00+01:00",
           "site": "Curzon Soho",
           "url": "https://www.curzon.com/ticketing/seats/SOH1-44865/"
-        },
-        {
-          "starts_at": "2024-05-21T14:40:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-72900/"
         },
         {
           "starts_at": "2024-05-21T17:40:00+01:00",
@@ -292,11 +174,6 @@
           "url": "https://www.curzon.com/ticketing/seats/VIC1-72902/"
         },
         {
-          "starts_at": "2024-05-21T14:20:00+01:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-16447/"
-        },
-        {
           "starts_at": "2024-05-21T17:20:00+01:00",
           "site": "Curzon Hoxton",
           "url": "https://www.curzon.com/ticketing/seats/HOX1-16446/"
@@ -307,11 +184,6 @@
           "url": "https://www.curzon.com/ticketing/seats/HOX1-16437/"
         },
         {
-          "starts_at": "2024-05-21T14:20:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-24646/"
-        },
-        {
           "starts_at": "2024-05-21T17:00:00+01:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-24664/"
@@ -320,11 +192,6 @@
           "starts_at": "2024-05-21T20:20:00+01:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-24647/"
-        },
-        {
-          "starts_at": "2024-05-21T14:40:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-90280/"
         },
         {
           "starts_at": "2024-05-21T17:30:00+01:00",
@@ -339,16 +206,44 @@
       ]
     },
     {
+      "title": "Tiger Stripes",
+      "trailer": "https://www.youtube.com/watch?v=a-C-opQn4aM",
+      "synopsis": "The first amongst her friends to hit puberty, Zaffan, 12,\ndiscovers a terrifying secret about her body. Ostracised by\nher community, Zaffan fights back, learning that to be free\nshe must embrace the body she feared, emerging as a proud,\nstrong woman.",
+      "runtime": 95,
+      "times": [
+        {
+          "starts_at": "2024-05-21T21:20:00+01:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-49009/"
+        },
+        {
+          "starts_at": "2024-05-21T18:40:00+01:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-24648/"
+        },
+        {
+          "starts_at": "2024-05-21T21:20:00+01:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-24651/"
+        },
+        {
+          "starts_at": "2024-05-21T18:30:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-90286/"
+        },
+        {
+          "starts_at": "2024-05-21T20:50:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-90283/"
+        }
+      ]
+    },
+    {
       "title": "Love Lies Bleeding",
       "trailer": "https://www.youtube.com/watch?v=OCYd8Th9ywI",
       "synopsis": "From Director Rose Glass comes an electric new love story; reclusive gym manager Lou falls hard for Jackie, an ambitious bodybuilder headed through town to Vegas in pursuit of her dream. But their love ignites violence, pulling them deep into the web of Lou’s criminal family.",
       "runtime": 104,
       "times": [
-        {
-          "starts_at": "2024-05-21T14:40:00+01:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-44859/"
-        },
         {
           "starts_at": "2024-05-21T18:00:00+01:00",
           "site": "Curzon Soho",
@@ -360,19 +255,9 @@
           "url": "https://www.curzon.com/ticketing/seats/SOH1-44867/"
         },
         {
-          "starts_at": "2024-05-21T15:20:00+01:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-16441/"
-        },
-        {
           "starts_at": "2024-05-21T21:00:00+01:00",
           "site": "Curzon Hoxton",
           "url": "https://www.curzon.com/ticketing/seats/HOX1-16442/"
-        },
-        {
-          "starts_at": "2024-05-21T15:20:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-90297/"
         }
       ]
     },
@@ -386,19 +271,6 @@
           "starts_at": "2024-05-21T20:00:00+01:00",
           "site": "Curzon Victoria",
           "url": "https://www.curzon.com/ticketing/seats/VIC1-72895/"
-        }
-      ]
-    },
-    {
-      "title": "Rome, Open City",
-      "trailer": null,
-      "synopsis": "During the Nazi occupation of Rome in 1944, the Resistance leader, Giorgio Manfredi, is chased by the Nazis as he seeks refuge and a way to escape.",
-      "runtime": 103,
-      "times": [
-        {
-          "starts_at": "2024-05-21T15:30:00+01:00",
-          "site": "Curzon Mayfair",
-          "url": "https://www.curzon.com/ticketing/seats/MAY1-26870/"
         }
       ]
     },
@@ -432,11 +304,6 @@
           "url": "https://www.curzon.com/ticketing/seats/HOX1-16443/"
         },
         {
-          "starts_at": "2024-05-21T15:20:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-24663/"
-        },
-        {
           "starts_at": "2024-05-21T21:00:00+01:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-24650/"
@@ -453,11 +320,6 @@
           "starts_at": "2024-05-21T18:10:00+01:00",
           "site": "Curzon Hoxton",
           "url": "https://www.curzon.com/ticketing/seats/HOX1-16445/"
-        },
-        {
-          "starts_at": "2024-05-21T15:40:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-24726/"
         },
         {
           "starts_at": "2024-05-21T17:20:00+01:00",
@@ -482,19 +344,6 @@
       ]
     },
     {
-      "title": "Back to Black",
-      "trailer": "https://www.youtube.com/watch?v=q9Y_4TYYdDQ",
-      "synopsis": "A celebration of the most iconic – and much missed – homegrown star of the 21st century, BACK TO BLACK tells the extraordinary tale of Amy Winehouse. Painting a vivid, vibrant picture of the Camden streets she called home and capturing the struggles of global fame, BACK TO BLACK honours Amy’s artistry, wit, and honesty, as well as trying to understand her demons. An unflinching look at the modern celebrity machine and a powerful tribute to a once-in-a-generation talent.",
-      "runtime": 122,
-      "times": [
-        {
-          "starts_at": "2024-05-21T14:40:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-24660/"
-        }
-      ]
-    },
-    {
       "title": "National Theatre Live: Nye",
       "trailer": null,
       "synopsis": "Michael Sheen plays Nye Bevan in a surreal and spectacular journey through the life and legacy of the man who transformed Britain’s welfare state and created the NHS.  This epic new Welsh fantasia is written by Tim Price and directed by Rufus Norris (Small Island).",
@@ -508,29 +357,11 @@
       ]
     },
     {
-      "title": "DocHouse: Catching Fire",
-      "trailer": null,
-      "synopsis": "An unapologetic rock ‘n’ roller, an actress, a muse and a mother - amongst many other things Anita Pallenberg was also a woman whose life often became newspaper headlines. She was touted as a 'voodoo priestess' and an 'evil seductress', accused of trying to break up the Rolling Stones.\r\n\r\nDrawing on words from her unpublished memoir, narrated by Scarlett Johansson, this intimate portrait  explores Anita's life as she saw it herself, drawing us deep into her world, with the help of a supporting cast that includes her family - Marlon, Angela, and their father Keith Richards.  \r\n\r\nNever-seen-before home movies and family photographs explore life with the Rolling Stones, in a bittersweet tale of both triumph and heartbreak. From Barbarella to the Swiss Alps, and the Lower East Side to London, Anita Pallenberg was a creative force ahead of her time.",
-      "runtime": 110,
-      "times": [
-        {
-          "starts_at": "2024-05-21T15:00:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-90349/"
-        }
-      ]
-    },
-    {
       "title": "Perfect Days",
       "trailer": null,
       "synopsis": "A highly anticipated return to fiction feature filmmaking from Wim Wenders (Paris, Texas, Wings of Desire), PERFECT DAYS takes the writer-director to Tokyo to tell a story celebrating the hidden joys and minutiae of Japanese culture. Winner of the Best Actor award at Cannes 2023, Koji Yakusho (Babel, 13 Assassins) stars as Hirayama, a contemplative middle-aged man who lives a life of modesty and serenity, spending his days balancing his job as a dutiful caretaker of Tokyo’s numerous public toilets with his passion for music, literature and photography. As we join him on his structured daily routine, a series of unexpected encounters gradually begin to reveal a hidden past that lies behind his otherwise content and harmonious life. \n\nCombining a refreshingly unstereotypical depiction of the Japanese capital with a soundtrack comprised of iconic hits from the 60s and 80s, this is a subtle, shimmering and ultimately life-affirming reflection on finding beauty in the everyday world around us. Japan’s entry for Best International Film at the 2024 Academy Awards.\n",
       "runtime": 125,
       "times": [
-        {
-          "starts_at": "2024-05-21T15:40:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-90294/"
-        },
         {
           "starts_at": "2024-05-21T17:40:00+01:00",
           "site": "Curzon Bloomsbury",
