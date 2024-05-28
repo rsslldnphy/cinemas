@@ -1,4 +1,10 @@
 {
+  "A House in Jerusalem": {
+    "backdrop": "https://image.tmdb.org/t/p/w500//9MV9h7bC0gmdb7GVFQAkjhu4blu.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500//fp49EYaYzFWO779v154gaMRon0q.jpg",
+    "overview": "Mourning her mother’s death and struggling to adjust to her new life in Israel, a young girl bonds with the lonely spirit of a Palestinian child.",
+    "release_date": "2023-07-13"
+  },
   "Back to Black": {
     "backdrop": "https://image.tmdb.org/t/p/w500//fRIzLAIlhRc1QKe8lpXOcdmmfHJ.jpg",
     "poster": "https://image.tmdb.org/t/p/w500//xHQEeUT3Ac4fTY72UeNrI75xLtE.jpg",
@@ -34,12 +40,6 @@
     "poster": "https://image.tmdb.org/t/p/w500//tJb81yVSERnOXDYk5UsqnlsgrnY.jpg",
     "overview": "A city that combines the benefits of the countryside with the advantages of the urban world. Manon and François, two young city dwellers, have left everything behind to travel the world in search of concrete initiatives that put nature back at the heart of cities. Between the intoxicating green columns of Mexico, the unusual production of mushrooms in dark cellars of Brussels or a fierce Japanese composting technique without odor, they discovered positive and accessible solutions that already work. Along the way, they met these ordinary people with revolutionary ideas. By linking all these solutions, they offer us their visions of what could be the beautiful city of tomorrow.",
     "release_date": "2023-04-26"
-  },
-  "DocHouse: Long Distance Swimmer": {
-    "backdrop": "https://image.tmdb.org/t/p/w500//upHDbwGzYOlHXSU9RNbOS7HfNCK.jpg",
-    "poster": "https://image.tmdb.org/t/p/w500//1eRGjfZGyfnLkJVErYjaDLlJNW4.jpg",
-    "overview": "The documentary begins when the fictionalized drama ends. Sara spent three years volunteering to save refugees on the same journey that made her so famous, and was suddenly arrested in Aug. 2018, accused by Greek authorities of running a criminal enterprise with charges including “international espionage and people smuggling.” If convicted, she faces up to 25 years in prison and the end of her humanitarian career. Shot over three years, the film follows Sara’s fight for justice and journey of self-discovery.",
-    "release_date": "2024-03-23"
   },
   "DocHouse: Made In England": {
     "backdrop": "https://image.tmdb.org/t/p/w500//4Q3CG0clzmwZWnfdRZFuxs0oj9Q.jpg",
@@ -143,11 +143,23 @@
     "overview": "Dancer Elena and sign language interpreter Dovydas meet and form a beautiful bond. As they dive into a new relationship, they must navigate how to build their own kind of intimacy.",
     "release_date": "2023-09-22"
   },
+  "Sting": {
+    "backdrop": "https://image.tmdb.org/t/p/w500//k37Ccgu05Am1xxgN5GaW0HX9Kkl.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500//zuSAZIG1PSrxFwPeAlGtg9LTwxo.jpg",
+    "overview": "After raising an unnervingly talented spider in secret, 12-year-old Charlotte must face the truth about her pet and fight for her family's survival.",
+    "release_date": "2024-04-12"
+  },
   "Tell That to the Winter Sea": {
     "backdrop": "https://image.tmdb.org/t/p/w500//lBaIO5qXmqJURbP1XGShjfACrRT.jpg",
     "poster": "https://image.tmdb.org/t/p/w500//rM89C3tT1YH4VR7WrKXkgz5JNI4.jpg",
     "overview": "Celebrating her upcoming marriage, Jo invites her childhood friend, Scarlett, on a girls’ trip to a country manor. But despite drifting apart as adults, unresolved feelings still linger between them whilst the rest of the group enjoys the weekend away.",
     "release_date": "2024-05-31"
+  },
+  "The Beast": {
+    "backdrop": "https://image.tmdb.org/t/p/w500//2vFuG6bWGyQUzYS9d69E5l85nIz.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500//gPbM0MK8CP8A174rmUwGsADNYKD.jpg",
+    "overview": "When a new threat capable of destroying the entire planet emerges, Optimus Prime and the Autobots must team up with a powerful faction known as the Maximals. With the fate of humanity hanging in the balance, humans Noah and Elena will do whatever it takes to help the Transformers as they engage in the ultimate battle to save Earth.",
+    "release_date": "2023-06-06"
   },
   "The Fall Guy": {
     "backdrop": "https://image.tmdb.org/t/p/w500//H5HjE7Xb9N09rbWn1zBfxgI8uz.jpg",
@@ -160,5 +172,11 @@
     "poster": "https://image.tmdb.org/t/p/w500//iusiix0Ztvnrz0BXzqLc4x4SlCE.jpg",
     "overview": "Poland, 1990 – American music journalist Ruth takes her father Edek, a Holocaust survivor, on a journey to his childhood haunts, hoping to make sense of her family's troubled past. When Edek, reluctant to face his trauma, undermines their trip with his unpredictable and more eccentric than usual demeanor, Ruth is forced to challenge him and the values with which he raised her.",
     "release_date": "2024-06-13"
+  },
+  "Young Woman and the Sea": {
+    "backdrop": "https://image.tmdb.org/t/p/w500//qUzOjbKPTyKwBAWAwUNZDvF5qDE.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500//iEmmGOlO5LC2IkWFSr1DWV4twoG.jpg",
+    "overview": "The story of the record-making swimmer's successful 1926 crossing of the English Channel, offering insight into the significance of her accomplishment, the personal price she paid for her achievement, and her abrupt subsequent departure from the public eye.",
+    "release_date": "2024-05-26"
   }
 }
