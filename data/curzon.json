@@ -1,223 +1,6 @@
 {
   "2024-06-01": [
     {
-      "title": "The Fall Guy",
-      "trailer": "https://www.youtube.com/watch?v=Ujupby_q66Q",
-      "synopsis": "He’s a stuntman, and like everyone in the stunt community, he gets blown up, shot, crashed, thrown through windows and dropped from the highest of heights, all for our entertainment. And now, fresh off an almost career-ending accident, this working-class hero has to track down a missing movie star, solve a conspiracy and try to win back the love of his life while still doing his day job. What could possibly go right?",
-      "runtime": 126,
-      "times": [
-        {
-          "starts_at": "2024-06-01T14:20:00+01:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-49205/"
-        },
-        {
-          "starts_at": "2024-06-01T20:40:00+01:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-49207/"
-        },
-        {
-          "starts_at": "2024-06-01T17:40:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-73253/"
-        }
-      ]
-    },
-    {
-      "title": "Furiosa: A Mad Max Saga",
-      "trailer": "https://www.youtube.com/watch?v=lCyOYEjryBA",
-      "synopsis": "As the world fell, young Furiosa is snatched from the Green Place of Many Mothers and falls into the hands of a great Biker Horde led by the Warlord Dementus. Sweeping through the Wasteland they come across the Citadel presided over by The Immortan Joe. While the two Tyrants war for dominance, Furiosa must survive many trials as she puts together the means to find her way home.",
-      "runtime": 148,
-      "times": [
-        {
-          "starts_at": "2024-06-01T14:40:00+01:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-49201/"
-        },
-        {
-          "starts_at": "2024-06-01T18:00:00+01:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-49199/"
-        },
-        {
-          "starts_at": "2024-06-01T20:20:00+01:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-49197/"
-        },
-        {
-          "starts_at": "2024-06-01T17:20:00+01:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-44994/"
-        },
-        {
-          "starts_at": "2024-06-01T13:40:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-73254/"
-        },
-        {
-          "starts_at": "2024-06-01T17:00:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-73256/"
-        },
-        {
-          "starts_at": "2024-06-01T20:00:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-73255/"
-        },
-        {
-          "starts_at": "2024-06-01T14:20:00+01:00",
-          "site": "Curzon Mayfair",
-          "url": "https://www.curzon.com/ticketing/seats/MAY1-26931/"
-        },
-        {
-          "starts_at": "2024-06-01T20:20:00+01:00",
-          "site": "Curzon Mayfair",
-          "url": "https://www.curzon.com/ticketing/seats/MAY1-26935/"
-        },
-        {
-          "starts_at": "2024-06-01T14:00:00+01:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-16583/"
-        },
-        {
-          "starts_at": "2024-06-01T17:20:00+01:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-16576/"
-        },
-        {
-          "starts_at": "2024-06-01T20:40:00+01:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-16586/"
-        },
-        {
-          "starts_at": "2024-06-01T16:00:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-24874/"
-        },
-        {
-          "starts_at": "2024-06-01T19:20:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-24876/"
-        },
-        {
-          "starts_at": "2024-06-01T20:20:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-24994/"
-        },
-        {
-          "starts_at": "2024-06-01T20:10:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-90611/"
-        }
-      ]
-    },
-    {
-      "title": "Hit Man",
-      "trailer": "https://www.youtube.com/watch?v=pMVLQfHj6SY",
-      "synopsis": "From Academy Award-nominated writer/director Richard Linklater, co-written and starring Glen Powell alongside Adria Arjona, comes HIT MAN. Inspired by an unbelievable true story, a hit man meets his match in a client who steals his heart and ignites a powder keg of deception, delight, and mixed-up identities.",
-      "runtime": 115,
-      "times": [
-        {
-          "starts_at": "2024-06-01T15:00:00+01:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-49209/"
-        },
-        {
-          "starts_at": "2024-06-01T21:00:00+01:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-49211/"
-        },
-        {
-          "starts_at": "2024-06-01T14:40:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-73262/"
-        },
-        {
-          "starts_at": "2024-06-01T17:20:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-73263/"
-        }
-      ]
-    },
-    {
-      "title": "La Chimera",
-      "trailer": "https://www.youtube.com/watch?v=k0oGUwzxefk",
-      "synopsis": "Set in the 1980s, in the former Etruscian landscape of rural Italy, Arthur, a vagabond-type character, is mourning the loss of his love. A local ragtag group of graverobbers make use of his archaeological skills to find ancient tombs filled with artefacts, but Arthur uses the digs to search for a door to the afterlife, of which myths speak, where he imagines reuniting with her.",
-      "runtime": 131,
-      "times": [
-        {
-          "starts_at": "2024-06-01T15:20:00+01:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-49206/"
-        },
-        {
-          "starts_at": "2024-06-01T15:00:00+01:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-44996/"
-        },
-        {
-          "starts_at": "2024-06-01T18:00:00+01:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-44997/"
-        },
-        {
-          "starts_at": "2024-06-01T21:00:00+01:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-44998/"
-        },
-        {
-          "starts_at": "2024-06-01T14:00:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-73269/"
-        },
-        {
-          "starts_at": "2024-06-01T21:00:00+01:00",
-          "site": "Curzon Mayfair",
-          "url": "https://www.curzon.com/ticketing/seats/MAY1-26936/"
-        },
-        {
-          "starts_at": "2024-06-01T15:10:00+01:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-16578/"
-        },
-        {
-          "starts_at": "2024-06-01T21:10:00+01:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-16581/"
-        },
-        {
-          "starts_at": "2024-06-01T14:40:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-24888/"
-        },
-        {
-          "starts_at": "2024-06-01T18:00:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-24889/"
-        },
-        {
-          "starts_at": "2024-06-01T20:40:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-24890/"
-        },
-        {
-          "starts_at": "2024-06-01T15:20:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-90599/"
-        },
-        {
-          "starts_at": "2024-06-01T18:10:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-90606/"
-        },
-        {
-          "starts_at": "2024-06-01T21:00:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-90600/"
-        }
-      ]
-    },
-    {
       "title": "Challengers",
       "trailer": "https://www.youtube.com/watch?v=iJOPZYaNVgQ",
       "synopsis": "A tennis coach helps her husband transform from a mediocre player to a champion. To end a recent losing streak, they enter at the lowest level of a tournament and find themselves facing off against a once-promising and now burnt-out former friend who used to date the wife.",
@@ -227,11 +10,6 @@
           "starts_at": "2024-06-01T17:20:00+01:00",
           "site": "Curzon Aldgate",
           "url": "https://www.curzon.com/ticketing/seats/ALD1-49200/"
-        },
-        {
-          "starts_at": "2024-06-01T14:20:00+01:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-44991/"
         },
         {
           "starts_at": "2024-06-01T20:40:00+01:00",
@@ -259,11 +37,6 @@
           "url": "https://www.curzon.com/ticketing/seats/CAM1-24886/"
         },
         {
-          "starts_at": "2024-06-01T14:30:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-90609/"
-        },
-        {
           "starts_at": "2024-06-01T17:20:00+01:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-90604/"
@@ -289,6 +62,69 @@
       ]
     },
     {
+      "title": "Furiosa: A Mad Max Saga",
+      "trailer": "https://www.youtube.com/watch?v=lCyOYEjryBA",
+      "synopsis": "As the world fell, young Furiosa is snatched from the Green Place of Many Mothers and falls into the hands of a great Biker Horde led by the Warlord Dementus. Sweeping through the Wasteland they come across the Citadel presided over by The Immortan Joe. While the two Tyrants war for dominance, Furiosa must survive many trials as she puts together the means to find her way home.",
+      "runtime": 148,
+      "times": [
+        {
+          "starts_at": "2024-06-01T18:00:00+01:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-49199/"
+        },
+        {
+          "starts_at": "2024-06-01T20:20:00+01:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-49197/"
+        },
+        {
+          "starts_at": "2024-06-01T17:20:00+01:00",
+          "site": "Curzon Soho",
+          "url": "https://www.curzon.com/ticketing/seats/SOH1-44994/"
+        },
+        {
+          "starts_at": "2024-06-01T17:00:00+01:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-73256/"
+        },
+        {
+          "starts_at": "2024-06-01T20:00:00+01:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-73255/"
+        },
+        {
+          "starts_at": "2024-06-01T20:20:00+01:00",
+          "site": "Curzon Mayfair",
+          "url": "https://www.curzon.com/ticketing/seats/MAY1-26935/"
+        },
+        {
+          "starts_at": "2024-06-01T17:20:00+01:00",
+          "site": "Curzon Hoxton",
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-16576/"
+        },
+        {
+          "starts_at": "2024-06-01T20:40:00+01:00",
+          "site": "Curzon Hoxton",
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-16586/"
+        },
+        {
+          "starts_at": "2024-06-01T19:20:00+01:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-24876/"
+        },
+        {
+          "starts_at": "2024-06-01T20:20:00+01:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-24994/"
+        },
+        {
+          "starts_at": "2024-06-01T20:10:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-90611/"
+        }
+      ]
+    },
+    {
       "title": "Sting",
       "trailer": null,
       "synopsis": "STING spins a web of thrilling terror when 12-year-old Charlotte’s pet spider rapidly transforms into a giant flesh-eating monster, forcing the young girl to fight for her family’s survival.",
@@ -307,25 +143,99 @@
       ]
     },
     {
+      "title": "The Fall Guy",
+      "trailer": "https://www.youtube.com/watch?v=Ujupby_q66Q",
+      "synopsis": "He’s a stuntman, and like everyone in the stunt community, he gets blown up, shot, crashed, thrown through windows and dropped from the highest of heights, all for our entertainment. And now, fresh off an almost career-ending accident, this working-class hero has to track down a missing movie star, solve a conspiracy and try to win back the love of his life while still doing his day job. What could possibly go right?",
+      "runtime": 126,
+      "times": [
+        {
+          "starts_at": "2024-06-01T20:40:00+01:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-49207/"
+        },
+        {
+          "starts_at": "2024-06-01T17:40:00+01:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-73253/"
+        }
+      ]
+    },
+    {
+      "title": "Hit Man",
+      "trailer": "https://www.youtube.com/watch?v=pMVLQfHj6SY",
+      "synopsis": "From Academy Award-nominated writer/director Richard Linklater, co-written and starring Glen Powell alongside Adria Arjona, comes HIT MAN. Inspired by an unbelievable true story, a hit man meets his match in a client who steals his heart and ignites a powder keg of deception, delight, and mixed-up identities.",
+      "runtime": 115,
+      "times": [
+        {
+          "starts_at": "2024-06-01T21:00:00+01:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-49211/"
+        },
+        {
+          "starts_at": "2024-06-01T17:20:00+01:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-73263/"
+        }
+      ]
+    },
+    {
+      "title": "La Chimera",
+      "trailer": "https://www.youtube.com/watch?v=k0oGUwzxefk",
+      "synopsis": "Set in the 1980s, in the former Etruscian landscape of rural Italy, Arthur, a vagabond-type character, is mourning the loss of his love. A local ragtag group of graverobbers make use of his archaeological skills to find ancient tombs filled with artefacts, but Arthur uses the digs to search for a door to the afterlife, of which myths speak, where he imagines reuniting with her.",
+      "runtime": 131,
+      "times": [
+        {
+          "starts_at": "2024-06-01T18:00:00+01:00",
+          "site": "Curzon Soho",
+          "url": "https://www.curzon.com/ticketing/seats/SOH1-44997/"
+        },
+        {
+          "starts_at": "2024-06-01T21:00:00+01:00",
+          "site": "Curzon Soho",
+          "url": "https://www.curzon.com/ticketing/seats/SOH1-44998/"
+        },
+        {
+          "starts_at": "2024-06-01T21:00:00+01:00",
+          "site": "Curzon Mayfair",
+          "url": "https://www.curzon.com/ticketing/seats/MAY1-26936/"
+        },
+        {
+          "starts_at": "2024-06-01T21:10:00+01:00",
+          "site": "Curzon Hoxton",
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-16581/"
+        },
+        {
+          "starts_at": "2024-06-01T18:00:00+01:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-24889/"
+        },
+        {
+          "starts_at": "2024-06-01T20:40:00+01:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-24890/"
+        },
+        {
+          "starts_at": "2024-06-01T18:10:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-90606/"
+        },
+        {
+          "starts_at": "2024-06-01T21:00:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-90600/"
+        }
+      ]
+    },
+    {
       "title": "The Beast",
       "trailer": "https://www.youtube.com/watch?v=cxjTAeaCWQc",
       "synopsis": "The plot is set partly in a near future in which artificial intelligence is in control of everyone's lives and human emotions are perceived as a threat.",
       "runtime": 147,
       "times": [
         {
-          "starts_at": "2024-06-01T15:20:00+01:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-44992/"
-        },
-        {
           "starts_at": "2024-06-01T18:40:00+01:00",
           "site": "Curzon Soho",
           "url": "https://www.curzon.com/ticketing/seats/SOH1-44988/"
-        },
-        {
-          "starts_at": "2024-06-01T13:40:00+01:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-16584/"
         },
         {
           "starts_at": "2024-06-01T17:00:00+01:00",
@@ -348,11 +258,6 @@
           "url": "https://www.curzon.com/ticketing/seats/CAM1-24880/"
         },
         {
-          "starts_at": "2024-06-01T15:10:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-90610/"
-        },
-        {
           "starts_at": "2024-06-01T20:30:00+01:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-90601/"
@@ -365,11 +270,6 @@
       "synopsis": "Daisy Ridley stars as the accomplished swimmer who was born to immigrant parents in New York City in 1905. Through the steadfast support of her older sister and supportive trainers, she overcame adversity and the animosity of a patriarchal society to rise through the ranks of the Olympic swimming team and complete the staggering achievement – a 21-mile trek from France to England.",
       "runtime": 129,
       "times": [
-        {
-          "starts_at": "2024-06-01T15:00:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-73266/"
-        },
         {
           "starts_at": "2024-06-01T18:00:00+01:00",
           "site": "Curzon Victoria",
@@ -401,19 +301,6 @@
       ]
     },
     {
-      "title": "Pride: Call Me by Your Name",
-      "trailer": "https://www.youtube.com/watch?v=0gF_XcLq4oU",
-      "synopsis": "Call Me by Your Name is the story of a sudden and powerful romance that blossoms between an adolescent boy and a summer guest at his parents' cliffside mansion on the Italian Riviera. During the restless summer weeks, unrelenting but buried currents of obsession, fascination, and desire intensify their passion as they test the charged ground between them and verge toward the one thing both already fear they may never truly find again: total intimacy. ",
-      "runtime": 132,
-      "times": [
-        {
-          "starts_at": "2024-06-01T15:00:00+01:00",
-          "site": "Curzon Mayfair",
-          "url": "https://www.curzon.com/ticketing/seats/MAY1-26753/"
-        }
-      ]
-    },
-    {
       "title": "Catching Fire: The Story of Anita Pallenberg",
       "trailer": "https://www.youtube.com/watch?v=K-pk8lWwcMA",
       "synopsis": "CATCHING FIRE: THE STORY OF ANITA PALLENBERG is about a woman who was at many points in her life a newspaper headline: Anita Pallenberg was a “rock n’ roll goddess,” a “voodoo priestess,” and an “evil seductress.” She was accused of trying to break up the Rolling Stones, among other things. But those who loved her considered her an exciting cultural force, and a loving mother – and innocent of the accusations. Never-seen-before home movies and family photographs explore life with the Rolling Stones and tell a bittersweet tale of both triumph and heartbreak. From Barbarella to the Swiss Alps, and the Lower East Side to London, Anita Pallenberg was a creative force ahead of her time.",
@@ -423,47 +310,6 @@
           "starts_at": "2024-06-01T17:40:00+01:00",
           "site": "Curzon Mayfair",
           "url": "https://www.curzon.com/ticketing/seats/MAY1-26934/"
-        },
-        {
-          "starts_at": "2024-06-01T14:20:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-24877/"
-        }
-      ]
-    },
-    {
-      "title": "Hoard",
-      "trailer": "https://www.youtube.com/watch?v=5mYoshmw1uo",
-      "synopsis": "The story follows Maria - a teenager whose mother used to be a hoarder. Now (set in the 90s) she lives in a foster home where a previous resident Micheal inspires her to revisit her childhood memories and passions that she has repressed.",
-      "runtime": 126,
-      "times": [
-        {
-          "starts_at": "2024-06-01T14:00:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-24882/"
-        }
-      ]
-    },
-    {
-      "title": "A House in Jerusalem",
-      "trailer": "https://www.youtube.com/watch?v=CF0N3Ubuxj0",
-      "synopsis": "12-year-old Rebecca, together with her father, relocates from the UK to Jerusalem seeking a fresh start following the tragic death of her mother. Their old family home in the Valley of the Ghosts becomes the setting for mysterious events and an unlikely friendship between Rebecca and Rasha, a young Palestinian girl only she can see.  Could it be that the walls of the house are infused with the history and emotions of past generations or is Rasha simply a figment of Rebecca's imagination? \nAs Rebecca delves deeper into the secrets of the house, she discovers Rasha's true identity and the shared loss that binds them.\n",
-      "runtime": 103,
-      "times": [
-        {
-          "starts_at": "2024-06-01T15:20:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-24873/"
-        },
-        {
-          "starts_at": "2024-06-01T21:00:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-24881/"
-        },
-        {
-          "starts_at": "2024-06-01T18:30:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-90608/"
         }
       ]
     },
@@ -481,15 +327,20 @@
       ]
     },
     {
-      "title": "DocHouse: Green City Life",
-      "trailer": null,
-      "synopsis": "How do we build the city of tomorrow? One that combines the benefits of the countryside with the advantages of the urban world?\r\n\r\nManon and François, two young city dwellers, travel between Mexico, Europe, and the US in search of concrete and revolutionary initiatives at every scale that bring nature back to the heart of cities. Accompanied by associations, business leaders, and city experts, they provide inspiring ideas to propel cities into the 21st Century: from revegetation to urban farming and bio-waste recovery.\r\n\r\nGreen City Life doesn't have all the answers, but Manon and François's infectious energy and curiosity sets us on a path to the crucial questions that we can be asking about the way that we want to live. A film about a myriad possibilities, Green City Life approaches the planet's future from a place of positivity and potential.",
-      "runtime": 85,
+      "title": "A House in Jerusalem",
+      "trailer": "https://www.youtube.com/watch?v=CF0N3Ubuxj0",
+      "synopsis": "12-year-old Rebecca, together with her father, relocates from the UK to Jerusalem seeking a fresh start following the tragic death of her mother. Their old family home in the Valley of the Ghosts becomes the setting for mysterious events and an unlikely friendship between Rebecca and Rasha, a young Palestinian girl only she can see.  Could it be that the walls of the house are infused with the history and emotions of past generations or is Rasha simply a figment of Rebecca's imagination? \nAs Rebecca delves deeper into the secrets of the house, she discovers Rasha's true identity and the shared loss that binds them.\n",
+      "runtime": 103,
       "times": [
         {
-          "starts_at": "2024-06-01T14:00:00+01:00",
+          "starts_at": "2024-06-01T21:00:00+01:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-24881/"
+        },
+        {
+          "starts_at": "2024-06-01T18:30:00+01:00",
           "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-90195/"
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-90608/"
         }
       ]
     },
@@ -500,11 +351,6 @@
       "runtime": 125,
       "times": [
         {
-          "starts_at": "2024-06-01T14:40:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-90615/"
-        },
-        {
           "starts_at": "2024-06-01T17:40:00+01:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-90605/"
@@ -513,32 +359,6 @@
           "starts_at": "2024-06-01T20:50:00+01:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-90616/"
-        }
-      ]
-    },
-    {
-      "title": "In Flames",
-      "trailer": null,
-      "synopsis": "After the death of the family patriarch, a mother and daughter's precarious existence is ripped apart. They must find strength in each other if they are to survive the malevolent forces that threaten to engulf them.",
-      "runtime": 98,
-      "times": [
-        {
-          "starts_at": "2024-06-01T15:40:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-90603/"
-        }
-      ]
-    },
-    {
-      "title": "DocHouse: Ciné-Guerrillas",
-      "trailer": null,
-      "synopsis": "At an Algerian museum, Serbian filmmaker Mila Turajlić is struck by an exhibit featuring an old film camera. It belonged to a Yugoslav cameraman, celebrated as a hero in Algeria. His name is Stevan Labudović, he is 87, and he lives in Belgrade. Turajlić, from the same city, had never heard of him.\r\n\r\nLabudović had been handpicked by Yugoslav President Josep Broz Tito to support the Algerian anti-colonial effort by making films that countered French propaganda. He lived with the Algerian fighters, filming them as they traveled through the mountains. Through intimate interviews with Labudović and his Algerian revolutionary contemporaries, along with his rediscovered newsreels, Ciné-Guerrillas plunges us into the media battle that played out during the Algerian war for independence, where cinema was mobilized as a weapon of political struggle against colonialism.\r\n\r\nAlso Playing: Non-Aligned: Scenes from the Labudović Reels\r\n\r\nScenes from the Labudović Reels is a documentary diptych of two feature-length films by Mila Turajlić that take us on an archival road trip through the birth of the Third World project, based on unseen 35mm materials filmed by Stevan Labudović, the cameraman of Yugoslav President Tito.",
-      "runtime": 94,
-      "times": [
-        {
-          "starts_at": "2024-06-01T16:00:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-90404/"
         }
       ]
     },
