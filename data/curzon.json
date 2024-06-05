@@ -1,61 +1,15 @@
 {
   "2024-06-05": [
     {
-      "title": "Bad Boys: Ride Or Die",
-      "trailer": "https://www.youtube.com/watch?v=uWLNl_KQCAU",
-      "synopsis": "This Summer, the world's favourite Bad Boys are back with their iconic mix of edge-of-your seat action and outrageous comedy but this time with a twist: Miami's finest are now on the run.",
-      "runtime": 115,
-      "times": [
-        {
-          "starts_at": "2024-06-05T17:20:00+01:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-49293/"
-        }
-      ]
-    },
-    {
-      "title": "Kingdom of the Planet of the Apes",
-      "trailer": "https://www.youtube.com/watch?v=tP4hZiX4pTk",
-      "synopsis": "Director Wes Ball breathes new life into the global, epic franchise set several generations in the future following Caesar’s reign, in which apes are the dominant species living harmoniously and humans have been reduced to living in the shadows. As a new tyrannical ape leader builds his empire, one young ape undertakes a harrowing journey that will cause him to question all that he has known about the past and to make choices that will define a future for apes and humans alike.",
-      "runtime": 144,
-      "times": [
-        {
-          "starts_at": "2024-06-05T17:40:00+01:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-49237/"
-        },
-        {
-          "starts_at": "2024-06-05T20:40:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-73347/"
-        }
-      ]
-    },
-    {
       "title": "Furiosa: A Mad Max Saga",
       "trailer": "https://www.youtube.com/watch?v=lCyOYEjryBA",
       "synopsis": "As the world fell, young Furiosa is snatched from the Green Place of Many Mothers and falls into the hands of a great Biker Horde led by the Warlord Dementus. Sweeping through the Wasteland they come across the Citadel presided over by The Immortan Joe. While the two Tyrants war for dominance, Furiosa must survive many trials as she puts together the means to find her way home.",
       "runtime": 148,
       "times": [
         {
-          "starts_at": "2024-06-05T18:00:00+01:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-49232/"
-        },
-        {
           "starts_at": "2024-06-05T20:00:00+01:00",
           "site": "Curzon Aldgate",
           "url": "https://www.curzon.com/ticketing/seats/ALD1-49234/"
-        },
-        {
-          "starts_at": "2024-06-05T17:20:00+01:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-45034/"
-        },
-        {
-          "starts_at": "2024-06-05T17:00:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-73334/"
         },
         {
           "starts_at": "2024-06-05T20:00:00+01:00",
@@ -68,19 +22,9 @@
           "url": "https://www.curzon.com/ticketing/seats/MAY1-26963/"
         },
         {
-          "starts_at": "2024-06-05T17:20:00+01:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-16622/"
-        },
-        {
           "starts_at": "2024-06-05T20:40:00+01:00",
           "site": "Curzon Hoxton",
           "url": "https://www.curzon.com/ticketing/seats/HOX1-16620/"
-        },
-        {
-          "starts_at": "2024-06-05T19:20:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-24950/"
         },
         {
           "starts_at": "2024-06-05T20:20:00+01:00",
@@ -88,32 +32,9 @@
           "url": "https://www.curzon.com/ticketing/seats/CAM1-24998/"
         },
         {
-          "starts_at": "2024-06-05T18:10:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-90683/"
-        },
-        {
           "starts_at": "2024-06-05T20:20:00+01:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-90689/"
-        }
-      ]
-    },
-    {
-      "title": "Sting",
-      "trailer": null,
-      "synopsis": "STING spins a web of thrilling terror when 12-year-old Charlotte’s pet spider rapidly transforms into a giant flesh-eating monster, forcing the young girl to fight for her family’s survival.",
-      "runtime": 92,
-      "times": [
-        {
-          "starts_at": "2024-06-05T18:20:00+01:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-49233/"
-        },
-        {
-          "starts_at": "2024-06-05T21:20:00+01:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-49235/"
         }
       ]
     },
@@ -127,11 +48,6 @@
           "starts_at": "2024-06-05T20:40:00+01:00",
           "site": "Curzon Aldgate",
           "url": "https://www.curzon.com/ticketing/seats/ALD1-49240/"
-        },
-        {
-          "starts_at": "2024-06-05T17:40:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-73331/"
         }
       ]
     },
@@ -145,72 +61,19 @@
           "starts_at": "2024-06-05T21:00:00+01:00",
           "site": "Curzon Aldgate",
           "url": "https://www.curzon.com/ticketing/seats/ALD1-49236/"
-        },
-        {
-          "starts_at": "2024-06-05T17:20:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-73340/"
         }
       ]
     },
     {
-      "title": "La Chimera",
-      "trailer": "https://www.youtube.com/watch?v=k0oGUwzxefk",
-      "synopsis": "Set in the 1980s, in the former Etruscian landscape of rural Italy, Arthur, a vagabond-type character, is mourning the loss of his love. A local ragtag group of graverobbers make use of his archaeological skills to find ancient tombs filled with artefacts, but Arthur uses the digs to search for a door to the afterlife, of which myths speak, where he imagines reuniting with her.",
-      "runtime": 131,
+      "title": "Sting",
+      "trailer": null,
+      "synopsis": "STING spins a web of thrilling terror when 12-year-old Charlotte’s pet spider rapidly transforms into a giant flesh-eating monster, forcing the young girl to fight for her family’s survival.",
+      "runtime": 92,
       "times": [
         {
-          "starts_at": "2024-06-05T17:50:00+01:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-45036/"
-        },
-        {
-          "starts_at": "2024-06-05T21:10:00+01:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-45035/"
-        },
-        {
-          "starts_at": "2024-06-05T21:00:00+01:00",
-          "site": "Curzon Mayfair",
-          "url": "https://www.curzon.com/ticketing/seats/MAY1-26964/"
-        },
-        {
-          "starts_at": "2024-06-05T21:00:00+01:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-16627/"
-        },
-        {
-          "starts_at": "2024-06-05T18:00:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-24962/"
-        },
-        {
-          "starts_at": "2024-06-05T20:40:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-24963/"
-        },
-        {
-          "starts_at": "2024-06-05T18:00:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-90685/"
-        },
-        {
-          "starts_at": "2024-06-05T21:00:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-90678/"
-        }
-      ]
-    },
-    {
-      "title": "Food, Inc. 2",
-      "trailer": "https://www.youtube.com/watch?v=yjEV0N_pAQ0",
-      "synopsis": "The groundbreaking Oscar®-nominated documentary Food, Inc. ignited a cultural conversation about the multinational corporations that control our food system at enormous cost to our planet, workforce and health. In the well-timed sequel, Food, Inc. 2, comes “back for seconds” to reveal how corporate consolidation has gone unchecked by our government, leaving us with a highly efficient yet shockingly vulnerable food system dedicated only towards increasing profits. Seeking solutions, the film introduces innovative farmers, food producers, workers’ rights activists and legislators fighting to create a more sustainable future.\n\nSince the first film, multinational corporations have tightened their stronghold on the U.S. government. The system at large has robbed workers of a fair living wage, and profit focused corporations are proliferating a chemically formulated international health crisis by focusing on growing the market for ultra-processed foods. The film centers around innovative farmers, future-thinking food producers, workers’ rights activists and prominent legislators such as U.S Senators Cory Booker and Jon Tester, who are facing these companies head-on to inspire change and build a healthier, more sustainable future.",
-      "runtime": 94,
-      "times": [
-        {
-          "starts_at": "2024-06-05T18:20:00+01:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-44659/"
+          "starts_at": "2024-06-05T21:20:00+01:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-49235/"
         }
       ]
     },
@@ -229,21 +92,6 @@
           "starts_at": "2024-06-05T20:20:00+01:00",
           "site": "Curzon Victoria",
           "url": "https://www.curzon.com/ticketing/seats/VIC1-73337/"
-        },
-        {
-          "starts_at": "2024-06-05T18:00:00+01:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-16626/"
-        },
-        {
-          "starts_at": "2024-06-05T17:40:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-24959/"
-        },
-        {
-          "starts_at": "2024-06-05T17:30:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-90682/"
         }
       ]
     },
@@ -259,19 +107,9 @@
           "url": "https://www.curzon.com/ticketing/seats/SOH1-45037/"
         },
         {
-          "starts_at": "2024-06-05T17:00:00+01:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-16631/"
-        },
-        {
           "starts_at": "2024-06-05T20:20:00+01:00",
           "site": "Curzon Hoxton",
           "url": "https://www.curzon.com/ticketing/seats/HOX1-16621/"
-        },
-        {
-          "starts_at": "2024-06-05T17:00:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-24953/"
         },
         {
           "starts_at": "2024-06-05T20:00:00+01:00",
@@ -286,38 +124,35 @@
       ]
     },
     {
-      "title": "Young Woman and the Sea",
-      "trailer": "https://www.youtube.com/watch?v=_x1wLOe3C7o",
-      "synopsis": "Daisy Ridley stars as the accomplished swimmer who was born to immigrant parents in New York City in 1905. Through the steadfast support of her older sister and supportive trainers, she overcame adversity and the animosity of a patriarchal society to rise through the ranks of the Olympic swimming team and complete the staggering achievement – a 21-mile trek from France to England.",
-      "runtime": 129,
+      "title": "La Chimera",
+      "trailer": "https://www.youtube.com/watch?v=k0oGUwzxefk",
+      "synopsis": "Set in the 1980s, in the former Etruscian landscape of rural Italy, Arthur, a vagabond-type character, is mourning the loss of his love. A local ragtag group of graverobbers make use of his archaeological skills to find ancient tombs filled with artefacts, but Arthur uses the digs to search for a door to the afterlife, of which myths speak, where he imagines reuniting with her.",
+      "runtime": 131,
       "times": [
         {
-          "starts_at": "2024-06-05T16:40:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-73344/"
+          "starts_at": "2024-06-05T21:10:00+01:00",
+          "site": "Curzon Soho",
+          "url": "https://www.curzon.com/ticketing/seats/SOH1-45035/"
         },
         {
           "starts_at": "2024-06-05T21:00:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-73342/"
+          "site": "Curzon Mayfair",
+          "url": "https://www.curzon.com/ticketing/seats/MAY1-26964/"
         },
         {
-          "starts_at": "2024-06-05T18:00:00+01:00",
-          "site": "Curzon Mayfair",
-          "url": "https://www.curzon.com/ticketing/seats/MAY1-26965/"
-        }
-      ]
-    },
-    {
-      "title": "Pride: Call Me by Your Name",
-      "trailer": "https://www.youtube.com/watch?v=0gF_XcLq4oU",
-      "synopsis": "Call Me by Your Name is the story of a sudden and powerful romance that blossoms between an adolescent boy and a summer guest at his parents' cliffside mansion on the Italian Riviera. During the restless summer weeks, unrelenting but buried currents of obsession, fascination, and desire intensify their passion as they test the charged ground between them and verge toward the one thing both already fear they may never truly find again: total intimacy. ",
-      "runtime": 132,
-      "times": [
+          "starts_at": "2024-06-05T21:00:00+01:00",
+          "site": "Curzon Hoxton",
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-16627/"
+        },
         {
-          "starts_at": "2024-06-05T18:00:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-72691/"
+          "starts_at": "2024-06-05T20:40:00+01:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-24963/"
+        },
+        {
+          "starts_at": "2024-06-05T21:00:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-90678/"
         }
       ]
     },
@@ -335,15 +170,28 @@
       ]
     },
     {
-      "title": "Catching Fire: The Story of Anita Pallenberg",
-      "trailer": "https://www.youtube.com/watch?v=K-pk8lWwcMA",
-      "synopsis": "CATCHING FIRE: THE STORY OF ANITA PALLENBERG is about a woman who was at many points in her life a newspaper headline: Anita Pallenberg was a “rock n’ roll goddess,” a “voodoo priestess,” and an “evil seductress.” She was accused of trying to break up the Rolling Stones, among other things. But those who loved her considered her an exciting cultural force, and a loving mother – and innocent of the accusations. Never-seen-before home movies and family photographs explore life with the Rolling Stones and tell a bittersweet tale of both triumph and heartbreak. From Barbarella to the Swiss Alps, and the Lower East Side to London, Anita Pallenberg was a creative force ahead of her time.",
-      "runtime": 115,
+      "title": "Kingdom of the Planet of the Apes",
+      "trailer": "https://www.youtube.com/watch?v=tP4hZiX4pTk",
+      "synopsis": "Director Wes Ball breathes new life into the global, epic franchise set several generations in the future following Caesar’s reign, in which apes are the dominant species living harmoniously and humans have been reduced to living in the shadows. As a new tyrannical ape leader builds his empire, one young ape undertakes a harrowing journey that will cause him to question all that he has known about the past and to make choices that will define a future for apes and humans alike.",
+      "runtime": 144,
       "times": [
         {
-          "starts_at": "2024-06-05T17:40:00+01:00",
-          "site": "Curzon Mayfair",
-          "url": "https://www.curzon.com/ticketing/seats/MAY1-26962/"
+          "starts_at": "2024-06-05T20:40:00+01:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-73347/"
+        }
+      ]
+    },
+    {
+      "title": "Young Woman and the Sea",
+      "trailer": "https://www.youtube.com/watch?v=_x1wLOe3C7o",
+      "synopsis": "Daisy Ridley stars as the accomplished swimmer who was born to immigrant parents in New York City in 1905. Through the steadfast support of her older sister and supportive trainers, she overcame adversity and the animosity of a patriarchal society to rise through the ranks of the Olympic swimming team and complete the staggering achievement – a 21-mile trek from France to England.",
+      "runtime": 129,
+      "times": [
+        {
+          "starts_at": "2024-06-05T21:00:00+01:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-73342/"
         }
       ]
     },
@@ -354,50 +202,9 @@
       "runtime": 103,
       "times": [
         {
-          "starts_at": "2024-06-05T17:20:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-24957/"
-        },
-        {
           "starts_at": "2024-06-05T21:00:00+01:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-24955/"
-        },
-        {
-          "starts_at": "2024-06-05T18:30:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-90686/"
-        }
-      ]
-    },
-    {
-      "title": "Perfect Days",
-      "trailer": null,
-      "synopsis": "A highly anticipated return to fiction feature filmmaking from Wim Wenders (Paris, Texas, Wings of Desire), PERFECT DAYS takes the writer-director to Tokyo to tell a story celebrating the hidden joys and minutiae of Japanese culture. Winner of the Best Actor award at Cannes 2023, Koji Yakusho (Babel, 13 Assassins) stars as Hirayama, a contemplative middle-aged man who lives a life of modesty and serenity, spending his days balancing his job as a dutiful caretaker of Tokyo’s numerous public toilets with his passion for music, literature and photography. As we join him on his structured daily routine, a series of unexpected encounters gradually begin to reveal a hidden past that lies behind his otherwise content and harmonious life. \n\nCombining a refreshingly unstereotypical depiction of the Japanese capital with a soundtrack comprised of iconic hits from the 60s and 80s, this is a subtle, shimmering and ultimately life-affirming reflection on finding beauty in the everyday world around us. Japan’s entry for Best International Film at the 2024 Academy Awards.\n",
-      "runtime": 125,
-      "times": [
-        {
-          "starts_at": "2024-06-05T17:40:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-90684/"
-        },
-        {
-          "starts_at": "2024-06-05T20:50:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-90694/"
-        }
-      ]
-    },
-    {
-      "title": "DocHouse: DocHouse Shorts",
-      "trailer": null,
-      "synopsis": "In this inspiring selection of short-but-perfectly-formed docs, we witness both people and places overcome, adapt and evolve. From individuals going through life-changing events to small acts of self-repair; from Nigerian burial traditions to preparations for welcoming a new life; and an archive-rich, sci-fi city symphony, which explores London as a changing organism itself, these films face up to change as an inevitable part of life.  ",
-      "runtime": 80,
-      "times": [
-        {
-          "starts_at": "2024-06-05T18:20:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-90034/"
         }
       ]
     },
@@ -411,6 +218,19 @@
           "starts_at": "2024-06-05T20:40:00+01:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-90727/"
+        }
+      ]
+    },
+    {
+      "title": "Perfect Days",
+      "trailer": null,
+      "synopsis": "A highly anticipated return to fiction feature filmmaking from Wim Wenders (Paris, Texas, Wings of Desire), PERFECT DAYS takes the writer-director to Tokyo to tell a story celebrating the hidden joys and minutiae of Japanese culture. Winner of the Best Actor award at Cannes 2023, Koji Yakusho (Babel, 13 Assassins) stars as Hirayama, a contemplative middle-aged man who lives a life of modesty and serenity, spending his days balancing his job as a dutiful caretaker of Tokyo’s numerous public toilets with his passion for music, literature and photography. As we join him on his structured daily routine, a series of unexpected encounters gradually begin to reveal a hidden past that lies behind his otherwise content and harmonious life. \n\nCombining a refreshingly unstereotypical depiction of the Japanese capital with a soundtrack comprised of iconic hits from the 60s and 80s, this is a subtle, shimmering and ultimately life-affirming reflection on finding beauty in the everyday world around us. Japan’s entry for Best International Film at the 2024 Academy Awards.\n",
+      "runtime": 125,
+      "times": [
+        {
+          "starts_at": "2024-06-05T20:50:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-90694/"
         }
       ]
     },
