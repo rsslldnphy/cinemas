@@ -1,7 +1,4 @@
 {
-  "2024-06-08": [
-
-  ],
   "2024-06-09": [
     {
       "title": "Bad Boys: Ride Or Die",
@@ -3795,6 +3792,167 @@
           "starts_at": "2024-06-15T20:20:00+01:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-90036/"
+        }
+      ]
+    }
+  ],
+  "2024-06-16": [
+    {
+      "title": "Inside Out 2",
+      "trailer": "https://www.youtube.com/watch?v=6_AVROEGlfE",
+      "synopsis": "Disney and Pixar’s “Inside Out 2” returns to the mind of newly minted teenager Riley just as headquarters is undergoing a sudden demolition to make room for something entirely unexpected: new Emotions! Joy, Sadness, Anger, Fear and Disgust, who’ve long been running a successful operation\nby all accounts, aren’t sure how to feel when Anxiety shows up. And it looks like she’s not alone. Maya Hawke lends her voice to Anxiety, alongside Amy Poehler as the voice of Joy. The voice cast also includes Lewis Black, Phyllis Smith, Tony Hale, Liza Lapira, Ayo Edebiri, Adèle Exarchopoulos, Paul\nWalter Hauser, Kensington Tallman, Lilimar, Diane Lane, Kyle MacLachlan, Sumayyah Nuriddin-Green, Grace Lu and Yvette Nicole Brown. Directed by Kelsey Mann and produced by Mark Nielsen with a screenplay by Meg LeFauve and Dave Holstein, “Inside Out 2” features a score by Andrea Datzman.",
+      "runtime": 96,
+      "times": [
+        {
+          "starts_at": "2024-06-16T11:00:00+01:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-49090/"
+        },
+        {
+          "starts_at": "2024-06-16T13:30:00+01:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-49067/"
+        },
+        {
+          "starts_at": "2024-06-16T16:00:00+01:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-49068/"
+        },
+        {
+          "starts_at": "2024-06-16T18:30:00+01:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-49069/"
+        },
+        {
+          "starts_at": "2024-06-16T11:40:00+01:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-72963/"
+        },
+        {
+          "starts_at": "2024-06-16T14:00:00+01:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-72964/"
+        },
+        {
+          "starts_at": "2024-06-16T16:20:00+01:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-72965/"
+        },
+        {
+          "starts_at": "2024-06-16T18:40:00+01:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-72966/"
+        }
+      ]
+    },
+    {
+      "title": "Sasquatch Sunset",
+      "trailer": "https://www.youtube.com/watch?v=aE6PtfdqC0k",
+      "synopsis": "In the misty forests of North America, a family of Sasquatches—possibly the last of their enigmatic kind— embark on an absurdist, epic, hilarious, and ultimately poignant journey over the course of one year. These shaggy and noble giants fight for survival as they find themselves on a collision course with the ever-changing world around them. Starring Riley Keough (Mad Max: Fury Road, American Honey) and Academy Award-Nominee Jesse Eisenberg (Zombieland, The Social Network), acclaimed directors David and Nathan Zellner (Kumiko, the Treasure Hunter) bring you the greatest Bigfoot story ever told.",
+      "runtime": 88,
+      "times": [
+        {
+          "starts_at": "2024-06-16T18:50:00+01:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-49304/"
+        },
+        {
+          "starts_at": "2024-06-16T11:20:00+01:00",
+          "site": "Curzon Hoxton",
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-16682/"
+        },
+        {
+          "starts_at": "2024-06-16T16:00:00+01:00",
+          "site": "Curzon Hoxton",
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-16670/"
+        },
+        {
+          "starts_at": "2024-06-16T20:40:00+01:00",
+          "site": "Curzon Hoxton",
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-16675/"
+        }
+      ]
+    },
+    {
+      "title": "Pride: All About My Mother",
+      "trailer": null,
+      "synopsis": "Young Esteban wants to become a writer and also to discover the identity of his father, carefully concealed by his mother Manuela.",
+      "runtime": 101,
+      "times": [
+        {
+          "starts_at": "2024-06-16T15:00:00+01:00",
+          "site": "Curzon Soho",
+          "url": "https://www.curzon.com/ticketing/seats/SOH1-44653/"
+        }
+      ]
+    },
+    {
+      "title": "Royal Opera 2023/24 Season: Andrea Chénier",
+      "trailer": null,
+      "synopsis": "At a glittering party in 18th-century Paris, the poet Andréa Chenier delivers an impassioned denunciation of Louis XVI. Five years later, the Revolution has given way to the Terror, transforming the power balance between Chénier, his beloved Maddalena, and Gérard, the man who could destroy him... \n\nJonas Kaufmann headlines David McVicar’s spectacular staging, under the baton of long-time collaborator Antonio Pappano – who conducts Giordano’s epic historical drama of revolution and forbidden love in his last production as Music Director of The Royal Opera.",
+      "runtime": 160,
+      "times": [
+        {
+          "starts_at": "2024-06-16T14:00:00+01:00",
+          "site": "Curzon Mayfair",
+          "url": "https://www.curzon.com/ticketing/seats/MAY1-24028/"
+        }
+      ]
+    },
+    {
+      "title": "Hounds",
+      "trailer": null,
+      "synopsis": "A father and son in the suburbs of Casablanca get by on petty crimes for a local mob. When a kidnapping goes wrong, they must find a way to dispose of the body.",
+      "runtime": 94,
+      "times": [
+        {
+          "starts_at": "2024-06-16T13:40:00+01:00",
+          "site": "Curzon Hoxton",
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-16679/"
+        },
+        {
+          "starts_at": "2024-06-16T18:20:00+01:00",
+          "site": "Curzon Hoxton",
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-16674/"
+        }
+      ]
+    },
+    {
+      "title": "Pride: My Own Private Idaho",
+      "trailer": null,
+      "synopsis": "River Phoenix and Keanu Reeves star in director Gus Van Sant's haunting tale of two young street hustlers: Mike Waters, a sensitive narcoleptic who dreams of the mother who abandoned him, and Scott Favor, wayward son of the mayor of Portland and the object of Mike's desire. Navigating a volatile world of junkies, thieves and johns, Mike takes Scott on a quest from the grungy streets to the open highways to the Pacific Northwest in search of an elusive place called 'home'.\n\nMy Own Private Idaho is a stirring look at unrequited love and life at society's margins.",
+      "runtime": 104,
+      "times": [
+        {
+          "starts_at": "2024-06-16T15:00:00+01:00",
+          "site": "Curzon Hoxton",
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-16306/"
+        }
+      ]
+    },
+    {
+      "title": "Pride: The Watermelon Woman",
+      "trailer": null,
+      "synopsis": "‘The Watermelon Woman’ was the name given to the mythical Fae Richards, a beautiful yet elusive Black actress from the 1930s. In all her films, it was her only billing, why should that be? It is a mystery that perplexes Cheryl (Cheryl Dunye), a young black film maker. She sets out to solve the mystery by making a documentary about this forgotten star.\r\n\r\nThe Watermelon Woman garnered great critical and audience acclaim, and contains the most notorious lesbian sex scene of its time, (which even saw the film being discussed in Congress). The film is a fiction, but Cheryl Dunye says, “Sometimes you have to create your own history.”",
+      "runtime": 90,
+      "times": [
+        {
+          "starts_at": "2024-06-16T18:00:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-90023/"
+        }
+      ]
+    },
+    {
+      "title": "DocHouse: Wilding",
+      "trailer": null,
+      "synopsis": "Based on Isabella Tree’s best-selling book by the same title, Wilding tells the story of a young couple that bets on nature for the future of their failing, four-hundred-year-old estate.\r\n\r\nThe young couple battles entrenched tradition, and dares to place the fate of their farm in the hands of nature. Ripping down the fences, they set the land back to the wild and entrust its recovery to a motley mix of animals both tame and wild.\r\n\r\nIt is the beginning of a grand experiment that will become one of the most significant rewilding experiments in Europe.",
+      "runtime": 75,
+      "times": [
+        {
+          "starts_at": "2024-06-16T18:10:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-90735/"
         }
       ]
     }
