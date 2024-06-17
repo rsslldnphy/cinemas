@@ -1,7 +1,4 @@
 {
-  "2024-06-16": [
-
-  ],
   "2024-06-17": [
     {
       "title": "Inside Out 2",
@@ -3331,11 +3328,6 @@
           "url": "https://www.curzon.com/ticketing/seats/VIC1-73671/"
         },
         {
-          "starts_at": "2024-06-22T20:40:00+01:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-16843/"
-        },
-        {
           "starts_at": "2024-06-22T18:00:00+01:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-25328/"
@@ -3346,12 +3338,12 @@
           "url": "https://www.curzon.com/ticketing/seats/BLO1-91098/"
         },
         {
-          "starts_at": "2024-06-22T18:10:00+01:00",
+          "starts_at": "2024-06-22T17:40:00+01:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-91097/"
         },
         {
-          "starts_at": "2024-06-22T20:20:00+01:00",
+          "starts_at": "2024-06-22T20:40:00+01:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-91100/"
         }
@@ -3443,11 +3435,6 @@
       "synopsis": "Based on the popular graphic novel by the North American writer Sara Varon, ROBOT DREAMS tells the adventures and misfortunes of Dog and Robot in NYC during the '80s.",
       "runtime": 90,
       "times": [
-        {
-          "starts_at": "2024-06-22T10:30:00+01:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-16500/"
-        },
         {
           "starts_at": "2024-06-22T10:30:00+01:00",
           "site": "Curzon Camden",
@@ -3630,6 +3617,115 @@
           "starts_at": "2024-06-23T16:00:00+01:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-90902/"
+        }
+      ]
+    }
+  ],
+  "2024-06-24": [
+    {
+      "title": "The Bikeriders",
+      "trailer": "https://www.youtube.com/watch?v=NReRMZfKTOQ",
+      "synopsis": "The Bikeriders, starring Austin Butler, Jodie Comer, Tom Hardy and Norman Reedus, follows the rise of a midwestern motorcycle club, the Vandals. Seen through the lives of its members, the club evolves over the course of a decade from a gathering place for local outsiders into a more sinister gang, threatening the original group’s unique way of life.",
+      "runtime": 116,
+      "times": [
+        {
+          "starts_at": "2024-06-24T13:00:00+01:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-49616/"
+        },
+        {
+          "starts_at": "2024-06-24T15:40:00+01:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-49613/"
+        },
+        {
+          "starts_at": "2024-06-24T18:20:00+01:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-49614/"
+        },
+        {
+          "starts_at": "2024-06-24T21:00:00+01:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-49615/"
+        },
+        {
+          "starts_at": "2024-06-24T13:00:00+01:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-73678/"
+        },
+        {
+          "starts_at": "2024-06-24T15:40:00+01:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-73677/"
+        },
+        {
+          "starts_at": "2024-06-24T18:20:00+01:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-73676/"
+        },
+        {
+          "starts_at": "2024-06-24T21:00:00+01:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-73679/"
+        },
+        {
+          "starts_at": "2024-06-24T15:30:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-91104/"
+        },
+        {
+          "starts_at": "2024-06-24T18:10:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-91103/"
+        },
+        {
+          "starts_at": "2024-06-24T20:50:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-91102/"
+        }
+      ]
+    },
+    {
+      "title": "Raindance: From My Cold Dead Hands",
+      "trailer": null,
+      "synopsis": "Guns, explosions, musical numbers, zombies, tanks and Youtube. Thousands of hours of Youtube videos turned into a bizarre cocktail to show us the most extreme, wild and crazy gun-loving Americans. But what if they are just ordinary Americans?\r\n\r\nContent Warning – The film includes swearing, kids firing guns and a scene with mildly sexual content.",
+      "runtime": 64,
+      "times": [
+        {
+          "starts_at": "2024-06-24T18:20:00+01:00",
+          "site": "Curzon Soho",
+          "url": "https://www.curzon.com/ticketing/seats/SOH1-44880/"
+        }
+      ]
+    },
+    {
+      "title": "Raindance: Stranger's Case",
+      "trailer": null,
+      "synopsis": "Tragedy strikes a Syrian family in Aleppo, starting a chain reaction of events involving five different families in four different countries.",
+      "runtime": 97,
+      "times": [
+        {
+          "starts_at": "2024-06-24T20:40:00+01:00",
+          "site": "Curzon Soho",
+          "url": "https://www.curzon.com/ticketing/seats/SOH1-44881/"
+        }
+      ]
+    },
+    {
+      "title": "Green Border",
+      "trailer": "https://www.youtube.com/watch?v=WqPC7ONAJFM",
+      "synopsis": "In the treacherous and swampy forests that make up the so called \"green border\" between Belarus and Poland, refugees from the Middle East and Africa trying to reach the European Union are trapped in a geopolitical crisis cynically engineered by Belarusian dictator Alexander Lukashenko. In an attempt to provoke Europe, refugees are lured to the border by propaganda promising easy passage to the EU. Pawns in this hidden war, the lives of Julia, a newly minted activist who has given up her comfortable life, Jan, a young border guard, and a Syrian family intertwine.\n\n30 years after EUROPA EUROPA, three-time Oscar Nominee Agnieszka Holland's poignant new feature GREEN BORDER opens our eyes, speaks to the heart, and challenges us to reflect on the moral choices that fall to ordinary people every day.",
+      "runtime": 152,
+      "times": [
+        {
+          "starts_at": "2024-06-24T20:20:00+01:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-73691/"
+        },
+        {
+          "starts_at": "2024-06-24T20:00:00+01:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-25335/"
         }
       ]
     }
