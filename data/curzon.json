@@ -7,21 +7,6 @@
       "runtime": 96,
       "times": [
         {
-          "starts_at": "2024-06-23T14:00:00+01:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-49665/"
-        },
-        {
-          "starts_at": "2024-06-23T15:00:00+01:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-49676/"
-        },
-        {
-          "starts_at": "2024-06-23T16:20:00+01:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-49669/"
-        },
-        {
           "starts_at": "2024-06-23T17:20:00+01:00",
           "site": "Curzon Aldgate",
           "url": "https://www.curzon.com/ticketing/seats/ALD1-49677/"
@@ -35,21 +20,6 @@
           "starts_at": "2024-06-23T20:20:00+01:00",
           "site": "Curzon Aldgate",
           "url": "https://www.curzon.com/ticketing/seats/ALD1-49674/"
-        },
-        {
-          "starts_at": "2024-06-23T13:50:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-73734/"
-        },
-        {
-          "starts_at": "2024-06-23T14:30:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-73746/"
-        },
-        {
-          "starts_at": "2024-06-23T16:10:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-73745/"
         },
         {
           "starts_at": "2024-06-23T17:10:00+01:00",
@@ -72,11 +42,6 @@
           "url": "https://www.curzon.com/ticketing/seats/VIC1-73747/"
         },
         {
-          "starts_at": "2024-06-23T15:20:00+01:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-16886/"
-        },
-        {
           "starts_at": "2024-06-23T17:20:00+01:00",
           "site": "Curzon Hoxton",
           "url": "https://www.curzon.com/ticketing/seats/HOX1-16892/"
@@ -85,16 +50,6 @@
           "starts_at": "2024-06-23T20:20:00+01:00",
           "site": "Curzon Hoxton",
           "url": "https://www.curzon.com/ticketing/seats/HOX1-16893/"
-        },
-        {
-          "starts_at": "2024-06-23T13:45:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-25396/"
-        },
-        {
-          "starts_at": "2024-06-23T16:00:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-25406/"
         },
         {
           "starts_at": "2024-06-23T18:20:00+01:00",
@@ -115,11 +70,6 @@
       "runtime": 115,
       "times": [
         {
-          "starts_at": "2024-06-23T14:40:00+01:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-49671/"
-        },
-        {
           "starts_at": "2024-06-23T17:40:00+01:00",
           "site": "Curzon Aldgate",
           "url": "https://www.curzon.com/ticketing/seats/ALD1-49672/"
@@ -133,11 +83,6 @@
       "runtime": 116,
       "times": [
         {
-          "starts_at": "2024-06-23T15:20:00+01:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-49609/"
-        },
-        {
           "starts_at": "2024-06-23T18:00:00+01:00",
           "site": "Curzon Aldgate",
           "url": "https://www.curzon.com/ticketing/seats/ALD1-49610/"
@@ -146,11 +91,6 @@
           "starts_at": "2024-06-23T20:40:00+01:00",
           "site": "Curzon Aldgate",
           "url": "https://www.curzon.com/ticketing/seats/ALD1-49611/"
-        },
-        {
-          "starts_at": "2024-06-23T14:40:00+01:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-45277/"
         },
         {
           "starts_at": "2024-06-23T17:40:00+01:00",
@@ -163,11 +103,6 @@
           "url": "https://www.curzon.com/ticketing/seats/SOH1-45275/"
         },
         {
-          "starts_at": "2024-06-23T15:20:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-73673/"
-        },
-        {
           "starts_at": "2024-06-23T18:00:00+01:00",
           "site": "Curzon Victoria",
           "url": "https://www.curzon.com/ticketing/seats/VIC1-73672/"
@@ -176,11 +111,6 @@
           "starts_at": "2024-06-23T20:40:00+01:00",
           "site": "Curzon Victoria",
           "url": "https://www.curzon.com/ticketing/seats/VIC1-73675/"
-        },
-        {
-          "starts_at": "2024-06-23T14:40:00+01:00",
-          "site": "Curzon Mayfair",
-          "url": "https://www.curzon.com/ticketing/seats/MAY1-27136/"
         },
         {
           "starts_at": "2024-06-23T17:20:00+01:00",
@@ -193,11 +123,6 @@
           "url": "https://www.curzon.com/ticketing/seats/MAY1-27137/"
         },
         {
-          "starts_at": "2024-06-23T14:40:00+01:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-16885/"
-        },
-        {
           "starts_at": "2024-06-23T17:40:00+01:00",
           "site": "Curzon Hoxton",
           "url": "https://www.curzon.com/ticketing/seats/HOX1-16844/"
@@ -208,11 +133,6 @@
           "url": "https://www.curzon.com/ticketing/seats/HOX1-16890/"
         },
         {
-          "starts_at": "2024-06-23T14:20:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-25400/"
-        },
-        {
           "starts_at": "2024-06-23T17:00:00+01:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-25331/"
@@ -221,11 +141,6 @@
           "starts_at": "2024-06-23T20:20:00+01:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-25402/"
-        },
-        {
-          "starts_at": "2024-06-23T15:00:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-91094/"
         },
         {
           "starts_at": "2024-06-23T17:40:00+01:00",
@@ -272,11 +187,6 @@
       "runtime": 131,
       "times": [
         {
-          "starts_at": "2024-06-23T14:00:00+01:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-45353/"
-        },
-        {
           "starts_at": "2024-06-23T17:00:00+01:00",
           "site": "Curzon Soho",
           "url": "https://www.curzon.com/ticketing/seats/SOH1-45352/"
@@ -292,19 +202,9 @@
           "url": "https://www.curzon.com/ticketing/seats/HOX1-16889/"
         },
         {
-          "starts_at": "2024-06-23T15:10:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-25409/"
-        },
-        {
           "starts_at": "2024-06-23T20:00:00+01:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-25405/"
-        },
-        {
-          "starts_at": "2024-06-23T14:20:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-91165/"
         },
         {
           "starts_at": "2024-06-23T17:10:00+01:00",
@@ -315,19 +215,6 @@
           "starts_at": "2024-06-23T20:00:00+01:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-91152/"
-        }
-      ]
-    },
-    {
-      "title": "Sasquatch Sunset",
-      "trailer": "https://www.youtube.com/watch?v=aE6PtfdqC0k",
-      "synopsis": "In the misty forests of North America, a family of Sasquatches—possibly the last of their enigmatic kind— embark on an absurdist, epic, hilarious, and ultimately poignant journey over the course of one year. These shaggy and noble giants fight for survival as they find themselves on a collision course with the ever-changing world around them. Starring Riley Keough (Mad Max: Fury Road, American Honey) and Academy Award-Nominee Jesse Eisenberg (Zombieland, The Social Network), acclaimed directors David and Nathan Zellner (Kumiko, the Treasure Hunter) bring you the greatest Bigfoot story ever told.",
-      "runtime": 88,
-      "times": [
-        {
-          "starts_at": "2024-06-23T15:00:00+01:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-45349/"
         }
       ]
     },
@@ -346,11 +233,6 @@
           "starts_at": "2024-06-23T19:20:00+01:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-25407/"
-        },
-        {
-          "starts_at": "2024-06-23T14:50:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-91157/"
         }
       ]
     },
@@ -364,24 +246,6 @@
           "starts_at": "2024-06-23T20:20:00+01:00",
           "site": "Curzon Soho",
           "url": "https://www.curzon.com/ticketing/seats/SOH1-44879/"
-        }
-      ]
-    },
-    {
-      "title": "Challengers",
-      "trailer": "https://www.youtube.com/watch?v=iJOPZYaNVgQ",
-      "synopsis": "A tennis coach helps her husband transform from a mediocre player to a champion. To end a recent losing streak, they enter at the lowest level of a tournament and find themselves facing off against a once-promising and now burnt-out former friend who used to date the wife.",
-      "runtime": 131,
-      "times": [
-        {
-          "starts_at": "2024-06-23T13:30:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-73737/"
-        },
-        {
-          "starts_at": "2024-06-23T16:50:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-73743/"
         }
       ]
     },
@@ -404,6 +268,19 @@
       ]
     },
     {
+      "title": "Challengers",
+      "trailer": "https://www.youtube.com/watch?v=iJOPZYaNVgQ",
+      "synopsis": "A tennis coach helps her husband transform from a mediocre player to a champion. To end a recent losing streak, they enter at the lowest level of a tournament and find themselves facing off against a once-promising and now burnt-out former friend who used to date the wife.",
+      "runtime": 131,
+      "times": [
+        {
+          "starts_at": "2024-06-23T16:50:00+01:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-73743/"
+        }
+      ]
+    },
+    {
       "title": "Green Border",
       "trailer": "https://www.youtube.com/watch?v=WqPC7ONAJFM",
       "synopsis": "In the treacherous and swampy forests that make up the so called \"green border\" between Belarus and Poland, refugees from the Middle East and Africa trying to reach the European Union are trapped in a geopolitical crisis cynically engineered by Belarusian dictator Alexander Lukashenko. In an attempt to provoke Europe, refugees are lured to the border by propaganda promising easy passage to the EU. Pawns in this hidden war, the lives of Julia, a newly minted activist who has given up her comfortable life, Jan, a young border guard, and a Syrian family intertwine.\n\n30 years after EUROPA EUROPA, three-time Oscar Nominee Agnieszka Holland's poignant new feature GREEN BORDER opens our eyes, speaks to the heart, and challenges us to reflect on the moral choices that fall to ordinary people every day.",
@@ -415,19 +292,9 @@
           "url": "https://www.curzon.com/ticketing/seats/VIC1-73748/"
         },
         {
-          "starts_at": "2024-06-23T13:40:00+01:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-16891/"
-        },
-        {
           "starts_at": "2024-06-23T19:40:00+01:00",
           "site": "Curzon Hoxton",
           "url": "https://www.curzon.com/ticketing/seats/HOX1-16884/"
-        },
-        {
-          "starts_at": "2024-06-23T14:00:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-25399/"
         },
         {
           "starts_at": "2024-06-23T19:40:00+01:00",
@@ -442,19 +309,6 @@
       ]
     },
     {
-      "title": "Treasure",
-      "trailer": null,
-      "synopsis": "A father-daughter road trip set in 1990s Poland, Treasure follows Ruth (Dunham), an American music journalist, and her father, Edek (Fry), a charmingly stubborn Holocaust survivor, on a journey to his homeland. While Ruth is eager to make sense of her family’s past, Edek embarks on the trip with his own agenda. This emotional, funny culture clash of two New Yorkers exploring post-socialist Poland is a powerful example of how reconnecting with family and the past can be an unexpected treasure.",
-      "runtime": 112,
-      "times": [
-        {
-          "starts_at": "2024-06-23T14:20:00+01:00",
-          "site": "Curzon Mayfair",
-          "url": "https://www.curzon.com/ticketing/seats/MAY1-27140/"
-        }
-      ]
-    },
-    {
       "title": "Freud's Last Session",
       "trailer": "https://www.youtube.com/watch?v=DQbspuGkJLE",
       "synopsis": "Set on the eve of WWII and towards the end of his life, Freud's Last Session sees Freud (Hopkins) invite iconic author C.S. Lewis for a debate over the existence of God. Exploring Freud's unique relationship with his lesbian daughter Anna and Lewis' unconventional romance with his best friend's mother, the film interweaves past, present and fantasy, bursting from the confines of Freud's study on a dynamic journey.",
@@ -464,24 +318,6 @@
           "starts_at": "2024-06-23T17:00:00+01:00",
           "site": "Curzon Mayfair",
           "url": "https://www.curzon.com/ticketing/seats/MAY1-27142/"
-        }
-      ]
-    },
-    {
-      "title": "The Dead Don't Hurt",
-      "trailer": "https://www.youtube.com/watch?v=ZWCA7R4VAPw",
-      "synopsis": "In a frontier town run by corrupt forces, fiercely independent Vivienne Le Coudy (Vicky Krieps) embarks on a relationship with the passionate, hard-working Holger Olsen (Viggo Mortensen) but it’s one that leads to danger for them both. With the threat of the Civil War looming, their future becomes uncertain when Holger decides to fight for the Union, leaving Vivienne on her own to face the dangerous threats of the corrupt mayor (Danny Huston), the power-hungry ranch owner (Garret Dillahunt) and the rancher’s violent son (Solly McLeod). From writer director Viggo Mortensen comes a powerful new western about love and survival that is both epic and intimate.",
-      "runtime": 129,
-      "times": [
-        {
-          "starts_at": "2024-06-23T16:20:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-25411/"
-        },
-        {
-          "starts_at": "2024-06-23T19:50:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-91159/"
         }
       ]
     },
@@ -517,69 +353,15 @@
       ]
     },
     {
-      "title": "DocHouse: Wilding",
-      "trailer": null,
-      "synopsis": "Based on Isabella Tree’s best-selling book by the same title, Wilding tells the story of a young couple that bets on nature for the future of their failing, four-hundred-year-old estate.\r\n\r\nThe young couple battles entrenched tradition, and dares to place the fate of their farm in the hands of nature. Ripping down the fences, they set the land back to the wild and entrust its recovery to a motley mix of animals both tame and wild.\r\n\r\nIt is the beginning of a grand experiment that will become one of the most significant rewilding experiments in Europe.",
-      "runtime": 75,
-      "times": [
-        {
-          "starts_at": "2024-06-23T14:10:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-91263/"
-        },
-        {
-          "starts_at": "2024-06-23T20:30:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-91264/"
-        }
-      ]
-    },
-    {
-      "title": "Perfect Days",
-      "trailer": null,
-      "synopsis": "A highly anticipated return to fiction feature filmmaking from Wim Wenders (Paris, Texas, Wings of Desire), PERFECT DAYS takes the writer-director to Tokyo to tell a story celebrating the hidden joys and minutiae of Japanese culture. Winner of the Best Actor award at Cannes 2023, Koji Yakusho (Babel, 13 Assassins) stars as Hirayama, a contemplative middle-aged man who lives a life of modesty and serenity, spending his days balancing his job as a dutiful caretaker of Tokyo’s numerous public toilets with his passion for music, literature and photography. As we join him on his structured daily routine, a series of unexpected encounters gradually begin to reveal a hidden past that lies behind his otherwise content and harmonious life. \n\nCombining a refreshingly unstereotypical depiction of the Japanese capital with a soundtrack comprised of iconic hits from the 60s and 80s, this is a subtle, shimmering and ultimately life-affirming reflection on finding beauty in the everyday world around us. Japan’s entry for Best International Film at the 2024 Academy Awards.\n",
-      "runtime": 125,
-      "times": [
-        {
-          "starts_at": "2024-06-23T14:40:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-91160/"
-        },
-        {
-          "starts_at": "2024-06-23T20:10:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-91163/"
-        }
-      ]
-    },
-    {
       "title": "Hounds",
       "trailer": null,
       "synopsis": "A tense, atmospheric thriller, Hounds is Moroccan director Kamal Lazraq’s impressive feature film debut set on the streets of Casablanca. It follows a hapless father-son duo who run into trouble after a kidnapping goes wrong and things go from bad to worse. \r\n\r\nLiving precariously on the margins of society, Hassan (Abdellatif Masstouri) and his son Isaam (Ayoub Elaid) earn money as lackeys for a local crime boss, who likes to fight dogs on the side. One night, when he loses his favourite dog in a fight, he sets Hassan and Isaam the task of kidnapping his rival’s right-hand man. But things go awry from the outset, setting them on a path they must navigate with what little resources they have, forced to fly by the seat of their pants. Unfolding over one night, the film employs a dark sense of humour, imbuing its central characters a Safdie-esque quality which is cleverly used as a lens through which to view the dark underbelly of Moroccan society. ",
       "runtime": 94,
       "times": [
         {
-          "starts_at": "2024-06-23T15:10:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-91154/"
-        },
-        {
           "starts_at": "2024-06-23T17:30:00+01:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-91247/"
-        }
-      ]
-    },
-    {
-      "title": "DocHouse: Democracy Noir",
-      "trailer": null,
-      "synopsis": "Amidst the brazen rise of 21st century authoritarianism, few politicians have proven as adept at undermining democracy as Hungarian Prime Minister Viktor Orbán - a hero to his country’s Christian conservative population and a role model to right-wing political movements worldwide.\r\n\r\nDemocracy Noir follows three courageous women from different spheres of Hungarian life as they fight to expose corruption, lies and the step-by-step destruction of democracy in their country as Orbán chips away at Hungary's democratic institutions.",
-      "runtime": 93,
-      "times": [
-        {
-          "starts_at": "2024-06-23T16:00:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-90902/"
         }
       ]
     },
@@ -606,6 +388,45 @@
           "starts_at": "2024-06-23T18:10:00+01:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-91265/"
+        }
+      ]
+    },
+    {
+      "title": "The Dead Don't Hurt",
+      "trailer": "https://www.youtube.com/watch?v=ZWCA7R4VAPw",
+      "synopsis": "In a frontier town run by corrupt forces, fiercely independent Vivienne Le Coudy (Vicky Krieps) embarks on a relationship with the passionate, hard-working Holger Olsen (Viggo Mortensen) but it’s one that leads to danger for them both. With the threat of the Civil War looming, their future becomes uncertain when Holger decides to fight for the Union, leaving Vivienne on her own to face the dangerous threats of the corrupt mayor (Danny Huston), the power-hungry ranch owner (Garret Dillahunt) and the rancher’s violent son (Solly McLeod). From writer director Viggo Mortensen comes a powerful new western about love and survival that is both epic and intimate.",
+      "runtime": 129,
+      "times": [
+        {
+          "starts_at": "2024-06-23T19:50:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-91159/"
+        }
+      ]
+    },
+    {
+      "title": "Perfect Days",
+      "trailer": null,
+      "synopsis": "A highly anticipated return to fiction feature filmmaking from Wim Wenders (Paris, Texas, Wings of Desire), PERFECT DAYS takes the writer-director to Tokyo to tell a story celebrating the hidden joys and minutiae of Japanese culture. Winner of the Best Actor award at Cannes 2023, Koji Yakusho (Babel, 13 Assassins) stars as Hirayama, a contemplative middle-aged man who lives a life of modesty and serenity, spending his days balancing his job as a dutiful caretaker of Tokyo’s numerous public toilets with his passion for music, literature and photography. As we join him on his structured daily routine, a series of unexpected encounters gradually begin to reveal a hidden past that lies behind his otherwise content and harmonious life. \n\nCombining a refreshingly unstereotypical depiction of the Japanese capital with a soundtrack comprised of iconic hits from the 60s and 80s, this is a subtle, shimmering and ultimately life-affirming reflection on finding beauty in the everyday world around us. Japan’s entry for Best International Film at the 2024 Academy Awards.\n",
+      "runtime": 125,
+      "times": [
+        {
+          "starts_at": "2024-06-23T20:10:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-91163/"
+        }
+      ]
+    },
+    {
+      "title": "DocHouse: Wilding",
+      "trailer": null,
+      "synopsis": "Based on Isabella Tree’s best-selling book by the same title, Wilding tells the story of a young couple that bets on nature for the future of their failing, four-hundred-year-old estate.\r\n\r\nThe young couple battles entrenched tradition, and dares to place the fate of their farm in the hands of nature. Ripping down the fences, they set the land back to the wild and entrust its recovery to a motley mix of animals both tame and wild.\r\n\r\nIt is the beginning of a grand experiment that will become one of the most significant rewilding experiments in Europe.",
+      "runtime": 75,
+      "times": [
+        {
+          "starts_at": "2024-06-23T20:30:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-91264/"
         }
       ]
     }
