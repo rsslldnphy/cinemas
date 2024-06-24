@@ -1,7 +1,4 @@
 {
-  "2024-06-23": [
-
-  ],
   "2024-06-24": [
     {
       "title": "Inside Out 2",
@@ -3277,20 +3274,28 @@
       ]
     },
     {
+      "title": "A Quiet Place: Day One",
+      "trailer": "https://www.youtube.com/watch?v=94SFRS7jy_w",
+      "synopsis": "Experience the day the world went quiet.",
+      "runtime": 99,
+      "times": [
+        {
+          "starts_at": "2024-06-30T18:00:00+01:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-49325/"
+        }
+      ]
+    },
+    {
       "title": "Kinds of Kindness",
       "trailer": "https://www.youtube.com/watch?v=S4vnapDN_pk",
       "synopsis": "KINDS OF KINDNESS is a triptych fable, following a man without choice who tries to take control of his own life; a policeman who is alarmed that his wife who was missing-at-sea has returned and seems a different person; and a woman determined to find a specific someone with a special ability, who is destined to become a prodigious spiritual leader.",
       "runtime": 164,
       "times": [
         {
-          "starts_at": "2024-06-30T16:45:00+01:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-49323/"
-        },
-        {
           "starts_at": "2024-06-30T20:00:00+01:00",
           "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-49326/"
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-49767/"
         },
         {
           "starts_at": "2024-06-30T12:00:00+01:00",
@@ -3318,32 +3323,9 @@
           "url": "https://www.curzon.com/ticketing/seats/VIC1-73699/"
         },
         {
-          "starts_at": "2024-06-30T20:00:00+01:00",
-          "site": "Curzon Mayfair",
-          "url": "https://www.curzon.com/ticketing/seats/MAY1-27189/"
-        },
-        {
           "starts_at": "2024-06-30T17:30:00+01:00",
           "site": "Curzon Hoxton",
           "url": "https://www.curzon.com/ticketing/seats/HOX1-16856/"
-        }
-      ]
-    },
-    {
-      "title": "A Quiet Place: Day One",
-      "trailer": "https://www.youtube.com/watch?v=94SFRS7jy_w",
-      "synopsis": "Experience the day the world went quiet.",
-      "runtime": 99,
-      "times": [
-        {
-          "starts_at": "2024-06-30T18:00:00+01:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-49325/"
-        },
-        {
-          "starts_at": "2024-06-30T20:15:00+01:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-49319/"
         }
       ]
     },
@@ -3435,6 +3417,79 @@
           "starts_at": "2024-06-30T20:00:00+01:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-91130/"
+        }
+      ]
+    }
+  ],
+  "2024-07-01": [
+    {
+      "title": "Kinds of Kindness",
+      "trailer": "https://www.youtube.com/watch?v=S4vnapDN_pk",
+      "synopsis": "KINDS OF KINDNESS is a triptych fable, following a man without choice who tries to take control of his own life; a policeman who is alarmed that his wife who was missing-at-sea has returned and seems a different person; and a woman determined to find a specific someone with a special ability, who is destined to become a prodigious spiritual leader.",
+      "runtime": 164,
+      "times": [
+        {
+          "starts_at": "2024-07-01T17:40:00+01:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-49634/"
+        },
+        {
+          "starts_at": "2024-07-01T20:00:00+01:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-49632/"
+        },
+        {
+          "starts_at": "2024-07-01T14:20:00+01:00",
+          "site": "Curzon Soho",
+          "url": "https://www.curzon.com/ticketing/seats/SOH1-45307/"
+        },
+        {
+          "starts_at": "2024-07-01T18:00:00+01:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-73702/"
+        },
+        {
+          "starts_at": "2024-07-01T20:00:00+01:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-73701/"
+        },
+        {
+          "starts_at": "2024-07-01T20:20:00+01:00",
+          "site": "Curzon Hoxton",
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-16855/"
+        },
+        {
+          "starts_at": "2024-07-01T18:00:00+01:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-25353/"
+        },
+        {
+          "starts_at": "2024-07-01T20:00:00+01:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-25352/"
+        },
+        {
+          "starts_at": "2024-07-01T20:10:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-91125/"
+        }
+      ]
+    },
+    {
+      "title": "A Quiet Place: Day One",
+      "trailer": "https://www.youtube.com/watch?v=94SFRS7jy_w",
+      "synopsis": "Experience the day the world went quiet.",
+      "runtime": 99,
+      "times": [
+        {
+          "starts_at": "2024-07-01T18:00:00+01:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-49631/"
+        },
+        {
+          "starts_at": "2024-07-01T21:10:00+01:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-49633/"
         }
       ]
     }
