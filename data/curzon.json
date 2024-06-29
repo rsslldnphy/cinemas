@@ -1,32 +1,4 @@
 {
-  "2024-06-28": [
-    {
-      "title": "Fancy Dance",
-      "trailer": null,
-      "synopsis": "Since her sister’s disappearance, Jax (Lily Gladstone) has cared for her niece Roki (Isabel Deroy-Olson) by scraping by on the Seneca-Cayuga reservation in Oklahoma. Every spare minute goes into finding her missing sister while also helping Roki prepare for an upcoming powwow. At the risk of Jax losing custody to Roki’s grandfather, Frank (Shea Whigham), the pair hit the road and scour the backcountry to track down Roki’s mother in time for the powwow. What begins as a search gradually turns into a far deeper investigation into the complexities and contradictions of Indigenous women moving through a colonized world while at the mercy of a failed justice system. Gladstone stars alongside Deroy-Olson, Ryan Begay, Crystle Lightning, with Audrey Wasilewski and Whigham.",
-      "runtime": 91,
-      "times": [
-        {
-          "starts_at": "2024-06-28T21:30:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-73888/"
-        }
-      ]
-    },
-    {
-      "title": "A Quiet Place: Day One",
-      "trailer": "https://www.youtube.com/watch?v=MLkdY8SQ2Es",
-      "synopsis": "Experience the day the world went quiet.",
-      "runtime": 99,
-      "times": [
-        {
-          "starts_at": "2024-06-28T21:30:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-25517/"
-        }
-      ]
-    }
-  ],
   "2024-06-29": [
     {
       "title": "The Imaginary",
@@ -4294,6 +4266,57 @@
           "starts_at": "2024-07-05T18:20:00+01:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-91290/"
+        }
+      ]
+    }
+  ],
+  "2024-07-06": [
+    {
+      "title": "Sleep",
+      "trailer": "https://www.youtube.com/watch?v=bTDFXHbtuTo",
+      "synopsis": "What if the place you thought was safest suddenly became a battleground for your sanity? Young couple Hyun-su and Soo-jin are about to become new parents when, one night, heavily pregnant Soo-jin wakes up from a deep slumber to her husband’s first act of parasomnia. Debut director Jason Yu brings audiences a clever, well-crafted and genre-bending thriller.",
+      "runtime": 95,
+      "times": [
+        {
+          "starts_at": "2024-07-06T11:00:00+01:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-49890/"
+        },
+        {
+          "starts_at": "2024-07-06T18:00:00+01:00",
+          "site": "Curzon Soho",
+          "url": "https://www.curzon.com/ticketing/seats/SOH1-45451/"
+        },
+        {
+          "starts_at": "2024-07-06T11:00:00+01:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-25668/"
+        }
+      ]
+    },
+    {
+      "title": "DocHouse: The Mother Of All Lies",
+      "trailer": null,
+      "synopsis": "In her extraordinary debut feature, Moroccan filmmaker Asmae El Moudir creates a handmade replica of the Casablanca neighbourhood where she grew up, to help her explore the many mysteries of her family's past. There, in exquisite re-enactments, she starts to unravel the layers of deception and intentional forgetting that have shaped her life.\r\n\r\nQuestioning why there are so few photographs of her as a child and reaching back to the Casablanca Bread Riots of 1981, El Moudir brings together her family and neighbours to address the unspeakable, in a riveting and cathartic act of filmmaking and recovery.\r\n",
+      "runtime": 97,
+      "times": [
+        {
+          "starts_at": "2024-07-06T16:00:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-90908/"
+        }
+      ]
+    },
+    {
+      "title": "DocHouse: Orlando: My Political Biography",
+      "trailer": null,
+      "synopsis": "Virginia Woolf’s Orlando tells the story of a young man who grows up to become a 36-year-old woman. Almost a century after its publication, Paul B. Preciado speaks to Virginia Woolf to tell her that her fictional character has become a reality. The transition of Orlando’s body now lies at the root of all non-binary bodies and there are Orlandos all over the world. Through the authentic voices of other young bodies undergoing metamorphosis, Preciado retraces the stages of his personal transformation through a poetic journey in which life, writing, theory and image merge freely in the search for truth. Every Orlando, he says, is a transgender person who is risking his, her or their life on a daily basis as they find themselves forced to confront government laws, history and psychiatry, as well as traditional notions of the family and the power of multinational pharmaceutical companies.",
+      "runtime": 98,
+      "times": [
+        {
+          "starts_at": "2024-07-06T20:20:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-91291/"
         }
       ]
     }
