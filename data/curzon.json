@@ -1,19 +1,4 @@
 {
-  "2024-06-29": [
-    {
-      "title": "A Quiet Place: Day One",
-      "trailer": "https://www.youtube.com/watch?v=MLkdY8SQ2Es",
-      "synopsis": "Experience the day the world went quiet.",
-      "runtime": 99,
-      "times": [
-        {
-          "starts_at": "2024-06-29T21:30:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-25536/"
-        }
-      ]
-    }
-  ],
   "2024-06-30": [
     {
       "title": "The Imaginary",
@@ -3589,6 +3574,44 @@
           "starts_at": "2024-07-06T20:20:00+01:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-91291/"
+        }
+      ]
+    }
+  ],
+  "2024-07-07": [
+    {
+      "title": "Sleep",
+      "trailer": "https://www.youtube.com/watch?v=bTDFXHbtuTo",
+      "synopsis": "What if the place you thought was safest suddenly became a battleground for your sanity? Young couple Hyun-su and Soo-jin are about to become new parents when, one night, heavily pregnant Soo-jin wakes up from a deep slumber to her husband’s first act of parasomnia. Debut director Jason Yu brings audiences a clever, well-crafted and genre-bending thriller.",
+      "runtime": 95,
+      "times": [
+        {
+          "starts_at": "2024-07-07T11:00:00+01:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-74009/"
+        },
+        {
+          "starts_at": "2024-07-07T15:00:00+01:00",
+          "site": "Curzon Hoxton",
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-17039/"
+        },
+        {
+          "starts_at": "2024-07-07T15:00:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-91443/"
+        }
+      ]
+    },
+    {
+      "title": "DocHouse: The Mother Of All Lies",
+      "trailer": null,
+      "synopsis": "In her extraordinary debut feature, Moroccan filmmaker Asmae El Moudir creates a handmade replica of the Casablanca neighbourhood where she grew up, to help her explore the many mysteries of her family's past. There, in exquisite re-enactments, she starts to unravel the layers of deception and intentional forgetting that have shaped her life.\r\n\r\nQuestioning why there are so few photographs of her as a child and reaching back to the Casablanca Bread Riots of 1981, El Moudir brings together her family and neighbours to address the unspeakable, in a riveting and cathartic act of filmmaking and recovery.\r\n",
+      "runtime": 97,
+      "times": [
+        {
+          "starts_at": "2024-07-07T18:00:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-90909/"
         }
       ]
     }
