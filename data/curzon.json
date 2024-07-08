@@ -1,7 +1,4 @@
 {
-  "2024-07-07": [
-
-  ],
   "2024-07-08": [
     {
       "title": "MaXXXine",
@@ -2756,11 +2753,6 @@
           "url": "https://www.curzon.com/ticketing/seats/SOH1-45422/"
         },
         {
-          "starts_at": "2024-07-12T21:00:00+01:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-45420/"
-        },
-        {
           "starts_at": "2024-07-12T21:10:00+01:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-25500/"
@@ -2878,11 +2870,6 @@
           "url": "https://www.curzon.com/ticketing/seats/SOH1-45439/"
         },
         {
-          "starts_at": "2024-07-13T21:00:00+01:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-45431/"
-        },
-        {
           "starts_at": "2024-07-13T21:10:00+01:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-25504/"
@@ -2919,11 +2906,6 @@
           "starts_at": "2024-07-13T11:00:00+01:00",
           "site": "Curzon Hoxton",
           "url": "https://www.curzon.com/ticketing/seats/HOX1-17055/"
-        },
-        {
-          "starts_at": "2024-07-13T13:20:00+01:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-17054/"
         },
         {
           "starts_at": "2024-07-13T15:40:00+01:00",
@@ -3026,11 +3008,6 @@
           "url": "https://www.curzon.com/ticketing/seats/SOH1-45449/"
         },
         {
-          "starts_at": "2024-07-14T20:20:00+01:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-45441/"
-        },
-        {
           "starts_at": "2024-07-14T20:40:00+01:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-25505/"
@@ -3113,6 +3090,87 @@
           "starts_at": "2024-07-14T14:00:00+01:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-91447/"
+        }
+      ]
+    }
+  ],
+  "2024-07-15": [
+    {
+      "title": "Despicable Me 4",
+      "trailer": "https://www.youtube.com/watch?v=nY1LOkmo2X8",
+      "synopsis": "Gru faces a new nemesis in Maxime Le Mal (Emmy winner Will Ferrell) and his femme fatale girlfriend Valentina (Emmy nominee Sofia Vergara), and the family is forced to go on the run.",
+      "runtime": 94,
+      "times": [
+        {
+          "starts_at": "2024-07-15T13:20:00+01:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-73844/"
+        },
+        {
+          "starts_at": "2024-07-15T15:40:00+01:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-73845/"
+        },
+        {
+          "starts_at": "2024-07-15T18:00:00+01:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-73842/"
+        },
+        {
+          "starts_at": "2024-07-15T20:15:00+01:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-73843/"
+        },
+        {
+          "starts_at": "2024-07-15T11:00:00+01:00",
+          "site": "Curzon Hoxton",
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-17063/"
+        },
+        {
+          "starts_at": "2024-07-15T13:20:00+01:00",
+          "site": "Curzon Hoxton",
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-17062/"
+        },
+        {
+          "starts_at": "2024-07-15T15:40:00+01:00",
+          "site": "Curzon Hoxton",
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-17061/"
+        },
+        {
+          "starts_at": "2024-07-15T18:00:00+01:00",
+          "site": "Curzon Hoxton",
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-17060/"
+        }
+      ]
+    },
+    {
+      "title": "Fly Me to the Moon",
+      "trailer": "https://www.youtube.com/watch?v=-1iSWMMnxaU",
+      "synopsis": "Starring Scarlett Johansson and Channing Tatum, FLY ME TO THE MOON is a sharp, stylish comedy-drama set against the high-stakes backdrop of NASA’s historic Apollo 11 moon landing. Brought in to fix NASA’s public image, sparks fly in all directions as marketing maven Kelly Jones (Johansson) wreaks havoc on launch director Cole Davis’s (Tatum) already difficult task. When the White House deems the mission too important to fail, Jones is directed to stage a fake moon landing as back-up and the countdown truly begins…",
+      "runtime": 132,
+      "times": [
+        {
+          "starts_at": "2024-07-15T17:45:00+01:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-74053/"
+        }
+      ]
+    },
+    {
+      "title": "Sleep",
+      "trailer": "https://www.youtube.com/watch?v=bTDFXHbtuTo",
+      "synopsis": "What if the place you thought was safest suddenly became a battleground for your sanity? Young couple Hyun-su and Soo-jin are about to become new parents when, one night, heavily pregnant Soo-jin wakes up from a deep slumber to her husband’s first act of parasomnia. Debut director Jason Yu brings audiences a clever, well-crafted and genre-bending thriller.",
+      "runtime": 95,
+      "times": [
+        {
+          "starts_at": "2024-07-15T21:10:00+01:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-25506/"
+        },
+        {
+          "starts_at": "2024-07-15T18:00:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-91286/"
         }
       ]
     }
