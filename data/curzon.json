@@ -1,45 +1,55 @@
 {
   "2024-07-08": [
     {
-      "title": "A Quiet Place: Day One",
-      "trailer": "https://www.youtube.com/watch?v=MLkdY8SQ2Es",
-      "synopsis": "Experience the day the world went quiet.",
-      "runtime": 99,
+      "title": "Kinds of Kindness",
+      "trailer": "https://www.youtube.com/watch?v=S4vnapDN_pk",
+      "synopsis": "KINDS OF KINDNESS is a triptych fable, following a man without choice who tries to take control of his own life; a policeman who is alarmed that his wife who was missing-at-sea has returned and seems a different person; and a woman determined to find a specific someone with a special ability, who is destined to become a prodigious spiritual leader.",
+      "runtime": 164,
       "times": [
         {
-          "starts_at": "2024-07-08T15:00:00+01:00",
+          "starts_at": "2024-07-08T17:30:00+01:00",
           "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-50011/"
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-50008/"
         },
         {
-          "starts_at": "2024-07-08T21:00:00+01:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-50015/"
+          "starts_at": "2024-07-08T19:00:00+01:00",
+          "site": "Curzon Soho",
+          "url": "https://www.curzon.com/ticketing/seats/SOH1-45497/"
         },
         {
-          "starts_at": "2024-07-08T13:45:00+01:00",
+          "starts_at": "2024-07-08T20:30:00+01:00",
+          "site": "Curzon Soho",
+          "url": "https://www.curzon.com/ticketing/seats/SOH1-45502/"
+        },
+        {
+          "starts_at": "2024-07-08T20:00:00+01:00",
           "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-74122/"
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-74130/"
         },
         {
-          "starts_at": "2024-07-08T16:15:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-74119/"
+          "starts_at": "2024-07-08T20:20:00+01:00",
+          "site": "Curzon Mayfair",
+          "url": "https://www.curzon.com/ticketing/seats/MAY1-27263/"
         },
         {
-          "starts_at": "2024-07-08T18:45:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-74132/"
-        },
-        {
-          "starts_at": "2024-07-08T21:15:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-74127/"
-        },
-        {
-          "starts_at": "2024-07-08T18:10:00+01:00",
+          "starts_at": "2024-07-08T20:10:00+01:00",
           "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-17154/"
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-17150/"
+        },
+        {
+          "starts_at": "2024-07-08T20:00:00+01:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-25797/"
+        },
+        {
+          "starts_at": "2024-07-08T16:30:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-91542/"
+        },
+        {
+          "starts_at": "2024-07-08T20:00:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-91538/"
         }
       ]
     },
@@ -50,11 +60,6 @@
       "runtime": 96,
       "times": [
         {
-          "starts_at": "2024-07-08T15:40:00+01:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-50010/"
-        },
-        {
           "starts_at": "2024-07-08T18:00:00+01:00",
           "site": "Curzon Aldgate",
           "url": "https://www.curzon.com/ticketing/seats/ALD1-50007/"
@@ -63,11 +68,6 @@
           "starts_at": "2024-07-08T20:20:00+01:00",
           "site": "Curzon Aldgate",
           "url": "https://www.curzon.com/ticketing/seats/ALD1-50017/"
-        },
-        {
-          "starts_at": "2024-07-08T15:40:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-74120/"
         },
         {
           "starts_at": "2024-07-08T18:00:00+01:00",
@@ -80,19 +80,9 @@
           "url": "https://www.curzon.com/ticketing/seats/VIC1-74128/"
         },
         {
-          "starts_at": "2024-07-08T15:30:00+01:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-17158/"
-        },
-        {
           "starts_at": "2024-07-08T17:50:00+01:00",
           "site": "Curzon Hoxton",
           "url": "https://www.curzon.com/ticketing/seats/HOX1-17148/"
-        },
-        {
-          "starts_at": "2024-07-08T14:45:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-25799/"
         },
         {
           "starts_at": "2024-07-08T17:30:00+01:00",
@@ -107,34 +97,11 @@
       ]
     },
     {
-      "title": "Kill",
-      "trailer": "https://www.youtube.com/watch?v=5SUY3t20NvI",
-      "synopsis": "When army commando Amrit (Lakshya) finds out his true love Tulika (Tanya Maniktala) is engaged against her will, he boards a New Delhi-bound train in a daring quest to derail the arranged marriage. But when a gang of knife-wielding thieves led by the ruthless Fani (Raghav Juyal) begin to terrorise innocent passengers on his train, Amrit takes them on himself in a death-defying kill-spree to save those around him — turning what should have been a typical commute into an adrenaline-fuelled thrill ride.",
-      "runtime": 105,
-      "times": [
-        {
-          "starts_at": "2024-07-08T16:00:00+01:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-50071/"
-        },
-        {
-          "starts_at": "2024-07-08T20:45:00+01:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-50072/"
-        }
-      ]
-    },
-    {
       "title": "MaXXXine",
       "trailer": "https://www.youtube.com/watch?v=_xqA_pGssaw",
       "synopsis": "Follows Maxine, who was the only survivor of the bloody incidents of X, as she continues her journey towards fame to be an actress in 1980's Los Angeles.",
       "runtime": 104,
       "times": [
-        {
-          "starts_at": "2024-07-08T16:20:00+01:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-50009/"
-        },
         {
           "starts_at": "2024-07-08T18:50:00+01:00",
           "site": "Curzon Aldgate",
@@ -144,11 +111,6 @@
           "starts_at": "2024-07-08T21:20:00+01:00",
           "site": "Curzon Aldgate",
           "url": "https://www.curzon.com/ticketing/seats/ALD1-50014/"
-        },
-        {
-          "starts_at": "2024-07-08T16:00:00+01:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-45499/"
         },
         {
           "starts_at": "2024-07-08T18:00:00+01:00",
@@ -176,19 +138,9 @@
           "url": "https://www.curzon.com/ticketing/seats/VIC1-74126/"
         },
         {
-          "starts_at": "2024-07-08T16:00:00+01:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-17149/"
-        },
-        {
           "starts_at": "2024-07-08T21:00:00+01:00",
           "site": "Curzon Hoxton",
           "url": "https://www.curzon.com/ticketing/seats/HOX1-17151/"
-        },
-        {
-          "starts_at": "2024-07-08T16:00:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-25788/"
         },
         {
           "starts_at": "2024-07-08T18:50:00+01:00",
@@ -203,98 +155,43 @@
       ]
     },
     {
-      "title": "Kinds of Kindness",
-      "trailer": "https://www.youtube.com/watch?v=S4vnapDN_pk",
-      "synopsis": "KINDS OF KINDNESS is a triptych fable, following a man without choice who tries to take control of his own life; a policeman who is alarmed that his wife who was missing-at-sea has returned and seems a different person; and a woman determined to find a specific someone with a special ability, who is destined to become a prodigious spiritual leader.",
-      "runtime": 164,
+      "title": "Kill",
+      "trailer": "https://www.youtube.com/watch?v=5SUY3t20NvI",
+      "synopsis": "When army commando Amrit (Lakshya) finds out his true love Tulika (Tanya Maniktala) is engaged against her will, he boards a New Delhi-bound train in a daring quest to derail the arranged marriage. But when a gang of knife-wielding thieves led by the ruthless Fani (Raghav Juyal) begin to terrorise innocent passengers on his train, Amrit takes them on himself in a death-defying kill-spree to save those around him — turning what should have been a typical commute into an adrenaline-fuelled thrill ride.",
+      "runtime": 105,
       "times": [
         {
-          "starts_at": "2024-07-08T17:30:00+01:00",
+          "starts_at": "2024-07-08T20:45:00+01:00",
           "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-50008/"
-        },
-        {
-          "starts_at": "2024-07-08T14:20:00+01:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-45510/"
-        },
-        {
-          "starts_at": "2024-07-08T15:30:00+01:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-45496/"
-        },
-        {
-          "starts_at": "2024-07-08T19:00:00+01:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-45497/"
-        },
-        {
-          "starts_at": "2024-07-08T20:30:00+01:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-45502/"
-        },
-        {
-          "starts_at": "2024-07-08T13:30:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-74123/"
-        },
-        {
-          "starts_at": "2024-07-08T20:00:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-74130/"
-        },
-        {
-          "starts_at": "2024-07-08T14:40:00+01:00",
-          "site": "Curzon Mayfair",
-          "url": "https://www.curzon.com/ticketing/seats/MAY1-27264/"
-        },
-        {
-          "starts_at": "2024-07-08T20:20:00+01:00",
-          "site": "Curzon Mayfair",
-          "url": "https://www.curzon.com/ticketing/seats/MAY1-27263/"
-        },
-        {
-          "starts_at": "2024-07-08T20:10:00+01:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-17150/"
-        },
-        {
-          "starts_at": "2024-07-08T15:00:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-25795/"
-        },
-        {
-          "starts_at": "2024-07-08T20:00:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-25797/"
-        },
-        {
-          "starts_at": "2024-07-08T16:30:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-91542/"
-        },
-        {
-          "starts_at": "2024-07-08T20:00:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-91538/"
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-50072/"
         }
       ]
     },
     {
-      "title": "Dune: Part Two",
-      "trailer": "https://www.youtube.com/watch?v=CHDU-B5K_Xw",
-      "synopsis": "Paul Atreides unites with Chani and the Fremen while on a warpath of revenge against the conspirators who destroyed his family. Facing a choice between the love of his life and the fate of the known universe, he endeavors to prevent a terrible future only he can foresee.",
-      "runtime": 167,
+      "title": "A Quiet Place: Day One",
+      "trailer": "https://www.youtube.com/watch?v=MLkdY8SQ2Es",
+      "synopsis": "Experience the day the world went quiet.",
+      "runtime": 99,
       "times": [
         {
-          "starts_at": "2024-07-08T15:00:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-74121/"
+          "starts_at": "2024-07-08T21:00:00+01:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-50015/"
         },
         {
-          "starts_at": "2024-07-08T20:20:00+01:00",
+          "starts_at": "2024-07-08T18:45:00+01:00",
           "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-74129/"
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-74132/"
+        },
+        {
+          "starts_at": "2024-07-08T21:15:00+01:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-74127/"
+        },
+        {
+          "starts_at": "2024-07-08T18:10:00+01:00",
+          "site": "Curzon Hoxton",
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-17154/"
         }
       ]
     },
@@ -312,30 +209,15 @@
       ]
     },
     {
-      "title": "The Bikeriders",
-      "trailer": "https://www.youtube.com/watch?v=NReRMZfKTOQ",
-      "synopsis": "The Bikeriders, starring Austin Butler, Jodie Comer, Tom Hardy and Norman Reedus, follows the rise of a midwestern motorcycle club, the Vandals. Seen through the lives of its members, the club evolves over the course of a decade from a gathering place for local outsiders into a more sinister gang, threatening the original group’s unique way of life.",
-      "runtime": 116,
+      "title": "Dune: Part Two",
+      "trailer": "https://www.youtube.com/watch?v=CHDU-B5K_Xw",
+      "synopsis": "Paul Atreides unites with Chani and the Fremen while on a warpath of revenge against the conspirators who destroyed his family. Facing a choice between the love of his life and the fate of the known universe, he endeavors to prevent a terrible future only he can foresee.",
+      "runtime": 167,
       "times": [
         {
-          "starts_at": "2024-07-08T15:00:00+01:00",
-          "site": "Curzon Mayfair",
-          "url": "https://www.curzon.com/ticketing/seats/MAY1-27259/"
-        },
-        {
-          "starts_at": "2024-07-08T21:00:00+01:00",
-          "site": "Curzon Mayfair",
-          "url": "https://www.curzon.com/ticketing/seats/MAY1-27260/"
-        },
-        {
-          "starts_at": "2024-07-08T15:00:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-91545/"
-        },
-        {
-          "starts_at": "2024-07-08T21:00:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-91546/"
+          "starts_at": "2024-07-08T20:20:00+01:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-74129/"
         }
       ]
     },
@@ -349,11 +231,6 @@
           "starts_at": "2024-07-08T17:40:00+01:00",
           "site": "Curzon Mayfair",
           "url": "https://www.curzon.com/ticketing/seats/MAY1-27265/"
-        },
-        {
-          "starts_at": "2024-07-08T15:15:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-25785/"
         },
         {
           "starts_at": "2024-07-08T20:45:00+01:00",
@@ -381,25 +258,33 @@
       ]
     },
     {
+      "title": "The Bikeriders",
+      "trailer": "https://www.youtube.com/watch?v=NReRMZfKTOQ",
+      "synopsis": "The Bikeriders, starring Austin Butler, Jodie Comer, Tom Hardy and Norman Reedus, follows the rise of a midwestern motorcycle club, the Vandals. Seen through the lives of its members, the club evolves over the course of a decade from a gathering place for local outsiders into a more sinister gang, threatening the original group’s unique way of life.",
+      "runtime": 116,
+      "times": [
+        {
+          "starts_at": "2024-07-08T21:00:00+01:00",
+          "site": "Curzon Mayfair",
+          "url": "https://www.curzon.com/ticketing/seats/MAY1-27260/"
+        },
+        {
+          "starts_at": "2024-07-08T21:00:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-91546/"
+        }
+      ]
+    },
+    {
       "title": "Orlando, My Political Biography",
       "trailer": "https://www.youtube.com/watch?v=p8R52w9Gk0c",
       "synopsis": "Virginia Woolf’s “Orlando” tells the story of a young man who grows up to become a 36-year-old woman. Almost a century after its publication, Paul B. Preciado speaks to Virginia Woolf to tell her that her fictional character has become a reality. The transition of Orlando’s body now lies at the root of all non-binary bodies and there are Orlandos all over the world. Through the authentic voices of other young bodies undergoing metamorphosis, Preciado retraces the stages of his personal transformation through a poetic journey in which life, writing, theory and image merge freely in the search for truth. Every Orlando, he says, is a transgender person who is risking his, her or their life on a daily basis as they find themselves forced to confront government laws, history and psychiatry, as well as traditional notions of the family and the power of multinational pharmaceutical companies.",
       "runtime": 99,
       "times": [
         {
-          "starts_at": "2024-07-08T15:15:00+01:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-17153/"
-        },
-        {
           "starts_at": "2024-07-08T20:40:00+01:00",
           "site": "Curzon Hoxton",
           "url": "https://www.curzon.com/ticketing/seats/HOX1-17155/"
-        },
-        {
-          "starts_at": "2024-07-08T15:30:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-25802/"
         },
         {
           "starts_at": "2024-07-08T21:00:00+01:00",
@@ -433,27 +318,9 @@
           "url": "https://www.curzon.com/ticketing/seats/CAM1-25792/"
         },
         {
-          "starts_at": "2024-07-08T15:20:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-91544/"
-        },
-        {
           "starts_at": "2024-07-08T20:30:00+01:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-91549/"
-        }
-      ]
-    },
-    {
-      "title": "DocHouse: The Mother Of All Lies",
-      "trailer": null,
-      "synopsis": "In her extraordinary debut feature, Moroccan filmmaker Asmae El Moudir creates a handmade replica of the Casablanca neighbourhood where she grew up, to help her explore the many mysteries of her family's past. There, in exquisite re-enactments, she starts to unravel the layers of deception and intentional forgetting that have shaped her life.\r\n\r\nQuestioning why there are so few photographs of her as a child and reaching back to the Casablanca Bread Riots of 1981, El Moudir brings together her family and neighbours to address the unspeakable, in a riveting and cathartic act of filmmaking and recovery.\r\n",
-      "runtime": 97,
-      "times": [
-        {
-          "starts_at": "2024-07-08T14:20:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-91592/"
         }
       ]
     },
@@ -464,45 +331,9 @@
       "runtime": 131,
       "times": [
         {
-          "starts_at": "2024-07-08T14:50:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-91532/"
-        },
-        {
           "starts_at": "2024-07-08T17:50:00+01:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-91541/"
-        }
-      ]
-    },
-    {
-      "title": "Rose",
-      "trailer": "https://www.youtube.com/watch?v=Fn9Q5rhMmJk",
-      "synopsis": "Set over the course of one week, ROSE is the story of two sisters, Inger and Ellen, and how their relationship is challenged on a highly anticipated coach trip to Paris. When Inger announces her struggles with mental health to the group, the sisters are faced with pity from some and downright discrimination from others. On arrival in Paris, it soon becomes clear that Inger has a hidden agenda concerning a figure from her past, ultimately involving the entire group in her hunt for answers.",
-      "runtime": 105,
-      "times": [
-        {
-          "starts_at": "2024-07-08T16:00:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-91543/"
-        },
-        {
-          "starts_at": "2024-07-08T20:40:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-91548/"
-        }
-      ]
-    },
-    {
-      "title": "DocHouse: Orlando: My Political Biography",
-      "trailer": null,
-      "synopsis": "Virginia Woolf’s Orlando tells the story of a young man who grows up to become a 36-year-old woman. Almost a century after its publication, Paul B. Preciado speaks to Virginia Woolf to tell her that her fictional character has become a reality. The transition of Orlando’s body now lies at the root of all non-binary bodies and there are Orlandos all over the world. Through the authentic voices of other young bodies undergoing metamorphosis, Preciado retraces the stages of his personal transformation through a poetic journey in which life, writing, theory and image merge freely in the search for truth. Every Orlando, he says, is a transgender person who is risking his, her or their life on a daily basis as they find themselves forced to confront government laws, history and psychiatry, as well as traditional notions of the family and the power of multinational pharmaceutical companies.",
-      "runtime": 98,
-      "times": [
-        {
-          "starts_at": "2024-07-08T16:20:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-91593/"
         }
       ]
     },
@@ -547,6 +378,19 @@
           "starts_at": "2024-07-08T20:10:00+01:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-91595/"
+        }
+      ]
+    },
+    {
+      "title": "Rose",
+      "trailer": "https://www.youtube.com/watch?v=Fn9Q5rhMmJk",
+      "synopsis": "Set over the course of one week, ROSE is the story of two sisters, Inger and Ellen, and how their relationship is challenged on a highly anticipated coach trip to Paris. When Inger announces her struggles with mental health to the group, the sisters are faced with pity from some and downright discrimination from others. On arrival in Paris, it soon becomes clear that Inger has a hidden agenda concerning a figure from her past, ultimately involving the entire group in her hunt for answers.",
+      "runtime": 105,
+      "times": [
+        {
+          "starts_at": "2024-07-08T20:40:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-91548/"
         }
       ]
     }
@@ -2625,9 +2469,24 @@
           "url": "https://www.curzon.com/ticketing/seats/CAM1-25500/"
         },
         {
+          "starts_at": "2024-07-12T12:20:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-91630/"
+        },
+        {
+          "starts_at": "2024-07-12T15:10:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-91280/"
+        },
+        {
           "starts_at": "2024-07-12T18:00:00+01:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-91283/"
+        },
+        {
+          "starts_at": "2024-07-12T21:00:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-91278/"
         }
       ]
     },
@@ -2698,6 +2557,139 @@
       ]
     },
     {
+      "title": "Kinds of Kindness",
+      "trailer": "https://www.youtube.com/watch?v=S4vnapDN_pk",
+      "synopsis": "KINDS OF KINDNESS is a triptych fable, following a man without choice who tries to take control of his own life; a policeman who is alarmed that his wife who was missing-at-sea has returned and seems a different person; and a woman determined to find a specific someone with a special ability, who is destined to become a prodigious spiritual leader.",
+      "runtime": 164,
+      "times": [
+        {
+          "starts_at": "2024-07-12T11:50:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-91281/"
+        },
+        {
+          "starts_at": "2024-07-12T14:40:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-91629/"
+        },
+        {
+          "starts_at": "2024-07-12T17:30:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-91279/"
+        },
+        {
+          "starts_at": "2024-07-12T20:10:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-91282/"
+        }
+      ]
+    },
+    {
+      "title": "The Nature of Love",
+      "trailer": null,
+      "synopsis": "Sophia's life is turned upside down when she meets Sylvain. She comes from a wealthy family, while Sylvain comes from a family of manual workers. Sophia questions her own values after abandoned herself to her great romantic impulses.",
+      "runtime": 112,
+      "times": [
+        {
+          "starts_at": "2024-07-12T12:00:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-91640/"
+        },
+        {
+          "starts_at": "2024-07-12T17:40:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-91637/"
+        }
+      ]
+    },
+    {
+      "title": "La Chimera",
+      "trailer": "https://www.youtube.com/watch?v=k0oGUwzxefk",
+      "synopsis": "Set in the 1980s, in the former Etruscian landscape of rural Italy, Arthur, a vagabond-type character, is mourning the loss of his love. A local ragtag group of graverobbers make use of his archaeological skills to find ancient tombs filled with artefacts, but Arthur uses the digs to search for a door to the afterlife, of which myths speak, where he imagines reuniting with her.",
+      "runtime": 131,
+      "times": [
+        {
+          "starts_at": "2024-07-12T12:10:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-91634/"
+        },
+        {
+          "starts_at": "2024-07-12T15:00:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-91633/"
+        },
+        {
+          "starts_at": "2024-07-12T17:50:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-91632/"
+        },
+        {
+          "starts_at": "2024-07-12T20:40:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-91631/"
+        }
+      ]
+    },
+    {
+      "title": "Perfect Days",
+      "trailer": null,
+      "synopsis": "A highly anticipated return to fiction feature filmmaking from Wim Wenders (Paris, Texas, Wings of Desire), PERFECT DAYS takes the writer-director to Tokyo to tell a story celebrating the hidden joys and minutiae of Japanese culture. Winner of the Best Actor award at Cannes 2023, Koji Yakusho (Babel, 13 Assassins) stars as Hirayama, a contemplative middle-aged man who lives a life of modesty and serenity, spending his days balancing his job as a dutiful caretaker of Tokyo’s numerous public toilets with his passion for music, literature and photography. As we join him on his structured daily routine, a series of unexpected encounters gradually begin to reveal a hidden past that lies behind his otherwise content and harmonious life. \n\nCombining a refreshingly unstereotypical depiction of the Japanese capital with a soundtrack comprised of iconic hits from the 60s and 80s, this is a subtle, shimmering and ultimately life-affirming reflection on finding beauty in the everyday world around us. Japan’s entry for Best International Film at the 2024 Academy Awards.\n",
+      "runtime": 125,
+      "times": [
+        {
+          "starts_at": "2024-07-12T12:40:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-91642/"
+        },
+        {
+          "starts_at": "2024-07-12T14:50:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-91641/"
+        },
+        {
+          "starts_at": "2024-07-12T20:20:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-91639/"
+        }
+      ]
+    },
+    {
+      "title": "DocHouse: The Mother Of All Lies",
+      "trailer": null,
+      "synopsis": "In her extraordinary debut feature, Moroccan filmmaker Asmae El Moudir creates a handmade replica of the Casablanca neighbourhood where she grew up, to help her explore the many mysteries of her family's past. There, in exquisite re-enactments, she starts to unravel the layers of deception and intentional forgetting that have shaped her life.\r\n\r\nQuestioning why there are so few photographs of her as a child and reaching back to the Casablanca Bread Riots of 1981, El Moudir brings together her family and neighbours to address the unspeakable, in a riveting and cathartic act of filmmaking and recovery.\r\n",
+      "runtime": 97,
+      "times": [
+        {
+          "starts_at": "2024-07-12T15:20:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-91755/"
+        }
+      ]
+    },
+    {
+      "title": "The Bikeriders",
+      "trailer": "https://www.youtube.com/watch?v=NReRMZfKTOQ",
+      "synopsis": "The Bikeriders, starring Austin Butler, Jodie Comer, Tom Hardy and Norman Reedus, follows the rise of a midwestern motorcycle club, the Vandals. Seen through the lives of its members, the club evolves over the course of a decade from a gathering place for local outsiders into a more sinister gang, threatening the original group’s unique way of life.",
+      "runtime": 116,
+      "times": [
+        {
+          "starts_at": "2024-07-12T15:30:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-91638/"
+        },
+        {
+          "starts_at": "2024-07-12T18:10:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-91636/"
+        },
+        {
+          "starts_at": "2024-07-12T20:50:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-91635/"
+        }
+      ]
+    },
+    {
       "title": "DocHouse: Agent Of Happiness",
       "trailer": null,
       "synopsis": "How can you measure happiness? The country of Bhutan invented Gross National Happiness to do just that, and Amber is one of the agents who travels door to door to meet people and measure how happy they really are. He is still living with his elderly mother at the age of 40, but is nevertheless a hopeless romantic who dreams of finding love: a happiness agent who is in search of his own happiness.\r\n\r\nAgent of Happiness takes us on a cross-country road trip meeting citizens from all walks of life, reminding us of the fragility and beauty of our own happiness. No matter where we live.",
@@ -2740,6 +2732,26 @@
           "starts_at": "2024-07-13T21:15:00+01:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-25504/"
+        },
+        {
+          "starts_at": "2024-07-13T12:20:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-91745/"
+        },
+        {
+          "starts_at": "2024-07-13T15:10:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-91738/"
+        },
+        {
+          "starts_at": "2024-07-13T18:10:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-91284/"
+        },
+        {
+          "starts_at": "2024-07-13T21:00:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-91737/"
         }
       ]
     },
@@ -2836,6 +2848,147 @@
       ]
     },
     {
+      "title": "Kinds of Kindness",
+      "trailer": "https://www.youtube.com/watch?v=S4vnapDN_pk",
+      "synopsis": "KINDS OF KINDNESS is a triptych fable, following a man without choice who tries to take control of his own life; a policeman who is alarmed that his wife who was missing-at-sea has returned and seems a different person; and a woman determined to find a specific someone with a special ability, who is destined to become a prodigious spiritual leader.",
+      "runtime": 164,
+      "times": [
+        {
+          "starts_at": "2024-07-13T11:50:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-91739/"
+        },
+        {
+          "starts_at": "2024-07-13T14:40:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-91746/"
+        },
+        {
+          "starts_at": "2024-07-13T17:30:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-91736/"
+        },
+        {
+          "starts_at": "2024-07-13T20:10:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-91753/"
+        }
+      ]
+    },
+    {
+      "title": "The Nature of Love",
+      "trailer": null,
+      "synopsis": "Sophia's life is turned upside down when she meets Sylvain. She comes from a wealthy family, while Sylvain comes from a family of manual workers. Sophia questions her own values after abandoned herself to her great romantic impulses.",
+      "runtime": 112,
+      "times": [
+        {
+          "starts_at": "2024-07-13T12:00:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-91749/"
+        }
+      ]
+    },
+    {
+      "title": "La Chimera",
+      "trailer": "https://www.youtube.com/watch?v=k0oGUwzxefk",
+      "synopsis": "Set in the 1980s, in the former Etruscian landscape of rural Italy, Arthur, a vagabond-type character, is mourning the loss of his love. A local ragtag group of graverobbers make use of his archaeological skills to find ancient tombs filled with artefacts, but Arthur uses the digs to search for a door to the afterlife, of which myths speak, where he imagines reuniting with her.",
+      "runtime": 131,
+      "times": [
+        {
+          "starts_at": "2024-07-13T12:10:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-91741/"
+        },
+        {
+          "starts_at": "2024-07-13T15:00:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-91742/"
+        },
+        {
+          "starts_at": "2024-07-13T17:50:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-91743/"
+        },
+        {
+          "starts_at": "2024-07-13T20:40:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-91744/"
+        }
+      ]
+    },
+    {
+      "title": "Perfect Days",
+      "trailer": null,
+      "synopsis": "A highly anticipated return to fiction feature filmmaking from Wim Wenders (Paris, Texas, Wings of Desire), PERFECT DAYS takes the writer-director to Tokyo to tell a story celebrating the hidden joys and minutiae of Japanese culture. Winner of the Best Actor award at Cannes 2023, Koji Yakusho (Babel, 13 Assassins) stars as Hirayama, a contemplative middle-aged man who lives a life of modesty and serenity, spending his days balancing his job as a dutiful caretaker of Tokyo’s numerous public toilets with his passion for music, literature and photography. As we join him on his structured daily routine, a series of unexpected encounters gradually begin to reveal a hidden past that lies behind his otherwise content and harmonious life. \n\nCombining a refreshingly unstereotypical depiction of the Japanese capital with a soundtrack comprised of iconic hits from the 60s and 80s, this is a subtle, shimmering and ultimately life-affirming reflection on finding beauty in the everyday world around us. Japan’s entry for Best International Film at the 2024 Academy Awards.\n",
+      "runtime": 125,
+      "times": [
+        {
+          "starts_at": "2024-07-13T12:40:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-91747/"
+        },
+        {
+          "starts_at": "2024-07-13T14:30:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-91748/"
+        },
+        {
+          "starts_at": "2024-07-13T17:20:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-91750/"
+        }
+      ]
+    },
+    {
+      "title": "DocHouse: The Mother Of All Lies",
+      "trailer": null,
+      "synopsis": "In her extraordinary debut feature, Moroccan filmmaker Asmae El Moudir creates a handmade replica of the Casablanca neighbourhood where she grew up, to help her explore the many mysteries of her family's past. There, in exquisite re-enactments, she starts to unravel the layers of deception and intentional forgetting that have shaped her life.\r\n\r\nQuestioning why there are so few photographs of her as a child and reaching back to the Casablanca Bread Riots of 1981, El Moudir brings together her family and neighbours to address the unspeakable, in a riveting and cathartic act of filmmaking and recovery.\r\n",
+      "runtime": 97,
+      "times": [
+        {
+          "starts_at": "2024-07-13T14:20:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-91756/"
+        }
+      ]
+    },
+    {
+      "title": "The Bikeriders",
+      "trailer": "https://www.youtube.com/watch?v=NReRMZfKTOQ",
+      "synopsis": "The Bikeriders, starring Austin Butler, Jodie Comer, Tom Hardy and Norman Reedus, follows the rise of a midwestern motorcycle club, the Vandals. Seen through the lives of its members, the club evolves over the course of a decade from a gathering place for local outsiders into a more sinister gang, threatening the original group’s unique way of life.",
+      "runtime": 116,
+      "times": [
+        {
+          "starts_at": "2024-07-13T15:20:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-91751/"
+        },
+        {
+          "starts_at": "2024-07-13T18:00:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-91752/"
+        },
+        {
+          "starts_at": "2024-07-13T20:50:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-91740/"
+        }
+      ]
+    },
+    {
+      "title": "DocHouse: Bye Bye Tiberias",
+      "trailer": null,
+      "synopsis": "In her early twenties, Hiam Abbass left her native Palestinian village to follow her dream of becoming an actress in Europe, leaving behind her mother, grandmother, and seven sisters.\r\n\r\nThirty years later, her filmmaker daughter Lina returns with her to the village and questions for the first time her mother’s bold choices, her chosen exile and the way the women in their family influenced both their lives. Set between past and present, Bye Bye Tiberias pieces together images of today, family footage from the nineties and historical archives to portray four generations of daring Palestinian women who keep their story and legacy alive through the strength of their bonds, despite exile, dispossession, and heartbreak. ",
+      "runtime": 82,
+      "times": [
+        {
+          "starts_at": "2024-07-13T16:30:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-91757/"
+        }
+      ]
+    },
+    {
       "title": "DocHouse: The Commandant’s Shadow",
       "trailer": "https://www.youtube.com/watch?v=vRHB2ORPDbc",
       "synopsis": "The true story that inspired the Oscar-winning “The Zone of Interest,” “The Commandant’s Shadow” tells how, eight decades after Auschwitz, Hans Jurgen Höss and Anita Lasker Wallfisch – both survivors in their very different ways – come face to face, together with their children, to explore how the Holocaust has impacted all their lives. It’s a historic moment, the first time the descendant of a major war criminal meets a survivor in such a private and intimate setting. Told through firsthand testimony, letters, personal and historical archive footage, this feature-length documentary is about a mother and daughter, a father and son, and the shadow cast down the generations. Raising questions about love, guilt and forgiveness, it is also a story of hope, acceptance and compassion.",
@@ -2893,9 +3046,24 @@
           "url": "https://www.curzon.com/ticketing/seats/CAM1-25505/"
         },
         {
+          "starts_at": "2024-07-14T11:50:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-91650/"
+        },
+        {
+          "starts_at": "2024-07-14T14:40:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-91646/"
+        },
+        {
           "starts_at": "2024-07-14T17:30:00+01:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-91285/"
+        },
+        {
+          "starts_at": "2024-07-14T20:30:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-91643/"
         }
       ]
     },
@@ -2961,6 +3129,103 @@
       ]
     },
     {
+      "title": "Kinds of Kindness",
+      "trailer": "https://www.youtube.com/watch?v=S4vnapDN_pk",
+      "synopsis": "KINDS OF KINDNESS is a triptych fable, following a man without choice who tries to take control of his own life; a policeman who is alarmed that his wife who was missing-at-sea has returned and seems a different person; and a woman determined to find a specific someone with a special ability, who is destined to become a prodigious spiritual leader.",
+      "runtime": 164,
+      "times": [
+        {
+          "starts_at": "2024-07-14T11:20:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-91647/"
+        },
+        {
+          "starts_at": "2024-07-14T14:10:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-91651/"
+        },
+        {
+          "starts_at": "2024-07-14T17:00:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-91645/"
+        },
+        {
+          "starts_at": "2024-07-14T19:40:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-91644/"
+        }
+      ]
+    },
+    {
+      "title": "The Nature of Love",
+      "trailer": null,
+      "synopsis": "Sophia's life is turned upside down when she meets Sylvain. She comes from a wealthy family, while Sylvain comes from a family of manual workers. Sophia questions her own values after abandoned herself to her great romantic impulses.",
+      "runtime": 112,
+      "times": [
+        {
+          "starts_at": "2024-07-14T11:30:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-91654/"
+        },
+        {
+          "starts_at": "2024-07-14T17:10:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-91657/"
+        }
+      ]
+    },
+    {
+      "title": "La Chimera",
+      "trailer": "https://www.youtube.com/watch?v=k0oGUwzxefk",
+      "synopsis": "Set in the 1980s, in the former Etruscian landscape of rural Italy, Arthur, a vagabond-type character, is mourning the loss of his love. A local ragtag group of graverobbers make use of his archaeological skills to find ancient tombs filled with artefacts, but Arthur uses the digs to search for a door to the afterlife, of which myths speak, where he imagines reuniting with her.",
+      "runtime": 131,
+      "times": [
+        {
+          "starts_at": "2024-07-14T11:40:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-91660/"
+        },
+        {
+          "starts_at": "2024-07-14T14:30:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-91661/"
+        },
+        {
+          "starts_at": "2024-07-14T17:20:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-91648/"
+        },
+        {
+          "starts_at": "2024-07-14T20:10:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-91649/"
+        }
+      ]
+    },
+    {
+      "title": "Perfect Days",
+      "trailer": null,
+      "synopsis": "A highly anticipated return to fiction feature filmmaking from Wim Wenders (Paris, Texas, Wings of Desire), PERFECT DAYS takes the writer-director to Tokyo to tell a story celebrating the hidden joys and minutiae of Japanese culture. Winner of the Best Actor award at Cannes 2023, Koji Yakusho (Babel, 13 Assassins) stars as Hirayama, a contemplative middle-aged man who lives a life of modesty and serenity, spending his days balancing his job as a dutiful caretaker of Tokyo’s numerous public toilets with his passion for music, literature and photography. As we join him on his structured daily routine, a series of unexpected encounters gradually begin to reveal a hidden past that lies behind his otherwise content and harmonious life. \n\nCombining a refreshingly unstereotypical depiction of the Japanese capital with a soundtrack comprised of iconic hits from the 60s and 80s, this is a subtle, shimmering and ultimately life-affirming reflection on finding beauty in the everyday world around us. Japan’s entry for Best International Film at the 2024 Academy Awards.\n",
+      "runtime": 125,
+      "times": [
+        {
+          "starts_at": "2024-07-14T12:10:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-91652/"
+        },
+        {
+          "starts_at": "2024-07-14T14:20:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-91653/"
+        },
+        {
+          "starts_at": "2024-07-14T19:50:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-91655/"
+        }
+      ]
+    },
+    {
       "title": "DocHouse: The Commandant’s Shadow",
       "trailer": "https://www.youtube.com/watch?v=vRHB2ORPDbc",
       "synopsis": "The true story that inspired the Oscar-winning “The Zone of Interest,” “The Commandant’s Shadow” tells how, eight decades after Auschwitz, Hans Jurgen Höss and Anita Lasker Wallfisch – both survivors in their very different ways – come face to face, together with their children, to explore how the Holocaust has impacted all their lives. It’s a historic moment, the first time the descendant of a major war criminal meets a survivor in such a private and intimate setting. Told through firsthand testimony, letters, personal and historical archive footage, this feature-length documentary is about a mother and daughter, a father and son, and the shadow cast down the generations. Raising questions about love, guilt and forgiveness, it is also a story of hope, acceptance and compassion.",
@@ -2970,6 +3235,68 @@
           "starts_at": "2024-07-14T14:00:00+01:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-91447/"
+        }
+      ]
+    },
+    {
+      "title": "The Bikeriders",
+      "trailer": "https://www.youtube.com/watch?v=NReRMZfKTOQ",
+      "synopsis": "The Bikeriders, starring Austin Butler, Jodie Comer, Tom Hardy and Norman Reedus, follows the rise of a midwestern motorcycle club, the Vandals. Seen through the lives of its members, the club evolves over the course of a decade from a gathering place for local outsiders into a more sinister gang, threatening the original group’s unique way of life.",
+      "runtime": 116,
+      "times": [
+        {
+          "starts_at": "2024-07-14T15:00:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-91656/"
+        },
+        {
+          "starts_at": "2024-07-14T17:40:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-91658/"
+        },
+        {
+          "starts_at": "2024-07-14T20:20:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-91659/"
+        }
+      ]
+    },
+    {
+      "title": "DocHouse: Agent Of Happiness",
+      "trailer": null,
+      "synopsis": "How can you measure happiness? The country of Bhutan invented Gross National Happiness to do just that, and Amber is one of the agents who travels door to door to meet people and measure how happy they really are. He is still living with his elderly mother at the age of 40, but is nevertheless a hopeless romantic who dreams of finding love: a happiness agent who is in search of his own happiness.\r\n\r\nAgent of Happiness takes us on a cross-country road trip meeting citizens from all walks of life, reminding us of the fragility and beauty of our own happiness. No matter where we live.",
+      "runtime": 94,
+      "times": [
+        {
+          "starts_at": "2024-07-14T16:00:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-91758/"
+        }
+      ]
+    },
+    {
+      "title": "DocHouse: Bye Bye Tiberias",
+      "trailer": null,
+      "synopsis": "In her early twenties, Hiam Abbass left her native Palestinian village to follow her dream of becoming an actress in Europe, leaving behind her mother, grandmother, and seven sisters.\r\n\r\nThirty years later, her filmmaker daughter Lina returns with her to the village and questions for the first time her mother’s bold choices, her chosen exile and the way the women in their family influenced both their lives. Set between past and present, Bye Bye Tiberias pieces together images of today, family footage from the nineties and historical archives to portray four generations of daring Palestinian women who keep their story and legacy alive through the strength of their bonds, despite exile, dispossession, and heartbreak. ",
+      "runtime": 82,
+      "times": [
+        {
+          "starts_at": "2024-07-14T18:00:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-91759/"
+        }
+      ]
+    },
+    {
+      "title": "DocHouse: Wilding",
+      "trailer": null,
+      "synopsis": "Based on Isabella Tree’s best-selling book by the same title, Wilding tells the story of a young couple that bets on nature for the future of their failing, four-hundred-year-old estate.\r\n\r\nThe young couple battles entrenched tradition, and dares to place the fate of their farm in the hands of nature. Ripping down the fences, they set the land back to the wild and entrust its recovery to a motley mix of animals both tame and wild.\r\n\r\nIt is the beginning of a grand experiment that will become one of the most significant rewilding experiments in Europe.",
+      "runtime": 75,
+      "times": [
+        {
+          "starts_at": "2024-07-14T20:00:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-91760/"
         }
       ]
     }
@@ -3048,9 +3375,183 @@
           "url": "https://www.curzon.com/ticketing/seats/CAM1-25506/"
         },
         {
+          "starts_at": "2024-07-15T12:20:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-91663/"
+        },
+        {
+          "starts_at": "2024-07-15T15:10:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-91667/"
+        },
+        {
           "starts_at": "2024-07-15T18:00:00+01:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-91286/"
+        },
+        {
+          "starts_at": "2024-07-15T21:00:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-91670/"
+        }
+      ]
+    },
+    {
+      "title": "Kinds of Kindness",
+      "trailer": "https://www.youtube.com/watch?v=S4vnapDN_pk",
+      "synopsis": "KINDS OF KINDNESS is a triptych fable, following a man without choice who tries to take control of his own life; a policeman who is alarmed that his wife who was missing-at-sea has returned and seems a different person; and a woman determined to find a specific someone with a special ability, who is destined to become a prodigious spiritual leader.",
+      "runtime": 164,
+      "times": [
+        {
+          "starts_at": "2024-07-15T11:50:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-91666/"
+        },
+        {
+          "starts_at": "2024-07-15T14:40:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-91662/"
+        },
+        {
+          "starts_at": "2024-07-15T17:30:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-91668/"
+        },
+        {
+          "starts_at": "2024-07-15T20:10:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-91669/"
+        }
+      ]
+    },
+    {
+      "title": "The Nature of Love",
+      "trailer": null,
+      "synopsis": "Sophia's life is turned upside down when she meets Sylvain. She comes from a wealthy family, while Sylvain comes from a family of manual workers. Sophia questions her own values after abandoned herself to her great romantic impulses.",
+      "runtime": 112,
+      "times": [
+        {
+          "starts_at": "2024-07-15T12:00:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-91678/"
+        },
+        {
+          "starts_at": "2024-07-15T17:40:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-91675/"
+        }
+      ]
+    },
+    {
+      "title": "La Chimera",
+      "trailer": "https://www.youtube.com/watch?v=k0oGUwzxefk",
+      "synopsis": "Set in the 1980s, in the former Etruscian landscape of rural Italy, Arthur, a vagabond-type character, is mourning the loss of his love. A local ragtag group of graverobbers make use of his archaeological skills to find ancient tombs filled with artefacts, but Arthur uses the digs to search for a door to the afterlife, of which myths speak, where he imagines reuniting with her.",
+      "runtime": 131,
+      "times": [
+        {
+          "starts_at": "2024-07-15T12:10:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-91672/"
+        },
+        {
+          "starts_at": "2024-07-15T15:00:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-91671/"
+        },
+        {
+          "starts_at": "2024-07-15T17:50:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-91665/"
+        },
+        {
+          "starts_at": "2024-07-15T20:40:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-91664/"
+        }
+      ]
+    },
+    {
+      "title": "Perfect Days",
+      "trailer": null,
+      "synopsis": "A highly anticipated return to fiction feature filmmaking from Wim Wenders (Paris, Texas, Wings of Desire), PERFECT DAYS takes the writer-director to Tokyo to tell a story celebrating the hidden joys and minutiae of Japanese culture. Winner of the Best Actor award at Cannes 2023, Koji Yakusho (Babel, 13 Assassins) stars as Hirayama, a contemplative middle-aged man who lives a life of modesty and serenity, spending his days balancing his job as a dutiful caretaker of Tokyo’s numerous public toilets with his passion for music, literature and photography. As we join him on his structured daily routine, a series of unexpected encounters gradually begin to reveal a hidden past that lies behind his otherwise content and harmonious life. \n\nCombining a refreshingly unstereotypical depiction of the Japanese capital with a soundtrack comprised of iconic hits from the 60s and 80s, this is a subtle, shimmering and ultimately life-affirming reflection on finding beauty in the everyday world around us. Japan’s entry for Best International Film at the 2024 Academy Awards.\n",
+      "runtime": 125,
+      "times": [
+        {
+          "starts_at": "2024-07-15T12:40:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-91680/"
+        },
+        {
+          "starts_at": "2024-07-15T14:50:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-91679/"
+        },
+        {
+          "starts_at": "2024-07-15T20:20:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-91677/"
+        }
+      ]
+    },
+    {
+      "title": "DocHouse: Agent Of Happiness",
+      "trailer": null,
+      "synopsis": "How can you measure happiness? The country of Bhutan invented Gross National Happiness to do just that, and Amber is one of the agents who travels door to door to meet people and measure how happy they really are. He is still living with his elderly mother at the age of 40, but is nevertheless a hopeless romantic who dreams of finding love: a happiness agent who is in search of his own happiness.\r\n\r\nAgent of Happiness takes us on a cross-country road trip meeting citizens from all walks of life, reminding us of the fragility and beauty of our own happiness. No matter where we live.",
+      "runtime": 94,
+      "times": [
+        {
+          "starts_at": "2024-07-15T15:20:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-91761/"
+        }
+      ]
+    },
+    {
+      "title": "The Bikeriders",
+      "trailer": "https://www.youtube.com/watch?v=NReRMZfKTOQ",
+      "synopsis": "The Bikeriders, starring Austin Butler, Jodie Comer, Tom Hardy and Norman Reedus, follows the rise of a midwestern motorcycle club, the Vandals. Seen through the lives of its members, the club evolves over the course of a decade from a gathering place for local outsiders into a more sinister gang, threatening the original group’s unique way of life.",
+      "runtime": 116,
+      "times": [
+        {
+          "starts_at": "2024-07-15T15:30:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-91676/"
+        },
+        {
+          "starts_at": "2024-07-15T18:10:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-91674/"
+        },
+        {
+          "starts_at": "2024-07-15T20:50:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-91673/"
+        }
+      ]
+    },
+    {
+      "title": "DocHouse: The Commandant’s Shadow",
+      "trailer": "https://www.youtube.com/watch?v=vRHB2ORPDbc",
+      "synopsis": "The true story that inspired the Oscar-winning “The Zone of Interest,” “The Commandant’s Shadow” tells how, eight decades after Auschwitz, Hans Jurgen Höss and Anita Lasker Wallfisch – both survivors in their very different ways – come face to face, together with their children, to explore how the Holocaust has impacted all their lives. It’s a historic moment, the first time the descendant of a major war criminal meets a survivor in such a private and intimate setting. Told through firsthand testimony, letters, personal and historical archive footage, this feature-length documentary is about a mother and daughter, a father and son, and the shadow cast down the generations. Raising questions about love, guilt and forgiveness, it is also a story of hope, acceptance and compassion.",
+      "runtime": 103,
+      "times": [
+        {
+          "starts_at": "2024-07-15T18:20:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-91762/"
+        }
+      ]
+    },
+    {
+      "title": "DocHouse: Bye Bye Tiberias",
+      "trailer": null,
+      "synopsis": "In her early twenties, Hiam Abbass left her native Palestinian village to follow her dream of becoming an actress in Europe, leaving behind her mother, grandmother, and seven sisters.\r\n\r\nThirty years later, her filmmaker daughter Lina returns with her to the village and questions for the first time her mother’s bold choices, her chosen exile and the way the women in their family influenced both their lives. Set between past and present, Bye Bye Tiberias pieces together images of today, family footage from the nineties and historical archives to portray four generations of daring Palestinian women who keep their story and legacy alive through the strength of their bonds, despite exile, dispossession, and heartbreak. ",
+      "runtime": 82,
+      "times": [
+        {
+          "starts_at": "2024-07-15T20:30:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-91763/"
         }
       ]
     }
