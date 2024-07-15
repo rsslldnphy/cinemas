@@ -7,11 +7,6 @@
       "runtime": 96,
       "times": [
         {
-          "starts_at": "2024-07-15T11:20:00+01:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-50172/"
-        },
-        {
           "starts_at": "2024-07-15T13:40:00+01:00",
           "site": "Curzon Aldgate",
           "url": "https://www.curzon.com/ticketing/seats/ALD1-50173/"
@@ -52,24 +47,9 @@
           "url": "https://www.curzon.com/ticketing/seats/VIC1-74254/"
         },
         {
-          "starts_at": "2024-07-15T11:15:00+01:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-17263/"
-        },
-        {
           "starts_at": "2024-07-15T17:40:00+01:00",
           "site": "Curzon Hoxton",
           "url": "https://www.curzon.com/ticketing/seats/HOX1-17260/"
-        },
-        {
-          "starts_at": "2024-07-15T11:30:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-25882/"
-        },
-        {
-          "starts_at": "2024-07-15T13:00:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-25887/"
         },
         {
           "starts_at": "2024-07-15T15:45:00+01:00",
@@ -89,109 +69,11 @@
       ]
     },
     {
-      "title": "Kinds of Kindness",
-      "trailer": "https://www.youtube.com/watch?v=S4vnapDN_pk",
-      "synopsis": "KINDS OF KINDNESS is a triptych fable, following a man without choice who tries to take control of his own life; a policeman who is alarmed that his wife who was missing-at-sea has returned and seems a different person; and a woman determined to find a specific someone with a special ability, who is destined to become a prodigious spiritual leader.",
-      "runtime": 164,
-      "times": [
-        {
-          "starts_at": "2024-07-15T11:40:00+01:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-50170/"
-        },
-        {
-          "starts_at": "2024-07-15T11:40:00+01:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-45569/"
-        },
-        {
-          "starts_at": "2024-07-15T14:40:00+01:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-45567/"
-        },
-        {
-          "starts_at": "2024-07-15T17:40:00+01:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-45572/"
-        },
-        {
-          "starts_at": "2024-07-15T20:20:00+01:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-45577/"
-        },
-        {
-          "starts_at": "2024-07-15T13:35:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-74251/"
-        },
-        {
-          "starts_at": "2024-07-15T20:00:00+01:00",
-          "site": "Curzon Mayfair",
-          "url": "https://www.curzon.com/ticketing/seats/MAY1-27347/"
-        },
-        {
-          "starts_at": "2024-07-15T11:30:00+01:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-17265/"
-        },
-        {
-          "starts_at": "2024-07-15T20:00:00+01:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-17269/"
-        },
-        {
-          "starts_at": "2024-07-15T12:00:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-25879/"
-        },
-        {
-          "starts_at": "2024-07-15T13:30:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-25881/"
-        },
-        {
-          "starts_at": "2024-07-15T17:40:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-25874/"
-        },
-        {
-          "starts_at": "2024-07-15T19:40:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-25872/"
-        },
-        {
-          "starts_at": "2024-07-15T11:50:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-91666/"
-        },
-        {
-          "starts_at": "2024-07-15T14:40:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-91662/"
-        },
-        {
-          "starts_at": "2024-07-15T17:30:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-91668/"
-        },
-        {
-          "starts_at": "2024-07-15T20:10:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-91669/"
-        }
-      ]
-    },
-    {
       "title": "Sleep",
       "trailer": "https://www.youtube.com/watch?v=bTDFXHbtuTo",
       "synopsis": "What if the place you thought was safest suddenly became a battleground for your sanity? Young couple Hyun-su and Soo-jin are about to become new parents when, one night, heavily pregnant Soo-jin wakes up from a deep slumber to her husband’s first act of parasomnia. Debut director Jason Yu brings audiences a clever, well-crafted and genre-bending thriller.",
       "runtime": 95,
       "times": [
-        {
-          "starts_at": "2024-07-15T12:00:00+01:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-50169/"
-        },
         {
           "starts_at": "2024-07-15T14:20:00+01:00",
           "site": "Curzon Aldgate",
@@ -211,11 +93,6 @@
           "starts_at": "2024-07-15T21:20:00+01:00",
           "site": "Curzon Aldgate",
           "url": "https://www.curzon.com/ticketing/seats/ALD1-50177/"
-        },
-        {
-          "starts_at": "2024-07-15T12:00:00+01:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-45568/"
         },
         {
           "starts_at": "2024-07-15T15:10:00+01:00",
@@ -253,11 +130,6 @@
           "url": "https://www.curzon.com/ticketing/seats/HOX1-17267/"
         },
         {
-          "starts_at": "2024-07-15T11:15:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-25878/"
-        },
-        {
           "starts_at": "2024-07-15T15:30:00+01:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-25880/"
@@ -271,11 +143,6 @@
           "starts_at": "2024-07-15T21:15:00+01:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-25506/"
-        },
-        {
-          "starts_at": "2024-07-15T12:20:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-91663/"
         },
         {
           "starts_at": "2024-07-15T15:10:00+01:00",
@@ -295,59 +162,6 @@
       ]
     },
     {
-      "title": "Fly Me to the Moon",
-      "trailer": "https://www.youtube.com/watch?v=-1iSWMMnxaU",
-      "synopsis": "Starring Scarlett Johansson and Channing Tatum, FLY ME TO THE MOON is a sharp, stylish comedy-drama set against the high-stakes backdrop of NASA’s historic Apollo 11 moon landing. Brought in to fix NASA’s public image, sparks fly in all directions as marketing maven Kelly Jones (Johansson) wreaks havoc on launch director Cole Davis’s (Tatum) already difficult task. When the White House deems the mission too important to fail, Jones is directed to stage a fake moon landing as back-up and the countdown truly begins…",
-      "runtime": 132,
-      "times": [
-        {
-          "starts_at": "2024-07-15T12:30:00+01:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-50168/"
-        },
-        {
-          "starts_at": "2024-07-15T18:00:00+01:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-50164/"
-        },
-        {
-          "starts_at": "2024-07-15T14:50:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-74252/"
-        },
-        {
-          "starts_at": "2024-07-15T17:50:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-74053/"
-        },
-        {
-          "starts_at": "2024-07-15T20:50:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-74250/"
-        },
-        {
-          "starts_at": "2024-07-15T12:00:00+01:00",
-          "site": "Curzon Mayfair",
-          "url": "https://www.curzon.com/ticketing/seats/MAY1-27350/"
-        },
-        {
-          "starts_at": "2024-07-15T15:00:00+01:00",
-          "site": "Curzon Mayfair",
-          "url": "https://www.curzon.com/ticketing/seats/MAY1-27354/"
-        },
-        {
-          "starts_at": "2024-07-15T17:00:00+01:00",
-          "site": "Curzon Mayfair",
-          "url": "https://www.curzon.com/ticketing/seats/MAY1-27352/"
-        },
-        {
-          "starts_at": "2024-07-15T20:30:00+01:00",
-          "site": "Curzon Mayfair",
-          "url": "https://www.curzon.com/ticketing/seats/MAY1-27349/"
-        }
-      ]
-    },
-    {
       "title": "A Quiet Place: Day One",
       "trailer": "https://www.youtube.com/watch?v=MLkdY8SQ2Es",
       "synopsis": "Experience the day the world went quiet.",
@@ -362,11 +176,6 @@
           "starts_at": "2024-07-15T20:20:00+01:00",
           "site": "Curzon Aldgate",
           "url": "https://www.curzon.com/ticketing/seats/ALD1-50171/"
-        },
-        {
-          "starts_at": "2024-07-15T12:25:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-74256/"
         },
         {
           "starts_at": "2024-07-15T20:35:00+01:00",
@@ -467,35 +276,113 @@
       ]
     },
     {
-      "title": "La Chimera",
-      "trailer": "https://www.youtube.com/watch?v=k0oGUwzxefk",
-      "synopsis": "Set in the 1980s, in the former Etruscian landscape of rural Italy, Arthur, a vagabond-type character, is mourning the loss of his love. A local ragtag group of graverobbers make use of his archaeological skills to find ancient tombs filled with artefacts, but Arthur uses the digs to search for a door to the afterlife, of which myths speak, where he imagines reuniting with her.",
-      "runtime": 131,
+      "title": "Fly Me to the Moon",
+      "trailer": "https://www.youtube.com/watch?v=-1iSWMMnxaU",
+      "synopsis": "Starring Scarlett Johansson and Channing Tatum, FLY ME TO THE MOON is a sharp, stylish comedy-drama set against the high-stakes backdrop of NASA’s historic Apollo 11 moon landing. Brought in to fix NASA’s public image, sparks fly in all directions as marketing maven Kelly Jones (Johansson) wreaks havoc on launch director Cole Davis’s (Tatum) already difficult task. When the White House deems the mission too important to fail, Jones is directed to stage a fake moon landing as back-up and the countdown truly begins…",
+      "runtime": 132,
       "times": [
         {
-          "starts_at": "2024-07-15T12:30:00+01:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-45575/"
+          "starts_at": "2024-07-15T18:00:00+01:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-50164/"
         },
         {
-          "starts_at": "2024-07-15T12:10:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-91672/"
-        },
-        {
-          "starts_at": "2024-07-15T15:00:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-91671/"
+          "starts_at": "2024-07-15T14:50:00+01:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-74252/"
         },
         {
           "starts_at": "2024-07-15T17:50:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-91665/"
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-74053/"
         },
         {
-          "starts_at": "2024-07-15T20:40:00+01:00",
+          "starts_at": "2024-07-15T20:50:00+01:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-74250/"
+        },
+        {
+          "starts_at": "2024-07-15T15:00:00+01:00",
+          "site": "Curzon Mayfair",
+          "url": "https://www.curzon.com/ticketing/seats/MAY1-27354/"
+        },
+        {
+          "starts_at": "2024-07-15T17:00:00+01:00",
+          "site": "Curzon Mayfair",
+          "url": "https://www.curzon.com/ticketing/seats/MAY1-27352/"
+        },
+        {
+          "starts_at": "2024-07-15T20:30:00+01:00",
+          "site": "Curzon Mayfair",
+          "url": "https://www.curzon.com/ticketing/seats/MAY1-27349/"
+        }
+      ]
+    },
+    {
+      "title": "Kinds of Kindness",
+      "trailer": "https://www.youtube.com/watch?v=S4vnapDN_pk",
+      "synopsis": "KINDS OF KINDNESS is a triptych fable, following a man without choice who tries to take control of his own life; a policeman who is alarmed that his wife who was missing-at-sea has returned and seems a different person; and a woman determined to find a specific someone with a special ability, who is destined to become a prodigious spiritual leader.",
+      "runtime": 164,
+      "times": [
+        {
+          "starts_at": "2024-07-15T14:40:00+01:00",
+          "site": "Curzon Soho",
+          "url": "https://www.curzon.com/ticketing/seats/SOH1-45567/"
+        },
+        {
+          "starts_at": "2024-07-15T17:40:00+01:00",
+          "site": "Curzon Soho",
+          "url": "https://www.curzon.com/ticketing/seats/SOH1-45572/"
+        },
+        {
+          "starts_at": "2024-07-15T20:20:00+01:00",
+          "site": "Curzon Soho",
+          "url": "https://www.curzon.com/ticketing/seats/SOH1-45577/"
+        },
+        {
+          "starts_at": "2024-07-15T13:35:00+01:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-74251/"
+        },
+        {
+          "starts_at": "2024-07-15T20:00:00+01:00",
+          "site": "Curzon Mayfair",
+          "url": "https://www.curzon.com/ticketing/seats/MAY1-27347/"
+        },
+        {
+          "starts_at": "2024-07-15T20:00:00+01:00",
+          "site": "Curzon Hoxton",
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-17269/"
+        },
+        {
+          "starts_at": "2024-07-15T13:30:00+01:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-25881/"
+        },
+        {
+          "starts_at": "2024-07-15T17:40:00+01:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-25874/"
+        },
+        {
+          "starts_at": "2024-07-15T19:40:00+01:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-25872/"
+        },
+        {
+          "starts_at": "2024-07-15T14:40:00+01:00",
           "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-91664/"
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-91662/"
+        },
+        {
+          "starts_at": "2024-07-15T17:30:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-91668/"
+        },
+        {
+          "starts_at": "2024-07-15T20:10:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-91669/"
         }
       ]
     },
@@ -505,11 +392,6 @@
       "synopsis": "Gru faces a new nemesis in Maxime Le Mal (Emmy winner Will Ferrell) and his femme fatale girlfriend Valentina (Emmy nominee Sofia Vergara), and the family is forced to go on the run.",
       "runtime": 94,
       "times": [
-        {
-          "starts_at": "2024-07-15T13:25:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-73844/"
-        },
         {
           "starts_at": "2024-07-15T15:45:00+01:00",
           "site": "Curzon Victoria",
@@ -524,16 +406,6 @@
           "starts_at": "2024-07-15T20:20:00+01:00",
           "site": "Curzon Victoria",
           "url": "https://www.curzon.com/ticketing/seats/VIC1-73843/"
-        },
-        {
-          "starts_at": "2024-07-15T11:00:00+01:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-17063/"
-        },
-        {
-          "starts_at": "2024-07-15T13:20:00+01:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-17062/"
         },
         {
           "starts_at": "2024-07-15T15:40:00+01:00",
@@ -566,16 +438,24 @@
       ]
     },
     {
+      "title": "The Conversation 50th Anniversary",
+      "trailer": "https://www.youtube.com/watch?v=iFgiWboUFnw",
+      "synopsis": "THE CONVERSATION focuses on Harry Caul (Gene Hackman), a detached and paranoid surveillance expert who finds himself becoming a victim of the same modern technology he uses to destroy others. It begins with a seemingly routine job trailing an unfaithful wife and her lover. But when Harry visits the husband’s office to deliver the incriminating tapes he’s made of the couple, his client’s assistant tries to intercept him. Harry refuses to hand\nover the recordings and suddenly discovers that he may have captured a conversation about something that’s a lot more important than adulterous goings on.",
+      "runtime": 114,
+      "times": [
+        {
+          "starts_at": "2024-07-15T14:20:00+01:00",
+          "site": "Curzon Mayfair",
+          "url": "https://www.curzon.com/ticketing/seats/MAY1-27351/"
+        }
+      ]
+    },
+    {
       "title": "The Commandant’s Shadow",
       "trailer": "https://www.youtube.com/watch?v=vRHB2ORPDbc",
       "synopsis": "The true story that inspired the Oscar-winning “The Zone of Interest,” “The Commandant’s Shadow” tells how, eight decades after Auschwitz, Hans Jurgen Höss and Anita Lasker Wallfisch – both survivors in their very different ways – come face to face, together with their children, to explore how the Holocaust has impacted all their lives. It’s a historic moment, the first time the descendant of a major war criminal meets a survivor in such a private and intimate setting. Told through firsthand testimony, letters, personal and historical archive footage, this feature-length documentary is about a mother and daughter, a father and son, and the shadow cast down the generations. Raising questions about love, guilt and forgiveness, it is also a story of hope, acceptance and compassion.",
       "runtime": 103,
       "times": [
-        {
-          "starts_at": "2024-07-15T11:45:00+01:00",
-          "site": "Curzon Mayfair",
-          "url": "https://www.curzon.com/ticketing/seats/MAY1-27353/"
-        },
         {
           "starts_at": "2024-07-15T18:00:00+01:00",
           "site": "Curzon Mayfair",
@@ -594,51 +474,15 @@
       ]
     },
     {
-      "title": "The Conversation 50th Anniversary",
-      "trailer": "https://www.youtube.com/watch?v=iFgiWboUFnw",
-      "synopsis": "THE CONVERSATION focuses on Harry Caul (Gene Hackman), a detached and paranoid surveillance expert who finds himself becoming a victim of the same modern technology he uses to destroy others. It begins with a seemingly routine job trailing an unfaithful wife and her lover. But when Harry visits the husband’s office to deliver the incriminating tapes he’s made of the couple, his client’s assistant tries to intercept him. Harry refuses to hand\nover the recordings and suddenly discovers that he may have captured a conversation about something that’s a lot more important than adulterous goings on.",
-      "runtime": 114,
-      "times": [
-        {
-          "starts_at": "2024-07-15T14:20:00+01:00",
-          "site": "Curzon Mayfair",
-          "url": "https://www.curzon.com/ticketing/seats/MAY1-27351/"
-        }
-      ]
-    },
-    {
       "title": "Wilding",
       "trailer": "https://www.youtube.com/watch?v=Uw084uIMo8Y",
       "synopsis": "Based on Isabella Tree’s best-selling book by the same title, Wilding tells the story of a young couple that bets on nature for the future of their failing, four-hundred-year-old estate. The young couple battles entrenched tradition, and dares to place the fate of their farm in the hands of nature. Ripping down the fences, they set the land back to the wild and entrust its recovery to a motley mix of animals both tame and wild. It is the beginning of a grand experiment that will become one of the most significant rewilding experiments in Europe.",
       "runtime": 75,
       "times": [
         {
-          "starts_at": "2024-07-15T12:40:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-25875/"
-        },
-        {
           "starts_at": "2024-07-15T17:20:00+01:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-25876/"
-        }
-      ]
-    },
-    {
-      "title": "The Nature of Love",
-      "trailer": null,
-      "synopsis": "Sophia's life is turned upside down when she meets Sylvain. She comes from a wealthy family, while Sylvain comes from a family of manual workers. Sophia questions her own values after abandoned herself to her great romantic impulses.",
-      "runtime": 112,
-      "times": [
-        {
-          "starts_at": "2024-07-15T12:00:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-91678/"
-        },
-        {
-          "starts_at": "2024-07-15T17:40:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-91675/"
         }
       ]
     },
@@ -649,11 +493,6 @@
       "runtime": 125,
       "times": [
         {
-          "starts_at": "2024-07-15T12:40:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-91680/"
-        },
-        {
           "starts_at": "2024-07-15T14:50:00+01:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-91679/"
@@ -662,6 +501,29 @@
           "starts_at": "2024-07-15T20:20:00+01:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-91677/"
+        }
+      ]
+    },
+    {
+      "title": "La Chimera",
+      "trailer": "https://www.youtube.com/watch?v=k0oGUwzxefk",
+      "synopsis": "Set in the 1980s, in the former Etruscian landscape of rural Italy, Arthur, a vagabond-type character, is mourning the loss of his love. A local ragtag group of graverobbers make use of his archaeological skills to find ancient tombs filled with artefacts, but Arthur uses the digs to search for a door to the afterlife, of which myths speak, where he imagines reuniting with her.",
+      "runtime": 131,
+      "times": [
+        {
+          "starts_at": "2024-07-15T15:00:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-91671/"
+        },
+        {
+          "starts_at": "2024-07-15T17:50:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-91665/"
+        },
+        {
+          "starts_at": "2024-07-15T20:40:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-91664/"
         }
       ]
     },
@@ -698,6 +560,19 @@
           "starts_at": "2024-07-15T20:50:00+01:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-91673/"
+        }
+      ]
+    },
+    {
+      "title": "The Nature of Love",
+      "trailer": null,
+      "synopsis": "Sophia's life is turned upside down when she meets Sylvain. She comes from a wealthy family, while Sylvain comes from a family of manual workers. Sophia questions her own values after abandoned herself to her great romantic impulses.",
+      "runtime": 112,
+      "times": [
+        {
+          "starts_at": "2024-07-15T17:40:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-91675/"
         }
       ]
     },
@@ -3050,6 +2925,19 @@
       ]
     },
     {
+      "title": "About Dry Grasses",
+      "trailer": "https://www.youtube.com/watch?v=WI1QH2R6c6Q",
+      "synopsis": "From master filmmaker Nuri Bilge Ceylan (Winter Sleep, Once Upon a Time in  Anatolia) comes a daring tale of betrayal, accusations and desire.  Longing to escape the isolation of his quiet Anatolian village, disenchanted art teacher Samet wrestles with narcissistic ideas of unfulfilled potential. While battling accusations of inappropriate behaviour at his school, he unexpectedly strikes up a friendship with Nuray, a charismatic fellow teacher, which offers a welcome\ndistraction. But when her affection moves to Samet’s more affable colleague, he becomes jealous and begins to compete for her attention. \n\nWith breathtaking cinematography and outstanding performances, ABOUT DRY GRASSES is an engrossing new piece of cinema from award-winning director Ceylan",
+      "runtime": 198,
+      "times": [
+        {
+          "starts_at": "2024-07-20T13:00:00+01:00",
+          "site": "Curzon Soho",
+          "url": "https://www.curzon.com/ticketing/seats/SOH1-45707/"
+        }
+      ]
+    },
+    {
       "title": "Kids Club: Greyhound of a Girl",
       "trailer": null,
       "synopsis": "Eleven-year-old Mary has an insatiable passion for cooking, and dreams of become a great chef. Her grandmother Emer, with whom she has a very special relationship, encourages her to make this dream come true. But every path has its obstacles and facing them turns into quite an adventure.\nIn this delicate coming-of-age story, filled with joy & laughter, we join four generations of women as they head off on a glorious journey together. One that takes them down memory lane and gives them the opportunity to learn about each other, truly & deeply.",
@@ -3168,7 +3056,7 @@
           "url": "https://www.curzon.com/ticketing/seats/VIC1-74020/"
         },
         {
-          "starts_at": "2024-07-21T17:20:00+01:00",
+          "starts_at": "2024-07-21T17:30:00+01:00",
           "site": "Curzon Mayfair",
           "url": "https://www.curzon.com/ticketing/seats/MAY1-27245/"
         }
@@ -3197,6 +3085,19 @@
           "starts_at": "2024-07-21T14:40:00+01:00",
           "site": "Curzon Mayfair",
           "url": "https://www.curzon.com/ticketing/seats/MAY1-27063/"
+        }
+      ]
+    },
+    {
+      "title": "About Dry Grasses",
+      "trailer": "https://www.youtube.com/watch?v=WI1QH2R6c6Q",
+      "synopsis": "From master filmmaker Nuri Bilge Ceylan (Winter Sleep, Once Upon a Time in  Anatolia) comes a daring tale of betrayal, accusations and desire.  Longing to escape the isolation of his quiet Anatolian village, disenchanted art teacher Samet wrestles with narcissistic ideas of unfulfilled potential. While battling accusations of inappropriate behaviour at his school, he unexpectedly strikes up a friendship with Nuray, a charismatic fellow teacher, which offers a welcome\ndistraction. But when her affection moves to Samet’s more affable colleague, he becomes jealous and begins to compete for her attention. \n\nWith breathtaking cinematography and outstanding performances, ABOUT DRY GRASSES is an engrossing new piece of cinema from award-winning director Ceylan",
+      "runtime": 198,
+      "times": [
+        {
+          "starts_at": "2024-07-21T11:20:00+01:00",
+          "site": "Curzon Hoxton",
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-17402/"
         }
       ]
     },
