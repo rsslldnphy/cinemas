@@ -1,7 +1,4 @@
 {
-  "2024-07-18": [
-
-  ],
   "2024-07-19": [
     {
       "title": "Despicable Me 4",
@@ -5141,6 +5138,102 @@
           "starts_at": "2024-07-25T20:50:00+01:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-91968/"
+        }
+      ]
+    }
+  ],
+  "2024-07-26": [
+    {
+      "title": "Deadpool & Wolverine",
+      "trailer": null,
+      "synopsis": "Deadpool's peaceful existence comes crashing down when the Time Variance Authority recruits him to help safeguard the multiverse.",
+      "runtime": 128,
+      "times": [
+        {
+          "starts_at": "2024-07-26T12:00:00+01:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-49894/"
+        },
+        {
+          "starts_at": "2024-07-26T15:00:00+01:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-49893/"
+        },
+        {
+          "starts_at": "2024-07-26T18:00:00+01:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-49892/"
+        },
+        {
+          "starts_at": "2024-07-26T21:00:00+01:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-49891/"
+        },
+        {
+          "starts_at": "2024-07-26T11:45:00+01:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-73858/"
+        },
+        {
+          "starts_at": "2024-07-26T14:45:00+01:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-73859/"
+        },
+        {
+          "starts_at": "2024-07-26T17:45:00+01:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-73857/"
+        },
+        {
+          "starts_at": "2024-07-26T20:45:00+01:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-73856/"
+        },
+        {
+          "starts_at": "2024-07-26T12:00:00+01:00",
+          "site": "Curzon Hoxton",
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-17083/"
+        },
+        {
+          "starts_at": "2024-07-26T15:00:00+01:00",
+          "site": "Curzon Hoxton",
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-17082/"
+        },
+        {
+          "starts_at": "2024-07-26T18:00:00+01:00",
+          "site": "Curzon Hoxton",
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-17081/"
+        },
+        {
+          "starts_at": "2024-07-26T21:00:00+01:00",
+          "site": "Curzon Hoxton",
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-17079/"
+        }
+      ]
+    },
+    {
+      "title": "DocHouse: The Echo",
+      "trailer": null,
+      "synopsis": "In the remote Mexican village of El Eco, life is rich in privation, work and children. Here, granddaughters movingly take care of grandmothers until they die.",
+      "runtime": 102,
+      "times": [
+        {
+          "starts_at": "2024-07-26T18:20:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-91449/"
+        }
+      ]
+    },
+    {
+      "title": "DocHouse: Mountain Queen",
+      "trailer": null,
+      "synopsis": "The first Nepali woman to successfully climb and summit Mount Everest - now a single mother working at Whole Foods in Connecticut - returns to the mountain for another attempt, motivated by her intrepid spirit and hoping to make a better life for her daughters.\r\n\r\nThis one off screening on Monday 17 June will be introduced by director Lucy Walker and Lhakpa Sherpa.",
+      "runtime": 105,
+      "times": [
+        {
+          "starts_at": "2024-07-26T20:20:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-91619/"
         }
       ]
     }
