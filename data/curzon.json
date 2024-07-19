@@ -7,11 +7,6 @@
       "runtime": 94,
       "times": [
         {
-          "starts_at": "2024-07-19T11:20:00+01:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-50374/"
-        },
-        {
           "starts_at": "2024-07-19T13:40:00+01:00",
           "site": "Curzon Aldgate",
           "url": "https://www.curzon.com/ticketing/seats/ALD1-50275/"
@@ -30,11 +25,6 @@
           "starts_at": "2024-07-19T20:40:00+01:00",
           "site": "Curzon Aldgate",
           "url": "https://www.curzon.com/ticketing/seats/ALD1-50372/"
-        },
-        {
-          "starts_at": "2024-07-19T13:15:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-74410/"
         },
         {
           "starts_at": "2024-07-19T14:00:00+01:00",
@@ -57,11 +47,6 @@
           "url": "https://www.curzon.com/ticketing/seats/VIC1-74339/"
         },
         {
-          "starts_at": "2024-07-19T11:40:00+01:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-17413/"
-        },
-        {
           "starts_at": "2024-07-19T14:20:00+01:00",
           "site": "Curzon Hoxton",
           "url": "https://www.curzon.com/ticketing/seats/HOX1-17281/"
@@ -79,65 +64,20 @@
       ]
     },
     {
-      "title": "Inside Out 2",
-      "trailer": "https://www.youtube.com/watch?v=EzEZVTaXE6E",
-      "synopsis": "Disney and Pixar’s “Inside Out 2” returns to the mind of newly minted teenager Riley just as headquarters is undergoing a sudden demolition to make room for something entirely unexpected: new Emotions! Joy, Sadness, Anger, Fear and Disgust, who’ve long been running a successful operation\nby all accounts, aren’t sure how to feel when Anxiety shows up. And it looks like she’s not alone. Maya Hawke lends her voice to Anxiety, alongside Amy Poehler as the voice of Joy. The voice cast also includes Lewis Black, Phyllis Smith, Tony Hale, Liza Lapira, Ayo Edebiri, Adèle Exarchopoulos, Paul\nWalter Hauser, Kensington Tallman, Lilimar, Diane Lane, Kyle MacLachlan, Sumayyah Nuriddin-Green, Grace Lu and Yvette Nicole Brown. Directed by Kelsey Mann and produced by Mark Nielsen with a screenplay by Meg LeFauve and Dave Holstein, “Inside Out 2” features a score by Andrea Datzman.",
-      "runtime": 96,
+      "title": "A Quiet Place: Day One",
+      "trailer": "https://www.youtube.com/watch?v=MLkdY8SQ2Es",
+      "synopsis": "A young woman named Sam finds herself trapped in New York City during the early stages of an invasion by alien creatures with ultra-sensitive hearing.",
+      "runtime": 99,
       "times": [
         {
-          "starts_at": "2024-07-19T11:40:00+01:00",
+          "starts_at": "2024-07-19T14:00:00+01:00",
           "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-50264/"
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-50276/"
         },
         {
-          "starts_at": "2024-07-19T15:20:00+01:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-50263/"
-        },
-        {
-          "starts_at": "2024-07-19T17:40:00+01:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-50258/"
-        },
-        {
-          "starts_at": "2024-07-19T20:00:00+01:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-50267/"
-        },
-        {
-          "starts_at": "2024-07-19T13:00:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-74348/"
-        },
-        {
-          "starts_at": "2024-07-19T15:15:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-74349/"
-        },
-        {
-          "starts_at": "2024-07-19T17:30:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-74350/"
-        },
-        {
-          "starts_at": "2024-07-19T20:15:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-74346/"
-        },
-        {
-          "starts_at": "2024-07-19T13:00:00+01:00",
+          "starts_at": "2024-07-19T21:20:00+01:00",
           "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-17300/"
-        },
-        {
-          "starts_at": "2024-07-19T15:30:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-25981/"
-        },
-        {
-          "starts_at": "2024-07-19T18:20:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-25978/"
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-17282/"
         }
       ]
     },
@@ -147,11 +87,6 @@
       "synopsis": "This summer, the epic studio disaster movie returns with an adrenaline-pumping, seat-gripping, big-screen thrill ride that puts you in direct contact with one of nature’s most wondrous—and destructive—forces. ",
       "runtime": 122,
       "times": [
-        {
-          "starts_at": "2024-07-19T12:00:00+01:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-49926/"
-        },
         {
           "starts_at": "2024-07-19T15:00:00+01:00",
           "site": "Curzon Aldgate",
@@ -166,11 +101,6 @@
           "starts_at": "2024-07-19T21:00:00+01:00",
           "site": "Curzon Aldgate",
           "url": "https://www.curzon.com/ticketing/seats/ALD1-49923/"
-        },
-        {
-          "starts_at": "2024-07-19T12:45:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-74014/"
         },
         {
           "starts_at": "2024-07-19T15:30:00+01:00",
@@ -188,19 +118,9 @@
           "url": "https://www.curzon.com/ticketing/seats/VIC1-74011/"
         },
         {
-          "starts_at": "2024-07-19T12:40:00+01:00",
-          "site": "Curzon Mayfair",
-          "url": "https://www.curzon.com/ticketing/seats/MAY1-27238/"
-        },
-        {
           "starts_at": "2024-07-19T18:00:00+01:00",
           "site": "Curzon Mayfair",
           "url": "https://www.curzon.com/ticketing/seats/MAY1-27239/"
-        },
-        {
-          "starts_at": "2024-07-19T12:00:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-25985/"
         },
         {
           "starts_at": "2024-07-19T14:45:00+01:00",
@@ -220,58 +140,50 @@
       ]
     },
     {
-      "title": "Sleep",
-      "trailer": "https://www.youtube.com/watch?v=bTDFXHbtuTo",
-      "synopsis": "What if the place you thought was safest suddenly became a battleground for your sanity? Young couple Hyun-su and Soo-jin are about to become new parents when, one night, heavily pregnant Soo-jin wakes up from a deep slumber to her husband’s first act of parasomnia. Debut director Jason Yu brings audiences a clever, well-crafted and genre-bending thriller.",
-      "runtime": 95,
+      "title": "Inside Out 2",
+      "trailer": "https://www.youtube.com/watch?v=EzEZVTaXE6E",
+      "synopsis": "Disney and Pixar’s “Inside Out 2” returns to the mind of newly minted teenager Riley just as headquarters is undergoing a sudden demolition to make room for something entirely unexpected: new Emotions! Joy, Sadness, Anger, Fear and Disgust, who’ve long been running a successful operation\nby all accounts, aren’t sure how to feel when Anxiety shows up. And it looks like she’s not alone. Maya Hawke lends her voice to Anxiety, alongside Amy Poehler as the voice of Joy. The voice cast also includes Lewis Black, Phyllis Smith, Tony Hale, Liza Lapira, Ayo Edebiri, Adèle Exarchopoulos, Paul\nWalter Hauser, Kensington Tallman, Lilimar, Diane Lane, Kyle MacLachlan, Sumayyah Nuriddin-Green, Grace Lu and Yvette Nicole Brown. Directed by Kelsey Mann and produced by Mark Nielsen with a screenplay by Meg LeFauve and Dave Holstein, “Inside Out 2” features a score by Andrea Datzman.",
+      "runtime": 96,
       "times": [
         {
-          "starts_at": "2024-07-19T13:00:00+01:00",
+          "starts_at": "2024-07-19T15:20:00+01:00",
           "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-50373/"
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-50263/"
         },
         {
-          "starts_at": "2024-07-19T15:00:00+01:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-45641/"
+          "starts_at": "2024-07-19T17:40:00+01:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-50258/"
         },
         {
-          "starts_at": "2024-07-19T21:00:00+01:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-45633/"
+          "starts_at": "2024-07-19T20:00:00+01:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-50267/"
         },
         {
-          "starts_at": "2024-07-19T13:30:00+01:00",
+          "starts_at": "2024-07-19T15:15:00+01:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-74349/"
+        },
+        {
+          "starts_at": "2024-07-19T17:30:00+01:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-74350/"
+        },
+        {
+          "starts_at": "2024-07-19T20:15:00+01:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-74346/"
+        },
+        {
+          "starts_at": "2024-07-19T15:30:00+01:00",
           "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-26013/"
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-25981/"
         },
         {
-          "starts_at": "2024-07-19T16:15:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-91815/"
-        },
-        {
-          "starts_at": "2024-07-19T21:10:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-91813/"
-        }
-      ]
-    },
-    {
-      "title": "A Quiet Place: Day One",
-      "trailer": "https://www.youtube.com/watch?v=MLkdY8SQ2Es",
-      "synopsis": "A young woman named Sam finds herself trapped in New York City during the early stages of an invasion by alien creatures with ultra-sensitive hearing.",
-      "runtime": 99,
-      "times": [
-        {
-          "starts_at": "2024-07-19T14:00:00+01:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-50276/"
-        },
-        {
-          "starts_at": "2024-07-19T21:20:00+01:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-17282/"
+          "starts_at": "2024-07-19T18:20:00+01:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-25978/"
         }
       ]
     },
@@ -329,82 +241,6 @@
       ]
     },
     {
-      "title": "MaXXXine",
-      "trailer": "https://www.youtube.com/watch?v=_xqA_pGssaw",
-      "synopsis": "Follows Maxine, who was the only survivor of the bloody incidents of X, as she continues her journey towards fame to be an actress in 1980's Los Angeles.",
-      "runtime": 104,
-      "times": [
-        {
-          "starts_at": "2024-07-19T12:30:00+01:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-45711/"
-        },
-        {
-          "starts_at": "2024-07-19T17:10:00+01:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-45640/"
-        },
-        {
-          "starts_at": "2024-07-19T15:45:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-25980/"
-        },
-        {
-          "starts_at": "2024-07-19T20:20:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-25989/"
-        }
-      ]
-    },
-    {
-      "title": "Crossing",
-      "trailer": null,
-      "synopsis": "From acclaimed director Levan Akin (And Then We Danced), CROSSING is a moving and tender tale of identity, acceptance and unlikely connection that transcends borders and generations. Lia, a retired school teacher living in Georgia, hears from a young neighbour Achi that her long lost niece Tekla, a transgender woman, has crossed the border into Turkey. Hoping to bring Tekla home after a period of estrangement, Lia travels to Istanbul with the unpredictable Achi to find her. Exploring the hidden depths of the city, they cross paths with a transgender lawyer called Evrim, who helps them in their search. Humanistic and compassionate, Akin’s third feature is a heartfelt portrayal of overcoming the degrees of separation that divide us.",
-      "runtime": 106,
-      "times": [
-        {
-          "starts_at": "2024-07-19T13:00:00+01:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-45635/"
-        },
-        {
-          "starts_at": "2024-07-19T18:00:00+01:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-45634/"
-        },
-        {
-          "starts_at": "2024-07-19T15:20:00+01:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-17285/"
-        },
-        {
-          "starts_at": "2024-07-19T21:00:00+01:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-17277/"
-        },
-        {
-          "starts_at": "2024-07-19T11:45:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-25984/"
-        },
-        {
-          "starts_at": "2024-07-19T20:40:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-25993/"
-        },
-        {
-          "starts_at": "2024-07-19T11:50:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-91814/"
-        },
-        {
-          "starts_at": "2024-07-19T17:40:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-91812/"
-        }
-      ]
-    },
-    {
       "title": "Kinds of Kindness",
       "trailer": "https://www.youtube.com/watch?v=S4vnapDN_pk",
       "synopsis": "KINDS OF KINDNESS is a triptych fable, following a man without choice who tries to take control of his own life; a policeman who is alarmed that his wife who was missing-at-sea has returned and seems a different person; and a woman determined to find a specific someone with a special ability, who is destined to become a prodigious spiritual leader.",
@@ -441,11 +277,6 @@
           "url": "https://www.curzon.com/ticketing/seats/HOX1-17284/"
         },
         {
-          "starts_at": "2024-07-19T12:15:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-25987/"
-        },
-        {
           "starts_at": "2024-07-19T19:20:00+01:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-25976/"
@@ -463,55 +294,91 @@
       ]
     },
     {
-      "title": "Thelma",
-      "trailer": "https://www.youtube.com/watch?v=B0NlEIXbjcw",
-      "synopsis": "When 93-year-old Thelma Post gets duped by a phone scammer pretending to be her grandson, she sets out on a treacherous quest across the city to reclaim what was taken from her.",
-      "runtime": 98,
+      "title": "Sleep",
+      "trailer": "https://www.youtube.com/watch?v=bTDFXHbtuTo",
+      "synopsis": "What if the place you thought was safest suddenly became a battleground for your sanity? Young couple Hyun-su and Soo-jin are about to become new parents when, one night, heavily pregnant Soo-jin wakes up from a deep slumber to her husband’s first act of parasomnia. Debut director Jason Yu brings audiences a clever, well-crafted and genre-bending thriller.",
+      "runtime": 95,
       "times": [
         {
-          "starts_at": "2024-07-19T12:30:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-74343/"
+          "starts_at": "2024-07-19T15:00:00+01:00",
+          "site": "Curzon Soho",
+          "url": "https://www.curzon.com/ticketing/seats/SOH1-45641/"
         },
         {
-          "starts_at": "2024-07-19T17:45:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-74347/"
+          "starts_at": "2024-07-19T21:00:00+01:00",
+          "site": "Curzon Soho",
+          "url": "https://www.curzon.com/ticketing/seats/SOH1-45633/"
         },
         {
-          "starts_at": "2024-07-19T11:40:00+01:00",
-          "site": "Curzon Mayfair",
-          "url": "https://www.curzon.com/ticketing/seats/MAY1-27394/"
+          "starts_at": "2024-07-19T13:30:00+01:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-26013/"
         },
         {
-          "starts_at": "2024-07-19T15:30:00+01:00",
-          "site": "Curzon Mayfair",
-          "url": "https://www.curzon.com/ticketing/seats/MAY1-27240/"
+          "starts_at": "2024-07-19T16:15:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-91815/"
         },
         {
-          "starts_at": "2024-07-19T20:50:00+01:00",
-          "site": "Curzon Mayfair",
-          "url": "https://www.curzon.com/ticketing/seats/MAY1-27237/"
+          "starts_at": "2024-07-19T21:10:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-91813/"
+        }
+      ]
+    },
+    {
+      "title": "MaXXXine",
+      "trailer": "https://www.youtube.com/watch?v=_xqA_pGssaw",
+      "synopsis": "Follows Maxine, who was the only survivor of the bloody incidents of X, as she continues her journey towards fame to be an actress in 1980's Los Angeles.",
+      "runtime": 104,
+      "times": [
+        {
+          "starts_at": "2024-07-19T17:10:00+01:00",
+          "site": "Curzon Soho",
+          "url": "https://www.curzon.com/ticketing/seats/SOH1-45640/"
         },
         {
-          "starts_at": "2024-07-19T12:00:00+01:00",
+          "starts_at": "2024-07-19T15:45:00+01:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-25980/"
+        },
+        {
+          "starts_at": "2024-07-19T20:20:00+01:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-25989/"
+        }
+      ]
+    },
+    {
+      "title": "Crossing",
+      "trailer": null,
+      "synopsis": "From acclaimed director Levan Akin (And Then We Danced), CROSSING is a moving and tender tale of identity, acceptance and unlikely connection that transcends borders and generations. Lia, a retired school teacher living in Georgia, hears from a young neighbour Achi that her long lost niece Tekla, a transgender woman, has crossed the border into Turkey. Hoping to bring Tekla home after a period of estrangement, Lia travels to Istanbul with the unpredictable Achi to find her. Exploring the hidden depths of the city, they cross paths with a transgender lawyer called Evrim, who helps them in their search. Humanistic and compassionate, Akin’s third feature is a heartfelt portrayal of overcoming the degrees of separation that divide us.",
+      "runtime": 106,
+      "times": [
+        {
+          "starts_at": "2024-07-19T18:00:00+01:00",
+          "site": "Curzon Soho",
+          "url": "https://www.curzon.com/ticketing/seats/SOH1-45634/"
+        },
+        {
+          "starts_at": "2024-07-19T15:20:00+01:00",
           "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-17405/"
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-17285/"
+        },
+        {
+          "starts_at": "2024-07-19T21:00:00+01:00",
+          "site": "Curzon Hoxton",
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-17277/"
+        },
+        {
+          "starts_at": "2024-07-19T20:40:00+01:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-25993/"
         },
         {
           "starts_at": "2024-07-19T17:40:00+01:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-17403/"
-        },
-        {
-          "starts_at": "2024-07-19T12:30:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-25975/"
-        },
-        {
-          "starts_at": "2024-07-19T17:00:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-25979/"
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-91812/"
         }
       ]
     },
@@ -544,6 +411,39 @@
       ]
     },
     {
+      "title": "Thelma",
+      "trailer": "https://www.youtube.com/watch?v=B0NlEIXbjcw",
+      "synopsis": "When 93-year-old Thelma Post gets duped by a phone scammer pretending to be her grandson, she sets out on a treacherous quest across the city to reclaim what was taken from her.",
+      "runtime": 98,
+      "times": [
+        {
+          "starts_at": "2024-07-19T17:45:00+01:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-74347/"
+        },
+        {
+          "starts_at": "2024-07-19T15:30:00+01:00",
+          "site": "Curzon Mayfair",
+          "url": "https://www.curzon.com/ticketing/seats/MAY1-27240/"
+        },
+        {
+          "starts_at": "2024-07-19T20:50:00+01:00",
+          "site": "Curzon Mayfair",
+          "url": "https://www.curzon.com/ticketing/seats/MAY1-27237/"
+        },
+        {
+          "starts_at": "2024-07-19T17:40:00+01:00",
+          "site": "Curzon Hoxton",
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-17403/"
+        },
+        {
+          "starts_at": "2024-07-19T17:00:00+01:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-25979/"
+        }
+      ]
+    },
+    {
       "title": "blur: To The End",
       "trailer": null,
       "synopsis": "A new feature-length documentary depicting the extraordinary and emotional return of blur, captured during the year in which they made a surprise return with their first record in 8 years, the critically acclaimed #1 album ‘The Ballad of Darren’. \nblur: To The End follows the unique relationship of four friends - and band mates of three decades - Damon Albarn, Graham Coxon, Alex James and Dave Rowntree as they come together to record new songs ahead of their sold-out, first ever shows at London’s Wembley Stadium in 2023.  Featuring performances of their most iconic, much-loved songs, footage of the band in the studio and life on the road, this film is an intimate moment in time with this most enduring of English bands, who have been at the heart of British cultural life and influence for over three decades.",
@@ -563,19 +463,6 @@
           "starts_at": "2024-07-19T18:00:00+01:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-24578/"
-        }
-      ]
-    },
-    {
-      "title": "Wilding",
-      "trailer": "https://www.youtube.com/watch?v=Uw084uIMo8Y",
-      "synopsis": "Based on Isabella Tree’s best-selling book by the same title, Wilding tells the story of a young couple that bets on nature for the future of their failing, four-hundred-year-old estate. The young couple battles entrenched tradition, and dares to place the fate of their farm in the hands of nature. Ripping down the fences, they set the land back to the wild and entrust its recovery to a motley mix of animals both tame and wild. It is the beginning of a grand experiment that will become one of the most significant rewilding experiments in Europe.",
-      "runtime": 75,
-      "times": [
-        {
-          "starts_at": "2024-07-19T11:30:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-25988/"
         }
       ]
     },
@@ -614,11 +501,6 @@
       "runtime": 125,
       "times": [
         {
-          "starts_at": "2024-07-19T12:10:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-91811/"
-        },
-        {
           "starts_at": "2024-07-19T15:00:00+01:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-91810/"
@@ -636,44 +518,11 @@
       ]
     },
     {
-      "title": "La Chimera",
-      "trailer": "https://www.youtube.com/watch?v=k0oGUwzxefk",
-      "synopsis": "Set in the 1980s, in the former Etruscian landscape of rural Italy, Arthur, a vagabond-type character, is mourning the loss of his love. A local ragtag group of graverobbers make use of his archaeological skills to find ancient tombs filled with artefacts, but Arthur uses the digs to search for a door to the afterlife, of which myths speak, where he imagines reuniting with her.",
-      "runtime": 131,
-      "times": [
-        {
-          "starts_at": "2024-07-19T12:20:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-91802/"
-        },
-        {
-          "starts_at": "2024-07-19T15:20:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-91801/"
-        },
-        {
-          "starts_at": "2024-07-19T18:00:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-91797/"
-        },
-        {
-          "starts_at": "2024-07-19T20:50:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-91798/"
-        }
-      ]
-    },
-    {
       "title": "The Bikeriders",
       "trailer": "https://www.youtube.com/watch?v=NReRMZfKTOQ",
       "synopsis": "The Bikeriders, starring Austin Butler, Jodie Comer, Tom Hardy and Norman Reedus, follows the rise of a midwestern motorcycle club, the Vandals. Seen through the lives of its members, the club evolves over the course of a decade from a gathering place for local outsiders into a more sinister gang, threatening the original group’s unique way of life.",
       "runtime": 116,
       "times": [
-        {
-          "starts_at": "2024-07-19T12:45:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-91800/"
-        },
         {
           "starts_at": "2024-07-19T15:10:00+01:00",
           "site": "Curzon Bloomsbury",
@@ -688,6 +537,29 @@
           "starts_at": "2024-07-19T21:00:00+01:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-91796/"
+        }
+      ]
+    },
+    {
+      "title": "La Chimera",
+      "trailer": "https://www.youtube.com/watch?v=k0oGUwzxefk",
+      "synopsis": "Set in the 1980s, in the former Etruscian landscape of rural Italy, Arthur, a vagabond-type character, is mourning the loss of his love. A local ragtag group of graverobbers make use of his archaeological skills to find ancient tombs filled with artefacts, but Arthur uses the digs to search for a door to the afterlife, of which myths speak, where he imagines reuniting with her.",
+      "runtime": 131,
+      "times": [
+        {
+          "starts_at": "2024-07-19T15:20:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-91801/"
+        },
+        {
+          "starts_at": "2024-07-19T18:00:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-91797/"
+        },
+        {
+          "starts_at": "2024-07-19T20:50:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-91798/"
         }
       ]
     },
