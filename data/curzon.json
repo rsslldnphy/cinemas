@@ -7,72 +7,14 @@
       "runtime": 96,
       "times": [
         {
-          "starts_at": "2024-07-19T17:40:00+01:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-50258/"
-        },
-        {
           "starts_at": "2024-07-19T20:00:00+01:00",
           "site": "Curzon Aldgate",
           "url": "https://www.curzon.com/ticketing/seats/ALD1-50267/"
         },
         {
-          "starts_at": "2024-07-19T17:30:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-74350/"
-        },
-        {
           "starts_at": "2024-07-19T20:15:00+01:00",
           "site": "Curzon Victoria",
           "url": "https://www.curzon.com/ticketing/seats/VIC1-74346/"
-        },
-        {
-          "starts_at": "2024-07-19T18:20:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-25978/"
-        }
-      ]
-    },
-    {
-      "title": "Twisters",
-      "trailer": "https://www.youtube.com/watch?v=jVOlBUF7l6I",
-      "synopsis": "This summer, the epic studio disaster movie returns with an adrenaline-pumping, seat-gripping, big-screen thrill ride that puts you in direct contact with one of nature’s most wondrous—and destructive—forces. ",
-      "runtime": 122,
-      "times": [
-        {
-          "starts_at": "2024-07-19T18:00:00+01:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-49924/"
-        },
-        {
-          "starts_at": "2024-07-19T21:00:00+01:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-49923/"
-        },
-        {
-          "starts_at": "2024-07-19T18:15:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-74012/"
-        },
-        {
-          "starts_at": "2024-07-19T21:00:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-74011/"
-        },
-        {
-          "starts_at": "2024-07-19T18:00:00+01:00",
-          "site": "Curzon Mayfair",
-          "url": "https://www.curzon.com/ticketing/seats/MAY1-27239/"
-        },
-        {
-          "starts_at": "2024-07-19T17:40:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-25977/"
-        },
-        {
-          "starts_at": "2024-07-19T20:00:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-25990/"
         }
       ]
     },
@@ -83,34 +25,37 @@
       "runtime": 94,
       "times": [
         {
-          "starts_at": "2024-07-19T18:20:00+01:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-50273/"
-        },
-        {
           "starts_at": "2024-07-19T20:40:00+01:00",
           "site": "Curzon Aldgate",
           "url": "https://www.curzon.com/ticketing/seats/ALD1-50372/"
         },
         {
-          "starts_at": "2024-07-19T18:30:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-74342/"
-        },
-        {
           "starts_at": "2024-07-19T20:45:00+01:00",
           "site": "Curzon Victoria",
           "url": "https://www.curzon.com/ticketing/seats/VIC1-74339/"
+        }
+      ]
+    },
+    {
+      "title": "Twisters",
+      "trailer": "https://www.youtube.com/watch?v=jVOlBUF7l6I",
+      "synopsis": "This summer, the epic studio disaster movie returns with an adrenaline-pumping, seat-gripping, big-screen thrill ride that puts you in direct contact with one of nature’s most wondrous—and destructive—forces. ",
+      "runtime": 122,
+      "times": [
+        {
+          "starts_at": "2024-07-19T21:00:00+01:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-49923/"
         },
         {
-          "starts_at": "2024-07-19T16:40:00+01:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-17279/"
+          "starts_at": "2024-07-19T21:00:00+01:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-74011/"
         },
         {
-          "starts_at": "2024-07-19T19:00:00+01:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-17278/"
+          "starts_at": "2024-07-19T20:00:00+01:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-25990/"
         }
       ]
     },
@@ -120,11 +65,6 @@
       "synopsis": "In pursuit of a serial killer, an FBI agent uncovers a series of occult clues that she must solve to end his terrifying killing spree.",
       "runtime": 101,
       "times": [
-        {
-          "starts_at": "2024-07-19T18:50:00+01:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-50260/"
-        },
         {
           "starts_at": "2024-07-19T21:20:00+01:00",
           "site": "Curzon Aldgate",
@@ -148,43 +88,15 @@
       ]
     },
     {
-      "title": "MaXXXine",
-      "trailer": "https://www.youtube.com/watch?v=_xqA_pGssaw",
-      "synopsis": "Follows Maxine, who was the only survivor of the bloody incidents of X, as she continues her journey towards fame to be an actress in 1980's Los Angeles.",
-      "runtime": 104,
-      "times": [
-        {
-          "starts_at": "2024-07-19T17:10:00+01:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-45640/"
-        },
-        {
-          "starts_at": "2024-07-19T20:20:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-25989/"
-        }
-      ]
-    },
-    {
       "title": "Kinds of Kindness",
       "trailer": "https://www.youtube.com/watch?v=S4vnapDN_pk",
       "synopsis": "KINDS OF KINDNESS is a triptych fable, following a man without choice who tries to take control of his own life; a policeman who is alarmed that his wife who was missing-at-sea has returned and seems a different person; and a woman determined to find a specific someone with a special ability, who is destined to become a prodigious spiritual leader.",
       "runtime": 164,
       "times": [
         {
-          "starts_at": "2024-07-19T17:30:00+01:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-45637/"
-        },
-        {
           "starts_at": "2024-07-19T19:45:00+01:00",
           "site": "Curzon Soho",
           "url": "https://www.curzon.com/ticketing/seats/SOH1-45632/"
-        },
-        {
-          "starts_at": "2024-07-19T17:00:00+01:00",
-          "site": "Curzon Mayfair",
-          "url": "https://www.curzon.com/ticketing/seats/MAY1-27392/"
         },
         {
           "starts_at": "2024-07-19T20:20:00+01:00",
@@ -192,42 +104,9 @@
           "url": "https://www.curzon.com/ticketing/seats/HOX1-17284/"
         },
         {
-          "starts_at": "2024-07-19T19:20:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-25976/"
-        },
-        {
           "starts_at": "2024-07-19T20:10:00+01:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-91804/"
-        }
-      ]
-    },
-    {
-      "title": "Crossing",
-      "trailer": null,
-      "synopsis": "From acclaimed director Levan Akin (And Then We Danced), CROSSING is a moving and tender tale of identity, acceptance and unlikely connection that transcends borders and generations. Lia, a retired school teacher living in Georgia, hears from a young neighbour Achi that her long lost niece Tekla, a transgender woman, has crossed the border into Turkey. Hoping to bring Tekla home after a period of estrangement, Lia travels to Istanbul with the unpredictable Achi to find her. Exploring the hidden depths of the city, they cross paths with a transgender lawyer called Evrim, who helps them in their search. Humanistic and compassionate, Akin’s third feature is a heartfelt portrayal of overcoming the degrees of separation that divide us.",
-      "runtime": 106,
-      "times": [
-        {
-          "starts_at": "2024-07-19T18:00:00+01:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-45634/"
-        },
-        {
-          "starts_at": "2024-07-19T21:00:00+01:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-17277/"
-        },
-        {
-          "starts_at": "2024-07-19T20:40:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-25993/"
-        },
-        {
-          "starts_at": "2024-07-19T17:40:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-91812/"
         }
       ]
     },
@@ -250,57 +129,6 @@
       ]
     },
     {
-      "title": "Thelma",
-      "trailer": "https://www.youtube.com/watch?v=B0NlEIXbjcw",
-      "synopsis": "When 93-year-old Thelma Post gets duped by a phone scammer pretending to be her grandson, she sets out on a treacherous quest across the city to reclaim what was taken from her.",
-      "runtime": 98,
-      "times": [
-        {
-          "starts_at": "2024-07-19T17:45:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-74347/"
-        },
-        {
-          "starts_at": "2024-07-19T20:50:00+01:00",
-          "site": "Curzon Mayfair",
-          "url": "https://www.curzon.com/ticketing/seats/MAY1-27237/"
-        },
-        {
-          "starts_at": "2024-07-19T17:40:00+01:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-17403/"
-        },
-        {
-          "starts_at": "2024-07-19T17:00:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-25979/"
-        }
-      ]
-    },
-    {
-      "title": "blur: To The End",
-      "trailer": null,
-      "synopsis": "A new feature-length documentary depicting the extraordinary and emotional return of blur, captured during the year in which they made a surprise return with their first record in 8 years, the critically acclaimed #1 album ‘The Ballad of Darren’. \nblur: To The End follows the unique relationship of four friends - and band mates of three decades - Damon Albarn, Graham Coxon, Alex James and Dave Rowntree as they come together to record new songs ahead of their sold-out, first ever shows at London’s Wembley Stadium in 2023.  Featuring performances of their most iconic, much-loved songs, footage of the band in the studio and life on the road, this film is an intimate moment in time with this most enduring of English bands, who have been at the heart of British cultural life and influence for over three decades.",
-      "runtime": 105,
-      "times": [
-        {
-          "starts_at": "2024-07-19T18:00:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-72826/"
-        },
-        {
-          "starts_at": "2024-07-19T18:00:00+01:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-16394/"
-        },
-        {
-          "starts_at": "2024-07-19T18:00:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-24578/"
-        }
-      ]
-    },
-    {
       "title": "Fly Me to the Moon",
       "trailer": "https://www.youtube.com/watch?v=-1iSWMMnxaU",
       "synopsis": "Starring Scarlett Johansson and Channing Tatum, FLY ME TO THE MOON is a sharp, stylish comedy-drama set against the high-stakes backdrop of NASA’s historic Apollo 11 moon landing. Brought in to fix NASA’s public image, sparks fly in all directions as marketing maven Kelly Jones (Johansson) wreaks havoc on launch director Cole Davis’s (Tatum) already difficult task. When the White House deems the mission too important to fail, Jones is directed to stage a fake moon landing as back-up and the countdown truly begins…",
@@ -319,6 +147,37 @@
       ]
     },
     {
+      "title": "Thelma",
+      "trailer": "https://www.youtube.com/watch?v=B0NlEIXbjcw",
+      "synopsis": "When 93-year-old Thelma Post gets duped by a phone scammer pretending to be her grandson, she sets out on a treacherous quest across the city to reclaim what was taken from her.",
+      "runtime": 98,
+      "times": [
+        {
+          "starts_at": "2024-07-19T20:50:00+01:00",
+          "site": "Curzon Mayfair",
+          "url": "https://www.curzon.com/ticketing/seats/MAY1-27237/"
+        }
+      ]
+    },
+    {
+      "title": "Crossing",
+      "trailer": null,
+      "synopsis": "From acclaimed director Levan Akin (And Then We Danced), CROSSING is a moving and tender tale of identity, acceptance and unlikely connection that transcends borders and generations. Lia, a retired school teacher living in Georgia, hears from a young neighbour Achi that her long lost niece Tekla, a transgender woman, has crossed the border into Turkey. Hoping to bring Tekla home after a period of estrangement, Lia travels to Istanbul with the unpredictable Achi to find her. Exploring the hidden depths of the city, they cross paths with a transgender lawyer called Evrim, who helps them in their search. Humanistic and compassionate, Akin’s third feature is a heartfelt portrayal of overcoming the degrees of separation that divide us.",
+      "runtime": 106,
+      "times": [
+        {
+          "starts_at": "2024-07-19T21:00:00+01:00",
+          "site": "Curzon Hoxton",
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-17277/"
+        },
+        {
+          "starts_at": "2024-07-19T20:40:00+01:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-25993/"
+        }
+      ]
+    },
+    {
       "title": "A Quiet Place: Day One",
       "trailer": "https://www.youtube.com/watch?v=MLkdY8SQ2Es",
       "synopsis": "A young woman named Sam finds herself trapped in New York City during the early stages of an invasion by alien creatures with ultra-sensitive hearing.",
@@ -332,20 +191,28 @@
       ]
     },
     {
-      "title": "Shayda",
-      "trailer": "https://www.youtube.com/watch?v=m3BruRUDeg4",
-      "synopsis": "A young Iranian mother and her six-year-old daughter finds refuge in an Australian women’s shelter during the two weeks of Iranian New Year (Nowrooz) which is celebrated as a time of renewal and rebirth. Aided by the strong community of women at the refuge they seek their freedom in this new world of possibilities, only to find themselves facing the violence they tried so hard to escape.",
-      "runtime": 118,
+      "title": "MaXXXine",
+      "trailer": "https://www.youtube.com/watch?v=_xqA_pGssaw",
+      "synopsis": "Follows Maxine, who was the only survivor of the bloody incidents of X, as she continues her journey towards fame to be an actress in 1980's Los Angeles.",
+      "runtime": 104,
       "times": [
         {
-          "starts_at": "2024-07-19T17:20:00+01:00",
+          "starts_at": "2024-07-19T20:20:00+01:00",
           "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-25992/"
-        },
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-25989/"
+        }
+      ]
+    },
+    {
+      "title": "DocHouse: Agent Of Happiness",
+      "trailer": null,
+      "synopsis": "How can you measure happiness? The country of Bhutan invented Gross National Happiness to do just that, and Amber is one of the agents who travels door to door to meet people and measure how happy they really are. He is still living with his elderly mother at the age of 40, but is nevertheless a hopeless romantic who dreams of finding love: a happiness agent who is in search of his own happiness.\r\n\r\nAgent of Happiness takes us on a cross-country road trip meeting citizens from all walks of life, reminding us of the fragility and beauty of our own happiness. No matter where we live.",
+      "runtime": 94,
+      "times": [
         {
-          "starts_at": "2024-07-19T18:30:00+01:00",
+          "starts_at": "2024-07-19T20:20:00+01:00",
           "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-91805/"
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-91956/"
         }
       ]
     },
@@ -355,11 +222,6 @@
       "synopsis": "A highly anticipated return to fiction feature filmmaking from Wim Wenders (Paris, Texas, Wings of Desire), PERFECT DAYS takes the writer-director to Tokyo to tell a story celebrating the hidden joys and minutiae of Japanese culture. Winner of the Best Actor award at Cannes 2023, Koji Yakusho (Babel, 13 Assassins) stars as Hirayama, a contemplative middle-aged man who lives a life of modesty and serenity, spending his days balancing his job as a dutiful caretaker of Tokyo’s numerous public toilets with his passion for music, literature and photography. As we join him on his structured daily routine, a series of unexpected encounters gradually begin to reveal a hidden past that lies behind his otherwise content and harmonious life. \n\nCombining a refreshingly unstereotypical depiction of the Japanese capital with a soundtrack comprised of iconic hits from the 60s and 80s, this is a subtle, shimmering and ultimately life-affirming reflection on finding beauty in the everyday world around us. Japan’s entry for Best International Film at the 2024 Academy Awards.\n",
       "runtime": 125,
       "times": [
-        {
-          "starts_at": "2024-07-19T17:50:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-91809/"
-        },
         {
           "starts_at": "2024-07-19T20:40:00+01:00",
           "site": "Curzon Bloomsbury",
@@ -374,11 +236,6 @@
       "runtime": 131,
       "times": [
         {
-          "starts_at": "2024-07-19T18:00:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-91797/"
-        },
-        {
           "starts_at": "2024-07-19T20:50:00+01:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-91798/"
@@ -392,40 +249,9 @@
       "runtime": 116,
       "times": [
         {
-          "starts_at": "2024-07-19T18:10:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-91799/"
-        },
-        {
           "starts_at": "2024-07-19T21:00:00+01:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-91796/"
-        }
-      ]
-    },
-    {
-      "title": "DocHouse: The Accidental President",
-      "trailer": null,
-      "synopsis": "Sviatlana Tsikhanouskaya was a housewife from Belarus when she decided to run for President against the country's authoritarian leader, Alexander Lukashenko, stepping into the place of her recently imprisoned husband. Little did she guess that she would win the popular vote but be forced to flee her country.\r\n\r\nThe Accidental President follows Tsikhanouskaya as she is thrust onto the world stage as Belarus's de facto head of state in exile. Filmed in public and in private as she builds her team and becomes a spokesperson for her people, it reveals a courageous woman whose life has been profoundly transformed, as she grapples with becoming a leader in the most extreme of circumstances.",
-      "runtime": 90,
-      "times": [
-        {
-          "starts_at": "2024-07-19T18:20:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-91608/"
-        }
-      ]
-    },
-    {
-      "title": "DocHouse: Agent Of Happiness",
-      "trailer": null,
-      "synopsis": "How can you measure happiness? The country of Bhutan invented Gross National Happiness to do just that, and Amber is one of the agents who travels door to door to meet people and measure how happy they really are. He is still living with his elderly mother at the age of 40, but is nevertheless a hopeless romantic who dreams of finding love: a happiness agent who is in search of his own happiness.\r\n\r\nAgent of Happiness takes us on a cross-country road trip meeting citizens from all walks of life, reminding us of the fragility and beauty of our own happiness. No matter where we live.",
-      "runtime": 94,
-      "times": [
-        {
-          "starts_at": "2024-07-19T20:20:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-91956/"
         }
       ]
     }
