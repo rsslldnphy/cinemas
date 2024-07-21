@@ -1,19 +1,4 @@
 {
-  "2024-07-20": [
-    {
-      "title": "Sleep",
-      "trailer": "https://www.youtube.com/watch?v=bTDFXHbtuTo",
-      "synopsis": "What if the place you thought was safest suddenly became a battleground for your sanity? Young couple Hyun-su and Soo-jin are about to become new parents when, one night, heavily pregnant Soo-jin wakes up from a deep slumber to her husband’s first act of parasomnia. Debut director Jason Yu brings audiences a clever, well-crafted and genre-bending thriller.",
-      "runtime": 95,
-      "times": [
-        {
-          "starts_at": "2024-07-20T21:30:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-26014/"
-        }
-      ]
-    }
-  ],
   "2024-07-21": [
     {
       "title": "Despicable Me 4",
@@ -3886,6 +3871,89 @@
           "starts_at": "2024-07-27T20:20:00+01:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-91450/"
+        }
+      ]
+    }
+  ],
+  "2024-07-28": [
+    {
+      "title": "Deadpool & Wolverine",
+      "trailer": null,
+      "synopsis": "Deadpool's peaceful existence comes crashing down when the Time Variance Authority recruits him to help safeguard the multiverse.",
+      "runtime": 128,
+      "times": [
+        {
+          "starts_at": "2024-07-28T11:30:00+01:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-49899/"
+        },
+        {
+          "starts_at": "2024-07-28T14:30:00+01:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-49900/"
+        },
+        {
+          "starts_at": "2024-07-28T17:30:00+01:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-49901/"
+        },
+        {
+          "starts_at": "2024-07-28T20:30:00+01:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-49902/"
+        },
+        {
+          "starts_at": "2024-07-28T11:15:00+01:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-73877/"
+        },
+        {
+          "starts_at": "2024-07-28T14:15:00+01:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-73876/"
+        },
+        {
+          "starts_at": "2024-07-28T17:15:00+01:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-73878/"
+        },
+        {
+          "starts_at": "2024-07-28T20:15:00+01:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-73879/"
+        },
+        {
+          "starts_at": "2024-07-28T11:40:00+01:00",
+          "site": "Curzon Hoxton",
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-17091/"
+        },
+        {
+          "starts_at": "2024-07-28T14:40:00+01:00",
+          "site": "Curzon Hoxton",
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-17090/"
+        },
+        {
+          "starts_at": "2024-07-28T17:40:00+01:00",
+          "site": "Curzon Hoxton",
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-17089/"
+        },
+        {
+          "starts_at": "2024-07-28T20:40:00+01:00",
+          "site": "Curzon Hoxton",
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-17088/"
+        }
+      ]
+    },
+    {
+      "title": "DocHouse: The Echo",
+      "trailer": null,
+      "synopsis": "In the remote Mexican village of El Eco, life is rich in privation, work and children. Here, granddaughters movingly take care of grandmothers until they die.",
+      "runtime": 102,
+      "times": [
+        {
+          "starts_at": "2024-07-28T16:00:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-91451/"
         }
       ]
     }
