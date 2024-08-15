@@ -1,40 +1,83 @@
 {
   "2024-08-15": [
     {
-      "title": "Trap",
-      "trailer": "https://www.youtube.com/watch?v=KnIzclNaO08",
-      "synopsis": "\n\nA father and teen daughter attend a pop concert, where they realize they’re at the center of a dark and sinister event.",
-      "runtime": 105,
+      "title": "Twisters",
+      "trailer": "https://www.youtube.com/watch?v=jVOlBUF7l6I",
+      "synopsis": "This summer, the epic studio disaster movie returns with an adrenaline-pumping, seat-gripping, big-screen thrill ride that puts you in direct contact with one of nature’s most wondrous—and destructive—forces. ",
+      "runtime": 122,
       "times": [
         {
-          "starts_at": "2024-08-15T11:40:00+01:00",
+          "starts_at": "2024-08-15T14:20:00+01:00",
           "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-50903/"
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-50902/"
         },
         {
-          "starts_at": "2024-08-15T18:50:00+01:00",
+          "starts_at": "2024-08-15T21:00:00+01:00",
           "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-50905/"
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-50894/"
         },
         {
-          "starts_at": "2024-08-15T12:30:00+01:00",
+          "starts_at": "2024-08-15T20:45:00+01:00",
           "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-74942/"
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-74954/"
+        }
+      ]
+    },
+    {
+      "title": "It Ends With Us",
+      "trailer": "https://www.youtube.com/watch?v=0x-HhWm5K3U",
+      "synopsis": "IT ENDS WITH US, the first Colleen Hoover novel adapted for the big screen, tells the compelling story of Lily Bloom (Blake Lively), a woman who overcomes a traumatic childhood to embark on a new life in Boston and chase a lifelong dream of opening her own business. A chance meeting with charming neurosurgeon Ryle Kincaid (Justin Baldoni) sparks an intense connection, but as the two fall deeply in love, Lily begins to see sides of Ryle that remind her of her parents relationship. When Lilys first love, Atlas Corrigan (Brandon Sklenar), suddenly reenters her life, her relationship with Ryle is upended, and Lily realizes she must learn to rely on her own strength to make an impossible choice for her future.",
+      "runtime": 130,
+      "times": [
+        {
+          "starts_at": "2024-08-15T14:40:00+01:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-50906/"
         },
         {
-          "starts_at": "2024-08-15T18:45:00+01:00",
+          "starts_at": "2024-08-15T20:20:00+01:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-50907/"
+        },
+        {
+          "starts_at": "2024-08-15T14:45:00+01:00",
           "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-74956/"
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-74947/"
         },
         {
-          "starts_at": "2024-08-15T14:30:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-26612/"
+          "starts_at": "2024-08-15T17:45:00+01:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-74943/"
         },
         {
-          "starts_at": "2024-08-15T21:10:00+01:00",
+          "starts_at": "2024-08-15T20:30:00+01:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-74953/"
+        },
+        {
+          "starts_at": "2024-08-15T15:00:00+01:00",
+          "site": "Curzon Mayfair",
+          "url": "https://www.curzon.com/ticketing/seats/MAY1-27627/"
+        },
+        {
+          "starts_at": "2024-08-15T18:00:00+01:00",
+          "site": "Curzon Mayfair",
+          "url": "https://www.curzon.com/ticketing/seats/MAY1-27624/"
+        },
+        {
+          "starts_at": "2024-08-15T21:00:00+01:00",
+          "site": "Curzon Mayfair",
+          "url": "https://www.curzon.com/ticketing/seats/MAY1-27623/"
+        },
+        {
+          "starts_at": "2024-08-15T15:00:00+01:00",
           "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-26597/"
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-26611/"
+        },
+        {
+          "starts_at": "2024-08-15T20:30:00+01:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-26603/"
         }
       ]
     },
@@ -44,11 +87,6 @@
       "synopsis": "Deadpool's peaceful existence comes crashing down when the Time Variance Authority recruits him to help safeguard the multiverse.",
       "runtime": 128,
       "times": [
-        {
-          "starts_at": "2024-08-15T12:00:00+01:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-50893/"
-        },
         {
           "starts_at": "2024-08-15T15:00:00+01:00",
           "site": "Curzon Aldgate",
@@ -68,11 +106,6 @@
           "starts_at": "2024-08-15T20:00:00+01:00",
           "site": "Curzon Aldgate",
           "url": "https://www.curzon.com/ticketing/seats/ALD1-50895/"
-        },
-        {
-          "starts_at": "2024-08-15T13:15:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-74949/"
         },
         {
           "starts_at": "2024-08-15T15:00:00+01:00",
@@ -100,11 +133,6 @@
           "url": "https://www.curzon.com/ticketing/seats/MAY1-27625/"
         },
         {
-          "starts_at": "2024-08-15T11:50:00+01:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-17793/"
-        },
-        {
           "starts_at": "2024-08-15T14:30:00+01:00",
           "site": "Curzon Hoxton",
           "url": "https://www.curzon.com/ticketing/seats/HOX1-17798/"
@@ -120,11 +148,6 @@
           "url": "https://www.curzon.com/ticketing/seats/HOX1-17795/"
         },
         {
-          "starts_at": "2024-08-15T12:10:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-26599/"
-        },
-        {
           "starts_at": "2024-08-15T15:15:00+01:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-26600/"
@@ -133,130 +156,11 @@
           "starts_at": "2024-08-15T18:20:00+01:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-26601/"
-        }
-      ]
-    },
-    {
-      "title": "Borderlands",
-      "trailer": "https://www.youtube.com/watch?v=BFcWJPc5pzs",
-      "synopsis": "Lilith (Blanchett), an infamous bounty hunter with a mysterious past, reluctantly returns to her home, Pandora, the most chaotic planet in the galaxy. Her mission is to find the missing daughter of Atlas (Ramírez), the universe’s most powerful S.O.B. Lilith forms an unexpected alliance with a ragtag team of misfits – Roland (Hart), a seasoned mercenary on a mission; Tiny Tina (Greenblatt), a feral pre-teen demolitionist; Krieg (Munteanu), Tina’s musclebound protector; Tannis (Curtis), the oddball scientist who’s seen it all; and Claptrap (Black), a wiseass robot. Together, these unlikely heroes must battle an alien species and dangerous bandits to uncover one of Pandora’s most explosive secrets. The fate of the universe could be in their hands – but they’ll be fighting for something more: each other.Based on one of the best-selling videogame franchises of all time, welcome to BORDERLANDS.",
-      "runtime": 101,
-      "times": [
-        {
-          "starts_at": "2024-08-15T12:15:00+01:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-50900/"
         },
         {
-          "starts_at": "2024-08-15T17:40:00+01:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-50896/"
-        },
-        {
-          "starts_at": "2024-08-15T11:45:00+01:00",
+          "starts_at": "2024-08-15T20:10:00+01:00",
           "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-26613/"
-        },
-        {
-          "starts_at": "2024-08-15T21:30:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-26615/"
-        }
-      ]
-    },
-    {
-      "title": "It Ends With Us",
-      "trailer": "https://www.youtube.com/watch?v=0x-HhWm5K3U",
-      "synopsis": "IT ENDS WITH US, the first Colleen Hoover novel adapted for the big screen, tells the compelling story of Lily Bloom (Blake Lively), a woman who overcomes a traumatic childhood to embark on a new life in Boston and chase a lifelong dream of opening her own business. A chance meeting with charming neurosurgeon Ryle Kincaid (Justin Baldoni) sparks an intense connection, but as the two fall deeply in love, Lily begins to see sides of Ryle that remind her of her parents relationship. When Lilys first love, Atlas Corrigan (Brandon Sklenar), suddenly reenters her life, her relationship with Ryle is upended, and Lily realizes she must learn to rely on her own strength to make an impossible choice for her future.",
-      "runtime": 130,
-      "times": [
-        {
-          "starts_at": "2024-08-15T13:00:00+01:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-50908/"
-        },
-        {
-          "starts_at": "2024-08-15T14:40:00+01:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-50906/"
-        },
-        {
-          "starts_at": "2024-08-15T20:20:00+01:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-50907/"
-        },
-        {
-          "starts_at": "2024-08-15T11:45:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-74959/"
-        },
-        {
-          "starts_at": "2024-08-15T14:45:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-74947/"
-        },
-        {
-          "starts_at": "2024-08-15T17:45:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-74943/"
-        },
-        {
-          "starts_at": "2024-08-15T20:30:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-74953/"
-        },
-        {
-          "starts_at": "2024-08-15T12:00:00+01:00",
-          "site": "Curzon Mayfair",
-          "url": "https://www.curzon.com/ticketing/seats/MAY1-27626/"
-        },
-        {
-          "starts_at": "2024-08-15T15:00:00+01:00",
-          "site": "Curzon Mayfair",
-          "url": "https://www.curzon.com/ticketing/seats/MAY1-27627/"
-        },
-        {
-          "starts_at": "2024-08-15T18:00:00+01:00",
-          "site": "Curzon Mayfair",
-          "url": "https://www.curzon.com/ticketing/seats/MAY1-27624/"
-        },
-        {
-          "starts_at": "2024-08-15T21:00:00+01:00",
-          "site": "Curzon Mayfair",
-          "url": "https://www.curzon.com/ticketing/seats/MAY1-27623/"
-        },
-        {
-          "starts_at": "2024-08-15T20:30:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-26603/"
-        }
-      ]
-    },
-    {
-      "title": "Twisters",
-      "trailer": "https://www.youtube.com/watch?v=jVOlBUF7l6I",
-      "synopsis": "This summer, the epic studio disaster movie returns with an adrenaline-pumping, seat-gripping, big-screen thrill ride that puts you in direct contact with one of nature’s most wondrous—and destructive—forces. ",
-      "runtime": 122,
-      "times": [
-        {
-          "starts_at": "2024-08-15T14:20:00+01:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-50902/"
-        },
-        {
-          "starts_at": "2024-08-15T21:00:00+01:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-50894/"
-        },
-        {
-          "starts_at": "2024-08-15T20:45:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-74954/"
-        },
-        {
-          "starts_at": "2024-08-15T11:40:00+01:00",
-          "site": "Curzon Mayfair",
-          "url": "https://www.curzon.com/ticketing/seats/MAY1-27629/"
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-26833/"
         }
       ]
     },
@@ -304,66 +208,48 @@
       ]
     },
     {
-      "title": "Caligula: The Ultimate Cut",
-      "trailer": "https://www.youtube.com/watch?v=Nn8cKrkQ9cs",
-      "synopsis": "The full, unexpurgated version of Tinto Brass's infamous soft-porn Roman epic.\n\nMalcolm McDowell stars as the deranged Emperor whose depraved acts include giving his horse political office, sleeping with his own sister and executing anyone who remotely displeases him.\n\nGore Vidal provides the (uncredited) screenplay. The film, which is punctuated by a sequence of elaborate orgy scenes, remained in limbo for two years as Brass wrangled over the right to a final cut, and various versions have been in circulation over the years since its initial release.\r\n\r\nPlease note: There will be a 10-minute interval during this screening.",
-      "runtime": 178,
+      "title": "Borderlands",
+      "trailer": "https://www.youtube.com/watch?v=BFcWJPc5pzs",
+      "synopsis": "Lilith (Blanchett), an infamous bounty hunter with a mysterious past, reluctantly returns to her home, Pandora, the most chaotic planet in the galaxy. Her mission is to find the missing daughter of Atlas (Ramírez), the universe’s most powerful S.O.B. Lilith forms an unexpected alliance with a ragtag team of misfits – Roland (Hart), a seasoned mercenary on a mission; Tiny Tina (Greenblatt), a feral pre-teen demolitionist; Krieg (Munteanu), Tina’s musclebound protector; Tannis (Curtis), the oddball scientist who’s seen it all; and Claptrap (Black), a wiseass robot. Together, these unlikely heroes must battle an alien species and dangerous bandits to uncover one of Pandora’s most explosive secrets. The fate of the universe could be in their hands – but they’ll be fighting for something more: each other.Based on one of the best-selling videogame franchises of all time, welcome to BORDERLANDS.",
+      "runtime": 101,
       "times": [
         {
-          "starts_at": "2024-08-15T12:40:00+01:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-46105/"
+          "starts_at": "2024-08-15T17:40:00+01:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-50896/"
         },
         {
-          "starts_at": "2024-08-15T19:30:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-92478/"
+          "starts_at": "2024-08-15T21:30:00+01:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-26615/"
         }
       ]
     },
     {
-      "title": "My Neighbour Totoro (Subbed)",
-      "trailer": "https://www.youtube.com/watch?v=N1L80AtQ0Zg",
-      "synopsis": "Satsuki and Mei's mother has taken ill. In order to be closer to her while she recovers in a rural convalescent hospital, their father moves the two sisters from their home in a city to the countryside. The house they move into is a ramshackle old place in the shadow of an ancient camphor tree, and Satsuki and Mei embark on adventures with the wondrous forest spirits who live nearby.\n",
-      "runtime": 86,
+      "title": "Trap",
+      "trailer": "https://www.youtube.com/watch?v=KnIzclNaO08",
+      "synopsis": "\n\nA father and teen daughter attend a pop concert, where they realize they’re at the center of a dark and sinister event.",
+      "runtime": 105,
       "times": [
         {
-          "starts_at": "2024-08-15T13:00:00+01:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-46147/"
+          "starts_at": "2024-08-15T18:50:00+01:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-50905/"
         },
         {
-          "starts_at": "2024-08-15T18:30:00+01:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-46143/"
-        }
-      ]
-    },
-    {
-      "title": "Tuesday",
-      "trailer": null,
-      "synopsis": "A mother (Julia Louis-Dreyfus, in a profoundly moving performance) and her teenage daughter (Lola Petticrew) must confront Death when it arrives in the form of an astonishing talking bird. From debut filmmaker Daina O. Pusić, Tuesday is a heart-rending fairy tale about the echoes of loss and finding resilience in the unexpected.",
-      "runtime": 111,
-      "times": [
-        {
-          "starts_at": "2024-08-15T13:20:00+01:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-46148/"
+          "starts_at": "2024-08-15T18:45:00+01:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-74956/"
         },
         {
-          "starts_at": "2024-08-15T18:10:00+01:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-46144/"
-        },
-        {
-          "starts_at": "2024-08-15T12:00:00+01:00",
+          "starts_at": "2024-08-15T14:30:00+01:00",
           "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-26610/"
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-26612/"
         },
         {
-          "starts_at": "2024-08-15T17:20:00+01:00",
+          "starts_at": "2024-08-15T21:10:00+01:00",
           "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-26604/"
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-26597/"
         }
       ]
     },
@@ -400,6 +286,37 @@
           "starts_at": "2024-08-15T14:50:00+01:00",
           "site": "Curzon Hoxton",
           "url": "https://www.curzon.com/ticketing/seats/HOX1-17797/"
+        }
+      ]
+    },
+    {
+      "title": "Tuesday",
+      "trailer": null,
+      "synopsis": "A mother (Julia Louis-Dreyfus, in a profoundly moving performance) and her teenage daughter (Lola Petticrew) must confront Death when it arrives in the form of an astonishing talking bird. From debut filmmaker Daina O. Pusić, Tuesday is a heart-rending fairy tale about the echoes of loss and finding resilience in the unexpected.",
+      "runtime": 111,
+      "times": [
+        {
+          "starts_at": "2024-08-15T18:10:00+01:00",
+          "site": "Curzon Soho",
+          "url": "https://www.curzon.com/ticketing/seats/SOH1-46144/"
+        },
+        {
+          "starts_at": "2024-08-15T17:20:00+01:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-26604/"
+        }
+      ]
+    },
+    {
+      "title": "My Neighbour Totoro (Subbed)",
+      "trailer": "https://www.youtube.com/watch?v=N1L80AtQ0Zg",
+      "synopsis": "Satsuki and Mei's mother has taken ill. In order to be closer to her while she recovers in a rural convalescent hospital, their father moves the two sisters from their home in a city to the countryside. The house they move into is a ramshackle old place in the shadow of an ancient camphor tree, and Satsuki and Mei embark on adventures with the wondrous forest spirits who live nearby.\n",
+      "runtime": 86,
+      "times": [
+        {
+          "starts_at": "2024-08-15T18:30:00+01:00",
+          "site": "Curzon Soho",
+          "url": "https://www.curzon.com/ticketing/seats/SOH1-46143/"
         }
       ]
     },
@@ -476,57 +393,6 @@
       ]
     },
     {
-      "title": "Kensuke's Kingdom",
-      "trailer": "https://www.youtube.com/watch?v=QOCxYnFAUNo",
-      "synopsis": "Based on the much-loved, best-selling children’s novel by Michael Morpurgo and adapted for screen by Frank Cottrell-Boyce, KENSUKE’S KINGDOM tells of the epic adventure of Michael, a young boy, shipwrecked on a remote island, who must adapt to life alone. Over time, he feels another presence, learning that this world is home to both unimaginable danger and beauty, in this gripping animated adaptation of a beloved novel.\r\n\r\n\nKENSUKE’S KINGDOM’s illustrious voice cast includes Sally Hawkins (The Shape of Water, Paddington), Cillian Murphy (Peaky Blinders, Oppenheimer), Raffey Cassidy (Snow White and the Huntsman, Tomorrowland), newcomer Aaron MacGregor (Puffin Rock and the New Friends) and Ken Watanabe (The Last Samurai, Letters from Iwo Jima, Tokyo Vice).\r\n\r\nStarring: Sally Hawkins, Cillian Murphy, Raffey Cassidy, Aaron MacGregor and Ken Watanabe.",
-      "runtime": 84,
-      "times": [
-        {
-          "starts_at": "2024-08-15T12:10:00+01:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-17800/"
-        }
-      ]
-    },
-    {
-      "title": "Radical",
-      "trailer": null,
-      "synopsis": "In a Mexican border town plagued by neglect and corruption, a frustrated teacher (Emmy Award nominee Eugenio Derbez, CODA) tries a radical new method to unleash the curiosity and potential of his students... and maybe even their genius.\n\nBased on an incredible true story. Winner of the \"Festival Favorite\" Award at Sundance Film Festival.",
-      "runtime": 125,
-      "times": [
-        {
-          "starts_at": "2024-08-15T12:30:00+01:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-17667/"
-        },
-        {
-          "starts_at": "2024-08-15T18:00:00+01:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-17670/"
-        },
-        {
-          "starts_at": "2024-08-15T14:45:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-26609/"
-        },
-        {
-          "starts_at": "2024-08-15T20:50:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-26605/"
-        },
-        {
-          "starts_at": "2024-08-15T12:30:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-92371/"
-        },
-        {
-          "starts_at": "2024-08-15T17:40:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-92374/"
-        }
-      ]
-    },
-    {
       "title": "Babes",
       "trailer": "https://www.youtube.com/watch?v=05d8svYB1DQ",
       "synopsis": "BABES follows inseparable childhood best friends Eden (Ilana Glazer) and Dawn (Michelle Buteau), having grown up together in NYC, now firmly in different phases of adulthood. When carefree and single Eden decides to have a baby on her own after a one-night stand, their friendship faces its greatest challenge. BABES delves into the complexities of female friendship with a blend of laughter, tears, and labor pains.\n\nFrom co-writers Ilana Glazer and Josh Rabinowitz and directed by Pamela Adlon, BABES is a hilarious and heartfelt comedy about the bonds of friendship and the messy, unpredictable challenges of adulthood and becoming a parent.",
@@ -576,9 +442,37 @@
           "url": "https://www.curzon.com/ticketing/seats/HOX1-17799/"
         },
         {
-          "starts_at": "2024-08-15T12:20:00+01:00",
+          "starts_at": "2024-08-15T17:45:00+01:00",
           "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-26608/"
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-26832/"
+        }
+      ]
+    },
+    {
+      "title": "Radical",
+      "trailer": null,
+      "synopsis": "In a Mexican border town plagued by neglect and corruption, a frustrated teacher (Emmy Award nominee Eugenio Derbez, CODA) tries a radical new method to unleash the curiosity and potential of his students... and maybe even their genius.\n\nBased on an incredible true story. Winner of the \"Festival Favorite\" Award at Sundance Film Festival.",
+      "runtime": 125,
+      "times": [
+        {
+          "starts_at": "2024-08-15T18:00:00+01:00",
+          "site": "Curzon Hoxton",
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-17670/"
+        },
+        {
+          "starts_at": "2024-08-15T14:45:00+01:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-26609/"
+        },
+        {
+          "starts_at": "2024-08-15T20:50:00+01:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-26605/"
+        },
+        {
+          "starts_at": "2024-08-15T17:40:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-92374/"
         }
       ]
     },
@@ -592,88 +486,6 @@
           "starts_at": "2024-08-15T18:00:00+01:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-25497/"
-        }
-      ]
-    },
-    {
-      "title": "About Dry Grasses",
-      "trailer": "https://www.youtube.com/watch?v=WI1QH2R6c6Q",
-      "synopsis": "From master filmmaker Nuri Bilge Ceylan (Winter Sleep, Once Upon a Time in  Anatolia) comes a daring tale of betrayal, accusations and desire.  Longing to escape the isolation of his quiet Anatolian village, disenchanted art teacher Samet wrestles with narcissistic ideas of unfulfilled potential. While battling accusations of inappropriate behaviour at his school, he unexpectedly strikes up a friendship with Nuray, a charismatic fellow teacher, which offers a welcome\ndistraction. But when her affection moves to Samet’s more affable colleague, he becomes jealous and begins to compete for her attention. \n\nWith breathtaking cinematography and outstanding performances, ABOUT DRY GRASSES is an engrossing new piece of cinema from award-winning director Ceylan",
-      "runtime": 198,
-      "times": [
-        {
-          "starts_at": "2024-08-15T12:00:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-92383/"
-        }
-      ]
-    },
-    {
-      "title": "The Bikeriders",
-      "trailer": "https://www.youtube.com/watch?v=NReRMZfKTOQ",
-      "synopsis": "The Bikeriders, starring Austin Butler, Jodie Comer, Tom Hardy and Norman Reedus, follows the rise of a midwestern motorcycle club, the Vandals. Seen through the lives of its members, the club evolves over the course of a decade from a gathering place for local outsiders into a more sinister gang, threatening the original group’s unique way of life.",
-      "runtime": 116,
-      "times": [
-        {
-          "starts_at": "2024-08-15T12:10:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-92382/"
-        },
-        {
-          "starts_at": "2024-08-15T16:00:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-92384/"
-        },
-        {
-          "starts_at": "2024-08-15T20:50:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-92366/"
-        }
-      ]
-    },
-    {
-      "title": "La Chimera",
-      "trailer": "https://www.youtube.com/watch?v=k0oGUwzxefk",
-      "synopsis": "Set in the 1980s, in the former Etruscian landscape of rural Italy, Arthur, a vagabond-type character, is mourning the loss of his love. A local ragtag group of graverobbers make use of his archaeological skills to find ancient tombs filled with artefacts, but Arthur uses the digs to search for a door to the afterlife, of which myths speak, where he imagines reuniting with her.",
-      "runtime": 131,
-      "times": [
-        {
-          "starts_at": "2024-08-15T12:20:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-92375/"
-        },
-        {
-          "starts_at": "2024-08-15T15:00:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-92377/"
-        },
-        {
-          "starts_at": "2024-08-15T18:00:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-92378/"
-        },
-        {
-          "starts_at": "2024-08-15T20:40:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-92379/"
-        }
-      ]
-    },
-    {
-      "title": "Sky Peals",
-      "trailer": "https://www.youtube.com/watch?v=cNUVvGEaYcI",
-      "synopsis": "Adam works nightshifts at a motorway service station and lives a small and lonely life. Upon hearing that his estranged father has died, he finds himself in search of answers. Piecing together a complicated image of a man he never knew, Adam starts to become convinced he descends from an alien race.\n\nWritten and directed by Moin Hussain, Sky Peals is an unconventional sci-fi drama about alienation in modern Britain, with breathtaking cinematography (shot on 35mm film) and a breakthrough lead performance by Faraz Ayub.\n",
-      "runtime": 91,
-      "times": [
-        {
-          "starts_at": "2024-08-15T12:40:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-92368/"
-        },
-        {
-          "starts_at": "2024-08-15T18:40:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-92369/"
         }
       ]
     },
@@ -692,6 +504,29 @@
           "starts_at": "2024-08-15T17:10:00+01:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-92370/"
+        }
+      ]
+    },
+    {
+      "title": "La Chimera",
+      "trailer": "https://www.youtube.com/watch?v=k0oGUwzxefk",
+      "synopsis": "Set in the 1980s, in the former Etruscian landscape of rural Italy, Arthur, a vagabond-type character, is mourning the loss of his love. A local ragtag group of graverobbers make use of his archaeological skills to find ancient tombs filled with artefacts, but Arthur uses the digs to search for a door to the afterlife, of which myths speak, where he imagines reuniting with her.",
+      "runtime": 131,
+      "times": [
+        {
+          "starts_at": "2024-08-15T15:00:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-92377/"
+        },
+        {
+          "starts_at": "2024-08-15T18:00:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-92378/"
+        },
+        {
+          "starts_at": "2024-08-15T20:40:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-92379/"
         }
       ]
     },
@@ -732,6 +567,24 @@
       ]
     },
     {
+      "title": "The Bikeriders",
+      "trailer": "https://www.youtube.com/watch?v=NReRMZfKTOQ",
+      "synopsis": "The Bikeriders, starring Austin Butler, Jodie Comer, Tom Hardy and Norman Reedus, follows the rise of a midwestern motorcycle club, the Vandals. Seen through the lives of its members, the club evolves over the course of a decade from a gathering place for local outsiders into a more sinister gang, threatening the original group’s unique way of life.",
+      "runtime": 116,
+      "times": [
+        {
+          "starts_at": "2024-08-15T16:00:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-92384/"
+        },
+        {
+          "starts_at": "2024-08-15T20:50:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-92366/"
+        }
+      ]
+    },
+    {
       "title": "DocHouse: Photographic Justice",
       "trailer": null,
       "synopsis": "For 50 years, Chinese American photographer Corky Lee documented the celebrations, struggles, and daily lives of Asian Americans with epic focus.\r\n\r\nDetermined to push mainstream media to include their culture in the visual record of American history, Lee produced an astonishing archive of nearly a million compelling photographs. Using his camera as a “weapon against injustice,” Corky Lee’s art is his activism, and his unforgettable images empowered generations.\r\n\r\nArmed with 19 years of footage of Corky in action, Jennifer Takaki’s intimate portrait reveals the triumphs and tragedies of the man behind the lens.\r\n",
@@ -741,6 +594,32 @@
           "starts_at": "2024-08-15T18:20:00+01:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-91790/"
+        }
+      ]
+    },
+    {
+      "title": "Sky Peals",
+      "trailer": "https://www.youtube.com/watch?v=cNUVvGEaYcI",
+      "synopsis": "Adam works nightshifts at a motorway service station and lives a small and lonely life. Upon hearing that his estranged father has died, he finds himself in search of answers. Piecing together a complicated image of a man he never knew, Adam starts to become convinced he descends from an alien race.\n\nWritten and directed by Moin Hussain, Sky Peals is an unconventional sci-fi drama about alienation in modern Britain, with breathtaking cinematography (shot on 35mm film) and a breakthrough lead performance by Faraz Ayub.\n",
+      "runtime": 91,
+      "times": [
+        {
+          "starts_at": "2024-08-15T18:40:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-92369/"
+        }
+      ]
+    },
+    {
+      "title": "Caligula: The Ultimate Cut",
+      "trailer": "https://www.youtube.com/watch?v=Nn8cKrkQ9cs",
+      "synopsis": "The full, unexpurgated version of Tinto Brass's infamous soft-porn Roman epic.\n\nMalcolm McDowell stars as the deranged Emperor whose depraved acts include giving his horse political office, sleeping with his own sister and executing anyone who remotely displeases him.\n\nGore Vidal provides the (uncredited) screenplay. The film, which is punctuated by a sequence of elaborate orgy scenes, remained in limbo for two years as Brass wrangled over the right to a final cut, and various versions have been in circulation over the years since its initial release.\r\n\r\nPlease note: There will be a 10-minute interval during this screening.",
+      "runtime": 178,
+      "times": [
+        {
+          "starts_at": "2024-08-15T19:30:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-92478/"
         }
       ]
     },
@@ -872,6 +751,11 @@
           "starts_at": "2024-08-16T13:20:00+01:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-26731/"
+        },
+        {
+          "starts_at": "2024-08-16T17:30:00+01:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-26836/"
         }
       ]
     },
@@ -940,6 +824,16 @@
           "starts_at": "2024-08-16T20:40:00+01:00",
           "site": "Curzon Hoxton",
           "url": "https://www.curzon.com/ticketing/seats/HOX1-17836/"
+        },
+        {
+          "starts_at": "2024-08-16T14:45:00+01:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-26835/"
+        },
+        {
+          "starts_at": "2024-08-16T20:30:00+01:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-26837/"
         }
       ]
     },
@@ -1343,6 +1237,19 @@
           "starts_at": "2024-08-16T17:40:00+01:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-92515/"
+        }
+      ]
+    },
+    {
+      "title": "Thelma",
+      "trailer": "https://www.youtube.com/watch?v=B0NlEIXbjcw",
+      "synopsis": "When 93-year-old Thelma Post gets duped by a phone scammer pretending to be her grandson, she sets out on a treacherous quest across the city to reclaim what was taken from her.",
+      "runtime": 98,
+      "times": [
+        {
+          "starts_at": "2024-08-16T12:30:00+01:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-26834/"
         }
       ]
     },
