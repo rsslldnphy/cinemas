@@ -7,19 +7,9 @@
       "runtime": 128,
       "times": [
         {
-          "starts_at": "2024-08-18T17:00:00+01:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-51077/"
-        },
-        {
           "starts_at": "2024-08-18T20:00:00+01:00",
           "site": "Curzon Aldgate",
           "url": "https://www.curzon.com/ticketing/seats/ALD1-51076/"
-        },
-        {
-          "starts_at": "2024-08-18T17:00:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-75054/"
         },
         {
           "starts_at": "2024-08-18T19:45:00+01:00",
@@ -45,19 +35,9 @@
       "runtime": 130,
       "times": [
         {
-          "starts_at": "2024-08-18T17:20:00+01:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-51081/"
-        },
-        {
           "starts_at": "2024-08-18T20:20:00+01:00",
           "site": "Curzon Aldgate",
           "url": "https://www.curzon.com/ticketing/seats/ALD1-51080/"
-        },
-        {
-          "starts_at": "2024-08-18T17:15:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-75053/"
         },
         {
           "starts_at": "2024-08-18T20:15:00+01:00",
@@ -65,19 +45,9 @@
           "url": "https://www.curzon.com/ticketing/seats/VIC1-75061/"
         },
         {
-          "starts_at": "2024-08-18T16:40:00+01:00",
-          "site": "Curzon Mayfair",
-          "url": "https://www.curzon.com/ticketing/seats/MAY1-27666/"
-        },
-        {
           "starts_at": "2024-08-18T19:40:00+01:00",
           "site": "Curzon Mayfair",
           "url": "https://www.curzon.com/ticketing/seats/MAY1-27663/"
-        },
-        {
-          "starts_at": "2024-08-18T17:00:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-26804/"
         }
       ]
     },
@@ -88,29 +58,14 @@
       "runtime": 119,
       "times": [
         {
-          "starts_at": "2024-08-18T17:40:00+01:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-50534/"
-        },
-        {
           "starts_at": "2024-08-18T20:40:00+01:00",
           "site": "Curzon Aldgate",
           "url": "https://www.curzon.com/ticketing/seats/ALD1-50533/"
         },
         {
-          "starts_at": "2024-08-18T19:15:00+01:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-46199/"
-        },
-        {
           "starts_at": "2024-08-18T20:30:00+01:00",
           "site": "Curzon Soho",
           "url": "https://www.curzon.com/ticketing/seats/SOH1-46201/"
-        },
-        {
-          "starts_at": "2024-08-18T17:45:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-74601/"
         },
         {
           "starts_at": "2024-08-18T19:30:00+01:00",
@@ -123,29 +78,9 @@
           "url": "https://www.curzon.com/ticketing/seats/VIC1-74602/"
         },
         {
-          "starts_at": "2024-08-18T17:40:00+01:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-17706/"
-        },
-        {
-          "starts_at": "2024-08-18T19:15:00+01:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-17852/"
-        },
-        {
           "starts_at": "2024-08-18T20:40:00+01:00",
           "site": "Curzon Hoxton",
           "url": "https://www.curzon.com/ticketing/seats/HOX1-17705/"
-        },
-        {
-          "starts_at": "2024-08-18T17:40:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-26690/"
-        },
-        {
-          "starts_at": "2024-08-18T19:20:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-26800/"
         },
         {
           "starts_at": "2024-08-18T20:20:00+01:00",
@@ -153,42 +88,9 @@
           "url": "https://www.curzon.com/ticketing/seats/CAM1-26689/"
         },
         {
-          "starts_at": "2024-08-18T17:40:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-92543/"
-        },
-        {
           "starts_at": "2024-08-18T20:30:00+01:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-92544/"
-        }
-      ]
-    },
-    {
-      "title": "Only The River Flows",
-      "trailer": "https://www.youtube.com/watch?v=LbgUJvkkxgg",
-      "synopsis": "Dedicated police detective Ma Zhe (Zhu Yilong) is assigned the case of a series of horrific murders in a rural Chinese town. As the investigation progresses, pressure from his\nsuperiors to find the suspected serial killer mounts, leading to a hasty arrest. But while his colleagues rush to celebrate, several clues push Ma Zhe deeper into a desperate investigation of his own– leading him into a dark world where mystery hangs over his every lead.\nA gripping crime thriller, ONLY THE RIVER FLOWS will take you on a journey into one man’s obsession with finding the truth whatever it takes.",
-      "runtime": 102,
-      "times": [
-        {
-          "starts_at": "2024-08-18T18:30:00+01:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-51085/"
-        },
-        {
-          "starts_at": "2024-08-18T18:20:00+01:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-46168/"
-        },
-        {
-          "starts_at": "2024-08-18T17:20:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-26795/"
-        },
-        {
-          "starts_at": "2024-08-18T20:40:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-92549/"
         }
       ]
     },
@@ -202,24 +104,6 @@
           "starts_at": "2024-08-18T21:00:00+01:00",
           "site": "Curzon Aldgate",
           "url": "https://www.curzon.com/ticketing/seats/ALD1-51083/"
-        },
-        {
-          "starts_at": "2024-08-18T16:45:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-75055/"
-        }
-      ]
-    },
-    {
-      "title": "Kinds of Kindness",
-      "trailer": "https://www.youtube.com/watch?v=S4vnapDN_pk",
-      "synopsis": "KINDS OF KINDNESS is a triptych fable, following a man without choice who tries to take control of his own life; a policeman who is alarmed that his wife who was missing-at-sea has returned and seems a different person; and a woman determined to find a specific someone with a special ability, who is destined to become a prodigious spiritual leader.",
-      "runtime": 164,
-      "times": [
-        {
-          "starts_at": "2024-08-18T17:00:00+01:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-46221/"
         }
       ]
     },
@@ -240,11 +124,6 @@
           "url": "https://www.curzon.com/ticketing/seats/MAY1-27664/"
         },
         {
-          "starts_at": "2024-08-18T18:00:00+01:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-17808/"
-        },
-        {
           "starts_at": "2024-08-18T19:40:00+01:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-26688/"
@@ -263,45 +142,9 @@
       "runtime": 96,
       "times": [
         {
-          "starts_at": "2024-08-18T17:30:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-75065/"
-        },
-        {
           "starts_at": "2024-08-18T20:00:00+01:00",
           "site": "Curzon Victoria",
           "url": "https://www.curzon.com/ticketing/seats/VIC1-75062/"
-        }
-      ]
-    },
-    {
-      "title": "Fly Me to the Moon",
-      "trailer": "https://www.youtube.com/watch?v=-1iSWMMnxaU",
-      "synopsis": "Starring Scarlett Johansson and Channing Tatum, FLY ME TO THE MOON is a sharp, stylish comedy-drama set against the high-stakes backdrop of NASA’s historic Apollo 11 moon landing. Brought in to fix NASA’s public image, sparks fly in all directions as marketing maven Kelly Jones (Johansson) wreaks havoc on launch director Cole Davis’s (Tatum) already difficult task. When the White House deems the mission too important to fail, Jones is directed to stage a fake moon landing as back-up and the countdown truly begins…",
-      "runtime": 132,
-      "times": [
-        {
-          "starts_at": "2024-08-18T17:00:00+01:00",
-          "site": "Curzon Mayfair",
-          "url": "https://www.curzon.com/ticketing/seats/MAY1-27665/"
-        }
-      ]
-    },
-    {
-      "title": "Radical",
-      "trailer": null,
-      "synopsis": "In a Mexican border town plagued by neglect and corruption, a frustrated teacher (Emmy Award nominee Eugenio Derbez, CODA) tries a radical new method to unleash the curiosity and potential of his students... and maybe even their genius.\n\nBased on an incredible true story. Winner of the \"Festival Favorite\" Award at Sundance Film Festival.",
-      "runtime": 125,
-      "times": [
-        {
-          "starts_at": "2024-08-18T16:40:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-26801/"
-        },
-        {
-          "starts_at": "2024-08-18T17:10:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-92546/"
         }
       ]
     },
@@ -312,45 +155,9 @@
       "runtime": 101,
       "times": [
         {
-          "starts_at": "2024-08-18T18:20:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-26807/"
-        },
-        {
           "starts_at": "2024-08-18T20:40:00+01:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-26796/"
-        }
-      ]
-    },
-    {
-      "title": "La Chimera",
-      "trailer": "https://www.youtube.com/watch?v=k0oGUwzxefk",
-      "synopsis": "Set in the 1980s, in the former Etruscian landscape of rural Italy, Arthur, a vagabond-type character, is mourning the loss of his love. A local ragtag group of graverobbers make use of his archaeological skills to find ancient tombs filled with artefacts, but Arthur uses the digs to search for a door to the afterlife, of which myths speak, where he imagines reuniting with her.",
-      "runtime": 131,
-      "times": [
-        {
-          "starts_at": "2024-08-18T17:20:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-92551/"
-        },
-        {
-          "starts_at": "2024-08-18T20:20:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-92552/"
-        }
-      ]
-    },
-    {
-      "title": "Sing Sing",
-      "trailer": "https://www.youtube.com/watch?v=2a7nnfpNcF0",
-      "synopsis": "Divine G (Colman Domingo), imprisoned at Sing Sing for a crime he didn’t commit, finds purpose by acting in a theatre group alongside other incarcerated men, including wary newcomer (Clarence Maclin), in this stirring true story of resilience, humanity, and the transformative power of art, starring an unforgettable ensemble cast of formerly incarcerated actors.",
-      "runtime": 106,
-      "times": [
-        {
-          "starts_at": "2024-08-18T17:30:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-92492/"
         }
       ]
     },
@@ -361,27 +168,9 @@
       "runtime": 125,
       "times": [
         {
-          "starts_at": "2024-08-18T18:00:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-92539/"
-        },
-        {
           "starts_at": "2024-08-18T20:00:00+01:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-92540/"
-        }
-      ]
-    },
-    {
-      "title": "DocHouse: Photographic Justice",
-      "trailer": null,
-      "synopsis": "For 50 years, Chinese American photographer Corky Lee documented the celebrations, struggles, and daily lives of Asian Americans with epic focus.\r\n\r\nDetermined to push mainstream media to include their culture in the visual record of American history, Lee produced an astonishing archive of nearly a million compelling photographs. Using his camera as a “weapon against injustice,” Corky Lee’s art is his activism, and his unforgettable images empowered generations.\r\n\r\nArmed with 19 years of footage of Corky in action, Jennifer Takaki’s intimate portrait reveals the triumphs and tragedies of the man behind the lens.\r\n",
-      "runtime": 87,
-      "times": [
-        {
-          "starts_at": "2024-08-18T18:20:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-92632/"
         }
       ]
     },
@@ -395,6 +184,32 @@
           "starts_at": "2024-08-18T20:10:00+01:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-92633/"
+        }
+      ]
+    },
+    {
+      "title": "La Chimera",
+      "trailer": "https://www.youtube.com/watch?v=k0oGUwzxefk",
+      "synopsis": "Set in the 1980s, in the former Etruscian landscape of rural Italy, Arthur, a vagabond-type character, is mourning the loss of his love. A local ragtag group of graverobbers make use of his archaeological skills to find ancient tombs filled with artefacts, but Arthur uses the digs to search for a door to the afterlife, of which myths speak, where he imagines reuniting with her.",
+      "runtime": 131,
+      "times": [
+        {
+          "starts_at": "2024-08-18T20:20:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-92552/"
+        }
+      ]
+    },
+    {
+      "title": "Only The River Flows",
+      "trailer": "https://www.youtube.com/watch?v=LbgUJvkkxgg",
+      "synopsis": "Dedicated police detective Ma Zhe (Zhu Yilong) is assigned the case of a series of horrific murders in a rural Chinese town. As the investigation progresses, pressure from his\nsuperiors to find the suspected serial killer mounts, leading to a hasty arrest. But while his colleagues rush to celebrate, several clues push Ma Zhe deeper into a desperate investigation of his own– leading him into a dark world where mystery hangs over his every lead.\nA gripping crime thriller, ONLY THE RIVER FLOWS will take you on a journey into one man’s obsession with finding the truth whatever it takes.",
+      "runtime": 102,
+      "times": [
+        {
+          "starts_at": "2024-08-18T20:40:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-92549/"
         }
       ]
     }
@@ -3656,23 +3471,79 @@
       ]
     },
     {
+      "title": "The Turin Horse",
+      "trailer": "https://www.youtube.com/watch?v=gEkP5PjUyU4",
+      "synopsis": "Taking its cue from Nietsche's famous encounter with a mistreated horse on Via Carlo Alberto, The Turin Horse depicts the aftermath of this seemingly innocuous but destructively profound confrontation. Following a man and his daughter in their daily routine, a bizarre series of disturbing events slowly begin to strip life of its very essence resulting in a terrifying, all-consuming finale.\n\nRaw, compelling and emotionally devastating, Béla Tarr’s final film is a daringly original and searingly vivid work of artistically precise, philosophically rigorous filmmaking that has left audiences the world over gasping for breath. This work is also committed to Tarr's 'remodernist cinema' that seeks to capture the rhythm of life in real time and to raise a sharp awareness of the moment.",
+      "runtime": 155,
+      "times": [
+        {
+          "starts_at": "2024-08-25T14:00:00+01:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-50256/"
+        }
+      ]
+    },
+    {
+      "title": "Blink Twice",
+      "trailer": "https://www.youtube.com/watch?v=vVoyBSgTjOs",
+      "synopsis": "When tech billionaire Slater King (Channing Tatum) meets cocktail waitress Frida (Naomi Ackie) at his fundraising gala, sparks fly. He invites her to join him and his friends on a dream vacation on his private island. It’s paradise. Wild nights blend into sun-soaked days and everyone's having a great time. No one wants this trip to end, but as strange things start to happen, Frida begins to question her reality. There is something wrong with this place. She’ll have to uncover the truth if she wants to make it out of this party alive.\n\nWith an ensemble cast including Naomi Ackie, Channing Tatum, Alia Shawkat, Simon Rex, Adria Arjona, Haley Joel Osment, Christian Slater, Kyle MacLachlan and Geena Davis, BLINK TWICE is a wild new psychological thriller directed by Zoë Kravitz.",
+      "runtime": 102,
+      "times": [
+        {
+          "starts_at": "2024-08-25T15:20:00+01:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-50981/"
+        },
+        {
+          "starts_at": "2024-08-25T18:00:00+01:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-50980/"
+        },
+        {
+          "starts_at": "2024-08-25T20:40:00+01:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-50979/"
+        },
+        {
+          "starts_at": "2024-08-25T12:45:00+01:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-74995/"
+        },
+        {
+          "starts_at": "2024-08-25T15:15:00+01:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-74996/"
+        },
+        {
+          "starts_at": "2024-08-25T17:45:00+01:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-74997/"
+        },
+        {
+          "starts_at": "2024-08-25T20:15:00+01:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-74998/"
+        },
+        {
+          "starts_at": "2024-08-25T11:20:00+01:00",
+          "site": "Curzon Mayfair",
+          "url": "https://www.curzon.com/ticketing/seats/MAY1-27642/"
+        },
+        {
+          "starts_at": "2024-08-25T19:40:00+01:00",
+          "site": "Curzon Mayfair",
+          "url": "https://www.curzon.com/ticketing/seats/MAY1-27641/"
+        }
+      ]
+    },
+    {
       "title": "Kneecap",
       "trailer": "https://www.youtube.com/watch?v=2sCxDw8v5cY",
       "synopsis": "Of the 80,000 native Irish speakers, 6,000 live in the North of Ireland and three of them became a rap group called Kneecap. This is the real-life story of how this anarchic Belfast trio became the unlikely figureheads of a civil rights movement to save and reinvigorate their mother tongue. ",
       "runtime": 105,
       "times": [
         {
-          "starts_at": "2024-08-25T13:00:00+01:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-50558/"
-        },
-        {
-          "starts_at": "2024-08-25T15:40:00+01:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-50559/"
-        },
-        {
-          "starts_at": "2024-08-25T18:20:00+01:00",
+          "starts_at": "2024-08-25T17:20:00+01:00",
           "site": "Curzon Aldgate",
           "url": "https://www.curzon.com/ticketing/seats/ALD1-50560/"
         },
@@ -3774,90 +3645,6 @@
       ]
     },
     {
-      "title": "The Turin Horse",
-      "trailer": "https://www.youtube.com/watch?v=gEkP5PjUyU4",
-      "synopsis": "Taking its cue from Nietsche's famous encounter with a mistreated horse on Via Carlo Alberto, The Turin Horse depicts the aftermath of this seemingly innocuous but destructively profound confrontation. Following a man and his daughter in their daily routine, a bizarre series of disturbing events slowly begin to strip life of its very essence resulting in a terrifying, all-consuming finale.\n\nRaw, compelling and emotionally devastating, Béla Tarr’s final film is a daringly original and searingly vivid work of artistically precise, philosophically rigorous filmmaking that has left audiences the world over gasping for breath. This work is also committed to Tarr's 'remodernist cinema' that seeks to capture the rhythm of life in real time and to raise a sharp awareness of the moment.",
-      "runtime": 155,
-      "times": [
-        {
-          "starts_at": "2024-08-25T14:00:00+01:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-50256/"
-        }
-      ]
-    },
-    {
-      "title": "Blink Twice",
-      "trailer": "https://www.youtube.com/watch?v=vVoyBSgTjOs",
-      "synopsis": "When tech billionaire Slater King (Channing Tatum) meets cocktail waitress Frida (Naomi Ackie) at his fundraising gala, sparks fly. He invites her to join him and his friends on a dream vacation on his private island. It’s paradise. Wild nights blend into sun-soaked days and everyone's having a great time. No one wants this trip to end, but as strange things start to happen, Frida begins to question her reality. There is something wrong with this place. She’ll have to uncover the truth if she wants to make it out of this party alive.\n\nWith an ensemble cast including Naomi Ackie, Channing Tatum, Alia Shawkat, Simon Rex, Adria Arjona, Haley Joel Osment, Christian Slater, Kyle MacLachlan and Geena Davis, BLINK TWICE is a wild new psychological thriller directed by Zoë Kravitz.",
-      "runtime": 102,
-      "times": [
-        {
-          "starts_at": "2024-08-25T15:20:00+01:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-50981/"
-        },
-        {
-          "starts_at": "2024-08-25T18:00:00+01:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-50980/"
-        },
-        {
-          "starts_at": "2024-08-25T20:40:00+01:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-50979/"
-        },
-        {
-          "starts_at": "2024-08-25T12:45:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-74995/"
-        },
-        {
-          "starts_at": "2024-08-25T15:15:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-74996/"
-        },
-        {
-          "starts_at": "2024-08-25T17:45:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-74997/"
-        },
-        {
-          "starts_at": "2024-08-25T20:15:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-74998/"
-        },
-        {
-          "starts_at": "2024-08-25T11:20:00+01:00",
-          "site": "Curzon Mayfair",
-          "url": "https://www.curzon.com/ticketing/seats/MAY1-27642/"
-        },
-        {
-          "starts_at": "2024-08-25T19:40:00+01:00",
-          "site": "Curzon Mayfair",
-          "url": "https://www.curzon.com/ticketing/seats/MAY1-27641/"
-        }
-      ]
-    },
-    {
-      "title": "Cuckoo",
-      "trailer": "https://www.youtube.com/watch?v=okX9NcOM_TM",
-      "synopsis": "Reluctantly, 17-year-old Gretchen leaves her American home to live with her father, who has just moved into a resort in the German Alps with his new family. Arriving at their future residence, they are greeted by Mr. König, her father's boss, who takes an inexplicable interest in Gretchen's mute half-sister Alma. Something doesn't seem right in this tranquil vacation paradise. Gretchen is plagued by strange noises and bloody visions until she discovers a shocking secret that also concerns her own family.",
-      "runtime": 103,
-      "times": [
-        {
-          "starts_at": "2024-08-25T20:20:00+01:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-50995/"
-        },
-        {
-          "starts_at": "2024-08-25T21:00:00+01:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-17680/"
-        }
-      ]
-    },
-    {
       "title": "CURZON90: Parasite",
       "trailer": "https://www.youtube.com/watch?v=tBfgTZsBeFM",
       "synopsis": "Winner of the 2020 Oscar for Best Picture, Best Director, Best Original Screenplay and Best International Film, the 2020 BAFTA for Best Film Not in the English Language and Best Original Screenplay, and the Palme d'Or at the 2019 Cannes Film Festival. Bong Joon-ho ('Snowpiercer' 'Okja') returns with this black comedy about wealth, greed and class discrimination. Kim Ki-teak's (Song Kang-ho) family are all unemployed and living in a squalid basement. When his son gets a tutoring job at the lavish home of the Park family, the Kim family's luck changes. One by one they gradually infiltrate the wealthy Park's home, attempting to take over their affluent lifestyle.\r\n\r\nPlaying as part of the Save Curzon Mayfair campaign.",
@@ -3885,6 +3672,19 @@
           "starts_at": "2024-08-25T18:20:00+01:00",
           "site": "Curzon Hoxton",
           "url": "https://www.curzon.com/ticketing/seats/HOX1-17679/"
+        }
+      ]
+    },
+    {
+      "title": "Cuckoo",
+      "trailer": "https://www.youtube.com/watch?v=okX9NcOM_TM",
+      "synopsis": "Reluctantly, 17-year-old Gretchen leaves her American home to live with her father, who has just moved into a resort in the German Alps with his new family. Arriving at their future residence, they are greeted by Mr. König, her father's boss, who takes an inexplicable interest in Gretchen's mute half-sister Alma. Something doesn't seem right in this tranquil vacation paradise. Gretchen is plagued by strange noises and bloody visions until she discovers a shocking secret that also concerns her own family.",
+      "runtime": 103,
+      "times": [
+        {
+          "starts_at": "2024-08-25T21:00:00+01:00",
+          "site": "Curzon Hoxton",
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-17680/"
         }
       ]
     },
