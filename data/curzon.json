@@ -7,11 +7,6 @@
       "runtime": 130,
       "times": [
         {
-          "starts_at": "2024-08-21T14:20:00+01:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-51020/"
-        },
-        {
           "starts_at": "2024-08-21T17:20:00+01:00",
           "site": "Curzon Aldgate",
           "url": "https://www.curzon.com/ticketing/seats/ALD1-51022/"
@@ -22,11 +17,6 @@
           "url": "https://www.curzon.com/ticketing/seats/ALD1-51021/"
         },
         {
-          "starts_at": "2024-08-21T14:45:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-75085/"
-        },
-        {
           "starts_at": "2024-08-21T17:45:00+01:00",
           "site": "Curzon Victoria",
           "url": "https://www.curzon.com/ticketing/seats/VIC1-75095/"
@@ -35,11 +25,6 @@
           "starts_at": "2024-08-21T20:45:00+01:00",
           "site": "Curzon Victoria",
           "url": "https://www.curzon.com/ticketing/seats/VIC1-75090/"
-        },
-        {
-          "starts_at": "2024-08-21T15:00:00+01:00",
-          "site": "Curzon Mayfair",
-          "url": "https://www.curzon.com/ticketing/seats/MAY1-27685/"
         },
         {
           "starts_at": "2024-08-21T18:00:00+01:00",
@@ -65,11 +50,6 @@
       "runtime": 128,
       "times": [
         {
-          "starts_at": "2024-08-21T14:45:00+01:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-51013/"
-        },
-        {
           "starts_at": "2024-08-21T17:40:00+01:00",
           "site": "Curzon Aldgate",
           "url": "https://www.curzon.com/ticketing/seats/ALD1-51015/"
@@ -78,11 +58,6 @@
           "starts_at": "2024-08-21T20:40:00+01:00",
           "site": "Curzon Aldgate",
           "url": "https://www.curzon.com/ticketing/seats/ALD1-51014/"
-        },
-        {
-          "starts_at": "2024-08-21T15:00:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-75084/"
         },
         {
           "starts_at": "2024-08-21T17:30:00+01:00",
@@ -95,11 +70,6 @@
           "url": "https://www.curzon.com/ticketing/seats/VIC1-75092/"
         },
         {
-          "starts_at": "2024-08-21T15:20:00+01:00",
-          "site": "Curzon Mayfair",
-          "url": "https://www.curzon.com/ticketing/seats/MAY1-27689/"
-        },
-        {
           "starts_at": "2024-08-21T16:30:00+01:00",
           "site": "Curzon Hoxton",
           "url": "https://www.curzon.com/ticketing/seats/HOX1-17871/"
@@ -108,11 +78,6 @@
           "starts_at": "2024-08-21T20:40:00+01:00",
           "site": "Curzon Hoxton",
           "url": "https://www.curzon.com/ticketing/seats/HOX1-17873/"
-        },
-        {
-          "starts_at": "2024-08-21T14:45:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-26761/"
         },
         {
           "starts_at": "2024-08-21T20:30:00+01:00",
@@ -128,11 +93,6 @@
       "runtime": 119,
       "times": [
         {
-          "starts_at": "2024-08-21T15:30:00+01:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-51018/"
-        },
-        {
           "starts_at": "2024-08-21T18:15:00+01:00",
           "site": "Curzon Aldgate",
           "url": "https://www.curzon.com/ticketing/seats/ALD1-51017/"
@@ -143,11 +103,6 @@
           "url": "https://www.curzon.com/ticketing/seats/ALD1-51016/"
         },
         {
-          "starts_at": "2024-08-21T15:15:00+01:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-46212/"
-        },
-        {
           "starts_at": "2024-08-21T18:20:00+01:00",
           "site": "Curzon Soho",
           "url": "https://www.curzon.com/ticketing/seats/SOH1-46211/"
@@ -156,16 +111,6 @@
           "starts_at": "2024-08-21T20:20:00+01:00",
           "site": "Curzon Soho",
           "url": "https://www.curzon.com/ticketing/seats/SOH1-46214/"
-        },
-        {
-          "starts_at": "2024-08-21T14:30:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-75086/"
-        },
-        {
-          "starts_at": "2024-08-21T15:30:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-74593/"
         },
         {
           "starts_at": "2024-08-21T18:15:00+01:00",
@@ -183,11 +128,6 @@
           "url": "https://www.curzon.com/ticketing/seats/VIC1-74591/"
         },
         {
-          "starts_at": "2024-08-21T15:00:00+01:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-17714/"
-        },
-        {
           "starts_at": "2024-08-21T18:00:00+01:00",
           "site": "Curzon Hoxton",
           "url": "https://www.curzon.com/ticketing/seats/HOX1-17713/"
@@ -201,16 +141,6 @@
           "starts_at": "2024-08-21T21:00:00+01:00",
           "site": "Curzon Hoxton",
           "url": "https://www.curzon.com/ticketing/seats/HOX1-17712/"
-        },
-        {
-          "starts_at": "2024-08-21T14:30:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-26757/"
-        },
-        {
-          "starts_at": "2024-08-21T15:30:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-26709/"
         },
         {
           "starts_at": "2024-08-21T18:10:00+01:00",
@@ -228,11 +158,6 @@
           "url": "https://www.curzon.com/ticketing/seats/CAM1-26711/"
         },
         {
-          "starts_at": "2024-08-21T15:30:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-92591/"
-        },
-        {
           "starts_at": "2024-08-21T18:10:00+01:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-92592/"
@@ -241,24 +166,6 @@
           "starts_at": "2024-08-21T20:50:00+01:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-92593/"
-        }
-      ]
-    },
-    {
-      "title": "Trap",
-      "trailer": "https://www.youtube.com/watch?v=KnIzclNaO08",
-      "synopsis": "\n\nA father and teen daughter attend a pop concert, where they realize they’re at the center of a dark and sinister event.",
-      "runtime": 105,
-      "times": [
-        {
-          "starts_at": "2024-08-21T16:15:00+01:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-51019/"
-        },
-        {
-          "starts_at": "2024-08-21T17:15:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-75097/"
         }
       ]
     },
@@ -274,11 +181,6 @@
           "url": "https://www.curzon.com/ticketing/seats/ALD1-51025/"
         },
         {
-          "starts_at": "2024-08-21T15:50:00+01:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-46184/"
-        },
-        {
           "starts_at": "2024-08-21T21:00:00+01:00",
           "site": "Curzon Soho",
           "url": "https://www.curzon.com/ticketing/seats/SOH1-46181/"
@@ -287,11 +189,6 @@
           "starts_at": "2024-08-21T17:50:00+01:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-26751/"
-        },
-        {
-          "starts_at": "2024-08-21T16:20:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-92609/"
         },
         {
           "starts_at": "2024-08-21T21:00:00+01:00",
@@ -312,11 +209,6 @@
           "url": "https://www.curzon.com/ticketing/seats/ALD1-51024/"
         },
         {
-          "starts_at": "2024-08-21T16:10:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-26764/"
-        },
-        {
           "starts_at": "2024-08-21T18:30:00+01:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-26765/"
@@ -325,67 +217,6 @@
           "starts_at": "2024-08-21T21:10:00+01:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-26753/"
-        }
-      ]
-    },
-    {
-      "title": "Hollywoodgate",
-      "trailer": null,
-      "synopsis": "When the United States withdrew from its twenty-year “forever war” in Afghanistan, the Taliban retook control of the ravaged country and immediately found an American base loaded with weaponry—a portion of the over $7 billion in U.S. armaments still in the country. Unprecedented and audacious, director Ibrahim Nash’at’s HOLLYWOODGATE spends a year inside Afghanistan following the Taliban as they take possession of the cache America left behind—and transform from a fundamentalist militia into a heavily armed military regime.",
-      "runtime": 92,
-      "times": [
-        {
-          "starts_at": "2024-08-21T13:30:00+01:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-46183/"
-        },
-        {
-          "starts_at": "2024-08-21T18:40:00+01:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-46182/"
-        },
-        {
-          "starts_at": "2024-08-21T18:20:00+01:00",
-          "site": "Curzon Mayfair",
-          "url": "https://www.curzon.com/ticketing/seats/MAY1-27687/"
-        },
-        {
-          "starts_at": "2024-08-21T16:00:00+01:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-17813/"
-        },
-        {
-          "starts_at": "2024-08-21T18:20:00+01:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-17812/"
-        },
-        {
-          "starts_at": "2024-08-21T15:45:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-26755/"
-        },
-        {
-          "starts_at": "2024-08-21T20:10:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-26712/"
-        },
-        {
-          "starts_at": "2024-08-21T18:40:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-92167/"
-        }
-      ]
-    },
-    {
-      "title": "Kinds of Kindness",
-      "trailer": "https://www.youtube.com/watch?v=S4vnapDN_pk",
-      "synopsis": "KINDS OF KINDNESS is a triptych fable, following a man without choice who tries to take control of his own life; a policeman who is alarmed that his wife who was missing-at-sea has returned and seems a different person; and a woman determined to find a specific someone with a special ability, who is destined to become a prodigious spiritual leader.",
-      "runtime": 164,
-      "times": [
-        {
-          "starts_at": "2024-08-21T14:45:00+01:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-46231/"
         }
       ]
     },
@@ -403,6 +234,39 @@
       ]
     },
     {
+      "title": "Hollywoodgate",
+      "trailer": null,
+      "synopsis": "When the United States withdrew from its twenty-year “forever war” in Afghanistan, the Taliban retook control of the ravaged country and immediately found an American base loaded with weaponry—a portion of the over $7 billion in U.S. armaments still in the country. Unprecedented and audacious, director Ibrahim Nash’at’s HOLLYWOODGATE spends a year inside Afghanistan following the Taliban as they take possession of the cache America left behind—and transform from a fundamentalist militia into a heavily armed military regime.",
+      "runtime": 92,
+      "times": [
+        {
+          "starts_at": "2024-08-21T18:40:00+01:00",
+          "site": "Curzon Soho",
+          "url": "https://www.curzon.com/ticketing/seats/SOH1-46182/"
+        },
+        {
+          "starts_at": "2024-08-21T18:20:00+01:00",
+          "site": "Curzon Mayfair",
+          "url": "https://www.curzon.com/ticketing/seats/MAY1-27687/"
+        },
+        {
+          "starts_at": "2024-08-21T18:20:00+01:00",
+          "site": "Curzon Hoxton",
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-17812/"
+        },
+        {
+          "starts_at": "2024-08-21T20:10:00+01:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-26712/"
+        },
+        {
+          "starts_at": "2024-08-21T18:40:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-92167/"
+        }
+      ]
+    },
+    {
       "title": "MaXXXine",
       "trailer": "https://www.youtube.com/watch?v=_xqA_pGssaw",
       "synopsis": "Follows Maxine, who was the only survivor of the bloody incidents of X, as she continues her journey towards fame to be an actress in 1980's Los Angeles.",
@@ -416,16 +280,24 @@
       ]
     },
     {
+      "title": "Trap",
+      "trailer": "https://www.youtube.com/watch?v=KnIzclNaO08",
+      "synopsis": "\n\nA father and teen daughter attend a pop concert, where they realize they’re at the center of a dark and sinister event.",
+      "runtime": 105,
+      "times": [
+        {
+          "starts_at": "2024-08-21T17:15:00+01:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-75097/"
+        }
+      ]
+    },
+    {
       "title": "Inside Out 2",
       "trailer": "https://www.youtube.com/watch?v=EzEZVTaXE6E",
       "synopsis": "Disney and Pixar’s “Inside Out 2” returns to the mind of newly minted teenager Riley just as headquarters is undergoing a sudden demolition to make room for something entirely unexpected: new Emotions! Joy, Sadness, Anger, Fear and Disgust, who’ve long been running a successful operation\nby all accounts, aren’t sure how to feel when Anxiety shows up. And it looks like she’s not alone. Maya Hawke lends her voice to Anxiety, alongside Amy Poehler as the voice of Joy. The voice cast also includes Lewis Black, Phyllis Smith, Tony Hale, Liza Lapira, Ayo Edebiri, Adèle Exarchopoulos, Paul\nWalter Hauser, Kensington Tallman, Lilimar, Diane Lane, Kyle MacLachlan, Sumayyah Nuriddin-Green, Grace Lu and Yvette Nicole Brown. Directed by Kelsey Mann and produced by Mark Nielsen with a screenplay by Meg LeFauve and Dave Holstein, “Inside Out 2” features a score by Andrea Datzman.",
       "runtime": 96,
       "times": [
-        {
-          "starts_at": "2024-08-21T15:15:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-75083/"
-        },
         {
           "starts_at": "2024-08-21T18:00:00+01:00",
           "site": "Curzon Victoria",
@@ -458,11 +330,6 @@
       "runtime": 125,
       "times": [
         {
-          "starts_at": "2024-08-21T13:30:00+01:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-17869/"
-        },
-        {
           "starts_at": "2024-08-21T17:10:00+01:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-26759/"
@@ -481,16 +348,6 @@
       "runtime": 131,
       "times": [
         {
-          "starts_at": "2024-08-21T13:30:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-92595/"
-        },
-        {
-          "starts_at": "2024-08-21T15:00:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-92596/"
-        },
-        {
           "starts_at": "2024-08-21T17:50:00+01:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-92597/"
@@ -499,60 +356,6 @@
           "starts_at": "2024-08-21T20:40:00+01:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-92598/"
-        }
-      ]
-    },
-    {
-      "title": "DocHouse: Swan Song",
-      "trailer": null,
-      "synopsis": "Chelsea McMullan's captivating film takes us behind the scenes and into the rehearsal rooms of an ambitious production of Swan Lake, directed by ballet icon Karen Kain.\r\n\r\nOn the eve of her retirement, the ballet legend takes on a directing role at the National Ballet of Canada to mount her own vision of the beloved ballet. Swan Song captures the dramatic creation process from the rigours of the rehearsal studio to the much-anticipated, breathtaking opening night.\r\n\r\nFocusing in on performers from the corps de ballet right up to the principal dancer, the choreographer, crew and Karen Kain herself, this is a fascinating immersion into the guts and graft behind the beauty of the ballet. ",
-      "runtime": 103,
-      "times": [
-        {
-          "starts_at": "2024-08-21T14:50:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-92639/"
-        }
-      ]
-    },
-    {
-      "title": "Babes",
-      "trailer": "https://www.youtube.com/watch?v=05d8svYB1DQ",
-      "synopsis": "BABES follows inseparable childhood best friends Eden (Ilana Glazer) and Dawn (Michelle Buteau), having grown up together in NYC, now firmly in different phases of adulthood. When carefree and single Eden decides to have a baby on her own after a one-night stand, their friendship faces its greatest challenge. BABES delves into the complexities of female friendship with a blend of laughter, tears, and labor pains.\n\nFrom co-writers Ilana Glazer and Josh Rabinowitz and directed by Pamela Adlon, BABES is a hilarious and heartfelt comedy about the bonds of friendship and the messy, unpredictable challenges of adulthood and becoming a parent.",
-      "runtime": 104,
-      "times": [
-        {
-          "starts_at": "2024-08-21T15:15:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-92605/"
-        },
-        {
-          "starts_at": "2024-08-21T21:10:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-92607/"
-        }
-      ]
-    },
-    {
-      "title": "Perfect Days",
-      "trailer": null,
-      "synopsis": "A highly anticipated return to fiction feature filmmaking from Wim Wenders (Paris, Texas, Wings of Desire), PERFECT DAYS takes the writer-director to Tokyo to tell a story celebrating the hidden joys and minutiae of Japanese culture. Winner of the Best Actor award at Cannes 2023, Koji Yakusho (Babel, 13 Assassins) stars as Hirayama, a contemplative middle-aged man who lives a life of modesty and serenity, spending his days balancing his job as a dutiful caretaker of Tokyo’s numerous public toilets with his passion for music, literature and photography. As we join him on his structured daily routine, a series of unexpected encounters gradually begin to reveal a hidden past that lies behind his otherwise content and harmonious life. \n\nCombining a refreshingly unstereotypical depiction of the Japanese capital with a soundtrack comprised of iconic hits from the 60s and 80s, this is a subtle, shimmering and ultimately life-affirming reflection on finding beauty in the everyday world around us. Japan’s entry for Best International Film at the 2024 Academy Awards.\n",
-      "runtime": 125,
-      "times": [
-        {
-          "starts_at": "2024-08-21T15:45:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-92600/"
-        },
-        {
-          "starts_at": "2024-08-21T18:30:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-92601/"
-        },
-        {
-          "starts_at": "2024-08-21T20:30:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-92602/"
         }
       ]
     },
@@ -570,6 +373,24 @@
       ]
     },
     {
+      "title": "Perfect Days",
+      "trailer": null,
+      "synopsis": "A highly anticipated return to fiction feature filmmaking from Wim Wenders (Paris, Texas, Wings of Desire), PERFECT DAYS takes the writer-director to Tokyo to tell a story celebrating the hidden joys and minutiae of Japanese culture. Winner of the Best Actor award at Cannes 2023, Koji Yakusho (Babel, 13 Assassins) stars as Hirayama, a contemplative middle-aged man who lives a life of modesty and serenity, spending his days balancing his job as a dutiful caretaker of Tokyo’s numerous public toilets with his passion for music, literature and photography. As we join him on his structured daily routine, a series of unexpected encounters gradually begin to reveal a hidden past that lies behind his otherwise content and harmonious life. \n\nCombining a refreshingly unstereotypical depiction of the Japanese capital with a soundtrack comprised of iconic hits from the 60s and 80s, this is a subtle, shimmering and ultimately life-affirming reflection on finding beauty in the everyday world around us. Japan’s entry for Best International Film at the 2024 Academy Awards.\n",
+      "runtime": 125,
+      "times": [
+        {
+          "starts_at": "2024-08-21T18:30:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-92601/"
+        },
+        {
+          "starts_at": "2024-08-21T20:30:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-92602/"
+        }
+      ]
+    },
+    {
       "title": "DocHouse: A Story Of Bones",
       "trailer": null,
       "synopsis": "As the Chief Environmental Officer for Saint Helena’s troubled £285m ($360m) airport project, Annina Van Neel learned of the island’s most terrible atrocity – an unmarked mass burial ground of an estimated 9,000 formerly enslaved Africans in Rupert’s Valley. It is one of the most significant traces of the transatlantic slave trade still on earth.\r\n\r\nHaunted by this historical injustice, Annina now fights alongside renowned African American preservationist Peggy King Jorde and a group of disenfranchised islanders – many of them descendants of the formerly enslaved – for the proper memorialisation of these forgotten victims. The resistance they face exposes disturbing truths about the UK’s colonial past and present.",
@@ -579,6 +400,19 @@
           "starts_at": "2024-08-21T20:10:00+01:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-92641/"
+        }
+      ]
+    },
+    {
+      "title": "Babes",
+      "trailer": "https://www.youtube.com/watch?v=05d8svYB1DQ",
+      "synopsis": "BABES follows inseparable childhood best friends Eden (Ilana Glazer) and Dawn (Michelle Buteau), having grown up together in NYC, now firmly in different phases of adulthood. When carefree and single Eden decides to have a baby on her own after a one-night stand, their friendship faces its greatest challenge. BABES delves into the complexities of female friendship with a blend of laughter, tears, and labor pains.\n\nFrom co-writers Ilana Glazer and Josh Rabinowitz and directed by Pamela Adlon, BABES is a hilarious and heartfelt comedy about the bonds of friendship and the messy, unpredictable challenges of adulthood and becoming a parent.",
+      "runtime": 104,
+      "times": [
+        {
+          "starts_at": "2024-08-21T21:10:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-92607/"
         }
       ]
     }
