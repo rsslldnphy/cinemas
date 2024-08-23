@@ -1,7 +1,4 @@
 {
-  "2024-08-22": [
-
-  ],
   "2024-08-23": [
     {
       "title": "Deadpool & Wolverine",
@@ -5115,6 +5112,62 @@
           "starts_at": "2024-08-29T20:00:00+01:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-92811/"
+        }
+      ]
+    }
+  ],
+  "2024-08-30": [
+    {
+      "title": "Sing Sing",
+      "trailer": "https://www.youtube.com/watch?v=i_SKJJSLw_M",
+      "synopsis": "Divine G (Colman Domingo), imprisoned at Sing Sing for a crime he didn’t commit, finds purpose by acting in a theatre group alongside other incarcerated men, including wary newcomer (Clarence Maclin), in this stirring true story of resilience, humanity, and the transformative power of art, starring an unforgettable ensemble cast of formerly incarcerated actors.",
+      "runtime": 106,
+      "times": [
+        {
+          "starts_at": "2024-08-30T20:45:00+01:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-75242/"
+        },
+        {
+          "starts_at": "2024-08-30T18:30:00+01:00",
+          "site": "Curzon Hoxton",
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-17919/"
+        },
+        {
+          "starts_at": "2024-08-30T19:50:00+01:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-26959/"
+        },
+        {
+          "starts_at": "2024-08-30T18:40:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-92819/"
+        }
+      ]
+    },
+    {
+      "title": "DocHouse: Farming The Revolution",
+      "trailer": null,
+      "synopsis": "A stirring account of peaceful mass protest, Farming the Revolution follows the year-long Indian farmers' protest of 2020, an outcry in response to the country's newly enacted agricultural laws.\r\n\r\nDriving tractors from Punjab to the border of Delhi, bringing food to share and setting up camp, over half a million protesters gathered - men and women from all generations, religions, classes and castes - determined to hold their ground until the laws were repealed.\r\n\r\nNishtha Jain's expansive portrait invites us to experience the everyday textures and indomitable spirit of this unprecedented movement, which culminated in an historic, triumphant outcome.  \r\n",
+      "runtime": 105,
+      "times": [
+        {
+          "starts_at": "2024-08-30T18:20:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-92160/"
+        }
+      ]
+    },
+    {
+      "title": "DocHouse: War Game",
+      "trailer": null,
+      "synopsis": "As the US election looms, War Game considers what could happen on January 6, 2025, if the presidential vote is once again, and even more vigorously, contested.\r\n\r\nA bi-partisan group of ex-government and mililtary officials gather to play out an immersive, fully-staged simulation in the White House Situation Room, stress-testing the country's preparedness for such a crisis. In this tense role play, they must respond to another Jan 6 insurrection, but this time with members of the US military defecting to support the losing Presidential candidate.\r\n\r\nPlaying out like a real-life political thriller, this expertly crafted hybrid doc is underpinned by fascinating analysis of the ever-gathering, disillusioned US far right, and the growing number of military personal joining their ranks. The scenario here is fictional, but the possibility feels urgently real.",
+      "runtime": 94,
+      "times": [
+        {
+          "starts_at": "2024-08-30T20:30:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-92169/"
         }
       ]
     }
