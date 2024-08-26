@@ -1,7 +1,4 @@
 {
-  "2024-08-25": [
-
-  ],
   "2024-08-26": [
     {
       "title": "Deadpool & Wolverine",
@@ -3127,6 +3124,36 @@
           "starts_at": "2024-09-01T15:30:00+01:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-92161/"
+        }
+      ]
+    }
+  ],
+  "2024-09-02": [
+    {
+      "title": "Sing Sing",
+      "trailer": "https://www.youtube.com/watch?v=i_SKJJSLw_M",
+      "synopsis": "Divine G (Colman Domingo), imprisoned at Sing Sing for a crime he didn’t commit, finds purpose by acting in a theatre group alongside other incarcerated men, including wary newcomer (Clarence Maclin), in this stirring true story of resilience, humanity, and the transformative power of art, starring an unforgettable ensemble cast of formerly incarcerated actors.",
+      "runtime": 106,
+      "times": [
+        {
+          "starts_at": "2024-09-02T20:45:00+01:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-75245/"
+        },
+        {
+          "starts_at": "2024-09-02T18:30:00+01:00",
+          "site": "Curzon Hoxton",
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-17929/"
+        },
+        {
+          "starts_at": "2024-09-02T19:50:00+01:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-26981/"
+        },
+        {
+          "starts_at": "2024-09-02T18:40:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-92860/"
         }
       ]
     }
