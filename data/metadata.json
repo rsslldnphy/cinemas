@@ -1,4 +1,10 @@
 {
+  "AFRAID": {
+    "backdrop": "https://image.tmdb.org/t/p/w500//eDxLPhGGsUOkW5Pse6znE3BMmli.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500//gUREuXCnJLVHsvKXDH9fgIcfM6e.jpg",
+    "overview": "The Curtis' family is selected to test a new home device: a digital assistant called AIA. AIA learns the family's behaviors and begins to anticipate their needs. And she can make sure nothing - and no one - gets in her family's way.",
+    "release_date": "2024-08-28"
+  },
   "Alien: Romulus": {
     "backdrop": "https://image.tmdb.org/t/p/w500//9SSEUrSqhljBMzRe4aBTh17rUaC.jpg",
     "poster": "https://image.tmdb.org/t/p/w500//b33nnKl1GSFbao4l3fZDDqsMx0F.jpg",
@@ -143,6 +149,12 @@
     "overview": "FBI Agent Lee Harker is assigned to an unsolved serial killer case that takes an unexpected turn, revealing evidence of the occult. Harker discovers a personal connection to the killer and must stop him before he strikes again.",
     "release_date": "2024-07-10"
   },
+  "Mandoob (Night Courier)": {
+    "backdrop": "https://image.tmdb.org/t/p/w500//fhQyPvFe1d5zFsnokDdtinG7rOX.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500//dgqKf3epprHL6ogYhVddPodgwKu.jpg",
+    "overview": "In the heart of Riyadh, where desperation and opportunity collide, MANDOOB brings forth the gripping tale of Fahad Algadaani, a mentally fragile man racing against time to save his ailing father. As his world crumbles under the weight of financial burden and societal indifference, Fahad’s life takes an unexpected turn when he is forced to make ends meet as a humble delivery mandoob.",
+    "release_date": "2023-12-14"
+  },
   "Only The River Flows": {
     "backdrop": "https://image.tmdb.org/t/p/w500//jbheYBYMPMV4kWGCh8H5kLD3WYr.jpg",
     "poster": "https://image.tmdb.org/t/p/w500//qdlcJnXY63t17xKFfROfafTbXsD.jpg",
@@ -166,6 +178,18 @@
     "poster": "https://image.tmdb.org/t/p/w500//8WambNXFVcMyTeCWajNEYfT80Xp.jpg",
     "overview": "A matriarchal family runs a taco food truck, navigating between artistic aspirations and daily frustrations while raising a member's daughter.",
     "release_date": "2024-03-21"
+  },
+  "Sven": {
+    "backdrop": "https://image.tmdb.org/t/p/w500//hm7TycVCKM8E3VjHcHZwfILFMOI.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500//krRZ9NgO7DT3ykbG5N74PztfDmB.jpg",
+    "overview": "Sven gives us a unique insight into the success story that is Svennis' career, with both a focus on his journey to the top of football Europe and the incurable cancer diagnosis that came to the public's attention in early 2024.",
+    "release_date": "2024-08-23"
+  },
+  "The Count of Monte Cristo": {
+    "backdrop": "https://image.tmdb.org/t/p/w500//y0sXAOehV5zx1E64HBSyjDSZK22.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500//ifMgDAUXVQLY4DeOu3VTTi55jSP.jpg",
+    "overview": "Edmond Dantés's life and plans to marry the beautiful Mercedes are shattered when his best friend, Fernand, deceives him. After spending 13 miserable years in prison, Dantés escapes with the help of a fellow inmate and plots his revenge, cleverly insinuating himself into the French nobility.",
+    "release_date": "2002-01-23"
   },
   "The Turin Horse": {
     "backdrop": "https://image.tmdb.org/t/p/w500//kv5po5ix9oeP2cnEVmBCC4O68yT.jpg",
