@@ -1,19 +1,4 @@
 {
-  "2024-08-26": [
-    {
-      "title": "Blink Twice",
-      "trailer": "https://www.youtube.com/watch?v=vVoyBSgTjOs",
-      "synopsis": "When tech billionaire Slater King (Channing Tatum) meets cocktail waitress Frida (Naomi Ackie) at his fundraising gala, sparks fly. He invites her to join him and his friends on a dream vacation on his private island. It’s paradise. Wild nights blend into sun-soaked days and everyone's having a great time. No one wants this trip to end, but as strange things start to happen, Frida begins to question her reality. There is something wrong with this place. She’ll have to uncover the truth if she wants to make it out of this party alive.\n\nWith an ensemble cast including Naomi Ackie, Channing Tatum, Alia Shawkat, Simon Rex, Adria Arjona, Haley Joel Osment, Christian Slater, Kyle MacLachlan and Geena Davis, BLINK TWICE is a wild new psychological thriller directed by Zoë Kravitz.",
-      "runtime": 102,
-      "times": [
-        {
-          "starts_at": "2024-08-26T21:30:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-75213/"
-        }
-      ]
-    }
-  ],
   "2024-08-27": [
     {
       "title": "Deadpool & Wolverine",
@@ -2436,6 +2421,49 @@
           "starts_at": "2024-09-02T18:40:00+01:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-92860/"
+        }
+      ]
+    }
+  ],
+  "2024-09-03": [
+    {
+      "title": "Sing Sing",
+      "trailer": "https://www.youtube.com/watch?v=i_SKJJSLw_M",
+      "synopsis": "Divine G (Colman Domingo), imprisoned at Sing Sing for a crime he didn’t commit, finds purpose by acting in a theatre group alongside other incarcerated men, including wary newcomer (Clarence Maclin), in this stirring true story of resilience, humanity, and the transformative power of art, starring an unforgettable ensemble cast of formerly incarcerated actors.",
+      "runtime": 106,
+      "times": [
+        {
+          "starts_at": "2024-09-03T20:45:00+01:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-75246/"
+        },
+        {
+          "starts_at": "2024-09-03T18:30:00+01:00",
+          "site": "Curzon Hoxton",
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-17930/"
+        },
+        {
+          "starts_at": "2024-09-03T19:50:00+01:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-26982/"
+        },
+        {
+          "starts_at": "2024-09-03T18:40:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-92880/"
+        }
+      ]
+    },
+    {
+      "title": "DocHouse: War Game",
+      "trailer": null,
+      "synopsis": "As the US election looms, War Game considers what could happen on January 6, 2025, if the presidential vote is once again, and even more vigorously, contested.\r\n\r\nA bi-partisan group of ex-government and mililtary officials gather to play out an immersive, fully-staged simulation in the White House Situation Room, stress-testing the country's preparedness for such a crisis. In this tense role play, they must respond to another Jan 6 insurrection, but this time with members of the US military defecting to support the losing Presidential candidate.\r\n\r\nPlaying out like a real-life political thriller, this expertly crafted hybrid doc is underpinned by fascinating analysis of the ever-gathering, disillusioned US far right, and the growing number of military personal joining their ranks. The scenario here is fictional, but the possibility feels urgently real.",
+      "runtime": 94,
+      "times": [
+        {
+          "starts_at": "2024-09-03T18:25:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-92172/"
         }
       ]
     }
