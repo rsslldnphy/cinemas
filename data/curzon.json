@@ -66,11 +66,6 @@
           "url": "https://www.curzon.com/ticketing/seats/ALD1-51312/"
         },
         {
-          "starts_at": "2024-09-05T12:30:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-75351/"
-        },
-        {
           "starts_at": "2024-09-05T15:00:00+01:00",
           "site": "Curzon Victoria",
           "url": "https://www.curzon.com/ticketing/seats/VIC1-75352/"
@@ -114,11 +109,6 @@
           "url": "https://www.curzon.com/ticketing/seats/ALD1-51410/"
         },
         {
-          "starts_at": "2024-09-05T12:30:00+01:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-46357/"
-        },
-        {
           "starts_at": "2024-09-05T15:20:00+01:00",
           "site": "Curzon Soho",
           "url": "https://www.curzon.com/ticketing/seats/SOH1-46364/"
@@ -134,19 +124,9 @@
           "url": "https://www.curzon.com/ticketing/seats/SOH1-46362/"
         },
         {
-          "starts_at": "2024-09-05T12:45:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-75346/"
-        },
-        {
           "starts_at": "2024-09-05T17:45:00+01:00",
           "site": "Curzon Victoria",
           "url": "https://www.curzon.com/ticketing/seats/VIC1-75345/"
-        },
-        {
-          "starts_at": "2024-09-05T12:00:00+01:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-18064/"
         },
         {
           "starts_at": "2024-09-05T16:00:00+01:00",
@@ -164,11 +144,6 @@
           "url": "https://www.curzon.com/ticketing/seats/HOX1-18061/"
         },
         {
-          "starts_at": "2024-09-05T13:20:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-27051/"
-        },
-        {
           "starts_at": "2024-09-05T15:50:00+01:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-27064/"
@@ -182,11 +157,6 @@
           "starts_at": "2024-09-05T20:50:00+01:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-27063/"
-        },
-        {
-          "starts_at": "2024-09-05T13:10:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-92921/"
         },
         {
           "starts_at": "2024-09-05T15:30:00+01:00",
@@ -227,11 +197,6 @@
           "url": "https://www.curzon.com/ticketing/seats/ALD1-51318/"
         },
         {
-          "starts_at": "2024-09-05T12:15:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-75353/"
-        },
-        {
           "starts_at": "2024-09-05T15:30:00+01:00",
           "site": "Curzon Victoria",
           "url": "https://www.curzon.com/ticketing/seats/VIC1-75354/"
@@ -252,19 +217,9 @@
           "url": "https://www.curzon.com/ticketing/seats/MAY1-27797/"
         },
         {
-          "starts_at": "2024-09-05T13:00:00+01:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-18063/"
-        },
-        {
           "starts_at": "2024-09-05T18:00:00+01:00",
           "site": "Curzon Hoxton",
           "url": "https://www.curzon.com/ticketing/seats/HOX1-18057/"
-        },
-        {
-          "starts_at": "2024-09-05T12:45:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-27053/"
         },
         {
           "starts_at": "2024-09-05T15:15:00+01:00",
@@ -308,11 +263,6 @@
           "starts_at": "2024-09-05T20:30:00+01:00",
           "site": "Curzon Soho",
           "url": "https://www.curzon.com/ticketing/seats/SOH1-46398/"
-        },
-        {
-          "starts_at": "2024-09-05T13:15:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-75355/"
         },
         {
           "starts_at": "2024-09-05T17:15:00+01:00",
@@ -373,14 +323,22 @@
           "url": "https://www.curzon.com/ticketing/seats/CAM1-27056/"
         },
         {
-          "starts_at": "2024-09-05T12:50:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-92924/"
-        },
-        {
           "starts_at": "2024-09-05T17:50:00+01:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-92916/"
+        }
+      ]
+    },
+    {
+      "title": "Only The River Flows",
+      "trailer": "https://www.youtube.com/watch?v=LbgUJvkkxgg",
+      "synopsis": "Dedicated police detective Ma Zhe (Zhu Yilong) is assigned the case of a series of horrific murders in a rural Chinese town. As the investigation progresses, pressure from his\nsuperiors to find the suspected serial killer mounts, leading to a hasty arrest. But while his colleagues rush to celebrate, several clues push Ma Zhe deeper into a desperate investigation of his own– leading him into a dark world where mystery hangs over his every lead.\nA gripping crime thriller, ONLY THE RIVER FLOWS will take you on a journey into one man’s obsession with finding the truth whatever it takes.",
+      "runtime": 102,
+      "times": [
+        {
+          "starts_at": "2024-09-05T18:00:00+01:00",
+          "site": "Curzon Soho",
+          "url": "https://www.curzon.com/ticketing/seats/SOH1-46399/"
         }
       ]
     },
@@ -390,11 +348,6 @@
       "synopsis": "Divine G (Colman Domingo), imprisoned at Sing Sing for a crime he didn’t commit, finds purpose by acting in a theatre group alongside other incarcerated men, including wary newcomer (Clarence Maclin), in this stirring true story of resilience, humanity, and the transformative power of art, starring an unforgettable ensemble cast of formerly incarcerated actors.",
       "runtime": 106,
       "times": [
-        {
-          "starts_at": "2024-09-05T13:20:00+01:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-46358/"
-        },
         {
           "starts_at": "2024-09-05T18:40:00+01:00",
           "site": "Curzon Soho",
@@ -431,11 +384,6 @@
           "url": "https://www.curzon.com/ticketing/seats/CAM1-26984/"
         },
         {
-          "starts_at": "2024-09-05T13:00:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-92917/"
-        },
-        {
           "starts_at": "2024-09-05T15:40:00+01:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-92920/"
@@ -448,29 +396,11 @@
       ]
     },
     {
-      "title": "Only The River Flows",
-      "trailer": "https://www.youtube.com/watch?v=LbgUJvkkxgg",
-      "synopsis": "Dedicated police detective Ma Zhe (Zhu Yilong) is assigned the case of a series of horrific murders in a rural Chinese town. As the investigation progresses, pressure from his\nsuperiors to find the suspected serial killer mounts, leading to a hasty arrest. But while his colleagues rush to celebrate, several clues push Ma Zhe deeper into a desperate investigation of his own– leading him into a dark world where mystery hangs over his every lead.\nA gripping crime thriller, ONLY THE RIVER FLOWS will take you on a journey into one man’s obsession with finding the truth whatever it takes.",
-      "runtime": 102,
-      "times": [
-        {
-          "starts_at": "2024-09-05T18:00:00+01:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-46399/"
-        }
-      ]
-    },
-    {
       "title": "Inside Out 2",
       "trailer": "https://www.youtube.com/watch?v=EzEZVTaXE6E",
       "synopsis": "Disney and Pixar’s “Inside Out 2” returns to the mind of newly minted teenager Riley just as headquarters is undergoing a sudden demolition to make room for something entirely unexpected: new Emotions! Joy, Sadness, Anger, Fear and Disgust, who’ve long been running a successful operation\nby all accounts, aren’t sure how to feel when Anxiety shows up. And it looks like she’s not alone. Maya Hawke lends her voice to Anxiety, alongside Amy Poehler as the voice of Joy. The voice cast also includes Lewis Black, Phyllis Smith, Tony Hale, Liza Lapira, Ayo Edebiri, Adèle Exarchopoulos, Paul\nWalter Hauser, Kensington Tallman, Lilimar, Diane Lane, Kyle MacLachlan, Sumayyah Nuriddin-Green, Grace Lu and Yvette Nicole Brown. Directed by Kelsey Mann and produced by Mark Nielsen with a screenplay by Meg LeFauve and Dave Holstein, “Inside Out 2” features a score by Andrea Datzman.",
       "runtime": 96,
       "times": [
-        {
-          "starts_at": "2024-09-05T12:00:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-75349/"
-        },
         {
           "starts_at": "2024-09-05T16:00:00+01:00",
           "site": "Curzon Victoria",
@@ -489,20 +419,20 @@
       ]
     },
     {
-      "title": "Between The Temples",
-      "trailer": "https://www.youtube.com/watch?v=0UNPfUU0UZI",
-      "synopsis": "A cantor (Jason Schwartzman) in a crisis of faith finds his world turned upside down when his grade school music teacher (Carol Kane) re-enters his life as his new adult Bat Mitzvah student.",
-      "runtime": 111,
+      "title": "The Count of Monte Cristo",
+      "trailer": "https://www.youtube.com/watch?v=jjsBLduVy3U",
+      "synopsis": "A new adaptation of the famous novel by Alexandre Dumas.\n",
+      "runtime": 178,
       "times": [
         {
-          "starts_at": "2024-09-05T11:00:00+01:00",
+          "starts_at": "2024-09-05T13:40:00+01:00",
           "site": "Curzon Mayfair",
-          "url": "https://www.curzon.com/ticketing/seats/MAY1-27795/"
+          "url": "https://www.curzon.com/ticketing/seats/MAY1-27799/"
         },
         {
-          "starts_at": "2024-09-05T18:00:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-92931/"
+          "starts_at": "2024-09-05T20:00:00+01:00",
+          "site": "Curzon Hoxton",
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-18059/"
         }
       ]
     },
@@ -513,19 +443,9 @@
       "runtime": 112,
       "times": [
         {
-          "starts_at": "2024-09-05T11:40:00+01:00",
-          "site": "Curzon Mayfair",
-          "url": "https://www.curzon.com/ticketing/seats/MAY1-27796/"
-        },
-        {
           "starts_at": "2024-09-05T21:00:00+01:00",
           "site": "Curzon Mayfair",
           "url": "https://www.curzon.com/ticketing/seats/MAY1-27794/"
-        },
-        {
-          "starts_at": "2024-09-05T13:00:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-27052/"
         },
         {
           "starts_at": "2024-09-05T18:00:00+01:00",
@@ -541,47 +461,6 @@
           "starts_at": "2024-09-05T20:50:00+01:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-92926/"
-        }
-      ]
-    },
-    {
-      "title": "The Count of Monte Cristo",
-      "trailer": "https://www.youtube.com/watch?v=jjsBLduVy3U",
-      "synopsis": "A new adaptation of the famous novel by Alexandre Dumas.\n",
-      "runtime": 178,
-      "times": [
-        {
-          "starts_at": "2024-09-05T13:40:00+01:00",
-          "site": "Curzon Mayfair",
-          "url": "https://www.curzon.com/ticketing/seats/MAY1-27799/"
-        },
-        {
-          "starts_at": "2024-09-05T12:20:00+01:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-18062/"
-        },
-        {
-          "starts_at": "2024-09-05T20:00:00+01:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-18059/"
-        }
-      ]
-    },
-    {
-      "title": "Sven",
-      "trailer": null,
-      "synopsis": "A celebrated football manager's path to greatness takes a profound turn when Svennis confronts an incurable cancer diagnosis in 2024, revealing his indomitable spirit amidst the challenges of pursuing success at the highest level.",
-      "runtime": 107,
-      "times": [
-        {
-          "starts_at": "2024-09-05T12:20:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-27054/"
-        },
-        {
-          "starts_at": "2024-09-05T18:40:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-27046/"
         }
       ]
     },
@@ -609,16 +488,24 @@
       ]
     },
     {
+      "title": "Sven",
+      "trailer": null,
+      "synopsis": "A celebrated football manager's path to greatness takes a profound turn when Svennis confronts an incurable cancer diagnosis in 2024, revealing his indomitable spirit amidst the challenges of pursuing success at the highest level.",
+      "runtime": 107,
+      "times": [
+        {
+          "starts_at": "2024-09-05T18:40:00+01:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-27046/"
+        }
+      ]
+    },
+    {
       "title": "Perfect Days",
       "trailer": null,
       "synopsis": "A highly anticipated return to fiction feature filmmaking from Wim Wenders (Paris, Texas, Wings of Desire), PERFECT DAYS takes the writer-director to Tokyo to tell a story celebrating the hidden joys and minutiae of Japanese culture. Winner of the Best Actor award at Cannes 2023, Koji Yakusho (Babel, 13 Assassins) stars as Hirayama, a contemplative middle-aged man who lives a life of modesty and serenity, spending his days balancing his job as a dutiful caretaker of Tokyo’s numerous public toilets with his passion for music, literature and photography. As we join him on his structured daily routine, a series of unexpected encounters gradually begin to reveal a hidden past that lies behind his otherwise content and harmonious life. \n\nCombining a refreshingly unstereotypical depiction of the Japanese capital with a soundtrack comprised of iconic hits from the 60s and 80s, this is a subtle, shimmering and ultimately life-affirming reflection on finding beauty in the everyday world around us. Japan’s entry for Best International Film at the 2024 Academy Awards.\n",
       "runtime": 125,
       "times": [
-        {
-          "starts_at": "2024-09-05T12:00:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-92928/"
-        },
         {
           "starts_at": "2024-09-05T14:50:00+01:00",
           "site": "Curzon Bloomsbury",
@@ -637,16 +524,24 @@
       ]
     },
     {
+      "title": "DocHouse: Farming The Revolution",
+      "trailer": null,
+      "synopsis": "A stirring account of peaceful mass protest, Farming the Revolution follows the year-long Indian farmers' protest of 2020, an outcry in response to the country's newly enacted agricultural laws.\r\n\r\nDriving tractors from Punjab to the border of Delhi, bringing food to share and setting up camp, over half a million protesters gathered - men and women from all generations, religions, classes and castes - determined to hold their ground until the laws were repealed.\r\n\r\nNishtha Jain's expansive portrait invites us to experience the everyday textures and indomitable spirit of this unprecedented movement, which culminated in an historic, triumphant outcome.  \r\n",
+      "runtime": 105,
+      "times": [
+        {
+          "starts_at": "2024-09-05T15:00:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-92982/"
+        }
+      ]
+    },
+    {
       "title": "La Chimera",
       "trailer": "https://www.youtube.com/watch?v=k0oGUwzxefk",
       "synopsis": "Set in the 1980s, in the former Etruscian landscape of rural Italy, Arthur, a vagabond-type character, is mourning the loss of his love. A local ragtag group of graverobbers make use of his archaeological skills to find ancient tombs filled with artefacts, but Arthur uses the digs to search for a door to the afterlife, of which myths speak, where he imagines reuniting with her.",
       "runtime": 131,
       "times": [
-        {
-          "starts_at": "2024-09-05T12:20:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-92929/"
-        },
         {
           "starts_at": "2024-09-05T15:10:00+01:00",
           "site": "Curzon Bloomsbury",
@@ -660,15 +555,15 @@
       ]
     },
     {
-      "title": "DocHouse: Farming The Revolution",
-      "trailer": null,
-      "synopsis": "A stirring account of peaceful mass protest, Farming the Revolution follows the year-long Indian farmers' protest of 2020, an outcry in response to the country's newly enacted agricultural laws.\r\n\r\nDriving tractors from Punjab to the border of Delhi, bringing food to share and setting up camp, over half a million protesters gathered - men and women from all generations, religions, classes and castes - determined to hold their ground until the laws were repealed.\r\n\r\nNishtha Jain's expansive portrait invites us to experience the everyday textures and indomitable spirit of this unprecedented movement, which culminated in an historic, triumphant outcome.  \r\n",
-      "runtime": 105,
+      "title": "Between The Temples",
+      "trailer": "https://www.youtube.com/watch?v=0UNPfUU0UZI",
+      "synopsis": "A cantor (Jason Schwartzman) in a crisis of faith finds his world turned upside down when his grade school music teacher (Carol Kane) re-enters his life as his new adult Bat Mitzvah student.",
+      "runtime": 111,
       "times": [
         {
-          "starts_at": "2024-09-05T15:00:00+01:00",
+          "starts_at": "2024-09-05T18:00:00+01:00",
           "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-92982/"
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-92931/"
         }
       ]
     },
