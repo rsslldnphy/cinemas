@@ -7,11 +7,6 @@
       "runtime": 105,
       "times": [
         {
-          "starts_at": "2024-09-06T11:00:00+01:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-50715/"
-        },
-        {
           "starts_at": "2024-09-06T13:40:00+01:00",
           "site": "Curzon Aldgate",
           "url": "https://www.curzon.com/ticketing/seats/ALD1-50714/"
@@ -40,11 +35,6 @@
           "starts_at": "2024-09-06T21:30:00+01:00",
           "site": "Curzon Aldgate",
           "url": "https://www.curzon.com/ticketing/seats/ALD1-50711/"
-        },
-        {
-          "starts_at": "2024-09-06T13:00:00+01:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-46409/"
         },
         {
           "starts_at": "2024-09-06T15:30:00+01:00",
@@ -82,11 +72,6 @@
           "url": "https://www.curzon.com/ticketing/seats/VIC1-74793/"
         },
         {
-          "starts_at": "2024-09-06T12:20:00+01:00",
-          "site": "Curzon Mayfair",
-          "url": "https://www.curzon.com/ticketing/seats/MAY1-27570/"
-        },
-        {
           "starts_at": "2024-09-06T14:40:00+01:00",
           "site": "Curzon Mayfair",
           "url": "https://www.curzon.com/ticketing/seats/MAY1-27804/"
@@ -100,11 +85,6 @@
           "starts_at": "2024-09-06T21:00:00+01:00",
           "site": "Curzon Mayfair",
           "url": "https://www.curzon.com/ticketing/seats/MAY1-27803/"
-        },
-        {
-          "starts_at": "2024-09-06T11:00:00+01:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-17722/"
         },
         {
           "starts_at": "2024-09-06T13:30:00+01:00",
@@ -125,11 +105,6 @@
           "starts_at": "2024-09-06T21:00:00+01:00",
           "site": "Curzon Hoxton",
           "url": "https://www.curzon.com/ticketing/seats/HOX1-17718/"
-        },
-        {
-          "starts_at": "2024-09-06T13:20:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-26466/"
         },
         {
           "starts_at": "2024-09-06T14:50:00+01:00",
@@ -155,150 +130,6 @@
           "starts_at": "2024-09-06T20:40:00+01:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-26464/"
-        }
-      ]
-    },
-    {
-      "title": "His Three Daughters",
-      "trailer": null,
-      "synopsis": "This tense, touching, and funny portrait of family dynamics follows three estranged sisters as they converge in a New York apartment to care for their ailing father and try to mend their own broken relationship with one another.",
-      "runtime": 105,
-      "times": [
-        {
-          "starts_at": "2024-09-06T12:20:00+01:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-51486/"
-        },
-        {
-          "starts_at": "2024-09-06T17:40:00+01:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-51487/"
-        },
-        {
-          "starts_at": "2024-09-06T12:30:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-75545/"
-        },
-        {
-          "starts_at": "2024-09-06T20:15:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-75421/"
-        },
-        {
-          "starts_at": "2024-09-06T14:20:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-27289/"
-        },
-        {
-          "starts_at": "2024-09-06T21:30:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-27168/"
-        },
-        {
-          "starts_at": "2024-09-06T12:40:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-93049/"
-        },
-        {
-          "starts_at": "2024-09-06T17:40:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-93044/"
-        }
-      ]
-    },
-    {
-      "title": "Kneecap",
-      "trailer": "https://www.youtube.com/watch?v=2sCxDw8v5cY",
-      "synopsis": "Of the 80,000 native Irish speakers, 6,000 live in the North of Ireland and three of them became a rap group called Kneecap. This is the real-life story of how this anarchic Belfast trio became the unlikely figureheads of a civil rights movement to save and reinvigorate their mother tongue. ",
-      "runtime": 105,
-      "times": [
-        {
-          "starts_at": "2024-09-06T12:40:00+01:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-51540/"
-        },
-        {
-          "starts_at": "2024-09-06T18:00:00+01:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-51455/"
-        },
-        {
-          "starts_at": "2024-09-06T15:50:00+01:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-46412/"
-        },
-        {
-          "starts_at": "2024-09-06T18:40:00+01:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-46411/"
-        },
-        {
-          "starts_at": "2024-09-06T21:10:00+01:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-46410/"
-        },
-        {
-          "starts_at": "2024-09-06T13:50:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-75527/"
-        },
-        {
-          "starts_at": "2024-09-06T15:00:00+01:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-18076/"
-        },
-        {
-          "starts_at": "2024-09-06T20:20:00+01:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-18072/"
-        },
-        {
-          "starts_at": "2024-09-06T11:30:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-27290/"
-        },
-        {
-          "starts_at": "2024-09-06T21:15:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-27288/"
-        },
-        {
-          "starts_at": "2024-09-06T12:50:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-93056/"
-        },
-        {
-          "starts_at": "2024-09-06T15:40:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-93055/"
-        },
-        {
-          "starts_at": "2024-09-06T18:00:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-93039/"
-        },
-        {
-          "starts_at": "2024-09-06T21:10:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-93046/"
-        }
-      ]
-    },
-    {
-      "title": "Deadpool & Wolverine",
-      "trailer": null,
-      "synopsis": "Deadpool's peaceful existence comes crashing down when the Time Variance Authority recruits him to help safeguard the multiverse.",
-      "runtime": 128,
-      "times": [
-        {
-          "starts_at": "2024-09-06T13:00:00+01:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-51458/"
-        },
-        {
-          "starts_at": "2024-09-06T12:45:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-75423/"
         }
       ]
     },
@@ -357,11 +188,6 @@
           "url": "https://www.curzon.com/ticketing/seats/HOX1-18073/"
         },
         {
-          "starts_at": "2024-09-06T12:30:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-27174/"
-        },
-        {
           "starts_at": "2024-09-06T16:10:00+01:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-27175/"
@@ -379,6 +205,102 @@
       ]
     },
     {
+      "title": "His Three Daughters",
+      "trailer": null,
+      "synopsis": "This tense, touching, and funny portrait of family dynamics follows three estranged sisters as they converge in a New York apartment to care for their ailing father and try to mend their own broken relationship with one another.",
+      "runtime": 105,
+      "times": [
+        {
+          "starts_at": "2024-09-06T17:40:00+01:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-51487/"
+        },
+        {
+          "starts_at": "2024-09-06T20:15:00+01:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-75421/"
+        },
+        {
+          "starts_at": "2024-09-06T14:20:00+01:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-27289/"
+        },
+        {
+          "starts_at": "2024-09-06T21:30:00+01:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-27168/"
+        },
+        {
+          "starts_at": "2024-09-06T17:40:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-93044/"
+        }
+      ]
+    },
+    {
+      "title": "Kneecap",
+      "trailer": "https://www.youtube.com/watch?v=2sCxDw8v5cY",
+      "synopsis": "Of the 80,000 native Irish speakers, 6,000 live in the North of Ireland and three of them became a rap group called Kneecap. This is the real-life story of how this anarchic Belfast trio became the unlikely figureheads of a civil rights movement to save and reinvigorate their mother tongue. ",
+      "runtime": 105,
+      "times": [
+        {
+          "starts_at": "2024-09-06T18:00:00+01:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-51455/"
+        },
+        {
+          "starts_at": "2024-09-06T15:50:00+01:00",
+          "site": "Curzon Soho",
+          "url": "https://www.curzon.com/ticketing/seats/SOH1-46412/"
+        },
+        {
+          "starts_at": "2024-09-06T18:40:00+01:00",
+          "site": "Curzon Soho",
+          "url": "https://www.curzon.com/ticketing/seats/SOH1-46411/"
+        },
+        {
+          "starts_at": "2024-09-06T21:10:00+01:00",
+          "site": "Curzon Soho",
+          "url": "https://www.curzon.com/ticketing/seats/SOH1-46410/"
+        },
+        {
+          "starts_at": "2024-09-06T13:50:00+01:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-75527/"
+        },
+        {
+          "starts_at": "2024-09-06T15:00:00+01:00",
+          "site": "Curzon Hoxton",
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-18076/"
+        },
+        {
+          "starts_at": "2024-09-06T20:20:00+01:00",
+          "site": "Curzon Hoxton",
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-18072/"
+        },
+        {
+          "starts_at": "2024-09-06T21:15:00+01:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-27288/"
+        },
+        {
+          "starts_at": "2024-09-06T15:40:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-93055/"
+        },
+        {
+          "starts_at": "2024-09-06T18:00:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-93039/"
+        },
+        {
+          "starts_at": "2024-09-06T21:10:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-93046/"
+        }
+      ]
+    },
+    {
       "title": "Alien: Romulus",
       "trailer": "https://www.youtube.com/watch?v=TSWXIzu51so",
       "synopsis": "The sci-fi/horror-thriller takes the phenomenally successful “Alien” franchise back to its roots: While scavenging the deep ends of a derelict space station, a group of young space colonizers come face to face with the most terrifying life form in the universe. The film stars Cailee Spaeny (“Priscilla”), David Jonsson (“Agatha Christie’s Murder is Easy”), Archie Renaux (“Shadow and Bone”), Isabela Merced (“The Last of Us”), Spike Fearn (“Aftersun”), Aileen Wu. Fede Alvarez (“Evil Dead,” “Don’t Breathe”) directs from a screenplay he wrote with frequent collaborator Rodo Sayagues (“Don’t Breathe 2”) based on characters created by Dan O’Bannon and Ronald Shusett. “Alien: Romulus” is produced by Ridley Scott (“Napoleon”), who directed the original “Alien” and produced and directed the series’ entries “Prometheus” and “Alien: Covenant,” Michael Pruss (“Boston Strangler”), and Walter Hill (“Alien”), with Fede Alvarez, Elizabeth Cantillon (“Charlie’s Angels”), Brent O’Connor (“Bullet Train”), and Tom Moran (“Unstoppable”) serving as executive producers.",
@@ -392,16 +314,82 @@
       ]
     },
     {
+      "title": "Black Dog",
+      "trailer": "https://www.youtube.com/watch?v=1rqJHP7xtmU",
+      "synopsis": "On the edge of the Gobi Desert in Northwest China, Lang returns to his hometown after being released from jail. While working for the local stray dog patrol team, clearing the town before the 2008 Olympic Games, he strikes up an unlikely connection with a black dog. These two lonely souls now embark on a new journey together.\nBlack Dog wins top Un Certain Regard Award at Cannes Film Festival. The lead canine, Xiao Xin, a Jack Russell-Greyhound cross, received the Grand Jury Prize at the Palm Dog Award.\n",
+      "runtime": 110,
+      "times": [
+        {
+          "starts_at": "2024-09-06T15:10:00+01:00",
+          "site": "Curzon Soho",
+          "url": "https://www.curzon.com/ticketing/seats/SOH1-46445/"
+        },
+        {
+          "starts_at": "2024-09-06T15:10:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-93050/"
+        },
+        {
+          "starts_at": "2024-09-06T20:20:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-93042/"
+        }
+      ]
+    },
+    {
+      "title": "Sing Sing",
+      "trailer": "https://www.youtube.com/watch?v=i_SKJJSLw_M",
+      "synopsis": "Divine G (Colman Domingo), imprisoned at Sing Sing for a crime he didn’t commit, finds purpose by acting in a theatre group alongside other incarcerated men, including wary newcomer (Clarence Maclin), in this stirring true story of resilience, humanity, and the transformative power of art, starring an unforgettable ensemble cast of formerly incarcerated actors.",
+      "runtime": 106,
+      "times": [
+        {
+          "starts_at": "2024-09-06T18:20:00+01:00",
+          "site": "Curzon Soho",
+          "url": "https://www.curzon.com/ticketing/seats/SOH1-46415/"
+        },
+        {
+          "starts_at": "2024-09-06T15:00:00+01:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-75424/"
+        },
+        {
+          "starts_at": "2024-09-06T18:10:00+01:00",
+          "site": "Curzon Hoxton",
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-18069/"
+        },
+        {
+          "starts_at": "2024-09-06T15:30:00+01:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-27177/"
+        },
+        {
+          "starts_at": "2024-09-06T19:00:00+01:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-27176/"
+        },
+        {
+          "starts_at": "2024-09-06T15:30:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-93038/"
+        },
+        {
+          "starts_at": "2024-09-06T18:30:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-93040/"
+        },
+        {
+          "starts_at": "2024-09-06T20:30:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-93045/"
+        }
+      ]
+    },
+    {
       "title": "Starve Acre",
       "trailer": "https://www.youtube.com/watch?v=iY1sowX-TQs",
       "synopsis": "An idyllic rural family life of a couple is thrown into turmoil when their son starts acting out of character.",
       "runtime": 98,
       "times": [
-        {
-          "starts_at": "2024-09-06T12:40:00+01:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-46446/"
-        },
         {
           "starts_at": "2024-09-06T20:50:00+01:00",
           "site": "Curzon Soho",
@@ -436,138 +424,6 @@
           "starts_at": "2024-09-06T21:00:00+01:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-91774/"
-        }
-      ]
-    },
-    {
-      "title": "Sing Sing",
-      "trailer": "https://www.youtube.com/watch?v=i_SKJJSLw_M",
-      "synopsis": "Divine G (Colman Domingo), imprisoned at Sing Sing for a crime he didn’t commit, finds purpose by acting in a theatre group alongside other incarcerated men, including wary newcomer (Clarence Maclin), in this stirring true story of resilience, humanity, and the transformative power of art, starring an unforgettable ensemble cast of formerly incarcerated actors.",
-      "runtime": 106,
-      "times": [
-        {
-          "starts_at": "2024-09-06T13:20:00+01:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-46447/"
-        },
-        {
-          "starts_at": "2024-09-06T18:20:00+01:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-46415/"
-        },
-        {
-          "starts_at": "2024-09-06T15:00:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-75424/"
-        },
-        {
-          "starts_at": "2024-09-06T12:20:00+01:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-18071/"
-        },
-        {
-          "starts_at": "2024-09-06T18:10:00+01:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-18069/"
-        },
-        {
-          "starts_at": "2024-09-06T13:00:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-27178/"
-        },
-        {
-          "starts_at": "2024-09-06T15:30:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-27177/"
-        },
-        {
-          "starts_at": "2024-09-06T19:00:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-27176/"
-        },
-        {
-          "starts_at": "2024-09-06T13:10:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-93054/"
-        },
-        {
-          "starts_at": "2024-09-06T15:30:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-93038/"
-        },
-        {
-          "starts_at": "2024-09-06T18:30:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-93040/"
-        },
-        {
-          "starts_at": "2024-09-06T20:30:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-93045/"
-        }
-      ]
-    },
-    {
-      "title": "Black Dog",
-      "trailer": "https://www.youtube.com/watch?v=1rqJHP7xtmU",
-      "synopsis": "On the edge of the Gobi Desert in Northwest China, Lang returns to his hometown after being released from jail. While working for the local stray dog patrol team, clearing the town before the 2008 Olympic Games, he strikes up an unlikely connection with a black dog. These two lonely souls now embark on a new journey together.\nBlack Dog wins top Un Certain Regard Award at Cannes Film Festival. The lead canine, Xiao Xin, a Jack Russell-Greyhound cross, received the Grand Jury Prize at the Palm Dog Award.\n",
-      "runtime": 110,
-      "times": [
-        {
-          "starts_at": "2024-09-06T15:10:00+01:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-46445/"
-        },
-        {
-          "starts_at": "2024-09-06T15:10:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-93050/"
-        },
-        {
-          "starts_at": "2024-09-06T20:20:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-93042/"
-        }
-      ]
-    },
-    {
-      "title": "The Third Man (75th Anniversary)",
-      "trailer": "https://www.youtube.com/watch?v=gxmT1fjFQuI",
-      "synopsis": "In 1949, an American writer of Westerns, Holly Martins, arrives in post-war Vienna to visit his old friend Harry Lime. On arrival, he learns that his friend has been killed in a street accident, and when he meets Calloway, Chief of the British Military Police in Vienna, he is informed that Lime was in fact a black marketer wanted by the police. He decided to prove Harry's innocence, but is Harry really dead?",
-      "runtime": 104,
-      "times": [
-        {
-          "starts_at": "2024-09-06T11:30:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-75526/"
-        }
-      ]
-    },
-    {
-      "title": "Firebrand",
-      "trailer": "https://www.youtube.com/watch?v=uc3_NOiDZoY",
-      "synopsis": "In blood-soaked Tudor England, Katherine Parr, the sixth and last wife of King Henry VIII, is named Regent while tyrant Henry is fighting overseas. Katherine has done everything she can to push for a new future based on her radical Protestant beliefs. When an increasingly ailing and paranoid King returns, he turns his fury on the radicals, charging Katherine’s childhood friend with treason and burning her at the stake.  Horrified and grieving, but forced to deny it, Katherine finds herself fighting for her own survival. Conspiracy reverberates through the palace. Everyone holds their breath – for the queen to slip up, for Henry to take her head like wives before. With the hope for a future free of tyranny at risk, will Katherine submit to the inevitable for the sake of King and country? ",
-      "runtime": 120,
-      "times": [
-        {
-          "starts_at": "2024-09-06T12:00:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-75427/"
-        },
-        {
-          "starts_at": "2024-09-06T17:45:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-75536/"
-        },
-        {
-          "starts_at": "2024-09-06T15:00:00+01:00",
-          "site": "Curzon Mayfair",
-          "url": "https://www.curzon.com/ticketing/seats/MAY1-27581/"
-        },
-        {
-          "starts_at": "2024-09-06T20:40:00+01:00",
-          "site": "Curzon Mayfair",
-          "url": "https://www.curzon.com/ticketing/seats/MAY1-27580/"
         }
       ]
     },
@@ -618,6 +474,29 @@
       ]
     },
     {
+      "title": "Firebrand",
+      "trailer": "https://www.youtube.com/watch?v=uc3_NOiDZoY",
+      "synopsis": "In blood-soaked Tudor England, Katherine Parr, the sixth and last wife of King Henry VIII, is named Regent while tyrant Henry is fighting overseas. Katherine has done everything she can to push for a new future based on her radical Protestant beliefs. When an increasingly ailing and paranoid King returns, he turns his fury on the radicals, charging Katherine’s childhood friend with treason and burning her at the stake.  Horrified and grieving, but forced to deny it, Katherine finds herself fighting for her own survival. Conspiracy reverberates through the palace. Everyone holds their breath – for the queen to slip up, for Henry to take her head like wives before. With the hope for a future free of tyranny at risk, will Katherine submit to the inevitable for the sake of King and country? ",
+      "runtime": 120,
+      "times": [
+        {
+          "starts_at": "2024-09-06T17:45:00+01:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-75536/"
+        },
+        {
+          "starts_at": "2024-09-06T15:00:00+01:00",
+          "site": "Curzon Mayfair",
+          "url": "https://www.curzon.com/ticketing/seats/MAY1-27581/"
+        },
+        {
+          "starts_at": "2024-09-06T20:40:00+01:00",
+          "site": "Curzon Mayfair",
+          "url": "https://www.curzon.com/ticketing/seats/MAY1-27580/"
+        }
+      ]
+    },
+    {
       "title": "The Count of Monte Cristo",
       "trailer": "https://www.youtube.com/watch?v=jjsBLduVy3U",
       "synopsis": "A new adaptation of the famous novel by Alexandre Dumas.\n",
@@ -627,11 +506,6 @@
           "starts_at": "2024-09-06T17:15:00+01:00",
           "site": "Curzon Mayfair",
           "url": "https://www.curzon.com/ticketing/seats/MAY1-27802/"
-        },
-        {
-          "starts_at": "2024-09-06T12:00:00+01:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-18074/"
         }
       ]
     },
@@ -641,11 +515,6 @@
       "synopsis": "A model becomes obsessed with a high-profile murder trial.",
       "runtime": 118,
       "times": [
-        {
-          "starts_at": "2024-09-06T11:45:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-27181/"
-        },
         {
           "starts_at": "2024-09-06T17:15:00+01:00",
           "site": "Curzon Camden",
@@ -673,11 +542,6 @@
       "runtime": 125,
       "times": [
         {
-          "starts_at": "2024-09-06T12:30:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-93051/"
-        },
-        {
           "starts_at": "2024-09-06T15:00:00+01:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-93052/"
@@ -695,24 +559,6 @@
       ]
     },
     {
-      "title": "La Chimera",
-      "trailer": "https://www.youtube.com/watch?v=k0oGUwzxefk",
-      "synopsis": "Set in the 1980s, in the former Etruscian landscape of rural Italy, Arthur, a vagabond-type character, is mourning the loss of his love. A local ragtag group of graverobbers make use of his archaeological skills to find ancient tombs filled with artefacts, but Arthur uses the digs to search for a door to the afterlife, of which myths speak, where he imagines reuniting with her.",
-      "runtime": 131,
-      "times": [
-        {
-          "starts_at": "2024-09-06T13:00:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-93048/"
-        },
-        {
-          "starts_at": "2024-09-06T18:10:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-93041/"
-        }
-      ]
-    },
-    {
       "title": "DocHouse: Hollywoodgate",
       "trailer": null,
       "synopsis": "When the United States withdrew from its twenty-year 'forever war' in  Afghanistan, the Taliban retook control of the ravaged country and immediately  found an American base loaded with weaponry - a portion of the over $7 billion in  U.S. armaments still in the country.\r\n\r\nUnprecedented and audacious, director Ibrahim Nash’at’s Hollywoodgate spends a year inside Afghanistan following the Taliban as they take possession of the cache America left behind - and transform from a fundamentalist militia into a heavily armed military regime.",
@@ -722,6 +568,19 @@
           "starts_at": "2024-09-06T15:20:00+01:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-93151/"
+        }
+      ]
+    },
+    {
+      "title": "La Chimera",
+      "trailer": "https://www.youtube.com/watch?v=k0oGUwzxefk",
+      "synopsis": "Set in the 1980s, in the former Etruscian landscape of rural Italy, Arthur, a vagabond-type character, is mourning the loss of his love. A local ragtag group of graverobbers make use of his archaeological skills to find ancient tombs filled with artefacts, but Arthur uses the digs to search for a door to the afterlife, of which myths speak, where he imagines reuniting with her.",
+      "runtime": 131,
+      "times": [
+        {
+          "starts_at": "2024-09-06T18:10:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-93041/"
         }
       ]
     },
@@ -4846,11 +4705,6 @@
           "starts_at": "2024-09-12T18:30:00+01:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-25669/"
-        },
-        {
-          "starts_at": "2024-09-12T18:30:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-91444/"
         },
         {
           "starts_at": "2024-09-12T20:20:00+01:00",
