@@ -1,210 +1,6 @@
 {
   "2024-09-06": [
     {
-      "title": "Beetlejuice Beetlejuice",
-      "trailer": "https://www.youtube.com/watch?v=RyTc5kXZlAM",
-      "synopsis": "Beetlejuice is back!  After an unexpected family tragedy, three generations of the Deetz family return home to Winter River.  Still haunted by Beetlejuice, Lydia's life is turned upside down when her rebellious teenage daughter, Astrid, discovers the mysterious model of the town in the attic and the portal to the Afterlife is accidentally opened.  With trouble brewing in both realms, it's only a matter of time until someone says Beetlejuice's name three times and the mischievous demon returns to unleash his very own brand of mayhem.",
-      "runtime": 105,
-      "times": [
-        {
-          "starts_at": "2024-09-06T13:40:00+01:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-50714/"
-        },
-        {
-          "starts_at": "2024-09-06T15:20:00+01:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-50718/"
-        },
-        {
-          "starts_at": "2024-09-06T16:20:00+01:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-50713/"
-        },
-        {
-          "starts_at": "2024-09-06T19:00:00+01:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-50712/"
-        },
-        {
-          "starts_at": "2024-09-06T20:40:00+01:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-50716/"
-        },
-        {
-          "starts_at": "2024-09-06T21:30:00+01:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-50711/"
-        },
-        {
-          "starts_at": "2024-09-06T15:30:00+01:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-46408/"
-        },
-        {
-          "starts_at": "2024-09-06T18:00:00+01:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-46407/"
-        },
-        {
-          "starts_at": "2024-09-06T20:30:00+01:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-46406/"
-        },
-        {
-          "starts_at": "2024-09-06T13:30:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-74796/"
-        },
-        {
-          "starts_at": "2024-09-06T16:00:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-74795/"
-        },
-        {
-          "starts_at": "2024-09-06T18:30:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-74794/"
-        },
-        {
-          "starts_at": "2024-09-06T21:00:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-74793/"
-        },
-        {
-          "starts_at": "2024-09-06T14:40:00+01:00",
-          "site": "Curzon Mayfair",
-          "url": "https://www.curzon.com/ticketing/seats/MAY1-27804/"
-        },
-        {
-          "starts_at": "2024-09-06T18:00:00+01:00",
-          "site": "Curzon Mayfair",
-          "url": "https://www.curzon.com/ticketing/seats/MAY1-27567/"
-        },
-        {
-          "starts_at": "2024-09-06T21:00:00+01:00",
-          "site": "Curzon Mayfair",
-          "url": "https://www.curzon.com/ticketing/seats/MAY1-27803/"
-        },
-        {
-          "starts_at": "2024-09-06T13:30:00+01:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-17721/"
-        },
-        {
-          "starts_at": "2024-09-06T16:00:00+01:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-17720/"
-        },
-        {
-          "starts_at": "2024-09-06T18:30:00+01:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-17719/"
-        },
-        {
-          "starts_at": "2024-09-06T21:00:00+01:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-17718/"
-        },
-        {
-          "starts_at": "2024-09-06T14:50:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-27166/"
-        },
-        {
-          "starts_at": "2024-09-06T15:50:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-26465/"
-        },
-        {
-          "starts_at": "2024-09-06T18:20:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-26463/"
-        },
-        {
-          "starts_at": "2024-09-06T19:50:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-27164/"
-        },
-        {
-          "starts_at": "2024-09-06T20:40:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-26464/"
-        }
-      ]
-    },
-    {
-      "title": "Cuckoo",
-      "trailer": "https://www.youtube.com/watch?v=okX9NcOM_TM",
-      "synopsis": "Reluctantly, 17-year-old Gretchen leaves her American home to live with her father, who has just moved into a resort in the German Alps with his new family. Arriving at their future residence, they are greeted by Mr. König, her father's boss, who takes an inexplicable interest in Gretchen's mute half-sister Alma. Something doesn't seem right in this tranquil vacation paradise. Gretchen is plagued by strange noises and bloody visions until she discovers a shocking secret that also concerns her own family.",
-      "runtime": 103,
-      "times": [
-        {
-          "starts_at": "2024-09-06T15:00:00+01:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-51457/"
-        }
-      ]
-    },
-    {
-      "title": "Blink Twice",
-      "trailer": "https://www.youtube.com/watch?v=vVoyBSgTjOs",
-      "synopsis": "When tech billionaire Slater King (Channing Tatum) meets cocktail waitress Frida (Naomi Ackie) at his fundraising gala, sparks fly. He invites her to join him and his friends on a dream vacation on his private island. It’s paradise. Wild nights blend into sun-soaked days and everyone's having a great time. No one wants this trip to end, but as strange things start to happen, Frida begins to question her reality. There is something wrong with this place. She’ll have to uncover the truth if she wants to make it out of this party alive.\n\nWith an ensemble cast including Naomi Ackie, Channing Tatum, Alia Shawkat, Simon Rex, Adria Arjona, Haley Joel Osment, Christian Slater, Kyle MacLachlan and Geena Davis, BLINK TWICE is a wild new psychological thriller directed by Zoë Kravitz.",
-      "runtime": 102,
-      "times": [
-        {
-          "starts_at": "2024-09-06T16:00:00+01:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-51452/"
-        },
-        {
-          "starts_at": "2024-09-06T18:30:00+01:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-51451/"
-        },
-        {
-          "starts_at": "2024-09-06T21:00:00+01:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-51450/"
-        },
-        {
-          "starts_at": "2024-09-06T16:20:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-75426/"
-        },
-        {
-          "starts_at": "2024-09-06T18:45:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-75425/"
-        },
-        {
-          "starts_at": "2024-09-06T21:15:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-75418/"
-        },
-        {
-          "starts_at": "2024-09-06T17:50:00+01:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-18073/"
-        },
-        {
-          "starts_at": "2024-09-06T16:10:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-27175/"
-        },
-        {
-          "starts_at": "2024-09-06T18:40:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-27173/"
-        },
-        {
-          "starts_at": "2024-09-06T21:00:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-27172/"
-        }
-      ]
-    },
-    {
       "title": "His Three Daughters",
       "trailer": null,
       "synopsis": "This tense, touching, and funny portrait of family dynamics follows three estranged sisters as they converge in a New York apartment to care for their ailing father and try to mend their own broken relationship with one another.",
@@ -219,11 +15,6 @@
           "starts_at": "2024-09-06T20:15:00+01:00",
           "site": "Curzon Victoria",
           "url": "https://www.curzon.com/ticketing/seats/VIC1-75421/"
-        },
-        {
-          "starts_at": "2024-09-06T14:20:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-27289/"
         },
         {
           "starts_at": "2024-09-06T21:30:00+01:00",
@@ -249,11 +40,6 @@
           "url": "https://www.curzon.com/ticketing/seats/ALD1-51455/"
         },
         {
-          "starts_at": "2024-09-06T15:50:00+01:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-46412/"
-        },
-        {
           "starts_at": "2024-09-06T18:40:00+01:00",
           "site": "Curzon Soho",
           "url": "https://www.curzon.com/ticketing/seats/SOH1-46411/"
@@ -262,16 +48,6 @@
           "starts_at": "2024-09-06T21:10:00+01:00",
           "site": "Curzon Soho",
           "url": "https://www.curzon.com/ticketing/seats/SOH1-46410/"
-        },
-        {
-          "starts_at": "2024-09-06T13:50:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-75527/"
-        },
-        {
-          "starts_at": "2024-09-06T15:00:00+01:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-18076/"
         },
         {
           "starts_at": "2024-09-06T20:20:00+01:00",
@@ -284,11 +60,6 @@
           "url": "https://www.curzon.com/ticketing/seats/CAM1-27288/"
         },
         {
-          "starts_at": "2024-09-06T15:40:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-93055/"
-        },
-        {
           "starts_at": "2024-09-06T18:00:00+01:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-93039/"
@@ -297,6 +68,127 @@
           "starts_at": "2024-09-06T21:10:00+01:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-93046/"
+        }
+      ]
+    },
+    {
+      "title": "Blink Twice",
+      "trailer": "https://www.youtube.com/watch?v=vVoyBSgTjOs",
+      "synopsis": "When tech billionaire Slater King (Channing Tatum) meets cocktail waitress Frida (Naomi Ackie) at his fundraising gala, sparks fly. He invites her to join him and his friends on a dream vacation on his private island. It’s paradise. Wild nights blend into sun-soaked days and everyone's having a great time. No one wants this trip to end, but as strange things start to happen, Frida begins to question her reality. There is something wrong with this place. She’ll have to uncover the truth if she wants to make it out of this party alive.\n\nWith an ensemble cast including Naomi Ackie, Channing Tatum, Alia Shawkat, Simon Rex, Adria Arjona, Haley Joel Osment, Christian Slater, Kyle MacLachlan and Geena Davis, BLINK TWICE is a wild new psychological thriller directed by Zoë Kravitz.",
+      "runtime": 102,
+      "times": [
+        {
+          "starts_at": "2024-09-06T18:30:00+01:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-51451/"
+        },
+        {
+          "starts_at": "2024-09-06T21:00:00+01:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-51450/"
+        },
+        {
+          "starts_at": "2024-09-06T18:45:00+01:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-75425/"
+        },
+        {
+          "starts_at": "2024-09-06T21:15:00+01:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-75418/"
+        },
+        {
+          "starts_at": "2024-09-06T17:50:00+01:00",
+          "site": "Curzon Hoxton",
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-18073/"
+        },
+        {
+          "starts_at": "2024-09-06T18:40:00+01:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-27173/"
+        },
+        {
+          "starts_at": "2024-09-06T21:00:00+01:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-27172/"
+        }
+      ]
+    },
+    {
+      "title": "Beetlejuice Beetlejuice",
+      "trailer": "https://www.youtube.com/watch?v=RyTc5kXZlAM",
+      "synopsis": "Beetlejuice is back!  After an unexpected family tragedy, three generations of the Deetz family return home to Winter River.  Still haunted by Beetlejuice, Lydia's life is turned upside down when her rebellious teenage daughter, Astrid, discovers the mysterious model of the town in the attic and the portal to the Afterlife is accidentally opened.  With trouble brewing in both realms, it's only a matter of time until someone says Beetlejuice's name three times and the mischievous demon returns to unleash his very own brand of mayhem.",
+      "runtime": 105,
+      "times": [
+        {
+          "starts_at": "2024-09-06T19:00:00+01:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-50712/"
+        },
+        {
+          "starts_at": "2024-09-06T20:40:00+01:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-50716/"
+        },
+        {
+          "starts_at": "2024-09-06T21:30:00+01:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-50711/"
+        },
+        {
+          "starts_at": "2024-09-06T18:00:00+01:00",
+          "site": "Curzon Soho",
+          "url": "https://www.curzon.com/ticketing/seats/SOH1-46407/"
+        },
+        {
+          "starts_at": "2024-09-06T20:30:00+01:00",
+          "site": "Curzon Soho",
+          "url": "https://www.curzon.com/ticketing/seats/SOH1-46406/"
+        },
+        {
+          "starts_at": "2024-09-06T18:30:00+01:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-74794/"
+        },
+        {
+          "starts_at": "2024-09-06T21:00:00+01:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-74793/"
+        },
+        {
+          "starts_at": "2024-09-06T18:00:00+01:00",
+          "site": "Curzon Mayfair",
+          "url": "https://www.curzon.com/ticketing/seats/MAY1-27567/"
+        },
+        {
+          "starts_at": "2024-09-06T21:00:00+01:00",
+          "site": "Curzon Mayfair",
+          "url": "https://www.curzon.com/ticketing/seats/MAY1-27803/"
+        },
+        {
+          "starts_at": "2024-09-06T18:30:00+01:00",
+          "site": "Curzon Hoxton",
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-17719/"
+        },
+        {
+          "starts_at": "2024-09-06T21:00:00+01:00",
+          "site": "Curzon Hoxton",
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-17718/"
+        },
+        {
+          "starts_at": "2024-09-06T18:20:00+01:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-26463/"
+        },
+        {
+          "starts_at": "2024-09-06T19:50:00+01:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-27164/"
+        },
+        {
+          "starts_at": "2024-09-06T20:40:00+01:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-26464/"
         }
       ]
     },
@@ -314,29 +206,6 @@
       ]
     },
     {
-      "title": "Black Dog",
-      "trailer": "https://www.youtube.com/watch?v=1rqJHP7xtmU",
-      "synopsis": "On the edge of the Gobi Desert in Northwest China, Lang returns to his hometown after being released from jail. While working for the local stray dog patrol team, clearing the town before the 2008 Olympic Games, he strikes up an unlikely connection with a black dog. These two lonely souls now embark on a new journey together.\nBlack Dog wins top Un Certain Regard Award at Cannes Film Festival. The lead canine, Xiao Xin, a Jack Russell-Greyhound cross, received the Grand Jury Prize at the Palm Dog Award.\n",
-      "runtime": 110,
-      "times": [
-        {
-          "starts_at": "2024-09-06T15:10:00+01:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-46445/"
-        },
-        {
-          "starts_at": "2024-09-06T15:10:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-93050/"
-        },
-        {
-          "starts_at": "2024-09-06T20:20:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-93042/"
-        }
-      ]
-    },
-    {
       "title": "Sing Sing",
       "trailer": "https://www.youtube.com/watch?v=i_SKJJSLw_M",
       "synopsis": "Divine G (Colman Domingo), imprisoned at Sing Sing for a crime he didn’t commit, finds purpose by acting in a theatre group alongside other incarcerated men, including wary newcomer (Clarence Maclin), in this stirring true story of resilience, humanity, and the transformative power of art, starring an unforgettable ensemble cast of formerly incarcerated actors.",
@@ -348,29 +217,14 @@
           "url": "https://www.curzon.com/ticketing/seats/SOH1-46415/"
         },
         {
-          "starts_at": "2024-09-06T15:00:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-75424/"
-        },
-        {
           "starts_at": "2024-09-06T18:10:00+01:00",
           "site": "Curzon Hoxton",
           "url": "https://www.curzon.com/ticketing/seats/HOX1-18069/"
         },
         {
-          "starts_at": "2024-09-06T15:30:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-27177/"
-        },
-        {
           "starts_at": "2024-09-06T19:00:00+01:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-27176/"
-        },
-        {
-          "starts_at": "2024-09-06T15:30:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-93038/"
         },
         {
           "starts_at": "2024-09-06T18:30:00+01:00",
@@ -396,29 +250,14 @@
           "url": "https://www.curzon.com/ticketing/seats/SOH1-46414/"
         },
         {
-          "starts_at": "2024-09-06T15:40:00+01:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-18070/"
-        },
-        {
           "starts_at": "2024-09-06T20:40:00+01:00",
           "site": "Curzon Hoxton",
           "url": "https://www.curzon.com/ticketing/seats/HOX1-18068/"
         },
         {
-          "starts_at": "2024-09-06T13:50:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-27281/"
-        },
-        {
           "starts_at": "2024-09-06T16:45:00+01:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-27287/"
-        },
-        {
-          "starts_at": "2024-09-06T15:50:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-93047/"
         },
         {
           "starts_at": "2024-09-06T21:00:00+01:00",
@@ -434,11 +273,6 @@
       "runtime": 130,
       "times": [
         {
-          "starts_at": "2024-09-06T14:45:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-75429/"
-        },
-        {
           "starts_at": "2024-09-06T17:30:00+01:00",
           "site": "Curzon Victoria",
           "url": "https://www.curzon.com/ticketing/seats/VIC1-75428/"
@@ -447,29 +281,6 @@
           "starts_at": "2024-09-06T20:30:00+01:00",
           "site": "Curzon Victoria",
           "url": "https://www.curzon.com/ticketing/seats/VIC1-75419/"
-        }
-      ]
-    },
-    {
-      "title": "Inside Out 2",
-      "trailer": "https://www.youtube.com/watch?v=EzEZVTaXE6E",
-      "synopsis": "Disney and Pixar’s “Inside Out 2” returns to the mind of newly minted teenager Riley just as headquarters is undergoing a sudden demolition to make room for something entirely unexpected: new Emotions! Joy, Sadness, Anger, Fear and Disgust, who’ve long been running a successful operation\nby all accounts, aren’t sure how to feel when Anxiety shows up. And it looks like she’s not alone. Maya Hawke lends her voice to Anxiety, alongside Amy Poehler as the voice of Joy. The voice cast also includes Lewis Black, Phyllis Smith, Tony Hale, Liza Lapira, Ayo Edebiri, Adèle Exarchopoulos, Paul\nWalter Hauser, Kensington Tallman, Lilimar, Diane Lane, Kyle MacLachlan, Sumayyah Nuriddin-Green, Grace Lu and Yvette Nicole Brown. Directed by Kelsey Mann and produced by Mark Nielsen with a screenplay by Meg LeFauve and Dave Holstein, “Inside Out 2” features a score by Andrea Datzman.",
-      "runtime": 96,
-      "times": [
-        {
-          "starts_at": "2024-09-06T15:45:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-75431/"
-        },
-        {
-          "starts_at": "2024-09-06T18:00:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-75433/"
-        },
-        {
-          "starts_at": "2024-09-06T20:45:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-75420/"
         }
       ]
     },
@@ -485,14 +296,27 @@
           "url": "https://www.curzon.com/ticketing/seats/VIC1-75536/"
         },
         {
-          "starts_at": "2024-09-06T15:00:00+01:00",
-          "site": "Curzon Mayfair",
-          "url": "https://www.curzon.com/ticketing/seats/MAY1-27581/"
-        },
-        {
           "starts_at": "2024-09-06T20:40:00+01:00",
           "site": "Curzon Mayfair",
           "url": "https://www.curzon.com/ticketing/seats/MAY1-27580/"
+        }
+      ]
+    },
+    {
+      "title": "Inside Out 2",
+      "trailer": "https://www.youtube.com/watch?v=EzEZVTaXE6E",
+      "synopsis": "Disney and Pixar’s “Inside Out 2” returns to the mind of newly minted teenager Riley just as headquarters is undergoing a sudden demolition to make room for something entirely unexpected: new Emotions! Joy, Sadness, Anger, Fear and Disgust, who’ve long been running a successful operation\nby all accounts, aren’t sure how to feel when Anxiety shows up. And it looks like she’s not alone. Maya Hawke lends her voice to Anxiety, alongside Amy Poehler as the voice of Joy. The voice cast also includes Lewis Black, Phyllis Smith, Tony Hale, Liza Lapira, Ayo Edebiri, Adèle Exarchopoulos, Paul\nWalter Hauser, Kensington Tallman, Lilimar, Diane Lane, Kyle MacLachlan, Sumayyah Nuriddin-Green, Grace Lu and Yvette Nicole Brown. Directed by Kelsey Mann and produced by Mark Nielsen with a screenplay by Meg LeFauve and Dave Holstein, “Inside Out 2” features a score by Andrea Datzman.",
+      "runtime": 96,
+      "times": [
+        {
+          "starts_at": "2024-09-06T18:00:00+01:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-75433/"
+        },
+        {
+          "starts_at": "2024-09-06T20:45:00+01:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-75420/"
         }
       ]
     },
@@ -542,11 +366,6 @@
       "runtime": 125,
       "times": [
         {
-          "starts_at": "2024-09-06T15:00:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-93052/"
-        },
-        {
           "starts_at": "2024-09-06T17:50:00+01:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-93053/"
@@ -555,19 +374,6 @@
           "starts_at": "2024-09-06T20:40:00+01:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-93043/"
-        }
-      ]
-    },
-    {
-      "title": "DocHouse: Hollywoodgate",
-      "trailer": null,
-      "synopsis": "When the United States withdrew from its twenty-year 'forever war' in  Afghanistan, the Taliban retook control of the ravaged country and immediately  found an American base loaded with weaponry - a portion of the over $7 billion in  U.S. armaments still in the country.\r\n\r\nUnprecedented and audacious, director Ibrahim Nash’at’s Hollywoodgate spends a year inside Afghanistan following the Taliban as they take possession of the cache America left behind - and transform from a fundamentalist militia into a heavily armed military regime.",
-      "runtime": 91,
-      "times": [
-        {
-          "starts_at": "2024-09-06T15:20:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-93151/"
         }
       ]
     },
@@ -607,6 +413,19 @@
           "starts_at": "2024-09-06T20:10:00+01:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-92992/"
+        }
+      ]
+    },
+    {
+      "title": "Black Dog",
+      "trailer": "https://www.youtube.com/watch?v=1rqJHP7xtmU",
+      "synopsis": "On the edge of the Gobi Desert in Northwest China, Lang returns to his hometown after being released from jail. While working for the local stray dog patrol team, clearing the town before the 2008 Olympic Games, he strikes up an unlikely connection with a black dog. These two lonely souls now embark on a new journey together.\nBlack Dog wins top Un Certain Regard Award at Cannes Film Festival. The lead canine, Xiao Xin, a Jack Russell-Greyhound cross, received the Grand Jury Prize at the Palm Dog Award.\n",
+      "runtime": 110,
+      "times": [
+        {
+          "starts_at": "2024-09-06T20:20:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-93042/"
         }
       ]
     }
@@ -1326,19 +1145,6 @@
           "starts_at": "2024-09-07T13:30:00+01:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-93152/"
-        }
-      ]
-    },
-    {
-      "title": "DocHouse: Invisible Nation",
-      "trailer": null,
-      "synopsis": "With unprecedented access to Taiwan’s first female president, Tsai Ing-wen, Invisible Nation is a fascinating portrait of this constantly colonised island, as it struggles to preserve its hard-won democracy in the face of an uncertain future.\r\n\r\nAfter the Russian invasion of Ukraine and the Chinese takeover of Hong Kong, Taiwan has once again become a major political hotspot. Thorough, incisive and bristling with tension, Invisible Nation offers a rich portrait of the country's past and a living account of Tsai Ing-wen's tightrope walk as she balances the hopes and dreams of the nation between the colossal geopolitical forces of the U.S. and China.",
-      "runtime": 85,
-      "times": [
-        {
-          "starts_at": "2024-09-07T16:00:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-92341/"
         }
       ]
     },
