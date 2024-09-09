@@ -322,6 +322,11 @@
           "url": "https://www.curzon.com/ticketing/seats/CAM1-27222/"
         },
         {
+          "starts_at": "2024-09-09T15:50:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-93093/"
+        },
+        {
           "starts_at": "2024-09-09T18:40:00+01:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-93077/"
@@ -494,9 +499,19 @@
           "url": "https://www.curzon.com/ticketing/seats/CAM1-27225/"
         },
         {
+          "starts_at": "2024-09-09T13:10:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-93092/"
+        },
+        {
           "starts_at": "2024-09-09T16:10:00+01:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-93095/"
+        },
+        {
+          "starts_at": "2024-09-09T18:20:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-93078/"
         },
         {
           "starts_at": "2024-09-09T21:00:00+01:00",
@@ -2923,7 +2938,7 @@
           "url": "https://www.curzon.com/ticketing/seats/CAM1-27109/"
         },
         {
-          "starts_at": "2024-09-13T20:50:00+01:00",
+          "starts_at": "2024-09-13T20:45:00+01:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-27108/"
         },
@@ -3072,7 +3087,7 @@
           "url": "https://www.curzon.com/ticketing/seats/CAM1-27122/"
         },
         {
-          "starts_at": "2024-09-14T20:50:00+01:00",
+          "starts_at": "2024-09-14T20:45:00+01:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-27123/"
         },
@@ -3312,7 +3327,7 @@
           "url": "https://www.curzon.com/ticketing/seats/CAM1-27130/"
         },
         {
-          "starts_at": "2024-09-15T20:20:00+01:00",
+          "starts_at": "2024-09-15T20:15:00+01:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-27131/"
         }
@@ -3477,7 +3492,7 @@
           "url": "https://www.curzon.com/ticketing/seats/CAM1-27134/"
         },
         {
-          "starts_at": "2024-09-16T20:50:00+01:00",
+          "starts_at": "2024-09-16T20:45:00+01:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-27135/"
         },
