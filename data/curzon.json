@@ -1,210 +1,6 @@
 {
   "2024-09-09": [
     {
-      "title": "Beetlejuice Beetlejuice",
-      "trailer": "https://www.youtube.com/watch?v=RyTc5kXZlAM",
-      "synopsis": "Beetlejuice is back!  After an unexpected family tragedy, three generations of the Deetz family return home to Winter River.  Still haunted by Beetlejuice, Lydia's life is turned upside down when her rebellious teenage daughter, Astrid, discovers the mysterious model of the town in the attic and the portal to the Afterlife is accidentally opened.  With trouble brewing in both realms, it's only a matter of time until someone says Beetlejuice's name three times and the mischievous demon returns to unleash his very own brand of mayhem.",
-      "runtime": 105,
-      "times": [
-        {
-          "starts_at": "2024-09-09T13:40:00+01:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-50731/"
-        },
-        {
-          "starts_at": "2024-09-09T15:20:00+01:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-51523/"
-        },
-        {
-          "starts_at": "2024-09-09T16:20:00+01:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-50732/"
-        },
-        {
-          "starts_at": "2024-09-09T19:00:00+01:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-50733/"
-        },
-        {
-          "starts_at": "2024-09-09T20:40:00+01:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-51519/"
-        },
-        {
-          "starts_at": "2024-09-09T21:30:00+01:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-50734/"
-        },
-        {
-          "starts_at": "2024-09-09T15:30:00+01:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-46425/"
-        },
-        {
-          "starts_at": "2024-09-09T18:00:00+01:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-46426/"
-        },
-        {
-          "starts_at": "2024-09-09T20:30:00+01:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-46427/"
-        },
-        {
-          "starts_at": "2024-09-09T16:00:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-74808/"
-        },
-        {
-          "starts_at": "2024-09-09T18:30:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-74805/"
-        },
-        {
-          "starts_at": "2024-09-09T21:00:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-74806/"
-        },
-        {
-          "starts_at": "2024-09-09T15:20:00+01:00",
-          "site": "Curzon Mayfair",
-          "url": "https://www.curzon.com/ticketing/seats/MAY1-27816/"
-        },
-        {
-          "starts_at": "2024-09-09T17:20:00+01:00",
-          "site": "Curzon Mayfair",
-          "url": "https://www.curzon.com/ticketing/seats/MAY1-27820/"
-        },
-        {
-          "starts_at": "2024-09-09T21:00:00+01:00",
-          "site": "Curzon Mayfair",
-          "url": "https://www.curzon.com/ticketing/seats/MAY1-27817/"
-        },
-        {
-          "starts_at": "2024-09-09T13:40:00+01:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-17734/"
-        },
-        {
-          "starts_at": "2024-09-09T16:00:00+01:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-17735/"
-        },
-        {
-          "starts_at": "2024-09-09T18:30:00+01:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-17736/"
-        },
-        {
-          "starts_at": "2024-09-09T21:00:00+01:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-17737/"
-        },
-        {
-          "starts_at": "2024-09-09T14:50:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-27217/"
-        },
-        {
-          "starts_at": "2024-09-09T15:50:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-26478/"
-        },
-        {
-          "starts_at": "2024-09-09T18:20:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-26476/"
-        },
-        {
-          "starts_at": "2024-09-09T19:50:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-27219/"
-        },
-        {
-          "starts_at": "2024-09-09T20:40:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-26475/"
-        }
-      ]
-    },
-    {
-      "title": "Cuckoo",
-      "trailer": "https://www.youtube.com/watch?v=okX9NcOM_TM",
-      "synopsis": "Reluctantly, 17-year-old Gretchen leaves her American home to live with her father, who has just moved into a resort in the German Alps with his new family. Arriving at their future residence, they are greeted by Mr. König, her father's boss, who takes an inexplicable interest in Gretchen's mute half-sister Alma. Something doesn't seem right in this tranquil vacation paradise. Gretchen is plagued by strange noises and bloody visions until she discovers a shocking secret that also concerns her own family.",
-      "runtime": 103,
-      "times": [
-        {
-          "starts_at": "2024-09-09T15:00:00+01:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-51522/"
-        }
-      ]
-    },
-    {
-      "title": "Kneecap",
-      "trailer": "https://www.youtube.com/watch?v=2sCxDw8v5cY",
-      "synopsis": "Of the 80,000 native Irish speakers, 6,000 live in the North of Ireland and three of them became a rap group called Kneecap. This is the real-life story of how this anarchic Belfast trio became the unlikely figureheads of a civil rights movement to save and reinvigorate their mother tongue. ",
-      "runtime": 105,
-      "times": [
-        {
-          "starts_at": "2024-09-09T16:00:00+01:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-51543/"
-        },
-        {
-          "starts_at": "2024-09-09T18:00:00+01:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-51526/"
-        },
-        {
-          "starts_at": "2024-09-09T15:50:00+01:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-46468/"
-        },
-        {
-          "starts_at": "2024-09-09T18:40:00+01:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-46474/"
-        },
-        {
-          "starts_at": "2024-09-09T21:10:00+01:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-46472/"
-        },
-        {
-          "starts_at": "2024-09-09T15:00:00+01:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-18103/"
-        },
-        {
-          "starts_at": "2024-09-09T20:20:00+01:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-18102/"
-        },
-        {
-          "starts_at": "2024-09-09T14:15:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-27216/"
-        },
-        {
-          "starts_at": "2024-09-09T20:20:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-27222/"
-        },
-        {
-          "starts_at": "2024-09-09T15:50:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-93093/"
-        },
-        {
-          "starts_at": "2024-09-09T18:40:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-93077/"
-        }
-      ]
-    },
-    {
       "title": "His Three Daughters",
       "trailer": null,
       "synopsis": "This tense, touching, and funny portrait of family dynamics follows three estranged sisters as they converge in a New York apartment to care for their ailing father and try to mend their own broken relationship with one another.",
@@ -238,6 +34,44 @@
       ]
     },
     {
+      "title": "Kneecap",
+      "trailer": "https://www.youtube.com/watch?v=2sCxDw8v5cY",
+      "synopsis": "Of the 80,000 native Irish speakers, 6,000 live in the North of Ireland and three of them became a rap group called Kneecap. This is the real-life story of how this anarchic Belfast trio became the unlikely figureheads of a civil rights movement to save and reinvigorate their mother tongue. ",
+      "runtime": 105,
+      "times": [
+        {
+          "starts_at": "2024-09-09T18:00:00+01:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-51526/"
+        },
+        {
+          "starts_at": "2024-09-09T18:40:00+01:00",
+          "site": "Curzon Soho",
+          "url": "https://www.curzon.com/ticketing/seats/SOH1-46474/"
+        },
+        {
+          "starts_at": "2024-09-09T21:10:00+01:00",
+          "site": "Curzon Soho",
+          "url": "https://www.curzon.com/ticketing/seats/SOH1-46472/"
+        },
+        {
+          "starts_at": "2024-09-09T20:20:00+01:00",
+          "site": "Curzon Hoxton",
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-18102/"
+        },
+        {
+          "starts_at": "2024-09-09T20:20:00+01:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-27222/"
+        },
+        {
+          "starts_at": "2024-09-09T18:40:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-93077/"
+        }
+      ]
+    },
+    {
       "title": "Blink Twice",
       "trailer": "https://www.youtube.com/watch?v=vVoyBSgTjOs",
       "synopsis": "When tech billionaire Slater King (Channing Tatum) meets cocktail waitress Frida (Naomi Ackie) at his fundraising gala, sparks fly. He invites her to join him and his friends on a dream vacation on his private island. It’s paradise. Wild nights blend into sun-soaked days and everyone's having a great time. No one wants this trip to end, but as strange things start to happen, Frida begins to question her reality. There is something wrong with this place. She’ll have to uncover the truth if she wants to make it out of this party alive.\n\nWith an ensemble cast including Naomi Ackie, Channing Tatum, Alia Shawkat, Simon Rex, Adria Arjona, Haley Joel Osment, Christian Slater, Kyle MacLachlan and Geena Davis, BLINK TWICE is a wild new psychological thriller directed by Zoë Kravitz.",
@@ -252,11 +86,6 @@
           "starts_at": "2024-09-09T21:00:00+01:00",
           "site": "Curzon Aldgate",
           "url": "https://www.curzon.com/ticketing/seats/ALD1-51520/"
-        },
-        {
-          "starts_at": "2024-09-09T16:15:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-75479/"
         },
         {
           "starts_at": "2024-09-09T18:45:00+01:00",
@@ -274,11 +103,6 @@
           "url": "https://www.curzon.com/ticketing/seats/HOX1-18101/"
         },
         {
-          "starts_at": "2024-09-09T16:20:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-27226/"
-        },
-        {
           "starts_at": "2024-09-09T18:40:00+01:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-27228/"
@@ -287,6 +111,84 @@
           "starts_at": "2024-09-09T21:00:00+01:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-27229/"
+        }
+      ]
+    },
+    {
+      "title": "Beetlejuice Beetlejuice",
+      "trailer": "https://www.youtube.com/watch?v=RyTc5kXZlAM",
+      "synopsis": "Beetlejuice is back!  After an unexpected family tragedy, three generations of the Deetz family return home to Winter River.  Still haunted by Beetlejuice, Lydia's life is turned upside down when her rebellious teenage daughter, Astrid, discovers the mysterious model of the town in the attic and the portal to the Afterlife is accidentally opened.  With trouble brewing in both realms, it's only a matter of time until someone says Beetlejuice's name three times and the mischievous demon returns to unleash his very own brand of mayhem.",
+      "runtime": 105,
+      "times": [
+        {
+          "starts_at": "2024-09-09T19:00:00+01:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-50733/"
+        },
+        {
+          "starts_at": "2024-09-09T20:40:00+01:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-51519/"
+        },
+        {
+          "starts_at": "2024-09-09T21:30:00+01:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-50734/"
+        },
+        {
+          "starts_at": "2024-09-09T18:00:00+01:00",
+          "site": "Curzon Soho",
+          "url": "https://www.curzon.com/ticketing/seats/SOH1-46426/"
+        },
+        {
+          "starts_at": "2024-09-09T20:30:00+01:00",
+          "site": "Curzon Soho",
+          "url": "https://www.curzon.com/ticketing/seats/SOH1-46427/"
+        },
+        {
+          "starts_at": "2024-09-09T18:30:00+01:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-74805/"
+        },
+        {
+          "starts_at": "2024-09-09T21:00:00+01:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-74806/"
+        },
+        {
+          "starts_at": "2024-09-09T17:20:00+01:00",
+          "site": "Curzon Mayfair",
+          "url": "https://www.curzon.com/ticketing/seats/MAY1-27820/"
+        },
+        {
+          "starts_at": "2024-09-09T21:00:00+01:00",
+          "site": "Curzon Mayfair",
+          "url": "https://www.curzon.com/ticketing/seats/MAY1-27817/"
+        },
+        {
+          "starts_at": "2024-09-09T18:30:00+01:00",
+          "site": "Curzon Hoxton",
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-17736/"
+        },
+        {
+          "starts_at": "2024-09-09T21:00:00+01:00",
+          "site": "Curzon Hoxton",
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-17737/"
+        },
+        {
+          "starts_at": "2024-09-09T18:20:00+01:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-26476/"
+        },
+        {
+          "starts_at": "2024-09-09T19:50:00+01:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-27219/"
+        },
+        {
+          "starts_at": "2024-09-09T20:40:00+01:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-26475/"
         }
       ]
     },
@@ -300,29 +202,6 @@
           "starts_at": "2024-09-09T20:20:00+01:00",
           "site": "Curzon Aldgate",
           "url": "https://www.curzon.com/ticketing/seats/ALD1-51518/"
-        }
-      ]
-    },
-    {
-      "title": "Black Dog",
-      "trailer": "https://www.youtube.com/watch?v=1rqJHP7xtmU",
-      "synopsis": "On the edge of the Gobi Desert in Northwest China, Lang returns to his hometown after being released from jail. While working for the local stray dog patrol team, clearing the town before the 2008 Olympic Games, he strikes up an unlikely connection with a black dog. These two lonely souls now embark on a new journey together.\nBlack Dog wins top Un Certain Regard Award at Cannes Film Festival. The lead canine, Xiao Xin, a Jack Russell-Greyhound cross, received the Grand Jury Prize at the Palm Dog Award.\n",
-      "runtime": 110,
-      "times": [
-        {
-          "starts_at": "2024-09-09T15:10:00+01:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-46475/"
-        },
-        {
-          "starts_at": "2024-09-09T15:10:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-93088/"
-        },
-        {
-          "starts_at": "2024-09-09T20:20:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-93080/"
         }
       ]
     },
@@ -343,19 +222,9 @@
           "url": "https://www.curzon.com/ticketing/seats/HOX1-18095/"
         },
         {
-          "starts_at": "2024-09-09T15:10:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-27224/"
-        },
-        {
           "starts_at": "2024-09-09T19:00:00+01:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-27225/"
-        },
-        {
-          "starts_at": "2024-09-09T16:10:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-93095/"
         },
         {
           "starts_at": "2024-09-09T18:20:00+01:00",
@@ -381,11 +250,6 @@
           "url": "https://www.curzon.com/ticketing/seats/SOH1-46471/"
         },
         {
-          "starts_at": "2024-09-09T15:40:00+01:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-18096/"
-        },
-        {
           "starts_at": "2024-09-09T20:40:00+01:00",
           "site": "Curzon Hoxton",
           "url": "https://www.curzon.com/ticketing/seats/HOX1-18098/"
@@ -396,27 +260,9 @@
           "url": "https://www.curzon.com/ticketing/seats/CAM1-27218/"
         },
         {
-          "starts_at": "2024-09-09T15:40:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-93096/"
-        },
-        {
           "starts_at": "2024-09-09T21:10:00+01:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-93083/"
-        }
-      ]
-    },
-    {
-      "title": "Deadpool & Wolverine",
-      "trailer": null,
-      "synopsis": "Deadpool's peaceful existence comes crashing down when the Time Variance Authority recruits him to help safeguard the multiverse.",
-      "runtime": 128,
-      "times": [
-        {
-          "starts_at": "2024-09-09T14:30:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-75469/"
         }
       ]
     },
@@ -427,11 +273,6 @@
       "runtime": 130,
       "times": [
         {
-          "starts_at": "2024-09-09T14:45:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-75476/"
-        },
-        {
           "starts_at": "2024-09-09T17:30:00+01:00",
           "site": "Curzon Victoria",
           "url": "https://www.curzon.com/ticketing/seats/VIC1-75477/"
@@ -440,29 +281,6 @@
           "starts_at": "2024-09-09T20:30:00+01:00",
           "site": "Curzon Victoria",
           "url": "https://www.curzon.com/ticketing/seats/VIC1-75467/"
-        }
-      ]
-    },
-    {
-      "title": "Inside Out 2",
-      "trailer": "https://www.youtube.com/watch?v=EzEZVTaXE6E",
-      "synopsis": "Disney and Pixar’s “Inside Out 2” returns to the mind of newly minted teenager Riley just as headquarters is undergoing a sudden demolition to make room for something entirely unexpected: new Emotions! Joy, Sadness, Anger, Fear and Disgust, who’ve long been running a successful operation\nby all accounts, aren’t sure how to feel when Anxiety shows up. And it looks like she’s not alone. Maya Hawke lends her voice to Anxiety, alongside Amy Poehler as the voice of Joy. The voice cast also includes Lewis Black, Phyllis Smith, Tony Hale, Liza Lapira, Ayo Edebiri, Adèle Exarchopoulos, Paul\nWalter Hauser, Kensington Tallman, Lilimar, Diane Lane, Kyle MacLachlan, Sumayyah Nuriddin-Green, Grace Lu and Yvette Nicole Brown. Directed by Kelsey Mann and produced by Mark Nielsen with a screenplay by Meg LeFauve and Dave Holstein, “Inside Out 2” features a score by Andrea Datzman.",
-      "runtime": 96,
-      "times": [
-        {
-          "starts_at": "2024-09-09T15:45:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-75474/"
-        },
-        {
-          "starts_at": "2024-09-09T18:00:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-75472/"
-        },
-        {
-          "starts_at": "2024-09-09T20:45:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-75466/"
         }
       ]
     },
@@ -478,14 +296,27 @@
           "url": "https://www.curzon.com/ticketing/seats/VIC1-75539/"
         },
         {
-          "starts_at": "2024-09-09T14:30:00+01:00",
-          "site": "Curzon Mayfair",
-          "url": "https://www.curzon.com/ticketing/seats/MAY1-27819/"
-        },
-        {
           "starts_at": "2024-09-09T18:00:00+01:00",
           "site": "Curzon Mayfair",
           "url": "https://www.curzon.com/ticketing/seats/MAY1-27815/"
+        }
+      ]
+    },
+    {
+      "title": "Inside Out 2",
+      "trailer": "https://www.youtube.com/watch?v=EzEZVTaXE6E",
+      "synopsis": "Disney and Pixar’s “Inside Out 2” returns to the mind of newly minted teenager Riley just as headquarters is undergoing a sudden demolition to make room for something entirely unexpected: new Emotions! Joy, Sadness, Anger, Fear and Disgust, who’ve long been running a successful operation\nby all accounts, aren’t sure how to feel when Anxiety shows up. And it looks like she’s not alone. Maya Hawke lends her voice to Anxiety, alongside Amy Poehler as the voice of Joy. The voice cast also includes Lewis Black, Phyllis Smith, Tony Hale, Liza Lapira, Ayo Edebiri, Adèle Exarchopoulos, Paul\nWalter Hauser, Kensington Tallman, Lilimar, Diane Lane, Kyle MacLachlan, Sumayyah Nuriddin-Green, Grace Lu and Yvette Nicole Brown. Directed by Kelsey Mann and produced by Mark Nielsen with a screenplay by Meg LeFauve and Dave Holstein, “Inside Out 2” features a score by Andrea Datzman.",
+      "runtime": 96,
+      "times": [
+        {
+          "starts_at": "2024-09-09T18:00:00+01:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-75472/"
+        },
+        {
+          "starts_at": "2024-09-09T20:45:00+01:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-75466/"
         }
       ]
     },
@@ -509,27 +340,9 @@
       "runtime": 118,
       "times": [
         {
-          "starts_at": "2024-09-09T13:40:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-27220/"
-        },
-        {
           "starts_at": "2024-09-09T17:40:00+01:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-27221/"
-        }
-      ]
-    },
-    {
-      "title": "DocHouse: Invisible Nation",
-      "trailer": null,
-      "synopsis": "With unprecedented access to Taiwan’s first female president, Tsai Ing-wen, Invisible Nation is a fascinating portrait of this constantly colonised island, as it struggles to preserve its hard-won democracy in the face of an uncertain future.\r\n\r\nAfter the Russian invasion of Ukraine and the Chinese takeover of Hong Kong, Taiwan has once again become a major political hotspot. Thorough, incisive and bristling with tension, Invisible Nation offers a rich portrait of the country's past and a living account of Tsai Ing-wen's tightrope walk as she balances the hopes and dreams of the nation between the colossal geopolitical forces of the U.S. and China.",
-      "runtime": 85,
-      "times": [
-        {
-          "starts_at": "2024-09-09T15:10:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-93157/"
         }
       ]
     },
@@ -569,6 +382,19 @@
           "starts_at": "2024-09-09T20:10:00+01:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-93159/"
+        }
+      ]
+    },
+    {
+      "title": "Black Dog",
+      "trailer": "https://www.youtube.com/watch?v=1rqJHP7xtmU",
+      "synopsis": "On the edge of the Gobi Desert in Northwest China, Lang returns to his hometown after being released from jail. While working for the local stray dog patrol team, clearing the town before the 2008 Olympic Games, he strikes up an unlikely connection with a black dog. These two lonely souls now embark on a new journey together.\nBlack Dog wins top Un Certain Regard Award at Cannes Film Festival. The lead canine, Xiao Xin, a Jack Russell-Greyhound cross, received the Grand Jury Prize at the Palm Dog Award.\n",
+      "runtime": 110,
+      "times": [
+        {
+          "starts_at": "2024-09-09T20:20:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-93080/"
         }
       ]
     },
@@ -2855,6 +2681,147 @@
       ]
     },
     {
+      "title": "Inside Out 2",
+      "trailer": "https://www.youtube.com/watch?v=EzEZVTaXE6E",
+      "synopsis": "Disney and Pixar’s “Inside Out 2” returns to the mind of newly minted teenager Riley just as headquarters is undergoing a sudden demolition to make room for something entirely unexpected: new Emotions! Joy, Sadness, Anger, Fear and Disgust, who’ve long been running a successful operation\nby all accounts, aren’t sure how to feel when Anxiety shows up. And it looks like she’s not alone. Maya Hawke lends her voice to Anxiety, alongside Amy Poehler as the voice of Joy. The voice cast also includes Lewis Black, Phyllis Smith, Tony Hale, Liza Lapira, Ayo Edebiri, Adèle Exarchopoulos, Paul\nWalter Hauser, Kensington Tallman, Lilimar, Diane Lane, Kyle MacLachlan, Sumayyah Nuriddin-Green, Grace Lu and Yvette Nicole Brown. Directed by Kelsey Mann and produced by Mark Nielsen with a screenplay by Meg LeFauve and Dave Holstein, “Inside Out 2” features a score by Andrea Datzman.",
+      "runtime": 96,
+      "times": [
+        {
+          "starts_at": "2024-09-13T11:45:00+01:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-75700/"
+        },
+        {
+          "starts_at": "2024-09-13T16:45:00+01:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-75699/"
+        }
+      ]
+    },
+    {
+      "title": "Will & Harper",
+      "trailer": "https://www.youtube.com/watch?v=PRZ1ELeGepo",
+      "synopsis": "When Will Ferrell finds out his close friend of 30 years is coming out as a trans woman, the two decide to embark on a cross-country road trip to process this new stage of their relationship in an intimate portrait of friendship, transition, and America.",
+      "runtime": 114,
+      "times": [
+        {
+          "starts_at": "2024-09-13T12:00:00+01:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-75702/"
+        },
+        {
+          "starts_at": "2024-09-13T17:30:00+01:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-75691/"
+        }
+      ]
+    },
+    {
+      "title": "Blink Twice",
+      "trailer": "https://www.youtube.com/watch?v=vVoyBSgTjOs",
+      "synopsis": "When tech billionaire Slater King (Channing Tatum) meets cocktail waitress Frida (Naomi Ackie) at his fundraising gala, sparks fly. He invites her to join him and his friends on a dream vacation on his private island. It’s paradise. Wild nights blend into sun-soaked days and everyone's having a great time. No one wants this trip to end, but as strange things start to happen, Frida begins to question her reality. There is something wrong with this place. She’ll have to uncover the truth if she wants to make it out of this party alive.\n\nWith an ensemble cast including Naomi Ackie, Channing Tatum, Alia Shawkat, Simon Rex, Adria Arjona, Haley Joel Osment, Christian Slater, Kyle MacLachlan and Geena Davis, BLINK TWICE is a wild new psychological thriller directed by Zoë Kravitz.",
+      "runtime": 102,
+      "times": [
+        {
+          "starts_at": "2024-09-13T12:15:00+01:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-75806/"
+        },
+        {
+          "starts_at": "2024-09-13T15:00:00+01:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-75704/"
+        },
+        {
+          "starts_at": "2024-09-13T20:30:00+01:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-75689/"
+        }
+      ]
+    },
+    {
+      "title": "Firebrand",
+      "trailer": "https://www.youtube.com/watch?v=uc3_NOiDZoY",
+      "synopsis": "In blood-soaked Tudor England, Katherine Parr, the sixth and last wife of King Henry VIII, is named Regent while tyrant Henry is fighting overseas. Katherine has done everything she can to push for a new future based on her radical Protestant beliefs. When an increasingly ailing and paranoid King returns, he turns his fury on the radicals, charging Katherine’s childhood friend with treason and burning her at the stake.  Horrified and grieving, but forced to deny it, Katherine finds herself fighting for her own survival. Conspiracy reverberates through the palace. Everyone holds their breath – for the queen to slip up, for Henry to take her head like wives before. With the hope for a future free of tyranny at risk, will Katherine submit to the inevitable for the sake of King and country? ",
+      "runtime": 120,
+      "times": [
+        {
+          "starts_at": "2024-09-13T13:00:00+01:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-75837/"
+        },
+        {
+          "starts_at": "2024-09-13T17:45:00+01:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-75690/"
+        }
+      ]
+    },
+    {
+      "title": "Speak No Evil",
+      "trailer": null,
+      "synopsis": "When an American family is invited to spend the weekend at the idyllic country estate of a charming British family they befriended on vacation, what begins as a dream holiday soon warps into a snarled psychological nightmare.",
+      "runtime": 110,
+      "times": [
+        {
+          "starts_at": "2024-09-13T14:15:00+01:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-75705/"
+        },
+        {
+          "starts_at": "2024-09-13T19:00:00+01:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-75698/"
+        },
+        {
+          "starts_at": "2024-09-13T21:30:00+01:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-75697/"
+        }
+      ]
+    },
+    {
+      "title": "It Ends With Us",
+      "trailer": "https://www.youtube.com/watch?v=0x-HhWm5K3U",
+      "synopsis": "IT ENDS WITH US, the first Colleen Hoover novel adapted for the big screen, tells the compelling story of Lily Bloom (Blake Lively), a woman who overcomes a traumatic childhood to embark on a new life in Boston and chase a lifelong dream of opening her own business. A chance meeting with charming neurosurgeon Ryle Kincaid (Justin Baldoni) sparks an intense connection, but as the two fall deeply in love, Lily begins to see sides of Ryle that remind her of her parents relationship. When Lilys first love, Atlas Corrigan (Brandon Sklenar), suddenly reenters her life, her relationship with Ryle is upended, and Lily realizes she must learn to rely on her own strength to make an impossible choice for her future.",
+      "runtime": 130,
+      "times": [
+        {
+          "starts_at": "2024-09-13T14:30:00+01:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-75701/"
+        },
+        {
+          "starts_at": "2024-09-13T20:15:00+01:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-75692/"
+        }
+      ]
+    },
+    {
+      "title": "Beetlejuice Beetlejuice",
+      "trailer": "https://www.youtube.com/watch?v=RyTc5kXZlAM",
+      "synopsis": "Beetlejuice is back!  After an unexpected family tragedy, three generations of the Deetz family return home to Winter River.  Still haunted by Beetlejuice, Lydia's life is turned upside down when her rebellious teenage daughter, Astrid, discovers the mysterious model of the town in the attic and the portal to the Afterlife is accidentally opened.  With trouble brewing in both realms, it's only a matter of time until someone says Beetlejuice's name three times and the mischievous demon returns to unleash his very own brand of mayhem.",
+      "runtime": 105,
+      "times": [
+        {
+          "starts_at": "2024-09-13T15:45:00+01:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-75695/"
+        },
+        {
+          "starts_at": "2024-09-13T18:15:00+01:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-75694/"
+        },
+        {
+          "starts_at": "2024-09-13T21:00:00+01:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-75693/"
+        }
+      ]
+    },
+    {
       "title": "The Critic",
       "trailer": "https://www.youtube.com/watch?v=WsYz70rnWVU",
       "synopsis": "THE CRITIC is a deliciously dark and sharp-witted thriller set in 1930s London ‘theatreland’ featuring an all-star cast including Ian McKellen, Gemma Arterton, Mark Strong, Ben Barnes, Alfred Enoch, Romola Garai and Lesley Manville.\n\nWhen the most feared and vicious theatre critic in town Jimmy Erskine (McKellen), finds himself suddenly in the crosshairs of the Daily Chronicle’s new owner David Brooke (Strong), he strikes a sinister Faustian pact with struggling actress Nina Land (Arterton) who is desperate to win his favour.\n",
@@ -2907,6 +2874,11 @@
           "starts_at": "2024-09-14T21:00:00+01:00",
           "site": "Curzon Aldgate",
           "url": "https://www.curzon.com/ticketing/seats/ALD1-51546/"
+        },
+        {
+          "starts_at": "2024-09-14T12:30:00+01:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-75838/"
         },
         {
           "starts_at": "2024-09-14T15:15:00+01:00",
@@ -2995,6 +2967,147 @@
           "starts_at": "2024-09-14T20:50:00+01:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-93013/"
+        }
+      ]
+    },
+    {
+      "title": "Inside Out 2",
+      "trailer": "https://www.youtube.com/watch?v=EzEZVTaXE6E",
+      "synopsis": "Disney and Pixar’s “Inside Out 2” returns to the mind of newly minted teenager Riley just as headquarters is undergoing a sudden demolition to make room for something entirely unexpected: new Emotions! Joy, Sadness, Anger, Fear and Disgust, who’ve long been running a successful operation\nby all accounts, aren’t sure how to feel when Anxiety shows up. And it looks like she’s not alone. Maya Hawke lends her voice to Anxiety, alongside Amy Poehler as the voice of Joy. The voice cast also includes Lewis Black, Phyllis Smith, Tony Hale, Liza Lapira, Ayo Edebiri, Adèle Exarchopoulos, Paul\nWalter Hauser, Kensington Tallman, Lilimar, Diane Lane, Kyle MacLachlan, Sumayyah Nuriddin-Green, Grace Lu and Yvette Nicole Brown. Directed by Kelsey Mann and produced by Mark Nielsen with a screenplay by Meg LeFauve and Dave Holstein, “Inside Out 2” features a score by Andrea Datzman.",
+      "runtime": 96,
+      "times": [
+        {
+          "starts_at": "2024-09-14T11:45:00+01:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-75712/"
+        },
+        {
+          "starts_at": "2024-09-14T16:45:00+01:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-75715/"
+        }
+      ]
+    },
+    {
+      "title": "Will & Harper",
+      "trailer": "https://www.youtube.com/watch?v=PRZ1ELeGepo",
+      "synopsis": "When Will Ferrell finds out his close friend of 30 years is coming out as a trans woman, the two decide to embark on a cross-country road trip to process this new stage of their relationship in an intimate portrait of friendship, transition, and America.",
+      "runtime": 114,
+      "times": [
+        {
+          "starts_at": "2024-09-14T12:00:00+01:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-75711/"
+        },
+        {
+          "starts_at": "2024-09-14T17:30:00+01:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-75718/"
+        }
+      ]
+    },
+    {
+      "title": "Blink Twice",
+      "trailer": "https://www.youtube.com/watch?v=vVoyBSgTjOs",
+      "synopsis": "When tech billionaire Slater King (Channing Tatum) meets cocktail waitress Frida (Naomi Ackie) at his fundraising gala, sparks fly. He invites her to join him and his friends on a dream vacation on his private island. It’s paradise. Wild nights blend into sun-soaked days and everyone's having a great time. No one wants this trip to end, but as strange things start to happen, Frida begins to question her reality. There is something wrong with this place. She’ll have to uncover the truth if she wants to make it out of this party alive.\n\nWith an ensemble cast including Naomi Ackie, Channing Tatum, Alia Shawkat, Simon Rex, Adria Arjona, Haley Joel Osment, Christian Slater, Kyle MacLachlan and Geena Davis, BLINK TWICE is a wild new psychological thriller directed by Zoë Kravitz.",
+      "runtime": 102,
+      "times": [
+        {
+          "starts_at": "2024-09-14T12:15:00+01:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-75807/"
+        },
+        {
+          "starts_at": "2024-09-14T15:00:00+01:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-75706/"
+        },
+        {
+          "starts_at": "2024-09-14T20:30:00+01:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-75713/"
+        }
+      ]
+    },
+    {
+      "title": "Firebrand",
+      "trailer": "https://www.youtube.com/watch?v=uc3_NOiDZoY",
+      "synopsis": "In blood-soaked Tudor England, Katherine Parr, the sixth and last wife of King Henry VIII, is named Regent while tyrant Henry is fighting overseas. Katherine has done everything she can to push for a new future based on her radical Protestant beliefs. When an increasingly ailing and paranoid King returns, he turns his fury on the radicals, charging Katherine’s childhood friend with treason and burning her at the stake.  Horrified and grieving, but forced to deny it, Katherine finds herself fighting for her own survival. Conspiracy reverberates through the palace. Everyone holds their breath – for the queen to slip up, for Henry to take her head like wives before. With the hope for a future free of tyranny at risk, will Katherine submit to the inevitable for the sake of King and country? ",
+      "runtime": 120,
+      "times": [
+        {
+          "starts_at": "2024-09-14T13:00:00+01:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-75710/"
+        },
+        {
+          "starts_at": "2024-09-14T17:45:00+01:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-75717/"
+        }
+      ]
+    },
+    {
+      "title": "Speak No Evil",
+      "trailer": null,
+      "synopsis": "When an American family is invited to spend the weekend at the idyllic country estate of a charming British family they befriended on vacation, what begins as a dream holiday soon warps into a snarled psychological nightmare.",
+      "runtime": 110,
+      "times": [
+        {
+          "starts_at": "2024-09-14T14:15:00+01:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-75708/"
+        },
+        {
+          "starts_at": "2024-09-14T19:00:00+01:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-75719/"
+        },
+        {
+          "starts_at": "2024-09-14T21:30:00+01:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-75721/"
+        }
+      ]
+    },
+    {
+      "title": "It Ends With Us",
+      "trailer": "https://www.youtube.com/watch?v=0x-HhWm5K3U",
+      "synopsis": "IT ENDS WITH US, the first Colleen Hoover novel adapted for the big screen, tells the compelling story of Lily Bloom (Blake Lively), a woman who overcomes a traumatic childhood to embark on a new life in Boston and chase a lifelong dream of opening her own business. A chance meeting with charming neurosurgeon Ryle Kincaid (Justin Baldoni) sparks an intense connection, but as the two fall deeply in love, Lily begins to see sides of Ryle that remind her of her parents relationship. When Lilys first love, Atlas Corrigan (Brandon Sklenar), suddenly reenters her life, her relationship with Ryle is upended, and Lily realizes she must learn to rely on her own strength to make an impossible choice for her future.",
+      "runtime": 130,
+      "times": [
+        {
+          "starts_at": "2024-09-14T14:30:00+01:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-75707/"
+        },
+        {
+          "starts_at": "2024-09-14T20:15:00+01:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-75714/"
+        }
+      ]
+    },
+    {
+      "title": "Beetlejuice Beetlejuice",
+      "trailer": "https://www.youtube.com/watch?v=RyTc5kXZlAM",
+      "synopsis": "Beetlejuice is back!  After an unexpected family tragedy, three generations of the Deetz family return home to Winter River.  Still haunted by Beetlejuice, Lydia's life is turned upside down when her rebellious teenage daughter, Astrid, discovers the mysterious model of the town in the attic and the portal to the Afterlife is accidentally opened.  With trouble brewing in both realms, it's only a matter of time until someone says Beetlejuice's name three times and the mischievous demon returns to unleash his very own brand of mayhem.",
+      "runtime": 105,
+      "times": [
+        {
+          "starts_at": "2024-09-14T15:45:00+01:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-75720/"
+        },
+        {
+          "starts_at": "2024-09-14T18:15:00+01:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-75716/"
+        },
+        {
+          "starts_at": "2024-09-14T21:00:00+01:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-75722/"
         }
       ]
     },
@@ -3170,6 +3283,147 @@
       ]
     },
     {
+      "title": "Inside Out 2",
+      "trailer": "https://www.youtube.com/watch?v=EzEZVTaXE6E",
+      "synopsis": "Disney and Pixar’s “Inside Out 2” returns to the mind of newly minted teenager Riley just as headquarters is undergoing a sudden demolition to make room for something entirely unexpected: new Emotions! Joy, Sadness, Anger, Fear and Disgust, who’ve long been running a successful operation\nby all accounts, aren’t sure how to feel when Anxiety shows up. And it looks like she’s not alone. Maya Hawke lends her voice to Anxiety, alongside Amy Poehler as the voice of Joy. The voice cast also includes Lewis Black, Phyllis Smith, Tony Hale, Liza Lapira, Ayo Edebiri, Adèle Exarchopoulos, Paul\nWalter Hauser, Kensington Tallman, Lilimar, Diane Lane, Kyle MacLachlan, Sumayyah Nuriddin-Green, Grace Lu and Yvette Nicole Brown. Directed by Kelsey Mann and produced by Mark Nielsen with a screenplay by Meg LeFauve and Dave Holstein, “Inside Out 2” features a score by Andrea Datzman.",
+      "runtime": 96,
+      "times": [
+        {
+          "starts_at": "2024-09-15T11:15:00+01:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-75729/"
+        },
+        {
+          "starts_at": "2024-09-15T16:15:00+01:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-75732/"
+        }
+      ]
+    },
+    {
+      "title": "Will & Harper",
+      "trailer": "https://www.youtube.com/watch?v=PRZ1ELeGepo",
+      "synopsis": "When Will Ferrell finds out his close friend of 30 years is coming out as a trans woman, the two decide to embark on a cross-country road trip to process this new stage of their relationship in an intimate portrait of friendship, transition, and America.",
+      "runtime": 114,
+      "times": [
+        {
+          "starts_at": "2024-09-15T11:30:00+01:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-75728/"
+        },
+        {
+          "starts_at": "2024-09-15T17:00:00+01:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-75735/"
+        }
+      ]
+    },
+    {
+      "title": "Blink Twice",
+      "trailer": "https://www.youtube.com/watch?v=vVoyBSgTjOs",
+      "synopsis": "When tech billionaire Slater King (Channing Tatum) meets cocktail waitress Frida (Naomi Ackie) at his fundraising gala, sparks fly. He invites her to join him and his friends on a dream vacation on his private island. It’s paradise. Wild nights blend into sun-soaked days and everyone's having a great time. No one wants this trip to end, but as strange things start to happen, Frida begins to question her reality. There is something wrong with this place. She’ll have to uncover the truth if she wants to make it out of this party alive.\n\nWith an ensemble cast including Naomi Ackie, Channing Tatum, Alia Shawkat, Simon Rex, Adria Arjona, Haley Joel Osment, Christian Slater, Kyle MacLachlan and Geena Davis, BLINK TWICE is a wild new psychological thriller directed by Zoë Kravitz.",
+      "runtime": 102,
+      "times": [
+        {
+          "starts_at": "2024-09-15T11:45:00+01:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-75813/"
+        },
+        {
+          "starts_at": "2024-09-15T14:30:00+01:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-75723/"
+        },
+        {
+          "starts_at": "2024-09-15T20:00:00+01:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-75730/"
+        }
+      ]
+    },
+    {
+      "title": "Firebrand",
+      "trailer": "https://www.youtube.com/watch?v=uc3_NOiDZoY",
+      "synopsis": "In blood-soaked Tudor England, Katherine Parr, the sixth and last wife of King Henry VIII, is named Regent while tyrant Henry is fighting overseas. Katherine has done everything she can to push for a new future based on her radical Protestant beliefs. When an increasingly ailing and paranoid King returns, he turns his fury on the radicals, charging Katherine’s childhood friend with treason and burning her at the stake.  Horrified and grieving, but forced to deny it, Katherine finds herself fighting for her own survival. Conspiracy reverberates through the palace. Everyone holds their breath – for the queen to slip up, for Henry to take her head like wives before. With the hope for a future free of tyranny at risk, will Katherine submit to the inevitable for the sake of King and country? ",
+      "runtime": 120,
+      "times": [
+        {
+          "starts_at": "2024-09-15T12:30:00+01:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-75839/"
+        },
+        {
+          "starts_at": "2024-09-15T17:15:00+01:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-75734/"
+        }
+      ]
+    },
+    {
+      "title": "Speak No Evil",
+      "trailer": null,
+      "synopsis": "When an American family is invited to spend the weekend at the idyllic country estate of a charming British family they befriended on vacation, what begins as a dream holiday soon warps into a snarled psychological nightmare.",
+      "runtime": 110,
+      "times": [
+        {
+          "starts_at": "2024-09-15T13:45:00+01:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-75725/"
+        },
+        {
+          "starts_at": "2024-09-15T18:30:00+01:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-75736/"
+        },
+        {
+          "starts_at": "2024-09-15T21:00:00+01:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-75738/"
+        }
+      ]
+    },
+    {
+      "title": "It Ends With Us",
+      "trailer": "https://www.youtube.com/watch?v=0x-HhWm5K3U",
+      "synopsis": "IT ENDS WITH US, the first Colleen Hoover novel adapted for the big screen, tells the compelling story of Lily Bloom (Blake Lively), a woman who overcomes a traumatic childhood to embark on a new life in Boston and chase a lifelong dream of opening her own business. A chance meeting with charming neurosurgeon Ryle Kincaid (Justin Baldoni) sparks an intense connection, but as the two fall deeply in love, Lily begins to see sides of Ryle that remind her of her parents relationship. When Lilys first love, Atlas Corrigan (Brandon Sklenar), suddenly reenters her life, her relationship with Ryle is upended, and Lily realizes she must learn to rely on her own strength to make an impossible choice for her future.",
+      "runtime": 130,
+      "times": [
+        {
+          "starts_at": "2024-09-15T14:00:00+01:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-75724/"
+        },
+        {
+          "starts_at": "2024-09-15T19:45:00+01:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-75731/"
+        }
+      ]
+    },
+    {
+      "title": "Beetlejuice Beetlejuice",
+      "trailer": "https://www.youtube.com/watch?v=RyTc5kXZlAM",
+      "synopsis": "Beetlejuice is back!  After an unexpected family tragedy, three generations of the Deetz family return home to Winter River.  Still haunted by Beetlejuice, Lydia's life is turned upside down when her rebellious teenage daughter, Astrid, discovers the mysterious model of the town in the attic and the portal to the Afterlife is accidentally opened.  With trouble brewing in both realms, it's only a matter of time until someone says Beetlejuice's name three times and the mischievous demon returns to unleash his very own brand of mayhem.",
+      "runtime": 105,
+      "times": [
+        {
+          "starts_at": "2024-09-15T15:15:00+01:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-75737/"
+        },
+        {
+          "starts_at": "2024-09-15T17:45:00+01:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-75733/"
+        },
+        {
+          "starts_at": "2024-09-15T20:30:00+01:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-75739/"
+        }
+      ]
+    },
+    {
       "title": "The Critic",
       "trailer": "https://www.youtube.com/watch?v=WsYz70rnWVU",
       "synopsis": "THE CRITIC is a deliciously dark and sharp-witted thriller set in 1930s London ‘theatreland’ featuring an all-star cast including Ian McKellen, Gemma Arterton, Mark Strong, Ben Barnes, Alfred Enoch, Romola Garai and Lesley Manville.\n\nWhen the most feared and vicious theatre critic in town Jimmy Erskine (McKellen), finds himself suddenly in the crosshairs of the Daily Chronicle’s new owner David Brooke (Strong), he strikes a sinister Faustian pact with struggling actress Nina Land (Arterton) who is desperate to win his favour.\n",
@@ -3304,6 +3558,11 @@
           "url": "https://www.curzon.com/ticketing/seats/ALD1-51552/"
         },
         {
+          "starts_at": "2024-09-16T12:30:00+01:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-75840/"
+        },
+        {
           "starts_at": "2024-09-16T15:15:00+01:00",
           "site": "Curzon Victoria",
           "url": "https://www.curzon.com/ticketing/seats/VIC1-75571/"
@@ -3390,6 +3649,142 @@
           "starts_at": "2024-09-16T20:50:00+01:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-92999/"
+        }
+      ]
+    },
+    {
+      "title": "Inside Out 2",
+      "trailer": "https://www.youtube.com/watch?v=EzEZVTaXE6E",
+      "synopsis": "Disney and Pixar’s “Inside Out 2” returns to the mind of newly minted teenager Riley just as headquarters is undergoing a sudden demolition to make room for something entirely unexpected: new Emotions! Joy, Sadness, Anger, Fear and Disgust, who’ve long been running a successful operation\nby all accounts, aren’t sure how to feel when Anxiety shows up. And it looks like she’s not alone. Maya Hawke lends her voice to Anxiety, alongside Amy Poehler as the voice of Joy. The voice cast also includes Lewis Black, Phyllis Smith, Tony Hale, Liza Lapira, Ayo Edebiri, Adèle Exarchopoulos, Paul\nWalter Hauser, Kensington Tallman, Lilimar, Diane Lane, Kyle MacLachlan, Sumayyah Nuriddin-Green, Grace Lu and Yvette Nicole Brown. Directed by Kelsey Mann and produced by Mark Nielsen with a screenplay by Meg LeFauve and Dave Holstein, “Inside Out 2” features a score by Andrea Datzman.",
+      "runtime": 96,
+      "times": [
+        {
+          "starts_at": "2024-09-16T11:45:00+01:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-75763/"
+        },
+        {
+          "starts_at": "2024-09-16T16:45:00+01:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-75766/"
+        }
+      ]
+    },
+    {
+      "title": "Will & Harper",
+      "trailer": "https://www.youtube.com/watch?v=PRZ1ELeGepo",
+      "synopsis": "When Will Ferrell finds out his close friend of 30 years is coming out as a trans woman, the two decide to embark on a cross-country road trip to process this new stage of their relationship in an intimate portrait of friendship, transition, and America.",
+      "runtime": 114,
+      "times": [
+        {
+          "starts_at": "2024-09-16T12:00:00+01:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-75762/"
+        },
+        {
+          "starts_at": "2024-09-16T17:30:00+01:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-75768/"
+        }
+      ]
+    },
+    {
+      "title": "Firebrand",
+      "trailer": "https://www.youtube.com/watch?v=uc3_NOiDZoY",
+      "synopsis": "In blood-soaked Tudor England, Katherine Parr, the sixth and last wife of King Henry VIII, is named Regent while tyrant Henry is fighting overseas. Katherine has done everything she can to push for a new future based on her radical Protestant beliefs. When an increasingly ailing and paranoid King returns, he turns his fury on the radicals, charging Katherine’s childhood friend with treason and burning her at the stake.  Horrified and grieving, but forced to deny it, Katherine finds herself fighting for her own survival. Conspiracy reverberates through the palace. Everyone holds their breath – for the queen to slip up, for Henry to take her head like wives before. With the hope for a future free of tyranny at risk, will Katherine submit to the inevitable for the sake of King and country? ",
+      "runtime": 120,
+      "times": [
+        {
+          "starts_at": "2024-09-16T12:45:00+01:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-75761/"
+        }
+      ]
+    },
+    {
+      "title": "Blink Twice",
+      "trailer": "https://www.youtube.com/watch?v=vVoyBSgTjOs",
+      "synopsis": "When tech billionaire Slater King (Channing Tatum) meets cocktail waitress Frida (Naomi Ackie) at his fundraising gala, sparks fly. He invites her to join him and his friends on a dream vacation on his private island. It’s paradise. Wild nights blend into sun-soaked days and everyone's having a great time. No one wants this trip to end, but as strange things start to happen, Frida begins to question her reality. There is something wrong with this place. She’ll have to uncover the truth if she wants to make it out of this party alive.\n\nWith an ensemble cast including Naomi Ackie, Channing Tatum, Alia Shawkat, Simon Rex, Adria Arjona, Haley Joel Osment, Christian Slater, Kyle MacLachlan and Geena Davis, BLINK TWICE is a wild new psychological thriller directed by Zoë Kravitz.",
+      "runtime": 102,
+      "times": [
+        {
+          "starts_at": "2024-09-16T13:30:00+01:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-75809/"
+        },
+        {
+          "starts_at": "2024-09-16T15:30:00+01:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-75757/"
+        },
+        {
+          "starts_at": "2024-09-16T21:30:00+01:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-75764/"
+        }
+      ]
+    },
+    {
+      "title": "Speak No Evil",
+      "trailer": null,
+      "synopsis": "When an American family is invited to spend the weekend at the idyllic country estate of a charming British family they befriended on vacation, what begins as a dream holiday soon warps into a snarled psychological nightmare.",
+      "runtime": 110,
+      "times": [
+        {
+          "starts_at": "2024-09-16T14:15:00+01:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-75759/"
+        },
+        {
+          "starts_at": "2024-09-16T19:00:00+01:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-75769/"
+        },
+        {
+          "starts_at": "2024-09-16T21:30:00+01:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-75771/"
+        }
+      ]
+    },
+    {
+      "title": "It Ends With Us",
+      "trailer": "https://www.youtube.com/watch?v=0x-HhWm5K3U",
+      "synopsis": "IT ENDS WITH US, the first Colleen Hoover novel adapted for the big screen, tells the compelling story of Lily Bloom (Blake Lively), a woman who overcomes a traumatic childhood to embark on a new life in Boston and chase a lifelong dream of opening her own business. A chance meeting with charming neurosurgeon Ryle Kincaid (Justin Baldoni) sparks an intense connection, but as the two fall deeply in love, Lily begins to see sides of Ryle that remind her of her parents relationship. When Lilys first love, Atlas Corrigan (Brandon Sklenar), suddenly reenters her life, her relationship with Ryle is upended, and Lily realizes she must learn to rely on her own strength to make an impossible choice for her future.",
+      "runtime": 130,
+      "times": [
+        {
+          "starts_at": "2024-09-16T14:30:00+01:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-75758/"
+        },
+        {
+          "starts_at": "2024-09-16T20:15:00+01:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-75765/"
+        }
+      ]
+    },
+    {
+      "title": "Beetlejuice Beetlejuice",
+      "trailer": "https://www.youtube.com/watch?v=RyTc5kXZlAM",
+      "synopsis": "Beetlejuice is back!  After an unexpected family tragedy, three generations of the Deetz family return home to Winter River.  Still haunted by Beetlejuice, Lydia's life is turned upside down when her rebellious teenage daughter, Astrid, discovers the mysterious model of the town in the attic and the portal to the Afterlife is accidentally opened.  With trouble brewing in both realms, it's only a matter of time until someone says Beetlejuice's name three times and the mischievous demon returns to unleash his very own brand of mayhem.",
+      "runtime": 105,
+      "times": [
+        {
+          "starts_at": "2024-09-16T16:00:00+01:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-75770/"
+        },
+        {
+          "starts_at": "2024-09-16T18:30:00+01:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-75767/"
+        },
+        {
+          "starts_at": "2024-09-16T21:00:00+01:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-75772/"
         }
       ]
     },
