@@ -1,32 +1,4 @@
 {
-  "2024-09-12": [
-    {
-      "title": "Blink Twice",
-      "trailer": "https://www.youtube.com/watch?v=vVoyBSgTjOs",
-      "synopsis": "When tech billionaire Slater King (Channing Tatum) meets cocktail waitress Frida (Naomi Ackie) at his fundraising gala, sparks fly. He invites her to join him and his friends on a dream vacation on his private island. It’s paradise. Wild nights blend into sun-soaked days and everyone's having a great time. No one wants this trip to end, but as strange things start to happen, Frida begins to question her reality. There is something wrong with this place. She’ll have to uncover the truth if she wants to make it out of this party alive.\n\nWith an ensemble cast including Naomi Ackie, Channing Tatum, Alia Shawkat, Simon Rex, Adria Arjona, Haley Joel Osment, Christian Slater, Kyle MacLachlan and Geena Davis, BLINK TWICE is a wild new psychological thriller directed by Zoë Kravitz.",
-      "runtime": 102,
-      "times": [
-        {
-          "starts_at": "2024-09-12T21:30:00+01:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-51472/"
-        }
-      ]
-    },
-    {
-      "title": "His Three Daughters",
-      "trailer": null,
-      "synopsis": "This tense, touching, and funny portrait of family dynamics follows three estranged sisters as they converge in a New York apartment to care for their ailing father and try to mend their own broken relationship with one another.",
-      "runtime": 105,
-      "times": [
-        {
-          "starts_at": "2024-09-12T21:30:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-27263/"
-        }
-      ]
-    }
-  ],
   "2024-09-13": [
     {
       "title": "Beetlejuice Beetlejuice",
@@ -4564,9 +4536,9 @@
     },
     {
       "title": "Girls Will Be Girls",
-      "trailer": null,
-      "synopsis": "Follows the journey of 16 year old Mira, whose sexy, rebellious coming of age is disrupted by her young mother who never got to come of age herself.",
-      "runtime": 118,
+      "trailer": "https://www.youtube.com/watch?v=Fq1ecESXMUw",
+      "synopsis": "In a strict boarding school nestled in the Himalayas, 16-year-old Mira discovers desire and romance, but her sexual,\nrebellious awakening is disrupted by her mother, who never got to come of age herself.\n\nDirected by Shuchi Talati and starring Preeti Panigrahi, this is a stirring portrait of adolescence and a fresh and\ndistinctive look at the inner worlds of a new generation and how that fits with tradition and expected ways of behaving. \n",
+      "runtime": 119,
       "times": [
         {
           "starts_at": "2024-09-18T18:00:00+01:00",
@@ -5350,6 +5322,34 @@
           "starts_at": "2024-09-19T20:20:00+01:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-93315/"
+        }
+      ]
+    }
+  ],
+  "2024-09-20": [
+    {
+      "title": "Ukrainian Film Festival: Mission 200",
+      "trailer": null,
+      "synopsis": "The remarkable journey of Tetiana, a Ukrainian woman whose life takes an extraordinary turn during Russia’s full-scale attack on Ukraine. Once a successful businesswoman, she puts her life on hold to become a modern-day Charon, transporting the bodies of fallen soldiers. Tetiana navigates dangerous terrains in her car, and retrieves fallen Ukrainian defenders from morgues in war-torn cities. Each trip, spanning up to 1,300 km, is an arduous experience, filled with constant danger and sleep deprivation. During every mission she captures photographs of the fallen soldiers, aiding grieving families in identifying their loved ones, confronting her own inner wounds and struggling to reconcile the changes the war has wrought upon her. The film demonstrates the indomitable spirit of an ordinary woman turned guardian of the fallen. It showcases her enduring resilience and the profound impact she has on the lives of grieving families — and her own injured soul.\r\n\r\nFollowed by a Q&A with the filmmakers.\r\n",
+      "runtime": 62,
+      "times": [
+        {
+          "starts_at": "2024-09-20T18:20:00+01:00",
+          "site": "Curzon Soho",
+          "url": "https://www.curzon.com/ticketing/seats/SOH1-46311/"
+        }
+      ]
+    },
+    {
+      "title": "DocHouse: Sugarcane",
+      "trailer": null,
+      "synopsis": "An investigation into abuse and missing children at an Indian residential school ignites a reckoning on the nearby Sugarcane Reserve, in the stunning debut feature by Julian Brave NoiseCat and Emily Kassie.\r\n\r\nIn 2021, evidence of unmarked graves was discovered on the grounds of an Indian residential school run by the Catholic Church in Canada. After years of silence, the forced separation, assimilation and abuse many children experienced at these segregated boarding schools was brought to light, sparking a national outcry against a system designed to destroy Indigenous communities.\r\n\r\nSet amidst the groundbreaking investigation, Sugarcane illuminates the heartbreak and beauty of a community breaking cycles of intergenerational trauma and finding the strength to survive.",
+      "runtime": 107,
+      "times": [
+        {
+          "starts_at": "2024-09-20T18:20:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-92647/"
         }
       ]
     }
