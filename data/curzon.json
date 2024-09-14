@@ -1,19 +1,4 @@
 {
-  "2024-09-13": [
-    {
-      "title": "Speak No Evil",
-      "trailer": null,
-      "synopsis": "When an American family is invited to spend the weekend at the idyllic country estate of a charming British family they befriended on vacation, what begins as a dream holiday soon warps into a snarled psychological nightmare.",
-      "runtime": 110,
-      "times": [
-        {
-          "starts_at": "2024-09-13T21:30:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-75697/"
-        }
-      ]
-    }
-  ],
   "2024-09-14": [
     {
       "title": "Beetlejuice Beetlejuice",
@@ -4685,6 +4670,129 @@
           "starts_at": "2024-09-20T18:20:00+01:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-92647/"
+        }
+      ]
+    }
+  ],
+  "2024-09-21": [
+    {
+      "title": "My Old Ass",
+      "trailer": "https://www.youtube.com/watch?v=vcBoj2FLt_c",
+      "synopsis": "Elliott Labrant, who has been advised by her future self not to fall in love, is sure she can do so after being given the advice. That is, until she meets the boy her older self warned her about.",
+      "runtime": 89,
+      "times": [
+        {
+          "starts_at": "2024-09-21T15:00:00+01:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-51614/"
+        }
+      ]
+    },
+    {
+      "title": "The Substance",
+      "trailer": null,
+      "synopsis": "Demi Moore gives a career-best performance as Elisabeth Sparkle, a former A-lister past her prime and suddenly fired from her fitness TV show by repellent studio head Harvey (Dennis Quaid). \n\nShe is then drawn to the opportunity presented by a mysterious new drug: THE SUBSTANCE. All it takes is one injection and she is reborn – temporarily – as the gorgeous, twentysomething Sue (Margaret Qualley). \n\nThe only rule? Time needs to be split: exactly one week in one body, then one week in the other. No exceptions. A perfect balance. What could go wrong?\n\nDeliriously entertaining and ruthlessly satirical, Coralie Fargeat’s Cannes sensation turns toxic beauty culture inside out with a be-careful-what-you-wish-for fable for the ages. Explosive, provocative and twisted, THE SUBSTANCE marks the arrival of a thrillingly visionary filmmaker.\n",
+      "runtime": 141,
+      "times": [
+        {
+          "starts_at": "2024-09-21T20:40:00+01:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-51617/"
+        },
+        {
+          "starts_at": "2024-09-21T20:30:00+01:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-75901/"
+        },
+        {
+          "starts_at": "2024-09-21T17:40:00+01:00",
+          "site": "Curzon Hoxton",
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-18181/"
+        },
+        {
+          "starts_at": "2024-09-21T18:15:00+01:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-27499/"
+        },
+        {
+          "starts_at": "2024-09-21T17:45:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-93403/"
+        },
+        {
+          "starts_at": "2024-09-21T20:50:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-93404/"
+        }
+      ]
+    },
+    {
+      "title": "Ukrainian Film Festival: Ukraine Displaced. Shorts",
+      "trailer": null,
+      "synopsis": "Over 6 million Ukrainian refugees have been recorded globally, and almost 5 million people have been displaced internally within Ukraine since the beginning of the full-scale war, making it the largest displacement crisis since World War II. The films of this programme delve into the emotional landscapes of those forced to flee the ravages of war, capturing the essence of starting anew against one’s will, and the challenges of adapting to a new reality while preserving one’s roots.\r\n\r\nCurators: Sasha Prokopenko and Olga Gusiatynska, KISFF.\r\n\r\nIn Paris No One Thinks about Tomorrow\r\nDir. Andrii Kokura, 14 mins\r\n\r\nGuests from Kharkiv\r\nDir. Halyna Lavrynets, 20 mins\r\n\r\nI Stumble Every Time I Hear from Kyiv\r\nDir. Daryna Mamaisur, 17 mins\r\n\r\nAs It Was\r\nDir. Damian Kocur and Anastasiia Solonevych, 15 mins\r\n\r\nOne Aloe, One Ficus, One Avocado and Six Dracaenas\r\nDir. Marta Smerechynska, 8 mins\r\n\r\nBoots on the Ground, Hands in the Soil\r\nDir. Karolina Uskakovych, 15 mins\r\n\r\nFollowed by a Q&A with the filmmakers.\r\n",
+      "runtime": 89,
+      "times": [
+        {
+          "starts_at": "2024-09-21T15:00:00+01:00",
+          "site": "Curzon Soho",
+          "url": "https://www.curzon.com/ticketing/seats/SOH1-46312/"
+        }
+      ]
+    },
+    {
+      "title": "Ukrainian Film Festival: Intercepted",
+      "trailer": null,
+      "synopsis": "Ukrainian intelligence services have intercepted thousands of phone calls Russian soldiers made from the battlefield in Ukraine to their families and friends in Russia, painting a stark picture of the cruelty of war in a dizzying emotional tension. Juxtaposed with images of the destruction caused by the invasion and the day-to-day life of the Ukrainian people who resist and rebuild, the voices of the Russian soldiers — ranging from being filled with heroic illusions to complete disappointment and loss of reason, from looting to committing more horrible war crimes, from propaganda to doubt and disillusionment — expose the whole scope of the dehumanising power of war and imperialist nature of the Russian aggression. \r\n\r\nFollowed by a Q&A with the director.",
+      "runtime": 93,
+      "times": [
+        {
+          "starts_at": "2024-09-21T18:00:00+01:00",
+          "site": "Curzon Soho",
+          "url": "https://www.curzon.com/ticketing/seats/SOH1-46313/"
+        }
+      ]
+    },
+    {
+      "title": "Kids Club: Inside Out 2",
+      "trailer": "https://www.youtube.com/watch?v=EzEZVTaXE6E",
+      "synopsis": "Disney and Pixar’s “Inside Out 2” returns to the mind of newly minted teenager Riley just as headquarters is undergoing a sudden demolition to make room for something entirely unexpected: new Emotions! Joy, Sadness, Anger, Fear and Disgust, who’ve long been running a successful operation\nby all accounts, aren’t sure how to feel when Anxiety shows up. And it looks like she’s not alone. Maya Hawke lends her voice to Anxiety, alongside Amy Poehler as the voice of Joy. The voice cast also includes Lewis Black, Phyllis Smith, Tony Hale, Liza Lapira, Ayo Edebiri, Adèle Exarchopoulos, Paul\nWalter Hauser, Kensington Tallman, Lilimar, Diane Lane, Kyle MacLachlan, Sumayyah Nuriddin-Green, Grace Lu and Yvette Nicole Brown. Directed by Kelsey Mann and produced by Mark Nielsen with a screenplay by Meg LeFauve and Dave Holstein, “Inside Out 2” features a score by Andrea Datzman.",
+      "runtime": 96,
+      "times": [
+        {
+          "starts_at": "2024-09-21T10:30:00+01:00",
+          "site": "Curzon Hoxton",
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-17829/"
+        },
+        {
+          "starts_at": "2024-09-21T10:30:00+01:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-26719/"
+        }
+      ]
+    },
+    {
+      "title": "CURZON90: Paris, Texas",
+      "trailer": "https://www.youtube.com/watch?v=3j8ypqxfiT4",
+      "synopsis": "Both a road movie and a mystery, and featuring a sublime score by Ry Cooder, Wim Wenders’ 1984 Cannes winner is the pinnacle of the filmmaker’s career, and stars Harry Dean Stanton as a drifter who wanders out of the \r\ndesert after disappearing for four years. Paris, Texas is the summation of Wenders’ fascination with the American West – its landscape and the people who populate it – and plays with the notion of myth, country and character.\r\n\r\nWenders' The State of Things and Pina were released by ArtificialEye, and in 2022 Curzon released a Wim Wenders Retrospective and a 22-disc box set to celebrate the 50-year career of the award-winning filmmaker.",
+      "runtime": 139,
+      "times": [
+        {
+          "starts_at": "2024-09-21T14:40:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-92336/"
+        }
+      ]
+    },
+    {
+      "title": "DocHouse: Sugarcane",
+      "trailer": null,
+      "synopsis": "An investigation into abuse and missing children at an Indian residential school ignites a reckoning on the nearby Sugarcane Reserve, in the stunning debut feature by Julian Brave NoiseCat and Emily Kassie.\r\n\r\nIn 2021, evidence of unmarked graves was discovered on the grounds of an Indian residential school run by the Catholic Church in Canada. After years of silence, the forced separation, assimilation and abuse many children experienced at these segregated boarding schools was brought to light, sparking a national outcry against a system designed to destroy Indigenous communities.\r\n\r\nSet amidst the groundbreaking investigation, Sugarcane illuminates the heartbreak and beauty of a community breaking cycles of intergenerational trauma and finding the strength to survive.",
+      "runtime": 107,
+      "times": [
+        {
+          "starts_at": "2024-09-21T15:30:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-92648/"
         }
       ]
     }
