@@ -1,7 +1,4 @@
 {
-  "2024-09-15": [
-
-  ],
   "2024-09-16": [
     {
       "title": "Beetlejuice Beetlejuice",
@@ -3294,6 +3291,67 @@
           "starts_at": "2024-09-22T18:00:00+01:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-92649/"
+        }
+      ]
+    }
+  ],
+  "2024-09-23": [
+    {
+      "title": "My Old Ass",
+      "trailer": "https://www.youtube.com/watch?v=vcBoj2FLt_c",
+      "synopsis": "Elliott Labrant, who has been advised by her future self not to fall in love, is sure she can do so after being given the advice. That is, until she meets the boy her older self warned her about.",
+      "runtime": 89,
+      "times": [
+        {
+          "starts_at": "2024-09-23T21:00:00+01:00",
+          "site": "Curzon Soho",
+          "url": "https://www.curzon.com/ticketing/seats/SOH1-46504/"
+        },
+        {
+          "starts_at": "2024-09-23T18:00:00+01:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-75683/"
+        },
+        {
+          "starts_at": "2024-09-23T18:00:00+01:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-27350/"
+        }
+      ]
+    },
+    {
+      "title": "CURZON90: 2001: A Space Odyssey",
+      "trailer": null,
+      "synopsis": "After discovering a mysterious artifact buried beneath the Lunar surface, mankind sets off on a quest to find its origins with help from intelligent supercomputer H.A.L. 9000.\r\n\r\nCONTENT WARNING: This film contains flickering or flashing lights that may affect those with photosensitive epilepsy.",
+      "runtime": 134,
+      "times": [
+        {
+          "starts_at": "2024-09-23T18:40:00+01:00",
+          "site": "Curzon Mayfair",
+          "url": "https://www.curzon.com/ticketing/seats/MAY1-27493/"
+        }
+      ]
+    },
+    {
+      "title": "The Substance",
+      "trailer": null,
+      "synopsis": "Demi Moore gives a career-best performance as Elisabeth Sparkle, a former A-lister past her prime and suddenly fired from her fitness TV show by repellent studio head Harvey (Dennis Quaid). \n\nShe is then drawn to the opportunity presented by a mysterious new drug: THE SUBSTANCE. All it takes is one injection and she is reborn – temporarily – as the gorgeous, twentysomething Sue (Margaret Qualley). \n\nThe only rule? Time needs to be split: exactly one week in one body, then one week in the other. No exceptions. A perfect balance. What could go wrong?\n\nDeliriously entertaining and ruthlessly satirical, Coralie Fargeat’s Cannes sensation turns toxic beauty culture inside out with a be-careful-what-you-wish-for fable for the ages. Explosive, provocative and twisted, THE SUBSTANCE marks the arrival of a thrillingly visionary filmmaker.\n",
+      "runtime": 141,
+      "times": [
+        {
+          "starts_at": "2024-09-23T18:15:00+01:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-27503/"
+        },
+        {
+          "starts_at": "2024-09-23T15:00:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-93410/"
+        },
+        {
+          "starts_at": "2024-09-23T20:40:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-93429/"
         }
       ]
     }
