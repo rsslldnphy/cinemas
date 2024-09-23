@@ -1,84 +1,11 @@
 {
   "2024-09-23": [
     {
-      "title": "Beetlejuice Beetlejuice",
-      "trailer": "https://www.youtube.com/watch?v=RyTc5kXZlAM",
-      "synopsis": "Beetlejuice is back!  After an unexpected family tragedy, three generations of the Deetz family return home to Winter River.  Still haunted by Beetlejuice, Lydia's life is turned upside down when her rebellious teenage daughter, Astrid, discovers the mysterious model of the town in the attic and the portal to the Afterlife is accidentally opened.  With trouble brewing in both realms, it's only a matter of time until someone says Beetlejuice's name three times and the mischievous demon returns to unleash his very own brand of mayhem.",
-      "runtime": 105,
-      "times": [
-        {
-          "starts_at": "2024-09-23T11:40:00+01:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-51763/"
-        },
-        {
-          "starts_at": "2024-09-23T15:00:00+01:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-51758/"
-        },
-        {
-          "starts_at": "2024-09-23T18:45:00+01:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-51768/"
-        },
-        {
-          "starts_at": "2024-09-23T20:20:00+01:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-51767/"
-        },
-        {
-          "starts_at": "2024-09-23T13:00:00+01:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-46700/"
-        },
-        {
-          "starts_at": "2024-09-23T15:45:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-76055/"
-        },
-        {
-          "starts_at": "2024-09-23T21:00:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-76052/"
-        },
-        {
-          "starts_at": "2024-09-23T12:00:00+01:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-18352/"
-        },
-        {
-          "starts_at": "2024-09-23T18:20:00+01:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-18349/"
-        },
-        {
-          "starts_at": "2024-09-23T21:00:00+01:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-18347/"
-        },
-        {
-          "starts_at": "2024-09-23T15:40:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-27610/"
-        },
-        {
-          "starts_at": "2024-09-23T20:40:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-27598/"
-        }
-      ]
-    },
-    {
       "title": "The Substance",
       "trailer": null,
       "synopsis": "Demi Moore gives a career-best performance as Elisabeth Sparkle, a former A-lister past her prime and suddenly fired from her fitness TV show by repellent studio head Harvey (Dennis Quaid). \n\nShe is then drawn to the opportunity presented by a mysterious new drug: THE SUBSTANCE. All it takes is one injection and she is reborn – temporarily – as the gorgeous, twentysomething Sue (Margaret Qualley). \n\nThe only rule? Time needs to be split: exactly one week in one body, then one week in the other. No exceptions. A perfect balance. What could go wrong?\n\nDeliriously entertaining and ruthlessly satirical, Coralie Fargeat’s Cannes sensation turns toxic beauty culture inside out with a be-careful-what-you-wish-for fable for the ages. Explosive, provocative and twisted, THE SUBSTANCE marks the arrival of a thrillingly visionary filmmaker.\n",
       "runtime": 141,
       "times": [
-        {
-          "starts_at": "2024-09-23T12:00:00+01:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-51762/"
-        },
         {
           "starts_at": "2024-09-23T14:15:00+01:00",
           "site": "Curzon Aldgate",
@@ -110,11 +37,6 @@
           "url": "https://www.curzon.com/ticketing/seats/SOH1-46676/"
         },
         {
-          "starts_at": "2024-09-23T13:30:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-76058/"
-        },
-        {
           "starts_at": "2024-09-23T14:15:00+01:00",
           "site": "Curzon Victoria",
           "url": "https://www.curzon.com/ticketing/seats/VIC1-75975/"
@@ -135,11 +57,6 @@
           "url": "https://www.curzon.com/ticketing/seats/HOX1-18183/"
         },
         {
-          "starts_at": "2024-09-23T12:40:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-27606/"
-        },
-        {
           "starts_at": "2024-09-23T14:00:00+01:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-27607/"
@@ -153,11 +70,6 @@
           "starts_at": "2024-09-23T19:40:00+01:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-27504/"
-        },
-        {
-          "starts_at": "2024-09-23T13:00:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-93411/"
         },
         {
           "starts_at": "2024-09-23T15:00:00+01:00",
@@ -177,35 +89,55 @@
       ]
     },
     {
-      "title": "Speak No Evil",
-      "trailer": null,
-      "synopsis": "When an American family is invited to spend the weekend at the idyllic country estate of a charming British family they befriended on vacation, what begins as a dream holiday soon warps into a snarled psychological nightmare.",
-      "runtime": 110,
+      "title": "Beetlejuice Beetlejuice",
+      "trailer": "https://www.youtube.com/watch?v=RyTc5kXZlAM",
+      "synopsis": "Beetlejuice is back!  After an unexpected family tragedy, three generations of the Deetz family return home to Winter River.  Still haunted by Beetlejuice, Lydia's life is turned upside down when her rebellious teenage daughter, Astrid, discovers the mysterious model of the town in the attic and the portal to the Afterlife is accidentally opened.  With trouble brewing in both realms, it's only a matter of time until someone says Beetlejuice's name three times and the mischievous demon returns to unleash his very own brand of mayhem.",
+      "runtime": 105,
       "times": [
         {
-          "starts_at": "2024-09-23T12:20:00+01:00",
+          "starts_at": "2024-09-23T15:00:00+01:00",
           "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-51761/"
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-51758/"
         },
         {
-          "starts_at": "2024-09-23T17:40:00+01:00",
+          "starts_at": "2024-09-23T18:45:00+01:00",
           "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-51770/"
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-51768/"
         },
         {
-          "starts_at": "2024-09-23T21:20:00+01:00",
+          "starts_at": "2024-09-23T20:20:00+01:00",
           "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-51764/"
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-51767/"
         },
         {
-          "starts_at": "2024-09-23T16:30:00+01:00",
+          "starts_at": "2024-09-23T15:45:00+01:00",
           "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-76059/"
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-76055/"
         },
         {
-          "starts_at": "2024-09-23T21:15:00+01:00",
+          "starts_at": "2024-09-23T21:00:00+01:00",
           "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-76053/"
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-76052/"
+        },
+        {
+          "starts_at": "2024-09-23T18:20:00+01:00",
+          "site": "Curzon Hoxton",
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-18349/"
+        },
+        {
+          "starts_at": "2024-09-23T21:00:00+01:00",
+          "site": "Curzon Hoxton",
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-18347/"
+        },
+        {
+          "starts_at": "2024-09-23T15:40:00+01:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-27610/"
+        },
+        {
+          "starts_at": "2024-09-23T20:40:00+01:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-27598/"
         }
       ]
     },
@@ -216,11 +148,6 @@
       "runtime": 117,
       "times": [
         {
-          "starts_at": "2024-09-23T13:20:00+01:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-51760/"
-        },
-        {
           "starts_at": "2024-09-23T15:20:00+01:00",
           "site": "Curzon Aldgate",
           "url": "https://www.curzon.com/ticketing/seats/ALD1-51757/"
@@ -229,11 +156,6 @@
           "starts_at": "2024-09-23T18:15:00+01:00",
           "site": "Curzon Aldgate",
           "url": "https://www.curzon.com/ticketing/seats/ALD1-51769/"
-        },
-        {
-          "starts_at": "2024-09-23T12:30:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-75966/"
         },
         {
           "starts_at": "2024-09-23T15:15:00+01:00",
@@ -251,24 +173,9 @@
           "url": "https://www.curzon.com/ticketing/seats/VIC1-75969/"
         },
         {
-          "starts_at": "2024-09-23T11:15:00+01:00",
-          "site": "Curzon Mayfair",
-          "url": "https://www.curzon.com/ticketing/seats/MAY1-28014/"
-        },
-        {
-          "starts_at": "2024-09-23T12:40:00+01:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-18356/"
-        },
-        {
           "starts_at": "2024-09-23T17:40:00+01:00",
           "site": "Curzon Hoxton",
           "url": "https://www.curzon.com/ticketing/seats/HOX1-18348/"
-        },
-        {
-          "starts_at": "2024-09-23T12:00:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-27602/"
         },
         {
           "starts_at": "2024-09-23T15:00:00+01:00",
@@ -294,11 +201,6 @@
           "url": "https://www.curzon.com/ticketing/seats/ALD1-51756/"
         },
         {
-          "starts_at": "2024-09-23T12:45:00+01:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-46699/"
-        },
-        {
           "starts_at": "2024-09-23T15:20:00+01:00",
           "site": "Curzon Soho",
           "url": "https://www.curzon.com/ticketing/seats/SOH1-46698/"
@@ -309,24 +211,9 @@
           "url": "https://www.curzon.com/ticketing/seats/SOH1-46697/"
         },
         {
-          "starts_at": "2024-09-23T12:00:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-75970/"
-        },
-        {
           "starts_at": "2024-09-23T19:00:00+01:00",
           "site": "Curzon Victoria",
           "url": "https://www.curzon.com/ticketing/seats/VIC1-76056/"
-        },
-        {
-          "starts_at": "2024-09-23T12:20:00+01:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-18351/"
-        },
-        {
-          "starts_at": "2024-09-23T11:45:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-27612/"
         },
         {
           "starts_at": "2024-09-23T14:40:00+01:00",
@@ -337,11 +224,6 @@
           "starts_at": "2024-09-23T17:40:00+01:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-27599/"
-        },
-        {
-          "starts_at": "2024-09-23T12:40:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-93502/"
         },
         {
           "starts_at": "2024-09-23T16:10:00+01:00",
@@ -361,6 +243,34 @@
       ]
     },
     {
+      "title": "Speak No Evil",
+      "trailer": null,
+      "synopsis": "When an American family is invited to spend the weekend at the idyllic country estate of a charming British family they befriended on vacation, what begins as a dream holiday soon warps into a snarled psychological nightmare.",
+      "runtime": 110,
+      "times": [
+        {
+          "starts_at": "2024-09-23T17:40:00+01:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-51770/"
+        },
+        {
+          "starts_at": "2024-09-23T21:20:00+01:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-51764/"
+        },
+        {
+          "starts_at": "2024-09-23T16:30:00+01:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-76059/"
+        },
+        {
+          "starts_at": "2024-09-23T21:15:00+01:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-76053/"
+        }
+      ]
+    },
+    {
       "title": "Blink Twice",
       "trailer": "https://www.youtube.com/watch?v=vVoyBSgTjOs",
       "synopsis": "When tech billionaire Slater King (Channing Tatum) meets cocktail waitress Frida (Naomi Ackie) at his fundraising gala, sparks fly. He invites her to join him and his friends on a dream vacation on his private island. It’s paradise. Wild nights blend into sun-soaked days and everyone's having a great time. No one wants this trip to end, but as strange things start to happen, Frida begins to question her reality. There is something wrong with this place. She’ll have to uncover the truth if she wants to make it out of this party alive.\n\nWith an ensemble cast including Naomi Ackie, Channing Tatum, Alia Shawkat, Simon Rex, Adria Arjona, Haley Joel Osment, Christian Slater, Kyle MacLachlan and Geena Davis, BLINK TWICE is a wild new psychological thriller directed by Zoë Kravitz.",
@@ -370,11 +280,6 @@
           "starts_at": "2024-09-23T21:00:00+01:00",
           "site": "Curzon Aldgate",
           "url": "https://www.curzon.com/ticketing/seats/ALD1-51765/"
-        },
-        {
-          "starts_at": "2024-09-23T12:15:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-75971/"
         },
         {
           "starts_at": "2024-09-23T17:45:00+01:00",
@@ -389,11 +294,6 @@
       "synopsis": "Of the 80,000 native Irish speakers, 6,000 live in the North of Ireland and three of them became a rap group called Kneecap. This is the real-life story of how this anarchic Belfast trio became the unlikely figureheads of a civil rights movement to save and reinvigorate their mother tongue. ",
       "runtime": 105,
       "times": [
-        {
-          "starts_at": "2024-09-23T12:00:00+01:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-46694/"
-        },
         {
           "starts_at": "2024-09-23T15:40:00+01:00",
           "site": "Curzon Soho",
@@ -428,11 +328,6 @@
           "starts_at": "2024-09-23T15:30:00+01:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-93495/"
-        },
-        {
-          "starts_at": "2024-09-23T21:10:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-93492/"
         }
       ]
     },
@@ -460,29 +355,6 @@
       ]
     },
     {
-      "title": "Firebrand",
-      "trailer": "https://www.youtube.com/watch?v=uc3_NOiDZoY",
-      "synopsis": "In blood-soaked Tudor England, Katherine Parr, the sixth and last wife of King Henry VIII, is named Regent while tyrant Henry is fighting overseas. Katherine has done everything she can to push for a new future based on her radical Protestant beliefs. When an increasingly ailing and paranoid King returns, he turns his fury on the radicals, charging Katherine’s childhood friend with treason and burning her at the stake.  Horrified and grieving, but forced to deny it, Katherine finds herself fighting for her own survival. Conspiracy reverberates through the palace. Everyone holds their breath – for the queen to slip up, for Henry to take her head like wives before. With the hope for a future free of tyranny at risk, will Katherine submit to the inevitable for the sake of King and country? ",
-      "runtime": 120,
-      "times": [
-        {
-          "starts_at": "2024-09-23T13:00:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-76071/"
-        },
-        {
-          "starts_at": "2024-09-23T17:15:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-76057/"
-        },
-        {
-          "starts_at": "2024-09-23T14:15:00+01:00",
-          "site": "Curzon Mayfair",
-          "url": "https://www.curzon.com/ticketing/seats/MAY1-28019/"
-        }
-      ]
-    },
-    {
       "title": "It Ends With Us",
       "trailer": "https://www.youtube.com/watch?v=0x-HhWm5K3U",
       "synopsis": "IT ENDS WITH US, the first Colleen Hoover novel adapted for the big screen, tells the compelling story of Lily Bloom (Blake Lively), a woman who overcomes a traumatic childhood to embark on a new life in Boston and chase a lifelong dream of opening her own business. A chance meeting with charming neurosurgeon Ryle Kincaid (Justin Baldoni) sparks an intense connection, but as the two fall deeply in love, Lily begins to see sides of Ryle that remind her of her parents relationship. When Lilys first love, Atlas Corrigan (Brandon Sklenar), suddenly reenters her life, her relationship with Ryle is upended, and Lily realizes she must learn to rely on her own strength to make an impossible choice for her future.",
@@ -501,20 +373,20 @@
       ]
     },
     {
-      "title": "The Critic",
-      "trailer": "https://www.youtube.com/watch?v=WsYz70rnWVU",
-      "synopsis": "THE CRITIC is a deliciously dark and sharp-witted thriller set in 1930s London ‘theatreland’ featuring an all-star cast including Ian McKellen, Gemma Arterton, Mark Strong, Ben Barnes, Alfred Enoch, Romola Garai and Lesley Manville.\n\nWhen the most feared and vicious theatre critic in town Jimmy Erskine (McKellen), finds himself suddenly in the crosshairs of the Daily Chronicle’s new owner David Brooke (Strong), he strikes a sinister Faustian pact with struggling actress Nina Land (Arterton) who is desperate to win his favour.\n",
-      "runtime": 101,
+      "title": "Firebrand",
+      "trailer": "https://www.youtube.com/watch?v=uc3_NOiDZoY",
+      "synopsis": "In blood-soaked Tudor England, Katherine Parr, the sixth and last wife of King Henry VIII, is named Regent while tyrant Henry is fighting overseas. Katherine has done everything she can to push for a new future based on her radical Protestant beliefs. When an increasingly ailing and paranoid King returns, he turns his fury on the radicals, charging Katherine’s childhood friend with treason and burning her at the stake.  Horrified and grieving, but forced to deny it, Katherine finds herself fighting for her own survival. Conspiracy reverberates through the palace. Everyone holds their breath – for the queen to slip up, for Henry to take her head like wives before. With the hope for a future free of tyranny at risk, will Katherine submit to the inevitable for the sake of King and country? ",
+      "runtime": 120,
       "times": [
         {
-          "starts_at": "2024-09-23T11:45:00+01:00",
-          "site": "Curzon Mayfair",
-          "url": "https://www.curzon.com/ticketing/seats/MAY1-28015/"
+          "starts_at": "2024-09-23T17:15:00+01:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-76057/"
         },
         {
-          "starts_at": "2024-09-23T20:50:00+01:00",
+          "starts_at": "2024-09-23T14:15:00+01:00",
           "site": "Curzon Mayfair",
-          "url": "https://www.curzon.com/ticketing/seats/MAY1-28020/"
+          "url": "https://www.curzon.com/ticketing/seats/MAY1-28019/"
         }
       ]
     },
@@ -545,6 +417,19 @@
       ]
     },
     {
+      "title": "The Critic",
+      "trailer": "https://www.youtube.com/watch?v=WsYz70rnWVU",
+      "synopsis": "THE CRITIC is a deliciously dark and sharp-witted thriller set in 1930s London ‘theatreland’ featuring an all-star cast including Ian McKellen, Gemma Arterton, Mark Strong, Ben Barnes, Alfred Enoch, Romola Garai and Lesley Manville.\n\nWhen the most feared and vicious theatre critic in town Jimmy Erskine (McKellen), finds himself suddenly in the crosshairs of the Daily Chronicle’s new owner David Brooke (Strong), he strikes a sinister Faustian pact with struggling actress Nina Land (Arterton) who is desperate to win his favour.\n",
+      "runtime": 101,
+      "times": [
+        {
+          "starts_at": "2024-09-23T20:50:00+01:00",
+          "site": "Curzon Mayfair",
+          "url": "https://www.curzon.com/ticketing/seats/MAY1-28020/"
+        }
+      ]
+    },
+    {
       "title": "Girls Will Be Girls",
       "trailer": "https://www.youtube.com/watch?v=Fq1ecESXMUw",
       "synopsis": "In a strict boarding school nestled in the Himalayas, 16-year-old Mira discovers desire and romance, but her sexual,\nrebellious awakening is disrupted by her mother, who never got to come of age herself.\n\nDirected by Shuchi Talati and starring Preeti Panigrahi, this is a stirring portrait of adolescence and a fresh and\ndistinctive look at the inner worlds of a new generation and how that fits with tradition and expected ways of behaving. \n",
@@ -561,60 +446,9 @@
           "url": "https://www.curzon.com/ticketing/seats/HOX1-18353/"
         },
         {
-          "starts_at": "2024-09-23T12:50:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-93494/"
-        },
-        {
           "starts_at": "2024-09-23T20:50:00+01:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-93493/"
-        }
-      ]
-    },
-    {
-      "title": "Sing Sing",
-      "trailer": "https://www.youtube.com/watch?v=i_SKJJSLw_M",
-      "synopsis": "Divine G (Colman Domingo), imprisoned at Sing Sing for a crime he didn’t commit, finds purpose by acting in a theatre group alongside other incarcerated men, including wary newcomer (Clarence Maclin), in this stirring true story of resilience, humanity, and the transformative power of art, starring an unforgettable ensemble cast of formerly incarcerated actors.",
-      "runtime": 106,
-      "times": [
-        {
-          "starts_at": "2024-09-23T12:20:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-27609/"
-        },
-        {
-          "starts_at": "2024-09-23T18:30:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-27611/"
-        },
-        {
-          "starts_at": "2024-09-23T13:30:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-93498/"
-        },
-        {
-          "starts_at": "2024-09-23T18:10:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-93496/"
-        }
-      ]
-    },
-    {
-      "title": "Will & Harper",
-      "trailer": "https://www.youtube.com/watch?v=PRZ1ELeGepo",
-      "synopsis": "When Will Ferrell finds out his close friend of 30 years is coming out as a trans woman, the two decide to embark on a cross-country road trip to process this new stage of their relationship in an intimate portrait of friendship, transition, and America.",
-      "runtime": 114,
-      "times": [
-        {
-          "starts_at": "2024-09-23T13:00:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-27613/"
-        },
-        {
-          "starts_at": "2024-09-23T21:00:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-27600/"
         }
       ]
     },
@@ -632,20 +466,33 @@
       ]
     },
     {
-      "title": "The Goldman Case",
-      "trailer": "https://www.youtube.com/watch?v=x9zjgXipF5E",
-      "synopsis": "In November 1975, the second trial of Pierre Goldman, a far left activist, sentenced in the first instance to life imprisonment for four armed robberies, one of which resulted in the death of two pharmacists. He claims his innocence in this latest case and in a few weeks becomes the icon of the intellectual left. Georges Kiejman, a young lawyer, defends his case. But very quickly, their reports tend. Goldman, elusive and provocative, risks capital punishment and makes the outcome of the trial uncertain.",
-      "runtime": 116,
+      "title": "Sing Sing",
+      "trailer": "https://www.youtube.com/watch?v=i_SKJJSLw_M",
+      "synopsis": "Divine G (Colman Domingo), imprisoned at Sing Sing for a crime he didn’t commit, finds purpose by acting in a theatre group alongside other incarcerated men, including wary newcomer (Clarence Maclin), in this stirring true story of resilience, humanity, and the transformative power of art, starring an unforgettable ensemble cast of formerly incarcerated actors.",
+      "runtime": 106,
       "times": [
         {
-          "starts_at": "2024-09-23T12:40:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-93501/"
+          "starts_at": "2024-09-23T18:30:00+01:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-27611/"
         },
         {
-          "starts_at": "2024-09-23T17:50:00+01:00",
+          "starts_at": "2024-09-23T18:10:00+01:00",
           "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-93490/"
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-93496/"
+        }
+      ]
+    },
+    {
+      "title": "Will & Harper",
+      "trailer": "https://www.youtube.com/watch?v=PRZ1ELeGepo",
+      "synopsis": "When Will Ferrell finds out his close friend of 30 years is coming out as a trans woman, the two decide to embark on a cross-country road trip to process this new stage of their relationship in an intimate portrait of friendship, transition, and America.",
+      "runtime": 114,
+      "times": [
+        {
+          "starts_at": "2024-09-23T21:00:00+01:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-27600/"
         }
       ]
     },
@@ -690,6 +537,19 @@
           "starts_at": "2024-09-23T15:50:00+01:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-93499/"
+        }
+      ]
+    },
+    {
+      "title": "The Goldman Case",
+      "trailer": "https://www.youtube.com/watch?v=x9zjgXipF5E",
+      "synopsis": "In November 1975, the second trial of Pierre Goldman, a far left activist, sentenced in the first instance to life imprisonment for four armed robberies, one of which resulted in the death of two pharmacists. He claims his innocence in this latest case and in a few weeks becomes the icon of the intellectual left. Georges Kiejman, a young lawyer, defends his case. But very quickly, their reports tend. Goldman, elusive and provocative, risks capital punishment and makes the outcome of the trial uncertain.",
+      "runtime": 116,
+      "times": [
+        {
+          "starts_at": "2024-09-23T17:50:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-93490/"
         }
       ]
     },
@@ -2774,7 +2634,7 @@
           "url": "https://www.curzon.com/ticketing/seats/SOH1-46510/"
         },
         {
-          "starts_at": "2024-09-27T21:20:00+01:00",
+          "starts_at": "2024-09-27T21:15:00+01:00",
           "site": "Curzon Soho",
           "url": "https://www.curzon.com/ticketing/seats/SOH1-46508/"
         },
@@ -2831,7 +2691,7 @@
     {
       "title": "Megalopolis",
       "trailer": "https://www.youtube.com/watch?v=pq6mvHZU0fc",
-      "synopsis": "MEGALOPOLIS is a Roman Epic fable set in an imagined Modern America. The City of New Rome must change, causing conflict between Cesar Catilina (Adam Driver), a genius artist who seeks to leap into a utopian, idealistic future, and his opposition, Mayor Franklyn Cicero (Giancarlo Esposito), who remains committed to a regressive status quo, perpetuating greed, special interests, and partisan warfare.  Torn between them is socialite Julia Cicero (Nathalie Emmanuel), the mayor’s daughter, whose love for Cesar has divided her loyalties, forcing her to discover what she truly believes humanity deserves.",
+      "synopsis": "MEGALOPOLIS is a Roman Epic fable set in an imagined Modern America. The City of New Rome must change, causing conflict between Cesar Catilina (Adam Driver), a genius artist who seeks to leap into a utopian, idealistic future, and his opposition, Mayor Franklyn Cicero (Giancarlo Esposito), who remains committed to a regressive status quo, perpetuating greed, special interests, and partisan warfare.  Torn between them is socialite Julia Cicero (Nathalie Emmanuel), the mayor’s daughter, whose love for Cesar has divided her loyalties, forcing her to discover what she truly believes humanity deserves.\r\n\r\nCustomer notice: This film contains flickering or flashing lights that may affect those with photosensitive epilepsy.",
       "runtime": 138,
       "times": [
         {
@@ -2896,7 +2756,7 @@
           "url": "https://www.curzon.com/ticketing/seats/SOH1-46515/"
         },
         {
-          "starts_at": "2024-09-28T21:00:00+01:00",
+          "starts_at": "2024-09-28T21:10:00+01:00",
           "site": "Curzon Soho",
           "url": "https://www.curzon.com/ticketing/seats/SOH1-46518/"
         },
@@ -2948,7 +2808,7 @@
     {
       "title": "Megalopolis",
       "trailer": "https://www.youtube.com/watch?v=pq6mvHZU0fc",
-      "synopsis": "MEGALOPOLIS is a Roman Epic fable set in an imagined Modern America. The City of New Rome must change, causing conflict between Cesar Catilina (Adam Driver), a genius artist who seeks to leap into a utopian, idealistic future, and his opposition, Mayor Franklyn Cicero (Giancarlo Esposito), who remains committed to a regressive status quo, perpetuating greed, special interests, and partisan warfare.  Torn between them is socialite Julia Cicero (Nathalie Emmanuel), the mayor’s daughter, whose love for Cesar has divided her loyalties, forcing her to discover what she truly believes humanity deserves.",
+      "synopsis": "MEGALOPOLIS is a Roman Epic fable set in an imagined Modern America. The City of New Rome must change, causing conflict between Cesar Catilina (Adam Driver), a genius artist who seeks to leap into a utopian, idealistic future, and his opposition, Mayor Franklyn Cicero (Giancarlo Esposito), who remains committed to a regressive status quo, perpetuating greed, special interests, and partisan warfare.  Torn between them is socialite Julia Cicero (Nathalie Emmanuel), the mayor’s daughter, whose love for Cesar has divided her loyalties, forcing her to discover what she truly believes humanity deserves.\r\n\r\nCustomer notice: This film contains flickering or flashing lights that may affect those with photosensitive epilepsy.",
       "runtime": 138,
       "times": [
         {
@@ -3073,7 +2933,7 @@
           "url": "https://www.curzon.com/ticketing/seats/SOH1-46527/"
         },
         {
-          "starts_at": "2024-09-29T20:20:00+01:00",
+          "starts_at": "2024-09-29T20:30:00+01:00",
           "site": "Curzon Soho",
           "url": "https://www.curzon.com/ticketing/seats/SOH1-46525/"
         },
@@ -3113,11 +2973,6 @@
           "url": "https://www.curzon.com/ticketing/seats/CAM1-27311/"
         },
         {
-          "starts_at": "2024-09-29T20:20:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-27310/"
-        },
-        {
           "starts_at": "2024-09-29T17:50:00+01:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-93183/"
@@ -3140,7 +2995,7 @@
     {
       "title": "Megalopolis",
       "trailer": "https://www.youtube.com/watch?v=pq6mvHZU0fc",
-      "synopsis": "MEGALOPOLIS is a Roman Epic fable set in an imagined Modern America. The City of New Rome must change, causing conflict between Cesar Catilina (Adam Driver), a genius artist who seeks to leap into a utopian, idealistic future, and his opposition, Mayor Franklyn Cicero (Giancarlo Esposito), who remains committed to a regressive status quo, perpetuating greed, special interests, and partisan warfare.  Torn between them is socialite Julia Cicero (Nathalie Emmanuel), the mayor’s daughter, whose love for Cesar has divided her loyalties, forcing her to discover what she truly believes humanity deserves.",
+      "synopsis": "MEGALOPOLIS is a Roman Epic fable set in an imagined Modern America. The City of New Rome must change, causing conflict between Cesar Catilina (Adam Driver), a genius artist who seeks to leap into a utopian, idealistic future, and his opposition, Mayor Franklyn Cicero (Giancarlo Esposito), who remains committed to a regressive status quo, perpetuating greed, special interests, and partisan warfare.  Torn between them is socialite Julia Cicero (Nathalie Emmanuel), the mayor’s daughter, whose love for Cesar has divided her loyalties, forcing her to discover what she truly believes humanity deserves.\r\n\r\nCustomer notice: This film contains flickering or flashing lights that may affect those with photosensitive epilepsy.",
       "runtime": 138,
       "times": [
         {
@@ -3210,7 +3065,7 @@
           "url": "https://www.curzon.com/ticketing/seats/CAM1-27318/"
         },
         {
-          "starts_at": "2024-09-30T18:20:00+01:00",
+          "starts_at": "2024-09-30T18:30:00+01:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-93187/"
         }
