@@ -1,203 +1,6 @@
 {
   "2024-09-28": [
     {
-      "title": "Beetlejuice Beetlejuice",
-      "trailer": "https://www.youtube.com/watch?v=RyTc5kXZlAM",
-      "synopsis": "Beetlejuice is back!  After an unexpected family tragedy, three generations of the Deetz family return home to Winter River.  Still haunted by Beetlejuice, Lydia's life is turned upside down when her rebellious teenage daughter, Astrid, discovers the mysterious model of the town in the attic and the portal to the Afterlife is accidentally opened.  With trouble brewing in both realms, it's only a matter of time until someone says Beetlejuice's name three times and the mischievous demon returns to unleash his very own brand of mayhem.",
-      "runtime": 105,
-      "times": [
-        {
-          "starts_at": "2024-09-28T12:00:00+01:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-51959/"
-        },
-        {
-          "starts_at": "2024-09-28T17:40:00+01:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-51966/"
-        },
-        {
-          "starts_at": "2024-09-28T13:00:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-76263/"
-        },
-        {
-          "starts_at": "2024-09-28T18:30:00+01:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-18409/"
-        }
-      ]
-    },
-    {
-      "title": "My Old Ass",
-      "trailer": "https://www.youtube.com/watch?v=vcBoj2FLt_c",
-      "synopsis": "Elliott Labrant, who has been advised by her future self not to fall in love, is sure she can do so after being given the advice. That is, until she meets the boy her older self warned her about.",
-      "runtime": 89,
-      "times": [
-        {
-          "starts_at": "2024-09-28T12:20:00+01:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-51957/"
-        },
-        {
-          "starts_at": "2024-09-28T15:40:00+01:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-51953/"
-        },
-        {
-          "starts_at": "2024-09-28T18:20:00+01:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-51608/"
-        },
-        {
-          "starts_at": "2024-09-28T21:20:00+01:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-51960/"
-        },
-        {
-          "starts_at": "2024-09-28T12:40:00+01:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-46769/"
-        },
-        {
-          "starts_at": "2024-09-28T15:40:00+01:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-46520/"
-        },
-        {
-          "starts_at": "2024-09-28T18:20:00+01:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-46515/"
-        },
-        {
-          "starts_at": "2024-09-28T21:10:00+01:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-46518/"
-        },
-        {
-          "starts_at": "2024-09-28T12:20:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-76275/"
-        },
-        {
-          "starts_at": "2024-09-28T18:30:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-75606/"
-        },
-        {
-          "starts_at": "2024-09-28T20:40:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-76258/"
-        },
-        {
-          "starts_at": "2024-09-28T15:20:00+01:00",
-          "site": "Curzon Mayfair",
-          "url": "https://www.curzon.com/ticketing/seats/MAY1-27903/"
-        },
-        {
-          "starts_at": "2024-09-28T21:00:00+01:00",
-          "site": "Curzon Mayfair",
-          "url": "https://www.curzon.com/ticketing/seats/MAY1-27906/"
-        },
-        {
-          "starts_at": "2024-09-28T12:20:00+01:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-18411/"
-        },
-        {
-          "starts_at": "2024-09-28T16:00:00+01:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-18405/"
-        },
-        {
-          "starts_at": "2024-09-28T21:20:00+01:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-18172/"
-        },
-        {
-          "starts_at": "2024-09-28T12:00:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-27697/"
-        },
-        {
-          "starts_at": "2024-09-28T14:20:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-27306/"
-        },
-        {
-          "starts_at": "2024-09-28T16:40:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-27307/"
-        },
-        {
-          "starts_at": "2024-09-28T19:00:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-27308/"
-        },
-        {
-          "starts_at": "2024-09-28T21:20:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-27309/"
-        },
-        {
-          "starts_at": "2024-09-28T12:15:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-93596/"
-        },
-        {
-          "starts_at": "2024-09-28T14:30:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-93605/"
-        },
-        {
-          "starts_at": "2024-09-28T18:20:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-93615/"
-        },
-        {
-          "starts_at": "2024-09-28T20:50:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-93178/"
-        }
-      ]
-    },
-    {
-      "title": "Blink Twice",
-      "trailer": "https://www.youtube.com/watch?v=vVoyBSgTjOs",
-      "synopsis": "When tech billionaire Slater King (Channing Tatum) meets cocktail waitress Frida (Naomi Ackie) at his fundraising gala, sparks fly. He invites her to join him and his friends on a dream vacation on his private island. It’s paradise. Wild nights blend into sun-soaked days and everyone's having a great time. No one wants this trip to end, but as strange things start to happen, Frida begins to question her reality. There is something wrong with this place. She’ll have to uncover the truth if she wants to make it out of this party alive.\n\nWith an ensemble cast including Naomi Ackie, Channing Tatum, Alia Shawkat, Simon Rex, Adria Arjona, Haley Joel Osment, Christian Slater, Kyle MacLachlan and Geena Davis, BLINK TWICE is a wild new psychological thriller directed by Zoë Kravitz.",
-      "runtime": 102,
-      "times": [
-        {
-          "starts_at": "2024-09-28T12:40:00+01:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-51956/"
-        },
-        {
-          "starts_at": "2024-09-28T11:20:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-76273/"
-        }
-      ]
-    },
-    {
-      "title": "Speak No Evil",
-      "trailer": null,
-      "synopsis": "When an American family is invited to spend the weekend at the idyllic country estate of a charming British family they befriended on vacation, what begins as a dream holiday soon warps into a snarled psychological nightmare.",
-      "runtime": 110,
-      "times": [
-        {
-          "starts_at": "2024-09-28T13:00:00+01:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-51952/"
-        },
-        {
-          "starts_at": "2024-09-28T21:00:00+01:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-51961/"
-        }
-      ]
-    },
-    {
       "title": "Lee",
       "trailer": null,
       "synopsis": "LEE tells the story of Lee Miller, American photographer. Determined to document the truth of the Nazi regime, and in spite of the odds stacked against female correspondents, Lee captured some of the most important images of World War II, for which she paid an enormous personal price.\nThe film is not a biopic, instead it explores the most significant decade of Lee Miller’s life. As a middle-aged woman, she refused to be remembered as a model and male artists’ muse. Lee Miller defied the expectations and rules of the time and travelled to Europe to report from the frontline. There, in part as a reaction to her own well-hidden trauma, she used her Rolleiflex camera to give a voice to the voiceless. What Lee captured on film in Dachau and\nthroughout Europe was shocking and horrific. Her photographs of the war, its victims and its consequences remain among the most significant and historically important of the Second World War. She changed war photography forever, but Lee paid an enormous personal price for what she witnessed and the stories she fought to tell.",
@@ -212,11 +15,6 @@
           "starts_at": "2024-09-28T18:40:00+01:00",
           "site": "Curzon Aldgate",
           "url": "https://www.curzon.com/ticketing/seats/ALD1-51964/"
-        },
-        {
-          "starts_at": "2024-09-28T11:40:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-76266/"
         },
         {
           "starts_at": "2024-09-28T14:20:00+01:00",
@@ -242,11 +40,6 @@
           "starts_at": "2024-09-28T21:00:00+01:00",
           "site": "Curzon Hoxton",
           "url": "https://www.curzon.com/ticketing/seats/HOX1-18403/"
-        },
-        {
-          "starts_at": "2024-09-28T12:20:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-27705/"
         },
         {
           "starts_at": "2024-09-28T14:40:00+01:00",
@@ -280,11 +73,6 @@
           "starts_at": "2024-09-28T20:20:00+01:00",
           "site": "Curzon Aldgate",
           "url": "https://www.curzon.com/ticketing/seats/ALD1-51963/"
-        },
-        {
-          "starts_at": "2024-09-28T12:20:00+01:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-46759/"
         },
         {
           "starts_at": "2024-09-28T15:00:00+01:00",
@@ -375,14 +163,166 @@
           "url": "https://www.curzon.com/ticketing/seats/ALD1-51962/"
         },
         {
-          "starts_at": "2024-09-28T12:15:00+01:00",
-          "site": "Curzon Mayfair",
-          "url": "https://www.curzon.com/ticketing/seats/MAY1-27904/"
-        },
-        {
           "starts_at": "2024-09-28T17:45:00+01:00",
           "site": "Curzon Mayfair",
           "url": "https://www.curzon.com/ticketing/seats/MAY1-27905/"
+        }
+      ]
+    },
+    {
+      "title": "My Old Ass",
+      "trailer": "https://www.youtube.com/watch?v=vcBoj2FLt_c",
+      "synopsis": "Elliott Labrant, who has been advised by her future self not to fall in love, is sure she can do so after being given the advice. That is, until she meets the boy her older self warned her about.",
+      "runtime": 89,
+      "times": [
+        {
+          "starts_at": "2024-09-28T15:40:00+01:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-51953/"
+        },
+        {
+          "starts_at": "2024-09-28T18:20:00+01:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-51608/"
+        },
+        {
+          "starts_at": "2024-09-28T21:20:00+01:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-51960/"
+        },
+        {
+          "starts_at": "2024-09-28T15:40:00+01:00",
+          "site": "Curzon Soho",
+          "url": "https://www.curzon.com/ticketing/seats/SOH1-46520/"
+        },
+        {
+          "starts_at": "2024-09-28T18:20:00+01:00",
+          "site": "Curzon Soho",
+          "url": "https://www.curzon.com/ticketing/seats/SOH1-46515/"
+        },
+        {
+          "starts_at": "2024-09-28T21:10:00+01:00",
+          "site": "Curzon Soho",
+          "url": "https://www.curzon.com/ticketing/seats/SOH1-46518/"
+        },
+        {
+          "starts_at": "2024-09-28T18:30:00+01:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-75606/"
+        },
+        {
+          "starts_at": "2024-09-28T20:40:00+01:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-76258/"
+        },
+        {
+          "starts_at": "2024-09-28T15:20:00+01:00",
+          "site": "Curzon Mayfair",
+          "url": "https://www.curzon.com/ticketing/seats/MAY1-27903/"
+        },
+        {
+          "starts_at": "2024-09-28T21:00:00+01:00",
+          "site": "Curzon Mayfair",
+          "url": "https://www.curzon.com/ticketing/seats/MAY1-27906/"
+        },
+        {
+          "starts_at": "2024-09-28T16:00:00+01:00",
+          "site": "Curzon Hoxton",
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-18405/"
+        },
+        {
+          "starts_at": "2024-09-28T21:20:00+01:00",
+          "site": "Curzon Hoxton",
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-18172/"
+        },
+        {
+          "starts_at": "2024-09-28T14:20:00+01:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-27306/"
+        },
+        {
+          "starts_at": "2024-09-28T16:40:00+01:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-27307/"
+        },
+        {
+          "starts_at": "2024-09-28T19:00:00+01:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-27308/"
+        },
+        {
+          "starts_at": "2024-09-28T21:20:00+01:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-27309/"
+        },
+        {
+          "starts_at": "2024-09-28T14:30:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-93605/"
+        },
+        {
+          "starts_at": "2024-09-28T18:20:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-93615/"
+        },
+        {
+          "starts_at": "2024-09-28T20:50:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-93178/"
+        }
+      ]
+    },
+    {
+      "title": "Beetlejuice Beetlejuice",
+      "trailer": "https://www.youtube.com/watch?v=RyTc5kXZlAM",
+      "synopsis": "Beetlejuice is back!  After an unexpected family tragedy, three generations of the Deetz family return home to Winter River.  Still haunted by Beetlejuice, Lydia's life is turned upside down when her rebellious teenage daughter, Astrid, discovers the mysterious model of the town in the attic and the portal to the Afterlife is accidentally opened.  With trouble brewing in both realms, it's only a matter of time until someone says Beetlejuice's name three times and the mischievous demon returns to unleash his very own brand of mayhem.",
+      "runtime": 105,
+      "times": [
+        {
+          "starts_at": "2024-09-28T17:40:00+01:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-51966/"
+        },
+        {
+          "starts_at": "2024-09-28T18:30:00+01:00",
+          "site": "Curzon Hoxton",
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-18409/"
+        }
+      ]
+    },
+    {
+      "title": "Speak No Evil",
+      "trailer": null,
+      "synopsis": "When an American family is invited to spend the weekend at the idyllic country estate of a charming British family they befriended on vacation, what begins as a dream holiday soon warps into a snarled psychological nightmare.",
+      "runtime": 110,
+      "times": [
+        {
+          "starts_at": "2024-09-28T21:00:00+01:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-51961/"
+        }
+      ]
+    },
+    {
+      "title": "Kneecap",
+      "trailer": "https://www.youtube.com/watch?v=2sCxDw8v5cY",
+      "synopsis": "Of the 80,000 native Irish speakers, 6,000 live in the North of Ireland and three of them became a rap group called Kneecap. This is the real-life story of how this anarchic Belfast trio became the unlikely figureheads of a civil rights movement to save and reinvigorate their mother tongue. ",
+      "runtime": 105,
+      "times": [
+        {
+          "starts_at": "2024-09-28T14:40:00+01:00",
+          "site": "Curzon Soho",
+          "url": "https://www.curzon.com/ticketing/seats/SOH1-46761/"
+        },
+        {
+          "starts_at": "2024-09-28T20:20:00+01:00",
+          "site": "Curzon Soho",
+          "url": "https://www.curzon.com/ticketing/seats/SOH1-46760/"
+        },
+        {
+          "starts_at": "2024-09-28T21:00:00+01:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-27711/"
         }
       ]
     },
@@ -393,29 +333,14 @@
       "runtime": 97,
       "times": [
         {
-          "starts_at": "2024-09-28T12:00:00+01:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-46762/"
-        },
-        {
           "starts_at": "2024-09-28T17:40:00+01:00",
           "site": "Curzon Soho",
           "url": "https://www.curzon.com/ticketing/seats/SOH1-46763/"
         },
         {
-          "starts_at": "2024-09-28T12:40:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-76269/"
-        },
-        {
           "starts_at": "2024-09-28T18:00:00+01:00",
           "site": "Curzon Victoria",
           "url": "https://www.curzon.com/ticketing/seats/VIC1-76260/"
-        },
-        {
-          "starts_at": "2024-09-28T11:20:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-27706/"
         },
         {
           "starts_at": "2024-09-28T15:20:00+01:00",
@@ -441,39 +366,6 @@
           "starts_at": "2024-09-28T20:40:00+01:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-93611/"
-        }
-      ]
-    },
-    {
-      "title": "Kneecap",
-      "trailer": "https://www.youtube.com/watch?v=2sCxDw8v5cY",
-      "synopsis": "Of the 80,000 native Irish speakers, 6,000 live in the North of Ireland and three of them became a rap group called Kneecap. This is the real-life story of how this anarchic Belfast trio became the unlikely figureheads of a civil rights movement to save and reinvigorate their mother tongue. ",
-      "runtime": 105,
-      "times": [
-        {
-          "starts_at": "2024-09-28T14:40:00+01:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-46761/"
-        },
-        {
-          "starts_at": "2024-09-28T20:20:00+01:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-46760/"
-        },
-        {
-          "starts_at": "2024-09-28T13:20:00+01:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-18408/"
-        },
-        {
-          "starts_at": "2024-09-28T21:00:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-27711/"
-        },
-        {
-          "starts_at": "2024-09-28T12:45:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-93598/"
         }
       ]
     },
@@ -512,11 +404,6 @@
           "url": "https://www.curzon.com/ticketing/seats/VIC1-76259/"
         },
         {
-          "starts_at": "2024-09-28T13:00:00+01:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-18407/"
-        },
-        {
           "starts_at": "2024-09-28T15:40:00+01:00",
           "site": "Curzon Hoxton",
           "url": "https://www.curzon.com/ticketing/seats/HOX1-18412/"
@@ -525,11 +412,6 @@
           "starts_at": "2024-09-28T17:45:00+01:00",
           "site": "Curzon Hoxton",
           "url": "https://www.curzon.com/ticketing/seats/HOX1-18302/"
-        },
-        {
-          "starts_at": "2024-09-28T13:00:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-27700/"
         },
         {
           "starts_at": "2024-09-28T17:30:00+01:00",
@@ -590,24 +472,6 @@
       ]
     },
     {
-      "title": "The Count of Monte Cristo",
-      "trailer": "https://www.youtube.com/watch?v=jjsBLduVy3U",
-      "synopsis": "A new adaptation of the famous novel by Alexandre Dumas.\n",
-      "runtime": 178,
-      "times": [
-        {
-          "starts_at": "2024-09-28T11:20:00+01:00",
-          "site": "Curzon Mayfair",
-          "url": "https://www.curzon.com/ticketing/seats/MAY1-28052/"
-        },
-        {
-          "starts_at": "2024-09-28T20:15:00+01:00",
-          "site": "Curzon Mayfair",
-          "url": "https://www.curzon.com/ticketing/seats/MAY1-28055/"
-        }
-      ]
-    },
-    {
       "title": "The Critic",
       "trailer": "https://www.youtube.com/watch?v=WsYz70rnWVU",
       "synopsis": "THE CRITIC is a deliciously dark and sharp-witted thriller set in 1930s London ‘theatreland’ featuring an all-star cast including Ian McKellen, Gemma Arterton, Mark Strong, Ben Barnes, Alfred Enoch, Romola Garai and Lesley Manville.\n\nWhen the most feared and vicious theatre critic in town Jimmy Erskine (McKellen), finds himself suddenly in the crosshairs of the Daily Chronicle’s new owner David Brooke (Strong), he strikes a sinister Faustian pact with struggling actress Nina Land (Arterton) who is desperate to win his favour.\n",
@@ -621,46 +485,15 @@
       ]
     },
     {
-      "title": "Kids Club: Inside Out 2",
-      "trailer": "https://www.youtube.com/watch?v=EzEZVTaXE6E",
-      "synopsis": "Disney and Pixar’s “Inside Out 2” returns to the mind of newly minted teenager Riley just as headquarters is undergoing a sudden demolition to make room for something entirely unexpected: new Emotions! Joy, Sadness, Anger, Fear and Disgust, who’ve long been running a successful operation\nby all accounts, aren’t sure how to feel when Anxiety shows up. And it looks like she’s not alone. Maya Hawke lends her voice to Anxiety, alongside Amy Poehler as the voice of Joy. The voice cast also includes Lewis Black, Phyllis Smith, Tony Hale, Liza Lapira, Ayo Edebiri, Adèle Exarchopoulos, Paul\nWalter Hauser, Kensington Tallman, Lilimar, Diane Lane, Kyle MacLachlan, Sumayyah Nuriddin-Green, Grace Lu and Yvette Nicole Brown. Directed by Kelsey Mann and produced by Mark Nielsen with a screenplay by Meg LeFauve and Dave Holstein, “Inside Out 2” features a score by Andrea Datzman.",
-      "runtime": 96,
+      "title": "The Count of Monte Cristo",
+      "trailer": "https://www.youtube.com/watch?v=jjsBLduVy3U",
+      "synopsis": "A new adaptation of the famous novel by Alexandre Dumas.\n",
+      "runtime": 178,
       "times": [
         {
-          "starts_at": "2024-09-28T10:30:00+01:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-17830/"
-        }
-      ]
-    },
-    {
-      "title": "Kids Club: Coraline 15th Anniversary",
-      "trailer": "https://www.youtube.com/watch?v=BiJUlh2mUvg",
-      "synopsis": "\n\nA young girl walks through a secret door in her new home and discovers an alternate version of her life. On the surface, this parallel reality is eerily similar to her real life–only much better. But when this wondrously off–kilter, fantastical adventure turns dangerous and her counterfeit parents try to keep her forever, Coraline must count on her resourcefulness, determination, and bravery to save her family and get back home.",
-      "runtime": 110,
-      "times": [
-        {
-          "starts_at": "2024-09-28T10:30:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-26720/"
-        }
-      ]
-    },
-    {
-      "title": "Will & Harper",
-      "trailer": "https://www.youtube.com/watch?v=PRZ1ELeGepo",
-      "synopsis": "When Will Ferrell finds out his close friend of 30 years is coming out as a trans woman, the two decide to embark on a cross-country road trip to process this new stage of their relationship in an intimate portrait of friendship, transition, and America.",
-      "runtime": 114,
-      "times": [
-        {
-          "starts_at": "2024-09-28T11:40:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-27701/"
-        },
-        {
-          "starts_at": "2024-09-28T17:10:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-27704/"
+          "starts_at": "2024-09-28T20:15:00+01:00",
+          "site": "Curzon Mayfair",
+          "url": "https://www.curzon.com/ticketing/seats/MAY1-28055/"
         }
       ]
     },
@@ -678,46 +511,15 @@
       ]
     },
     {
-      "title": "Black Dog",
-      "trailer": "https://www.youtube.com/watch?v=1rqJHP7xtmU",
-      "synopsis": "On the edge of the Gobi Desert in Northwest China, Lang returns to his hometown after being released from jail. While working for the local stray dog patrol team, clearing the town before the 2008 Olympic Games, he strikes up an unlikely connection with a black dog. These two lonely souls now embark on a new journey together.\nBlack Dog wins top Un Certain Regard Award at Cannes Film Festival. The lead canine, Xiao Xin, a Jack Russell-Greyhound cross, received the Grand Jury Prize at the Palm Dog Award.\n",
-      "runtime": 110,
+      "title": "Will & Harper",
+      "trailer": "https://www.youtube.com/watch?v=PRZ1ELeGepo",
+      "synopsis": "When Will Ferrell finds out his close friend of 30 years is coming out as a trans woman, the two decide to embark on a cross-country road trip to process this new stage of their relationship in an intimate portrait of friendship, transition, and America.",
+      "runtime": 114,
       "times": [
         {
-          "starts_at": "2024-09-28T12:00:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-93603/"
-        }
-      ]
-    },
-    {
-      "title": "Perfect Days",
-      "trailer": null,
-      "synopsis": "A highly anticipated return to fiction feature filmmaking from Wim Wenders (Paris, Texas, Wings of Desire), PERFECT DAYS takes the writer-director to Tokyo to tell a story celebrating the hidden joys and minutiae of Japanese culture. Winner of the Best Actor award at Cannes 2023, Koji Yakusho (Babel, 13 Assassins) stars as Hirayama, a contemplative middle-aged man who lives a life of modesty and serenity, spending his days balancing his job as a dutiful caretaker of Tokyo’s numerous public toilets with his passion for music, literature and photography. As we join him on his structured daily routine, a series of unexpected encounters gradually begin to reveal a hidden past that lies behind his otherwise content and harmonious life. \n\nCombining a refreshingly unstereotypical depiction of the Japanese capital with a soundtrack comprised of iconic hits from the 60s and 80s, this is a subtle, shimmering and ultimately life-affirming reflection on finding beauty in the everyday world around us. Japan’s entry for Best International Film at the 2024 Academy Awards.\n",
-      "runtime": 125,
-      "times": [
-        {
-          "starts_at": "2024-09-28T12:30:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-93597/"
-        }
-      ]
-    },
-    {
-      "title": "Sing Sing",
-      "trailer": "https://www.youtube.com/watch?v=i_SKJJSLw_M",
-      "synopsis": "Divine G (Colman Domingo), imprisoned at Sing Sing for a crime he didn’t commit, finds purpose by acting in a theatre group alongside other incarcerated men, including wary newcomer (Clarence Maclin), in this stirring true story of resilience, humanity, and the transformative power of art, starring an unforgettable ensemble cast of formerly incarcerated actors.",
-      "runtime": 106,
-      "times": [
-        {
-          "starts_at": "2024-09-28T13:15:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-93599/"
-        },
-        {
-          "starts_at": "2024-09-28T21:00:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-93632/"
+          "starts_at": "2024-09-28T17:10:00+01:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-27704/"
         }
       ]
     },
@@ -796,6 +598,19 @@
           "starts_at": "2024-09-28T20:00:00+01:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-93705/"
+        }
+      ]
+    },
+    {
+      "title": "Sing Sing",
+      "trailer": "https://www.youtube.com/watch?v=i_SKJJSLw_M",
+      "synopsis": "Divine G (Colman Domingo), imprisoned at Sing Sing for a crime he didn’t commit, finds purpose by acting in a theatre group alongside other incarcerated men, including wary newcomer (Clarence Maclin), in this stirring true story of resilience, humanity, and the transformative power of art, starring an unforgettable ensemble cast of formerly incarcerated actors.",
+      "runtime": 106,
+      "times": [
+        {
+          "starts_at": "2024-09-28T21:00:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-93632/"
         }
       ]
     }
