@@ -7,11 +7,6 @@
       "runtime": 141,
       "times": [
         {
-          "starts_at": "2024-10-12T17:20:00+01:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-52222/"
-        },
-        {
           "starts_at": "2024-10-12T20:20:00+01:00",
           "site": "Curzon Aldgate",
           "url": "https://www.curzon.com/ticketing/seats/ALD1-52223/"
@@ -22,19 +17,9 @@
           "url": "https://www.curzon.com/ticketing/seats/VIC1-76516/"
         },
         {
-          "starts_at": "2024-10-12T17:40:00+01:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-18610/"
-        },
-        {
           "starts_at": "2024-10-12T20:20:00+01:00",
           "site": "Curzon Hoxton",
           "url": "https://www.curzon.com/ticketing/seats/HOX1-18606/"
-        },
-        {
-          "starts_at": "2024-10-12T17:45:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-28020/"
         },
         {
           "starts_at": "2024-10-12T20:00:00+01:00",
@@ -49,63 +34,15 @@
       ]
     },
     {
-      "title": "Transformers One",
-      "trailer": "https://www.youtube.com/watch?v=K7hMdBlksxA",
-      "synopsis": "Transformers One is the untold origin story of Optimus Prime and Megatron, better known as sworn enemies, but once were friends bonded like brothers who changed the fate of Cybertron forever. In the first-ever fully CG-animated Transformers movie, TRANSFORMERS ONE features a star-studded voice cast, including Chris Hemsworth, Brian Tyree Henry, Scarlett Johansson, Keegan-Michael Key, Steve Buscemi, with Laurence Fishburne, and Jon Hamm.",
-      "runtime": 104,
-      "times": [
-        {
-          "starts_at": "2024-10-12T17:40:00+01:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-51836/"
-        },
-        {
-          "starts_at": "2024-10-12T21:00:00+01:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-51837/"
-        },
-        {
-          "starts_at": "2024-10-12T18:45:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-76109/"
-        },
-        {
-          "starts_at": "2024-10-12T21:15:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-76108/"
-        }
-      ]
-    },
-    {
       "title": "Joker: Folie à Deux",
       "trailer": "https://www.youtube.com/watch?v=FoFTftmqrjw",
       "synopsis": "Joker: Folie À Deux finds Arthur Fleck institutionalized at Arkham awaiting trial for his crimes as Joker. While struggling with his dual identity, Arthur not only stumbles upon true love, but also finds the music that's always been inside him.",
       "runtime": 138,
       "times": [
         {
-          "starts_at": "2024-10-12T18:00:00+01:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-52217/"
-        },
-        {
-          "starts_at": "2024-10-12T19:20:00+01:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-52216/"
-        },
-        {
           "starts_at": "2024-10-12T20:40:00+01:00",
           "site": "Curzon Aldgate",
           "url": "https://www.curzon.com/ticketing/seats/ALD1-52215/"
-        },
-        {
-          "starts_at": "2024-10-12T16:30:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-76514/"
-        },
-        {
-          "starts_at": "2024-10-12T18:00:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-76515/"
         },
         {
           "starts_at": "2024-10-12T19:30:00+01:00",
@@ -118,19 +55,9 @@
           "url": "https://www.curzon.com/ticketing/seats/VIC1-76519/"
         },
         {
-          "starts_at": "2024-10-12T17:15:00+01:00",
-          "site": "Curzon Mayfair",
-          "url": "https://www.curzon.com/ticketing/seats/MAY1-28161/"
-        },
-        {
           "starts_at": "2024-10-12T20:20:00+01:00",
           "site": "Curzon Mayfair",
           "url": "https://www.curzon.com/ticketing/seats/MAY1-28160/"
-        },
-        {
-          "starts_at": "2024-10-12T17:20:00+01:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-18607/"
         },
         {
           "starts_at": "2024-10-12T20:40:00+01:00",
@@ -138,24 +65,32 @@
           "url": "https://www.curzon.com/ticketing/seats/HOX1-18611/"
         },
         {
-          "starts_at": "2024-10-12T18:20:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-28019/"
-        },
-        {
           "starts_at": "2024-10-12T20:20:00+01:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-28017/"
         },
         {
-          "starts_at": "2024-10-12T18:00:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-93980/"
-        },
-        {
           "starts_at": "2024-10-12T21:00:00+01:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-93981/"
+        }
+      ]
+    },
+    {
+      "title": "Transformers One",
+      "trailer": "https://www.youtube.com/watch?v=K7hMdBlksxA",
+      "synopsis": "Transformers One is the untold origin story of Optimus Prime and Megatron, better known as sworn enemies, but once were friends bonded like brothers who changed the fate of Cybertron forever. In the first-ever fully CG-animated Transformers movie, TRANSFORMERS ONE features a star-studded voice cast, including Chris Hemsworth, Brian Tyree Henry, Scarlett Johansson, Keegan-Michael Key, Steve Buscemi, with Laurence Fishburne, and Jon Hamm.",
+      "runtime": 104,
+      "times": [
+        {
+          "starts_at": "2024-10-12T21:00:00+01:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-51837/"
+        },
+        {
+          "starts_at": "2024-10-12T21:15:00+01:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-76108/"
         }
       ]
     },
@@ -166,45 +101,9 @@
       "runtime": 117,
       "times": [
         {
-          "starts_at": "2024-10-12T17:30:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-76525/"
-        },
-        {
           "starts_at": "2024-10-12T21:00:00+01:00",
           "site": "Curzon Victoria",
           "url": "https://www.curzon.com/ticketing/seats/VIC1-76512/"
-        }
-      ]
-    },
-    {
-      "title": "It Ends With Us",
-      "trailer": "https://www.youtube.com/watch?v=0x-HhWm5K3U",
-      "synopsis": "IT ENDS WITH US, the first Colleen Hoover novel adapted for the big screen, tells the compelling story of Lily Bloom (Blake Lively), a woman who overcomes a traumatic childhood to embark on a new life in Boston and chase a lifelong dream of opening her own business. A chance meeting with charming neurosurgeon Ryle Kincaid (Justin Baldoni) sparks an intense connection, but as the two fall deeply in love, Lily begins to see sides of Ryle that remind her of her parents relationship. When Lilys first love, Atlas Corrigan (Brandon Sklenar), suddenly reenters her life, her relationship with Ryle is upended, and Lily realizes she must learn to rely on her own strength to make an impossible choice for her future.",
-      "runtime": 130,
-      "times": [
-        {
-          "starts_at": "2024-10-12T17:45:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-76524/"
-        }
-      ]
-    },
-    {
-      "title": "A Different Man",
-      "trailer": "https://www.youtube.com/watch?v=3gIgpbZKltg",
-      "synopsis": "Aspiring actor Edward (Sebastian Stan) undergoes a radical medical procedure to drastically transform his appearance. But his new dream face quickly turns into a nightmare, as he loses out on the role he was born to play and becomes obsessed with reclaiming what was lost, in filmmaker Aaron Schimberg’s darkly funny New York noir.",
-      "runtime": 112,
-      "times": [
-        {
-          "starts_at": "2024-10-12T18:20:00+01:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-18616/"
-        },
-        {
-          "starts_at": "2024-10-12T20:40:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-28026/"
         }
       ]
     },
@@ -220,16 +119,6 @@
           "url": "https://www.curzon.com/ticketing/seats/HOX1-18617/"
         },
         {
-          "starts_at": "2024-10-12T17:10:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-28025/"
-        },
-        {
-          "starts_at": "2024-10-12T18:40:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-93992/"
-        },
-        {
           "starts_at": "2024-10-12T20:10:00+01:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-93993/"
@@ -237,38 +126,15 @@
       ]
     },
     {
-      "title": "Yintah",
-      "trailer": null,
-      "synopsis": "A focus on the impact on the lives of the Wet'suwet'en people who live on unceded territory, as they oppose the construction of multiple pipelines.",
-      "runtime": 125,
+      "title": "A Different Man",
+      "trailer": "https://www.youtube.com/watch?v=3gIgpbZKltg",
+      "synopsis": "Aspiring actor Edward (Sebastian Stan) undergoes a radical medical procedure to drastically transform his appearance. But his new dream face quickly turns into a nightmare, as he loses out on the role he was born to play and becomes obsessed with reclaiming what was lost, in filmmaker Aaron Schimberg’s darkly funny New York noir.",
+      "runtime": 112,
       "times": [
         {
-          "starts_at": "2024-10-12T17:30:00+01:00",
+          "starts_at": "2024-10-12T20:40:00+01:00",
           "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-28007/"
-        }
-      ]
-    },
-    {
-      "title": "My Favourite Cake",
-      "trailer": "https://www.youtube.com/watch?v=dN-hEYwqqZg",
-      "synopsis": "The film follows 70-year-old Mahin (Lily Farhadpour), who has been living alone in Tehran for decades since her husband died and her daughter left for Europe. One afternoon, tea with friends leads her to reassess her life and choices; she decides to break her solitary routine and revitalise her love life. On a chance outing, where she witnesses an encounter between a woman and the morality police and decides to intervene, she comes across a lonely taxi driver called Esmail (Esmail Mehrabi).  A newfound determination and confidence propels her to approach him, and she invites him over to her house in a bid for connection. What follows is an unpredictable, unforgettable evening. \n",
-      "runtime": 97,
-      "times": [
-        {
-          "starts_at": "2024-10-12T18:00:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-28089/"
-        },
-        {
-          "starts_at": "2024-10-12T18:10:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-93987/"
-        },
-        {
-          "starts_at": "2024-10-12T20:30:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-93988/"
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-28026/"
         }
       ]
     },
@@ -295,37 +161,19 @@
           "starts_at": "2024-10-12T21:20:00+01:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-28014/"
-        },
-        {
-          "starts_at": "2024-10-12T17:50:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-93997/"
         }
       ]
     },
     {
-      "title": "CURZON90: White Material",
-      "trailer": null,
-      "synopsis": "Isabelle Huppert (The Piano Teacher) gives an extraordinary performance as Maria Vial, the formidable owner of a coffee plantation in a former French colony in Africa. But the country is gripped by civil war and her terrified workers flee as increasingly violent clashes between the army and the rebel militia grow ever nearer. As brutal and heavily armed soldiers advance, the headstrong Maria stands defiant in the face of impending disaster.\n\nDirected by Claire Denis (Beau Travail, 35 Shots of Rum), the riveting, powerful and acclaimed thriller examines the highly charged and controversial legacy of colonialism.",
-      "runtime": 106,
+      "title": "My Favourite Cake",
+      "trailer": "https://www.youtube.com/watch?v=dN-hEYwqqZg",
+      "synopsis": "The film follows 70-year-old Mahin (Lily Farhadpour), who has been living alone in Tehran for decades since her husband died and her daughter left for Europe. One afternoon, tea with friends leads her to reassess her life and choices; she decides to break her solitary routine and revitalise her love life. On a chance outing, where she witnesses an encounter between a woman and the morality police and decides to intervene, she comes across a lonely taxi driver called Esmail (Esmail Mehrabi).  A newfound determination and confidence propels her to approach him, and she invites him over to her house in a bid for connection. What follows is an unpredictable, unforgettable evening. \n",
+      "runtime": 97,
       "times": [
         {
-          "starts_at": "2024-10-12T17:40:00+01:00",
+          "starts_at": "2024-10-12T20:30:00+01:00",
           "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-91981/"
-        }
-      ]
-    },
-    {
-      "title": "DocHouse: Harder than the Rock",
-      "trailer": null,
-      "synopsis": "The fascinating story of Cimarons, the first UK band to embrace the thrilling new sound coming out of Jamaica. Reggae exploded in the 1970s, with Cimarons at its heart. Thousands of miles from Jamaica, they brought excitement, experimentation and sheer anticipation booming from speaker boxes, putting the new generation of Black British youth in touch with their roots – in contact with who they really were. Industry legends, Cimarons worked with reggae-royalty Bob Marley, Toots & the Maytals, Jimmy Cliff, Lee 'Scratch' Perry and even Paul McCartney, but have been hugely under-recognised when it comes to their own music, impact and legacy. Having lost drummer Maurice Ellis to cancer, the band persists, despite decades of exploitation. Harder Than The Rock tells the story of their amazing history and follows the band’s final chapter as they dream of performing in front of live audiences again, one last time.",
-      "runtime": 99,
-      "times": [
-        {
-          "starts_at": "2024-10-12T18:30:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-93232/"
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-93988/"
         }
       ]
     },
