@@ -7,11 +7,6 @@
       "runtime": 141,
       "times": [
         {
-          "starts_at": "2024-10-15T14:20:00+01:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-52265/"
-        },
-        {
           "starts_at": "2024-10-15T17:30:00+01:00",
           "site": "Curzon Aldgate",
           "url": "https://www.curzon.com/ticketing/seats/ALD1-52264/"
@@ -22,24 +17,9 @@
           "url": "https://www.curzon.com/ticketing/seats/ALD1-52263/"
         },
         {
-          "starts_at": "2024-10-15T14:10:00+01:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-47012/"
-        },
-        {
-          "starts_at": "2024-10-15T14:30:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-76565/"
-        },
-        {
           "starts_at": "2024-10-15T20:45:00+01:00",
           "site": "Curzon Victoria",
           "url": "https://www.curzon.com/ticketing/seats/VIC1-76558/"
-        },
-        {
-          "starts_at": "2024-10-15T14:40:00+01:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-18639/"
         },
         {
           "starts_at": "2024-10-15T17:20:00+01:00",
@@ -52,11 +32,6 @@
           "url": "https://www.curzon.com/ticketing/seats/HOX1-18632/"
         },
         {
-          "starts_at": "2024-10-15T13:50:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-28106/"
-        },
-        {
           "starts_at": "2024-10-15T17:45:00+01:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-28094/"
@@ -67,14 +42,37 @@
           "url": "https://www.curzon.com/ticketing/seats/CAM1-28103/"
         },
         {
-          "starts_at": "2024-10-15T14:50:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-94050/"
-        },
-        {
           "starts_at": "2024-10-15T17:40:00+01:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-94057/"
+        }
+      ]
+    },
+    {
+      "title": "Transformers One",
+      "trailer": "https://www.youtube.com/watch?v=K7hMdBlksxA",
+      "synopsis": "Transformers One is the untold origin story of Optimus Prime and Megatron, better known as sworn enemies, but once were friends bonded like brothers who changed the fate of Cybertron forever. In the first-ever fully CG-animated Transformers movie, TRANSFORMERS ONE features a star-studded voice cast, including Chris Hemsworth, Brian Tyree Henry, Scarlett Johansson, Keegan-Michael Key, Steve Buscemi, with Laurence Fishburne, and Jon Hamm.",
+      "runtime": 104,
+      "times": [
+        {
+          "starts_at": "2024-10-15T17:50:00+01:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-52253/"
+        },
+        {
+          "starts_at": "2024-10-15T21:10:00+01:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-52252/"
+        },
+        {
+          "starts_at": "2024-10-15T18:45:00+01:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-76120/"
+        },
+        {
+          "starts_at": "2024-10-15T21:15:00+01:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-76119/"
         }
       ]
     },
@@ -85,16 +83,6 @@
       "runtime": 138,
       "times": [
         {
-          "starts_at": "2024-10-15T14:40:00+01:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-52255/"
-        },
-        {
-          "starts_at": "2024-10-15T16:00:00+01:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-52257/"
-        },
-        {
           "starts_at": "2024-10-15T18:10:00+01:00",
           "site": "Curzon Aldgate",
           "url": "https://www.curzon.com/ticketing/seats/ALD1-52260/"
@@ -103,21 +91,6 @@
           "starts_at": "2024-10-15T20:20:00+01:00",
           "site": "Curzon Aldgate",
           "url": "https://www.curzon.com/ticketing/seats/ALD1-52261/"
-        },
-        {
-          "starts_at": "2024-10-15T13:45:00+01:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-47013/"
-        },
-        {
-          "starts_at": "2024-10-15T14:45:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-76559/"
-        },
-        {
-          "starts_at": "2024-10-15T16:00:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-76556/"
         },
         {
           "starts_at": "2024-10-15T18:00:00+01:00",
@@ -130,11 +103,6 @@
           "url": "https://www.curzon.com/ticketing/seats/VIC1-76561/"
         },
         {
-          "starts_at": "2024-10-15T14:00:00+01:00",
-          "site": "Curzon Mayfair",
-          "url": "https://www.curzon.com/ticketing/seats/MAY1-28174/"
-        },
-        {
           "starts_at": "2024-10-15T17:15:00+01:00",
           "site": "Curzon Mayfair",
           "url": "https://www.curzon.com/ticketing/seats/MAY1-28176/"
@@ -143,11 +111,6 @@
           "starts_at": "2024-10-15T20:20:00+01:00",
           "site": "Curzon Mayfair",
           "url": "https://www.curzon.com/ticketing/seats/MAY1-28175/"
-        },
-        {
-          "starts_at": "2024-10-15T14:10:00+01:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-18635/"
         },
         {
           "starts_at": "2024-10-15T17:40:00+01:00",
@@ -160,11 +123,6 @@
           "url": "https://www.curzon.com/ticketing/seats/HOX1-18637/"
         },
         {
-          "starts_at": "2024-10-15T14:15:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-28098/"
-        },
-        {
           "starts_at": "2024-10-15T18:00:00+01:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-28093/"
@@ -175,11 +133,6 @@
           "url": "https://www.curzon.com/ticketing/seats/CAM1-28104/"
         },
         {
-          "starts_at": "2024-10-15T15:00:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-94049/"
-        },
-        {
           "starts_at": "2024-10-15T18:10:00+01:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-94044/"
@@ -188,49 +141,6 @@
           "starts_at": "2024-10-15T20:00:00+01:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-94054/"
-        }
-      ]
-    },
-    {
-      "title": "Transformers One",
-      "trailer": "https://www.youtube.com/watch?v=K7hMdBlksxA",
-      "synopsis": "Transformers One is the untold origin story of Optimus Prime and Megatron, better known as sworn enemies, but once were friends bonded like brothers who changed the fate of Cybertron forever. In the first-ever fully CG-animated Transformers movie, TRANSFORMERS ONE features a star-studded voice cast, including Chris Hemsworth, Brian Tyree Henry, Scarlett Johansson, Keegan-Michael Key, Steve Buscemi, with Laurence Fishburne, and Jon Hamm.",
-      "runtime": 104,
-      "times": [
-        {
-          "starts_at": "2024-10-15T15:20:00+01:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-52256/"
-        },
-        {
-          "starts_at": "2024-10-15T17:50:00+01:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-52253/"
-        },
-        {
-          "starts_at": "2024-10-15T21:10:00+01:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-52252/"
-        },
-        {
-          "starts_at": "2024-10-15T13:45:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-76118/"
-        },
-        {
-          "starts_at": "2024-10-15T16:15:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-76121/"
-        },
-        {
-          "starts_at": "2024-10-15T18:45:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-76120/"
-        },
-        {
-          "starts_at": "2024-10-15T21:15:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-76119/"
         }
       ]
     },
@@ -263,42 +173,6 @@
       ]
     },
     {
-      "title": "Kneecap",
-      "trailer": "https://www.youtube.com/watch?v=2sCxDw8v5cY",
-      "synopsis": "Of the 80,000 native Irish speakers, 6,000 live in the North of Ireland and three of them became a rap group called Kneecap. This is the real-life story of how this anarchic Belfast trio became the unlikely figureheads of a civil rights movement to save and reinvigorate their mother tongue. ",
-      "runtime": 105,
-      "times": [
-        {
-          "starts_at": "2024-10-15T14:50:00+01:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-47011/"
-        }
-      ]
-    },
-    {
-      "title": "Lee",
-      "trailer": null,
-      "synopsis": "LEE tells the story of Lee Miller, American photographer. Determined to document the truth of the Nazi regime, and in spite of the odds stacked against female correspondents, Lee captured some of the most important images of World War II, for which she paid an enormous personal price.\nThe film is not a biopic, instead it explores the most significant decade of Lee Miller’s life. As a middle-aged woman, she refused to be remembered as a model and male artists’ muse. Lee Miller defied the expectations and rules of the time and travelled to Europe to report from the frontline. There, in part as a reaction to her own well-hidden trauma, she used her Rolleiflex camera to give a voice to the voiceless. What Lee captured on film in Dachau and\nthroughout Europe was shocking and horrific. Her photographs of the war, its victims and its consequences remain among the most significant and historically important of the Second World War. She changed war photography forever, but Lee paid an enormous personal price for what she witnessed and the stories she fought to tell.",
-      "runtime": 117,
-      "times": [
-        {
-          "starts_at": "2024-10-15T15:15:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-76563/"
-        },
-        {
-          "starts_at": "2024-10-15T17:45:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-76567/"
-        },
-        {
-          "starts_at": "2024-10-15T21:00:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-76562/"
-        }
-      ]
-    },
-    {
       "title": "It Ends With Us",
       "trailer": "https://www.youtube.com/watch?v=0x-HhWm5K3U",
       "synopsis": "IT ENDS WITH US, the first Colleen Hoover novel adapted for the big screen, tells the compelling story of Lily Bloom (Blake Lively), a woman who overcomes a traumatic childhood to embark on a new life in Boston and chase a lifelong dream of opening her own business. A chance meeting with charming neurosurgeon Ryle Kincaid (Justin Baldoni) sparks an intense connection, but as the two fall deeply in love, Lily begins to see sides of Ryle that remind her of her parents relationship. When Lilys first love, Atlas Corrigan (Brandon Sklenar), suddenly reenters her life, her relationship with Ryle is upended, and Lily realizes she must learn to rely on her own strength to make an impossible choice for her future.",
@@ -312,43 +186,20 @@
       ]
     },
     {
-      "title": "Megalopolis",
-      "trailer": "https://www.youtube.com/watch?v=pq6mvHZU0fc",
-      "synopsis": "MEGALOPOLIS is a Roman Epic fable set in an imagined Modern America. The City of New Rome must change, causing conflict between Cesar Catilina (Adam Driver), a genius artist who seeks to leap into a utopian, idealistic future, and his opposition, Mayor Franklyn Cicero (Giancarlo Esposito), who remains committed to a regressive status quo, perpetuating greed, special interests, and partisan warfare.  Torn between them is socialite Julia Cicero (Nathalie Emmanuel), the mayor’s daughter, whose love for Cesar has divided her loyalties, forcing her to discover what she truly believes humanity deserves.\r\n\r\nCustomer notice: This film contains flickering or flashing lights that may affect those with photosensitive epilepsy.",
-      "runtime": 138,
+      "title": "Lee",
+      "trailer": null,
+      "synopsis": "LEE tells the story of Lee Miller, American photographer. Determined to document the truth of the Nazi regime, and in spite of the odds stacked against female correspondents, Lee captured some of the most important images of World War II, for which she paid an enormous personal price.\nThe film is not a biopic, instead it explores the most significant decade of Lee Miller’s life. As a middle-aged woman, she refused to be remembered as a model and male artists’ muse. Lee Miller defied the expectations and rules of the time and travelled to Europe to report from the frontline. There, in part as a reaction to her own well-hidden trauma, she used her Rolleiflex camera to give a voice to the voiceless. What Lee captured on film in Dachau and\nthroughout Europe was shocking and horrific. Her photographs of the war, its victims and its consequences remain among the most significant and historically important of the Second World War. She changed war photography forever, but Lee paid an enormous personal price for what she witnessed and the stories she fought to tell.",
+      "runtime": 117,
       "times": [
         {
-          "starts_at": "2024-10-15T14:45:00+01:00",
-          "site": "Curzon Mayfair",
-          "url": "https://www.curzon.com/ticketing/seats/MAY1-28197/"
-        }
-      ]
-    },
-    {
-      "title": "A Different Man",
-      "trailer": "https://www.youtube.com/watch?v=3gIgpbZKltg",
-      "synopsis": "Aspiring actor Edward (Sebastian Stan) undergoes a radical medical procedure to drastically transform his appearance. But his new dream face quickly turns into a nightmare, as he loses out on the role he was born to play and becomes obsessed with reclaiming what was lost, in filmmaker Aaron Schimberg’s darkly funny New York noir.",
-      "runtime": 112,
-      "times": [
-        {
-          "starts_at": "2024-10-15T15:40:00+01:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-18640/"
+          "starts_at": "2024-10-15T17:45:00+01:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-76567/"
         },
         {
           "starts_at": "2024-10-15T21:00:00+01:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-18630/"
-        },
-        {
-          "starts_at": "2024-10-15T15:00:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-28108/"
-        },
-        {
-          "starts_at": "2024-10-15T20:45:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-28110/"
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-76562/"
         }
       ]
     },
@@ -369,11 +220,6 @@
           "url": "https://www.curzon.com/ticketing/seats/CAM1-28109/"
         },
         {
-          "starts_at": "2024-10-15T15:20:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-94048/"
-        },
-        {
           "starts_at": "2024-10-15T21:00:00+01:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-94055/"
@@ -381,43 +227,20 @@
       ]
     },
     {
-      "title": "My Old Ass",
-      "trailer": "https://www.youtube.com/watch?v=vcBoj2FLt_c",
-      "synopsis": "Elliott Labrant, who has been advised by her future self not to fall in love, is sure she can do so after being given the advice. That is, until she meets the boy her older self warned her about.",
-      "runtime": 89,
+      "title": "A Different Man",
+      "trailer": "https://www.youtube.com/watch?v=3gIgpbZKltg",
+      "synopsis": "Aspiring actor Edward (Sebastian Stan) undergoes a radical medical procedure to drastically transform his appearance. But his new dream face quickly turns into a nightmare, as he loses out on the role he was born to play and becomes obsessed with reclaiming what was lost, in filmmaker Aaron Schimberg’s darkly funny New York noir.",
+      "runtime": 112,
       "times": [
-        {
-          "starts_at": "2024-10-15T14:30:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-28096/"
-        },
-        {
-          "starts_at": "2024-10-15T15:30:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-94084/"
-        }
-      ]
-    },
-    {
-      "title": "Timestalker",
-      "trailer": "https://www.youtube.com/watch?v=8vRyyzSByhU",
-      "synopsis": "The hapless heroine Agnes reincarnated every time she makes the same mistake: falling in love with the wrong man.",
-      "runtime": 90,
-      "times": [
-        {
-          "starts_at": "2024-10-15T15:30:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-28097/"
-        },
         {
           "starts_at": "2024-10-15T21:00:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-28102/"
+          "site": "Curzon Hoxton",
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-18630/"
         },
         {
-          "starts_at": "2024-10-15T17:50:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-94045/"
+          "starts_at": "2024-10-15T20:45:00+01:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-28110/"
         }
       ]
     },
@@ -431,11 +254,6 @@
           "starts_at": "2024-10-15T16:40:00+01:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-28111/"
-        },
-        {
-          "starts_at": "2024-10-15T14:40:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-94051/"
         },
         {
           "starts_at": "2024-10-15T17:00:00+01:00",
@@ -463,15 +281,20 @@
       ]
     },
     {
-      "title": "DocHouse: The Battle For Laikipia",
-      "trailer": null,
-      "synopsis": "For centuries, the Laikipia region of Kenya has been a grazing route for indigenous farmers. It is also home to white ranchers who settled there during British colonial rule, and stayed after Kenya's independence in 1963. As ongoing drought ravages the grasslands of Laikipia, the stakes are raised in a generations-old conflict over access to the land that everyone needs to sustain their cattle.\r\n\r\nFilmmakers Daphne Matziaraki and Peter Murimi set out to understand both sides of the fight, painting a complex and urgent picture of a region in turmoil.",
-      "runtime": 94,
+      "title": "Timestalker",
+      "trailer": "https://www.youtube.com/watch?v=8vRyyzSByhU",
+      "synopsis": "The hapless heroine Agnes reincarnated every time she makes the same mistake: falling in love with the wrong man.",
+      "runtime": 90,
       "times": [
         {
-          "starts_at": "2024-10-15T15:10:00+01:00",
+          "starts_at": "2024-10-15T21:00:00+01:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-28102/"
+        },
+        {
+          "starts_at": "2024-10-15T17:50:00+01:00",
           "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-94091/"
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-94045/"
         }
       ]
     },
