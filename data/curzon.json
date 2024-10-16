@@ -1,16 +1,49 @@
 {
   "2024-10-16": [
     {
+      "title": "Joker: Folie à Deux",
+      "trailer": "https://www.youtube.com/watch?v=FoFTftmqrjw",
+      "synopsis": "Joker: Folie À Deux finds Arthur Fleck institutionalized at Arkham awaiting trial for his crimes as Joker. While struggling with his dual identity, Arthur not only stumbles upon true love, but also finds the music that's always been inside him.",
+      "runtime": 138,
+      "times": [
+        {
+          "starts_at": "2024-10-16T20:20:00+01:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-52271/"
+        },
+        {
+          "starts_at": "2024-10-16T20:20:00+01:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-76582/"
+        },
+        {
+          "starts_at": "2024-10-16T20:20:00+01:00",
+          "site": "Curzon Mayfair",
+          "url": "https://www.curzon.com/ticketing/seats/MAY1-28179/"
+        },
+        {
+          "starts_at": "2024-10-16T20:40:00+01:00",
+          "site": "Curzon Hoxton",
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-18666/"
+        },
+        {
+          "starts_at": "2024-10-16T20:20:00+01:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-28121/"
+        },
+        {
+          "starts_at": "2024-10-16T21:00:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-93959/"
+        }
+      ]
+    },
+    {
       "title": "The Substance",
       "trailer": null,
       "synopsis": "Demi Moore gives a career-best performance as Elisabeth Sparkle, a former A-lister past her prime and suddenly fired from her fitness TV show by repellent studio head Harvey (Dennis Quaid). \n\nShe is then drawn to the opportunity presented by a mysterious new drug: THE SUBSTANCE. All it takes is one injection and she is reborn – temporarily – as the gorgeous, twentysomething Sue (Margaret Qualley). \n\nThe only rule? Time needs to be split: exactly one week in one body, then one week in the other. No exceptions. A perfect balance. What could go wrong?\n\nDeliriously entertaining and ruthlessly satirical, Coralie Fargeat’s Cannes sensation turns toxic beauty culture inside out with a be-careful-what-you-wish-for fable for the ages. Explosive, provocative and twisted, THE SUBSTANCE marks the arrival of a thrillingly visionary filmmaker.\n",
       "runtime": 141,
       "times": [
-        {
-          "starts_at": "2024-10-16T17:30:00+01:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-52277/"
-        },
         {
           "starts_at": "2024-10-16T20:40:00+01:00",
           "site": "Curzon Aldgate",
@@ -22,29 +55,14 @@
           "url": "https://www.curzon.com/ticketing/seats/VIC1-76571/"
         },
         {
-          "starts_at": "2024-10-16T17:40:00+01:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-18667/"
-        },
-        {
           "starts_at": "2024-10-16T20:20:00+01:00",
           "site": "Curzon Hoxton",
           "url": "https://www.curzon.com/ticketing/seats/HOX1-18671/"
         },
         {
-          "starts_at": "2024-10-16T17:20:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-28118/"
-        },
-        {
           "starts_at": "2024-10-16T20:40:00+01:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-28122/"
-        },
-        {
-          "starts_at": "2024-10-16T18:10:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-93960/"
         },
         {
           "starts_at": "2024-10-16T20:10:00+01:00",
@@ -60,128 +78,14 @@
       "runtime": 104,
       "times": [
         {
-          "starts_at": "2024-10-16T17:50:00+01:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-52268/"
-        },
-        {
           "starts_at": "2024-10-16T21:10:00+01:00",
           "site": "Curzon Aldgate",
           "url": "https://www.curzon.com/ticketing/seats/ALD1-52267/"
         },
         {
-          "starts_at": "2024-10-16T18:50:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-76128/"
-        },
-        {
           "starts_at": "2024-10-16T21:15:00+01:00",
           "site": "Curzon Victoria",
           "url": "https://www.curzon.com/ticketing/seats/VIC1-76127/"
-        }
-      ]
-    },
-    {
-      "title": "Joker: Folie à Deux",
-      "trailer": "https://www.youtube.com/watch?v=FoFTftmqrjw",
-      "synopsis": "Joker: Folie À Deux finds Arthur Fleck institutionalized at Arkham awaiting trial for his crimes as Joker. While struggling with his dual identity, Arthur not only stumbles upon true love, but also finds the music that's always been inside him.",
-      "runtime": 138,
-      "times": [
-        {
-          "starts_at": "2024-10-16T18:10:00+01:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-52270/"
-        },
-        {
-          "starts_at": "2024-10-16T20:20:00+01:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-52271/"
-        },
-        {
-          "starts_at": "2024-10-16T18:00:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-76572/"
-        },
-        {
-          "starts_at": "2024-10-16T20:20:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-76582/"
-        },
-        {
-          "starts_at": "2024-10-16T17:15:00+01:00",
-          "site": "Curzon Mayfair",
-          "url": "https://www.curzon.com/ticketing/seats/MAY1-28180/"
-        },
-        {
-          "starts_at": "2024-10-16T20:20:00+01:00",
-          "site": "Curzon Mayfair",
-          "url": "https://www.curzon.com/ticketing/seats/MAY1-28179/"
-        },
-        {
-          "starts_at": "2024-10-16T17:20:00+01:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-18670/"
-        },
-        {
-          "starts_at": "2024-10-16T20:40:00+01:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-18666/"
-        },
-        {
-          "starts_at": "2024-10-16T18:00:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-28119/"
-        },
-        {
-          "starts_at": "2024-10-16T20:20:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-28121/"
-        },
-        {
-          "starts_at": "2024-10-16T18:00:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-93969/"
-        },
-        {
-          "starts_at": "2024-10-16T21:00:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-93959/"
-        }
-      ]
-    },
-    {
-      "title": "Smile & Smile 2 Double Bill",
-      "trailer": "https://www.youtube.com/watch?v=18MgQ-2B6XM",
-      "synopsis": "About to embark on a new world tour, global pop sensation Skye Riley (Naomi Scott) begins experiencing increasingly terrifying and inexplicable events. Overwhelmed by the escalating horrors and the pressures of fame, Skye is forced to face her dark past to regain control of her life before it spirals out of control.",
-      "runtime": 127,
-      "times": [
-        {
-          "starts_at": "2024-10-16T18:30:00+01:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-51842/"
-        },
-        {
-          "starts_at": "2024-10-16T18:30:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-76142/"
-        },
-        {
-          "starts_at": "2024-10-16T18:30:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-27674/"
-        }
-      ]
-    },
-    {
-      "title": "It Ends With Us",
-      "trailer": "https://www.youtube.com/watch?v=0x-HhWm5K3U",
-      "synopsis": "IT ENDS WITH US, the first Colleen Hoover novel adapted for the big screen, tells the compelling story of Lily Bloom (Blake Lively), a woman who overcomes a traumatic childhood to embark on a new life in Boston and chase a lifelong dream of opening her own business. A chance meeting with charming neurosurgeon Ryle Kincaid (Justin Baldoni) sparks an intense connection, but as the two fall deeply in love, Lily begins to see sides of Ryle that remind her of her parents relationship. When Lilys first love, Atlas Corrigan (Brandon Sklenar), suddenly reenters her life, her relationship with Ryle is upended, and Lily realizes she must learn to rely on her own strength to make an impossible choice for her future.",
-      "runtime": 130,
-      "times": [
-        {
-          "starts_at": "2024-10-16T17:00:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-76577/"
         }
       ]
     },
@@ -192,27 +96,9 @@
       "runtime": 117,
       "times": [
         {
-          "starts_at": "2024-10-16T17:40:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-76576/"
-        },
-        {
           "starts_at": "2024-10-16T21:00:00+01:00",
           "site": "Curzon Victoria",
           "url": "https://www.curzon.com/ticketing/seats/VIC1-76581/"
-        }
-      ]
-    },
-    {
-      "title": "A Different Man",
-      "trailer": "https://www.youtube.com/watch?v=3gIgpbZKltg",
-      "synopsis": "Aspiring actor Edward (Sebastian Stan) undergoes a radical medical procedure to drastically transform his appearance. But his new dream face quickly turns into a nightmare, as he loses out on the role he was born to play and becomes obsessed with reclaiming what was lost, in filmmaker Aaron Schimberg’s darkly funny New York noir.",
-      "runtime": 112,
-      "times": [
-        {
-          "starts_at": "2024-10-16T18:20:00+01:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-18673/"
         }
       ]
     },
@@ -228,50 +114,9 @@
           "url": "https://www.curzon.com/ticketing/seats/HOX1-18672/"
         },
         {
-          "starts_at": "2024-10-16T17:50:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-93972/"
-        },
-        {
           "starts_at": "2024-10-16T20:50:00+01:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-93973/"
-        }
-      ]
-    },
-    {
-      "title": "Yintah",
-      "trailer": null,
-      "synopsis": "A focus on the impact on the lives of the Wet'suwet'en people who live on unceded territory, as they oppose the construction of multiple pipelines.",
-      "runtime": 125,
-      "times": [
-        {
-          "starts_at": "2024-10-16T17:40:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-28116/"
-        }
-      ]
-    },
-    {
-      "title": "My Favourite Cake",
-      "trailer": "https://www.youtube.com/watch?v=dN-hEYwqqZg",
-      "synopsis": "The film follows 70-year-old Mahin (Lily Farhadpour), who has been living alone in Tehran for decades since her husband died and her daughter left for Europe. One afternoon, tea with friends leads her to reassess her life and choices; she decides to break her solitary routine and revitalise her love life. On a chance outing, where she witnesses an encounter between a woman and the morality police and decides to intervene, she comes across a lonely taxi driver called Esmail (Esmail Mehrabi).  A newfound determination and confidence propels her to approach him, and she invites him over to her house in a bid for connection. What follows is an unpredictable, unforgettable evening. \n",
-      "runtime": 97,
-      "times": [
-        {
-          "starts_at": "2024-10-16T18:50:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-28120/"
-        },
-        {
-          "starts_at": "2024-10-16T18:30:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-93965/"
-        },
-        {
-          "starts_at": "2024-10-16T20:40:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-93966/"
         }
       ]
     },
@@ -285,11 +130,6 @@
           "starts_at": "2024-10-16T21:00:00+01:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-28124/"
-        },
-        {
-          "starts_at": "2024-10-16T17:40:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-93977/"
         }
       ]
     },
@@ -307,19 +147,6 @@
       ]
     },
     {
-      "title": "DocHouse: Modernism Inc.",
-      "trailer": null,
-      "synopsis": "Mid-century architect and designer Eliot Noyes built the design programmes for some of America’s most powerful postwar corporations. MODERNISM, INC. weaves Noyes’ story with the broader context of corporate America’s embrace of Modernism during the period of postwar economic expansion and culminates in the backlash against Noyes and his generation during the countercultural upheaval of the Vietnam era.\r\n\r\nThe life and work of Eliot Noyes is a vehicle to explore the intersection of postwar business, technology and design – a story that continues to resonate in the contemporary world.",
-      "runtime": 78,
-      "times": [
-        {
-          "starts_at": "2024-10-16T18:20:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-93566/"
-        }
-      ]
-    },
-    {
       "title": "DocHouse: The Battle For Laikipia",
       "trailer": null,
       "synopsis": "For centuries, the Laikipia region of Kenya has been a grazing route for indigenous farmers. It is also home to white ranchers who settled there during British colonial rule, and stayed after Kenya's independence in 1963. As ongoing drought ravages the grasslands of Laikipia, the stakes are raised in a generations-old conflict over access to the land that everyone needs to sustain their cattle.\r\n\r\nFilmmakers Daphne Matziaraki and Peter Murimi set out to understand both sides of the fight, painting a complex and urgent picture of a region in turmoil.",
@@ -329,6 +156,19 @@
           "starts_at": "2024-10-16T20:00:00+01:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-94093/"
+        }
+      ]
+    },
+    {
+      "title": "My Favourite Cake",
+      "trailer": "https://www.youtube.com/watch?v=dN-hEYwqqZg",
+      "synopsis": "The film follows 70-year-old Mahin (Lily Farhadpour), who has been living alone in Tehran for decades since her husband died and her daughter left for Europe. One afternoon, tea with friends leads her to reassess her life and choices; she decides to break her solitary routine and revitalise her love life. On a chance outing, where she witnesses an encounter between a woman and the morality police and decides to intervene, she comes across a lonely taxi driver called Esmail (Esmail Mehrabi).  A newfound determination and confidence propels her to approach him, and she invites him over to her house in a bid for connection. What follows is an unpredictable, unforgettable evening. \n",
+      "runtime": 97,
+      "times": [
+        {
+          "starts_at": "2024-10-16T20:40:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-93966/"
         }
       ]
     },
