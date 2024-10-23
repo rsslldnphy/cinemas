@@ -7,24 +7,9 @@
       "runtime": 141,
       "times": [
         {
-          "starts_at": "2024-10-23T17:10:00+01:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-52463/"
-        },
-        {
           "starts_at": "2024-10-23T20:20:00+01:00",
           "site": "Curzon Aldgate",
           "url": "https://www.curzon.com/ticketing/seats/ALD1-52462/"
-        },
-        {
-          "starts_at": "2024-10-23T17:40:00+01:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-47085/"
-        },
-        {
-          "starts_at": "2024-10-23T17:15:00+01:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-18788/"
         },
         {
           "starts_at": "2024-10-23T20:20:00+01:00",
@@ -37,148 +22,9 @@
           "url": "https://www.curzon.com/ticketing/seats/CAM1-28290/"
         },
         {
-          "starts_at": "2024-10-23T17:40:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-94279/"
-        },
-        {
           "starts_at": "2024-10-23T20:40:00+01:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-94275/"
-        }
-      ]
-    },
-    {
-      "title": "The Apprentice",
-      "trailer": "https://www.youtube.com/watch?v=bvPRxy9kmSg",
-      "synopsis": "The origins of Donald Trump are brought to life in a provocative, electrifying portrait of the man and his mentor, Roy Cohn – a notorious lawyer who will never let the truth get in the way of winning a fight. Sebastian Stan and Jeremy Strong star as Trump and Cohn respectively, with Maria Bakalova starring as Ivana Trump and acclaimed director\nAli Abbasi (Border, Holy Spider) bringing a unique perspective to this gripping, darkly funny tale of greed, power and the dark art of the deal.",
-      "runtime": 122,
-      "times": [
-        {
-          "starts_at": "2024-10-23T17:50:00+01:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-52471/"
-        },
-        {
-          "starts_at": "2024-10-23T21:20:00+01:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-52325/"
-        },
-        {
-          "starts_at": "2024-10-23T18:00:00+01:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-47080/"
-        },
-        {
-          "starts_at": "2024-10-23T20:45:00+01:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-47079/"
-        },
-        {
-          "starts_at": "2024-10-23T17:45:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-76771/"
-        },
-        {
-          "starts_at": "2024-10-23T20:30:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-76645/"
-        },
-        {
-          "starts_at": "2024-10-23T18:15:00+01:00",
-          "site": "Curzon Mayfair",
-          "url": "https://www.curzon.com/ticketing/seats/MAY1-28252/"
-        },
-        {
-          "starts_at": "2024-10-23T21:00:00+01:00",
-          "site": "Curzon Mayfair",
-          "url": "https://www.curzon.com/ticketing/seats/MAY1-28253/"
-        },
-        {
-          "starts_at": "2024-10-23T17:40:00+01:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-18787/"
-        },
-        {
-          "starts_at": "2024-10-23T20:40:00+01:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-18719/"
-        },
-        {
-          "starts_at": "2024-10-23T18:20:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-28170/"
-        },
-        {
-          "starts_at": "2024-10-23T21:00:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-28171/"
-        },
-        {
-          "starts_at": "2024-10-23T17:50:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-94277/"
-        },
-        {
-          "starts_at": "2024-10-23T21:00:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-94283/"
-        }
-      ]
-    },
-    {
-      "title": "Smile 2",
-      "trailer": "https://www.youtube.com/watch?v=OJxBa0nCf64",
-      "synopsis": "About to embark on a new world tour, global pop sensation Skye Riley (Naomi Scott) begins experiencing increasingly terrifying and inexplicable events. Overwhelmed by the escalating horrors and the pressures of fame, Skye is forced to face her dark past to regain control of her life before it spirals out of control.",
-      "runtime": 127,
-      "times": [
-        {
-          "starts_at": "2024-10-23T18:10:00+01:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-52468/"
-        },
-        {
-          "starts_at": "2024-10-23T21:00:00+01:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-52324/"
-        },
-        {
-          "starts_at": "2024-10-23T17:45:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-75872/"
-        },
-        {
-          "starts_at": "2024-10-23T20:45:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-75871/"
-        },
-        {
-          "starts_at": "2024-10-23T18:40:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-27537/"
-        },
-        {
-          "starts_at": "2024-10-23T20:40:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-27538/"
-        }
-      ]
-    },
-    {
-      "title": "Whitney Houston: Concert for a New South Africa",
-      "trailer": "https://www.youtube.com/watch?v=Ramnc86JgbQ",
-      "synopsis": "In 1994, Whitney Houston took the stage in Durban, South Africa, making her the first major Western musician to visit the newly unified, post-apartheid nation following President Nelson Mandela’s winning election. This performance was more than a concert; it was a celebration of freedom, hope, and unity. Whitney’s powerhouse voice and emotional delivery brought joy and inspiration to a country newly liberated.\n \nNow, 30 years after the historic visit, The Concert for a New South Africa (Durban) comes to the big screen for the first time. Digitally remastered in 4K and featuring newly-enhanced audio, the film captures every note, every cheer, every tear, immortalizing a night that transcended music and became a beacon of change and celebration.\n",
-      "runtime": 117,
-      "times": [
-        {
-          "starts_at": "2024-10-23T19:00:00+01:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-51707/"
-        },
-        {
-          "starts_at": "2024-10-23T19:00:00+01:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-46662/"
         }
       ]
     },
@@ -199,14 +45,75 @@
           "url": "https://www.curzon.com/ticketing/seats/VIC1-76768/"
         },
         {
-          "starts_at": "2024-10-23T17:30:00+01:00",
-          "site": "Curzon Mayfair",
-          "url": "https://www.curzon.com/ticketing/seats/MAY1-28248/"
-        },
-        {
           "starts_at": "2024-10-23T20:50:00+01:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-94285/"
+        }
+      ]
+    },
+    {
+      "title": "Smile 2",
+      "trailer": "https://www.youtube.com/watch?v=OJxBa0nCf64",
+      "synopsis": "About to embark on a new world tour, global pop sensation Skye Riley (Naomi Scott) begins experiencing increasingly terrifying and inexplicable events. Overwhelmed by the escalating horrors and the pressures of fame, Skye is forced to face her dark past to regain control of her life before it spirals out of control.",
+      "runtime": 127,
+      "times": [
+        {
+          "starts_at": "2024-10-23T21:00:00+01:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-52324/"
+        },
+        {
+          "starts_at": "2024-10-23T20:45:00+01:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-75871/"
+        },
+        {
+          "starts_at": "2024-10-23T20:40:00+01:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-27538/"
+        }
+      ]
+    },
+    {
+      "title": "The Apprentice",
+      "trailer": "https://www.youtube.com/watch?v=bvPRxy9kmSg",
+      "synopsis": "The origins of Donald Trump are brought to life in a provocative, electrifying portrait of the man and his mentor, Roy Cohn – a notorious lawyer who will never let the truth get in the way of winning a fight. Sebastian Stan and Jeremy Strong star as Trump and Cohn respectively, with Maria Bakalova starring as Ivana Trump and acclaimed director\nAli Abbasi (Border, Holy Spider) bringing a unique perspective to this gripping, darkly funny tale of greed, power and the dark art of the deal.",
+      "runtime": 122,
+      "times": [
+        {
+          "starts_at": "2024-10-23T21:20:00+01:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-52325/"
+        },
+        {
+          "starts_at": "2024-10-23T20:45:00+01:00",
+          "site": "Curzon Soho",
+          "url": "https://www.curzon.com/ticketing/seats/SOH1-47079/"
+        },
+        {
+          "starts_at": "2024-10-23T20:30:00+01:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-76645/"
+        },
+        {
+          "starts_at": "2024-10-23T21:00:00+01:00",
+          "site": "Curzon Mayfair",
+          "url": "https://www.curzon.com/ticketing/seats/MAY1-28253/"
+        },
+        {
+          "starts_at": "2024-10-23T20:40:00+01:00",
+          "site": "Curzon Hoxton",
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-18719/"
+        },
+        {
+          "starts_at": "2024-10-23T21:00:00+01:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-28171/"
+        },
+        {
+          "starts_at": "2024-10-23T21:00:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-94283/"
         }
       ]
     },
@@ -233,34 +140,6 @@
           "starts_at": "2024-10-23T21:30:00+01:00",
           "site": "Curzon Soho",
           "url": "https://www.curzon.com/ticketing/seats/SOH1-47083/"
-        },
-        {
-          "starts_at": "2024-10-23T19:00:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-28291/"
-        }
-      ]
-    },
-    {
-      "title": "CURZON90: The Piano",
-      "trailer": null,
-      "synopsis": "A mute woman is sent to 1850s New Zealand along with her young daughter and prized piano for an arranged marriage to a wealthy landowner.",
-      "runtime": 116,
-      "times": [
-        {
-          "starts_at": "2024-10-23T18:00:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-74200/"
-        },
-        {
-          "starts_at": "2024-10-23T18:00:00+01:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-17200/"
-        },
-        {
-          "starts_at": "2024-10-23T18:00:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-25809/"
         }
       ]
     },
@@ -270,11 +149,6 @@
       "synopsis": "LEE tells the story of Lee Miller, American photographer. Determined to document the truth of the Nazi regime, and in spite of the odds stacked against female correspondents, Lee captured some of the most important images of World War II, for which she paid an enormous personal price.\nThe film is not a biopic, instead it explores the most significant decade of Lee Miller’s life. As a middle-aged woman, she refused to be remembered as a model and male artists’ muse. Lee Miller defied the expectations and rules of the time and travelled to Europe to report from the frontline. There, in part as a reaction to her own well-hidden trauma, she used her Rolleiflex camera to give a voice to the voiceless. What Lee captured on film in Dachau and\nthroughout Europe was shocking and horrific. Her photographs of the war, its victims and its consequences remain among the most significant and historically important of the Second World War. She changed war photography forever, but Lee paid an enormous personal price for what she witnessed and the stories she fought to tell.",
       "runtime": 117,
       "times": [
-        {
-          "starts_at": "2024-10-23T18:30:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-76770/"
-        },
         {
           "starts_at": "2024-10-23T21:15:00+01:00",
           "site": "Curzon Victoria",
@@ -288,11 +162,6 @@
       "synopsis": "The Wild Robot” follows Rozzum 7134 (“Roz” for short), a futuristic robot that washes ashore on a deserted island. A tale of survival and discovery begins when she becomes the unexpected protector to an orphaned gosling, which she names Brightbill. Together they struggle to survive the harsh environment, but only succeed with the help of a close-knit group of misfit animals, who become first friends, then family. Ultimately Roz and company save the island from a robotic invasion by Roz’s manufacturer, looking to bring her back to civilization by any means necessary.",
       "runtime": 102,
       "times": [
-        {
-          "starts_at": "2024-10-23T19:00:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-76769/"
-        },
         {
           "starts_at": "2024-10-23T21:30:00+01:00",
           "site": "Curzon Victoria",
@@ -332,19 +201,6 @@
       ]
     },
     {
-      "title": "The Remarkable Life of Ibelin",
-      "trailer": null,
-      "synopsis": "Mats Steen, a Norwegian gamer, died of a degenerative muscular disease at the age of 25. His parents mourned what they thought had been a lonely and isolated life, when they started receiving messages from online friends around the world.",
-      "runtime": 103,
-      "times": [
-        {
-          "starts_at": "2024-10-23T17:30:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-28292/"
-        }
-      ]
-    },
-    {
       "title": "A Different Man",
       "trailer": "https://www.youtube.com/watch?v=3gIgpbZKltg",
       "synopsis": "Aspiring actor Edward (Sebastian Stan) undergoes a radical medical procedure to drastically transform his appearance. But his new dream face quickly turns into a nightmare, as he loses out on the role he was born to play and becomes obsessed with reclaiming what was lost, in filmmaker Aaron Schimberg’s darkly funny New York noir.",
@@ -371,42 +227,11 @@
       ]
     },
     {
-      "title": "The Crime Is Mine",
-      "trailer": "https://www.youtube.com/watch?v=S7dxAEOMykI",
-      "synopsis": "Paris in the 1930s — a playground for industrial heirs and debonair architects, but the City of Lights does not shine evenly for all. Struggling actress Madeleine (Nadia Terezkiewicz) and her best friend Pauline (Rebecca Marder), an unemployed lawyer, live in a cramped flat and owe five months’ rent. Opportunity knocks after a lascivious theatrical producer who made an inappropriate advance towards Madeleine turns up dead. Madeleine stands trial for murder and ascends to decadent stardom, with Pauline serving as defense counsel and media circus ringmaster. A new life of fame, wealth, and tabloid celebrity awaits — until the truth comes out. Adapted from a 1934 play by Georges Berr and Louis Verneuil and featuring a murder’s row of a supporting cast including Isabelle Huppert, Dany Boon, and Fabrice Luchini, The Crime Is Mine is a rollicking farce and scabrous satire with a wily feminist edge from one of French cinema’s most chameleonic stylists, François Ozon\n",
-      "runtime": 103,
-      "times": [
-        {
-          "starts_at": "2024-10-23T18:10:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-94278/"
-        }
-      ]
-    },
-    {
-      "title": "DocHouse: Milisuthando",
-      "trailer": null,
-      "synopsis": "Artist-turned-filmmaker Milisuthando Bongela's personal essay traces her childhood in South Africa during apartheid - though she didn't know it was happening until it was over.\r\n\r\nShe lived in the Republic of Transkei, an unrecognised Black independent region established by the apartheid regime, creating the illusion for Black South Africans that separate could be equal. The fall of apartheid ushered in a new life, one that included – for the first time – whiteness.\r\n\r\nA deeply intimate portrait of past, present and future South Africa, blending poetry, film, and photography into a striking cinematic essay, MILISUTHANDO explores love, friendship, and belonging in a South Africa stratified by racism – proving that only if we understand its tentacles, can we begin to extricate ourselves from its clutches.",
-      "runtime": 128,
-      "times": [
-        {
-          "starts_at": "2024-10-23T18:30:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-93721/"
-        }
-      ]
-    },
-    {
       "title": "My Favourite Cake",
       "trailer": "https://www.youtube.com/watch?v=dN-hEYwqqZg",
       "synopsis": "The film follows 70-year-old Mahin (Lily Farhadpour), who has been living alone in Tehran for decades since her husband died and her daughter left for Europe. One afternoon, tea with friends leads her to reassess her life and choices; she decides to break her solitary routine and revitalise her love life. On a chance outing, where she witnesses an encounter between a woman and the morality police and decides to intervene, she comes across a lonely taxi driver called Esmail (Esmail Mehrabi).  A newfound determination and confidence propels her to approach him, and she invites him over to her house in a bid for connection. What follows is an unpredictable, unforgettable evening. \n",
       "runtime": 97,
       "times": [
-        {
-          "starts_at": "2024-10-23T18:40:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-94276/"
-        },
         {
           "starts_at": "2024-10-23T21:15:00+01:00",
           "site": "Curzon Bloomsbury",
