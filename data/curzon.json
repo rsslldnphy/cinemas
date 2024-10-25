@@ -1,45 +1,53 @@
 {
   "2024-10-25": [
     {
-      "title": "The Substance",
-      "trailer": null,
-      "synopsis": "Demi Moore gives a career-best performance as Elisabeth Sparkle, a former A-lister past her prime and suddenly fired from her fitness TV show by repellent studio head Harvey (Dennis Quaid). \n\nShe is then drawn to the opportunity presented by a mysterious new drug: THE SUBSTANCE. All it takes is one injection and she is reborn – temporarily – as the gorgeous, twentysomething Sue (Margaret Qualley). \n\nThe only rule? Time needs to be split: exactly one week in one body, then one week in the other. No exceptions. A perfect balance. What could go wrong?\n\nDeliriously entertaining and ruthlessly satirical, Coralie Fargeat’s Cannes sensation turns toxic beauty culture inside out with a be-careful-what-you-wish-for fable for the ages. Explosive, provocative and twisted, THE SUBSTANCE marks the arrival of a thrillingly visionary filmmaker.\n",
-      "runtime": 141,
+      "title": "The Wild Robot",
+      "trailer": "https://www.youtube.com/watch?v=N3oENyzAIiw",
+      "synopsis": "The Wild Robot” follows Rozzum 7134 (“Roz” for short), a futuristic robot that washes ashore on a deserted island. A tale of survival and discovery begins when she becomes the unexpected protector to an orphaned gosling, which she names Brightbill. Together they struggle to survive the harsh environment, but only succeed with the help of a close-knit group of misfit animals, who become first friends, then family. Ultimately Roz and company save the island from a robotic invasion by Roz’s manufacturer, looking to bring her back to civilization by any means necessary.",
+      "runtime": 102,
       "times": [
         {
-          "starts_at": "2024-10-25T13:50:00+01:00",
+          "starts_at": "2024-10-25T17:00:00+01:00",
           "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-52579/"
-        },
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-52578/"
+        }
+      ]
+    },
+    {
+      "title": "Emilia Pérez",
+      "trailer": null,
+      "synopsis": "From renegade auteur Jacques Audiard comes Emilia Pérez, an audacious fever dream that defies genres and expectations. Through liberating song and dance and bold visuals, this odyssey follows the journey of four remarkable women in Mexico, each pursuing their own happiness. The fearsome cartel leader Emilia (Karla Sofía Gascón) enlists Rita (Zoe Saldaña), an unappreciated lawyer stuck in a dead-end job, to help fake her death so that Emilia can finally live authentically as her true self. ",
+      "runtime": 132,
+      "times": [
         {
-          "starts_at": "2024-10-25T19:30:00+01:00",
+          "starts_at": "2024-10-25T17:20:00+01:00",
           "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-52495/"
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-52370/"
         },
         {
-          "starts_at": "2024-10-25T14:30:00+01:00",
+          "starts_at": "2024-10-25T21:00:00+01:00",
+          "site": "Curzon Soho",
+          "url": "https://www.curzon.com/ticketing/seats/SOH1-47100/"
+        },
+        {
+          "starts_at": "2024-10-25T17:45:00+01:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-76651/"
+        },
+        {
+          "starts_at": "2024-10-25T20:40:00+01:00",
           "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-18893/"
-        },
-        {
-          "starts_at": "2024-10-25T20:20:00+01:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-18888/"
-        },
-        {
-          "starts_at": "2024-10-25T14:40:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-28345/"
-        },
-        {
-          "starts_at": "2024-10-25T20:10:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-28335/"
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-18722/"
         },
         {
           "starts_at": "2024-10-25T20:30:00+01:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-28177/"
+        },
+        {
+          "starts_at": "2024-10-25T20:40:00+01:00",
           "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-94365/"
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-94157/"
         }
       ]
     },
@@ -50,11 +58,6 @@
       "runtime": 122,
       "times": [
         {
-          "starts_at": "2024-10-25T14:30:00+01:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-52491/"
-        },
-        {
           "starts_at": "2024-10-25T17:50:00+01:00",
           "site": "Curzon Aldgate",
           "url": "https://www.curzon.com/ticketing/seats/ALD1-52493/"
@@ -63,11 +66,6 @@
           "starts_at": "2024-10-25T20:20:00+01:00",
           "site": "Curzon Aldgate",
           "url": "https://www.curzon.com/ticketing/seats/ALD1-52371/"
-        },
-        {
-          "starts_at": "2024-10-25T14:40:00+01:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-47147/"
         },
         {
           "starts_at": "2024-10-25T17:50:00+01:00",
@@ -80,11 +78,6 @@
           "url": "https://www.curzon.com/ticketing/seats/SOH1-47144/"
         },
         {
-          "starts_at": "2024-10-25T15:30:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-76819/"
-        },
-        {
           "starts_at": "2024-10-25T18:15:00+01:00",
           "site": "Curzon Victoria",
           "url": "https://www.curzon.com/ticketing/seats/VIC1-76828/"
@@ -95,19 +88,9 @@
           "url": "https://www.curzon.com/ticketing/seats/VIC1-76817/"
         },
         {
-          "starts_at": "2024-10-25T15:00:00+01:00",
-          "site": "Curzon Mayfair",
-          "url": "https://www.curzon.com/ticketing/seats/MAY1-28265/"
-        },
-        {
           "starts_at": "2024-10-25T20:40:00+01:00",
           "site": "Curzon Mayfair",
           "url": "https://www.curzon.com/ticketing/seats/MAY1-28267/"
-        },
-        {
-          "starts_at": "2024-10-25T15:30:00+01:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-18891/"
         },
         {
           "starts_at": "2024-10-25T18:15:00+01:00",
@@ -120,11 +103,6 @@
           "url": "https://www.curzon.com/ticketing/seats/HOX1-18887/"
         },
         {
-          "starts_at": "2024-10-25T16:20:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-28342/"
-        },
-        {
           "starts_at": "2024-10-25T18:40:00+01:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-28344/"
@@ -133,11 +111,6 @@
           "starts_at": "2024-10-25T21:10:00+01:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-28339/"
-        },
-        {
-          "starts_at": "2024-10-25T15:15:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-94375/"
         },
         {
           "starts_at": "2024-10-25T17:50:00+01:00",
@@ -157,39 +130,11 @@
       ]
     },
     {
-      "title": "The Wild Robot",
-      "trailer": "https://www.youtube.com/watch?v=N3oENyzAIiw",
-      "synopsis": "The Wild Robot” follows Rozzum 7134 (“Roz” for short), a futuristic robot that washes ashore on a deserted island. A tale of survival and discovery begins when she becomes the unexpected protector to an orphaned gosling, which she names Brightbill. Together they struggle to survive the harsh environment, but only succeed with the help of a close-knit group of misfit animals, who become first friends, then family. Ultimately Roz and company save the island from a robotic invasion by Roz’s manufacturer, looking to bring her back to civilization by any means necessary.",
-      "runtime": 102,
-      "times": [
-        {
-          "starts_at": "2024-10-25T15:20:00+01:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-52576/"
-        },
-        {
-          "starts_at": "2024-10-25T17:00:00+01:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-52578/"
-        },
-        {
-          "starts_at": "2024-10-25T15:40:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-76829/"
-        }
-      ]
-    },
-    {
       "title": "Venom: The Last Dance",
       "trailer": "https://www.youtube.com/watch?v=-CZguYiFiBY",
       "synopsis": "In Venom: The Last Dance, Tom Hardy returns as Venom, one of Marvel’s greatest and most complex characters, for the final film in the trilogy. Eddie and Venom are on the run. Hunted by both of their worlds and with the net closing in, the duo are forced into a devastating decision that will bring the curtains down on Venom and Eddie's last dance.\r\n\r\nCONTENT WARNING: Contains a sequence of flashing lights which might affect customers who are susceptible to photosensitive epilepsy.",
       "runtime": 109,
       "times": [
-        {
-          "starts_at": "2024-10-25T15:40:00+01:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-52350/"
-        },
         {
           "starts_at": "2024-10-25T18:20:00+01:00",
           "site": "Curzon Aldgate",
@@ -199,11 +144,6 @@
           "starts_at": "2024-10-25T21:00:00+01:00",
           "site": "Curzon Aldgate",
           "url": "https://www.curzon.com/ticketing/seats/ALD1-52348/"
-        },
-        {
-          "starts_at": "2024-10-25T15:00:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-76822/"
         },
         {
           "starts_at": "2024-10-25T19:40:00+01:00",
@@ -218,60 +158,30 @@
       ]
     },
     {
-      "title": "Emilia Pérez",
+      "title": "The Substance",
       "trailer": null,
-      "synopsis": "From renegade auteur Jacques Audiard comes Emilia Pérez, an audacious fever dream that defies genres and expectations. Through liberating song and dance and bold visuals, this odyssey follows the journey of four remarkable women in Mexico, each pursuing their own happiness. The fearsome cartel leader Emilia (Karla Sofía Gascón) enlists Rita (Zoe Saldaña), an unappreciated lawyer stuck in a dead-end job, to help fake her death so that Emilia can finally live authentically as her true self. ",
-      "runtime": 132,
+      "synopsis": "Demi Moore gives a career-best performance as Elisabeth Sparkle, a former A-lister past her prime and suddenly fired from her fitness TV show by repellent studio head Harvey (Dennis Quaid). \n\nShe is then drawn to the opportunity presented by a mysterious new drug: THE SUBSTANCE. All it takes is one injection and she is reborn – temporarily – as the gorgeous, twentysomething Sue (Margaret Qualley). \n\nThe only rule? Time needs to be split: exactly one week in one body, then one week in the other. No exceptions. A perfect balance. What could go wrong?\n\nDeliriously entertaining and ruthlessly satirical, Coralie Fargeat’s Cannes sensation turns toxic beauty culture inside out with a be-careful-what-you-wish-for fable for the ages. Explosive, provocative and twisted, THE SUBSTANCE marks the arrival of a thrillingly visionary filmmaker.\n",
+      "runtime": 141,
       "times": [
         {
-          "starts_at": "2024-10-25T17:20:00+01:00",
+          "starts_at": "2024-10-25T19:30:00+01:00",
           "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-52370/"
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-52495/"
         },
         {
-          "starts_at": "2024-10-25T15:00:00+01:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-47101/"
-        },
-        {
-          "starts_at": "2024-10-25T21:00:00+01:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-47100/"
-        },
-        {
-          "starts_at": "2024-10-25T17:45:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-76651/"
-        },
-        {
-          "starts_at": "2024-10-25T15:00:00+01:00",
+          "starts_at": "2024-10-25T20:20:00+01:00",
           "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-18724/"
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-18888/"
         },
         {
-          "starts_at": "2024-10-25T20:40:00+01:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-18722/"
-        },
-        {
-          "starts_at": "2024-10-25T15:10:00+01:00",
+          "starts_at": "2024-10-25T20:10:00+01:00",
           "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-28333/"
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-28335/"
         },
         {
           "starts_at": "2024-10-25T20:30:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-28177/"
-        },
-        {
-          "starts_at": "2024-10-25T14:50:00+01:00",
           "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-94371/"
-        },
-        {
-          "starts_at": "2024-10-25T20:40:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-94157/"
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-94365/"
         }
       ]
     },
@@ -295,11 +205,6 @@
       "runtime": 107,
       "times": [
         {
-          "starts_at": "2024-10-25T15:20:00+01:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-47148/"
-        },
-        {
           "starts_at": "2024-10-25T18:20:00+01:00",
           "site": "Curzon Soho",
           "url": "https://www.curzon.com/ticketing/seats/SOH1-47099/"
@@ -310,11 +215,6 @@
           "url": "https://www.curzon.com/ticketing/seats/SOH1-47146/"
         },
         {
-          "starts_at": "2024-10-25T15:20:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-76652/"
-        },
-        {
           "starts_at": "2024-10-25T18:00:00+01:00",
           "site": "Curzon Victoria",
           "url": "https://www.curzon.com/ticketing/seats/VIC1-76648/"
@@ -323,11 +223,6 @@
           "starts_at": "2024-10-25T20:30:00+01:00",
           "site": "Curzon Victoria",
           "url": "https://www.curzon.com/ticketing/seats/VIC1-76649/"
-        },
-        {
-          "starts_at": "2024-10-25T15:40:00+01:00",
-          "site": "Curzon Mayfair",
-          "url": "https://www.curzon.com/ticketing/seats/MAY1-28270/"
         },
         {
           "starts_at": "2024-10-25T18:00:00+01:00",
@@ -345,11 +240,6 @@
           "url": "https://www.curzon.com/ticketing/seats/HOX1-18723/"
         },
         {
-          "starts_at": "2024-10-25T15:50:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-28175/"
-        },
-        {
           "starts_at": "2024-10-25T18:20:00+01:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-28174/"
@@ -358,11 +248,6 @@
           "starts_at": "2024-10-25T20:50:00+01:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-28173/"
-        },
-        {
-          "starts_at": "2024-10-25T15:30:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-94136/"
         },
         {
           "starts_at": "2024-10-25T18:15:00+01:00",
@@ -382,11 +267,6 @@
       "synopsis": "LEE tells the story of Lee Miller, American photographer. Determined to document the truth of the Nazi regime, and in spite of the odds stacked against female correspondents, Lee captured some of the most important images of World War II, for which she paid an enormous personal price.\nThe film is not a biopic, instead it explores the most significant decade of Lee Miller’s life. As a middle-aged woman, she refused to be remembered as a model and male artists’ muse. Lee Miller defied the expectations and rules of the time and travelled to Europe to report from the frontline. There, in part as a reaction to her own well-hidden trauma, she used her Rolleiflex camera to give a voice to the voiceless. What Lee captured on film in Dachau and\nthroughout Europe was shocking and horrific. Her photographs of the war, its victims and its consequences remain among the most significant and historically important of the Second World War. She changed war photography forever, but Lee paid an enormous personal price for what she witnessed and the stories she fought to tell.",
       "runtime": 117,
       "times": [
-        {
-          "starts_at": "2024-10-25T14:20:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-76820/"
-        },
         {
           "starts_at": "2024-10-25T17:00:00+01:00",
           "site": "Curzon Victoria",
@@ -409,11 +289,6 @@
           "starts_at": "2024-10-25T18:30:00+01:00",
           "site": "Curzon Mayfair",
           "url": "https://www.curzon.com/ticketing/seats/MAY1-28266/"
-        },
-        {
-          "starts_at": "2024-10-25T13:50:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-94364/"
         }
       ]
     },
@@ -429,11 +304,6 @@
           "url": "https://www.curzon.com/ticketing/seats/HOX1-18889/"
         },
         {
-          "starts_at": "2024-10-25T14:40:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-94377/"
-        },
-        {
           "starts_at": "2024-10-25T17:40:00+01:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-94373/"
@@ -442,24 +312,6 @@
           "starts_at": "2024-10-25T21:10:00+01:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-94367/"
-        }
-      ]
-    },
-    {
-      "title": "A Different Man",
-      "trailer": "https://www.youtube.com/watch?v=3gIgpbZKltg",
-      "synopsis": "Aspiring actor Edward (Sebastian Stan) undergoes a radical medical procedure to drastically transform his appearance. But his new dream face quickly turns into a nightmare, as he loses out on the role he was born to play and becomes obsessed with reclaiming what was lost, in filmmaker Aaron Schimberg’s darkly funny New York noir.",
-      "runtime": 112,
-      "times": [
-        {
-          "starts_at": "2024-10-25T14:00:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-28340/"
-        },
-        {
-          "starts_at": "2024-10-25T18:00:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-28337/"
         }
       ]
     },
@@ -495,6 +347,19 @@
       ]
     },
     {
+      "title": "A Different Man",
+      "trailer": "https://www.youtube.com/watch?v=3gIgpbZKltg",
+      "synopsis": "Aspiring actor Edward (Sebastian Stan) undergoes a radical medical procedure to drastically transform his appearance. But his new dream face quickly turns into a nightmare, as he loses out on the role he was born to play and becomes obsessed with reclaiming what was lost, in filmmaker Aaron Schimberg’s darkly funny New York noir.",
+      "runtime": 112,
+      "times": [
+        {
+          "starts_at": "2024-10-25T18:00:00+01:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-28337/"
+        }
+      ]
+    },
+    {
       "title": "Dahomey",
       "trailer": null,
       "synopsis": "From acclaimed filmmaker Mati Diop (Atlantics), DAHOMEY is a poetic and immersive work of art that delves into real perspectives on far-reaching issues surrounding appropriation, self-determination and restitution. Set in November 2021, the documentary charts 26 royal treasures from the Kingdom of Dahomey that are due to leave Paris and return to their country of origin: the present-day Republic of Benin. Using multiple perspectives Diop questions how these artifacts should be received in a country that has reinvented itself in their absence. Winner of the coveted Golden Bear prize at the 2024 Berlinale, DAHOMEY is an affecting though altogether singular conversation piece that is as spellbinding as it is essential. ",
@@ -508,16 +373,24 @@
       ]
     },
     {
+      "title": "DocHouse: A Sudden Glimpse To Deeper Things",
+      "trailer": null,
+      "synopsis": "Mark Cousins explores the life and work of Scottish painter Wilhelmina Barns-Graham, telling the story of a remarkable artist and a magnificent obsession.\r\n\r\nBorn and raised in St Andrews, Barns-Graham was a member of the St Ives group of modernist artists, who lived in the Cornish seaside town from the Second World War onwards. One day in 1949, she climbed a Swiss glacier, and the profoundly transformative experience changed her and her art forever.\r\n\r\nThrough a cinematic immersion into her art and life, Cousins explores themes of gender, neurodiversity, climate change, and the nature of creativity from youth to old age.",
+      "runtime": 88,
+      "times": [
+        {
+          "starts_at": "2024-10-25T16:30:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-94492/"
+        }
+      ]
+    },
+    {
       "title": "DocHouse: Dahomey",
       "trailer": null,
       "synopsis": "26 royal treasures from the Kingdom of Dahomey are leaving Paris to return to their country of origin, the present-day Republic of Benin. Acclaimed filmmaker Mati Diop (ATLANTICS) charts their journey of homecoming, questioning how these artefacts should be received in a country that has reinvented itself in their absence.\r\n\r\nWinner of the Golden Bear at the 2024 Berlinale, DAHOMEY is singular and immersive work, shifting through perspectives on issues surrounding appropriation, self-determination and restitution - as spellbinding as it is essential.",
       "runtime": 68,
       "times": [
-        {
-          "starts_at": "2024-10-25T15:00:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-94491/"
-        },
         {
           "starts_at": "2024-10-25T18:30:00+01:00",
           "site": "Curzon Bloomsbury",
@@ -532,27 +405,9 @@
       "runtime": 97,
       "times": [
         {
-          "starts_at": "2024-10-25T16:20:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-94370/"
-        },
-        {
           "starts_at": "2024-10-25T18:40:00+01:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-94366/"
-        }
-      ]
-    },
-    {
-      "title": "DocHouse: A Sudden Glimpse To Deeper Things",
-      "trailer": null,
-      "synopsis": "Mark Cousins explores the life and work of Scottish painter Wilhelmina Barns-Graham, telling the story of a remarkable artist and a magnificent obsession.\r\n\r\nBorn and raised in St Andrews, Barns-Graham was a member of the St Ives group of modernist artists, who lived in the Cornish seaside town from the Second World War onwards. One day in 1949, she climbed a Swiss glacier, and the profoundly transformative experience changed her and her art forever.\r\n\r\nThrough a cinematic immersion into her art and life, Cousins explores themes of gender, neurodiversity, climate change, and the nature of creativity from youth to old age.",
-      "runtime": 88,
-      "times": [
-        {
-          "starts_at": "2024-10-25T16:30:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-94492/"
         }
       ]
     },
@@ -1096,19 +951,6 @@
           "starts_at": "2024-10-26T15:00:00+01:00",
           "site": "Curzon Victoria",
           "url": "https://www.curzon.com/ticketing/seats/VIC1-76148/"
-        }
-      ]
-    },
-    {
-      "title": "Hit Man",
-      "trailer": "https://www.youtube.com/watch?v=pMVLQfHj6SY",
-      "synopsis": "From Academy Award-nominated writer/director Richard Linklater, co-written and starring Glen Powell alongside Adria Arjona, comes HIT MAN. Inspired by an unbelievable true story, a hit man meets his match in a client who steals his heart and ignites a powder keg of deception, delight, and mixed-up identities.",
-      "runtime": 115,
-      "times": [
-        {
-          "starts_at": "2024-10-26T14:30:00+01:00",
-          "site": "Curzon Mayfair",
-          "url": "https://www.curzon.com/ticketing/seats/MAY1-28262/"
         }
       ]
     },
