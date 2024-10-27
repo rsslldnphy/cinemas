@@ -1,43 +1,58 @@
 {
   "2024-10-27": [
     {
-      "title": "Whitney Houston: Concert for a New South Africa",
-      "trailer": "https://www.youtube.com/watch?v=Ramnc86JgbQ",
-      "synopsis": "In 1994, Whitney Houston took the stage in Durban, South Africa, making her the first major Western musician to visit the newly unified, post-apartheid nation following President Nelson Mandela’s winning election. This performance was more than a concert; it was a celebration of freedom, hope, and unity. Whitney’s powerhouse voice and emotional delivery brought joy and inspiration to a country newly liberated.\n \nNow, 30 years after the historic visit, The Concert for a New South Africa (Durban) comes to the big screen for the first time. Digitally remastered in 4K and featuring newly-enhanced audio, the film captures every note, every cheer, every tear, immortalizing a night that transcended music and became a beacon of change and celebration.\n",
-      "runtime": 117,
-      "times": [
-        {
-          "starts_at": "2024-10-27T14:00:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-51708/"
-        },
-        {
-          "starts_at": "2024-10-27T14:00:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-27548/"
-        }
-      ]
-    },
-    {
       "title": "The Wild Robot",
       "trailer": "https://www.youtube.com/watch?v=N3oENyzAIiw",
       "synopsis": "The Wild Robot” follows Rozzum 7134 (“Roz” for short), a futuristic robot that washes ashore on a deserted island. A tale of survival and discovery begins when she becomes the unexpected protector to an orphaned gosling, which she names Brightbill. Together they struggle to survive the harsh environment, but only succeed with the help of a close-knit group of misfit animals, who become first friends, then family. Ultimately Roz and company save the island from a robotic invasion by Roz’s manufacturer, looking to bring her back to civilization by any means necessary.",
       "runtime": 102,
       "times": [
         {
-          "starts_at": "2024-10-27T14:20:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-52596/"
-        },
-        {
           "starts_at": "2024-10-27T16:40:00+00:00",
           "site": "Curzon Aldgate",
           "url": "https://www.curzon.com/ticketing/seats/ALD1-52594/"
+        }
+      ]
+    },
+    {
+      "title": "Emilia Pérez",
+      "trailer": null,
+      "synopsis": "From renegade auteur Jacques Audiard comes Emilia Pérez, an audacious fever dream that defies genres and expectations. Through liberating song and dance and bold visuals, this odyssey follows the journey of four remarkable women in Mexico, each pursuing their own happiness. The fearsome cartel leader Emilia (Karla Sofía Gascón) enlists Rita (Zoe Saldaña), an unappreciated lawyer stuck in a dead-end job, to help fake her death so that Emilia can finally live authentically as her true self. ",
+      "runtime": 132,
+      "times": [
+        {
+          "starts_at": "2024-10-27T17:00:00+00:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-52373/"
         },
         {
-          "starts_at": "2024-10-27T14:30:00+00:00",
+          "starts_at": "2024-10-27T20:00:00+00:00",
+          "site": "Curzon Soho",
+          "url": "https://www.curzon.com/ticketing/seats/SOH1-47115/"
+        },
+        {
+          "starts_at": "2024-10-27T17:15:00+00:00",
           "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-76849/"
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-76666/"
+        },
+        {
+          "starts_at": "2024-10-27T19:45:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-76855/"
+        },
+        {
+          "starts_at": "2024-10-27T20:20:00+00:00",
+          "site": "Curzon Hoxton",
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-18733/"
+        },
+        {
+          "starts_at": "2024-10-27T20:00:00+00:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-28189/"
+        },
+        {
+          "starts_at": "2024-10-27T20:10:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-94159/"
         }
       ]
     },
@@ -48,11 +63,6 @@
       "runtime": 122,
       "times": [
         {
-          "starts_at": "2024-10-27T14:40:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-52514/"
-        },
-        {
           "starts_at": "2024-10-27T17:30:00+00:00",
           "site": "Curzon Aldgate",
           "url": "https://www.curzon.com/ticketing/seats/ALD1-52515/"
@@ -61,11 +71,6 @@
           "starts_at": "2024-10-27T20:00:00+00:00",
           "site": "Curzon Aldgate",
           "url": "https://www.curzon.com/ticketing/seats/ALD1-52513/"
-        },
-        {
-          "starts_at": "2024-10-27T14:50:00+00:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-47153/"
         },
         {
           "starts_at": "2024-10-27T17:40:00+00:00",
@@ -78,11 +83,6 @@
           "url": "https://www.curzon.com/ticketing/seats/SOH1-47155/"
         },
         {
-          "starts_at": "2024-10-27T15:15:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-76670/"
-        },
-        {
           "starts_at": "2024-10-27T18:00:00+00:00",
           "site": "Curzon Victoria",
           "url": "https://www.curzon.com/ticketing/seats/VIC1-76857/"
@@ -93,19 +93,9 @@
           "url": "https://www.curzon.com/ticketing/seats/VIC1-76667/"
         },
         {
-          "starts_at": "2024-10-27T14:15:00+00:00",
-          "site": "Curzon Mayfair",
-          "url": "https://www.curzon.com/ticketing/seats/MAY1-28282/"
-        },
-        {
           "starts_at": "2024-10-27T20:00:00+00:00",
           "site": "Curzon Mayfair",
           "url": "https://www.curzon.com/ticketing/seats/MAY1-28280/"
-        },
-        {
-          "starts_at": "2024-10-27T15:10:00+00:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-18909/"
         },
         {
           "starts_at": "2024-10-27T18:00:00+00:00",
@@ -118,16 +108,6 @@
           "url": "https://www.curzon.com/ticketing/seats/HOX1-18905/"
         },
         {
-          "starts_at": "2024-10-27T12:30:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-28370/"
-        },
-        {
-          "starts_at": "2024-10-27T15:30:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-28366/"
-        },
-        {
           "starts_at": "2024-10-27T18:10:00+00:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-28372/"
@@ -136,11 +116,6 @@
           "starts_at": "2024-10-27T20:40:00+00:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-28375/"
-        },
-        {
-          "starts_at": "2024-10-27T15:10:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-94408/"
         },
         {
           "starts_at": "2024-10-27T17:50:00+00:00",
@@ -166,11 +141,6 @@
       "runtime": 109,
       "times": [
         {
-          "starts_at": "2024-10-27T15:20:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-52357/"
-        },
-        {
           "starts_at": "2024-10-27T18:00:00+00:00",
           "site": "Curzon Aldgate",
           "url": "https://www.curzon.com/ticketing/seats/ALD1-52356/"
@@ -181,16 +151,6 @@
           "url": "https://www.curzon.com/ticketing/seats/ALD1-52355/"
         },
         {
-          "starts_at": "2024-10-27T12:30:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-76851/"
-        },
-        {
-          "starts_at": "2024-10-27T14:15:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-76848/"
-        },
-        {
           "starts_at": "2024-10-27T17:00:00+00:00",
           "site": "Curzon Victoria",
           "url": "https://www.curzon.com/ticketing/seats/VIC1-76856/"
@@ -199,69 +159,6 @@
           "starts_at": "2024-10-27T20:15:00+00:00",
           "site": "Curzon Victoria",
           "url": "https://www.curzon.com/ticketing/seats/VIC1-76853/"
-        }
-      ]
-    },
-    {
-      "title": "Emilia Pérez",
-      "trailer": null,
-      "synopsis": "From renegade auteur Jacques Audiard comes Emilia Pérez, an audacious fever dream that defies genres and expectations. Through liberating song and dance and bold visuals, this odyssey follows the journey of four remarkable women in Mexico, each pursuing their own happiness. The fearsome cartel leader Emilia (Karla Sofía Gascón) enlists Rita (Zoe Saldaña), an unappreciated lawyer stuck in a dead-end job, to help fake her death so that Emilia can finally live authentically as her true self. ",
-      "runtime": 132,
-      "times": [
-        {
-          "starts_at": "2024-10-27T17:00:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-52373/"
-        },
-        {
-          "starts_at": "2024-10-27T14:20:00+00:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-47113/"
-        },
-        {
-          "starts_at": "2024-10-27T20:00:00+00:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-47115/"
-        },
-        {
-          "starts_at": "2024-10-27T17:15:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-76666/"
-        },
-        {
-          "starts_at": "2024-10-27T19:45:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-76855/"
-        },
-        {
-          "starts_at": "2024-10-27T14:40:00+00:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-18730/"
-        },
-        {
-          "starts_at": "2024-10-27T20:20:00+00:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-18733/"
-        },
-        {
-          "starts_at": "2024-10-27T14:40:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-28367/"
-        },
-        {
-          "starts_at": "2024-10-27T20:00:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-28189/"
-        },
-        {
-          "starts_at": "2024-10-27T14:40:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-94397/"
-        },
-        {
-          "starts_at": "2024-10-27T20:10:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-94159/"
         }
       ]
     },
@@ -282,19 +179,9 @@
           "url": "https://www.curzon.com/ticketing/seats/SOH1-47157/"
         },
         {
-          "starts_at": "2024-10-27T14:10:00+00:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-18902/"
-        },
-        {
           "starts_at": "2024-10-27T20:00:00+00:00",
           "site": "Curzon Hoxton",
           "url": "https://www.curzon.com/ticketing/seats/HOX1-18906/"
-        },
-        {
-          "starts_at": "2024-10-27T14:10:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-28368/"
         },
         {
           "starts_at": "2024-10-27T19:40:00+00:00",
@@ -328,11 +215,6 @@
       "runtime": 107,
       "times": [
         {
-          "starts_at": "2024-10-27T14:00:00+00:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-47159/"
-        },
-        {
           "starts_at": "2024-10-27T17:20:00+00:00",
           "site": "Curzon Soho",
           "url": "https://www.curzon.com/ticketing/seats/SOH1-47114/"
@@ -341,11 +223,6 @@
           "starts_at": "2024-10-27T20:20:00+00:00",
           "site": "Curzon Soho",
           "url": "https://www.curzon.com/ticketing/seats/SOH1-47158/"
-        },
-        {
-          "starts_at": "2024-10-27T14:45:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-76665/"
         },
         {
           "starts_at": "2024-10-27T17:30:00+00:00",
@@ -373,16 +250,6 @@
           "url": "https://www.curzon.com/ticketing/seats/HOX1-18732/"
         },
         {
-          "starts_at": "2024-10-27T12:50:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-28185/"
-        },
-        {
-          "starts_at": "2024-10-27T15:20:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-28186/"
-        },
-        {
           "starts_at": "2024-10-27T17:50:00+00:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-28187/"
@@ -391,16 +258,6 @@
           "starts_at": "2024-10-27T20:20:00+00:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-28190/"
-        },
-        {
-          "starts_at": "2024-10-27T12:30:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-94141/"
-        },
-        {
-          "starts_at": "2024-10-27T15:00:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-94142/"
         },
         {
           "starts_at": "2024-10-27T17:40:00+00:00",
@@ -421,11 +278,6 @@
       "runtime": 117,
       "times": [
         {
-          "starts_at": "2024-10-27T15:00:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-76850/"
-        },
-        {
           "starts_at": "2024-10-27T17:45:00+00:00",
           "site": "Curzon Victoria",
           "url": "https://www.curzon.com/ticketing/seats/VIC1-76847/"
@@ -434,19 +286,6 @@
           "starts_at": "2024-10-27T20:30:00+00:00",
           "site": "Curzon Victoria",
           "url": "https://www.curzon.com/ticketing/seats/VIC1-76854/"
-        }
-      ]
-    },
-    {
-      "title": "Black History Month: Belle",
-      "trailer": null,
-      "synopsis": "Inspired by the true story of Dido Elizabeth Belle, this powerful film stars Gugu Mbatha-Raw as the mixed-race daughter of a British Navy officer raised by her wealthy great-uncle and his wife. Although racism prevents her from enjoying the full advantages of her upbringing, Belle’s love for an idealistic young man sparks change that may impact generations to come.",
-      "runtime": 104,
-      "times": [
-        {
-          "starts_at": "2024-10-27T14:00:00+00:00",
-          "site": "Curzon Mayfair",
-          "url": "https://www.curzon.com/ticketing/seats/MAY1-28047/"
         }
       ]
     },
@@ -460,11 +299,6 @@
           "starts_at": "2024-10-27T17:00:00+00:00",
           "site": "Curzon Mayfair",
           "url": "https://www.curzon.com/ticketing/seats/MAY1-28281/"
-        },
-        {
-          "starts_at": "2024-10-27T13:25:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-94488/"
         }
       ]
     },
@@ -478,11 +312,6 @@
           "starts_at": "2024-10-27T17:20:00+00:00",
           "site": "Curzon Hoxton",
           "url": "https://www.curzon.com/ticketing/seats/HOX1-18908/"
-        },
-        {
-          "starts_at": "2024-10-27T14:30:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-94406/"
         },
         {
           "starts_at": "2024-10-27T17:20:00+00:00",
@@ -554,42 +383,6 @@
       ]
     },
     {
-      "title": "DocHouse: Dahomey",
-      "trailer": null,
-      "synopsis": "26 royal treasures from the Kingdom of Dahomey are leaving Paris to return to their country of origin, the present-day Republic of Benin. Acclaimed filmmaker Mati Diop (ATLANTICS) charts their journey of homecoming, questioning how these artefacts should be received in a country that has reinvented itself in their absence.\r\n\r\nWinner of the Golden Bear at the 2024 Berlinale, DAHOMEY is singular and immersive work, shifting through perspectives on issues surrounding appropriation, self-determination and restitution - as spellbinding as it is essential.",
-      "runtime": 68,
-      "times": [
-        {
-          "starts_at": "2024-10-27T12:40:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-94496/"
-        },
-        {
-          "starts_at": "2024-10-27T18:00:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-93724/"
-        }
-      ]
-    },
-    {
-      "title": "DocHouse: Black Box Diaries",
-      "trailer": null,
-      "synopsis": "Journalist Shiori Ito documents her courageous investigation into her own sexual assault, after Japanese police refuse to take forward her report of rape by a high-profile, well-connected public figure.\r\n\r\nTenaciously, Shiori gathers evidence and testimony, fighting to bring about a prosecution and exposing Japan's outdated judicial and societal systems.\r\n\r\nAs both subject and director of this essential film, Shiori determinedly takes control of her own narrative.\r\n",
-      "runtime": 104,
-      "times": [
-        {
-          "starts_at": "2024-10-27T14:10:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-94497/"
-        },
-        {
-          "starts_at": "2024-10-27T19:30:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-93729/"
-        }
-      ]
-    },
-    {
       "title": "My Favourite Cake",
       "trailer": "https://www.youtube.com/watch?v=dN-hEYwqqZg",
       "synopsis": "The film follows 70-year-old Mahin (Lily Farhadpour), who has been living alone in Tehran for decades since her husband died and her daughter left for Europe. One afternoon, tea with friends leads her to reassess her life and choices; she decides to break her solitary routine and revitalise her love life. On a chance outing, where she witnesses an encounter between a woman and the morality police and decides to intervene, she comes across a lonely taxi driver called Esmail (Esmail Mehrabi).  A newfound determination and confidence propels her to approach him, and she invites him over to her house in a bid for connection. What follows is an unpredictable, unforgettable evening. \n",
@@ -617,6 +410,32 @@
           "starts_at": "2024-10-27T16:10:00+00:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-94498/"
+        }
+      ]
+    },
+    {
+      "title": "DocHouse: Dahomey",
+      "trailer": null,
+      "synopsis": "26 royal treasures from the Kingdom of Dahomey are leaving Paris to return to their country of origin, the present-day Republic of Benin. Acclaimed filmmaker Mati Diop (ATLANTICS) charts their journey of homecoming, questioning how these artefacts should be received in a country that has reinvented itself in their absence.\r\n\r\nWinner of the Golden Bear at the 2024 Berlinale, DAHOMEY is singular and immersive work, shifting through perspectives on issues surrounding appropriation, self-determination and restitution - as spellbinding as it is essential.",
+      "runtime": 68,
+      "times": [
+        {
+          "starts_at": "2024-10-27T18:00:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-93724/"
+        }
+      ]
+    },
+    {
+      "title": "DocHouse: Black Box Diaries",
+      "trailer": null,
+      "synopsis": "Journalist Shiori Ito documents her courageous investigation into her own sexual assault, after Japanese police refuse to take forward her report of rape by a high-profile, well-connected public figure.\r\n\r\nTenaciously, Shiori gathers evidence and testimony, fighting to bring about a prosecution and exposing Japan's outdated judicial and societal systems.\r\n\r\nAs both subject and director of this essential film, Shiori determinedly takes control of her own narrative.\r\n",
+      "runtime": 104,
+      "times": [
+        {
+          "starts_at": "2024-10-27T19:30:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-93729/"
         }
       ]
     }
