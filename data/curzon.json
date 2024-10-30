@@ -1,52 +1,6 @@
 {
   "2024-10-30": [
     {
-      "title": "Venom: The Last Dance",
-      "trailer": "https://www.youtube.com/watch?v=-CZguYiFiBY",
-      "synopsis": "In Venom: The Last Dance, Tom Hardy returns as Venom, one of Marvel’s greatest and most complex characters, for the final film in the trilogy. Eddie and Venom are on the run. Hunted by both of their worlds and with the net closing in, the duo are forced into a devastating decision that will bring the curtains down on Venom and Eddie's last dance.\r\n\r\nCONTENT WARNING: Contains a sequence of flashing lights which might affect customers who are susceptible to photosensitive epilepsy.",
-      "runtime": 109,
-      "times": [
-        {
-          "starts_at": "2024-10-30T18:40:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-52365/"
-        },
-        {
-          "starts_at": "2024-10-30T21:20:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-52364/"
-        },
-        {
-          "starts_at": "2024-10-30T18:30:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-76879/"
-        },
-        {
-          "starts_at": "2024-10-30T21:15:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-76878/"
-        }
-      ]
-    },
-    {
-      "title": "The Substance",
-      "trailer": null,
-      "synopsis": "Demi Moore gives a career-best performance as Elisabeth Sparkle, a former A-lister past her prime and suddenly fired from her fitness TV show by repellent studio head Harvey (Dennis Quaid). \n\nShe is then drawn to the opportunity presented by a mysterious new drug: THE SUBSTANCE. All it takes is one injection and she is reborn – temporarily – as the gorgeous, twentysomething Sue (Margaret Qualley). \n\nThe only rule? Time needs to be split: exactly one week in one body, then one week in the other. No exceptions. A perfect balance. What could go wrong?\n\nDeliriously entertaining and ruthlessly satirical, Coralie Fargeat’s Cannes sensation turns toxic beauty culture inside out with a be-careful-what-you-wish-for fable for the ages. Explosive, provocative and twisted, THE SUBSTANCE marks the arrival of a thrillingly visionary filmmaker.\n",
-      "runtime": 141,
-      "times": [
-        {
-          "starts_at": "2024-10-30T20:20:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-52559/"
-        },
-        {
-          "starts_at": "2024-10-30T20:40:00+00:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-47186/"
-        }
-      ]
-    },
-    {
       "title": "Anora",
       "trailer": null,
       "synopsis": "Anora, a young sex worker from Brooklyn, meets and impulsively marries the son of an oligarch. Once the news reaches Russia, her fairytale is threatened as the parents set out for New York to get the marriage annulled.",
@@ -96,11 +50,6 @@
           "url": "https://www.curzon.com/ticketing/seats/HOX1-18925/"
         },
         {
-          "starts_at": "2024-10-30T18:40:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-28416/"
-        },
-        {
           "starts_at": "2024-10-30T21:10:00+00:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-28414/"
@@ -109,6 +58,37 @@
           "starts_at": "2024-10-30T20:30:00+00:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-94444/"
+        }
+      ]
+    },
+    {
+      "title": "Venom: The Last Dance",
+      "trailer": "https://www.youtube.com/watch?v=-CZguYiFiBY",
+      "synopsis": "In Venom: The Last Dance, Tom Hardy returns as Venom, one of Marvel’s greatest and most complex characters, for the final film in the trilogy. Eddie and Venom are on the run. Hunted by both of their worlds and with the net closing in, the duo are forced into a devastating decision that will bring the curtains down on Venom and Eddie's last dance.\r\n\r\nCONTENT WARNING: Contains a sequence of flashing lights which might affect customers who are susceptible to photosensitive epilepsy.",
+      "runtime": 109,
+      "times": [
+        {
+          "starts_at": "2024-10-30T21:20:00+00:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-52364/"
+        },
+        {
+          "starts_at": "2024-10-30T21:15:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-76878/"
+        }
+      ]
+    },
+    {
+      "title": "The Substance",
+      "trailer": null,
+      "synopsis": "Demi Moore gives a career-best performance as Elisabeth Sparkle, a former A-lister past her prime and suddenly fired from her fitness TV show by repellent studio head Harvey (Dennis Quaid). \n\nShe is then drawn to the opportunity presented by a mysterious new drug: THE SUBSTANCE. All it takes is one injection and she is reborn – temporarily – as the gorgeous, twentysomething Sue (Margaret Qualley). \n\nThe only rule? Time needs to be split: exactly one week in one body, then one week in the other. No exceptions. A perfect balance. What could go wrong?\n\nDeliriously entertaining and ruthlessly satirical, Coralie Fargeat’s Cannes sensation turns toxic beauty culture inside out with a be-careful-what-you-wish-for fable for the ages. Explosive, provocative and twisted, THE SUBSTANCE marks the arrival of a thrillingly visionary filmmaker.\n",
+      "runtime": 141,
+      "times": [
+        {
+          "starts_at": "2024-10-30T20:40:00+00:00",
+          "site": "Curzon Soho",
+          "url": "https://www.curzon.com/ticketing/seats/SOH1-47186/"
         }
       ]
     },
@@ -146,24 +126,6 @@
       ]
     },
     {
-      "title": "English National Ballet: Swan Lake",
-      "trailer": null,
-      "synopsis": "English National Ballet’s Swan Lake in-the-round is coming to the big screen to celebrate the Company’s 75th Season, giving you the chance to experience the splendour of ballet on a grand scale. Derek Deane’s stunning in-the-round production has been enjoyed by over 500,000 people worldwide and offers an unmissable 360° view of one of the most popular ballets of all time. With 60 swans, exquisite choreography and Tchaikovsky’s unforgettable score played live by English National Ballet Philharmonic, this film will take you to the very heart of this ‘truly awe-inspiring’ (★★★★ The Telegraph) classic.\n \nFeaturing Lead Principal Sangeun Lee as Odette/Odile and Principal Gareth Haw as Prince Siegfried, this production captures all the magic of the beloved ballet. From the breath-taking spectacle of shimmering swans moving in unison, to the captivating romance between Prince Siegfried and the Swan Queen Odette, this is cinema bursting with beauty, passion and betrayal.\n \nFilmed live at the Royal Albert Hall, this special cinema event includes never-seen-before overhead angles, giving you an aerial view of the genius choreography. Combining exceptional artistry, gorgeous spectacle and compelling drama, Swan Lake in-the-round is a cinematic masterpiece that will enthral and delight.\n",
-      "runtime": 162,
-      "times": [
-        {
-          "starts_at": "2024-10-30T19:00:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-75835/"
-        },
-        {
-          "starts_at": "2024-10-30T19:00:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-27485/"
-        }
-      ]
-    },
-    {
       "title": "Emilia Pérez",
       "trailer": null,
       "synopsis": "From renegade auteur Jacques Audiard comes Emilia Pérez, an audacious fever dream that defies genres and expectations. Through liberating song and dance and bold visuals, this odyssey follows the journey of four remarkable women in Mexico, each pursuing their own happiness. The fearsome cartel leader Emilia (Karla Sofía Gascón) enlists Rita (Zoe Saldaña), an unappreciated lawyer stuck in a dead-end job, to help fake her death so that Emilia can finally live authentically as her true self. ",
@@ -183,11 +145,6 @@
           "starts_at": "2024-10-30T20:30:00+00:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-28209/"
-        },
-        {
-          "starts_at": "2024-10-30T20:20:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-94162/"
         }
       ]
     },
@@ -205,19 +162,6 @@
       ]
     },
     {
-      "title": "Dahomey",
-      "trailer": null,
-      "synopsis": "From acclaimed filmmaker Mati Diop (Atlantics), DAHOMEY is a poetic and immersive work of art that delves into real perspectives on far-reaching issues surrounding appropriation, self-determination and restitution. Set in November 2021, the documentary charts 26 royal treasures from the Kingdom of Dahomey that are due to leave Paris and return to their country of origin: the present-day Republic of Benin. Using multiple perspectives Diop questions how these artifacts should be received in a country that has reinvented itself in their absence. Winner of the coveted Golden Bear prize at the 2024 Berlinale, DAHOMEY is an affecting though altogether singular conversation piece that is as spellbinding as it is essential. ",
-      "runtime": 68,
-      "times": [
-        {
-          "starts_at": "2024-10-30T19:20:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-28415/"
-        }
-      ]
-    },
-    {
       "title": "My Old Ass",
       "trailer": "https://www.youtube.com/watch?v=vcBoj2FLt_c",
       "synopsis": "Elliott Labrant, who has been advised by her future self not to fall in love, is sure she can do so after being given the advice. That is, until she meets the boy her older self warned her about.",
@@ -227,19 +171,6 @@
           "starts_at": "2024-10-30T21:20:00+00:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-28419/"
-        }
-      ]
-    },
-    {
-      "title": "DocHouse: Black Box Diaries",
-      "trailer": null,
-      "synopsis": "Journalist Shiori Ito documents her courageous investigation into her own sexual assault, after Japanese police refuse to take forward her report of rape by a high-profile, well-connected public figure.\r\n\r\nTenaciously, Shiori gathers evidence and testimony, fighting to bring about a prosecution and exposing Japan's outdated judicial and societal systems.\r\n\r\nAs both subject and director of this essential film, Shiori determinedly takes control of her own narrative.\r\n",
-      "runtime": 104,
-      "times": [
-        {
-          "starts_at": "2024-10-30T20:00:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-93730/"
         }
       ]
     },
