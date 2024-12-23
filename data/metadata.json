@@ -65,6 +65,12 @@
     "overview": "As two siblings - the filmmaker and her brother - look back on a road trip they took with their father 20 years ago, they discover their memories have faded, but the feelings they share remain the same.",
     "release_date": ""
   },
+  "DocHouse: No Other Land": {
+    "backdrop": "https://image.tmdb.org/t/p/w500//m7zVOuxI5GzULiRyiG7PWO2nFMa.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500//lPaNXIE35haMoxSNKKDsR62KeUl.jpg",
+    "overview": "Made by a Palestinian-Israeli collective, this documentary shows the destruction of the West Bank’s Masafer Yatta by Israeli authorities and the unlikely friendship that blossoms between Palestinian activist Basel Adra and Israeli journalist Yuval Abraham.",
+    "release_date": "2024-11-08"
+  },
   "DocHouse: Occupied City": {
     "backdrop": "https://image.tmdb.org/t/p/w500//dpaRhhMQe1l1mpTSw3OTUuIObG4.jpg",
     "poster": "https://image.tmdb.org/t/p/w500//tgIu31Szce1mmdEe2OO0cI8GW0J.jpg",
@@ -145,7 +151,7 @@
   },
   "Mufasa: The Lion King": {
     "backdrop": "https://image.tmdb.org/t/p/w500//oHPoF0Gzu8xwK4CtdXDaWdcuZxZ.jpg",
-    "poster": "https://image.tmdb.org/t/p/w500//9bXHaLlsFYpJUutg4E6WXAjaxDi.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500//lurEK87kukWNaHd0zYnsi3yzJrs.jpg",
     "overview": "Told in flashbacks, Mufasa is an orphaned cub, lost and alone until he meets a sympathetic lion named Taka—the heir to a royal bloodline. The chance meeting sets in motion a journey of misfits searching for their destiny and working together to evade a threatening and deadly foe.",
     "release_date": "2024-12-18"
   },
@@ -155,10 +161,22 @@
     "overview": "In 1950s Mexico City, William Lee, an American expat in his late forties, leads a solitary life amidst a small American community. However, the arrival in town of Eugene Allerton, a young student, stirs William into finally establishing a meaningful connection with someone.",
     "release_date": "2024-11-27"
   },
+  "Spirited Away": {
+    "backdrop": "https://image.tmdb.org/t/p/w500//m4TUa2ciEWSlk37rOsjiSIvZDXE.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500//8i4s1mb3T3C0HHhSNR4nDMqRDgm.jpg",
+    "overview": "A young girl, Chihiro, becomes trapped in a strange new world of spirits. When her parents undergo a mysterious transformation, she must call upon the courage she never knew she had to free her family.",
+    "release_date": "2001-07-20"
+  },
   "The Lord of the Rings: The War of the Rohirrim": {
     "backdrop": "https://image.tmdb.org/t/p/w500//A6vAMO3myroRfBwSZetY4GVqaW4.jpg",
     "poster": "https://image.tmdb.org/t/p/w500//cXzCOx1hUuU9CfmiEv6rXjb6EqU.jpg",
     "overview": "183 years before the events chronicled in the original trilogy, a sudden attack by Wulf, a clever and ruthless Dunlending lord seeking vengeance for the death of his father, forces Helm Hammerhand and his people to make a daring last stand in the ancient stronghold of the Hornburg. Finding herself in an increasingly desperate situation, Héra, the daughter of Helm, must summon the will to lead the resistance against a deadly enemy intent on their total destruction.",
+    "release_date": "2024-12-05"
+  },
+  "The Order": {
+    "backdrop": "https://image.tmdb.org/t/p/w500//oqUQAfttcDFj1BQ5D4xhRPAp15c.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500//1bJ2652AUnuK1WhlR0GLbJKVqMF.jpg",
+    "overview": "An alarming surge in violent bombings and bank robberies in the Pacific Northwest leads a weathered FBI agent into a deadly cat-and-mouse game with a charismatic domestic terrorist plotting to overthrow the US government.",
     "release_date": "2024-12-05"
   },
   "The Universal Theory": {
