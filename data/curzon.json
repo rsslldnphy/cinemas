@@ -1,16 +1,24 @@
 {
   "2024-12-27": [
     {
+      "title": "Heretic",
+      "trailer": "https://www.youtube.com/watch?v=jpWUOxRozZg",
+      "synopsis": "Two young missionaries are forced to prove their faith when they knock on the wrong door and are greeted by a diabolical Mr. Reed (Hugh Grant), becoming ensnared in his deadly game of cat-and-mouse.",
+      "runtime": 111,
+      "times": [
+        {
+          "starts_at": "2024-12-27T15:40:00+00:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-53633/"
+        }
+      ]
+    },
+    {
       "title": "Better Man",
       "trailer": "https://www.youtube.com/watch?v=gorwiQGj_BM",
       "synopsis": "Better Man looks at the rise, fall and resurrection of Williams – one of the UK’s bestselling artists of all time. Michael Gracey will shine light on the incredible highs and lows of celebrity and the journey to stardom, inspired by Williams’ life and how he sees himself. \n\nThe fantastical musical will be filled with reimagined versions of Williams’ musical hits and iconic performances, with spectacular set pieces and stunning visual effects created by the Academy Award® winning team at Weta FX (Avatar, Lord of the Rings trilogy). Williams stars alongside Jonno Davies (Hunters, Kingsman: The Secret Service).",
       "runtime": 135,
       "times": [
-        {
-          "starts_at": "2024-12-27T14:00:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-53088/"
-        },
         {
           "starts_at": "2024-12-27T17:00:00+00:00",
           "site": "Curzon Aldgate",
@@ -22,11 +30,6 @@
           "url": "https://www.curzon.com/ticketing/seats/ALD1-53086/"
         },
         {
-          "starts_at": "2024-12-27T14:00:00+00:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-47563/"
-        },
-        {
           "starts_at": "2024-12-27T18:00:00+00:00",
           "site": "Curzon Soho",
           "url": "https://www.curzon.com/ticketing/seats/SOH1-47562/"
@@ -35,11 +38,6 @@
           "starts_at": "2024-12-27T20:00:00+00:00",
           "site": "Curzon Soho",
           "url": "https://www.curzon.com/ticketing/seats/SOH1-47561/"
-        },
-        {
-          "starts_at": "2024-12-27T14:30:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-77564/"
         },
         {
           "starts_at": "2024-12-27T17:45:00+00:00",
@@ -62,11 +60,6 @@
           "url": "https://www.curzon.com/ticketing/seats/MAY1-28553/"
         },
         {
-          "starts_at": "2024-12-27T14:40:00+00:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-19349/"
-        },
-        {
           "starts_at": "2024-12-27T17:40:00+00:00",
           "site": "Curzon Hoxton",
           "url": "https://www.curzon.com/ticketing/seats/HOX1-19348/"
@@ -77,11 +70,6 @@
           "url": "https://www.curzon.com/ticketing/seats/HOX1-19347/"
         },
         {
-          "starts_at": "2024-12-27T14:40:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-29104/"
-        },
-        {
           "starts_at": "2024-12-27T17:50:00+00:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-29097/"
@@ -90,95 +78,6 @@
           "starts_at": "2024-12-27T20:50:00+00:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-29098/"
-        }
-      ]
-    },
-    {
-      "title": "Wicked",
-      "trailer": "https://www.youtube.com/watch?v=5omDWGdDmJ8",
-      "synopsis": "Wicked, the untold story of the witches of Oz, stars Emmy, Grammy and Tony winning powerhouse Cynthia Erivo (Harriet, Broadway’s The Color Purple) as Elphaba, a young woman, misunderstood because of her unusual green skin, who has yet to discover her true power, and Grammy-winning, multi-platinum recording artist and global superstar Ariana Grande as Glinda, a popular young woman, gilded by privilege and ambition, who has yet to discover her true heart. \n \nThe two meet as students at Shiz University in the fantastical Land of Oz and forge an unlikely but profound friendship. Following an encounter with The Wonderful Wizard of Oz, their friendship reaches a crossroads and their lives take very different paths. Glinda's unflinching desire for popularity sees her seduced by power, while Elphaba's determination to remain true to herself, and to those around her, will have unexpected and shocking consequences on her future. Their extraordinary adventures in Oz will ultimately see them fulfill their destinies as Glinda the Good and the Wicked Witch of the West. \n",
-      "runtime": 160,
-      "times": [
-        {
-          "starts_at": "2024-12-27T14:20:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-53629/"
-        },
-        {
-          "starts_at": "2024-12-27T17:50:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-53630/"
-        },
-        {
-          "starts_at": "2024-12-27T13:45:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-77582/"
-        },
-        {
-          "starts_at": "2024-12-27T20:00:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-77583/"
-        }
-      ]
-    },
-    {
-      "title": "Mufasa: The Lion King",
-      "trailer": "https://www.youtube.com/watch?v=do0c3iLWdE8",
-      "synopsis": "Simba, having become king of the Pride Lands, is determined for his cub to follow in his footsteps while the origins of his late father Mufasa are explored.",
-      "runtime": 118,
-      "times": [
-        {
-          "starts_at": "2024-12-27T14:40:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-53091/"
-        },
-        {
-          "starts_at": "2024-12-27T18:20:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-53090/"
-        },
-        {
-          "starts_at": "2024-12-27T21:20:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-53082/"
-        },
-        {
-          "starts_at": "2024-12-27T15:00:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-77572/"
-        },
-        {
-          "starts_at": "2024-12-27T17:30:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-77562/"
-        },
-        {
-          "starts_at": "2024-12-27T20:45:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-77570/"
-        },
-        {
-          "starts_at": "2024-12-27T17:20:00+00:00",
-          "site": "Curzon Mayfair",
-          "url": "https://www.curzon.com/ticketing/seats/MAY1-28854/"
-        },
-        {
-          "starts_at": "2024-12-27T14:20:00+00:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-19753/"
-        }
-      ]
-    },
-    {
-      "title": "Heretic",
-      "trailer": "https://www.youtube.com/watch?v=jpWUOxRozZg",
-      "synopsis": "Two young missionaries are forced to prove their faith when they knock on the wrong door and are greeted by a diabolical Mr. Reed (Hugh Grant), becoming ensnared in his deadly game of cat-and-mouse.",
-      "runtime": 111,
-      "times": [
-        {
-          "starts_at": "2024-12-27T15:40:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-53633/"
         }
       ]
     },
@@ -194,11 +93,6 @@
           "url": "https://www.curzon.com/ticketing/seats/ALD1-53699/"
         },
         {
-          "starts_at": "2024-12-27T13:30:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-78318/"
-        },
-        {
           "starts_at": "2024-12-27T17:00:00+00:00",
           "site": "Curzon Victoria",
           "url": "https://www.curzon.com/ticketing/seats/VIC1-78317/"
@@ -207,6 +101,57 @@
           "starts_at": "2024-12-27T20:30:00+00:00",
           "site": "Curzon Victoria",
           "url": "https://www.curzon.com/ticketing/seats/VIC1-78316/"
+        }
+      ]
+    },
+    {
+      "title": "Wicked",
+      "trailer": "https://www.youtube.com/watch?v=5omDWGdDmJ8",
+      "synopsis": "Wicked, the untold story of the witches of Oz, stars Emmy, Grammy and Tony winning powerhouse Cynthia Erivo (Harriet, Broadway’s The Color Purple) as Elphaba, a young woman, misunderstood because of her unusual green skin, who has yet to discover her true power, and Grammy-winning, multi-platinum recording artist and global superstar Ariana Grande as Glinda, a popular young woman, gilded by privilege and ambition, who has yet to discover her true heart. \n \nThe two meet as students at Shiz University in the fantastical Land of Oz and forge an unlikely but profound friendship. Following an encounter with The Wonderful Wizard of Oz, their friendship reaches a crossroads and their lives take very different paths. Glinda's unflinching desire for popularity sees her seduced by power, while Elphaba's determination to remain true to herself, and to those around her, will have unexpected and shocking consequences on her future. Their extraordinary adventures in Oz will ultimately see them fulfill their destinies as Glinda the Good and the Wicked Witch of the West. \n",
+      "runtime": 160,
+      "times": [
+        {
+          "starts_at": "2024-12-27T17:50:00+00:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-53630/"
+        },
+        {
+          "starts_at": "2024-12-27T20:00:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-77583/"
+        }
+      ]
+    },
+    {
+      "title": "Mufasa: The Lion King",
+      "trailer": "https://www.youtube.com/watch?v=do0c3iLWdE8",
+      "synopsis": "Simba, having become king of the Pride Lands, is determined for his cub to follow in his footsteps while the origins of his late father Mufasa are explored.",
+      "runtime": 118,
+      "times": [
+        {
+          "starts_at": "2024-12-27T18:20:00+00:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-53090/"
+        },
+        {
+          "starts_at": "2024-12-27T21:20:00+00:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-53082/"
+        },
+        {
+          "starts_at": "2024-12-27T17:30:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-77562/"
+        },
+        {
+          "starts_at": "2024-12-27T20:45:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-77570/"
+        },
+        {
+          "starts_at": "2024-12-27T17:20:00+00:00",
+          "site": "Curzon Mayfair",
+          "url": "https://www.curzon.com/ticketing/seats/MAY1-28854/"
         }
       ]
     },
@@ -222,11 +167,6 @@
           "url": "https://www.curzon.com/ticketing/seats/ALD1-53632/"
         },
         {
-          "starts_at": "2024-12-27T14:30:00+00:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-48063/"
-        },
-        {
           "starts_at": "2024-12-27T20:30:00+00:00",
           "site": "Curzon Soho",
           "url": "https://www.curzon.com/ticketing/seats/SOH1-48059/"
@@ -237,19 +177,9 @@
           "url": "https://www.curzon.com/ticketing/seats/HOX1-19748/"
         },
         {
-          "starts_at": "2024-12-27T14:20:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-29786/"
-        },
-        {
           "starts_at": "2024-12-27T20:20:00+00:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-29784/"
-        },
-        {
-          "starts_at": "2024-12-27T15:00:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-96107/"
         },
         {
           "starts_at": "2024-12-27T20:50:00+00:00",
@@ -297,64 +227,6 @@
       ]
     },
     {
-      "title": "Queer",
-      "trailer": "https://www.youtube.com/watch?v=ZM-BYlk1fMU",
-      "synopsis": "In 1950s Mexico City, William Lee (Daniel Craig), an American ex-pat in his late forties, leads a solitary life amidst a small American community. The arrival in town of Eugene Allerton, a young student, stirs William into finally establishing a meaningful connection\nwith someone.",
-      "runtime": 137,
-      "times": [
-        {
-          "starts_at": "2024-12-27T15:00:00+00:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-48061/"
-        },
-        {
-          "starts_at": "2024-12-27T21:00:00+00:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-48057/"
-        },
-        {
-          "starts_at": "2024-12-27T20:20:00+00:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-19751/"
-        },
-        {
-          "starts_at": "2024-12-27T14:00:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-29111/"
-        },
-        {
-          "starts_at": "2024-12-27T17:00:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-29110/"
-        },
-        {
-          "starts_at": "2024-12-27T20:00:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-29109/"
-        },
-        {
-          "starts_at": "2024-12-27T12:30:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-96118/"
-        },
-        {
-          "starts_at": "2024-12-27T14:40:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-96119/"
-        },
-        {
-          "starts_at": "2024-12-27T17:50:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-96108/"
-        },
-        {
-          "starts_at": "2024-12-27T20:20:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-96109/"
-        }
-      ]
-    },
-    {
       "title": "Ivory Christmas: Call Me by Your Name",
       "trailer": "https://www.youtube.com/watch?v=0gF_XcLq4oU",
       "synopsis": "Call Me by Your Name is the story of a sudden and powerful romance that blossoms between an adolescent boy and a summer guest at his parents' cliffside mansion on the Italian Riviera. During the restless summer weeks, unrelenting but buried currents of obsession, fascination, and desire intensify their passion as they test the charged ground between them and verge toward the one thing both already fear they may never truly find again: total intimacy. ",
@@ -394,19 +266,9 @@
           "url": "https://www.curzon.com/ticketing/seats/VIC1-77576/"
         },
         {
-          "starts_at": "2024-12-27T14:30:00+00:00",
-          "site": "Curzon Mayfair",
-          "url": "https://www.curzon.com/ticketing/seats/MAY1-28855/"
-        },
-        {
           "starts_at": "2024-12-27T20:15:00+00:00",
           "site": "Curzon Mayfair",
           "url": "https://www.curzon.com/ticketing/seats/MAY1-28853/"
-        },
-        {
-          "starts_at": "2024-12-27T15:00:00+00:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-19749/"
         },
         {
           "starts_at": "2024-12-27T21:00:00+00:00",
@@ -429,11 +291,6 @@
           "url": "https://www.curzon.com/ticketing/seats/CAM1-29108/"
         },
         {
-          "starts_at": "2024-12-27T15:10:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-96104/"
-        },
-        {
           "starts_at": "2024-12-27T18:10:00+00:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-96102/"
@@ -446,15 +303,40 @@
       ]
     },
     {
-      "title": "RBO 2024-25: The Nutcracker",
-      "trailer": null,
-      "synopsis": "Join Clara at a delightful Christmas Eve party that becomes a magical adventure once everyone else is tucked up in bed. Marvel at the brilliance of Tchaikovsky’s score, as Clara and her enchanted Nutcracker fight the Mouse King and visit the Sugar Plum Fairy in the glittering Kingdom of Sweets. Peter Wright’s much-loved production for The Royal Ballet, with gorgeous period designs by Julia Trevelyan Oman, keeps true to the spirit of this festive ballet classic, combining the thrill of the fairy tale with spectacular dancing.",
-      "runtime": 127,
+      "title": "Queer",
+      "trailer": "https://www.youtube.com/watch?v=ZM-BYlk1fMU",
+      "synopsis": "In 1950s Mexico City, William Lee (Daniel Craig), an American ex-pat in his late forties, leads a solitary life amidst a small American community. The arrival in town of Eugene Allerton, a young student, stirs William into finally establishing a meaningful connection\nwith someone.",
+      "runtime": 137,
       "times": [
         {
-          "starts_at": "2024-12-27T15:00:00+00:00",
-          "site": "Curzon Mayfair",
-          "url": "https://www.curzon.com/ticketing/seats/MAY1-28709/"
+          "starts_at": "2024-12-27T21:00:00+00:00",
+          "site": "Curzon Soho",
+          "url": "https://www.curzon.com/ticketing/seats/SOH1-48057/"
+        },
+        {
+          "starts_at": "2024-12-27T20:20:00+00:00",
+          "site": "Curzon Hoxton",
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-19751/"
+        },
+        {
+          "starts_at": "2024-12-27T17:00:00+00:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-29110/"
+        },
+        {
+          "starts_at": "2024-12-27T20:00:00+00:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-29109/"
+        },
+        {
+          "starts_at": "2024-12-27T17:50:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-96108/"
+        },
+        {
+          "starts_at": "2024-12-27T20:20:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-96109/"
         }
       ]
     },
@@ -477,34 +359,6 @@
       ]
     },
     {
-      "title": "How to Make Millions before Grandma Dies",
-      "trailer": "https://www.youtube.com/watch?v=MompGcjMr8E",
-      "synopsis": "A man quits work to care for dying grandmother, motivated by her fortune. He schemes to win her favor before she passes.",
-      "runtime": 126,
-      "times": [
-        {
-          "starts_at": "2024-12-27T13:00:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-29790/"
-        },
-        {
-          "starts_at": "2024-12-27T18:40:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-29785/"
-        },
-        {
-          "starts_at": "2024-12-27T14:30:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-96111/"
-        },
-        {
-          "starts_at": "2024-12-27T20:30:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-96113/"
-        }
-      ]
-    },
-    {
       "title": "Emilia Pérez",
       "trailer": null,
       "synopsis": "From renegade auteur Jacques Audiard comes Emilia Pérez, an audacious fever dream that defies genres and expectations. Through liberating song and dance and bold visuals, this odyssey follows the journey of four remarkable women in Mexico, each pursuing their own happiness. The fearsome cartel leader Emilia (Karla Sofía Gascón) enlists Rita (Zoe Saldaña), an unappreciated lawyer stuck in a dead-end job, to help fake her death so that Emilia can finally live authentically as her true self. ",
@@ -518,15 +372,20 @@
       ]
     },
     {
-      "title": "DocHouse: Occupied City",
-      "trailer": null,
-      "synopsis": "Where do the memories of a city go? From Oscar- and BAFTA-winning filmmaker and Turner Prize-winning visual artist Steve McQueen, comes this mesmerising and monumental excavation of how the past haunts our precarious present: mirroring it and warning us in plain sight.\r\n\r\nInformed by the book Atlas of an Occupied City: Amsterdam 1940-1945 written by Bianca Stigter, the documentary creates two interlocking portraits. One shows the city’s devastating Nazi occupation through door-to-door accounts – tales of Jewish persecution, of resistance, collaboration, valour, and denial. The other is a vivid journey through the last years of pandemic and protest. The combination has a transformative effect with which McQueen opens up a poetic, dreamlike space where unthinkable history and hope for a new future co-exist.",
-      "runtime": 266,
+      "title": "How to Make Millions before Grandma Dies",
+      "trailer": "https://www.youtube.com/watch?v=MompGcjMr8E",
+      "synopsis": "A man quits work to care for dying grandmother, motivated by her fortune. He schemes to win her favor before she passes.",
+      "runtime": 126,
       "times": [
         {
-          "starts_at": "2024-12-27T13:00:00+00:00",
+          "starts_at": "2024-12-27T18:40:00+00:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-29785/"
+        },
+        {
+          "starts_at": "2024-12-27T20:30:00+00:00",
           "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-95577/"
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-96113/"
         }
       ]
     },
