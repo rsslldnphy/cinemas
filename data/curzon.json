@@ -7,11 +7,6 @@
       "runtime": 135,
       "times": [
         {
-          "starts_at": "2024-12-29T10:40:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-53097/"
-        },
-        {
           "starts_at": "2024-12-29T13:40:00+00:00",
           "site": "Curzon Aldgate",
           "url": "https://www.curzon.com/ticketing/seats/ALD1-53098/"
@@ -25,11 +20,6 @@
           "starts_at": "2024-12-29T19:40:00+00:00",
           "site": "Curzon Aldgate",
           "url": "https://www.curzon.com/ticketing/seats/ALD1-53100/"
-        },
-        {
-          "starts_at": "2024-12-29T11:00:00+00:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-48074/"
         },
         {
           "starts_at": "2024-12-29T14:00:00+00:00",
@@ -47,11 +37,6 @@
           "url": "https://www.curzon.com/ticketing/seats/SOH1-47571/"
         },
         {
-          "starts_at": "2024-12-29T11:15:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-78319/"
-        },
-        {
           "starts_at": "2024-12-29T14:00:00+00:00",
           "site": "Curzon Victoria",
           "url": "https://www.curzon.com/ticketing/seats/VIC1-78326/"
@@ -67,11 +52,6 @@
           "url": "https://www.curzon.com/ticketing/seats/VIC1-77587/"
         },
         {
-          "starts_at": "2024-12-29T11:00:00+00:00",
-          "site": "Curzon Mayfair",
-          "url": "https://www.curzon.com/ticketing/seats/MAY1-28557/"
-        },
-        {
           "starts_at": "2024-12-29T17:00:00+00:00",
           "site": "Curzon Mayfair",
           "url": "https://www.curzon.com/ticketing/seats/MAY1-28558/"
@@ -80,11 +60,6 @@
           "starts_at": "2024-12-29T20:00:00+00:00",
           "site": "Curzon Mayfair",
           "url": "https://www.curzon.com/ticketing/seats/MAY1-28559/"
-        },
-        {
-          "starts_at": "2024-12-29T11:20:00+00:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-19358/"
         },
         {
           "starts_at": "2024-12-29T14:20:00+00:00",
@@ -100,11 +75,6 @@
           "starts_at": "2024-12-29T20:20:00+00:00",
           "site": "Curzon Hoxton",
           "url": "https://www.curzon.com/ticketing/seats/HOX1-19355/"
-        },
-        {
-          "starts_at": "2024-12-29T11:20:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-29797/"
         },
         {
           "starts_at": "2024-12-29T14:20:00+00:00",
@@ -124,16 +94,24 @@
       ]
     },
     {
+      "title": "Ivory Christmas: Howards End",
+      "trailer": null,
+      "synopsis": "Nominated for nine Academy Awards, this landmark adaptation of EM Forster’s classic novel is about the interwoven fates and misfortunes of three families in Edwardian England. Full of lavish sets and elegant costumes, the film tells the stories of two respectable sisters, Margaret (Thompson) and Helen Schlegel (Bonham Carter), who collide with the world of the very wealthy - one sister benefiting from the acquaintance with the Wilcoxes (owners of the beloved country home Howards End), the other all but destroyed by it.\n\nCompelling and brilliantly acted, the film remains an entertaining, exquisite and elegant pleasure, as moving and relevant as it was on the day of its original release.\n",
+      "runtime": 142,
+      "times": [
+        {
+          "starts_at": "2024-12-29T14:00:00+00:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-52930/"
+        }
+      ]
+    },
+    {
       "title": "Mufasa: The Lion King",
       "trailer": "https://www.youtube.com/watch?v=do0c3iLWdE8",
       "synopsis": "Simba, having become king of the Pride Lands, is determined for his cub to follow in his footsteps while the origins of his late father Mufasa are explored.",
       "runtime": 118,
       "times": [
-        {
-          "starts_at": "2024-12-29T11:00:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-53737/"
-        },
         {
           "starts_at": "2024-12-29T14:20:00+00:00",
           "site": "Curzon Aldgate",
@@ -148,11 +126,6 @@
           "starts_at": "2024-12-29T21:00:00+00:00",
           "site": "Curzon Aldgate",
           "url": "https://www.curzon.com/ticketing/seats/ALD1-53741/"
-        },
-        {
-          "starts_at": "2024-12-29T10:30:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-78320/"
         },
         {
           "starts_at": "2024-12-29T14:30:00+00:00",
@@ -170,113 +143,14 @@
           "url": "https://www.curzon.com/ticketing/seats/VIC1-78322/"
         },
         {
-          "starts_at": "2024-12-29T11:30:00+00:00",
-          "site": "Curzon Mayfair",
-          "url": "https://www.curzon.com/ticketing/seats/MAY1-28859/"
-        },
-        {
           "starts_at": "2024-12-29T17:30:00+00:00",
           "site": "Curzon Mayfair",
           "url": "https://www.curzon.com/ticketing/seats/MAY1-28861/"
         },
         {
-          "starts_at": "2024-12-29T11:00:00+00:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-19769/"
-        },
-        {
           "starts_at": "2024-12-29T14:00:00+00:00",
           "site": "Curzon Hoxton",
           "url": "https://www.curzon.com/ticketing/seats/HOX1-19770/"
-        }
-      ]
-    },
-    {
-      "title": "The Order",
-      "trailer": "https://www.youtube.com/watch?v=r7vwsrUlFxY",
-      "synopsis": "A riveting historical thriller that recreates one of the largest manhunts in FBI history. Based on a chilling true story, THE ORDER depicts a terrorist group determined to promote their racist ideology — and the lawmen who will go to any lengths to stop them. ",
-      "runtime": 116,
-      "times": [
-        {
-          "starts_at": "2024-12-29T11:20:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-53738/"
-        },
-        {
-          "starts_at": "2024-12-29T20:40:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-53745/"
-        },
-        {
-          "starts_at": "2024-12-29T16:45:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-78334/"
-        },
-        {
-          "starts_at": "2024-12-29T15:40:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-29804/"
-        },
-        {
-          "starts_at": "2024-12-29T21:10:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-29805/"
-        },
-        {
-          "starts_at": "2024-12-29T15:00:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-96077/"
-        },
-        {
-          "starts_at": "2024-12-29T20:30:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-96063/"
-        }
-      ]
-    },
-    {
-      "title": "Wicked",
-      "trailer": "https://www.youtube.com/watch?v=5omDWGdDmJ8",
-      "synopsis": "Wicked, the untold story of the witches of Oz, stars Emmy, Grammy and Tony winning powerhouse Cynthia Erivo (Harriet, Broadway’s The Color Purple) as Elphaba, a young woman, misunderstood because of her unusual green skin, who has yet to discover her true power, and Grammy-winning, multi-platinum recording artist and global superstar Ariana Grande as Glinda, a popular young woman, gilded by privilege and ambition, who has yet to discover her true heart. \n \nThe two meet as students at Shiz University in the fantastical Land of Oz and forge an unlikely but profound friendship. Following an encounter with The Wonderful Wizard of Oz, their friendship reaches a crossroads and their lives take very different paths. Glinda's unflinching desire for popularity sees her seduced by power, while Elphaba's determination to remain true to herself, and to those around her, will have unexpected and shocking consequences on her future. Their extraordinary adventures in Oz will ultimately see them fulfill their destinies as Glinda the Good and the Wicked Witch of the West. \n",
-      "runtime": 160,
-      "times": [
-        {
-          "starts_at": "2024-12-29T11:40:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-53739/"
-        },
-        {
-          "starts_at": "2024-12-29T17:30:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-53743/"
-        },
-        {
-          "starts_at": "2024-12-29T11:30:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-78332/"
-        },
-        {
-          "starts_at": "2024-12-29T13:15:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-78327/"
-        },
-        {
-          "starts_at": "2024-12-29T19:30:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-78328/"
-        }
-      ]
-    },
-    {
-      "title": "Ivory Christmas: Howards End",
-      "trailer": null,
-      "synopsis": "Nominated for nine Academy Awards, this landmark adaptation of EM Forster’s classic novel is about the interwoven fates and misfortunes of three families in Edwardian England. Full of lavish sets and elegant costumes, the film tells the stories of two respectable sisters, Margaret (Thompson) and Helen Schlegel (Bonham Carter), who collide with the world of the very wealthy - one sister benefiting from the acquaintance with the Wilcoxes (owners of the beloved country home Howards End), the other all but destroyed by it.\n\nCompelling and brilliantly acted, the film remains an entertaining, exquisite and elegant pleasure, as moving and relevant as it was on the day of its original release.\n",
-      "runtime": 142,
-      "times": [
-        {
-          "starts_at": "2024-12-29T14:00:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-52930/"
         }
       ]
     },
@@ -322,6 +196,29 @@
       ]
     },
     {
+      "title": "Wicked",
+      "trailer": "https://www.youtube.com/watch?v=5omDWGdDmJ8",
+      "synopsis": "Wicked, the untold story of the witches of Oz, stars Emmy, Grammy and Tony winning powerhouse Cynthia Erivo (Harriet, Broadway’s The Color Purple) as Elphaba, a young woman, misunderstood because of her unusual green skin, who has yet to discover her true power, and Grammy-winning, multi-platinum recording artist and global superstar Ariana Grande as Glinda, a popular young woman, gilded by privilege and ambition, who has yet to discover her true heart. \n \nThe two meet as students at Shiz University in the fantastical Land of Oz and forge an unlikely but profound friendship. Following an encounter with The Wonderful Wizard of Oz, their friendship reaches a crossroads and their lives take very different paths. Glinda's unflinching desire for popularity sees her seduced by power, while Elphaba's determination to remain true to herself, and to those around her, will have unexpected and shocking consequences on her future. Their extraordinary adventures in Oz will ultimately see them fulfill their destinies as Glinda the Good and the Wicked Witch of the West. \n",
+      "runtime": 160,
+      "times": [
+        {
+          "starts_at": "2024-12-29T17:30:00+00:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-53743/"
+        },
+        {
+          "starts_at": "2024-12-29T13:15:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-78327/"
+        },
+        {
+          "starts_at": "2024-12-29T19:30:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-78328/"
+        }
+      ]
+    },
+    {
       "title": "Anora",
       "trailer": null,
       "synopsis": "Anora, a young sex worker from Brooklyn, meets and impulsively marries the son of an oligarch. Once the news reaches Russia, her fairytale is threatened as the parents set out for New York to get the marriage annulled.",
@@ -343,19 +240,9 @@
           "url": "https://www.curzon.com/ticketing/seats/SOH1-48080/"
         },
         {
-          "starts_at": "2024-12-29T11:40:00+00:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-19766/"
-        },
-        {
           "starts_at": "2024-12-29T17:40:00+00:00",
           "site": "Curzon Hoxton",
           "url": "https://www.curzon.com/ticketing/seats/HOX1-19768/"
-        },
-        {
-          "starts_at": "2024-12-29T12:00:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-29801/"
         },
         {
           "starts_at": "2024-12-29T14:00:00+00:00",
@@ -366,11 +253,6 @@
           "starts_at": "2024-12-29T20:10:00+00:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-29809/"
-        },
-        {
-          "starts_at": "2024-12-29T11:40:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-96064/"
         },
         {
           "starts_at": "2024-12-29T14:30:00+00:00",
@@ -390,16 +272,107 @@
       ]
     },
     {
+      "title": "The Order",
+      "trailer": "https://www.youtube.com/watch?v=r7vwsrUlFxY",
+      "synopsis": "A riveting historical thriller that recreates one of the largest manhunts in FBI history. Based on a chilling true story, THE ORDER depicts a terrorist group determined to promote their racist ideology — and the lawmen who will go to any lengths to stop them. ",
+      "runtime": 116,
+      "times": [
+        {
+          "starts_at": "2024-12-29T20:40:00+00:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-53745/"
+        },
+        {
+          "starts_at": "2024-12-29T16:45:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-78334/"
+        },
+        {
+          "starts_at": "2024-12-29T15:40:00+00:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-29804/"
+        },
+        {
+          "starts_at": "2024-12-29T21:10:00+00:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-29805/"
+        },
+        {
+          "starts_at": "2024-12-29T15:00:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-96077/"
+        },
+        {
+          "starts_at": "2024-12-29T20:30:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-96063/"
+        }
+      ]
+    },
+    {
+      "title": "Queer",
+      "trailer": "https://www.youtube.com/watch?v=ZM-BYlk1fMU",
+      "synopsis": "In 1950s Mexico City, William Lee (Daniel Craig), an American ex-pat in his late forties, leads a solitary life amidst a small American community. The arrival in town of Eugene Allerton, a young student, stirs William into finally establishing a meaningful connection\nwith someone.",
+      "runtime": 137,
+      "times": [
+        {
+          "starts_at": "2024-12-29T13:30:00+00:00",
+          "site": "Curzon Soho",
+          "url": "https://www.curzon.com/ticketing/seats/SOH1-48076/"
+        },
+        {
+          "starts_at": "2024-12-29T19:40:00+00:00",
+          "site": "Curzon Soho",
+          "url": "https://www.curzon.com/ticketing/seats/SOH1-48075/"
+        },
+        {
+          "starts_at": "2024-12-29T14:20:00+00:00",
+          "site": "Curzon Mayfair",
+          "url": "https://www.curzon.com/ticketing/seats/MAY1-28858/"
+        },
+        {
+          "starts_at": "2024-12-29T20:00:00+00:00",
+          "site": "Curzon Hoxton",
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-19765/"
+        },
+        {
+          "starts_at": "2024-12-29T13:40:00+00:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-29795/"
+        },
+        {
+          "starts_at": "2024-12-29T16:45:00+00:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-29793/"
+        },
+        {
+          "starts_at": "2024-12-29T19:50:00+00:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-29799/"
+        },
+        {
+          "starts_at": "2024-12-29T14:20:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-96070/"
+        },
+        {
+          "starts_at": "2024-12-29T17:40:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-96071/"
+        },
+        {
+          "starts_at": "2024-12-29T19:50:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-96072/"
+        }
+      ]
+    },
+    {
       "title": "All We Imagine as Light",
       "trailer": "https://www.youtube.com/watch?v=Yf1jAx6VhZ8",
       "synopsis": "All We Imagine as Light is a beautiful, sweeping, emotional film that explores the complexities of female friendship and captures the frantic pace, the vibrant colours and the heady atmosphere of modern Mumbai.\n\nIn the city, thoughtful Nurse Prabha’s routine is upset when she receives an unexpected gift from her estranged husband. Her younger, flightier and rebellious roommate, Anu, tries in vain to find a spot in the city to be intimate with her secret boyfriend. Their colleague Parvaty fights to stay in her home without any requisite paperwork left by her late husband. A trip to a beach town allows them each to find a space for their desires to manifest. \n\nPayal Kapadia’s hugely acclaimed fiction debut was the first Indian film to be selected in Official Competition at Cannes in three decades, where it was awarded the Grand Prix.\n",
       "runtime": 118,
       "times": [
-        {
-          "starts_at": "2024-12-29T10:45:00+00:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-48082/"
-        },
         {
           "starts_at": "2024-12-29T16:40:00+00:00",
           "site": "Curzon Soho",
@@ -409,11 +382,6 @@
           "starts_at": "2024-12-29T17:00:00+00:00",
           "site": "Curzon Hoxton",
           "url": "https://www.curzon.com/ticketing/seats/HOX1-19764/"
-        },
-        {
-          "starts_at": "2024-12-29T11:30:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-96073/"
         },
         {
           "starts_at": "2024-12-29T17:10:00+00:00",
@@ -429,19 +397,9 @@
       "runtime": 120,
       "times": [
         {
-          "starts_at": "2024-12-29T11:30:00+00:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-48081/"
-        },
-        {
           "starts_at": "2024-12-29T17:30:00+00:00",
           "site": "Curzon Soho",
           "url": "https://www.curzon.com/ticketing/seats/SOH1-48079/"
-        },
-        {
-          "starts_at": "2024-12-29T11:00:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-78333/"
         },
         {
           "starts_at": "2024-12-29T15:00:00+00:00",
@@ -494,11 +452,6 @@
           "url": "https://www.curzon.com/ticketing/seats/CAM1-29798/"
         },
         {
-          "starts_at": "2024-12-29T11:20:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-96068/"
-        },
-        {
           "starts_at": "2024-12-29T14:40:00+00:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-96066/"
@@ -516,84 +469,11 @@
       ]
     },
     {
-      "title": "Queer",
-      "trailer": "https://www.youtube.com/watch?v=ZM-BYlk1fMU",
-      "synopsis": "In 1950s Mexico City, William Lee (Daniel Craig), an American ex-pat in his late forties, leads a solitary life amidst a small American community. The arrival in town of Eugene Allerton, a young student, stirs William into finally establishing a meaningful connection\nwith someone.",
-      "runtime": 137,
-      "times": [
-        {
-          "starts_at": "2024-12-29T13:30:00+00:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-48076/"
-        },
-        {
-          "starts_at": "2024-12-29T19:40:00+00:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-48075/"
-        },
-        {
-          "starts_at": "2024-12-29T14:20:00+00:00",
-          "site": "Curzon Mayfair",
-          "url": "https://www.curzon.com/ticketing/seats/MAY1-28858/"
-        },
-        {
-          "starts_at": "2024-12-29T20:00:00+00:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-19765/"
-        },
-        {
-          "starts_at": "2024-12-29T10:45:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-29912/"
-        },
-        {
-          "starts_at": "2024-12-29T13:40:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-29795/"
-        },
-        {
-          "starts_at": "2024-12-29T16:45:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-29793/"
-        },
-        {
-          "starts_at": "2024-12-29T19:50:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-29799/"
-        },
-        {
-          "starts_at": "2024-12-29T12:00:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-96080/"
-        },
-        {
-          "starts_at": "2024-12-29T14:20:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-96070/"
-        },
-        {
-          "starts_at": "2024-12-29T17:40:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-96071/"
-        },
-        {
-          "starts_at": "2024-12-29T19:50:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-96072/"
-        }
-      ]
-    },
-    {
       "title": "Emilia Pérez",
       "trailer": null,
       "synopsis": "From renegade auteur Jacques Audiard comes Emilia Pérez, an audacious fever dream that defies genres and expectations. Through liberating song and dance and bold visuals, this odyssey follows the journey of four remarkable women in Mexico, each pursuing their own happiness. The fearsome cartel leader Emilia (Karla Sofía Gascón) enlists Rita (Zoe Saldaña), an unappreciated lawyer stuck in a dead-end job, to help fake her death so that Emilia can finally live authentically as her true self. ",
       "runtime": 132,
       "times": [
-        {
-          "starts_at": "2024-12-29T11:00:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-29802/"
-        },
         {
           "starts_at": "2024-12-29T17:10:00+00:00",
           "site": "Curzon Camden",
@@ -608,11 +488,6 @@
       "runtime": 126,
       "times": [
         {
-          "starts_at": "2024-12-29T12:20:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-29803/"
-        },
-        {
           "starts_at": "2024-12-29T18:20:00+00:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-29808/"
@@ -626,37 +501,6 @@
           "starts_at": "2024-12-29T20:00:00+00:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-96076/"
-        }
-      ]
-    },
-    {
-      "title": "Spirited Away",
-      "trailer": null,
-      "synopsis": "During her family's move to the suburbs, a sullen 10-year-old girl wanders into a world ruled by gods, witches and spirits, and where humans are changed into beasts.",
-      "runtime": 124,
-      "times": [
-        {
-          "starts_at": "2024-12-29T11:10:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-96078/"
-        },
-        {
-          "starts_at": "2024-12-29T17:00:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-96079/"
-        }
-      ]
-    },
-    {
-      "title": "DocHouse: The Bibi Files",
-      "trailer": null,
-      "synopsis": "Using never-seen-before interrogation footage of Israeli Prime Minister Benjamin Netanyahu, his family, his closest associates, and benefactors, Director Alexis Bloom and Oscar-winning Producer Alex Gibney uncover high-level familial corruption and the disastrous lengths a political leader will go to escape accountability. THE BIBI FILES is a film about a man singularly focused on his own political survival in a region beset by war.\r\n\r\nLeaked footage from police interrogation videos are interwoven with archival footage that shows Netanyahu’s rise to power, and how his nearly 30-year rule as Prime Minister has divided the state of Israel. Interspersed throughout are interviews with prominent journalists, Israeli statesmen, Netanyahu's associates, and longtime friends, whose observations and anecdotes reveal a chilling portrait of a leader who, in his drive to evade justice, has aligned himself with radical right-wing extremists. Netanyahu’s fixation on his entitlement to remain Prime Minister has, in this way, led to political decisions that have endangered Israel’s safety, and destroyed her standing as a democracy in the Middle East.\r\n",
-      "runtime": 113,
-      "times": [
-        {
-          "starts_at": "2024-12-29T11:50:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-96191/"
         }
       ]
     },
@@ -687,15 +531,15 @@
       ]
     },
     {
-      "title": "DocHouse: Soundtrack to a Coup d'État",
-      "trailer": "https://www.youtube.com/watch?v=sHjUJjaG0q0",
-      "synopsis": "Jazz and decolonization are entwined in this historical rollercoaster that rewrites the Cold War episode that led musicians Abbey Lincoln and Max Roach to crash the UN Security Council in protest against the murder of Patrice Lumumba.",
-      "runtime": 150,
+      "title": "Spirited Away",
+      "trailer": null,
+      "synopsis": "During her family's move to the suburbs, a sullen 10-year-old girl wanders into a world ruled by gods, witches and spirits, and where humans are changed into beasts.",
+      "runtime": 124,
       "times": [
         {
-          "starts_at": "2024-12-29T17:50:00+00:00",
+          "starts_at": "2024-12-29T17:00:00+00:00",
           "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-96005/"
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-96079/"
         }
       ]
     },
