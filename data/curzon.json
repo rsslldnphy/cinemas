@@ -7,11 +7,6 @@
       "runtime": 135,
       "times": [
         {
-          "starts_at": "2024-12-29T13:40:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-53098/"
-        },
-        {
           "starts_at": "2024-12-29T16:40:00+00:00",
           "site": "Curzon Aldgate",
           "url": "https://www.curzon.com/ticketing/seats/ALD1-53099/"
@@ -22,11 +17,6 @@
           "url": "https://www.curzon.com/ticketing/seats/ALD1-53100/"
         },
         {
-          "starts_at": "2024-12-29T14:00:00+00:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-47569/"
-        },
-        {
           "starts_at": "2024-12-29T17:00:00+00:00",
           "site": "Curzon Soho",
           "url": "https://www.curzon.com/ticketing/seats/SOH1-47570/"
@@ -35,11 +25,6 @@
           "starts_at": "2024-12-29T20:00:00+00:00",
           "site": "Curzon Soho",
           "url": "https://www.curzon.com/ticketing/seats/SOH1-47571/"
-        },
-        {
-          "starts_at": "2024-12-29T14:00:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-78326/"
         },
         {
           "starts_at": "2024-12-29T17:15:00+00:00",
@@ -62,11 +47,6 @@
           "url": "https://www.curzon.com/ticketing/seats/MAY1-28559/"
         },
         {
-          "starts_at": "2024-12-29T14:20:00+00:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-19357/"
-        },
-        {
           "starts_at": "2024-12-29T17:20:00+00:00",
           "site": "Curzon Hoxton",
           "url": "https://www.curzon.com/ticketing/seats/HOX1-19356/"
@@ -75,11 +55,6 @@
           "starts_at": "2024-12-29T20:20:00+00:00",
           "site": "Curzon Hoxton",
           "url": "https://www.curzon.com/ticketing/seats/HOX1-19355/"
-        },
-        {
-          "starts_at": "2024-12-29T14:20:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-29794/"
         },
         {
           "starts_at": "2024-12-29T17:30:00+00:00",
@@ -94,80 +69,6 @@
       ]
     },
     {
-      "title": "Ivory Christmas: Howards End",
-      "trailer": null,
-      "synopsis": "Nominated for nine Academy Awards, this landmark adaptation of EM Forster’s classic novel is about the interwoven fates and misfortunes of three families in Edwardian England. Full of lavish sets and elegant costumes, the film tells the stories of two respectable sisters, Margaret (Thompson) and Helen Schlegel (Bonham Carter), who collide with the world of the very wealthy - one sister benefiting from the acquaintance with the Wilcoxes (owners of the beloved country home Howards End), the other all but destroyed by it.\n\nCompelling and brilliantly acted, the film remains an entertaining, exquisite and elegant pleasure, as moving and relevant as it was on the day of its original release.\n",
-      "runtime": 142,
-      "times": [
-        {
-          "starts_at": "2024-12-29T14:00:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-52930/"
-        }
-      ]
-    },
-    {
-      "title": "Mufasa: The Lion King",
-      "trailer": "https://www.youtube.com/watch?v=do0c3iLWdE8",
-      "synopsis": "Simba, having become king of the Pride Lands, is determined for his cub to follow in his footsteps while the origins of his late father Mufasa are explored.",
-      "runtime": 118,
-      "times": [
-        {
-          "starts_at": "2024-12-29T14:20:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-53736/"
-        },
-        {
-          "starts_at": "2024-12-29T18:00:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-53744/"
-        },
-        {
-          "starts_at": "2024-12-29T21:00:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-53741/"
-        },
-        {
-          "starts_at": "2024-12-29T14:30:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-78325/"
-        },
-        {
-          "starts_at": "2024-12-29T17:00:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-78323/"
-        },
-        {
-          "starts_at": "2024-12-29T20:15:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-78322/"
-        },
-        {
-          "starts_at": "2024-12-29T17:30:00+00:00",
-          "site": "Curzon Mayfair",
-          "url": "https://www.curzon.com/ticketing/seats/MAY1-28861/"
-        },
-        {
-          "starts_at": "2024-12-29T14:00:00+00:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-19770/"
-        }
-      ]
-    },
-    {
-      "title": "Heretic",
-      "trailer": "https://www.youtube.com/watch?v=jpWUOxRozZg",
-      "synopsis": "Two young missionaries are forced to prove their faith when they knock on the wrong door and are greeted by a diabolical Mr. Reed (Hugh Grant), becoming ensnared in his deadly game of cat-and-mouse.",
-      "runtime": 111,
-      "times": [
-        {
-          "starts_at": "2024-12-29T15:20:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-53740/"
-        }
-      ]
-    },
-    {
       "title": "Gladiator II",
       "trailer": "https://www.youtube.com/watch?v=3_OFWynGGuU",
       "synopsis": "From legendary director Ridley Scott, Gladiator II continues the epic saga of power, intrigue, and vengeance set in Ancient Rome. Years after witnessing the death of the revered hero Maximus at the hands of his uncle, Lucius (Paul Mescal) is forced to enter the Colosseum after his home is conquered by the tyrannical Emperors who now lead Rome with an iron fist. With rage in his heart and the future of the Empire at stake, Lucius must look to his past to find strength and honor to return the glory of Rome to its people.",
@@ -177,11 +78,6 @@
           "starts_at": "2024-12-29T17:00:00+00:00",
           "site": "Curzon Aldgate",
           "url": "https://www.curzon.com/ticketing/seats/ALD1-53746/"
-        },
-        {
-          "starts_at": "2024-12-29T13:00:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-78329/"
         },
         {
           "starts_at": "2024-12-29T16:30:00+00:00",
@@ -207,14 +103,42 @@
           "url": "https://www.curzon.com/ticketing/seats/ALD1-53743/"
         },
         {
-          "starts_at": "2024-12-29T13:15:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-78327/"
-        },
-        {
           "starts_at": "2024-12-29T19:30:00+00:00",
           "site": "Curzon Victoria",
           "url": "https://www.curzon.com/ticketing/seats/VIC1-78328/"
+        }
+      ]
+    },
+    {
+      "title": "Mufasa: The Lion King",
+      "trailer": "https://www.youtube.com/watch?v=do0c3iLWdE8",
+      "synopsis": "Simba, having become king of the Pride Lands, is determined for his cub to follow in his footsteps while the origins of his late father Mufasa are explored.",
+      "runtime": 118,
+      "times": [
+        {
+          "starts_at": "2024-12-29T18:00:00+00:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-53744/"
+        },
+        {
+          "starts_at": "2024-12-29T21:00:00+00:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-53741/"
+        },
+        {
+          "starts_at": "2024-12-29T17:00:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-78323/"
+        },
+        {
+          "starts_at": "2024-12-29T20:15:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-78322/"
+        },
+        {
+          "starts_at": "2024-12-29T17:30:00+00:00",
+          "site": "Curzon Mayfair",
+          "url": "https://www.curzon.com/ticketing/seats/MAY1-28861/"
         }
       ]
     },
@@ -230,11 +154,6 @@
           "url": "https://www.curzon.com/ticketing/seats/ALD1-53742/"
         },
         {
-          "starts_at": "2024-12-29T14:20:00+00:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-48078/"
-        },
-        {
           "starts_at": "2024-12-29T20:20:00+00:00",
           "site": "Curzon Soho",
           "url": "https://www.curzon.com/ticketing/seats/SOH1-48080/"
@@ -245,19 +164,9 @@
           "url": "https://www.curzon.com/ticketing/seats/HOX1-19768/"
         },
         {
-          "starts_at": "2024-12-29T14:00:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-29807/"
-        },
-        {
           "starts_at": "2024-12-29T20:10:00+00:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-29809/"
-        },
-        {
-          "starts_at": "2024-12-29T14:30:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-96069/"
         },
         {
           "starts_at": "2024-12-29T17:20:00+00:00",
@@ -298,72 +207,9 @@
           "url": "https://www.curzon.com/ticketing/seats/CAM1-29805/"
         },
         {
-          "starts_at": "2024-12-29T15:00:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-96077/"
-        },
-        {
           "starts_at": "2024-12-29T20:30:00+00:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-96063/"
-        }
-      ]
-    },
-    {
-      "title": "Queer",
-      "trailer": "https://www.youtube.com/watch?v=ZM-BYlk1fMU",
-      "synopsis": "In 1950s Mexico City, William Lee (Daniel Craig), an American ex-pat in his late forties, leads a solitary life amidst a small American community. The arrival in town of Eugene Allerton, a young student, stirs William into finally establishing a meaningful connection\nwith someone.",
-      "runtime": 137,
-      "times": [
-        {
-          "starts_at": "2024-12-29T13:30:00+00:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-48076/"
-        },
-        {
-          "starts_at": "2024-12-29T19:40:00+00:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-48075/"
-        },
-        {
-          "starts_at": "2024-12-29T14:20:00+00:00",
-          "site": "Curzon Mayfair",
-          "url": "https://www.curzon.com/ticketing/seats/MAY1-28858/"
-        },
-        {
-          "starts_at": "2024-12-29T20:00:00+00:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-19765/"
-        },
-        {
-          "starts_at": "2024-12-29T13:40:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-29795/"
-        },
-        {
-          "starts_at": "2024-12-29T16:45:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-29793/"
-        },
-        {
-          "starts_at": "2024-12-29T19:50:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-29799/"
-        },
-        {
-          "starts_at": "2024-12-29T14:20:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-96070/"
-        },
-        {
-          "starts_at": "2024-12-29T17:40:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-96071/"
-        },
-        {
-          "starts_at": "2024-12-29T19:50:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-96072/"
         }
       ]
     },
@@ -402,11 +248,6 @@
           "url": "https://www.curzon.com/ticketing/seats/SOH1-48079/"
         },
         {
-          "starts_at": "2024-12-29T15:00:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-78335/"
-        },
-        {
           "starts_at": "2024-12-29T17:45:00+00:00",
           "site": "Curzon Victoria",
           "url": "https://www.curzon.com/ticketing/seats/VIC1-78324/"
@@ -417,29 +258,14 @@
           "url": "https://www.curzon.com/ticketing/seats/VIC1-78321/"
         },
         {
-          "starts_at": "2024-12-29T14:00:00+00:00",
-          "site": "Curzon Mayfair",
-          "url": "https://www.curzon.com/ticketing/seats/MAY1-28860/"
-        },
-        {
           "starts_at": "2024-12-29T20:20:00+00:00",
           "site": "Curzon Mayfair",
           "url": "https://www.curzon.com/ticketing/seats/MAY1-28862/"
         },
         {
-          "starts_at": "2024-12-29T14:40:00+00:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-19767/"
-        },
-        {
           "starts_at": "2024-12-29T20:40:00+00:00",
           "site": "Curzon Hoxton",
           "url": "https://www.curzon.com/ticketing/seats/HOX1-19763/"
-        },
-        {
-          "starts_at": "2024-12-29T15:10:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-29810/"
         },
         {
           "starts_at": "2024-12-29T18:00:00+00:00",
@@ -452,11 +278,6 @@
           "url": "https://www.curzon.com/ticketing/seats/CAM1-29798/"
         },
         {
-          "starts_at": "2024-12-29T14:40:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-96066/"
-        },
-        {
           "starts_at": "2024-12-29T17:30:00+00:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-96062/"
@@ -465,6 +286,44 @@
           "starts_at": "2024-12-29T20:20:00+00:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-96067/"
+        }
+      ]
+    },
+    {
+      "title": "Queer",
+      "trailer": "https://www.youtube.com/watch?v=ZM-BYlk1fMU",
+      "synopsis": "In 1950s Mexico City, William Lee (Daniel Craig), an American ex-pat in his late forties, leads a solitary life amidst a small American community. The arrival in town of Eugene Allerton, a young student, stirs William into finally establishing a meaningful connection\nwith someone.",
+      "runtime": 137,
+      "times": [
+        {
+          "starts_at": "2024-12-29T19:40:00+00:00",
+          "site": "Curzon Soho",
+          "url": "https://www.curzon.com/ticketing/seats/SOH1-48075/"
+        },
+        {
+          "starts_at": "2024-12-29T20:00:00+00:00",
+          "site": "Curzon Hoxton",
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-19765/"
+        },
+        {
+          "starts_at": "2024-12-29T16:45:00+00:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-29793/"
+        },
+        {
+          "starts_at": "2024-12-29T19:50:00+00:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-29799/"
+        },
+        {
+          "starts_at": "2024-12-29T17:40:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-96071/"
+        },
+        {
+          "starts_at": "2024-12-29T19:50:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-96072/"
         }
       ]
     },
@@ -493,27 +352,9 @@
           "url": "https://www.curzon.com/ticketing/seats/CAM1-29808/"
         },
         {
-          "starts_at": "2024-12-29T14:10:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-96074/"
-        },
-        {
           "starts_at": "2024-12-29T20:00:00+00:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-96076/"
-        }
-      ]
-    },
-    {
-      "title": "DocHouse: I Heard It Through The Grapevine",
-      "trailer": null,
-      "synopsis": "Originally released in 1982, I Heard it Through the Grapevine is not so much a portrait of the seminal writer James Baldwin, as a deep immersion into his own exploration of the American South, two decades on from the start of the Civil Rights Movement.\r\n\r\nTravelling across the country, Baldwin revisits the landmarks of the Civil Rights struggle and critical sites of resistance - Selma, Birmingham, Atlanta. As he recalls the progress of the movement, he reunites with friends and former activists, together questioning what has been achieved, twenty years on.\r\n\r\nThis new 4K restoration of I Heard It Through The Grapevine brings James Baldwin back to the screen in his centenary year. While co-directors Dick Fontaine, who passed away in October 2023, and Pat Hartley deftly interweave archive footage, they never stray far from the guiding intellect of Baldwin. The result is an intimate and emotionally charged journey, raising questions that resonate ever louder through the passing decades.\r\n\r\nRestored by Harvard Film Archive. Special thanks to Gugulethu Mseleku, Smokey Fontaine, the late Dick Fontaine, and Pat Hartley.",
-      "runtime": 92,
-      "times": [
-        {
-          "starts_at": "2024-12-29T14:00:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-95583/"
         }
       ]
     },
