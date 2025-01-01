@@ -1,50 +1,20 @@
 {
   "2025-01-01": [
     {
-      "title": "Mufasa: The Lion King",
-      "trailer": "https://www.youtube.com/watch?v=do0c3iLWdE8",
-      "synopsis": "Simba, having become king of the Pride Lands, is determined for his cub to follow in his footsteps while the origins of his late father Mufasa are explored.",
-      "runtime": 118,
+      "title": "Wicked",
+      "trailer": "https://www.youtube.com/watch?v=5omDWGdDmJ8",
+      "synopsis": "Wicked, the untold story of the witches of Oz, stars Emmy, Grammy and Tony winning powerhouse Cynthia Erivo (Harriet, Broadway’s The Color Purple) as Elphaba, a young woman, misunderstood because of her unusual green skin, who has yet to discover her true power, and Grammy-winning, multi-platinum recording artist and global superstar Ariana Grande as Glinda, a popular young woman, gilded by privilege and ambition, who has yet to discover her true heart. \n \nThe two meet as students at Shiz University in the fantastical Land of Oz and forge an unlikely but profound friendship. Following an encounter with The Wonderful Wizard of Oz, their friendship reaches a crossroads and their lives take very different paths. Glinda's unflinching desire for popularity sees her seduced by power, while Elphaba's determination to remain true to herself, and to those around her, will have unexpected and shocking consequences on her future. Their extraordinary adventures in Oz will ultimately see them fulfill their destinies as Glinda the Good and the Wicked Witch of the West. \n",
+      "runtime": 160,
       "times": [
         {
-          "starts_at": "2025-01-01T13:20:00+00:00",
+          "starts_at": "2025-01-01T16:20:00+00:00",
           "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-53119/"
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-53639/"
         },
         {
-          "starts_at": "2025-01-01T18:00:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-53638/"
-        },
-        {
-          "starts_at": "2025-01-01T20:00:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-53637/"
-        },
-        {
-          "starts_at": "2025-01-01T13:30:00+00:00",
+          "starts_at": "2025-01-01T16:40:00+00:00",
           "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-78420/"
-        },
-        {
-          "starts_at": "2025-01-01T18:00:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-78414/"
-        },
-        {
-          "starts_at": "2025-01-01T14:00:00+00:00",
-          "site": "Curzon Mayfair",
-          "url": "https://www.curzon.com/ticketing/seats/MAY1-28874/"
-        },
-        {
-          "starts_at": "2025-01-01T16:50:00+00:00",
-          "site": "Curzon Mayfair",
-          "url": "https://www.curzon.com/ticketing/seats/MAY1-28876/"
-        },
-        {
-          "starts_at": "2025-01-01T13:00:00+00:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-19805/"
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-78411/"
         }
       ]
     },
@@ -55,11 +25,6 @@
       "runtime": 135,
       "times": [
         {
-          "starts_at": "2025-01-01T13:40:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-53108/"
-        },
-        {
           "starts_at": "2025-01-01T16:40:00+00:00",
           "site": "Curzon Aldgate",
           "url": "https://www.curzon.com/ticketing/seats/ALD1-53109/"
@@ -68,11 +33,6 @@
           "starts_at": "2025-01-01T19:40:00+00:00",
           "site": "Curzon Aldgate",
           "url": "https://www.curzon.com/ticketing/seats/ALD1-53110/"
-        },
-        {
-          "starts_at": "2025-01-01T14:00:00+00:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-47581/"
         },
         {
           "starts_at": "2025-01-01T17:00:00+00:00",
@@ -85,11 +45,6 @@
           "url": "https://www.curzon.com/ticketing/seats/SOH1-47583/"
         },
         {
-          "starts_at": "2025-01-01T14:15:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-78409/"
-        },
-        {
           "starts_at": "2025-01-01T17:15:00+00:00",
           "site": "Curzon Victoria",
           "url": "https://www.curzon.com/ticketing/seats/VIC1-78416/"
@@ -100,19 +55,9 @@
           "url": "https://www.curzon.com/ticketing/seats/VIC1-78417/"
         },
         {
-          "starts_at": "2025-01-01T14:20:00+00:00",
-          "site": "Curzon Mayfair",
-          "url": "https://www.curzon.com/ticketing/seats/MAY1-28567/"
-        },
-        {
           "starts_at": "2025-01-01T20:00:00+00:00",
           "site": "Curzon Mayfair",
           "url": "https://www.curzon.com/ticketing/seats/MAY1-28569/"
-        },
-        {
-          "starts_at": "2025-01-01T14:00:00+00:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-19366/"
         },
         {
           "starts_at": "2025-01-01T17:20:00+00:00",
@@ -120,14 +65,9 @@
           "url": "https://www.curzon.com/ticketing/seats/HOX1-19367/"
         },
         {
-          "starts_at": "2025-01-01T20:00:00+00:00",
+          "starts_at": "2025-01-01T20:10:00+00:00",
           "site": "Curzon Hoxton",
           "url": "https://www.curzon.com/ticketing/seats/HOX1-19368/"
-        },
-        {
-          "starts_at": "2025-01-01T15:00:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-29877/"
         },
         {
           "starts_at": "2025-01-01T18:00:00+00:00",
@@ -148,11 +88,6 @@
       "runtime": 132,
       "times": [
         {
-          "starts_at": "2025-01-01T14:00:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-53635/"
-        },
-        {
           "starts_at": "2025-01-01T17:20:00+00:00",
           "site": "Curzon Aldgate",
           "url": "https://www.curzon.com/ticketing/seats/ALD1-53634/"
@@ -163,24 +98,9 @@
           "url": "https://www.curzon.com/ticketing/seats/ALD1-53081/"
         },
         {
-          "starts_at": "2025-01-01T13:40:00+00:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-47590/"
-        },
-        {
-          "starts_at": "2025-01-01T16:40:00+00:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-47589/"
-        },
-        {
           "starts_at": "2025-01-01T19:40:00+00:00",
           "site": "Curzon Soho",
           "url": "https://www.curzon.com/ticketing/seats/SOH1-47588/"
-        },
-        {
-          "starts_at": "2025-01-01T14:30:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-78421/"
         },
         {
           "starts_at": "2025-01-01T17:30:00+00:00",
@@ -203,11 +123,6 @@
           "url": "https://www.curzon.com/ticketing/seats/HOX1-19636/"
         },
         {
-          "starts_at": "2025-01-01T14:40:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-29897/"
-        },
-        {
           "starts_at": "2025-01-01T18:20:00+00:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-29906/"
@@ -216,11 +131,6 @@
           "starts_at": "2025-01-01T20:20:00+00:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-29903/"
-        },
-        {
-          "starts_at": "2025-01-01T14:50:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-96138/"
         },
         {
           "starts_at": "2025-01-01T17:50:00+00:00",
@@ -235,33 +145,30 @@
       ]
     },
     {
-      "title": "Wicked Sing-Along",
-      "trailer": "https://www.youtube.com/watch?v=5omDWGdDmJ8",
-      "synopsis": "Wicked, the untold story of the witches of Oz, stars Emmy, Grammy and Tony winning powerhouse Cynthia Erivo (Harriet, Broadway’s The Color Purple) as Elphaba, a young woman, misunderstood because of her unusual green skin, who has yet to discover her true power, and Grammy-winning, multi-platinum recording artist and global superstar Ariana Grande as Glinda, a popular young woman, gilded by privilege and ambition, who has yet to discover her true heart. \n \nThe two meet as students at Shiz University in the fantastical Land of Oz and forge an unlikely but profound friendship. Following an encounter with The Wonderful Wizard of Oz, their friendship reaches a crossroads and their lives take very different paths. Glinda's unflinching desire for popularity sees her seduced by power, while Elphaba's determination to remain true to herself, and to those around her, will have unexpected and shocking consequences on her future. Their extraordinary adventures in Oz will ultimately see them fulfill their destinies as Glinda the Good and the Wicked Witch of the West. \n",
-      "runtime": 160,
+      "title": "Mufasa: The Lion King",
+      "trailer": "https://www.youtube.com/watch?v=do0c3iLWdE8",
+      "synopsis": "Simba, having become king of the Pride Lands, is determined for his cub to follow in his footsteps while the origins of his late father Mufasa are explored.",
+      "runtime": 118,
       "times": [
         {
-          "starts_at": "2025-01-01T14:20:00+00:00",
+          "starts_at": "2025-01-01T18:00:00+00:00",
           "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-53747/"
-        }
-      ]
-    },
-    {
-      "title": "Wicked",
-      "trailer": "https://www.youtube.com/watch?v=5omDWGdDmJ8",
-      "synopsis": "Wicked, the untold story of the witches of Oz, stars Emmy, Grammy and Tony winning powerhouse Cynthia Erivo (Harriet, Broadway’s The Color Purple) as Elphaba, a young woman, misunderstood because of her unusual green skin, who has yet to discover her true power, and Grammy-winning, multi-platinum recording artist and global superstar Ariana Grande as Glinda, a popular young woman, gilded by privilege and ambition, who has yet to discover her true heart. \n \nThe two meet as students at Shiz University in the fantastical Land of Oz and forge an unlikely but profound friendship. Following an encounter with The Wonderful Wizard of Oz, their friendship reaches a crossroads and their lives take very different paths. Glinda's unflinching desire for popularity sees her seduced by power, while Elphaba's determination to remain true to herself, and to those around her, will have unexpected and shocking consequences on her future. Their extraordinary adventures in Oz will ultimately see them fulfill their destinies as Glinda the Good and the Wicked Witch of the West. \n",
-      "runtime": 160,
-      "times": [
-        {
-          "starts_at": "2025-01-01T16:20:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-53639/"
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-53638/"
         },
         {
-          "starts_at": "2025-01-01T16:40:00+00:00",
+          "starts_at": "2025-01-01T20:00:00+00:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-53637/"
+        },
+        {
+          "starts_at": "2025-01-01T18:00:00+00:00",
           "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-78411/"
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-78414/"
+        },
+        {
+          "starts_at": "2025-01-01T16:50:00+00:00",
+          "site": "Curzon Mayfair",
+          "url": "https://www.curzon.com/ticketing/seats/MAY1-28876/"
         }
       ]
     },
@@ -275,59 +182,6 @@
           "starts_at": "2025-01-01T20:40:00+00:00",
           "site": "Curzon Aldgate",
           "url": "https://www.curzon.com/ticketing/seats/ALD1-53636/"
-        },
-        {
-          "starts_at": "2025-01-01T14:00:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-78410/"
-        },
-        {
-          "starts_at": "2025-01-01T15:20:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-29907/"
-        },
-        {
-          "starts_at": "2025-01-01T15:10:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-96177/"
-        }
-      ]
-    },
-    {
-      "title": "Anora",
-      "trailer": null,
-      "synopsis": "Anora, a young sex worker from Brooklyn, meets and impulsively marries the son of an oligarch. Once the news reaches Russia, her fairytale is threatened as the parents set out for New York to get the marriage annulled.",
-      "runtime": 139,
-      "times": [
-        {
-          "starts_at": "2025-01-01T14:20:00+00:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-48108/"
-        },
-        {
-          "starts_at": "2025-01-01T14:20:00+00:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-19787/"
-        },
-        {
-          "starts_at": "2025-01-01T17:20:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-29908/"
-        },
-        {
-          "starts_at": "2025-01-01T14:20:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-96173/"
-        },
-        {
-          "starts_at": "2025-01-01T17:20:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-96182/"
-        },
-        {
-          "starts_at": "2025-01-01T20:40:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-96180/"
         }
       ]
     },
@@ -341,11 +195,6 @@
           "starts_at": "2025-01-01T17:20:00+00:00",
           "site": "Curzon Soho",
           "url": "https://www.curzon.com/ticketing/seats/SOH1-48107/"
-        },
-        {
-          "starts_at": "2025-01-01T15:15:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-78413/"
         },
         {
           "starts_at": "2025-01-01T20:45:00+00:00",
@@ -394,11 +243,6 @@
           "starts_at": "2025-01-01T20:20:00+00:00",
           "site": "Curzon Soho",
           "url": "https://www.curzon.com/ticketing/seats/SOH1-48106/"
-        },
-        {
-          "starts_at": "2025-01-01T14:00:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-29905/"
         },
         {
           "starts_at": "2025-01-01T20:00:00+00:00",
@@ -469,34 +313,6 @@
       ]
     },
     {
-      "title": "How to Make Millions before Grandma Dies",
-      "trailer": "https://www.youtube.com/watch?v=MompGcjMr8E",
-      "synopsis": "A man quits work to care for dying grandmother, motivated by her fortune. He schemes to win her favor before she passes.",
-      "runtime": 126,
-      "times": [
-        {
-          "starts_at": "2025-01-01T14:20:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-29909/"
-        },
-        {
-          "starts_at": "2025-01-01T20:40:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-29900/"
-        },
-        {
-          "starts_at": "2025-01-01T14:30:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-96175/"
-        },
-        {
-          "starts_at": "2025-01-01T20:10:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-96176/"
-        }
-      ]
-    },
-    {
       "title": "Emilia Pérez",
       "trailer": null,
       "synopsis": "From renegade auteur Jacques Audiard comes Emilia Pérez, an audacious fever dream that defies genres and expectations. Through liberating song and dance and bold visuals, this odyssey follows the journey of four remarkable women in Mexico, each pursuing their own happiness. The fearsome cartel leader Emilia (Karla Sofía Gascón) enlists Rita (Zoe Saldaña), an unappreciated lawyer stuck in a dead-end job, to help fake her death so that Emilia can finally live authentically as her true self. ",
@@ -510,15 +326,43 @@
       ]
     },
     {
-      "title": "DocHouse: Wilding",
+      "title": "Anora",
       "trailer": null,
-      "synopsis": "Based on Isabella Tree’s best-selling book by the same title, Wilding tells the story of a young couple that bets on nature for the future of their failing, four-hundred-year-old estate.\r\n\r\nThe young couple battles entrenched tradition, and dares to place the fate of their farm in the hands of nature. Ripping down the fences, they set the land back to the wild and entrust its recovery to a motley mix of animals both tame and wild.\r\n\r\nIt is the beginning of a grand experiment that will become one of the most significant rewilding experiments in Europe.",
-      "runtime": 75,
+      "synopsis": "Anora, a young sex worker from Brooklyn, meets and impulsively marries the son of an oligarch. Once the news reaches Russia, her fairytale is threatened as the parents set out for New York to get the marriage annulled.",
+      "runtime": 139,
       "times": [
         {
-          "starts_at": "2025-01-01T14:40:00+00:00",
+          "starts_at": "2025-01-01T17:20:00+00:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-29908/"
+        },
+        {
+          "starts_at": "2025-01-01T17:20:00+00:00",
           "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-95589/"
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-96182/"
+        },
+        {
+          "starts_at": "2025-01-01T20:40:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-96180/"
+        }
+      ]
+    },
+    {
+      "title": "How to Make Millions before Grandma Dies",
+      "trailer": "https://www.youtube.com/watch?v=MompGcjMr8E",
+      "synopsis": "A man quits work to care for dying grandmother, motivated by her fortune. He schemes to win her favor before she passes.",
+      "runtime": 126,
+      "times": [
+        {
+          "starts_at": "2025-01-01T20:40:00+00:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-29900/"
+        },
+        {
+          "starts_at": "2025-01-01T20:10:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-96176/"
         }
       ]
     },
