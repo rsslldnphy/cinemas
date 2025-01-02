@@ -1,57 +1,6 @@
 {
   "2025-01-02": [
     {
-      "title": "Better Man",
-      "trailer": "https://www.youtube.com/watch?v=gorwiQGj_BM",
-      "synopsis": "Better Man looks at the rise, fall and resurrection of Williams – one of the UK’s bestselling artists of all time. Michael Gracey will shine light on the incredible highs and lows of celebrity and the journey to stardom, inspired by Williams’ life and how he sees himself. \n\nThe fantastical musical will be filled with reimagined versions of Williams’ musical hits and iconic performances, with spectacular set pieces and stunning visual effects created by the Academy Award® winning team at Weta FX (Avatar, Lord of the Rings trilogy). Williams stars alongside Jonno Davies (Hunters, Kingsman: The Secret Service).",
-      "runtime": 135,
-      "times": [
-        {
-          "starts_at": "2025-01-02T20:00:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-53114/"
-        },
-        {
-          "starts_at": "2025-01-02T20:30:00+00:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-47587/"
-        },
-        {
-          "starts_at": "2025-01-02T20:15:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-77593/"
-        },
-        {
-          "starts_at": "2025-01-02T20:40:00+00:00",
-          "site": "Curzon Mayfair",
-          "url": "https://www.curzon.com/ticketing/seats/MAY1-28572/"
-        },
-        {
-          "starts_at": "2025-01-02T20:20:00+00:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-19372/"
-        },
-        {
-          "starts_at": "2025-01-02T21:00:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-29124/"
-        }
-      ]
-    },
-    {
-      "title": "Mufasa: The Lion King",
-      "trailer": "https://www.youtube.com/watch?v=do0c3iLWdE8",
-      "synopsis": "Simba, having become king of the Pride Lands, is determined for his cub to follow in his footsteps while the origins of his late father Mufasa are explored.",
-      "runtime": 118,
-      "times": [
-        {
-          "starts_at": "2025-01-02T20:20:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-53754/"
-        }
-      ]
-    },
-    {
       "title": "Nosferatu",
       "trailer": "https://www.youtube.com/watch?v=Px6S0RxfAHg",
       "synopsis": "Robert Eggers’ Nosferatu is a gothic tale of obsession between a haunted young woman and the terrifying vampire infatuated with her, causing untold horror in its wake.",
@@ -103,6 +52,29 @@
       ]
     },
     {
+      "title": "Better Man",
+      "trailer": "https://www.youtube.com/watch?v=gorwiQGj_BM",
+      "synopsis": "Better Man looks at the rise, fall and resurrection of Williams – one of the UK’s bestselling artists of all time. Michael Gracey will shine light on the incredible highs and lows of celebrity and the journey to stardom, inspired by Williams’ life and how he sees himself. \n\nThe fantastical musical will be filled with reimagined versions of Williams’ musical hits and iconic performances, with spectacular set pieces and stunning visual effects created by the Academy Award® winning team at Weta FX (Avatar, Lord of the Rings trilogy). Williams stars alongside Jonno Davies (Hunters, Kingsman: The Secret Service).",
+      "runtime": 135,
+      "times": [
+        {
+          "starts_at": "2025-01-02T20:30:00+00:00",
+          "site": "Curzon Soho",
+          "url": "https://www.curzon.com/ticketing/seats/SOH1-47587/"
+        },
+        {
+          "starts_at": "2025-01-02T20:40:00+00:00",
+          "site": "Curzon Mayfair",
+          "url": "https://www.curzon.com/ticketing/seats/MAY1-28572/"
+        },
+        {
+          "starts_at": "2025-01-02T21:00:00+00:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-29124/"
+        }
+      ]
+    },
+    {
       "title": "2073",
       "trailer": "https://www.youtube.com/watch?v=9NFOQTRTJqw",
       "synopsis": "It’s the year 2073, and the worst fears of modern life have been realized. Surveillance drones fill the burnt orange skies and militarized police roam the wrecked streets, while survivors hide away underground, struggling to remember a free and hopeful existence. In this ingenious mixture of visionary science fiction and speculative nonfiction, Academy Award®-winning filmmaker Asif Kapadia (Amy) transports us to a future foreshadowed by the terrifying realities of our present moment. Two-time Academy Award® nominee Samantha Morton (In America, Sweet and Lowdown, Minority Report) plays a survivor besieged by nightmare visions of the past—a past that happens to be our present, visualized through contemporary footage interconnecting today’s global crises of authoritarianism, unchecked big tech, inequality, and global climate change. 2073 is an urgent, unshakable vision of a dystopic future that could very well be our own.",
@@ -112,42 +84,6 @@
           "starts_at": "2025-01-02T21:30:00+00:00",
           "site": "Curzon Soho",
           "url": "https://www.curzon.com/ticketing/seats/SOH1-47930/"
-        }
-      ]
-    },
-    {
-      "title": "We Live in Time",
-      "trailer": "https://www.youtube.com/watch?v=bS0Clau5700",
-      "synopsis": "An up-and-coming chef and a recent divorcée find their lives forever changed when a chance encounter brings them together, in a decade-spanning, deeply moving romance.",
-      "runtime": 107,
-      "times": [
-        {
-          "starts_at": "2025-01-02T18:45:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-78386/"
-        },
-        {
-          "starts_at": "2025-01-02T21:15:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-78385/"
-        },
-        {
-          "starts_at": "2025-01-02T20:40:00+00:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-19806/"
-        }
-      ]
-    },
-    {
-      "title": "Gladiator II",
-      "trailer": "https://www.youtube.com/watch?v=3_OFWynGGuU",
-      "synopsis": "From legendary director Ridley Scott, Gladiator II continues the epic saga of power, intrigue, and vengeance set in Ancient Rome. Years after witnessing the death of the revered hero Maximus at the hands of his uncle, Lucius (Paul Mescal) is forced to enter the Colosseum after his home is conquered by the tyrannical Emperors who now lead Rome with an iron fist. With rage in his heart and the future of the Empire at stake, Lucius must look to his past to find strength and honor to return the glory of Rome to its people.",
-      "runtime": 148,
-      "times": [
-        {
-          "starts_at": "2025-01-02T20:00:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-78397/"
         }
       ]
     },
@@ -163,11 +99,6 @@
           "url": "https://www.curzon.com/ticketing/seats/VIC1-78393/"
         },
         {
-          "starts_at": "2025-01-02T20:20:00+00:00",
-          "site": "Curzon Mayfair",
-          "url": "https://www.curzon.com/ticketing/seats/MAY1-28881/"
-        },
-        {
           "starts_at": "2025-01-02T21:20:00+00:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-29879/"
@@ -180,38 +111,20 @@
       ]
     },
     {
-      "title": "Queer",
-      "trailer": "https://www.youtube.com/watch?v=ZM-BYlk1fMU",
-      "synopsis": "In 1950s Mexico City, William Lee (Daniel Craig), an American ex-pat in his late forties, leads a solitary life amidst a small American community. The arrival in town of Eugene Allerton, a young student, stirs William into finally establishing a meaningful connection\nwith someone.",
-      "runtime": 137,
+      "title": "We Live in Time",
+      "trailer": "https://www.youtube.com/watch?v=bS0Clau5700",
+      "synopsis": "An up-and-coming chef and a recent divorcée find their lives forever changed when a chance encounter brings them together, in a decade-spanning, deeply moving romance.",
+      "runtime": 107,
       "times": [
         {
-          "starts_at": "2025-01-02T20:00:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-29880/"
+          "starts_at": "2025-01-02T21:15:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-78385/"
         },
         {
-          "starts_at": "2025-01-02T20:20:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-96142/"
-        }
-      ]
-    },
-    {
-      "title": "How to Make Millions before Grandma Dies",
-      "trailer": "https://www.youtube.com/watch?v=MompGcjMr8E",
-      "synopsis": "A man quits work to care for dying grandmother, motivated by her fortune. He schemes to win her favor before she passes.",
-      "runtime": 126,
-      "times": [
-        {
-          "starts_at": "2025-01-02T20:20:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-29884/"
-        },
-        {
-          "starts_at": "2025-01-02T20:50:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-96140/"
+          "starts_at": "2025-01-02T20:40:00+00:00",
+          "site": "Curzon Hoxton",
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-19806/"
         }
       ]
     },
@@ -225,6 +138,19 @@
           "starts_at": "2025-01-02T20:30:00+00:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-96149/"
+        }
+      ]
+    },
+    {
+      "title": "How to Make Millions before Grandma Dies",
+      "trailer": "https://www.youtube.com/watch?v=MompGcjMr8E",
+      "synopsis": "A man quits work to care for dying grandmother, motivated by her fortune. He schemes to win her favor before she passes.",
+      "runtime": 126,
+      "times": [
+        {
+          "starts_at": "2025-01-02T20:50:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-96140/"
         }
       ]
     }
