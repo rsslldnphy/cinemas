@@ -1,44 +1,6 @@
 {
   "2025-01-04": [
     {
-      "title": "Nosferatu",
-      "trailer": "https://www.youtube.com/watch?v=Px6S0RxfAHg",
-      "synopsis": "Robert Eggers’ Nosferatu is a gothic tale of obsession between a haunted young woman and the terrifying vampire infatuated with her, causing untold horror in its wake.",
-      "runtime": 132,
-      "times": [
-        {
-          "starts_at": "2025-01-04T19:40:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-53773/"
-        },
-        {
-          "starts_at": "2025-01-04T21:20:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-53546/"
-        },
-        {
-          "starts_at": "2025-01-04T20:40:00+00:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-47836/"
-        },
-        {
-          "starts_at": "2025-01-04T20:45:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-78048/"
-        },
-        {
-          "starts_at": "2025-01-04T20:40:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-29570/"
-        },
-        {
-          "starts_at": "2025-01-04T20:40:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-95774/"
-        }
-      ]
-    },
-    {
       "title": "Gladiator II",
       "trailer": "https://www.youtube.com/watch?v=3_OFWynGGuU",
       "synopsis": "From legendary director Ridley Scott, Gladiator II continues the epic saga of power, intrigue, and vengeance set in Ancient Rome. Years after witnessing the death of the revered hero Maximus at the hands of his uncle, Lucius (Paul Mescal) is forced to enter the Colosseum after his home is conquered by the tyrannical Emperors who now lead Rome with an iron fist. With rage in his heart and the future of the Empire at stake, Lucius must look to his past to find strength and honor to return the glory of Rome to its people.",
@@ -68,11 +30,6 @@
           "url": "https://www.curzon.com/ticketing/seats/ALD1-53850/"
         },
         {
-          "starts_at": "2025-01-04T18:45:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-78045/"
-        },
-        {
           "starts_at": "2025-01-04T21:15:00+00:00",
           "site": "Curzon Victoria",
           "url": "https://www.curzon.com/ticketing/seats/VIC1-78044/"
@@ -95,35 +52,35 @@
       ]
     },
     {
-      "title": "Nickel Boys",
-      "trailer": null,
-      "synopsis": "The Nickel Boys is based on the historic reform school in 1960s Florida called the Dozier School for Boys, which was notorious for abusive treatment of students. It explores the story of Elwood Curtis, a young African-American boy who is sent to the Nickel Academy, a fictional version of the Dozier School, after he is falsely accused of a crime. While there, he meets a boy named Turner, and the two form a close friendship as they try to survive the horrors of the school and its corrupt administrators.",
-      "runtime": 140,
+      "title": "Nosferatu",
+      "trailer": "https://www.youtube.com/watch?v=Px6S0RxfAHg",
+      "synopsis": "Robert Eggers’ Nosferatu is a gothic tale of obsession between a haunted young woman and the terrifying vampire infatuated with her, causing untold horror in its wake.",
+      "runtime": 132,
       "times": [
         {
-          "starts_at": "2025-01-04T20:20:00+00:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-47841/"
-        },
-        {
-          "starts_at": "2025-01-04T20:20:00+00:00",
-          "site": "Curzon Mayfair",
-          "url": "https://www.curzon.com/ticketing/seats/MAY1-28890/"
+          "starts_at": "2025-01-04T21:20:00+00:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-53546/"
         },
         {
           "starts_at": "2025-01-04T20:40:00+00:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-19869/"
+          "site": "Curzon Soho",
+          "url": "https://www.curzon.com/ticketing/seats/SOH1-47836/"
         },
         {
-          "starts_at": "2025-01-04T20:20:00+00:00",
+          "starts_at": "2025-01-04T20:45:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-78048/"
+        },
+        {
+          "starts_at": "2025-01-04T20:40:00+00:00",
           "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-29569/"
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-29570/"
         },
         {
-          "starts_at": "2025-01-04T21:00:00+00:00",
+          "starts_at": "2025-01-04T20:40:00+00:00",
           "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-95770/"
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-95774/"
         }
       ]
     },
@@ -137,29 +94,6 @@
           "starts_at": "2025-01-04T21:00:00+00:00",
           "site": "Curzon Soho",
           "url": "https://www.curzon.com/ticketing/seats/SOH1-48121/"
-        },
-        {
-          "starts_at": "2025-01-04T20:00:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-29932/"
-        },
-        {
-          "starts_at": "2025-01-04T20:20:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-96231/"
-        }
-      ]
-    },
-    {
-      "title": "Wicked",
-      "trailer": "https://www.youtube.com/watch?v=5omDWGdDmJ8",
-      "synopsis": "Wicked, the untold story of the witches of Oz, stars Emmy, Grammy and Tony winning powerhouse Cynthia Erivo (Harriet, Broadway’s The Color Purple) as Elphaba, a young woman, misunderstood because of her unusual green skin, who has yet to discover her true power, and Grammy-winning, multi-platinum recording artist and global superstar Ariana Grande as Glinda, a popular young woman, gilded by privilege and ambition, who has yet to discover her true heart. \n \nThe two meet as students at Shiz University in the fantastical Land of Oz and forge an unlikely but profound friendship. Following an encounter with The Wonderful Wizard of Oz, their friendship reaches a crossroads and their lives take very different paths. Glinda's unflinching desire for popularity sees her seduced by power, while Elphaba's determination to remain true to herself, and to those around her, will have unexpected and shocking consequences on her future. Their extraordinary adventures in Oz will ultimately see them fulfill their destinies as Glinda the Good and the Wicked Witch of the West. \n",
-      "runtime": 160,
-      "times": [
-        {
-          "starts_at": "2025-01-04T20:00:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-78430/"
         }
       ]
     },
@@ -187,6 +121,24 @@
       ]
     },
     {
+      "title": "Nickel Boys",
+      "trailer": null,
+      "synopsis": "The Nickel Boys is based on the historic reform school in 1960s Florida called the Dozier School for Boys, which was notorious for abusive treatment of students. It explores the story of Elwood Curtis, a young African-American boy who is sent to the Nickel Academy, a fictional version of the Dozier School, after he is falsely accused of a crime. While there, he meets a boy named Turner, and the two form a close friendship as they try to survive the horrors of the school and its corrupt administrators.",
+      "runtime": 140,
+      "times": [
+        {
+          "starts_at": "2025-01-04T20:40:00+00:00",
+          "site": "Curzon Hoxton",
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-19869/"
+        },
+        {
+          "starts_at": "2025-01-04T21:00:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-95770/"
+        }
+      ]
+    },
+    {
       "title": "All We Imagine as Light",
       "trailer": "https://www.youtube.com/watch?v=Yf1jAx6VhZ8",
       "synopsis": "All We Imagine as Light is a beautiful, sweeping, emotional film that explores the complexities of female friendship and captures the frantic pace, the vibrant colours and the heady atmosphere of modern Mumbai.\n\nIn the city, thoughtful Nurse Prabha’s routine is upset when she receives an unexpected gift from her estranged husband. Her younger, flightier and rebellious roommate, Anu, tries in vain to find a spot in the city to be intimate with her secret boyfriend. Their colleague Parvaty fights to stay in her home without any requisite paperwork left by her late husband. A trip to a beach town allows them each to find a space for their desires to manifest. \n\nPayal Kapadia’s hugely acclaimed fiction debut was the first Indian film to be selected in Official Competition at Cannes in three decades, where it was awarded the Grand Prix.\n",
@@ -196,32 +148,6 @@
           "starts_at": "2025-01-04T21:20:00+00:00",
           "site": "Curzon Hoxton",
           "url": "https://www.curzon.com/ticketing/seats/HOX1-19816/"
-        }
-      ]
-    },
-    {
-      "title": "Queer",
-      "trailer": "https://www.youtube.com/watch?v=ZM-BYlk1fMU",
-      "synopsis": "In 1950s Mexico City, William Lee (Daniel Craig), an American ex-pat in his late forties, leads a solitary life amidst a small American community. The arrival in town of Eugene Allerton, a young student, stirs William into finally establishing a meaningful connection\nwith someone.",
-      "runtime": 137,
-      "times": [
-        {
-          "starts_at": "2025-01-04T18:30:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-29931/"
-        }
-      ]
-    },
-    {
-      "title": "DocHouse: Grand Theft Hamlet",
-      "trailer": null,
-      "synopsis": "Two jobless actors attempt to stage a production of Hamlet entirely within the video game Grand Theft Auto - an ambitious quest that turns out to be both absurdly funny and unexpectedly moving.\r\n\r\nJanuary 2021. The UK is in another lockdown and all entertainment venues remain closed. For theatre actors Sam and Mark, the future looks bleak. As the pandemic drags on, they spend their days in the online digital world of Grand Theft Auto and when they stumble across a theatre, the idea to stage a full Shakespeare play quickly takes shape.\r\n\r\nFilmed entirely within GTA, GRAND THEFT HAMLET charts their ridiculous, hilarious adventure, through casting, rehearsals and performance, as they battle violent griefers and discover surprising truths about life, friendship and the enduring power of Shakespeare.",
-      "runtime": 90,
-      "times": [
-        {
-          "starts_at": "2025-01-04T20:00:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-96284/"
         }
       ]
     },
