@@ -1,67 +1,6 @@
 {
   "2025-01-05": [
     {
-      "title": "Nosferatu",
-      "trailer": "https://www.youtube.com/watch?v=Px6S0RxfAHg",
-      "synopsis": "Robert Eggers’ Nosferatu is a gothic tale of obsession between a haunted young woman and the terrifying vampire infatuated with her, causing untold horror in its wake.",
-      "runtime": 132,
-      "times": [
-        {
-          "starts_at": "2025-01-05T19:20:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-53785/"
-        },
-        {
-          "starts_at": "2025-01-05T21:00:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-53548/"
-        },
-        {
-          "starts_at": "2025-01-05T20:50:00+00:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-47853/"
-        },
-        {
-          "starts_at": "2025-01-05T20:15:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-78084/"
-        },
-        {
-          "starts_at": "2025-01-05T20:40:00+00:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-19657/"
-        },
-        {
-          "starts_at": "2025-01-05T19:30:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-29581/"
-        },
-        {
-          "starts_at": "2025-01-05T20:10:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-95782/"
-        }
-      ]
-    },
-    {
-      "title": "Gladiator II",
-      "trailer": "https://www.youtube.com/watch?v=3_OFWynGGuU",
-      "synopsis": "From legendary director Ridley Scott, Gladiator II continues the epic saga of power, intrigue, and vengeance set in Ancient Rome. Years after witnessing the death of the revered hero Maximus at the hands of his uncle, Lucius (Paul Mescal) is forced to enter the Colosseum after his home is conquered by the tyrannical Emperors who now lead Rome with an iron fist. With rage in his heart and the future of the Empire at stake, Lucius must look to his past to find strength and honor to return the glory of Rome to its people.",
-      "runtime": 148,
-      "times": [
-        {
-          "starts_at": "2025-01-05T20:20:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-53787/"
-        },
-        {
-          "starts_at": "2025-01-05T20:00:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-78451/"
-        }
-      ]
-    },
-    {
       "title": "We Live in Time",
       "trailer": "https://www.youtube.com/watch?v=bS0Clau5700",
       "synopsis": "An up-and-coming chef and a recent divorcée find their lives forever changed when a chance encounter brings them together, in a decade-spanning, deeply moving romance.",
@@ -78,11 +17,6 @@
           "url": "https://www.curzon.com/ticketing/seats/VIC1-78088/"
         },
         {
-          "starts_at": "2025-01-05T20:15:00+00:00",
-          "site": "Curzon Mayfair",
-          "url": "https://www.curzon.com/ticketing/seats/MAY1-28894/"
-        },
-        {
           "starts_at": "2025-01-05T20:30:00+00:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-29940/"
@@ -90,30 +24,25 @@
       ]
     },
     {
-      "title": "Anora",
-      "trailer": null,
-      "synopsis": "Anora, a young sex worker from Brooklyn, meets and impulsively marries the son of an oligarch. Once the news reaches Russia, her fairytale is threatened as the parents set out for New York to get the marriage annulled.",
-      "runtime": 139,
+      "title": "Nosferatu",
+      "trailer": "https://www.youtube.com/watch?v=Px6S0RxfAHg",
+      "synopsis": "Robert Eggers’ Nosferatu is a gothic tale of obsession between a haunted young woman and the terrifying vampire infatuated with her, causing untold horror in its wake.",
+      "runtime": 132,
       "times": [
         {
-          "starts_at": "2025-01-05T19:50:00+00:00",
+          "starts_at": "2025-01-05T21:00:00+00:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-53548/"
+        },
+        {
+          "starts_at": "2025-01-05T20:50:00+00:00",
           "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-48122/"
-        },
-        {
-          "starts_at": "2025-01-05T20:20:00+00:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-19827/"
-        },
-        {
-          "starts_at": "2025-01-05T20:10:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-29944/"
+          "url": "https://www.curzon.com/ticketing/seats/SOH1-47853/"
         },
         {
           "starts_at": "2025-01-05T20:40:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-96207/"
+          "site": "Curzon Hoxton",
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-19657/"
         }
       ]
     },
@@ -127,39 +56,6 @@
           "starts_at": "2025-01-05T20:30:00+00:00",
           "site": "Curzon Soho",
           "url": "https://www.curzon.com/ticketing/seats/SOH1-47848/"
-        },
-        {
-          "starts_at": "2025-01-05T19:40:00+00:00",
-          "site": "Curzon Mayfair",
-          "url": "https://www.curzon.com/ticketing/seats/MAY1-28728/"
-        },
-        {
-          "starts_at": "2025-01-05T20:00:00+00:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-19871/"
-        },
-        {
-          "starts_at": "2025-01-05T19:50:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-29582/"
-        },
-        {
-          "starts_at": "2025-01-05T20:20:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-95778/"
-        }
-      ]
-    },
-    {
-      "title": "Wicked",
-      "trailer": "https://www.youtube.com/watch?v=5omDWGdDmJ8",
-      "synopsis": "Wicked, the untold story of the witches of Oz, stars Emmy, Grammy and Tony winning powerhouse Cynthia Erivo (Harriet, Broadway’s The Color Purple) as Elphaba, a young woman, misunderstood because of her unusual green skin, who has yet to discover her true power, and Grammy-winning, multi-platinum recording artist and global superstar Ariana Grande as Glinda, a popular young woman, gilded by privilege and ambition, who has yet to discover her true heart. \n \nThe two meet as students at Shiz University in the fantastical Land of Oz and forge an unlikely but profound friendship. Following an encounter with The Wonderful Wizard of Oz, their friendship reaches a crossroads and their lives take very different paths. Glinda's unflinching desire for popularity sees her seduced by power, while Elphaba's determination to remain true to herself, and to those around her, will have unexpected and shocking consequences on her future. Their extraordinary adventures in Oz will ultimately see them fulfill their destinies as Glinda the Good and the Wicked Witch of the West. \n",
-      "runtime": 160,
-      "times": [
-        {
-          "starts_at": "2025-01-05T19:30:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-78454/"
         }
       ]
     },
@@ -175,11 +71,6 @@
           "url": "https://www.curzon.com/ticketing/seats/VIC1-78442/"
         },
         {
-          "starts_at": "2025-01-05T19:10:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-29947/"
-        },
-        {
           "starts_at": "2025-01-05T20:30:00+00:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-96208/"
@@ -187,15 +78,15 @@
       ]
     },
     {
-      "title": "DocHouse: The Bibi Files",
+      "title": "Anora",
       "trailer": null,
-      "synopsis": "Using never-seen-before interrogation footage of Israeli Prime Minister Benjamin Netanyahu, his family, his closest associates, and benefactors, Director Alexis Bloom and Oscar-winning Producer Alex Gibney uncover high-level familial corruption and the disastrous lengths a political leader will go to escape accountability. THE BIBI FILES is a film about a man singularly focused on his own political survival in a region beset by war.\r\n\r\nLeaked footage from police interrogation videos are interwoven with archival footage that shows Netanyahu’s rise to power, and how his nearly 30-year rule as Prime Minister has divided the state of Israel. Interspersed throughout are interviews with prominent journalists, Israeli statesmen, Netanyahu's associates, and longtime friends, whose observations and anecdotes reveal a chilling portrait of a leader who, in his drive to evade justice, has aligned himself with radical right-wing extremists. Netanyahu’s fixation on his entitlement to remain Prime Minister has, in this way, led to political decisions that have endangered Israel’s safety, and destroyed her standing as a democracy in the Middle East.\r\n",
-      "runtime": 113,
+      "synopsis": "Anora, a young sex worker from Brooklyn, meets and impulsively marries the son of an oligarch. Once the news reaches Russia, her fairytale is threatened as the parents set out for New York to get the marriage annulled.",
+      "runtime": 139,
       "times": [
         {
-          "starts_at": "2025-01-05T19:20:00+00:00",
+          "starts_at": "2025-01-05T20:40:00+00:00",
           "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-96285/"
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-96207/"
         }
       ]
     },
@@ -3442,11 +3333,6 @@
           "starts_at": "2025-01-12T15:20:00+00:00",
           "site": "Curzon Mayfair",
           "url": "https://www.curzon.com/ticketing/seats/MAY1-28840/"
-        },
-        {
-          "starts_at": "2025-01-12T20:40:00+00:00",
-          "site": "Curzon Mayfair",
-          "url": "https://www.curzon.com/ticketing/seats/MAY1-28841/"
         },
         {
           "starts_at": "2025-01-12T18:00:00+00:00",
