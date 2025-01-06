@@ -1,16 +1,29 @@
 {
   "2025-01-06": [
     {
+      "title": "Gladiator II",
+      "trailer": "https://www.youtube.com/watch?v=3_OFWynGGuU",
+      "synopsis": "From legendary director Ridley Scott, Gladiator II continues the epic saga of power, intrigue, and vengeance set in Ancient Rome. Years after witnessing the death of the revered hero Maximus at the hands of his uncle, Lucius (Paul Mescal) is forced to enter the Colosseum after his home is conquered by the tyrannical Emperors who now lead Rome with an iron fist. With rage in his heart and the future of the Empire at stake, Lucius must look to his past to find strength and honor to return the glory of Rome to its people.",
+      "runtime": 148,
+      "times": [
+        {
+          "starts_at": "2025-01-06T20:40:00+00:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-53792/"
+        },
+        {
+          "starts_at": "2025-01-06T20:30:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-78468/"
+        }
+      ]
+    },
+    {
       "title": "Nosferatu",
       "trailer": "https://www.youtube.com/watch?v=Px6S0RxfAHg",
       "synopsis": "Robert Eggers’ Nosferatu is a gothic tale of obsession between a haunted young woman and the terrifying vampire infatuated with her, causing untold horror in its wake.",
       "runtime": 132,
       "times": [
-        {
-          "starts_at": "2025-01-06T19:40:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-53794/"
-        },
         {
           "starts_at": "2025-01-06T21:00:00+00:00",
           "site": "Curzon Aldgate",
@@ -39,24 +52,6 @@
       ]
     },
     {
-      "title": "Gladiator II",
-      "trailer": "https://www.youtube.com/watch?v=3_OFWynGGuU",
-      "synopsis": "From legendary director Ridley Scott, Gladiator II continues the epic saga of power, intrigue, and vengeance set in Ancient Rome. Years after witnessing the death of the revered hero Maximus at the hands of his uncle, Lucius (Paul Mescal) is forced to enter the Colosseum after his home is conquered by the tyrannical Emperors who now lead Rome with an iron fist. With rage in his heart and the future of the Empire at stake, Lucius must look to his past to find strength and honor to return the glory of Rome to its people.",
-      "runtime": 148,
-      "times": [
-        {
-          "starts_at": "2025-01-06T20:40:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-53792/"
-        },
-        {
-          "starts_at": "2025-01-06T20:30:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-78468/"
-        }
-      ]
-    },
-    {
       "title": "We Live in Time",
       "trailer": "https://www.youtube.com/watch?v=bS0Clau5700",
       "synopsis": "An up-and-coming chef and a recent divorcée find their lives forever changed when a chance encounter brings them together, in a decade-spanning, deeply moving romance.",
@@ -66,11 +61,6 @@
           "starts_at": "2025-01-06T21:20:00+00:00",
           "site": "Curzon Aldgate",
           "url": "https://www.curzon.com/ticketing/seats/ALD1-53852/"
-        },
-        {
-          "starts_at": "2025-01-06T18:45:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-78095/"
         },
         {
           "starts_at": "2025-01-06T21:15:00+00:00",
@@ -106,11 +96,6 @@
           "url": "https://www.curzon.com/ticketing/seats/SOH1-48129/"
         },
         {
-          "starts_at": "2025-01-06T20:00:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-29961/"
-        },
-        {
           "starts_at": "2025-01-06T20:30:00+00:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-96249/"
@@ -129,32 +114,9 @@
           "url": "https://www.curzon.com/ticketing/seats/SOH1-47855/"
         },
         {
-          "starts_at": "2025-01-06T20:15:00+00:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-19873/"
-        },
-        {
-          "starts_at": "2025-01-06T19:40:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-29589/"
-        },
-        {
           "starts_at": "2025-01-06T20:50:00+00:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-95738/"
-        }
-      ]
-    },
-    {
-      "title": "Wicked",
-      "trailer": "https://www.youtube.com/watch?v=5omDWGdDmJ8",
-      "synopsis": "Wicked, the untold story of the witches of Oz, stars Emmy, Grammy and Tony winning powerhouse Cynthia Erivo (Harriet, Broadway’s The Color Purple) as Elphaba, a young woman, misunderstood because of her unusual green skin, who has yet to discover her true power, and Grammy-winning, multi-platinum recording artist and global superstar Ariana Grande as Glinda, a popular young woman, gilded by privilege and ambition, who has yet to discover her true heart. \n \nThe two meet as students at Shiz University in the fantastical Land of Oz and forge an unlikely but profound friendship. Following an encounter with The Wonderful Wizard of Oz, their friendship reaches a crossroads and their lives take very different paths. Glinda's unflinching desire for popularity sees her seduced by power, while Elphaba's determination to remain true to herself, and to those around her, will have unexpected and shocking consequences on her future. Their extraordinary adventures in Oz will ultimately see them fulfill their destinies as Glinda the Good and the Wicked Witch of the West. \n",
-      "runtime": 160,
-      "times": [
-        {
-          "starts_at": "2025-01-06T20:00:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-78471/"
         }
       ]
     },
@@ -175,16 +137,6 @@
           "url": "https://www.curzon.com/ticketing/seats/MAY1-28898/"
         },
         {
-          "starts_at": "2025-01-06T20:20:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-29953/"
-        },
-        {
-          "starts_at": "2025-01-06T18:30:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-96253/"
-        },
-        {
           "starts_at": "2025-01-06T21:10:00+00:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-96250/"
@@ -201,19 +153,6 @@
           "starts_at": "2025-01-06T20:40:00+00:00",
           "site": "Curzon Hoxton",
           "url": "https://www.curzon.com/ticketing/seats/HOX1-19851/"
-        }
-      ]
-    },
-    {
-      "title": "DocHouse: Soundtrack to a Coup d'État",
-      "trailer": "https://www.youtube.com/watch?v=sHjUJjaG0q0",
-      "synopsis": "Jazz and decolonization are entwined in this historical rollercoaster that rewrites the Cold War episode that led musicians Abbey Lincoln and Max Roach to crash the UN Security Council in protest against the murder of Patrice Lumumba.",
-      "runtime": 150,
-      "times": [
-        {
-          "starts_at": "2025-01-06T20:20:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-96289/"
         }
       ]
     },
@@ -2378,6 +2317,11 @@
           "url": "https://www.curzon.com/ticketing/seats/ALD1-53640/"
         },
         {
+          "starts_at": "2025-01-10T15:40:00+00:00",
+          "site": "Curzon Soho",
+          "url": "https://www.curzon.com/ticketing/seats/SOH1-48025/"
+        },
+        {
           "starts_at": "2025-01-10T20:40:00+00:00",
           "site": "Curzon Soho",
           "url": "https://www.curzon.com/ticketing/seats/SOH1-48024/"
@@ -2522,6 +2466,26 @@
           "url": "https://www.curzon.com/ticketing/seats/ALD1-53678/"
         },
         {
+          "starts_at": "2025-01-10T11:40:00+00:00",
+          "site": "Curzon Soho",
+          "url": "https://www.curzon.com/ticketing/seats/SOH1-48022/"
+        },
+        {
+          "starts_at": "2025-01-10T14:40:00+00:00",
+          "site": "Curzon Soho",
+          "url": "https://www.curzon.com/ticketing/seats/SOH1-48021/"
+        },
+        {
+          "starts_at": "2025-01-10T17:40:00+00:00",
+          "site": "Curzon Soho",
+          "url": "https://www.curzon.com/ticketing/seats/SOH1-48019/"
+        },
+        {
+          "starts_at": "2025-01-10T21:00:00+00:00",
+          "site": "Curzon Soho",
+          "url": "https://www.curzon.com/ticketing/seats/SOH1-48020/"
+        },
+        {
           "starts_at": "2025-01-10T14:30:00+00:00",
           "site": "Curzon Victoria",
           "url": "https://www.curzon.com/ticketing/seats/VIC1-78246/"
@@ -2613,6 +2577,16 @@
           "starts_at": "2025-01-10T21:20:00+00:00",
           "site": "Curzon Aldgate",
           "url": "https://www.curzon.com/ticketing/seats/ALD1-53675/"
+        },
+        {
+          "starts_at": "2025-01-10T11:00:00+00:00",
+          "site": "Curzon Soho",
+          "url": "https://www.curzon.com/ticketing/seats/SOH1-48036/"
+        },
+        {
+          "starts_at": "2025-01-10T13:20:00+00:00",
+          "site": "Curzon Soho",
+          "url": "https://www.curzon.com/ticketing/seats/SOH1-48026/"
         },
         {
           "starts_at": "2025-01-10T18:20:00+00:00",
@@ -2713,6 +2687,16 @@
           "url": "https://www.curzon.com/ticketing/seats/ALD1-53860/"
         },
         {
+          "starts_at": "2025-01-10T11:15:00+00:00",
+          "site": "Curzon Soho",
+          "url": "https://www.curzon.com/ticketing/seats/SOH1-48144/"
+        },
+        {
+          "starts_at": "2025-01-10T20:20:00+00:00",
+          "site": "Curzon Soho",
+          "url": "https://www.curzon.com/ticketing/seats/SOH1-48147/"
+        },
+        {
           "starts_at": "2025-01-10T17:30:00+00:00",
           "site": "Curzon Mayfair",
           "url": "https://www.curzon.com/ticketing/seats/MAY1-28915/"
@@ -2754,6 +2738,67 @@
           "starts_at": "2025-01-10T15:00:00+00:00",
           "site": "Curzon Aldgate",
           "url": "https://www.curzon.com/ticketing/seats/ALD1-53863/"
+        }
+      ]
+    },
+    {
+      "title": "All We Imagine as Light",
+      "trailer": "https://www.youtube.com/watch?v=Yf1jAx6VhZ8",
+      "synopsis": "All We Imagine as Light is a beautiful, sweeping, emotional film that explores the complexities of female friendship and captures the frantic pace, the vibrant colours and the heady atmosphere of modern Mumbai.\n\nIn the city, thoughtful Nurse Prabha’s routine is upset when she receives an unexpected gift from her estranged husband. Her younger, flightier and rebellious roommate, Anu, tries in vain to find a spot in the city to be intimate with her secret boyfriend. Their colleague Parvaty fights to stay in her home without any requisite paperwork left by her late husband. A trip to a beach town allows them each to find a space for their desires to manifest. \n\nPayal Kapadia’s hugely acclaimed fiction debut was the first Indian film to be selected in Official Competition at Cannes in three decades, where it was awarded the Grand Prix.\n",
+      "runtime": 118,
+      "times": [
+        {
+          "starts_at": "2025-01-10T14:20:00+00:00",
+          "site": "Curzon Soho",
+          "url": "https://www.curzon.com/ticketing/seats/SOH1-48163/"
+        },
+        {
+          "starts_at": "2025-01-10T17:30:00+00:00",
+          "site": "Curzon Hoxton",
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-19886/"
+        },
+        {
+          "starts_at": "2025-01-10T12:00:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-96318/"
+        },
+        {
+          "starts_at": "2025-01-10T18:30:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-96312/"
+        }
+      ]
+    },
+    {
+      "title": "Anora",
+      "trailer": null,
+      "synopsis": "Anora, a young sex worker from Brooklyn, meets and impulsively marries the son of an oligarch. Once the news reaches Russia, her fairytale is threatened as the parents set out for New York to get the marriage annulled.",
+      "runtime": 139,
+      "times": [
+        {
+          "starts_at": "2025-01-10T17:15:00+00:00",
+          "site": "Curzon Soho",
+          "url": "https://www.curzon.com/ticketing/seats/SOH1-48162/"
+        },
+        {
+          "starts_at": "2025-01-10T20:20:00+00:00",
+          "site": "Curzon Hoxton",
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-19882/"
+        },
+        {
+          "starts_at": "2025-01-10T14:00:00+00:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-30034/"
+        },
+        {
+          "starts_at": "2025-01-10T19:50:00+00:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-30033/"
+        },
+        {
+          "starts_at": "2025-01-10T15:30:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-96316/"
         }
       ]
     },
@@ -2877,57 +2922,6 @@
       ]
     },
     {
-      "title": "All We Imagine as Light",
-      "trailer": "https://www.youtube.com/watch?v=Yf1jAx6VhZ8",
-      "synopsis": "All We Imagine as Light is a beautiful, sweeping, emotional film that explores the complexities of female friendship and captures the frantic pace, the vibrant colours and the heady atmosphere of modern Mumbai.\n\nIn the city, thoughtful Nurse Prabha’s routine is upset when she receives an unexpected gift from her estranged husband. Her younger, flightier and rebellious roommate, Anu, tries in vain to find a spot in the city to be intimate with her secret boyfriend. Their colleague Parvaty fights to stay in her home without any requisite paperwork left by her late husband. A trip to a beach town allows them each to find a space for their desires to manifest. \n\nPayal Kapadia’s hugely acclaimed fiction debut was the first Indian film to be selected in Official Competition at Cannes in three decades, where it was awarded the Grand Prix.\n",
-      "runtime": 118,
-      "times": [
-        {
-          "starts_at": "2025-01-10T17:30:00+00:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-19886/"
-        },
-        {
-          "starts_at": "2025-01-10T12:00:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-96318/"
-        },
-        {
-          "starts_at": "2025-01-10T18:30:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-96312/"
-        }
-      ]
-    },
-    {
-      "title": "Anora",
-      "trailer": null,
-      "synopsis": "Anora, a young sex worker from Brooklyn, meets and impulsively marries the son of an oligarch. Once the news reaches Russia, her fairytale is threatened as the parents set out for New York to get the marriage annulled.",
-      "runtime": 139,
-      "times": [
-        {
-          "starts_at": "2025-01-10T20:20:00+00:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-19882/"
-        },
-        {
-          "starts_at": "2025-01-10T14:00:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-30034/"
-        },
-        {
-          "starts_at": "2025-01-10T19:50:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-30033/"
-        },
-        {
-          "starts_at": "2025-01-10T15:30:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-96316/"
-        }
-      ]
-    },
-    {
       "title": "Emilia Pérez",
       "trailer": null,
       "synopsis": "From renegade auteur Jacques Audiard comes Emilia Pérez, an audacious fever dream that defies genres and expectations. Through liberating song and dance and bold visuals, this odyssey follows the journey of four remarkable women in Mexico, each pursuing their own happiness. The fearsome cartel leader Emilia (Karla Sofía Gascón) enlists Rita (Zoe Saldaña), an unappreciated lawyer stuck in a dead-end job, to help fake her death so that Emilia can finally live authentically as her true self. ",
@@ -3042,6 +3036,16 @@
           "starts_at": "2025-01-11T21:20:00+00:00",
           "site": "Curzon Aldgate",
           "url": "https://www.curzon.com/ticketing/seats/ALD1-53645/"
+        },
+        {
+          "starts_at": "2025-01-11T11:00:00+00:00",
+          "site": "Curzon Soho",
+          "url": "https://www.curzon.com/ticketing/seats/SOH1-48035/"
+        },
+        {
+          "starts_at": "2025-01-11T16:00:00+00:00",
+          "site": "Curzon Soho",
+          "url": "https://www.curzon.com/ticketing/seats/SOH1-48027/"
         },
         {
           "starts_at": "2025-01-11T21:00:00+00:00",
@@ -3213,6 +3217,26 @@
           "url": "https://www.curzon.com/ticketing/seats/ALD1-53681/"
         },
         {
+          "starts_at": "2025-01-11T11:40:00+00:00",
+          "site": "Curzon Soho",
+          "url": "https://www.curzon.com/ticketing/seats/SOH1-48031/"
+        },
+        {
+          "starts_at": "2025-01-11T14:40:00+00:00",
+          "site": "Curzon Soho",
+          "url": "https://www.curzon.com/ticketing/seats/SOH1-48032/"
+        },
+        {
+          "starts_at": "2025-01-11T17:40:00+00:00",
+          "site": "Curzon Soho",
+          "url": "https://www.curzon.com/ticketing/seats/SOH1-48034/"
+        },
+        {
+          "starts_at": "2025-01-11T20:40:00+00:00",
+          "site": "Curzon Soho",
+          "url": "https://www.curzon.com/ticketing/seats/SOH1-48033/"
+        },
+        {
           "starts_at": "2025-01-11T14:30:00+00:00",
           "site": "Curzon Victoria",
           "url": "https://www.curzon.com/ticketing/seats/VIC1-78557/"
@@ -3306,6 +3330,11 @@
           "url": "https://www.curzon.com/ticketing/seats/ALD1-53679/"
         },
         {
+          "starts_at": "2025-01-11T13:20:00+00:00",
+          "site": "Curzon Soho",
+          "url": "https://www.curzon.com/ticketing/seats/SOH1-48028/"
+        },
+        {
           "starts_at": "2025-01-11T18:20:00+00:00",
           "site": "Curzon Soho",
           "url": "https://www.curzon.com/ticketing/seats/SOH1-48029/"
@@ -3379,6 +3408,16 @@
           "url": "https://www.curzon.com/ticketing/seats/ALD1-53866/"
         },
         {
+          "starts_at": "2025-01-11T14:20:00+00:00",
+          "site": "Curzon Soho",
+          "url": "https://www.curzon.com/ticketing/seats/SOH1-48148/"
+        },
+        {
+          "starts_at": "2025-01-11T20:20:00+00:00",
+          "site": "Curzon Soho",
+          "url": "https://www.curzon.com/ticketing/seats/SOH1-48149/"
+        },
+        {
           "starts_at": "2025-01-11T14:45:00+00:00",
           "site": "Curzon Mayfair",
           "url": "https://www.curzon.com/ticketing/seats/MAY1-28918/"
@@ -3415,6 +3454,52 @@
           "starts_at": "2025-01-11T15:20:00+00:00",
           "site": "Curzon Aldgate",
           "url": "https://www.curzon.com/ticketing/seats/ALD1-53871/"
+        }
+      ]
+    },
+    {
+      "title": "All We Imagine as Light",
+      "trailer": "https://www.youtube.com/watch?v=Yf1jAx6VhZ8",
+      "synopsis": "All We Imagine as Light is a beautiful, sweeping, emotional film that explores the complexities of female friendship and captures the frantic pace, the vibrant colours and the heady atmosphere of modern Mumbai.\n\nIn the city, thoughtful Nurse Prabha’s routine is upset when she receives an unexpected gift from her estranged husband. Her younger, flightier and rebellious roommate, Anu, tries in vain to find a spot in the city to be intimate with her secret boyfriend. Their colleague Parvaty fights to stay in her home without any requisite paperwork left by her late husband. A trip to a beach town allows them each to find a space for their desires to manifest. \n\nPayal Kapadia’s hugely acclaimed fiction debut was the first Indian film to be selected in Official Competition at Cannes in three decades, where it was awarded the Grand Prix.\n",
+      "runtime": 118,
+      "times": [
+        {
+          "starts_at": "2025-01-11T11:20:00+00:00",
+          "site": "Curzon Soho",
+          "url": "https://www.curzon.com/ticketing/seats/SOH1-48164/"
+        },
+        {
+          "starts_at": "2025-01-11T14:20:00+00:00",
+          "site": "Curzon Hoxton",
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-19893/"
+        },
+        {
+          "starts_at": "2025-01-11T12:00:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-96321/"
+        },
+        {
+          "starts_at": "2025-01-11T18:30:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-96327/"
+        }
+      ]
+    },
+    {
+      "title": "Queer",
+      "trailer": "https://www.youtube.com/watch?v=ZM-BYlk1fMU",
+      "synopsis": "In 1950s Mexico City, William Lee (Daniel Craig), an American ex-pat in his late forties, leads a solitary life amidst a small American community. The arrival in town of Eugene Allerton, a young student, stirs William into finally establishing a meaningful connection\nwith someone.",
+      "runtime": 137,
+      "times": [
+        {
+          "starts_at": "2025-01-11T17:20:00+00:00",
+          "site": "Curzon Soho",
+          "url": "https://www.curzon.com/ticketing/seats/SOH1-48161/"
+        },
+        {
+          "starts_at": "2025-01-11T17:20:00+00:00",
+          "site": "Curzon Hoxton",
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-19929/"
         }
       ]
     },
@@ -3552,42 +3637,6 @@
           "starts_at": "2025-01-11T10:30:00+00:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-30148/"
-        }
-      ]
-    },
-    {
-      "title": "All We Imagine as Light",
-      "trailer": "https://www.youtube.com/watch?v=Yf1jAx6VhZ8",
-      "synopsis": "All We Imagine as Light is a beautiful, sweeping, emotional film that explores the complexities of female friendship and captures the frantic pace, the vibrant colours and the heady atmosphere of modern Mumbai.\n\nIn the city, thoughtful Nurse Prabha’s routine is upset when she receives an unexpected gift from her estranged husband. Her younger, flightier and rebellious roommate, Anu, tries in vain to find a spot in the city to be intimate with her secret boyfriend. Their colleague Parvaty fights to stay in her home without any requisite paperwork left by her late husband. A trip to a beach town allows them each to find a space for their desires to manifest. \n\nPayal Kapadia’s hugely acclaimed fiction debut was the first Indian film to be selected in Official Competition at Cannes in three decades, where it was awarded the Grand Prix.\n",
-      "runtime": 118,
-      "times": [
-        {
-          "starts_at": "2025-01-11T14:20:00+00:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-19893/"
-        },
-        {
-          "starts_at": "2025-01-11T12:00:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-96321/"
-        },
-        {
-          "starts_at": "2025-01-11T18:30:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-96327/"
-        }
-      ]
-    },
-    {
-      "title": "Queer",
-      "trailer": "https://www.youtube.com/watch?v=ZM-BYlk1fMU",
-      "synopsis": "In 1950s Mexico City, William Lee (Daniel Craig), an American ex-pat in his late forties, leads a solitary life amidst a small American community. The arrival in town of Eugene Allerton, a young student, stirs William into finally establishing a meaningful connection\nwith someone.",
-      "runtime": 137,
-      "times": [
-        {
-          "starts_at": "2025-01-11T17:20:00+00:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-19929/"
         }
       ]
     },
@@ -3736,6 +3785,11 @@
           "url": "https://www.curzon.com/ticketing/seats/ALD1-53660/"
         },
         {
+          "starts_at": "2025-01-12T15:20:00+00:00",
+          "site": "Curzon Soho",
+          "url": "https://www.curzon.com/ticketing/seats/SOH1-48038/"
+        },
+        {
           "starts_at": "2025-01-12T20:20:00+00:00",
           "site": "Curzon Soho",
           "url": "https://www.curzon.com/ticketing/seats/SOH1-48039/"
@@ -3880,6 +3934,26 @@
           "url": "https://www.curzon.com/ticketing/seats/ALD1-53874/"
         },
         {
+          "starts_at": "2025-01-12T11:00:00+00:00",
+          "site": "Curzon Soho",
+          "url": "https://www.curzon.com/ticketing/seats/SOH1-48041/"
+        },
+        {
+          "starts_at": "2025-01-12T14:00:00+00:00",
+          "site": "Curzon Soho",
+          "url": "https://www.curzon.com/ticketing/seats/SOH1-48042/"
+        },
+        {
+          "starts_at": "2025-01-12T17:00:00+00:00",
+          "site": "Curzon Soho",
+          "url": "https://www.curzon.com/ticketing/seats/SOH1-48044/"
+        },
+        {
+          "starts_at": "2025-01-12T20:00:00+00:00",
+          "site": "Curzon Soho",
+          "url": "https://www.curzon.com/ticketing/seats/SOH1-48043/"
+        },
+        {
           "starts_at": "2025-01-12T14:00:00+00:00",
           "site": "Curzon Victoria",
           "url": "https://www.curzon.com/ticketing/seats/VIC1-78574/"
@@ -3971,6 +4045,16 @@
           "starts_at": "2025-01-12T21:00:00+00:00",
           "site": "Curzon Aldgate",
           "url": "https://www.curzon.com/ticketing/seats/ALD1-53873/"
+        },
+        {
+          "starts_at": "2025-01-12T10:50:00+00:00",
+          "site": "Curzon Soho",
+          "url": "https://www.curzon.com/ticketing/seats/SOH1-48056/"
+        },
+        {
+          "starts_at": "2025-01-12T13:00:00+00:00",
+          "site": "Curzon Soho",
+          "url": "https://www.curzon.com/ticketing/seats/SOH1-48037/"
         },
         {
           "starts_at": "2025-01-12T18:00:00+00:00",
@@ -4071,6 +4155,16 @@
           "url": "https://www.curzon.com/ticketing/seats/ALD1-53879/"
         },
         {
+          "starts_at": "2025-01-12T11:20:00+00:00",
+          "site": "Curzon Soho",
+          "url": "https://www.curzon.com/ticketing/seats/SOH1-48150/"
+        },
+        {
+          "starts_at": "2025-01-12T17:20:00+00:00",
+          "site": "Curzon Soho",
+          "url": "https://www.curzon.com/ticketing/seats/SOH1-48151/"
+        },
+        {
           "starts_at": "2025-01-12T17:00:00+00:00",
           "site": "Curzon Mayfair",
           "url": "https://www.curzon.com/ticketing/seats/MAY1-28922/"
@@ -4112,6 +4206,52 @@
           "starts_at": "2025-01-12T14:40:00+00:00",
           "site": "Curzon Aldgate",
           "url": "https://www.curzon.com/ticketing/seats/ALD1-53884/"
+        }
+      ]
+    },
+    {
+      "title": "All We Imagine as Light",
+      "trailer": "https://www.youtube.com/watch?v=Yf1jAx6VhZ8",
+      "synopsis": "All We Imagine as Light is a beautiful, sweeping, emotional film that explores the complexities of female friendship and captures the frantic pace, the vibrant colours and the heady atmosphere of modern Mumbai.\n\nIn the city, thoughtful Nurse Prabha’s routine is upset when she receives an unexpected gift from her estranged husband. Her younger, flightier and rebellious roommate, Anu, tries in vain to find a spot in the city to be intimate with her secret boyfriend. Their colleague Parvaty fights to stay in her home without any requisite paperwork left by her late husband. A trip to a beach town allows them each to find a space for their desires to manifest. \n\nPayal Kapadia’s hugely acclaimed fiction debut was the first Indian film to be selected in Official Competition at Cannes in three decades, where it was awarded the Grand Prix.\n",
+      "runtime": 118,
+      "times": [
+        {
+          "starts_at": "2025-01-12T14:30:00+00:00",
+          "site": "Curzon Soho",
+          "url": "https://www.curzon.com/ticketing/seats/SOH1-48160/"
+        },
+        {
+          "starts_at": "2025-01-12T14:40:00+00:00",
+          "site": "Curzon Hoxton",
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-19901/"
+        },
+        {
+          "starts_at": "2025-01-12T11:30:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-96342/"
+        },
+        {
+          "starts_at": "2025-01-12T17:50:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-96336/"
+        }
+      ]
+    },
+    {
+      "title": "Queer",
+      "trailer": "https://www.youtube.com/watch?v=ZM-BYlk1fMU",
+      "synopsis": "In 1950s Mexico City, William Lee (Daniel Craig), an American ex-pat in his late forties, leads a solitary life amidst a small American community. The arrival in town of Eugene Allerton, a young student, stirs William into finally establishing a meaningful connection\nwith someone.",
+      "runtime": 137,
+      "times": [
+        {
+          "starts_at": "2025-01-12T20:40:00+00:00",
+          "site": "Curzon Soho",
+          "url": "https://www.curzon.com/ticketing/seats/SOH1-48165/"
+        },
+        {
+          "starts_at": "2025-01-12T20:00:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-96335/"
         }
       ]
     },
@@ -4222,29 +4362,6 @@
       ]
     },
     {
-      "title": "All We Imagine as Light",
-      "trailer": "https://www.youtube.com/watch?v=Yf1jAx6VhZ8",
-      "synopsis": "All We Imagine as Light is a beautiful, sweeping, emotional film that explores the complexities of female friendship and captures the frantic pace, the vibrant colours and the heady atmosphere of modern Mumbai.\n\nIn the city, thoughtful Nurse Prabha’s routine is upset when she receives an unexpected gift from her estranged husband. Her younger, flightier and rebellious roommate, Anu, tries in vain to find a spot in the city to be intimate with her secret boyfriend. Their colleague Parvaty fights to stay in her home without any requisite paperwork left by her late husband. A trip to a beach town allows them each to find a space for their desires to manifest. \n\nPayal Kapadia’s hugely acclaimed fiction debut was the first Indian film to be selected in Official Competition at Cannes in three decades, where it was awarded the Grand Prix.\n",
-      "runtime": 118,
-      "times": [
-        {
-          "starts_at": "2025-01-12T14:40:00+00:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-19901/"
-        },
-        {
-          "starts_at": "2025-01-12T11:30:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-96342/"
-        },
-        {
-          "starts_at": "2025-01-12T17:50:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-96336/"
-        }
-      ]
-    },
-    {
       "title": "Anora",
       "trailer": null,
       "synopsis": "Anora, a young sex worker from Brooklyn, meets and impulsively marries the son of an oligarch. Once the news reaches Russia, her fairytale is threatened as the parents set out for New York to get the marriage annulled.",
@@ -4343,19 +4460,6 @@
       ]
     },
     {
-      "title": "Queer",
-      "trailer": "https://www.youtube.com/watch?v=ZM-BYlk1fMU",
-      "synopsis": "In 1950s Mexico City, William Lee (Daniel Craig), an American ex-pat in his late forties, leads a solitary life amidst a small American community. The arrival in town of Eugene Allerton, a young student, stirs William into finally establishing a meaningful connection\nwith someone.",
-      "runtime": 137,
-      "times": [
-        {
-          "starts_at": "2025-01-12T20:00:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-96335/"
-        }
-      ]
-    },
-    {
       "title": "DocHouse: Grand Theft Hamlet",
       "trailer": null,
       "synopsis": "Two jobless actors attempt to stage a production of Hamlet entirely within the video game Grand Theft Auto - an ambitious quest that turns out to be both absurdly funny and unexpectedly moving.\r\n\r\nJanuary 2021. The UK is in another lockdown and all entertainment venues remain closed. For theatre actors Sam and Mark, the future looks bleak. As the pandemic drags on, they spend their days in the online digital world of Grand Theft Auto and when they stumble across a theatre, the idea to stage a full Shakespeare play quickly takes shape.\r\n\r\nFilmed entirely within GTA, GRAND THEFT HAMLET charts their ridiculous, hilarious adventure, through casting, rehearsals and performance, as they battle violent griefers and discover surprising truths about life, friendship and the enduring power of Shakespeare.",
@@ -4395,6 +4499,16 @@
           "starts_at": "2025-01-13T21:20:00+00:00",
           "site": "Curzon Aldgate",
           "url": "https://www.curzon.com/ticketing/seats/ALD1-53654/"
+        },
+        {
+          "starts_at": "2025-01-13T12:20:00+00:00",
+          "site": "Curzon Soho",
+          "url": "https://www.curzon.com/ticketing/seats/SOH1-48196/"
+        },
+        {
+          "starts_at": "2025-01-13T18:00:00+00:00",
+          "site": "Curzon Soho",
+          "url": "https://www.curzon.com/ticketing/seats/SOH1-48177/"
         },
         {
           "starts_at": "2025-01-13T12:15:00+00:00",
@@ -4561,6 +4675,26 @@
           "url": "https://www.curzon.com/ticketing/seats/ALD1-53909/"
         },
         {
+          "starts_at": "2025-01-13T12:00:00+00:00",
+          "site": "Curzon Soho",
+          "url": "https://www.curzon.com/ticketing/seats/SOH1-48168/"
+        },
+        {
+          "starts_at": "2025-01-13T14:40:00+00:00",
+          "site": "Curzon Soho",
+          "url": "https://www.curzon.com/ticketing/seats/SOH1-48167/"
+        },
+        {
+          "starts_at": "2025-01-13T17:40:00+00:00",
+          "site": "Curzon Soho",
+          "url": "https://www.curzon.com/ticketing/seats/SOH1-48166/"
+        },
+        {
+          "starts_at": "2025-01-13T20:40:00+00:00",
+          "site": "Curzon Soho",
+          "url": "https://www.curzon.com/ticketing/seats/SOH1-48169/"
+        },
+        {
           "starts_at": "2025-01-13T14:30:00+00:00",
           "site": "Curzon Victoria",
           "url": "https://www.curzon.com/ticketing/seats/VIC1-78592/"
@@ -4654,6 +4788,16 @@
           "url": "https://www.curzon.com/ticketing/seats/ALD1-53912/"
         },
         {
+          "starts_at": "2025-01-13T13:00:00+00:00",
+          "site": "Curzon Soho",
+          "url": "https://www.curzon.com/ticketing/seats/SOH1-48179/"
+        },
+        {
+          "starts_at": "2025-01-13T18:20:00+00:00",
+          "site": "Curzon Soho",
+          "url": "https://www.curzon.com/ticketing/seats/SOH1-48180/"
+        },
+        {
           "starts_at": "2025-01-13T12:45:00+00:00",
           "site": "Curzon Victoria",
           "url": "https://www.curzon.com/ticketing/seats/VIC1-78582/"
@@ -4722,6 +4866,16 @@
           "url": "https://www.curzon.com/ticketing/seats/ALD1-53915/"
         },
         {
+          "starts_at": "2025-01-13T15:00:00+00:00",
+          "site": "Curzon Soho",
+          "url": "https://www.curzon.com/ticketing/seats/SOH1-48152/"
+        },
+        {
+          "starts_at": "2025-01-13T20:20:00+00:00",
+          "site": "Curzon Soho",
+          "url": "https://www.curzon.com/ticketing/seats/SOH1-48153/"
+        },
+        {
           "starts_at": "2025-01-13T14:45:00+00:00",
           "site": "Curzon Mayfair",
           "url": "https://www.curzon.com/ticketing/seats/MAY1-28931/"
@@ -4763,6 +4917,34 @@
           "starts_at": "2025-01-13T15:20:00+00:00",
           "site": "Curzon Aldgate",
           "url": "https://www.curzon.com/ticketing/seats/ALD1-53918/"
+        }
+      ]
+    },
+    {
+      "title": "All We Imagine as Light",
+      "trailer": "https://www.youtube.com/watch?v=Yf1jAx6VhZ8",
+      "synopsis": "All We Imagine as Light is a beautiful, sweeping, emotional film that explores the complexities of female friendship and captures the frantic pace, the vibrant colours and the heady atmosphere of modern Mumbai.\n\nIn the city, thoughtful Nurse Prabha’s routine is upset when she receives an unexpected gift from her estranged husband. Her younger, flightier and rebellious roommate, Anu, tries in vain to find a spot in the city to be intimate with her secret boyfriend. Their colleague Parvaty fights to stay in her home without any requisite paperwork left by her late husband. A trip to a beach town allows them each to find a space for their desires to manifest. \n\nPayal Kapadia’s hugely acclaimed fiction debut was the first Indian film to be selected in Official Competition at Cannes in three decades, where it was awarded the Grand Prix.\n",
+      "runtime": 118,
+      "times": [
+        {
+          "starts_at": "2025-01-13T21:00:00+00:00",
+          "site": "Curzon Soho",
+          "url": "https://www.curzon.com/ticketing/seats/SOH1-48189/"
+        },
+        {
+          "starts_at": "2025-01-13T17:20:00+00:00",
+          "site": "Curzon Hoxton",
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-19934/"
+        },
+        {
+          "starts_at": "2025-01-13T12:00:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-96344/"
+        },
+        {
+          "starts_at": "2025-01-13T18:20:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-96350/"
         }
       ]
     },
@@ -4882,29 +5064,6 @@
           "starts_at": "2025-01-13T20:30:00+00:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-95977/"
-        }
-      ]
-    },
-    {
-      "title": "All We Imagine as Light",
-      "trailer": "https://www.youtube.com/watch?v=Yf1jAx6VhZ8",
-      "synopsis": "All We Imagine as Light is a beautiful, sweeping, emotional film that explores the complexities of female friendship and captures the frantic pace, the vibrant colours and the heady atmosphere of modern Mumbai.\n\nIn the city, thoughtful Nurse Prabha’s routine is upset when she receives an unexpected gift from her estranged husband. Her younger, flightier and rebellious roommate, Anu, tries in vain to find a spot in the city to be intimate with her secret boyfriend. Their colleague Parvaty fights to stay in her home without any requisite paperwork left by her late husband. A trip to a beach town allows them each to find a space for their desires to manifest. \n\nPayal Kapadia’s hugely acclaimed fiction debut was the first Indian film to be selected in Official Competition at Cannes in three decades, where it was awarded the Grand Prix.\n",
-      "runtime": 118,
-      "times": [
-        {
-          "starts_at": "2025-01-13T17:20:00+00:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-19934/"
-        },
-        {
-          "starts_at": "2025-01-13T12:00:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-96344/"
-        },
-        {
-          "starts_at": "2025-01-13T18:20:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-96350/"
         }
       ]
     },
