@@ -1,57 +1,6 @@
 {
   "2025-01-07": [
     {
-      "title": "We Live in Time",
-      "trailer": "https://www.youtube.com/watch?v=bS0Clau5700",
-      "synopsis": "An up-and-coming chef and a recent divorcée find their lives forever changed when a chance encounter brings them together, in a decade-spanning, deeply moving romance.",
-      "runtime": 107,
-      "times": [
-        {
-          "starts_at": "2025-01-07T19:40:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-53854/"
-        },
-        {
-          "starts_at": "2025-01-07T21:20:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-53817/"
-        },
-        {
-          "starts_at": "2025-01-07T21:15:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-78123/"
-        },
-        {
-          "starts_at": "2025-01-07T21:00:00+00:00",
-          "site": "Curzon Mayfair",
-          "url": "https://www.curzon.com/ticketing/seats/MAY1-28902/"
-        },
-        {
-          "starts_at": "2025-01-07T21:20:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-29968/"
-        }
-      ]
-    },
-    {
-      "title": "Gladiator II",
-      "trailer": "https://www.youtube.com/watch?v=3_OFWynGGuU",
-      "synopsis": "From legendary director Ridley Scott, Gladiator II continues the epic saga of power, intrigue, and vengeance set in Ancient Rome. Years after witnessing the death of the revered hero Maximus at the hands of his uncle, Lucius (Paul Mescal) is forced to enter the Colosseum after his home is conquered by the tyrannical Emperors who now lead Rome with an iron fist. With rage in his heart and the future of the Empire at stake, Lucius must look to his past to find strength and honor to return the glory of Rome to its people.",
-      "runtime": 148,
-      "times": [
-        {
-          "starts_at": "2025-01-07T20:20:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-53848/"
-        },
-        {
-          "starts_at": "2025-01-07T20:30:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-78483/"
-        }
-      ]
-    },
-    {
       "title": "Nosferatu",
       "trailer": "https://www.youtube.com/watch?v=Px6S0RxfAHg",
       "synopsis": "Robert Eggers’ Nosferatu is a gothic tale of obsession between a haunted young woman and the terrifying vampire infatuated with her, causing untold horror in its wake.",
@@ -90,6 +39,34 @@
       ]
     },
     {
+      "title": "We Live in Time",
+      "trailer": "https://www.youtube.com/watch?v=bS0Clau5700",
+      "synopsis": "An up-and-coming chef and a recent divorcée find their lives forever changed when a chance encounter brings them together, in a decade-spanning, deeply moving romance.",
+      "runtime": 107,
+      "times": [
+        {
+          "starts_at": "2025-01-07T21:20:00+00:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-53817/"
+        },
+        {
+          "starts_at": "2025-01-07T21:15:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-78123/"
+        },
+        {
+          "starts_at": "2025-01-07T21:00:00+00:00",
+          "site": "Curzon Mayfair",
+          "url": "https://www.curzon.com/ticketing/seats/MAY1-28902/"
+        },
+        {
+          "starts_at": "2025-01-07T21:20:00+00:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-29968/"
+        }
+      ]
+    },
+    {
       "title": "Anora",
       "trailer": null,
       "synopsis": "Anora, a young sex worker from Brooklyn, meets and impulsively marries the son of an oligarch. Once the news reaches Russia, her fairytale is threatened as the parents set out for New York to get the marriage annulled.",
@@ -99,16 +76,6 @@
           "starts_at": "2025-01-07T20:30:00+00:00",
           "site": "Curzon Soho",
           "url": "https://www.curzon.com/ticketing/seats/SOH1-48130/"
-        },
-        {
-          "starts_at": "2025-01-07T20:00:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-29971/"
-        },
-        {
-          "starts_at": "2025-01-07T20:20:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-96219/"
         }
       ]
     },
@@ -134,11 +101,6 @@
           "url": "https://www.curzon.com/ticketing/seats/HOX1-19875/"
         },
         {
-          "starts_at": "2025-01-07T20:20:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-29596/"
-        },
-        {
           "starts_at": "2025-01-07T20:50:00+00:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-95746/"
@@ -146,15 +108,15 @@
       ]
     },
     {
-      "title": "Wicked",
-      "trailer": "https://www.youtube.com/watch?v=5omDWGdDmJ8",
-      "synopsis": "Wicked, the untold story of the witches of Oz, stars Emmy, Grammy and Tony winning powerhouse Cynthia Erivo (Harriet, Broadway’s The Color Purple) as Elphaba, a young woman, misunderstood because of her unusual green skin, who has yet to discover her true power, and Grammy-winning, multi-platinum recording artist and global superstar Ariana Grande as Glinda, a popular young woman, gilded by privilege and ambition, who has yet to discover her true heart. \n \nThe two meet as students at Shiz University in the fantastical Land of Oz and forge an unlikely but profound friendship. Following an encounter with The Wonderful Wizard of Oz, their friendship reaches a crossroads and their lives take very different paths. Glinda's unflinching desire for popularity sees her seduced by power, while Elphaba's determination to remain true to herself, and to those around her, will have unexpected and shocking consequences on her future. Their extraordinary adventures in Oz will ultimately see them fulfill their destinies as Glinda the Good and the Wicked Witch of the West. \n",
-      "runtime": 160,
+      "title": "Gladiator II",
+      "trailer": "https://www.youtube.com/watch?v=3_OFWynGGuU",
+      "synopsis": "From legendary director Ridley Scott, Gladiator II continues the epic saga of power, intrigue, and vengeance set in Ancient Rome. Years after witnessing the death of the revered hero Maximus at the hands of his uncle, Lucius (Paul Mescal) is forced to enter the Colosseum after his home is conquered by the tyrannical Emperors who now lead Rome with an iron fist. With rage in his heart and the future of the Empire at stake, Lucius must look to his past to find strength and honor to return the glory of Rome to its people.",
+      "runtime": 148,
       "times": [
         {
-          "starts_at": "2025-01-07T20:00:00+00:00",
+          "starts_at": "2025-01-07T20:30:00+00:00",
           "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-78486/"
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-78483/"
         }
       ]
     },
@@ -191,19 +153,6 @@
           "starts_at": "2025-01-07T21:20:00+00:00",
           "site": "Curzon Hoxton",
           "url": "https://www.curzon.com/ticketing/seats/HOX1-19834/"
-        }
-      ]
-    },
-    {
-      "title": "DocHouse: The Wolves Always Come At Night",
-      "trailer": null,
-      "synopsis": "Davaa and Zaya (co-writers of the film) live with their children and flock in the Bayankhongor region of Mongolia. But the titular wolf is never far from the door; the climate is changing, which forces the family into an urban centre and a new way of life.\r\n\r\nA breathtaking and heartbreaking blend of documentary and fiction, this film is a timely reminder of the sometimes tenuous foundations of the places we call home, and of the imminence of climate emergency.",
-      "runtime": 96,
-      "times": [
-        {
-          "starts_at": "2025-01-07T20:20:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-95804/"
         }
       ]
     },
