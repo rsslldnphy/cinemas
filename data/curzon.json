@@ -1,16 +1,39 @@
 {
   "2025-01-08": [
     {
+      "title": "We Live in Time",
+      "trailer": "https://www.youtube.com/watch?v=bS0Clau5700",
+      "synopsis": "An up-and-coming chef and a recent divorcée find their lives forever changed when a chance encounter brings them together, in a decade-spanning, deeply moving romance.",
+      "runtime": 107,
+      "times": [
+        {
+          "starts_at": "2025-01-08T20:40:00+00:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-53824/"
+        },
+        {
+          "starts_at": "2025-01-08T21:15:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-78104/"
+        },
+        {
+          "starts_at": "2025-01-08T21:00:00+00:00",
+          "site": "Curzon Hoxton",
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-19653/"
+        },
+        {
+          "starts_at": "2025-01-08T21:00:00+00:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-29991/"
+        }
+      ]
+    },
+    {
       "title": "Nosferatu",
       "trailer": "https://www.youtube.com/watch?v=Px6S0RxfAHg",
       "synopsis": "Robert Eggers’ Nosferatu is a gothic tale of obsession between a haunted young woman and the terrifying vampire infatuated with her, causing untold horror in its wake.",
       "runtime": 132,
       "times": [
-        {
-          "starts_at": "2025-01-08T19:40:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-53821/"
-        },
         {
           "starts_at": "2025-01-08T21:00:00+00:00",
           "site": "Curzon Aldgate",
@@ -39,39 +62,6 @@
       ]
     },
     {
-      "title": "We Live in Time",
-      "trailer": "https://www.youtube.com/watch?v=bS0Clau5700",
-      "synopsis": "An up-and-coming chef and a recent divorcée find their lives forever changed when a chance encounter brings them together, in a decade-spanning, deeply moving romance.",
-      "runtime": 107,
-      "times": [
-        {
-          "starts_at": "2025-01-08T20:40:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-53824/"
-        },
-        {
-          "starts_at": "2025-01-08T18:45:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-78103/"
-        },
-        {
-          "starts_at": "2025-01-08T21:15:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-78104/"
-        },
-        {
-          "starts_at": "2025-01-08T21:00:00+00:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-19653/"
-        },
-        {
-          "starts_at": "2025-01-08T21:00:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-29991/"
-        }
-      ]
-    },
-    {
       "title": "A Real Pain",
       "trailer": "https://www.youtube.com/watch?v=lGeZQWMMDgM",
       "synopsis": "Mismatched cousins David and Benji reunite for a tour through Poland to honor their beloved grandmother. The adventure takes a turn when the odd-couple's old tensions resurface against the backdrop of their family history.",
@@ -88,11 +78,6 @@
           "url": "https://www.curzon.com/ticketing/seats/SOH1-48117/"
         },
         {
-          "starts_at": "2025-01-08T19:15:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-78514/"
-        },
-        {
           "starts_at": "2025-01-08T21:30:00+00:00",
           "site": "Curzon Victoria",
           "url": "https://www.curzon.com/ticketing/seats/VIC1-78513/"
@@ -106,11 +91,6 @@
           "starts_at": "2025-01-08T21:20:00+00:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-29994/"
-        },
-        {
-          "starts_at": "2025-01-08T19:00:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-96277/"
         },
         {
           "starts_at": "2025-01-08T21:10:00+00:00",
@@ -129,16 +109,6 @@
           "starts_at": "2025-01-08T20:50:00+00:00",
           "site": "Curzon Soho",
           "url": "https://www.curzon.com/ticketing/seats/SOH1-47876/"
-        },
-        {
-          "starts_at": "2025-01-08T20:15:00+00:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-19877/"
-        },
-        {
-          "starts_at": "2025-01-08T20:00:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-29603/"
         },
         {
           "starts_at": "2025-01-08T20:50:00+00:00",
@@ -177,11 +147,6 @@
           "url": "https://www.curzon.com/ticketing/seats/MAY1-28906/"
         },
         {
-          "starts_at": "2025-01-08T20:20:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-29988/"
-        },
-        {
           "starts_at": "2025-01-08T21:00:00+00:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-96274/"
@@ -198,19 +163,6 @@
           "starts_at": "2025-01-08T20:40:00+00:00",
           "site": "Curzon Hoxton",
           "url": "https://www.curzon.com/ticketing/seats/HOX1-19864/"
-        }
-      ]
-    },
-    {
-      "title": "DocHouse: No Other Land",
-      "trailer": null,
-      "synopsis": "Basel Adra, a young Palestinian activist from Masafer Yatta, has been fighting his community's mass expulsion by the Israeli occupation since childhood. Basel documents the gradual erasure of Masafer Yatta, as soldiers destroy the homes of families - the largest single act of forced transfer ever carried out in the occupied West Bank. He crosses paths with Yuval, an Israeli journalist who joins his struggle, and for over half a decade they fight against the expulsion while growing closer. Their complex bond is haunted by the extreme inequality between them: Basel, living under a brutal military occupation, and Yuval, unrestricted and free. \r\n\r\nThis film, by a Palestinian-Israeli collective of four young activists, was co-created during the darkest, most terrifying times in the region, as an act of creative resistance to Apartheid and a search for a path towards equality and justice.",
-      "runtime": 96,
-      "times": [
-        {
-          "starts_at": "2025-01-08T20:20:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-96295/"
         }
       ]
     },
