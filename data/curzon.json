@@ -1,30 +1,96 @@
 {
   "2025-01-09": [
     {
+      "title": "Nosferatu",
+      "trailer": "https://www.youtube.com/watch?v=Px6S0RxfAHg",
+      "synopsis": "Robert Eggers’ Nosferatu is a gothic tale of obsession between a haunted young woman and the terrifying vampire infatuated with her, causing untold horror in its wake.",
+      "runtime": 132,
+      "times": [
+        {
+          "starts_at": "2025-01-09T19:40:00+00:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-53834/"
+        },
+        {
+          "starts_at": "2025-01-09T21:00:00+00:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-53842/"
+        },
+        {
+          "starts_at": "2025-01-09T21:00:00+00:00",
+          "site": "Curzon Soho",
+          "url": "https://www.curzon.com/ticketing/seats/SOH1-48015/"
+        },
+        {
+          "starts_at": "2025-01-09T20:45:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-78108/"
+        },
+        {
+          "starts_at": "2025-01-09T21:00:00+00:00",
+          "site": "Curzon Hoxton",
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-19665/"
+        },
+        {
+          "starts_at": "2025-01-09T20:40:00+00:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-29609/"
+        },
+        {
+          "starts_at": "2025-01-09T20:40:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-95758/"
+        }
+      ]
+    },
+    {
+      "title": "A Real Pain",
+      "trailer": "https://www.youtube.com/watch?v=lGeZQWMMDgM",
+      "synopsis": "Mismatched cousins David and Benji reunite for a tour through Poland to honor their beloved grandmother. The adventure takes a turn when the odd-couple's old tensions resurface against the backdrop of their family history.",
+      "runtime": 90,
+      "times": [
+        {
+          "starts_at": "2025-01-09T20:40:00+00:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-53847/"
+        },
+        {
+          "starts_at": "2025-01-09T21:30:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-78528/"
+        },
+        {
+          "starts_at": "2025-01-09T18:30:00+00:00",
+          "site": "Curzon Mayfair",
+          "url": "https://www.curzon.com/ticketing/seats/MAY1-28823/"
+        },
+        {
+          "starts_at": "2025-01-09T18:30:00+00:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-30007/"
+        },
+        {
+          "starts_at": "2025-01-09T21:20:00+00:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-30008/"
+        },
+        {
+          "starts_at": "2025-01-09T20:20:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-96265/"
+        }
+      ]
+    },
+    {
       "title": "We Live in Time",
       "trailer": "https://www.youtube.com/watch?v=bS0Clau5700",
       "synopsis": "An up-and-coming chef and a recent divorcée find their lives forever changed when a chance encounter brings them together, in a decade-spanning, deeply moving romance.",
       "runtime": 107,
       "times": [
         {
-          "starts_at": "2025-01-09T15:40:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-53838/"
-        },
-        {
-          "starts_at": "2025-01-09T18:00:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-53856/"
-        },
-        {
           "starts_at": "2025-01-09T21:20:00+00:00",
           "site": "Curzon Aldgate",
           "url": "https://www.curzon.com/ticketing/seats/ALD1-53846/"
-        },
-        {
-          "starts_at": "2025-01-09T16:15:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-78524/"
         },
         {
           "starts_at": "2025-01-09T18:45:00+00:00",
@@ -42,37 +108,9 @@
           "url": "https://www.curzon.com/ticketing/seats/MAY1-28743/"
         },
         {
-          "starts_at": "2025-01-09T18:20:00+00:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-19664/"
-        },
-        {
-          "starts_at": "2025-01-09T15:30:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-30003/"
-        },
-        {
-          "starts_at": "2025-01-09T17:30:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-30011/"
-        },
-        {
           "starts_at": "2025-01-09T21:00:00+00:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-30010/"
-        }
-      ]
-    },
-    {
-      "title": "The Order",
-      "trailer": "https://www.youtube.com/watch?v=r7vwsrUlFxY",
-      "synopsis": "A riveting historical thriller that recreates one of the largest manhunts in FBI history. Based on a chilling true story, THE ORDER depicts a terrorist group determined to promote their racist ideology — and the lawmen who will go to any lengths to stop them. ",
-      "runtime": 116,
-      "times": [
-        {
-          "starts_at": "2025-01-09T17:00:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-53835/"
         }
       ]
     },
@@ -82,16 +120,6 @@
       "synopsis": "The Nickel Boys is based on the historic reform school in 1960s Florida called the Dozier School for Boys, which was notorious for abusive treatment of students. It explores the story of Elwood Curtis, a young African-American boy who is sent to the Nickel Academy, a fictional version of the Dozier School, after he is falsely accused of a crime. While there, he meets a boy named Turner, and the two form a close friendship as they try to survive the horrors of the school and its corrupt administrators.",
       "runtime": 140,
       "times": [
-        {
-          "starts_at": "2025-01-09T17:40:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-53564/"
-        },
-        {
-          "starts_at": "2025-01-09T17:40:00+00:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-48013/"
-        },
         {
           "starts_at": "2025-01-09T20:40:00+00:00",
           "site": "Curzon Soho",
@@ -113,160 +141,14 @@
           "url": "https://www.curzon.com/ticketing/seats/HOX1-19879/"
         },
         {
-          "starts_at": "2025-01-09T17:10:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-29606/"
-        },
-        {
           "starts_at": "2025-01-09T20:20:00+00:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-29610/"
         },
         {
-          "starts_at": "2025-01-09T17:40:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-95759/"
-        },
-        {
           "starts_at": "2025-01-09T21:00:00+00:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-95754/"
-        }
-      ]
-    },
-    {
-      "title": "Nosferatu",
-      "trailer": "https://www.youtube.com/watch?v=Px6S0RxfAHg",
-      "synopsis": "Robert Eggers’ Nosferatu is a gothic tale of obsession between a haunted young woman and the terrifying vampire infatuated with her, causing untold horror in its wake.",
-      "runtime": 132,
-      "times": [
-        {
-          "starts_at": "2025-01-09T18:20:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-53837/"
-        },
-        {
-          "starts_at": "2025-01-09T19:40:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-53834/"
-        },
-        {
-          "starts_at": "2025-01-09T21:00:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-53842/"
-        },
-        {
-          "starts_at": "2025-01-09T18:00:00+00:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-48014/"
-        },
-        {
-          "starts_at": "2025-01-09T21:00:00+00:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-48015/"
-        },
-        {
-          "starts_at": "2025-01-09T17:45:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-78107/"
-        },
-        {
-          "starts_at": "2025-01-09T20:45:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-78108/"
-        },
-        {
-          "starts_at": "2025-01-09T21:00:00+00:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-19665/"
-        },
-        {
-          "starts_at": "2025-01-09T17:50:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-29604/"
-        },
-        {
-          "starts_at": "2025-01-09T20:40:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-29609/"
-        },
-        {
-          "starts_at": "2025-01-09T18:00:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-95755/"
-        },
-        {
-          "starts_at": "2025-01-09T20:40:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-95758/"
-        }
-      ]
-    },
-    {
-      "title": "A Real Pain",
-      "trailer": "https://www.youtube.com/watch?v=lGeZQWMMDgM",
-      "synopsis": "Mismatched cousins David and Benji reunite for a tour through Poland to honor their beloved grandmother. The adventure takes a turn when the odd-couple's old tensions resurface against the backdrop of their family history.",
-      "runtime": 90,
-      "times": [
-        {
-          "starts_at": "2025-01-09T20:40:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-53847/"
-        },
-        {
-          "starts_at": "2025-01-09T18:20:00+00:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-48018/"
-        },
-        {
-          "starts_at": "2025-01-09T15:45:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-78527/"
-        },
-        {
-          "starts_at": "2025-01-09T18:15:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-78534/"
-        },
-        {
-          "starts_at": "2025-01-09T21:30:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-78528/"
-        },
-        {
-          "starts_at": "2025-01-09T18:30:00+00:00",
-          "site": "Curzon Mayfair",
-          "url": "https://www.curzon.com/ticketing/seats/MAY1-28823/"
-        },
-        {
-          "starts_at": "2025-01-09T16:10:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-30006/"
-        },
-        {
-          "starts_at": "2025-01-09T18:30:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-30007/"
-        },
-        {
-          "starts_at": "2025-01-09T21:20:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-30008/"
-        },
-        {
-          "starts_at": "2025-01-09T15:30:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-96264/"
-        },
-        {
-          "starts_at": "2025-01-09T18:10:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-96266/"
-        },
-        {
-          "starts_at": "2025-01-09T20:20:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-96265/"
         }
       ]
     },
@@ -280,11 +162,6 @@
           "starts_at": "2025-01-09T21:15:00+00:00",
           "site": "Curzon Soho",
           "url": "https://www.curzon.com/ticketing/seats/SOH1-48134/"
-        },
-        {
-          "starts_at": "2025-01-09T18:00:00+00:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-19848/"
         }
       ]
     },
@@ -295,39 +172,14 @@
       "runtime": 120,
       "times": [
         {
-          "starts_at": "2025-01-09T17:30:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-78522/"
-        },
-        {
           "starts_at": "2025-01-09T20:15:00+00:00",
           "site": "Curzon Victoria",
           "url": "https://www.curzon.com/ticketing/seats/VIC1-78523/"
         },
         {
-          "starts_at": "2025-01-09T17:45:00+00:00",
-          "site": "Curzon Mayfair",
-          "url": "https://www.curzon.com/ticketing/seats/MAY1-28908/"
-        },
-        {
-          "starts_at": "2025-01-09T17:40:00+00:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-19846/"
-        },
-        {
           "starts_at": "2025-01-09T20:00:00+00:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-29999/"
-        },
-        {
-          "starts_at": "2025-01-09T15:40:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-96263/"
-        },
-        {
-          "starts_at": "2025-01-09T18:30:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-96256/"
         },
         {
           "starts_at": "2025-01-09T21:10:00+00:00",
@@ -351,58 +203,6 @@
           "starts_at": "2025-01-09T20:30:00+00:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-96260/"
-        }
-      ]
-    },
-    {
-      "title": "Emilia Pérez",
-      "trailer": null,
-      "synopsis": "From renegade auteur Jacques Audiard comes Emilia Pérez, an audacious fever dream that defies genres and expectations. Through liberating song and dance and bold visuals, this odyssey follows the journey of four remarkable women in Mexico, each pursuing their own happiness. The fearsome cartel leader Emilia (Karla Sofía Gascón) enlists Rita (Zoe Saldaña), an unappreciated lawyer stuck in a dead-end job, to help fake her death so that Emilia can finally live authentically as her true self. ",
-      "runtime": 132,
-      "times": [
-        {
-          "starts_at": "2025-01-09T18:10:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-30012/"
-        }
-      ]
-    },
-    {
-      "title": "DocHouse: I Heard It Through The Grapevine",
-      "trailer": null,
-      "synopsis": "Originally released in 1982, I Heard it Through the Grapevine is not so much a portrait of the seminal writer James Baldwin, as a deep immersion into his own exploration of the American South, two decades on from the start of the Civil Rights Movement.\r\n\r\nTravelling across the country, Baldwin revisits the landmarks of the Civil Rights struggle and critical sites of resistance - Selma, Birmingham, Atlanta. As he recalls the progress of the movement, he reunites with friends and former activists, together questioning what has been achieved, twenty years on.\r\n\r\nThis new 4K restoration of I Heard It Through The Grapevine brings James Baldwin back to the screen in his centenary year. While co-directors Dick Fontaine, who passed away in October 2023, and Pat Hartley deftly interweave archive footage, they never stray far from the guiding intellect of Baldwin. The result is an intimate and emotionally charged journey, raising questions that resonate ever louder through the passing decades.\r\n\r\nRestored by Harvard Film Archive. Special thanks to Gugulethu Mseleku, Smokey Fontaine, the late Dick Fontaine, and Pat Hartley.",
-      "runtime": 92,
-      "times": [
-        {
-          "starts_at": "2025-01-09T16:00:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-96297/"
-        }
-      ]
-    },
-    {
-      "title": "Queer",
-      "trailer": "https://www.youtube.com/watch?v=ZM-BYlk1fMU",
-      "synopsis": "In 1950s Mexico City, William Lee (Daniel Craig), an American ex-pat in his late forties, leads a solitary life amidst a small American community. The arrival in town of Eugene Allerton, a young student, stirs William into finally establishing a meaningful connection\nwith someone.",
-      "runtime": 137,
-      "times": [
-        {
-          "starts_at": "2025-01-09T17:30:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-96259/"
-        }
-      ]
-    },
-    {
-      "title": "DocHouse: Pauline Black: A 2-Tone Story",
-      "trailer": null,
-      "synopsis": "Pauline Black, the lead singer of hit band The Selecter, is the living embodiment of the 2-Tone music movement, which helped shift British society towards diversity with a whole new ethos of anti-racism and gender politics. The band had a unique sound and energy, defined by Pauline's distinctive voice and performance, reflecting working class life in Thatcher's England.\r\n\r\nAfter a difficult upbringing, adopted into a white family in Romford, the 2-Tone music movement was the perfect setting for Pauline to explore and express all sides of herself. In this forthright and fascinating film, she tells her own extraordinary life story, traces her legacy and reflects on its relevance today.\r\n",
-      "runtime": 92,
-      "times": [
-        {
-          "starts_at": "2025-01-09T18:20:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-95787/"
         }
       ]
     },
