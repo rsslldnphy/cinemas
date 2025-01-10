@@ -1,72 +1,6 @@
 {
   "2025-01-10": [
     {
-      "title": "A Real Pain",
-      "trailer": "https://www.youtube.com/watch?v=lGeZQWMMDgM",
-      "synopsis": "Mismatched cousins David and Benji reunite for a tour through Poland to honor their beloved grandmother. The adventure takes a turn when the odd-couple's old tensions resurface against the backdrop of their family history.",
-      "runtime": 90,
-      "times": [
-        {
-          "starts_at": "2025-01-10T18:40:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-53641/"
-        },
-        {
-          "starts_at": "2025-01-10T21:20:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-53675/"
-        },
-        {
-          "starts_at": "2025-01-10T19:00:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-78252/"
-        },
-        {
-          "starts_at": "2025-01-10T21:15:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-78251/"
-        },
-        {
-          "starts_at": "2025-01-10T21:00:00+00:00",
-          "site": "Curzon Mayfair",
-          "url": "https://www.curzon.com/ticketing/seats/MAY1-28832/"
-        },
-        {
-          "starts_at": "2025-01-10T18:40:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-29739/"
-        },
-        {
-          "starts_at": "2025-01-10T21:20:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-29736/"
-        },
-        {
-          "starts_at": "2025-01-10T20:50:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-95931/"
-        }
-      ]
-    },
-    {
-      "title": "Nickel Boys",
-      "trailer": null,
-      "synopsis": "The Nickel Boys is based on the historic reform school in 1960s Florida called the Dozier School for Boys, which was notorious for abusive treatment of students. It explores the story of Elwood Curtis, a young African-American boy who is sent to the Nickel Academy, a fictional version of the Dozier School, after he is falsely accused of a crime. While there, he meets a boy named Turner, and the two form a close friendship as they try to survive the horrors of the school and its corrupt administrators.",
-      "runtime": 140,
-      "times": [
-        {
-          "starts_at": "2025-01-10T20:20:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-53860/"
-        },
-        {
-          "starts_at": "2025-01-10T20:20:00+00:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-48147/"
-        }
-      ]
-    },
-    {
       "title": "Nosferatu",
       "trailer": "https://www.youtube.com/watch?v=Px6S0RxfAHg",
       "synopsis": "Robert Eggers’ Nosferatu is a gothic tale of obsession between a haunted young woman and the terrifying vampire infatuated with her, causing untold horror in its wake.",
@@ -83,19 +17,9 @@
           "url": "https://www.curzon.com/ticketing/seats/SOH1-48020/"
         },
         {
-          "starts_at": "2025-01-10T20:15:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-78245/"
-        },
-        {
           "starts_at": "2025-01-10T20:40:00+00:00",
           "site": "Curzon Hoxton",
           "url": "https://www.curzon.com/ticketing/seats/HOX1-19881/"
-        },
-        {
-          "starts_at": "2025-01-10T20:10:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-29744/"
         },
         {
           "starts_at": "2025-01-10T20:40:00+00:00",
@@ -133,6 +57,39 @@
       ]
     },
     {
+      "title": "A Real Pain",
+      "trailer": "https://www.youtube.com/watch?v=lGeZQWMMDgM",
+      "synopsis": "Mismatched cousins David and Benji reunite for a tour through Poland to honor their beloved grandmother. The adventure takes a turn when the odd-couple's old tensions resurface against the backdrop of their family history.",
+      "runtime": 90,
+      "times": [
+        {
+          "starts_at": "2025-01-10T21:20:00+00:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-53675/"
+        },
+        {
+          "starts_at": "2025-01-10T21:15:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-78251/"
+        },
+        {
+          "starts_at": "2025-01-10T21:00:00+00:00",
+          "site": "Curzon Mayfair",
+          "url": "https://www.curzon.com/ticketing/seats/MAY1-28832/"
+        },
+        {
+          "starts_at": "2025-01-10T21:20:00+00:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-29736/"
+        },
+        {
+          "starts_at": "2025-01-10T20:50:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-95931/"
+        }
+      ]
+    },
+    {
       "title": "Conclave",
       "trailer": "https://www.youtube.com/watch?v=Znr38bHNXp4",
       "synopsis": "CONCLAVE follows one of the world’s most secretive and ancient events – selecting the new Pope. Cardinal Lawrence (Ralph Fiennes) is tasked with running this covert process after the unexpected death of the beloved Pope. Once the Catholic Church’s most powerful leaders have gathered from around the world and are locked together in the Vatican halls, Lawrence uncovers a trail of deep secrets left in the dead Pope’s wake, secrets which could shake the foundations of the Church.",
@@ -156,24 +113,6 @@
       ]
     },
     {
-      "title": "Anora",
-      "trailer": null,
-      "synopsis": "Anora, a young sex worker from Brooklyn, meets and impulsively marries the son of an oligarch. Once the news reaches Russia, her fairytale is threatened as the parents set out for New York to get the marriage annulled.",
-      "runtime": 139,
-      "times": [
-        {
-          "starts_at": "2025-01-10T20:20:00+00:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-19882/"
-        },
-        {
-          "starts_at": "2025-01-10T19:50:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-30033/"
-        }
-      ]
-    },
-    {
       "title": "Maria",
       "trailer": "https://www.youtube.com/watch?v=mVIXaTdxlQc",
       "synopsis": "The new film from the director of Jackie and Spencer, MARIA tells the glamorous, moving story of the iconic opera singer, Maria Callas. Paris, 1977: Once the world’s greatest soprano, Callas now hides in an apartment, having lost her voice and retreated from the world. She dreams of returning to the stage, but can her body and mind take the pressure?\nFeaturing some of Callas’s greatest recordings and starring Angelina Jolie in an Oscarworthy performance, MARIA is a sumptuous drama that hits all the high notes.",
@@ -183,11 +122,6 @@
           "starts_at": "2025-01-10T21:00:00+00:00",
           "site": "Curzon Hoxton",
           "url": "https://www.curzon.com/ticketing/seats/HOX1-19715/"
-        },
-        {
-          "starts_at": "2025-01-10T20:20:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-95937/"
         }
       ]
     },
