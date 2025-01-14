@@ -1,72 +1,6 @@
 {
   "2025-01-14": [
     {
-      "title": "A Real Pain",
-      "trailer": "https://www.youtube.com/watch?v=lGeZQWMMDgM",
-      "synopsis": "Mismatched cousins David and Benji reunite for a tour through Poland to honor their beloved grandmother. The adventure takes a turn when the odd-couple's old tensions resurface against the backdrop of their family history.",
-      "runtime": 90,
-      "times": [
-        {
-          "starts_at": "2025-01-14T18:40:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-53669/"
-        },
-        {
-          "starts_at": "2025-01-14T21:20:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-53885/"
-        },
-        {
-          "starts_at": "2025-01-14T21:20:00+00:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-48184/"
-        },
-        {
-          "starts_at": "2025-01-14T19:00:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-78268/"
-        },
-        {
-          "starts_at": "2025-01-14T21:15:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-78611/"
-        },
-        {
-          "starts_at": "2025-01-14T21:20:00+00:00",
-          "site": "Curzon Mayfair",
-          "url": "https://www.curzon.com/ticketing/seats/MAY1-28943/"
-        },
-        {
-          "starts_at": "2025-01-14T18:40:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-29759/"
-        },
-        {
-          "starts_at": "2025-01-14T21:20:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-30067/"
-        },
-        {
-          "starts_at": "2025-01-14T21:00:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-95954/"
-        }
-      ]
-    },
-    {
-      "title": "Nickel Boys",
-      "trailer": null,
-      "synopsis": "The Nickel Boys is based on the historic reform school in 1960s Florida called the Dozier School for Boys, which was notorious for abusive treatment of students. It explores the story of Elwood Curtis, a young African-American boy who is sent to the Nickel Academy, a fictional version of the Dozier School, after he is falsely accused of a crime. While there, he meets a boy named Turner, and the two form a close friendship as they try to survive the horrors of the school and its corrupt administrators.",
-      "runtime": 140,
-      "times": [
-        {
-          "starts_at": "2025-01-14T20:20:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-53893/"
-        }
-      ]
-    },
-    {
       "title": "Nosferatu",
       "trailer": "https://www.youtube.com/watch?v=Px6S0RxfAHg",
       "synopsis": "Robert Eggers’ Nosferatu is a gothic tale of obsession between a haunted young woman and the terrifying vampire infatuated with her, causing untold horror in its wake.",
@@ -78,19 +12,9 @@
           "url": "https://www.curzon.com/ticketing/seats/ALD1-53886/"
         },
         {
-          "starts_at": "2025-01-14T20:15:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-78615/"
-        },
-        {
           "starts_at": "2025-01-14T20:40:00+00:00",
           "site": "Curzon Hoxton",
           "url": "https://www.curzon.com/ticketing/seats/HOX1-19946/"
-        },
-        {
-          "starts_at": "2025-01-14T20:10:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-30068/"
         },
         {
           "starts_at": "2025-01-14T20:40:00+00:00",
@@ -119,11 +43,44 @@
           "starts_at": "2025-01-14T21:00:00+00:00",
           "site": "Curzon Victoria",
           "url": "https://www.curzon.com/ticketing/seats/VIC1-78612/"
+        }
+      ]
+    },
+    {
+      "title": "A Real Pain",
+      "trailer": "https://www.youtube.com/watch?v=lGeZQWMMDgM",
+      "synopsis": "Mismatched cousins David and Benji reunite for a tour through Poland to honor their beloved grandmother. The adventure takes a turn when the odd-couple's old tensions resurface against the backdrop of their family history.",
+      "runtime": 90,
+      "times": [
+        {
+          "starts_at": "2025-01-14T21:20:00+00:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-53885/"
         },
         {
-          "starts_at": "2025-01-14T20:30:00+00:00",
+          "starts_at": "2025-01-14T21:20:00+00:00",
+          "site": "Curzon Soho",
+          "url": "https://www.curzon.com/ticketing/seats/SOH1-48184/"
+        },
+        {
+          "starts_at": "2025-01-14T21:15:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-78611/"
+        },
+        {
+          "starts_at": "2025-01-14T21:20:00+00:00",
+          "site": "Curzon Mayfair",
+          "url": "https://www.curzon.com/ticketing/seats/MAY1-28943/"
+        },
+        {
+          "starts_at": "2025-01-14T21:20:00+00:00",
           "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-29760/"
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-30067/"
+        },
+        {
+          "starts_at": "2025-01-14T21:00:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-95954/"
         }
       ]
     },
@@ -182,29 +139,6 @@
       ]
     },
     {
-      "title": "Anora",
-      "trailer": null,
-      "synopsis": "Anora, a young sex worker from Brooklyn, meets and impulsively marries the son of an oligarch. Once the news reaches Russia, her fairytale is threatened as the parents set out for New York to get the marriage annulled.",
-      "runtime": 139,
-      "times": [
-        {
-          "starts_at": "2025-01-14T20:20:00+00:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-19945/"
-        },
-        {
-          "starts_at": "2025-01-14T19:50:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-30071/"
-        },
-        {
-          "starts_at": "2025-01-14T20:50:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-96361/"
-        }
-      ]
-    },
-    {
       "title": "Emilia Pérez",
       "trailer": null,
       "synopsis": "From renegade auteur Jacques Audiard comes Emilia Pérez, an audacious fever dream that defies genres and expectations. Through liberating song and dance and bold visuals, this odyssey follows the journey of four remarkable women in Mexico, each pursuing their own happiness. The fearsome cartel leader Emilia (Karla Sofía Gascón) enlists Rita (Zoe Saldaña), an unappreciated lawyer stuck in a dead-end job, to help fake her death so that Emilia can finally live authentically as her true self. ",
@@ -218,15 +152,15 @@
       ]
     },
     {
-      "title": "DocHouse: Architecton",
+      "title": "Anora",
       "trailer": null,
-      "synopsis": "The latest film from master documentarian Victor Kossakovsky (GUNDA, AQUARELA), is an epic, intimate and poetic meditation on architecture and how the design and construction of buildings from the ancient past reveal our destruction - and offer hope for survival and a way forward.\r\n\r\nThrough Kossakovsky’s lens, the grandeur and folly of humanity and its precarious relationship with nature posits two urgent questions: how do we build, and how can we build better, before it’s too late?\r\n",
-      "runtime": 98,
+      "synopsis": "Anora, a young sex worker from Brooklyn, meets and impulsively marries the son of an oligarch. Once the news reaches Russia, her fairytale is threatened as the parents set out for New York to get the marriage annulled.",
+      "runtime": 139,
       "times": [
         {
-          "starts_at": "2025-01-14T20:20:00+00:00",
+          "starts_at": "2025-01-14T20:50:00+00:00",
           "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-95796/"
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-96361/"
         }
       ]
     }
