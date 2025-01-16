@@ -1,62 +1,6 @@
 {
   "2025-01-16": [
     {
-      "title": "A Real Pain",
-      "trailer": "https://www.youtube.com/watch?v=lGeZQWMMDgM",
-      "synopsis": "Mismatched cousins David and Benji reunite for a tour through Poland to honor their beloved grandmother. The adventure takes a turn when the odd-couple's old tensions resurface against the backdrop of their family history.",
-      "runtime": 90,
-      "times": [
-        {
-          "starts_at": "2025-01-16T18:40:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-53674/"
-        },
-        {
-          "starts_at": "2025-01-16T21:20:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-53897/"
-        },
-        {
-          "starts_at": "2025-01-16T21:15:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-78629/"
-        },
-        {
-          "starts_at": "2025-01-16T21:00:00+00:00",
-          "site": "Curzon Mayfair",
-          "url": "https://www.curzon.com/ticketing/seats/MAY1-28951/"
-        },
-        {
-          "starts_at": "2025-01-16T18:40:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-29761/"
-        },
-        {
-          "starts_at": "2025-01-16T21:20:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-30086/"
-        },
-        {
-          "starts_at": "2025-01-16T20:50:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-96300/"
-        }
-      ]
-    },
-    {
-      "title": "Nickel Boys",
-      "trailer": null,
-      "synopsis": "The Nickel Boys is based on the historic reform school in 1960s Florida called the Dozier School for Boys, which was notorious for abusive treatment of students. It explores the story of Elwood Curtis, a young African-American boy who is sent to the Nickel Academy, a fictional version of the Dozier School, after he is falsely accused of a crime. While there, he meets a boy named Turner, and the two form a close friendship as they try to survive the horrors of the school and its corrupt administrators.",
-      "runtime": 140,
-      "times": [
-        {
-          "starts_at": "2025-01-16T20:20:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-53905/"
-        }
-      ]
-    },
-    {
       "title": "Nosferatu",
       "trailer": "https://www.youtube.com/watch?v=Px6S0RxfAHg",
       "synopsis": "Robert Eggers’ Nosferatu is a gothic tale of obsession between a haunted young woman and the terrifying vampire infatuated with her, causing untold horror in its wake.",
@@ -73,19 +17,9 @@
           "url": "https://www.curzon.com/ticketing/seats/SOH1-48003/"
         },
         {
-          "starts_at": "2025-01-16T20:15:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-78633/"
-        },
-        {
           "starts_at": "2025-01-16T20:40:00+00:00",
           "site": "Curzon Hoxton",
           "url": "https://www.curzon.com/ticketing/seats/HOX1-19947/"
-        },
-        {
-          "starts_at": "2025-01-16T20:10:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-30087/"
         }
       ]
     },
@@ -101,19 +35,42 @@
           "url": "https://www.curzon.com/ticketing/seats/ALD1-53670/"
         },
         {
-          "starts_at": "2025-01-16T20:30:00+00:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-48006/"
-        },
-        {
           "starts_at": "2025-01-16T21:00:00+00:00",
           "site": "Curzon Victoria",
           "url": "https://www.curzon.com/ticketing/seats/VIC1-78630/"
+        }
+      ]
+    },
+    {
+      "title": "A Real Pain",
+      "trailer": "https://www.youtube.com/watch?v=lGeZQWMMDgM",
+      "synopsis": "Mismatched cousins David and Benji reunite for a tour through Poland to honor their beloved grandmother. The adventure takes a turn when the odd-couple's old tensions resurface against the backdrop of their family history.",
+      "runtime": 90,
+      "times": [
+        {
+          "starts_at": "2025-01-16T21:20:00+00:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-53897/"
         },
         {
-          "starts_at": "2025-01-16T20:30:00+00:00",
+          "starts_at": "2025-01-16T21:15:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-78629/"
+        },
+        {
+          "starts_at": "2025-01-16T21:00:00+00:00",
+          "site": "Curzon Mayfair",
+          "url": "https://www.curzon.com/ticketing/seats/MAY1-28951/"
+        },
+        {
+          "starts_at": "2025-01-16T21:20:00+00:00",
           "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-29762/"
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-30086/"
+        },
+        {
+          "starts_at": "2025-01-16T20:50:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-96300/"
         }
       ]
     },
@@ -154,29 +111,6 @@
       ]
     },
     {
-      "title": "Anora",
-      "trailer": null,
-      "synopsis": "Anora, a young sex worker from Brooklyn, meets and impulsively marries the son of an oligarch. Once the news reaches Russia, her fairytale is threatened as the parents set out for New York to get the marriage annulled.",
-      "runtime": 139,
-      "times": [
-        {
-          "starts_at": "2025-01-16T20:20:00+00:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-19948/"
-        },
-        {
-          "starts_at": "2025-01-16T19:50:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-30090/"
-        },
-        {
-          "starts_at": "2025-01-16T20:30:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-96373/"
-        }
-      ]
-    },
-    {
       "title": "Maria",
       "trailer": "https://www.youtube.com/watch?v=mVIXaTdxlQc",
       "synopsis": "The new film from the director of Jackie and Spencer, MARIA tells the glamorous, moving story of the iconic opera singer, Maria Callas. Paris, 1977: Once the world’s greatest soprano, Callas now hides in an apartment, having lost her voice and retreated from the world. She dreams of returning to the stage, but can her body and mind take the pressure?\nFeaturing some of Callas’s greatest recordings and starring Angelina Jolie in an Oscarworthy performance, MARIA is a sumptuous drama that hits all the high notes.",
@@ -186,11 +120,6 @@
           "starts_at": "2025-01-16T21:00:00+00:00",
           "site": "Curzon Hoxton",
           "url": "https://www.curzon.com/ticketing/seats/HOX1-19732/"
-        },
-        {
-          "starts_at": "2025-01-16T20:20:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-96301/"
         }
       ]
     },
@@ -208,15 +137,15 @@
       ]
     },
     {
-      "title": "DocHouse: Separated",
+      "title": "Anora",
       "trailer": null,
-      "synopsis": "In his timely new film, director Errol Morris confronts one of the darkest chapters in recent American history: the policy of separating children from their parents at the US border, brought in by the Trump administration in 2017 to 2018.\r\n\r\nMorris merges bombshell interviews with government officials and constructed vignettes of one migrant family's journey, to trace the genesis and the impact of Family Separation, showing that the cruelty at the heart of the policy was its very purpose.\r\n\r\nWith hundreds of families still separated years later, the revelations of Morris's investigation into the government's role in this unthinkable horror should hang heavy over the start of Trump's second term in office.",
-      "runtime": 93,
+      "synopsis": "Anora, a young sex worker from Brooklyn, meets and impulsively marries the son of an oligarch. Once the news reaches Russia, her fairytale is threatened as the parents set out for New York to get the marriage annulled.",
+      "runtime": 139,
       "times": [
         {
-          "starts_at": "2025-01-16T20:20:00+00:00",
+          "starts_at": "2025-01-16T20:30:00+00:00",
           "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-95792/"
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-96373/"
         }
       ]
     }
