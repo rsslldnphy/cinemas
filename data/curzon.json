@@ -1,87 +1,11 @@
 {
   "2025-01-20": [
     {
-      "title": "A Real Pain",
-      "trailer": "https://www.youtube.com/watch?v=lGeZQWMMDgM",
-      "synopsis": "Mismatched cousins David and Benji reunite for a tour through Poland to honor their beloved grandmother. The adventure takes a turn when the odd-couple's old tensions resurface against the backdrop of their family history.",
-      "runtime": 90,
-      "times": [
-        {
-          "starts_at": "2025-01-20T16:00:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-54088/"
-        },
-        {
-          "starts_at": "2025-01-20T21:30:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-54093/"
-        },
-        {
-          "starts_at": "2025-01-20T15:45:00+00:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-48292/"
-        },
-        {
-          "starts_at": "2025-01-20T18:30:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-78692/"
-        },
-        {
-          "starts_at": "2025-01-20T21:00:00+00:00",
-          "site": "Curzon Mayfair",
-          "url": "https://www.curzon.com/ticketing/seats/MAY1-29025/"
-        },
-        {
-          "starts_at": "2025-01-20T18:20:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-30292/"
-        },
-        {
-          "starts_at": "2025-01-20T21:20:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-30293/"
-        },
-        {
-          "starts_at": "2025-01-20T21:15:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-96548/"
-        }
-      ]
-    },
-    {
-      "title": "Emilia Pérez",
-      "trailer": null,
-      "synopsis": "From renegade auteur Jacques Audiard comes Emilia Pérez, an audacious fever dream that defies genres and expectations. Through liberating song and dance and bold visuals, this odyssey follows the journey of four remarkable women in Mexico, each pursuing their own happiness. The fearsome cartel leader Emilia (Karla Sofía Gascón) enlists Rita (Zoe Saldaña), an unappreciated lawyer stuck in a dead-end job, to help fake her death so that Emilia can finally live authentically as her true self. ",
-      "runtime": 132,
-      "times": [
-        {
-          "starts_at": "2025-01-20T17:00:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-54087/"
-        },
-        {
-          "starts_at": "2025-01-20T17:00:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-30291/"
-        },
-        {
-          "starts_at": "2025-01-20T17:00:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-96553/"
-        }
-      ]
-    },
-    {
       "title": "Nosferatu",
       "trailer": "https://www.youtube.com/watch?v=Px6S0RxfAHg",
       "synopsis": "Robert Eggers’ Nosferatu is a gothic tale of obsession between a haunted young woman and the terrifying vampire infatuated with her, causing untold horror in its wake.",
       "runtime": 132,
       "times": [
-        {
-          "starts_at": "2025-01-20T17:20:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-54086/"
-        },
         {
           "starts_at": "2025-01-20T20:00:00+00:00",
           "site": "Curzon Aldgate",
@@ -91,11 +15,6 @@
           "starts_at": "2025-01-20T20:20:00+00:00",
           "site": "Curzon Soho",
           "url": "https://www.curzon.com/ticketing/seats/SOH1-48289/"
-        },
-        {
-          "starts_at": "2025-01-20T15:30:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-78696/"
         },
         {
           "starts_at": "2025-01-20T20:45:00+00:00",
@@ -126,19 +45,9 @@
       "runtime": 114,
       "times": [
         {
-          "starts_at": "2025-01-20T18:00:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-54085/"
-        },
-        {
           "starts_at": "2025-01-20T20:20:00+00:00",
           "site": "Curzon Aldgate",
           "url": "https://www.curzon.com/ticketing/seats/ALD1-54094/"
-        },
-        {
-          "starts_at": "2025-01-20T17:40:00+00:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-48290/"
         },
         {
           "starts_at": "2025-01-20T21:10:00+00:00",
@@ -146,29 +55,14 @@
           "url": "https://www.curzon.com/ticketing/seats/SOH1-48293/"
         },
         {
-          "starts_at": "2025-01-20T17:45:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-78693/"
-        },
-        {
           "starts_at": "2025-01-20T21:00:00+00:00",
           "site": "Curzon Victoria",
           "url": "https://www.curzon.com/ticketing/seats/VIC1-78700/"
         },
         {
-          "starts_at": "2025-01-20T18:00:00+00:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-20031/"
-        },
-        {
           "starts_at": "2025-01-20T21:00:00+00:00",
           "site": "Curzon Hoxton",
           "url": "https://www.curzon.com/ticketing/seats/HOX1-20033/"
-        },
-        {
-          "starts_at": "2025-01-20T16:00:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-30288/"
         },
         {
           "starts_at": "2025-01-20T18:40:00+00:00",
@@ -189,29 +83,14 @@
       "runtime": 141,
       "times": [
         {
-          "starts_at": "2025-01-20T18:20:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-53691/"
-        },
-        {
           "starts_at": "2025-01-20T20:40:00+00:00",
           "site": "Curzon Aldgate",
           "url": "https://www.curzon.com/ticketing/seats/ALD1-53692/"
         },
         {
-          "starts_at": "2025-01-20T18:00:00+00:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-48275/"
-        },
-        {
           "starts_at": "2025-01-20T20:50:00+00:00",
           "site": "Curzon Soho",
           "url": "https://www.curzon.com/ticketing/seats/SOH1-48274/"
-        },
-        {
-          "starts_at": "2025-01-20T18:00:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-78286/"
         },
         {
           "starts_at": "2025-01-20T20:30:00+00:00",
@@ -224,34 +103,14 @@
           "url": "https://www.curzon.com/ticketing/seats/MAY1-29024/"
         },
         {
-          "starts_at": "2025-01-20T17:40:00+00:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-20028/"
-        },
-        {
           "starts_at": "2025-01-20T20:20:00+00:00",
           "site": "Curzon Hoxton",
           "url": "https://www.curzon.com/ticketing/seats/HOX1-20032/"
         },
         {
-          "starts_at": "2025-01-20T17:20:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-29772/"
-        },
-        {
           "starts_at": "2025-01-20T20:20:00+00:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-30312/"
-        },
-        {
-          "starts_at": "2025-01-20T15:30:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-96546/"
-        },
-        {
-          "starts_at": "2025-01-20T18:00:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-96560/"
         },
         {
           "starts_at": "2025-01-20T20:40:00+00:00",
@@ -261,61 +120,35 @@
       ]
     },
     {
-      "title": "LSFF 2025: The Last Invention",
-      "trailer": null,
-      "synopsis": "Are we approaching a technological singularity? Are we seeing a technocratic dystopia dawning upon us? As we are marching towards the fourth decade of the 21st century, new technology has only become more scary than exciting, more uncanny than friendly. Films in this program reflect such anxiety of ours, and beg the question—as they move between documentary and speculative fiction: Is this a future we want?\r\n\r\nThere are many films in the program that blend experimental elements of AI with conventional filmmaking. A docu-fiction of rediscovered Bangladroids who recall, in poetry, their past lives. A farce about a man obsessed with a broken bench underpinned by a rock. From a brief history of 20th century technological advance, to a crash course on AI literacy and how to safeguard our genuine reality, then to the invasion of social media that has fundamentally reconfigured the coming-of-age years of teenagers, you are here for unhinged images, unsettling stories, and visualisation of outlandish worlds where technology seems to be demanding its own autonomy — if not its control over us humans.\r\n\r\nWe Made Telephones, dir. Ben Young, UK 2024, 10mins\r\nChristmas, Every Day, dir. Faye Tsakas, USA 2024, 14mins\r\nData Flesh, dir. Felipe Elgueta, Chile 2024, 5mins\r\nThe Future Can Be Yours, dir. Simon Ball, UK 2024, 9mins\r\nThe Oasis I Deserve, dir. Inès Sieulle, France 2022, 22mins\r\nDo Bangladroids Dream of Electric Tagore?, dir. Aleem Hossain, USA 2024, 3mins\r\nThe Moment of Truth, dir. David Baksh, UK 2024, 13mins\r\nNobody Wants To Fix Things Anymore, dir. Joseph Wilcox, USA 2023, 4mins\r\nShokouk: A Cosmicomedy in Four Acts, dir. Felix Kalmenson / Rouzbeh Akhbari, Uzbekistan, 17mins\r\n",
-      "runtime": 97,
+      "title": "A Real Pain",
+      "trailer": "https://www.youtube.com/watch?v=lGeZQWMMDgM",
+      "synopsis": "Mismatched cousins David and Benji reunite for a tour through Poland to honor their beloved grandmother. The adventure takes a turn when the odd-couple's old tensions resurface against the backdrop of their family history.",
+      "runtime": 90,
       "times": [
         {
-          "starts_at": "2025-01-20T18:20:00+00:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-47701/"
-        }
-      ]
-    },
-    {
-      "title": "Maria",
-      "trailer": "https://www.youtube.com/watch?v=mVIXaTdxlQc",
-      "synopsis": "The new film from the director of Jackie and Spencer, MARIA tells the glamorous, moving story of the iconic opera singer, Maria Callas. Paris, 1977: Once the world’s greatest soprano, Callas now hides in an apartment, having lost her voice and retreated from the world. She dreams of returning to the stage, but can her body and mind take the pressure?\nFeaturing some of Callas’s greatest recordings and starring Angelina Jolie in an Oscarworthy performance, MARIA is a sumptuous drama that hits all the high notes.",
-      "runtime": 123,
-      "times": [
-        {
-          "starts_at": "2025-01-20T15:40:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-78687/"
+          "starts_at": "2025-01-20T21:30:00+00:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-54093/"
         },
         {
-          "starts_at": "2025-01-20T20:00:00+00:00",
+          "starts_at": "2025-01-20T18:30:00+00:00",
           "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-78690/"
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-78692/"
         },
         {
-          "starts_at": "2025-01-20T18:10:00+00:00",
+          "starts_at": "2025-01-20T21:00:00+00:00",
           "site": "Curzon Mayfair",
-          "url": "https://www.curzon.com/ticketing/seats/MAY1-29022/"
+          "url": "https://www.curzon.com/ticketing/seats/MAY1-29025/"
         },
         {
-          "starts_at": "2025-01-20T17:50:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-96544/"
+          "starts_at": "2025-01-20T21:20:00+00:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-30293/"
         },
         {
-          "starts_at": "2025-01-20T20:30:00+00:00",
+          "starts_at": "2025-01-20T21:15:00+00:00",
           "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-96550/"
-        }
-      ]
-    },
-    {
-      "title": "Here",
-      "trailer": null,
-      "synopsis": "From the reunited director, writer, and stars of Forrest Gump, Here is an original film about multiple families and a special place they inhabit. The story travels through generations, capturing the human experience in its purest form. Directed by Robert Zemeckis, screenplay by Eric Roth & Zemeckis and told much in the style of the acclaimed graphic novel by Richard McGuire on which it is based, Tom Hanks and Robin Wright star in a tale of love, loss, laughter and life, all of which happen right Here.",
-      "runtime": 104,
-      "times": [
-        {
-          "starts_at": "2025-01-20T17:30:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-78694/"
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-96548/"
         }
       ]
     },
@@ -336,14 +169,27 @@
           "url": "https://www.curzon.com/ticketing/seats/VIC1-78699/"
         },
         {
-          "starts_at": "2025-01-20T17:30:00+00:00",
-          "site": "Curzon Mayfair",
-          "url": "https://www.curzon.com/ticketing/seats/MAY1-29069/"
-        },
-        {
           "starts_at": "2025-01-20T19:50:00+00:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-96554/"
+        }
+      ]
+    },
+    {
+      "title": "Maria",
+      "trailer": "https://www.youtube.com/watch?v=mVIXaTdxlQc",
+      "synopsis": "The new film from the director of Jackie and Spencer, MARIA tells the glamorous, moving story of the iconic opera singer, Maria Callas. Paris, 1977: Once the world’s greatest soprano, Callas now hides in an apartment, having lost her voice and retreated from the world. She dreams of returning to the stage, but can her body and mind take the pressure?\nFeaturing some of Callas’s greatest recordings and starring Angelina Jolie in an Oscarworthy performance, MARIA is a sumptuous drama that hits all the high notes.",
+      "runtime": 123,
+      "times": [
+        {
+          "starts_at": "2025-01-20T20:00:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-78690/"
+        },
+        {
+          "starts_at": "2025-01-20T20:30:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-96550/"
         }
       ]
     },
@@ -354,53 +200,9 @@
       "runtime": 139,
       "times": [
         {
-          "starts_at": "2025-01-20T17:20:00+00:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-20036/"
-        },
-        {
           "starts_at": "2025-01-20T20:40:00+00:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-30278/"
-        }
-      ]
-    },
-    {
-      "title": "Nickel Boys",
-      "trailer": null,
-      "synopsis": "The Nickel Boys is based on the historic reform school in 1960s Florida called the Dozier School for Boys, which was notorious for abusive treatment of students. It explores the story of Elwood Curtis, a young African-American boy who is sent to the Nickel Academy, a fictional version of the Dozier School, after he is falsely accused of a crime. While there, he meets a boy named Turner, and the two form a close friendship as they try to survive the horrors of the school and its corrupt administrators.",
-      "runtime": 140,
-      "times": [
-        {
-          "starts_at": "2025-01-20T17:40:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-30280/"
-        }
-      ]
-    },
-    {
-      "title": "DocHouse: My Stolen Planet",
-      "trailer": null,
-      "synopsis": "Using her own home movies and a trove of collected 8mm archive, Iranian filmmaker Farahnaz Sharifi reveals the dual existences lived by women in Iran.\r\n\r\nSharifi was born during the Islamic revolution in Iran in 1979, and finds her life divided between a public world of silence and submission, and the domestic world that she shares with other women behind closed doors. Her beautifully-constructed film diary captures the joy, music and defiance of this hidden life, navigating the contrast between unseen freedom and external oppression.",
-      "runtime": 86,
-      "times": [
-        {
-          "starts_at": "2025-01-20T16:30:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-96624/"
-        }
-      ]
-    },
-    {
-      "title": "DocHouse: Grand Theft Hamlet",
-      "trailer": null,
-      "synopsis": "Two jobless actors attempt to stage a production of Hamlet entirely within the video game Grand Theft Auto - an ambitious quest that turns out to be both absurdly funny and unexpectedly moving.\r\n\r\nJanuary 2021. The UK is in another lockdown and all entertainment venues remain closed. For theatre actors Sam and Mark, the future looks bleak. As the pandemic drags on, they spend their days in the online digital world of Grand Theft Auto and when they stumble across a theatre, the idea to stage a full Shakespeare play quickly takes shape.\r\n\r\nFilmed entirely within GTA, GRAND THEFT HAMLET charts their ridiculous, hilarious adventure, through casting, rehearsals and performance, as they battle violent griefers and discover surprising truths about life, friendship and the enduring power of Shakespeare.",
-      "runtime": 90,
-      "times": [
-        {
-          "starts_at": "2025-01-20T18:20:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-96625/"
         }
       ]
     },
@@ -2515,15 +2317,137 @@
   ],
   "2025-01-24": [
     {
+      "title": "Emilia Pérez",
+      "trailer": null,
+      "synopsis": "From renegade auteur Jacques Audiard comes Emilia Pérez, an audacious fever dream that defies genres and expectations. Through liberating song and dance and bold visuals, this odyssey follows the journey of four remarkable women in Mexico, each pursuing their own happiness. The fearsome cartel leader Emilia (Karla Sofía Gascón) enlists Rita (Zoe Saldaña), an unappreciated lawyer stuck in a dead-end job, to help fake her death so that Emilia can finally live authentically as her true self. ",
+      "runtime": 132,
+      "times": [
+        {
+          "starts_at": "2025-01-24T11:00:00+00:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-54317/"
+        },
+        {
+          "starts_at": "2025-01-24T17:15:00+00:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-54322/"
+        }
+      ]
+    },
+    {
+      "title": "A Real Pain",
+      "trailer": "https://www.youtube.com/watch?v=lGeZQWMMDgM",
+      "synopsis": "Mismatched cousins David and Benji reunite for a tour through Poland to honor their beloved grandmother. The adventure takes a turn when the odd-couple's old tensions resurface against the backdrop of their family history.",
+      "runtime": 90,
+      "times": [
+        {
+          "starts_at": "2025-01-24T11:15:00+00:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-54316/"
+        },
+        {
+          "starts_at": "2025-01-24T14:00:00+00:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-54326/"
+        },
+        {
+          "starts_at": "2025-01-24T12:00:00+00:00",
+          "site": "Curzon Hoxton",
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-20193/"
+        }
+      ]
+    },
+    {
+      "title": "Babygirl",
+      "trailer": "https://www.youtube.com/watch?v=dq_bnfZy9-g",
+      "synopsis": "Despite the risk and prejudices, a very successful CEO begins an illicit affair with her much younger intern.",
+      "runtime": 114,
+      "times": [
+        {
+          "starts_at": "2025-01-24T11:30:00+00:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-54315/"
+        },
+        {
+          "starts_at": "2025-01-24T16:20:00+00:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-54323/"
+        },
+        {
+          "starts_at": "2025-01-24T12:40:00+00:00",
+          "site": "Curzon Hoxton",
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-20189/"
+        },
+        {
+          "starts_at": "2025-01-24T18:20:00+00:00",
+          "site": "Curzon Hoxton",
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-20190/"
+        }
+      ]
+    },
+    {
+      "title": "A Complete Unknown",
+      "trailer": "https://www.youtube.com/watch?v=Nsvexi2Ulbs",
+      "synopsis": "Set in the influential New York music scene of the early 60s, A COMPLETE UNKNOWN follows 19-year-old Minnesota musician BOB DYLAN’s (Timothée Chalamet) meteoric rise as a folk singer to concert halls and the top of the charts – his songs and mystique becoming a worldwide sensation – culminating in his groundbreaking electric rock and roll performance at the Newport Folk Festival in 1965.",
+      "runtime": 141,
+      "times": [
+        {
+          "starts_at": "2025-01-24T11:45:00+00:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-54314/"
+        },
+        {
+          "starts_at": "2025-01-24T17:50:00+00:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-54321/"
+        },
+        {
+          "starts_at": "2025-01-24T20:20:00+00:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-54319/"
+        },
+        {
+          "starts_at": "2025-01-24T11:30:00+00:00",
+          "site": "Curzon Hoxton",
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-20120/"
+        },
+        {
+          "starts_at": "2025-01-24T14:20:00+00:00",
+          "site": "Curzon Hoxton",
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-20188/"
+        },
+        {
+          "starts_at": "2025-01-24T17:30:00+00:00",
+          "site": "Curzon Hoxton",
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-20187/"
+        },
+        {
+          "starts_at": "2025-01-24T20:40:00+00:00",
+          "site": "Curzon Hoxton",
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-20186/"
+        }
+      ]
+    },
+    {
       "title": "The Brutalist",
       "trailer": "https://www.youtube.com/watch?v=hNiwPU5vjCk",
       "synopsis": "When visionary architect László Toth and his wife Erzsébet flee post-war Europe in 1947 to rebuild their legacy and witness the birth of modern America, their lives are changed forever by a mysterious and wealthy client.\r\n\r\nThe Brutalist is showing with a 15 minute interval.",
       "runtime": 215,
       "times": [
         {
+          "starts_at": "2025-01-24T13:30:00+00:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-54313/"
+        },
+        {
           "starts_at": "2025-01-24T17:00:00+00:00",
           "site": "Curzon Aldgate",
           "url": "https://www.curzon.com/ticketing/seats/ALD1-53939/"
+        },
+        {
+          "starts_at": "2025-01-24T19:20:00+00:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-54320/"
         },
         {
           "starts_at": "2025-01-24T20:15:00+00:00",
@@ -2583,6 +2507,42 @@
       ]
     },
     {
+      "title": "Nosferatu",
+      "trailer": "https://www.youtube.com/watch?v=Px6S0RxfAHg",
+      "synopsis": "Robert Eggers’ Nosferatu is a gothic tale of obsession between a haunted young woman and the terrifying vampire infatuated with her, causing untold horror in its wake.",
+      "runtime": 132,
+      "times": [
+        {
+          "starts_at": "2025-01-24T14:20:00+00:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-54325/"
+        },
+        {
+          "starts_at": "2025-01-24T21:00:00+00:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-54318/"
+        }
+      ]
+    },
+    {
+      "title": "Presence",
+      "trailer": "https://www.youtube.com/watch?v=InSlx7tF0QA",
+      "synopsis": "Showcases a suburban house inhabited by a mysterious entity.",
+      "runtime": 85,
+      "times": [
+        {
+          "starts_at": "2025-01-24T14:50:00+00:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-54324/"
+        },
+        {
+          "starts_at": "2025-01-24T21:30:00+00:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-54327/"
+        }
+      ]
+    },
+    {
       "title": "LSFF 2025: British Lives",
       "trailer": null,
       "synopsis": "An exploration of the multifaceted and unified nature of British identity. Using camcorders, letters, and analogue memories, these films compose fractions of stories set in rural geographies and trace immigration heritage. From folkloric rumours of gigantic cats, whimsical Elvis impersonation and digital re-examinations of systemic segregation, these films speak from the heart of British identity - collecting stories from all over the nation to paint a cross-cultural, contemporary portrait.\r\n\r\n\r\nWe’ve combined odes to eccentric British humour such as Piece of Cake, and My Dad and the Volcano, traverse the day-to-day of immigrant heritage in Journey Mercies and Dear F... discovering intimate, nostalgic records of regional history. Above all, this programme seeks to celebrate British cultural self-consciousness through the medium of filmmaking.\r\n\r\nHave You Seen the Beast?, dir. Austen McCowan / Will Hewitt, UK 2024, 7mins\r\nColour Separation Overlay, dir. Blu Smith, UK 2024, 3mins\r\nJourney Mercies, dir. Tomisin Adepeju, UK 2023, 15mins\r\nDear F…, dir. Hannan Jones, UK 2023, 7mins\r\nMy Dad and the Volcano, dir. Gavin Reid, UK 2023, 15mins\r\nPiece Of Cake, dir. Jack Hartley, UK 2023, 11mins\r\nMarmalade, dir. Jamie Hawkesworth, UK 2024, 6mins\r\nHappy Snaps, dir. Tyro Heath, UK 2024, 12mins\r\nIf I Can Dream, dir. Luis Cross, UK 2024, 12mins\r\n\r\nContent warning : Implied racial aggression",
@@ -2592,6 +2552,32 @@
           "starts_at": "2025-01-24T18:20:00+00:00",
           "site": "Curzon Soho",
           "url": "https://www.curzon.com/ticketing/seats/SOH1-47704/"
+        }
+      ]
+    },
+    {
+      "title": "Anora",
+      "trailer": null,
+      "synopsis": "Anora, a young sex worker from Brooklyn, meets and impulsively marries the son of an oligarch. Once the news reaches Russia, her fairytale is threatened as the parents set out for New York to get the marriage annulled.",
+      "runtime": 139,
+      "times": [
+        {
+          "starts_at": "2025-01-24T15:20:00+00:00",
+          "site": "Curzon Hoxton",
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-20192/"
+        }
+      ]
+    },
+    {
+      "title": "Maria",
+      "trailer": "https://www.youtube.com/watch?v=mVIXaTdxlQc",
+      "synopsis": "The new film from the director of Jackie and Spencer, MARIA tells the glamorous, moving story of the iconic opera singer, Maria Callas. Paris, 1977: Once the world’s greatest soprano, Callas now hides in an apartment, having lost her voice and retreated from the world. She dreams of returning to the stage, but can her body and mind take the pressure?\nFeaturing some of Callas’s greatest recordings and starring Angelina Jolie in an Oscarworthy performance, MARIA is a sumptuous drama that hits all the high notes.",
+      "runtime": 123,
+      "times": [
+        {
+          "starts_at": "2025-01-24T21:00:00+00:00",
+          "site": "Curzon Hoxton",
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-20191/"
         }
       ]
     },
@@ -2624,15 +2610,132 @@
   ],
   "2025-01-25": [
     {
+      "title": "Emilia Pérez",
+      "trailer": null,
+      "synopsis": "From renegade auteur Jacques Audiard comes Emilia Pérez, an audacious fever dream that defies genres and expectations. Through liberating song and dance and bold visuals, this odyssey follows the journey of four remarkable women in Mexico, each pursuing their own happiness. The fearsome cartel leader Emilia (Karla Sofía Gascón) enlists Rita (Zoe Saldaña), an unappreciated lawyer stuck in a dead-end job, to help fake her death so that Emilia can finally live authentically as her true self. ",
+      "runtime": 132,
+      "times": [
+        {
+          "starts_at": "2025-01-25T11:00:00+00:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-54233/"
+        },
+        {
+          "starts_at": "2025-01-25T17:15:00+00:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-54238/"
+        }
+      ]
+    },
+    {
+      "title": "A Real Pain",
+      "trailer": "https://www.youtube.com/watch?v=lGeZQWMMDgM",
+      "synopsis": "Mismatched cousins David and Benji reunite for a tour through Poland to honor their beloved grandmother. The adventure takes a turn when the odd-couple's old tensions resurface against the backdrop of their family history.",
+      "runtime": 90,
+      "times": [
+        {
+          "starts_at": "2025-01-25T11:15:00+00:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-54232/"
+        },
+        {
+          "starts_at": "2025-01-25T14:00:00+00:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-54239/"
+        },
+        {
+          "starts_at": "2025-01-25T12:00:00+00:00",
+          "site": "Curzon Hoxton",
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-20129/"
+        }
+      ]
+    },
+    {
+      "title": "Babygirl",
+      "trailer": "https://www.youtube.com/watch?v=dq_bnfZy9-g",
+      "synopsis": "Despite the risk and prejudices, a very successful CEO begins an illicit affair with her much younger intern.",
+      "runtime": 114,
+      "times": [
+        {
+          "starts_at": "2025-01-25T11:30:00+00:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-54230/"
+        },
+        {
+          "starts_at": "2025-01-25T16:20:00+00:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-54312/"
+        },
+        {
+          "starts_at": "2025-01-25T12:50:00+00:00",
+          "site": "Curzon Hoxton",
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-20137/"
+        },
+        {
+          "starts_at": "2025-01-25T18:20:00+00:00",
+          "site": "Curzon Hoxton",
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-20132/"
+        }
+      ]
+    },
+    {
+      "title": "A Complete Unknown",
+      "trailer": "https://www.youtube.com/watch?v=Nsvexi2Ulbs",
+      "synopsis": "Set in the influential New York music scene of the early 60s, A COMPLETE UNKNOWN follows 19-year-old Minnesota musician BOB DYLAN’s (Timothée Chalamet) meteoric rise as a folk singer to concert halls and the top of the charts – his songs and mystique becoming a worldwide sensation – culminating in his groundbreaking electric rock and roll performance at the Newport Folk Festival in 1965.",
+      "runtime": 141,
+      "times": [
+        {
+          "starts_at": "2025-01-25T11:45:00+00:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-54231/"
+        },
+        {
+          "starts_at": "2025-01-25T17:50:00+00:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-54237/"
+        },
+        {
+          "starts_at": "2025-01-25T20:20:00+00:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-54235/"
+        },
+        {
+          "starts_at": "2025-01-25T14:20:00+00:00",
+          "site": "Curzon Hoxton",
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-20134/"
+        },
+        {
+          "starts_at": "2025-01-25T17:30:00+00:00",
+          "site": "Curzon Hoxton",
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-20135/"
+        },
+        {
+          "starts_at": "2025-01-25T20:40:00+00:00",
+          "site": "Curzon Hoxton",
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-20136/"
+        }
+      ]
+    },
+    {
       "title": "The Brutalist",
       "trailer": "https://www.youtube.com/watch?v=hNiwPU5vjCk",
       "synopsis": "When visionary architect László Toth and his wife Erzsébet flee post-war Europe in 1947 to rebuild their legacy and witness the birth of modern America, their lives are changed forever by a mysterious and wealthy client.\r\n\r\nThe Brutalist is showing with a 15 minute interval.",
       "runtime": 215,
       "times": [
         {
+          "starts_at": "2025-01-25T13:30:00+00:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-54229/"
+        },
+        {
           "starts_at": "2025-01-25T17:00:00+00:00",
           "site": "Curzon Aldgate",
           "url": "https://www.curzon.com/ticketing/seats/ALD1-53941/"
+        },
+        {
+          "starts_at": "2025-01-25T19:20:00+00:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-54236/"
         },
         {
           "starts_at": "2025-01-25T13:40:00+00:00",
@@ -2682,6 +2785,47 @@
       ]
     },
     {
+      "title": "Nosferatu",
+      "trailer": "https://www.youtube.com/watch?v=Px6S0RxfAHg",
+      "synopsis": "Robert Eggers’ Nosferatu is a gothic tale of obsession between a haunted young woman and the terrifying vampire infatuated with her, causing untold horror in its wake.",
+      "runtime": 132,
+      "times": [
+        {
+          "starts_at": "2025-01-25T14:20:00+00:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-54228/"
+        },
+        {
+          "starts_at": "2025-01-25T21:00:00+00:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-54241/"
+        },
+        {
+          "starts_at": "2025-01-25T21:00:00+00:00",
+          "site": "Curzon Hoxton",
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-20133/"
+        }
+      ]
+    },
+    {
+      "title": "Presence",
+      "trailer": "https://www.youtube.com/watch?v=InSlx7tF0QA",
+      "synopsis": "Showcases a suburban house inhabited by a mysterious entity.",
+      "runtime": 85,
+      "times": [
+        {
+          "starts_at": "2025-01-25T14:50:00+00:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-54227/"
+        },
+        {
+          "starts_at": "2025-01-25T21:30:00+00:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-54234/"
+        }
+      ]
+    },
+    {
       "title": "LSFF 2025: I Film, Therefore I Am",
       "trailer": null,
       "synopsis": "In this programme of coming-of-age diary shorts, filming - and not thinking - precedes being. Seven documentaries use the camera to (de)construct one’s identity with all the chaotic, messy and not-yet-decided parts that come with it, while the medium of film provides enough space to invent the rules of life anew. \r\n\r\nWhether following a neurotic tour guide around ‘one of the most scrambled cities in the world’ or a crew of graffiti writers in a secret Italian forest, the selection is permeated by the impatience and ephemerality the process of growing up entails.\r\n\r\nRuskin is Interested, dir. Tim Nathan, UK 2023, 7mins\r\nThis is Raquel’s Not-So-Secret Diary, dir. Raquel Agea Ramos, Spain 2023, 18mins\r\nPockets: New York, dir. Hannah Beach, UK 2024, 8mins\r\nKill ‘Em All, dir. Sebastian Molina Ruiz, Mexico 2023, 18mins\r\nNero Argento, dir. Francesco Manzato, Italy 2024, 19mins\r\nNever Stop Shouting, dir. Abdellah Taïa, France 2023, 10mins\r\nAmali, dir. Ruby Harris, New Zealand 2023, 5mins\r\n",
@@ -2709,6 +2853,45 @@
           "starts_at": "2025-01-25T17:30:00+00:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-91778/"
+        }
+      ]
+    },
+    {
+      "title": "Kids Club: Robot Dreams",
+      "trailer": null,
+      "synopsis": "Based on the popular graphic novel by the North American writer Sara Varon, ROBOT DREAMS tells the adventures and misfortunes of Dog and Robot in NYC during the '80s.",
+      "runtime": 90,
+      "times": [
+        {
+          "starts_at": "2025-01-25T10:30:00+00:00",
+          "site": "Curzon Hoxton",
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-20194/"
+        }
+      ]
+    },
+    {
+      "title": "Anora",
+      "trailer": null,
+      "synopsis": "Anora, a young sex worker from Brooklyn, meets and impulsively marries the son of an oligarch. Once the news reaches Russia, her fairytale is threatened as the parents set out for New York to get the marriage annulled.",
+      "runtime": 139,
+      "times": [
+        {
+          "starts_at": "2025-01-25T11:30:00+00:00",
+          "site": "Curzon Hoxton",
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-20174/"
+        }
+      ]
+    },
+    {
+      "title": "Maria",
+      "trailer": "https://www.youtube.com/watch?v=mVIXaTdxlQc",
+      "synopsis": "The new film from the director of Jackie and Spencer, MARIA tells the glamorous, moving story of the iconic opera singer, Maria Callas. Paris, 1977: Once the world’s greatest soprano, Callas now hides in an apartment, having lost her voice and retreated from the world. She dreams of returning to the stage, but can her body and mind take the pressure?\nFeaturing some of Callas’s greatest recordings and starring Angelina Jolie in an Oscarworthy performance, MARIA is a sumptuous drama that hits all the high notes.",
+      "runtime": 123,
+      "times": [
+        {
+          "starts_at": "2025-01-25T15:30:00+00:00",
+          "site": "Curzon Hoxton",
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-20131/"
         }
       ]
     },
@@ -2741,15 +2924,132 @@
   ],
   "2025-01-26": [
     {
+      "title": "Emilia Pérez",
+      "trailer": null,
+      "synopsis": "From renegade auteur Jacques Audiard comes Emilia Pérez, an audacious fever dream that defies genres and expectations. Through liberating song and dance and bold visuals, this odyssey follows the journey of four remarkable women in Mexico, each pursuing their own happiness. The fearsome cartel leader Emilia (Karla Sofía Gascón) enlists Rita (Zoe Saldaña), an unappreciated lawyer stuck in a dead-end job, to help fake her death so that Emilia can finally live authentically as her true self. ",
+      "runtime": 132,
+      "times": [
+        {
+          "starts_at": "2025-01-26T10:45:00+00:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-54332/"
+        },
+        {
+          "starts_at": "2025-01-26T17:00:00+00:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-54337/"
+        }
+      ]
+    },
+    {
+      "title": "A Real Pain",
+      "trailer": "https://www.youtube.com/watch?v=lGeZQWMMDgM",
+      "synopsis": "Mismatched cousins David and Benji reunite for a tour through Poland to honor their beloved grandmother. The adventure takes a turn when the odd-couple's old tensions resurface against the backdrop of their family history.",
+      "runtime": 90,
+      "times": [
+        {
+          "starts_at": "2025-01-26T11:00:00+00:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-54331/"
+        },
+        {
+          "starts_at": "2025-01-26T13:40:00+00:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-54341/"
+        },
+        {
+          "starts_at": "2025-01-26T11:40:00+00:00",
+          "site": "Curzon Hoxton",
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-20146/"
+        }
+      ]
+    },
+    {
+      "title": "Babygirl",
+      "trailer": "https://www.youtube.com/watch?v=dq_bnfZy9-g",
+      "synopsis": "Despite the risk and prejudices, a very successful CEO begins an illicit affair with her much younger intern.",
+      "runtime": 114,
+      "times": [
+        {
+          "starts_at": "2025-01-26T11:15:00+00:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-54330/"
+        },
+        {
+          "starts_at": "2025-01-26T16:00:00+00:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-54338/"
+        },
+        {
+          "starts_at": "2025-01-26T18:00:00+00:00",
+          "site": "Curzon Hoxton",
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-20141/"
+        },
+        {
+          "starts_at": "2025-01-26T20:40:00+00:00",
+          "site": "Curzon Hoxton",
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-20142/"
+        }
+      ]
+    },
+    {
+      "title": "A Complete Unknown",
+      "trailer": "https://www.youtube.com/watch?v=Nsvexi2Ulbs",
+      "synopsis": "Set in the influential New York music scene of the early 60s, A COMPLETE UNKNOWN follows 19-year-old Minnesota musician BOB DYLAN’s (Timothée Chalamet) meteoric rise as a folk singer to concert halls and the top of the charts – his songs and mystique becoming a worldwide sensation – culminating in his groundbreaking electric rock and roll performance at the Newport Folk Festival in 1965.",
+      "runtime": 141,
+      "times": [
+        {
+          "starts_at": "2025-01-26T11:30:00+00:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-54329/"
+        },
+        {
+          "starts_at": "2025-01-26T17:30:00+00:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-54336/"
+        },
+        {
+          "starts_at": "2025-01-26T20:00:00+00:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-54334/"
+        },
+        {
+          "starts_at": "2025-01-26T14:00:00+00:00",
+          "site": "Curzon Hoxton",
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-20143/"
+        },
+        {
+          "starts_at": "2025-01-26T17:10:00+00:00",
+          "site": "Curzon Hoxton",
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-20144/"
+        },
+        {
+          "starts_at": "2025-01-26T20:20:00+00:00",
+          "site": "Curzon Hoxton",
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-20145/"
+        }
+      ]
+    },
+    {
       "title": "The Brutalist",
       "trailer": "https://www.youtube.com/watch?v=hNiwPU5vjCk",
       "synopsis": "When visionary architect László Toth and his wife Erzsébet flee post-war Europe in 1947 to rebuild their legacy and witness the birth of modern America, their lives are changed forever by a mysterious and wealthy client.\r\n\r\nThe Brutalist is showing with a 15 minute interval.",
       "runtime": 215,
       "times": [
         {
+          "starts_at": "2025-01-26T13:10:00+00:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-54328/"
+        },
+        {
           "starts_at": "2025-01-26T16:40:00+00:00",
           "site": "Curzon Aldgate",
           "url": "https://www.curzon.com/ticketing/seats/ALD1-53942/"
+        },
+        {
+          "starts_at": "2025-01-26T18:50:00+00:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-54335/"
         },
         {
           "starts_at": "2025-01-26T18:00:00+00:00",
@@ -2809,6 +3109,47 @@
       ]
     },
     {
+      "title": "Nosferatu",
+      "trailer": "https://www.youtube.com/watch?v=Px6S0RxfAHg",
+      "synopsis": "Robert Eggers’ Nosferatu is a gothic tale of obsession between a haunted young woman and the terrifying vampire infatuated with her, causing untold horror in its wake.",
+      "runtime": 132,
+      "times": [
+        {
+          "starts_at": "2025-01-26T14:00:00+00:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-54340/"
+        },
+        {
+          "starts_at": "2025-01-26T20:40:00+00:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-54333/"
+        },
+        {
+          "starts_at": "2025-01-26T15:00:00+00:00",
+          "site": "Curzon Hoxton",
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-20139/"
+        }
+      ]
+    },
+    {
+      "title": "Presence",
+      "trailer": "https://www.youtube.com/watch?v=InSlx7tF0QA",
+      "synopsis": "Showcases a suburban house inhabited by a mysterious entity.",
+      "runtime": 85,
+      "times": [
+        {
+          "starts_at": "2025-01-26T14:30:00+00:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-54339/"
+        },
+        {
+          "starts_at": "2025-01-26T21:00:00+00:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-54342/"
+        }
+      ]
+    },
+    {
       "title": "LSFF 2025: Awards Winners",
       "trailer": null,
       "synopsis": "The winning films from the London Short Film Festival category competitions.",
@@ -2818,6 +3159,32 @@
           "starts_at": "2025-01-26T15:00:00+00:00",
           "site": "Curzon Soho",
           "url": "https://www.curzon.com/ticketing/seats/SOH1-47707/"
+        }
+      ]
+    },
+    {
+      "title": "Maria",
+      "trailer": "https://www.youtube.com/watch?v=mVIXaTdxlQc",
+      "synopsis": "The new film from the director of Jackie and Spencer, MARIA tells the glamorous, moving story of the iconic opera singer, Maria Callas. Paris, 1977: Once the world’s greatest soprano, Callas now hides in an apartment, having lost her voice and retreated from the world. She dreams of returning to the stage, but can her body and mind take the pressure?\nFeaturing some of Callas’s greatest recordings and starring Angelina Jolie in an Oscarworthy performance, MARIA is a sumptuous drama that hits all the high notes.",
+      "runtime": 123,
+      "times": [
+        {
+          "starts_at": "2025-01-26T11:20:00+00:00",
+          "site": "Curzon Hoxton",
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-20138/"
+        }
+      ]
+    },
+    {
+      "title": "Anora",
+      "trailer": null,
+      "synopsis": "Anora, a young sex worker from Brooklyn, meets and impulsively marries the son of an oligarch. Once the news reaches Russia, her fairytale is threatened as the parents set out for New York to get the marriage annulled.",
+      "runtime": 139,
+      "times": [
+        {
+          "starts_at": "2025-01-26T12:00:00+00:00",
+          "site": "Curzon Hoxton",
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-20140/"
         }
       ]
     },
@@ -2850,15 +3217,114 @@
   ],
   "2025-01-27": [
     {
-      "title": "The Seed of the Sacred Fig",
-      "trailer": "https://www.youtube.com/watch?v=NX1azcAduRc",
-      "synopsis": "Investigating judge Iman grapples with paranoia amid political unrest in Tehran. When his gun vanishes, he suspects his wife and daughters, imposing draconian measures that strain family ties as societal rules crumble.",
-      "runtime": 168,
+      "title": "Emilia Pérez",
+      "trailer": null,
+      "synopsis": "From renegade auteur Jacques Audiard comes Emilia Pérez, an audacious fever dream that defies genres and expectations. Through liberating song and dance and bold visuals, this odyssey follows the journey of four remarkable women in Mexico, each pursuing their own happiness. The fearsome cartel leader Emilia (Karla Sofía Gascón) enlists Rita (Zoe Saldaña), an unappreciated lawyer stuck in a dead-end job, to help fake her death so that Emilia can finally live authentically as her true self. ",
+      "runtime": 132,
       "times": [
         {
+          "starts_at": "2025-01-27T11:00:00+00:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-54262/"
+        },
+        {
+          "starts_at": "2025-01-27T17:15:00+00:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-54267/"
+        }
+      ]
+    },
+    {
+      "title": "A Real Pain",
+      "trailer": "https://www.youtube.com/watch?v=lGeZQWMMDgM",
+      "synopsis": "Mismatched cousins David and Benji reunite for a tour through Poland to honor their beloved grandmother. The adventure takes a turn when the odd-couple's old tensions resurface against the backdrop of their family history.",
+      "runtime": 90,
+      "times": [
+        {
+          "starts_at": "2025-01-27T11:20:00+00:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-54261/"
+        },
+        {
+          "starts_at": "2025-01-27T15:00:00+00:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-54270/"
+        },
+        {
+          "starts_at": "2025-01-27T12:00:00+00:00",
+          "site": "Curzon Hoxton",
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-20147/"
+        }
+      ]
+    },
+    {
+      "title": "A Complete Unknown",
+      "trailer": "https://www.youtube.com/watch?v=Nsvexi2Ulbs",
+      "synopsis": "Set in the influential New York music scene of the early 60s, A COMPLETE UNKNOWN follows 19-year-old Minnesota musician BOB DYLAN’s (Timothée Chalamet) meteoric rise as a folk singer to concert halls and the top of the charts – his songs and mystique becoming a worldwide sensation – culminating in his groundbreaking electric rock and roll performance at the Newport Folk Festival in 1965.",
+      "runtime": 141,
+      "times": [
+        {
+          "starts_at": "2025-01-27T11:40:00+00:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-54260/"
+        },
+        {
+          "starts_at": "2025-01-27T17:50:00+00:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-54266/"
+        },
+        {
+          "starts_at": "2025-01-27T20:20:00+00:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-54264/"
+        },
+        {
+          "starts_at": "2025-01-27T11:40:00+00:00",
+          "site": "Curzon Hoxton",
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-20155/"
+        },
+        {
+          "starts_at": "2025-01-27T14:20:00+00:00",
+          "site": "Curzon Hoxton",
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-20152/"
+        },
+        {
+          "starts_at": "2025-01-27T17:30:00+00:00",
+          "site": "Curzon Hoxton",
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-20153/"
+        },
+        {
+          "starts_at": "2025-01-27T20:40:00+00:00",
+          "site": "Curzon Hoxton",
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-20154/"
+        }
+      ]
+    },
+    {
+      "title": "Babygirl",
+      "trailer": "https://www.youtube.com/watch?v=dq_bnfZy9-g",
+      "synopsis": "Despite the risk and prejudices, a very successful CEO begins an illicit affair with her much younger intern.",
+      "runtime": 114,
+      "times": [
+        {
+          "starts_at": "2025-01-27T12:00:00+00:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-54259/"
+        },
+        {
+          "starts_at": "2025-01-27T21:20:00+00:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-54271/"
+        },
+        {
+          "starts_at": "2025-01-27T12:40:00+00:00",
+          "site": "Curzon Hoxton",
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-20151/"
+        },
+        {
           "starts_at": "2025-01-27T18:20:00+00:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-48110/"
+          "site": "Curzon Hoxton",
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-20150/"
         }
       ]
     },
@@ -2868,6 +3334,21 @@
       "synopsis": "When visionary architect László Toth and his wife Erzsébet flee post-war Europe in 1947 to rebuild their legacy and witness the birth of modern America, their lives are changed forever by a mysterious and wealthy client.\r\n\r\nThe Brutalist is showing with a 15 minute interval.",
       "runtime": 215,
       "times": [
+        {
+          "starts_at": "2025-01-27T13:30:00+00:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-54258/"
+        },
+        {
+          "starts_at": "2025-01-27T17:00:00+00:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-54268/"
+        },
+        {
+          "starts_at": "2025-01-27T19:40:00+00:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-54265/"
+        },
         {
           "starts_at": "2025-01-27T19:20:00+00:00",
           "site": "Curzon Soho",
@@ -2884,6 +3365,16 @@
           "url": "https://www.curzon.com/ticketing/seats/MAY1-28972/"
         },
         {
+          "starts_at": "2025-01-27T15:00:00+00:00",
+          "site": "Curzon Hoxton",
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-20113/"
+        },
+        {
+          "starts_at": "2025-01-27T19:20:00+00:00",
+          "site": "Curzon Hoxton",
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-20114/"
+        },
+        {
           "starts_at": "2025-01-27T17:00:00+00:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-30175/"
@@ -2897,6 +3388,73 @@
           "starts_at": "2025-01-27T19:00:00+00:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-96424/"
+        }
+      ]
+    },
+    {
+      "title": "Nosferatu",
+      "trailer": "https://www.youtube.com/watch?v=Px6S0RxfAHg",
+      "synopsis": "Robert Eggers’ Nosferatu is a gothic tale of obsession between a haunted young woman and the terrifying vampire infatuated with her, causing untold horror in its wake.",
+      "runtime": 132,
+      "times": [
+        {
+          "starts_at": "2025-01-27T14:20:00+00:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-54257/"
+        },
+        {
+          "starts_at": "2025-01-27T21:00:00+00:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-54272/"
+        },
+        {
+          "starts_at": "2025-01-27T21:00:00+00:00",
+          "site": "Curzon Hoxton",
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-20148/"
+        }
+      ]
+    },
+    {
+      "title": "Presence",
+      "trailer": "https://www.youtube.com/watch?v=InSlx7tF0QA",
+      "synopsis": "Showcases a suburban house inhabited by a mysterious entity.",
+      "runtime": 85,
+      "times": [
+        {
+          "starts_at": "2025-01-27T14:40:00+00:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-54269/"
+        },
+        {
+          "starts_at": "2025-01-27T17:30:00+00:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-54263/"
+        }
+      ]
+    },
+    {
+      "title": "The Seed of the Sacred Fig",
+      "trailer": "https://www.youtube.com/watch?v=NX1azcAduRc",
+      "synopsis": "Investigating judge Iman grapples with paranoia amid political unrest in Tehran. When his gun vanishes, he suspects his wife and daughters, imposing draconian measures that strain family ties as societal rules crumble.",
+      "runtime": 168,
+      "times": [
+        {
+          "starts_at": "2025-01-27T18:20:00+00:00",
+          "site": "Curzon Soho",
+          "url": "https://www.curzon.com/ticketing/seats/SOH1-48110/"
+        }
+      ]
+    },
+    {
+      "title": "Maria",
+      "trailer": "https://www.youtube.com/watch?v=mVIXaTdxlQc",
+      "synopsis": "The new film from the director of Jackie and Spencer, MARIA tells the glamorous, moving story of the iconic opera singer, Maria Callas. Paris, 1977: Once the world’s greatest soprano, Callas now hides in an apartment, having lost her voice and retreated from the world. She dreams of returning to the stage, but can her body and mind take the pressure?\nFeaturing some of Callas’s greatest recordings and starring Angelina Jolie in an Oscarworthy performance, MARIA is a sumptuous drama that hits all the high notes.",
+      "runtime": 123,
+      "times": [
+        {
+          "starts_at": "2025-01-27T15:30:00+00:00",
+          "site": "Curzon Hoxton",
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-20149/"
         }
       ]
     }
