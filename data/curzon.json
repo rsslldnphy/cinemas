@@ -1,87 +1,11 @@
 {
   "2025-01-22": [
     {
-      "title": "A Real Pain",
-      "trailer": "https://www.youtube.com/watch?v=lGeZQWMMDgM",
-      "synopsis": "Mismatched cousins David and Benji reunite for a tour through Poland to honor their beloved grandmother. The adventure takes a turn when the odd-couple's old tensions resurface against the backdrop of their family history.",
-      "runtime": 90,
-      "times": [
-        {
-          "starts_at": "2025-01-22T16:00:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-54123/"
-        },
-        {
-          "starts_at": "2025-01-22T21:30:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-54113/"
-        },
-        {
-          "starts_at": "2025-01-22T15:40:00+00:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-48303/"
-        },
-        {
-          "starts_at": "2025-01-22T18:30:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-78727/"
-        },
-        {
-          "starts_at": "2025-01-22T21:00:00+00:00",
-          "site": "Curzon Mayfair",
-          "url": "https://www.curzon.com/ticketing/seats/MAY1-29083/"
-        },
-        {
-          "starts_at": "2025-01-22T18:20:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-30324/"
-        },
-        {
-          "starts_at": "2025-01-22T21:20:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-30323/"
-        },
-        {
-          "starts_at": "2025-01-22T21:10:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-96588/"
-        }
-      ]
-    },
-    {
-      "title": "Emilia Pérez",
-      "trailer": null,
-      "synopsis": "From renegade auteur Jacques Audiard comes Emilia Pérez, an audacious fever dream that defies genres and expectations. Through liberating song and dance and bold visuals, this odyssey follows the journey of four remarkable women in Mexico, each pursuing their own happiness. The fearsome cartel leader Emilia (Karla Sofía Gascón) enlists Rita (Zoe Saldaña), an unappreciated lawyer stuck in a dead-end job, to help fake her death so that Emilia can finally live authentically as her true self. ",
-      "runtime": 132,
-      "times": [
-        {
-          "starts_at": "2025-01-22T17:00:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-54122/"
-        },
-        {
-          "starts_at": "2025-01-22T17:00:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-30325/"
-        },
-        {
-          "starts_at": "2025-01-22T17:00:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-96595/"
-        }
-      ]
-    },
-    {
       "title": "Nosferatu",
       "trailer": "https://www.youtube.com/watch?v=Px6S0RxfAHg",
       "synopsis": "Robert Eggers’ Nosferatu is a gothic tale of obsession between a haunted young woman and the terrifying vampire infatuated with her, causing untold horror in its wake.",
       "runtime": 132,
       "times": [
-        {
-          "starts_at": "2025-01-22T17:20:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-54121/"
-        },
         {
           "starts_at": "2025-01-22T20:00:00+00:00",
           "site": "Curzon Aldgate",
@@ -91,11 +15,6 @@
           "starts_at": "2025-01-22T20:20:00+00:00",
           "site": "Curzon Soho",
           "url": "https://www.curzon.com/ticketing/seats/SOH1-48301/"
-        },
-        {
-          "starts_at": "2025-01-22T15:30:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-78731/"
         },
         {
           "starts_at": "2025-01-22T20:45:00+00:00",
@@ -126,19 +45,9 @@
       "runtime": 114,
       "times": [
         {
-          "starts_at": "2025-01-22T18:00:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-54120/"
-        },
-        {
           "starts_at": "2025-01-22T20:20:00+00:00",
           "site": "Curzon Aldgate",
           "url": "https://www.curzon.com/ticketing/seats/ALD1-54114/"
-        },
-        {
-          "starts_at": "2025-01-22T17:40:00+00:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-48302/"
         },
         {
           "starts_at": "2025-01-22T21:10:00+00:00",
@@ -146,29 +55,14 @@
           "url": "https://www.curzon.com/ticketing/seats/SOH1-48304/"
         },
         {
-          "starts_at": "2025-01-22T17:45:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-78728/"
-        },
-        {
           "starts_at": "2025-01-22T21:00:00+00:00",
           "site": "Curzon Victoria",
           "url": "https://www.curzon.com/ticketing/seats/VIC1-78735/"
         },
         {
-          "starts_at": "2025-01-22T18:00:00+00:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-20042/"
-        },
-        {
           "starts_at": "2025-01-22T21:00:00+00:00",
           "site": "Curzon Hoxton",
           "url": "https://www.curzon.com/ticketing/seats/HOX1-20044/"
-        },
-        {
-          "starts_at": "2025-01-22T16:00:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-30328/"
         },
         {
           "starts_at": "2025-01-22T18:40:00+00:00",
@@ -189,29 +83,14 @@
       "runtime": 141,
       "times": [
         {
-          "starts_at": "2025-01-22T18:20:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-53695/"
-        },
-        {
           "starts_at": "2025-01-22T20:40:00+00:00",
           "site": "Curzon Aldgate",
           "url": "https://www.curzon.com/ticketing/seats/ALD1-53696/"
         },
         {
-          "starts_at": "2025-01-22T18:00:00+00:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-48283/"
-        },
-        {
           "starts_at": "2025-01-22T20:50:00+00:00",
           "site": "Curzon Soho",
           "url": "https://www.curzon.com/ticketing/seats/SOH1-48282/"
-        },
-        {
-          "starts_at": "2025-01-22T18:00:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-78290/"
         },
         {
           "starts_at": "2025-01-22T20:30:00+00:00",
@@ -224,34 +103,14 @@
           "url": "https://www.curzon.com/ticketing/seats/MAY1-29084/"
         },
         {
-          "starts_at": "2025-01-22T17:40:00+00:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-19746/"
-        },
-        {
           "starts_at": "2025-01-22T20:20:00+00:00",
           "site": "Curzon Hoxton",
           "url": "https://www.curzon.com/ticketing/seats/HOX1-20043/"
         },
         {
-          "starts_at": "2025-01-22T17:20:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-29776/"
-        },
-        {
           "starts_at": "2025-01-22T20:20:00+00:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-30322/"
-        },
-        {
-          "starts_at": "2025-01-22T15:30:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-96585/"
-        },
-        {
-          "starts_at": "2025-01-22T18:10:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-96587/"
         },
         {
           "starts_at": "2025-01-22T20:40:00+00:00",
@@ -261,61 +120,35 @@
       ]
     },
     {
-      "title": "LSFF 2025: Speaking in Symbols",
-      "trailer": null,
-      "synopsis": "In this selection of new short films, folkloric landscapes take us from the ancient bogs and marshland of Suffolk in England to the sacred banyan tree in the Malwa Region of Central India, from the mountains of Spain's Basque Country to a dilapidated farm in Eastern Europe visited by an Alice-like girl on wondrous adventures. \r\n\r\nThese films examine the persecution of witches across Mediaeval Europe to the lasting legacy of English Morris Dancers, and from the beautifully unique land art of Richard Long to a perception of gender in English folk costume and pantomime drag. Join us on a journey through global symbolism, tradition, storytelling and mysticism. \r\n\r\nOut of the Peat, dir. Tabitha Carless-Frost / Theo Rollason, UK 2024, 12mins\r\nIs the Storm Hungry?, dir. Adéla Honová, Czech Republic 2024, 1 mins\r\nHammer of the WItches, dir. Anna Makarova / Ruth Stella Stella Lingford, Germany 2024, 8mins\r\nBells & Ribbons, dir. Joe Jordan, UK 2024, 10mins\r\nBaramasi - Daughters of the Immortal Tree, dir. Abhinav Dubey / Mangeshi Dronkar, India 2023, 12mins\r\nRobert and Georgie, dir. Clare Richards, UK 2024, 16mins\r\nFrom Stone to Stone, dir. Louie Clive Norman, UK 2023, 4mins\r\nWalking, dir. Leire Egaña, Spain 2024, 17mins\r\n\r\nContent warning: \r\n- Images of fossilised human remains\r\n- This programme contains flash photography which may affect those who are susceptible to photosensitive epilepsy.\r\n",
-      "runtime": 96,
+      "title": "A Real Pain",
+      "trailer": "https://www.youtube.com/watch?v=lGeZQWMMDgM",
+      "synopsis": "Mismatched cousins David and Benji reunite for a tour through Poland to honor their beloved grandmother. The adventure takes a turn when the odd-couple's old tensions resurface against the backdrop of their family history.",
+      "runtime": 90,
       "times": [
         {
-          "starts_at": "2025-01-22T18:20:00+00:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-47702/"
-        }
-      ]
-    },
-    {
-      "title": "Maria",
-      "trailer": "https://www.youtube.com/watch?v=mVIXaTdxlQc",
-      "synopsis": "The new film from the director of Jackie and Spencer, MARIA tells the glamorous, moving story of the iconic opera singer, Maria Callas. Paris, 1977: Once the world’s greatest soprano, Callas now hides in an apartment, having lost her voice and retreated from the world. She dreams of returning to the stage, but can her body and mind take the pressure?\nFeaturing some of Callas’s greatest recordings and starring Angelina Jolie in an Oscarworthy performance, MARIA is a sumptuous drama that hits all the high notes.",
-      "runtime": 123,
-      "times": [
-        {
-          "starts_at": "2025-01-22T15:40:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-78722/"
+          "starts_at": "2025-01-22T21:30:00+00:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-54113/"
         },
         {
-          "starts_at": "2025-01-22T20:00:00+00:00",
+          "starts_at": "2025-01-22T18:30:00+00:00",
           "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-78725/"
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-78727/"
         },
         {
-          "starts_at": "2025-01-22T18:10:00+00:00",
+          "starts_at": "2025-01-22T21:00:00+00:00",
           "site": "Curzon Mayfair",
-          "url": "https://www.curzon.com/ticketing/seats/MAY1-29085/"
+          "url": "https://www.curzon.com/ticketing/seats/MAY1-29083/"
         },
         {
-          "starts_at": "2025-01-22T17:50:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-96592/"
+          "starts_at": "2025-01-22T21:20:00+00:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-30323/"
         },
         {
-          "starts_at": "2025-01-22T20:30:00+00:00",
+          "starts_at": "2025-01-22T21:10:00+00:00",
           "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-96583/"
-        }
-      ]
-    },
-    {
-      "title": "Here",
-      "trailer": null,
-      "synopsis": "From the reunited director, writer, and stars of Forrest Gump, Here is an original film about multiple families and a special place they inhabit. The story travels through generations, capturing the human experience in its purest form. Directed by Robert Zemeckis, screenplay by Eric Roth & Zemeckis and told much in the style of the acclaimed graphic novel by Richard McGuire on which it is based, Tom Hanks and Robin Wright star in a tale of love, loss, laughter and life, all of which happen right Here.",
-      "runtime": 104,
-      "times": [
-        {
-          "starts_at": "2025-01-22T17:30:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-78729/"
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-96588/"
         }
       ]
     },
@@ -334,16 +167,24 @@
           "starts_at": "2025-01-22T21:15:00+00:00",
           "site": "Curzon Victoria",
           "url": "https://www.curzon.com/ticketing/seats/VIC1-78734/"
+        }
+      ]
+    },
+    {
+      "title": "Maria",
+      "trailer": "https://www.youtube.com/watch?v=mVIXaTdxlQc",
+      "synopsis": "The new film from the director of Jackie and Spencer, MARIA tells the glamorous, moving story of the iconic opera singer, Maria Callas. Paris, 1977: Once the world’s greatest soprano, Callas now hides in an apartment, having lost her voice and retreated from the world. She dreams of returning to the stage, but can her body and mind take the pressure?\nFeaturing some of Callas’s greatest recordings and starring Angelina Jolie in an Oscarworthy performance, MARIA is a sumptuous drama that hits all the high notes.",
+      "runtime": 123,
+      "times": [
+        {
+          "starts_at": "2025-01-22T20:00:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-78725/"
         },
         {
-          "starts_at": "2025-01-22T17:30:00+00:00",
-          "site": "Curzon Mayfair",
-          "url": "https://www.curzon.com/ticketing/seats/MAY1-29082/"
-        },
-        {
-          "starts_at": "2025-01-22T19:50:00+00:00",
+          "starts_at": "2025-01-22T20:30:00+00:00",
           "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-96596/"
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-96583/"
         }
       ]
     },
@@ -354,53 +195,9 @@
       "runtime": 139,
       "times": [
         {
-          "starts_at": "2025-01-22T17:20:00+00:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-20047/"
-        },
-        {
           "starts_at": "2025-01-22T20:40:00+00:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-30319/"
-        }
-      ]
-    },
-    {
-      "title": "Nickel Boys",
-      "trailer": null,
-      "synopsis": "The Nickel Boys is based on the historic reform school in 1960s Florida called the Dozier School for Boys, which was notorious for abusive treatment of students. It explores the story of Elwood Curtis, a young African-American boy who is sent to the Nickel Academy, a fictional version of the Dozier School, after he is falsely accused of a crime. While there, he meets a boy named Turner, and the two form a close friendship as they try to survive the horrors of the school and its corrupt administrators.",
-      "runtime": 140,
-      "times": [
-        {
-          "starts_at": "2025-01-22T17:40:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-30317/"
-        }
-      ]
-    },
-    {
-      "title": "DocHouse: Architecton",
-      "trailer": null,
-      "synopsis": "The latest film from master documentarian Victor Kossakovsky (GUNDA, AQUARELA), is an epic, intimate and poetic meditation on architecture and how the design and construction of buildings from the ancient past reveal our destruction - and offer hope for survival and a way forward.\r\n\r\nThrough Kossakovsky’s lens, the grandeur and folly of humanity and its precarious relationship with nature posits two urgent questions: how do we build, and how can we build better, before it’s too late?\r\n",
-      "runtime": 98,
-      "times": [
-        {
-          "starts_at": "2025-01-22T16:00:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-96631/"
-        }
-      ]
-    },
-    {
-      "title": "DocHouse: When Time Stopped Breathing",
-      "trailer": null,
-      "synopsis": "In May 2008, a cyclone called Nargis raged for hours in Myanmar’s Ayeyarwaddy Delta, killing 140,000 people. Seven days after the storm, several young Burmese filmmakers made their way – carefully, since filming was banned by the government – to villages that had been utterly devastated, and met people who had lost everything to the cyclone. \r\n\r\nThey recorded scenes that touched them to the core, moving through a world that appeared more surreal than real, where life and death seemed to coexist. Their images reflect their own feelings as much as those of the people they met; these emotions have been woven into a film that conveys what it means when a natural disaster like Nargis changes forever the lives of so many\r\n\r\nNARGIS - WHEN TIME STOPPED BREATHING, co-directed by the late documentary filmmaker Pe Maung Same (1974 - 2024), will be followed by a discussion reflecting on Myanmar today. All funds raised from this event will be shared between the filmmakers and the Pe Maung Same Film Fund.",
-      "runtime": 90,
-      "times": [
-        {
-          "starts_at": "2025-01-22T18:20:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-96021/"
         }
       ]
     },
@@ -4300,19 +4097,6 @@
           "starts_at": "2025-01-28T16:00:00+00:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-96649/"
-        }
-      ]
-    },
-    {
-      "title": "DocHouse: The Flats",
-      "trailer": null,
-      "synopsis": "The New Lodge flats are located in a predominantly working class, Catholic district of Northern Ireland’s capital. The area remains marked by its tragically high death toll during the Troubles, the country’s 30-year conflict that took place between the 1960s and late 1990s. Director Alessandra Celesia unearths the emotional wounds left on the families remaining on the estate – the legacy of political violence. As protagonist Joe grapples with personal tragedy, including the murder of his teenage uncle, his story intertwines with those of his neighbours: Angie, haunted by a violent past, and Jolene, who finds solace in music. Through moving reconstructions, testimonies and archival footage, Celesia’s profound and deeply human film reveals the ways unresolved trauma endures and changes across generations.",
-      "runtime": 114,
-      "times": [
-        {
-          "starts_at": "2025-01-28T18:20:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-95800/"
         }
       ]
     }
