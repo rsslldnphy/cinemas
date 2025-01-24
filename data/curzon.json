@@ -1,92 +1,6 @@
 {
   "2025-01-24": [
     {
-      "title": "The Brutalist",
-      "trailer": "https://www.youtube.com/watch?v=hNiwPU5vjCk",
-      "synopsis": "When visionary architect László Toth and his wife Erzsébet flee post-war Europe in 1947 to rebuild their legacy and witness the birth of modern America, their lives are changed forever by a mysterious and wealthy client.\r\n\r\nThe Brutalist is showing with a 15 minute interval.",
-      "runtime": 215,
-      "times": [
-        {
-          "starts_at": "2025-01-24T19:20:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-54320/"
-        },
-        {
-          "starts_at": "2025-01-24T20:15:00+00:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-48208/"
-        },
-        {
-          "starts_at": "2025-01-24T19:00:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-78653/"
-        },
-        {
-          "starts_at": "2025-01-24T19:00:00+00:00",
-          "site": "Curzon Mayfair",
-          "url": "https://www.curzon.com/ticketing/seats/MAY1-28964/"
-        },
-        {
-          "starts_at": "2025-01-24T19:00:00+00:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-19964/"
-        },
-        {
-          "starts_at": "2025-01-24T18:50:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-30151/"
-        },
-        {
-          "starts_at": "2025-01-24T18:40:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-96418/"
-        }
-      ]
-    },
-    {
-      "title": "A Complete Unknown",
-      "trailer": "https://www.youtube.com/watch?v=Nsvexi2Ulbs",
-      "synopsis": "Set in the influential New York music scene of the early 60s, A COMPLETE UNKNOWN follows 19-year-old Minnesota musician BOB DYLAN’s (Timothée Chalamet) meteoric rise as a folk singer to concert halls and the top of the charts – his songs and mystique becoming a worldwide sensation – culminating in his groundbreaking electric rock and roll performance at the Newport Folk Festival in 1965.",
-      "runtime": 141,
-      "times": [
-        {
-          "starts_at": "2025-01-24T20:20:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-54319/"
-        },
-        {
-          "starts_at": "2025-01-24T21:00:00+00:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-48338/"
-        },
-        {
-          "starts_at": "2025-01-24T20:15:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-78870/"
-        },
-        {
-          "starts_at": "2025-01-24T20:30:00+00:00",
-          "site": "Curzon Mayfair",
-          "url": "https://www.curzon.com/ticketing/seats/MAY1-29103/"
-        },
-        {
-          "starts_at": "2025-01-24T20:40:00+00:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-20186/"
-        },
-        {
-          "starts_at": "2025-01-24T20:20:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-30155/"
-        },
-        {
-          "starts_at": "2025-01-24T20:40:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-96682/"
-        }
-      ]
-    },
-    {
       "title": "Nosferatu",
       "trailer": "https://www.youtube.com/watch?v=Px6S0RxfAHg",
       "synopsis": "Robert Eggers’ Nosferatu is a gothic tale of obsession between a haunted young woman and the terrifying vampire infatuated with her, causing untold horror in its wake.",
@@ -119,6 +33,34 @@
           "starts_at": "2025-01-24T21:30:00+00:00",
           "site": "Curzon Aldgate",
           "url": "https://www.curzon.com/ticketing/seats/ALD1-54327/"
+        }
+      ]
+    },
+    {
+      "title": "A Complete Unknown",
+      "trailer": "https://www.youtube.com/watch?v=Nsvexi2Ulbs",
+      "synopsis": "Set in the influential New York music scene of the early 60s, A COMPLETE UNKNOWN follows 19-year-old Minnesota musician BOB DYLAN’s (Timothée Chalamet) meteoric rise as a folk singer to concert halls and the top of the charts – his songs and mystique becoming a worldwide sensation – culminating in his groundbreaking electric rock and roll performance at the Newport Folk Festival in 1965.",
+      "runtime": 141,
+      "times": [
+        {
+          "starts_at": "2025-01-24T21:00:00+00:00",
+          "site": "Curzon Soho",
+          "url": "https://www.curzon.com/ticketing/seats/SOH1-48338/"
+        },
+        {
+          "starts_at": "2025-01-24T20:30:00+00:00",
+          "site": "Curzon Mayfair",
+          "url": "https://www.curzon.com/ticketing/seats/MAY1-29103/"
+        },
+        {
+          "starts_at": "2025-01-24T20:40:00+00:00",
+          "site": "Curzon Hoxton",
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-20186/"
+        },
+        {
+          "starts_at": "2025-01-24T20:40:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-96682/"
         }
       ]
     },
@@ -173,11 +115,6 @@
           "starts_at": "2025-01-24T21:00:00+00:00",
           "site": "Curzon Victoria",
           "url": "https://www.curzon.com/ticketing/seats/VIC1-78878/"
-        },
-        {
-          "starts_at": "2025-01-24T20:00:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-96692/"
         }
       ]
     },
@@ -201,27 +138,9 @@
       "runtime": 90,
       "times": [
         {
-          "starts_at": "2025-01-24T18:30:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-96688/"
-        },
-        {
           "starts_at": "2025-01-24T21:00:00+00:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-96683/"
-        }
-      ]
-    },
-    {
-      "title": "DocHouse: 2073",
-      "trailer": null,
-      "synopsis": "2073 blends compelling archive footage and commentary with sci-fi drama in this vital cinematic warning from a dystopian future to tackle the biggest challenges endangering our present day and the existence of humanity.\r\n\r\nIt’s the year 2073 where the worst fears of modern life have been realised. Surveillance drones fill the burnt orange skies and militarised police roam the wrecked streets, while humans hide away underground, struggling to remember a free and hopeful existence. In this ingenious mixture of visionary science fiction and nonfiction, Oscar-winning director, Asif Kapadia (SENNA, AMY) transports us to a future foreshadowed by the terrifying realities of our present. Samantha Morton (MINORITY REPORT) plays a survivor besieged by nightmare visions of the past—a past that happens to be our present, visualised through contemporary footage interconnecting today’s global crises of authoritarianism, unchecked big tech, inequality, and our global climate crisis.\r\n\r\n2073 is an urgent, unshakable vision of a dystopic future that could very well be our own.\r\n",
-      "runtime": 85,
-      "times": [
-        {
-          "starts_at": "2025-01-24T20:10:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-96646/"
         }
       ]
     }
