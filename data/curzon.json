@@ -1,198 +1,6 @@
 {
   "2025-01-24": [
     {
-      "title": "The Brutalist",
-      "trailer": "https://www.youtube.com/watch?v=hNiwPU5vjCk",
-      "synopsis": "When visionary architect László Toth and his wife Erzsébet flee post-war Europe in 1947 to rebuild their legacy and witness the birth of modern America, their lives are changed forever by a mysterious and wealthy client.\r\n\r\nThe Brutalist is showing with a 15 minute interval.",
-      "runtime": 215,
-      "times": [
-        {
-          "starts_at": "2025-01-24T13:30:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-54313/"
-        },
-        {
-          "starts_at": "2025-01-24T17:00:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-53939/"
-        },
-        {
-          "starts_at": "2025-01-24T19:20:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-54320/"
-        },
-        {
-          "starts_at": "2025-01-24T13:50:00+00:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-48209/"
-        },
-        {
-          "starts_at": "2025-01-24T17:00:00+00:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-48224/"
-        },
-        {
-          "starts_at": "2025-01-24T20:15:00+00:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-48208/"
-        },
-        {
-          "starts_at": "2025-01-24T13:30:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-78885/"
-        },
-        {
-          "starts_at": "2025-01-24T14:45:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-78654/"
-        },
-        {
-          "starts_at": "2025-01-24T19:00:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-78653/"
-        },
-        {
-          "starts_at": "2025-01-24T14:40:00+00:00",
-          "site": "Curzon Mayfair",
-          "url": "https://www.curzon.com/ticketing/seats/MAY1-28965/"
-        },
-        {
-          "starts_at": "2025-01-24T19:00:00+00:00",
-          "site": "Curzon Mayfair",
-          "url": "https://www.curzon.com/ticketing/seats/MAY1-28964/"
-        },
-        {
-          "starts_at": "2025-01-24T14:40:00+00:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-19965/"
-        },
-        {
-          "starts_at": "2025-01-24T19:00:00+00:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-19964/"
-        },
-        {
-          "starts_at": "2025-01-24T13:40:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-30378/"
-        },
-        {
-          "starts_at": "2025-01-24T17:00:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-30152/"
-        },
-        {
-          "starts_at": "2025-01-24T18:50:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-30151/"
-        },
-        {
-          "starts_at": "2025-01-24T14:20:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-96419/"
-        },
-        {
-          "starts_at": "2025-01-24T18:40:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-96418/"
-        }
-      ]
-    },
-    {
-      "title": "A Real Pain",
-      "trailer": "https://www.youtube.com/watch?v=lGeZQWMMDgM",
-      "synopsis": "Mismatched cousins David and Benji reunite for a tour through Poland to honor their beloved grandmother. The adventure takes a turn when the odd-couple's old tensions resurface against the backdrop of their family history.",
-      "runtime": 90,
-      "times": [
-        {
-          "starts_at": "2025-01-24T14:00:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-54326/"
-        },
-        {
-          "starts_at": "2025-01-24T15:45:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-78886/"
-        },
-        {
-          "starts_at": "2025-01-24T14:50:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-30375/"
-        },
-        {
-          "starts_at": "2025-01-24T16:40:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-30153/"
-        },
-        {
-          "starts_at": "2025-01-24T16:20:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-96686/"
-        },
-        {
-          "starts_at": "2025-01-24T18:30:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-96688/"
-        },
-        {
-          "starts_at": "2025-01-24T21:00:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-96683/"
-        }
-      ]
-    },
-    {
-      "title": "Nosferatu",
-      "trailer": "https://www.youtube.com/watch?v=Px6S0RxfAHg",
-      "synopsis": "Robert Eggers’ Nosferatu is a gothic tale of obsession between a haunted young woman and the terrifying vampire infatuated with her, causing untold horror in its wake.",
-      "runtime": 132,
-      "times": [
-        {
-          "starts_at": "2025-01-24T14:20:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-54325/"
-        },
-        {
-          "starts_at": "2025-01-24T21:00:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-54318/"
-        },
-        {
-          "starts_at": "2025-01-24T15:15:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-78887/"
-        },
-        {
-          "starts_at": "2025-01-24T20:40:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-30168/"
-        },
-        {
-          "starts_at": "2025-01-24T20:30:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-96679/"
-        }
-      ]
-    },
-    {
-      "title": "Presence",
-      "trailer": "https://www.youtube.com/watch?v=7fOJyQtJSFU",
-      "synopsis": "A family moves into a suburban house and becomes convinced they’re not alone.",
-      "runtime": 85,
-      "times": [
-        {
-          "starts_at": "2025-01-24T14:50:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-54324/"
-        },
-        {
-          "starts_at": "2025-01-24T21:30:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-54327/"
-        }
-      ]
-    },
-    {
       "title": "Babygirl",
       "trailer": "https://www.youtube.com/watch?v=dq_bnfZy9-g",
       "synopsis": "Despite the risk and prejudices, a very successful CEO begins an illicit affair with her much younger intern.",
@@ -202,11 +10,6 @@
           "starts_at": "2025-01-24T16:20:00+00:00",
           "site": "Curzon Aldgate",
           "url": "https://www.curzon.com/ticketing/seats/ALD1-54323/"
-        },
-        {
-          "starts_at": "2025-01-24T14:20:00+00:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-48337/"
         },
         {
           "starts_at": "2025-01-24T21:20:00+00:00",
@@ -224,11 +27,6 @@
           "url": "https://www.curzon.com/ticketing/seats/VIC1-78874/"
         },
         {
-          "starts_at": "2025-01-24T12:40:00+00:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-20189/"
-        },
-        {
           "starts_at": "2025-01-24T18:20:00+00:00",
           "site": "Curzon Hoxton",
           "url": "https://www.curzon.com/ticketing/seats/HOX1-20190/"
@@ -242,6 +40,64 @@
           "starts_at": "2025-01-24T21:20:00+00:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-30374/"
+        }
+      ]
+    },
+    {
+      "title": "The Brutalist",
+      "trailer": "https://www.youtube.com/watch?v=hNiwPU5vjCk",
+      "synopsis": "When visionary architect László Toth and his wife Erzsébet flee post-war Europe in 1947 to rebuild their legacy and witness the birth of modern America, their lives are changed forever by a mysterious and wealthy client.\r\n\r\nThe Brutalist is showing with a 15 minute interval.",
+      "runtime": 215,
+      "times": [
+        {
+          "starts_at": "2025-01-24T17:00:00+00:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-53939/"
+        },
+        {
+          "starts_at": "2025-01-24T19:20:00+00:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-54320/"
+        },
+        {
+          "starts_at": "2025-01-24T17:00:00+00:00",
+          "site": "Curzon Soho",
+          "url": "https://www.curzon.com/ticketing/seats/SOH1-48224/"
+        },
+        {
+          "starts_at": "2025-01-24T20:15:00+00:00",
+          "site": "Curzon Soho",
+          "url": "https://www.curzon.com/ticketing/seats/SOH1-48208/"
+        },
+        {
+          "starts_at": "2025-01-24T19:00:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-78653/"
+        },
+        {
+          "starts_at": "2025-01-24T19:00:00+00:00",
+          "site": "Curzon Mayfair",
+          "url": "https://www.curzon.com/ticketing/seats/MAY1-28964/"
+        },
+        {
+          "starts_at": "2025-01-24T19:00:00+00:00",
+          "site": "Curzon Hoxton",
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-19964/"
+        },
+        {
+          "starts_at": "2025-01-24T17:00:00+00:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-30152/"
+        },
+        {
+          "starts_at": "2025-01-24T18:50:00+00:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-30151/"
+        },
+        {
+          "starts_at": "2025-01-24T18:40:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-96418/"
         }
       ]
     },
@@ -290,11 +146,6 @@
           "url": "https://www.curzon.com/ticketing/seats/ALD1-54319/"
         },
         {
-          "starts_at": "2025-01-24T14:40:00+00:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-48340/"
-        },
-        {
           "starts_at": "2025-01-24T17:50:00+00:00",
           "site": "Curzon Soho",
           "url": "https://www.curzon.com/ticketing/seats/SOH1-48339/"
@@ -303,16 +154,6 @@
           "starts_at": "2025-01-24T21:00:00+00:00",
           "site": "Curzon Soho",
           "url": "https://www.curzon.com/ticketing/seats/SOH1-48338/"
-        },
-        {
-          "starts_at": "2025-01-24T12:30:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-78876/"
-        },
-        {
-          "starts_at": "2025-01-24T14:15:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-78872/"
         },
         {
           "starts_at": "2025-01-24T18:00:00+00:00",
@@ -325,19 +166,9 @@
           "url": "https://www.curzon.com/ticketing/seats/VIC1-78870/"
         },
         {
-          "starts_at": "2025-01-24T14:20:00+00:00",
-          "site": "Curzon Mayfair",
-          "url": "https://www.curzon.com/ticketing/seats/MAY1-29104/"
-        },
-        {
           "starts_at": "2025-01-24T20:30:00+00:00",
           "site": "Curzon Mayfair",
           "url": "https://www.curzon.com/ticketing/seats/MAY1-29103/"
-        },
-        {
-          "starts_at": "2025-01-24T14:20:00+00:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-20188/"
         },
         {
           "starts_at": "2025-01-24T17:30:00+00:00",
@@ -350,11 +181,6 @@
           "url": "https://www.curzon.com/ticketing/seats/HOX1-20186/"
         },
         {
-          "starts_at": "2025-01-24T14:00:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-30162/"
-        },
-        {
           "starts_at": "2025-01-24T17:20:00+00:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-30161/"
@@ -365,11 +191,6 @@
           "url": "https://www.curzon.com/ticketing/seats/CAM1-30155/"
         },
         {
-          "starts_at": "2025-01-24T15:00:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-96687/"
-        },
-        {
           "starts_at": "2025-01-24T18:00:00+00:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-96689/"
@@ -378,6 +199,83 @@
           "starts_at": "2025-01-24T20:40:00+00:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-96682/"
+        }
+      ]
+    },
+    {
+      "title": "Nosferatu",
+      "trailer": "https://www.youtube.com/watch?v=Px6S0RxfAHg",
+      "synopsis": "Robert Eggers’ Nosferatu is a gothic tale of obsession between a haunted young woman and the terrifying vampire infatuated with her, causing untold horror in its wake.",
+      "runtime": 132,
+      "times": [
+        {
+          "starts_at": "2025-01-24T21:00:00+00:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-54318/"
+        },
+        {
+          "starts_at": "2025-01-24T20:40:00+00:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-30168/"
+        },
+        {
+          "starts_at": "2025-01-24T20:30:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-96679/"
+        }
+      ]
+    },
+    {
+      "title": "Presence",
+      "trailer": "https://www.youtube.com/watch?v=7fOJyQtJSFU",
+      "synopsis": "A family moves into a suburban house and becomes convinced they’re not alone.",
+      "runtime": 85,
+      "times": [
+        {
+          "starts_at": "2025-01-24T21:30:00+00:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-54327/"
+        }
+      ]
+    },
+    {
+      "title": "LSFF 2025: British Lives",
+      "trailer": null,
+      "synopsis": "An exploration of the multifaceted and unified nature of British identity. Using camcorders, letters, and analogue memories, these films compose fractions of stories set in rural geographies and trace immigration heritage. From folkloric rumours of gigantic cats, whimsical Elvis impersonation and digital re-examinations of systemic segregation, these films speak from the heart of British identity - collecting stories from all over the nation to paint a cross-cultural, contemporary portrait.\r\n\r\n\r\nWe’ve combined odes to eccentric British humour such as Piece of Cake, and My Dad and the Volcano, traverse the day-to-day of immigrant heritage in Journey Mercies and Dear F... discovering intimate, nostalgic records of regional history. Above all, this programme seeks to celebrate British cultural self-consciousness through the medium of filmmaking.\r\n\r\nHave You Seen the Beast?, dir. Austen McCowan / Will Hewitt, UK 2024, 7mins\r\nColour Separation Overlay, dir. Blu Smith, UK 2024, 3mins\r\nJourney Mercies, dir. Tomisin Adepeju, UK 2023, 15mins\r\nDear F…, dir. Hannan Jones, UK 2023, 7mins\r\nMy Dad and the Volcano, dir. Gavin Reid, UK 2023, 15mins\r\nPiece Of Cake, dir. Jack Hartley, UK 2023, 11mins\r\nMarmalade, dir. Jamie Hawkesworth, UK 2024, 6mins\r\nHappy Snaps, dir. Tyro Heath, UK 2024, 12mins\r\nIf I Can Dream, dir. Luis Cross, UK 2024, 12mins\r\n\r\nContent warning : Implied racial aggression",
+      "runtime": 88,
+      "times": [
+        {
+          "starts_at": "2025-01-24T18:20:00+00:00",
+          "site": "Curzon Soho",
+          "url": "https://www.curzon.com/ticketing/seats/SOH1-47704/"
+        }
+      ]
+    },
+    {
+      "title": "A Real Pain",
+      "trailer": "https://www.youtube.com/watch?v=lGeZQWMMDgM",
+      "synopsis": "Mismatched cousins David and Benji reunite for a tour through Poland to honor their beloved grandmother. The adventure takes a turn when the odd-couple's old tensions resurface against the backdrop of their family history.",
+      "runtime": 90,
+      "times": [
+        {
+          "starts_at": "2025-01-24T15:45:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-78886/"
+        },
+        {
+          "starts_at": "2025-01-24T16:40:00+00:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-30153/"
+        },
+        {
+          "starts_at": "2025-01-24T16:20:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-96686/"
+        },
+        {
+          "starts_at": "2025-01-24T21:00:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-96683/"
         }
       ]
     },
@@ -426,11 +324,6 @@
           "url": "https://www.curzon.com/ticketing/seats/HOX1-20191/"
         },
         {
-          "starts_at": "2025-01-24T15:10:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-96678/"
-        },
-        {
           "starts_at": "2025-01-24T17:50:00+00:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-96680/"
@@ -444,45 +337,9 @@
       "runtime": 139,
       "times": [
         {
-          "starts_at": "2025-01-24T15:20:00+00:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-20192/"
-        },
-        {
-          "starts_at": "2025-01-24T14:20:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-30376/"
-        },
-        {
           "starts_at": "2025-01-24T21:00:00+00:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-30377/"
-        }
-      ]
-    },
-    {
-      "title": "All We Imagine as Light",
-      "trailer": "https://www.youtube.com/watch?v=Yf1jAx6VhZ8",
-      "synopsis": "All We Imagine as Light is a beautiful, sweeping, emotional film that explores the complexities of female friendship and captures the frantic pace, the vibrant colours and the heady atmosphere of modern Mumbai.\n\nIn the city, thoughtful Nurse Prabha’s routine is upset when she receives an unexpected gift from her estranged husband. Her younger, flightier and rebellious roommate, Anu, tries in vain to find a spot in the city to be intimate with her secret boyfriend. Their colleague Parvaty fights to stay in her home without any requisite paperwork left by her late husband. A trip to a beach town allows them each to find a space for their desires to manifest. \n\nPayal Kapadia’s hugely acclaimed fiction debut was the first Indian film to be selected in Official Competition at Cannes in three decades, where it was awarded the Grand Prix.\n",
-      "runtime": 118,
-      "times": [
-        {
-          "starts_at": "2025-01-24T14:30:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-96691/"
-        }
-      ]
-    },
-    {
-      "title": "DocHouse: Soundtrack to a Coup d'État",
-      "trailer": "https://www.youtube.com/watch?v=sHjUJjaG0q0",
-      "synopsis": "Jazz and decolonization are entwined in this historical rollercoaster that rewrites the Cold War episode that led musicians Abbey Lincoln and Max Roach to crash the UN Security Council in protest against the murder of Patrice Lumumba.",
-      "runtime": 150,
-      "times": [
-        {
-          "starts_at": "2025-01-24T15:20:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-96775/"
         }
       ]
     },
