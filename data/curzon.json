@@ -1,82 +1,6 @@
 {
   "2025-01-29": [
     {
-      "title": "The Brutalist",
-      "trailer": "https://www.youtube.com/watch?v=hNiwPU5vjCk",
-      "synopsis": "When visionary architect László Toth and his wife Erzsébet flee post-war Europe in 1947 to rebuild their legacy and witness the birth of modern America, their lives are changed forever by a mysterious and wealthy client.\r\n\r\nThe Brutalist is showing with a 15 minute interval.",
-      "runtime": 215,
-      "times": [
-        {
-          "starts_at": "2025-01-29T19:40:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-54297/"
-        },
-        {
-          "starts_at": "2025-01-29T19:20:00+00:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-48217/"
-        },
-        {
-          "starts_at": "2025-01-29T19:00:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-78659/"
-        },
-        {
-          "starts_at": "2025-01-29T19:00:00+00:00",
-          "site": "Curzon Mayfair",
-          "url": "https://www.curzon.com/ticketing/seats/MAY1-29136/"
-        },
-        {
-          "starts_at": "2025-01-29T19:20:00+00:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-20110/"
-        },
-        {
-          "starts_at": "2025-01-29T18:50:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-30439/"
-        }
-      ]
-    },
-    {
-      "title": "A Complete Unknown",
-      "trailer": "https://www.youtube.com/watch?v=Nsvexi2Ulbs",
-      "synopsis": "Set in the influential New York music scene of the early 60s, A COMPLETE UNKNOWN follows 19-year-old Minnesota musician BOB DYLAN’s (Timothée Chalamet) meteoric rise as a folk singer to concert halls and the top of the charts – his songs and mystique becoming a worldwide sensation – culminating in his groundbreaking electric rock and roll performance at the Newport Folk Festival in 1965.",
-      "runtime": 141,
-      "times": [
-        {
-          "starts_at": "2025-01-29T20:20:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-54296/"
-        },
-        {
-          "starts_at": "2025-01-29T21:00:00+00:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-48372/"
-        },
-        {
-          "starts_at": "2025-01-29T20:30:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-78954/"
-        },
-        {
-          "starts_at": "2025-01-29T20:40:00+00:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-20172/"
-        },
-        {
-          "starts_at": "2025-01-29T20:20:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-30431/"
-        },
-        {
-          "starts_at": "2025-01-29T20:15:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-96728/"
-        }
-      ]
-    },
-    {
       "title": "Nosferatu",
       "trailer": "https://www.youtube.com/watch?v=Px6S0RxfAHg",
       "synopsis": "Robert Eggers’ Nosferatu is a gothic tale of obsession between a haunted young woman and the terrifying vampire infatuated with her, causing untold horror in its wake.",
@@ -86,16 +10,6 @@
           "starts_at": "2025-01-29T21:00:00+00:00",
           "site": "Curzon Aldgate",
           "url": "https://www.curzon.com/ticketing/seats/ALD1-54304/"
-        },
-        {
-          "starts_at": "2025-01-29T20:40:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-30448/"
-        },
-        {
-          "starts_at": "2025-01-29T20:20:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-96725/"
         }
       ]
     },
@@ -121,14 +35,32 @@
           "url": "https://www.curzon.com/ticketing/seats/VIC1-78958/"
         },
         {
-          "starts_at": "2025-01-29T18:40:00+00:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-20168/"
-        },
-        {
           "starts_at": "2025-01-29T21:20:00+00:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-30440/"
+        }
+      ]
+    },
+    {
+      "title": "A Complete Unknown",
+      "trailer": "https://www.youtube.com/watch?v=Nsvexi2Ulbs",
+      "synopsis": "Set in the influential New York music scene of the early 60s, A COMPLETE UNKNOWN follows 19-year-old Minnesota musician BOB DYLAN’s (Timothée Chalamet) meteoric rise as a folk singer to concert halls and the top of the charts – his songs and mystique becoming a worldwide sensation – culminating in his groundbreaking electric rock and roll performance at the Newport Folk Festival in 1965.",
+      "runtime": 141,
+      "times": [
+        {
+          "starts_at": "2025-01-29T21:00:00+00:00",
+          "site": "Curzon Soho",
+          "url": "https://www.curzon.com/ticketing/seats/SOH1-48372/"
+        },
+        {
+          "starts_at": "2025-01-29T20:30:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-78954/"
+        },
+        {
+          "starts_at": "2025-01-29T20:40:00+00:00",
+          "site": "Curzon Hoxton",
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-20172/"
         }
       ]
     },
@@ -160,11 +92,6 @@
           "starts_at": "2025-01-29T21:00:00+00:00",
           "site": "Curzon Victoria",
           "url": "https://www.curzon.com/ticketing/seats/VIC1-78962/"
-        },
-        {
-          "starts_at": "2025-01-29T20:00:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-96737/"
         }
       ]
     },
@@ -196,19 +123,6 @@
           "starts_at": "2025-01-29T21:00:00+00:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-30443/"
-        }
-      ]
-    },
-    {
-      "title": "DocHouse: K-Family Affairs",
-      "trailer": null,
-      "synopsis": "The recent political history of South Korea is interwoven with the family life of filmmaker Arum Nam, whose parents are part of the proud 386 generation, which played a significant role in achieving democratisation.\r\n\r\nEager to pass on a better world to their children, Arum's father became a public servant, and her mother a feminist activist. Democracy was hard-baked into young Arum's world view, but, confronted with the Sewol ferry disaster at the age of 18, she begins question the system crafted by her parents' generation.\r\n\r\nWith the lightest of touches, Arum's playful, personal film explores recent Korean history and the complexities of family dynamics. As an emerging filmmaker, Arum must reevaluate the paths her once-idealistic parents have taken, and consider the responsibilities of her own generation.",
-      "runtime": 86,
-      "times": [
-        {
-          "starts_at": "2025-01-29T20:10:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-96650/"
         }
       ]
     }
