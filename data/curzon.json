@@ -1,78 +1,20 @@
 {
   "2025-01-30": [
     {
-      "title": "Babygirl",
-      "trailer": "https://www.youtube.com/watch?v=dq_bnfZy9-g",
-      "synopsis": "Despite the risk and prejudices, a very successful CEO begins an illicit affair with her much younger intern.",
-      "runtime": 114,
-      "times": [
-        {
-          "starts_at": "2025-01-30T15:40:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-54311/"
-        },
-        {
-          "starts_at": "2025-01-30T21:20:00+00:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-48382/"
-        },
-        {
-          "starts_at": "2025-01-30T17:45:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-78974/"
-        },
-        {
-          "starts_at": "2025-01-30T21:15:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-78975/"
-        },
-        {
-          "starts_at": "2025-01-30T18:20:00+00:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-20182/"
-        },
-        {
-          "starts_at": "2025-01-30T18:00:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-30464/"
-        },
-        {
-          "starts_at": "2025-01-30T21:20:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-30458/"
-        }
-      ]
-    },
-    {
       "title": "The Brutalist",
       "trailer": "https://www.youtube.com/watch?v=hNiwPU5vjCk",
       "synopsis": "When visionary architect László Toth and his wife Erzsébet flee post-war Europe in 1947 to rebuild their legacy and witness the birth of modern America, their lives are changed forever by a mysterious and wealthy client.\r\n\r\nThe Brutalist is showing with a 15 minute interval.",
       "runtime": 215,
       "times": [
         {
-          "starts_at": "2025-01-30T17:00:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-54140/"
-        },
-        {
           "starts_at": "2025-01-30T19:20:00+00:00",
           "site": "Curzon Aldgate",
           "url": "https://www.curzon.com/ticketing/seats/ALD1-54142/"
         },
         {
-          "starts_at": "2025-01-30T16:30:00+00:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-48380/"
-        },
-        {
           "starts_at": "2025-01-30T19:30:00+00:00",
           "site": "Curzon Soho",
           "url": "https://www.curzon.com/ticketing/seats/SOH1-48381/"
-        },
-        {
-          "starts_at": "2025-01-30T18:20:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-78660/"
         },
         {
           "starts_at": "2025-01-30T19:00:00+00:00",
@@ -83,11 +25,6 @@
           "starts_at": "2025-01-30T19:20:00+00:00",
           "site": "Curzon Hoxton",
           "url": "https://www.curzon.com/ticketing/seats/HOX1-20175/"
-        },
-        {
-          "starts_at": "2025-01-30T17:00:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-30178/"
         },
         {
           "starts_at": "2025-01-30T18:50:00+00:00",
@@ -108,29 +45,14 @@
       "runtime": 141,
       "times": [
         {
-          "starts_at": "2025-01-30T17:40:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-54148/"
-        },
-        {
           "starts_at": "2025-01-30T20:45:00+00:00",
           "site": "Curzon Aldgate",
           "url": "https://www.curzon.com/ticketing/seats/ALD1-54144/"
         },
         {
-          "starts_at": "2025-01-30T16:00:00+00:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-48384/"
-        },
-        {
           "starts_at": "2025-01-30T21:00:00+00:00",
           "site": "Curzon Soho",
           "url": "https://www.curzon.com/ticketing/seats/SOH1-48383/"
-        },
-        {
-          "starts_at": "2025-01-30T18:00:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-78972/"
         },
         {
           "starts_at": "2025-01-30T20:45:00+00:00",
@@ -143,19 +65,9 @@
           "url": "https://www.curzon.com/ticketing/seats/MAY1-29132/"
         },
         {
-          "starts_at": "2025-01-30T17:30:00+00:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-20179/"
-        },
-        {
           "starts_at": "2025-01-30T20:40:00+00:00",
           "site": "Curzon Hoxton",
           "url": "https://www.curzon.com/ticketing/seats/HOX1-20178/"
-        },
-        {
-          "starts_at": "2025-01-30T17:20:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-30463/"
         },
         {
           "starts_at": "2025-01-30T20:20:00+00:00",
@@ -163,37 +75,9 @@
           "url": "https://www.curzon.com/ticketing/seats/CAM1-30449/"
         },
         {
-          "starts_at": "2025-01-30T18:00:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-96710/"
-        },
-        {
           "starts_at": "2025-01-30T20:40:00+00:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-96713/"
-        }
-      ]
-    },
-    {
-      "title": "Luther: Never Too Much",
-      "trailer": "https://www.youtube.com/watch?v=HAQupfsbXfg",
-      "synopsis": "From award-winning filmmaker Dawn Porter, LUTHER: NEVER TOO MUCH the documentary film, chronicles the story of a vocal virtuoso.  \n\nUsing a wealth of rarely seen archives, Luther tells his own story with assistance from his closest friends and musical collaborators including Mariah Carey, Dionne Warwick, Valerie Simpson and Roberta Flack. \n\nThe film relives the many stunning moments of Vandross’ Grammy® award-winning musical career, while exploring his personal life, health struggles, and a lifelong battle to earn the respect his music deserved. \n\nDirected and executive produced by Dawn Porter, Luther: Never Too Much is produced by Trish D Chetty and Ged Doherty for Raindog Films; Jamie Foxx and Datari Turner for Foxxhole Productions; and Leah Smith for Trilogy Films. Executive producers are Eli Holzman and Aaron Saidman for Sony Pictures Television Nonfiction; Tom Mackay and Richard Story for Sony Music Entertainment; Jon Platt and Brian Monaco for Sony Music Publishing; Colin Firth for Raindog Films; and Phil Thornton on behalf of Foxxhole Productions. Sony Music Vision is the distributor.",
-      "runtime": 101,
-      "times": [
-        {
-          "starts_at": "2025-01-30T18:20:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-54223/"
-        },
-        {
-          "starts_at": "2025-01-30T18:20:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-78867/"
-        },
-        {
-          "starts_at": "2025-01-30T18:20:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-30466/"
         }
       ]
     },
@@ -209,19 +93,9 @@
           "url": "https://www.curzon.com/ticketing/seats/ALD1-54306/"
         },
         {
-          "starts_at": "2025-01-30T17:30:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-78982/"
-        },
-        {
           "starts_at": "2025-01-30T21:00:00+00:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-30462/"
-        },
-        {
-          "starts_at": "2025-01-30T17:00:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-96714/"
         }
       ]
     },
@@ -239,6 +113,29 @@
       ]
     },
     {
+      "title": "Babygirl",
+      "trailer": "https://www.youtube.com/watch?v=dq_bnfZy9-g",
+      "synopsis": "Despite the risk and prejudices, a very successful CEO begins an illicit affair with her much younger intern.",
+      "runtime": 114,
+      "times": [
+        {
+          "starts_at": "2025-01-30T21:20:00+00:00",
+          "site": "Curzon Soho",
+          "url": "https://www.curzon.com/ticketing/seats/SOH1-48382/"
+        },
+        {
+          "starts_at": "2025-01-30T21:15:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-78975/"
+        },
+        {
+          "starts_at": "2025-01-30T21:20:00+00:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-30458/"
+        }
+      ]
+    },
+    {
       "title": "Maria",
       "trailer": "https://www.youtube.com/watch?v=mVIXaTdxlQc",
       "synopsis": "The new film from the director of Jackie and Spencer, MARIA tells the glamorous, moving story of the iconic opera singer, Maria Callas. Paris, 1977: Once the world’s greatest soprano, Callas now hides in an apartment, having lost her voice and retreated from the world. She dreams of returning to the stage, but can her body and mind take the pressure?\nFeaturing some of Callas’s greatest recordings and starring Angelina Jolie in an Oscarworthy performance, MARIA is a sumptuous drama that hits all the high notes.",
@@ -248,16 +145,6 @@
           "starts_at": "2025-01-30T20:30:00+00:00",
           "site": "Curzon Victoria",
           "url": "https://www.curzon.com/ticketing/seats/VIC1-78983/"
-        },
-        {
-          "starts_at": "2025-01-30T17:40:00+00:00",
-          "site": "Curzon Mayfair",
-          "url": "https://www.curzon.com/ticketing/seats/MAY1-29133/"
-        },
-        {
-          "starts_at": "2025-01-30T17:50:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-96718/"
         }
       ]
     },
@@ -293,29 +180,6 @@
       ]
     },
     {
-      "title": "A Real Pain",
-      "trailer": "https://www.youtube.com/watch?v=lGeZQWMMDgM",
-      "synopsis": "Mismatched cousins David and Benji reunite for a tour through Poland to honor their beloved grandmother. The adventure takes a turn when the odd-couple's old tensions resurface against the backdrop of their family history.",
-      "runtime": 90,
-      "times": [
-        {
-          "starts_at": "2025-01-30T16:40:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-30456/"
-        },
-        {
-          "starts_at": "2025-01-30T15:50:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-96715/"
-        },
-        {
-          "starts_at": "2025-01-30T21:00:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-96712/"
-        }
-      ]
-    },
-    {
       "title": "Nosferatu",
       "trailer": "https://www.youtube.com/watch?v=Px6S0RxfAHg",
       "synopsis": "Robert Eggers’ Nosferatu is a gothic tale of obsession between a haunted young woman and the terrifying vampire infatuated with her, causing untold horror in its wake.",
@@ -334,32 +198,6 @@
       ]
     },
     {
-      "title": "DocHouse: Plastic People",
-      "trailer": null,
-      "synopsis": "Almost every bit of plastic ever made breaks down into 'microplastics.' These microscopic particles drift in the air, float in all bodies of water, and mix into the soil, becoming a permanent part of the environment.\r\n\r\nNow, scientists are finding these particles in our bodies. What is the impact of these invisible invaders on our health? And can anything be done about it?\r\n\r\nAcclaimed author and science journalist Ziya Tong takes a personal approach by visiting leading scientists around the world and undergoing experiments in her home, on her food, and her body. This is an eye-opening wake-up call for all of us to rethink our relationship with plastic.",
-      "runtime": 84,
-      "times": [
-        {
-          "starts_at": "2025-01-30T16:00:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-96651/"
-        }
-      ]
-    },
-    {
-      "title": "DocHouse: K-Family Affairs",
-      "trailer": null,
-      "synopsis": "The recent political history of South Korea is interwoven with the family life of filmmaker Arum Nam, whose parents are part of the proud 386 generation, which played a significant role in achieving democratisation.\r\n\r\nEager to pass on a better world to their children, Arum's father became a public servant, and her mother a feminist activist. Democracy was hard-baked into young Arum's world view, but, confronted with the Sewol ferry disaster at the age of 18, she begins question the system crafted by her parents' generation.\r\n\r\nWith the lightest of touches, Arum's playful, personal film explores recent Korean history and the complexities of family dynamics. As an emerging filmmaker, Arum must reevaluate the paths her once-idealistic parents have taken, and consider the responsibilities of her own generation.",
-      "runtime": 86,
-      "times": [
-        {
-          "starts_at": "2025-01-30T18:20:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-96022/"
-        }
-      ]
-    },
-    {
       "title": "DocHouse: Architecton",
       "trailer": null,
       "synopsis": "The latest film from master documentarian Victor Kossakovsky (GUNDA, AQUARELA), is an epic, intimate and poetic meditation on architecture and how the design and construction of buildings from the ancient past reveal our destruction - and offer hope for survival and a way forward.\r\n\r\nThrough Kossakovsky’s lens, the grandeur and folly of humanity and its precarious relationship with nature posits two urgent questions: how do we build, and how can we build better, before it’s too late?\r\n",
@@ -369,6 +207,19 @@
           "starts_at": "2025-01-30T20:10:00+00:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-96788/"
+        }
+      ]
+    },
+    {
+      "title": "A Real Pain",
+      "trailer": "https://www.youtube.com/watch?v=lGeZQWMMDgM",
+      "synopsis": "Mismatched cousins David and Benji reunite for a tour through Poland to honor their beloved grandmother. The adventure takes a turn when the odd-couple's old tensions resurface against the backdrop of their family history.",
+      "runtime": 90,
+      "times": [
+        {
+          "starts_at": "2025-01-30T21:00:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-96712/"
         }
       ]
     }
@@ -1666,19 +1517,6 @@
           "starts_at": "2025-02-01T14:00:00+00:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-96954/"
-        }
-      ]
-    },
-    {
-      "title": "DocHouse: Soundtrack to a Coup d'État",
-      "trailer": "https://www.youtube.com/watch?v=sHjUJjaG0q0",
-      "synopsis": "Jazz and decolonization are entwined in this historical rollercoaster that rewrites the Cold War episode that led musicians Abbey Lincoln and Max Roach to crash the UN Security Council in protest against the murder of Patrice Lumumba.",
-      "runtime": 150,
-      "times": [
-        {
-          "starts_at": "2025-02-01T15:00:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-96808/"
         }
       ]
     },
