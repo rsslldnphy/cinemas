@@ -1,58 +1,28 @@
 {
   "2025-01-31": [
     {
-      "title": "Companion",
-      "trailer": "https://www.youtube.com/watch?v=NQKaNxDu31I",
-      "synopsis": "Hey you. Tired of swiping? Sick of getting ghosted? Are you feeling like a part of you is missing? FindYourCompanion.com is guaranteed to find you a Companion who’s made for you.",
-      "runtime": 97,
+      "title": "Nosferatu",
+      "trailer": "https://www.youtube.com/watch?v=Px6S0RxfAHg",
+      "synopsis": "Robert Eggers’ Nosferatu is a gothic tale of obsession between a haunted young woman and the terrifying vampire infatuated with her, causing untold horror in its wake.",
+      "runtime": 132,
       "times": [
         {
-          "starts_at": "2025-01-31T18:30:00+00:00",
+          "starts_at": "2025-01-31T21:00:00+00:00",
           "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-54386/"
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-54381/"
         }
       ]
     },
     {
-      "title": "The Brutalist",
-      "trailer": "https://www.youtube.com/watch?v=hNiwPU5vjCk",
-      "synopsis": "When visionary architect László Toth and his wife Erzsébet flee post-war Europe in 1947 to rebuild their legacy and witness the birth of modern America, their lives are changed forever by a mysterious and wealthy client.\r\n\r\nThe Brutalist is showing with a 15 minute interval.",
-      "runtime": 215,
+      "title": "Presence",
+      "trailer": "https://www.youtube.com/watch?v=7fOJyQtJSFU",
+      "synopsis": "A family moves into a suburban house and becomes convinced they’re not alone.",
+      "runtime": 85,
       "times": [
         {
-          "starts_at": "2025-01-31T19:20:00+00:00",
+          "starts_at": "2025-01-31T21:30:00+00:00",
           "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-54383/"
-        },
-        {
-          "starts_at": "2025-01-31T19:30:00+00:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-48402/"
-        },
-        {
-          "starts_at": "2025-01-31T19:30:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-79119/"
-        },
-        {
-          "starts_at": "2025-01-31T18:40:00+00:00",
-          "site": "Curzon Mayfair",
-          "url": "https://www.curzon.com/ticketing/seats/MAY1-29159/"
-        },
-        {
-          "starts_at": "2025-01-31T19:30:00+00:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-20221/"
-        },
-        {
-          "starts_at": "2025-01-31T19:40:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-30498/"
-        },
-        {
-          "starts_at": "2025-01-31T19:20:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-96824/"
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-54380/"
         }
       ]
     },
@@ -62,11 +32,6 @@
       "synopsis": "Set in the influential New York music scene of the early 60s, A COMPLETE UNKNOWN follows 19-year-old Minnesota musician BOB DYLAN’s (Timothée Chalamet) meteoric rise as a folk singer to concert halls and the top of the charts – his songs and mystique becoming a worldwide sensation – culminating in his groundbreaking electric rock and roll performance at the Newport Folk Festival in 1965.",
       "runtime": 141,
       "times": [
-        {
-          "starts_at": "2025-01-31T20:20:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-54382/"
-        },
         {
           "starts_at": "2025-01-31T21:00:00+00:00",
           "site": "Curzon Soho",
@@ -91,32 +56,6 @@
           "starts_at": "2025-01-31T20:50:00+00:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-96827/"
-        }
-      ]
-    },
-    {
-      "title": "Nosferatu",
-      "trailer": "https://www.youtube.com/watch?v=Px6S0RxfAHg",
-      "synopsis": "Robert Eggers’ Nosferatu is a gothic tale of obsession between a haunted young woman and the terrifying vampire infatuated with her, causing untold horror in its wake.",
-      "runtime": 132,
-      "times": [
-        {
-          "starts_at": "2025-01-31T21:00:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-54381/"
-        }
-      ]
-    },
-    {
-      "title": "Presence",
-      "trailer": "https://www.youtube.com/watch?v=7fOJyQtJSFU",
-      "synopsis": "A family moves into a suburban house and becomes convinced they’re not alone.",
-      "runtime": 85,
-      "times": [
-        {
-          "starts_at": "2025-01-31T21:30:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-54380/"
         }
       ]
     },
@@ -148,11 +87,6 @@
           "starts_at": "2025-01-31T20:45:00+00:00",
           "site": "Curzon Victoria",
           "url": "https://www.curzon.com/ticketing/seats/VIC1-79112/"
-        },
-        {
-          "starts_at": "2025-01-31T20:40:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-96832/"
         }
       ]
     },
