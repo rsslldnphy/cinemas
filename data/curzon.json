@@ -1,100 +1,6 @@
 {
   "2025-02-03": [
     {
-      "title": "Companion",
-      "trailer": "https://www.youtube.com/watch?v=NQKaNxDu31I",
-      "synopsis": "Hey you. Tired of swiping? Sick of getting ghosted? Are you feeling like a part of you is missing? FindYourCompanion.com is guaranteed to find you a Companion who’s made for you.",
-      "runtime": 97,
-      "times": [
-        {
-          "starts_at": "2025-02-03T18:30:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-54433/"
-        }
-      ]
-    },
-    {
-      "title": "The Brutalist",
-      "trailer": "https://www.youtube.com/watch?v=hNiwPU5vjCk",
-      "synopsis": "When visionary architect László Toth and his wife Erzsébet flee post-war Europe in 1947 to rebuild their legacy and witness the birth of modern America, their lives are changed forever by a mysterious and wealthy client.\r\n\r\nThe Brutalist is showing with a 15 minute interval.",
-      "runtime": 215,
-      "times": [
-        {
-          "starts_at": "2025-02-03T19:20:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-54432/"
-        },
-        {
-          "starts_at": "2025-02-03T19:40:00+00:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-48458/"
-        },
-        {
-          "starts_at": "2025-02-03T19:30:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-79011/"
-        },
-        {
-          "starts_at": "2025-02-03T19:00:00+00:00",
-          "site": "Curzon Mayfair",
-          "url": "https://www.curzon.com/ticketing/seats/MAY1-29149/"
-        },
-        {
-          "starts_at": "2025-02-03T19:30:00+00:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-20260/"
-        },
-        {
-          "starts_at": "2025-02-03T19:40:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-30567/"
-        },
-        {
-          "starts_at": "2025-02-03T19:20:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-96873/"
-        }
-      ]
-    },
-    {
-      "title": "A Complete Unknown",
-      "trailer": "https://www.youtube.com/watch?v=Nsvexi2Ulbs",
-      "synopsis": "Set in the influential New York music scene of the early 60s, A COMPLETE UNKNOWN follows 19-year-old Minnesota musician BOB DYLAN’s (Timothée Chalamet) meteoric rise as a folk singer to concert halls and the top of the charts – his songs and mystique becoming a worldwide sensation – culminating in his groundbreaking electric rock and roll performance at the Newport Folk Festival in 1965.",
-      "runtime": 141,
-      "times": [
-        {
-          "starts_at": "2025-02-03T20:20:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-54431/"
-        },
-        {
-          "starts_at": "2025-02-03T20:30:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-79014/"
-        },
-        {
-          "starts_at": "2025-02-03T20:30:00+00:00",
-          "site": "Curzon Mayfair",
-          "url": "https://www.curzon.com/ticketing/seats/MAY1-29148/"
-        },
-        {
-          "starts_at": "2025-02-03T20:50:00+00:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-20265/"
-        },
-        {
-          "starts_at": "2025-02-03T20:30:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-30559/"
-        },
-        {
-          "starts_at": "2025-02-03T20:40:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-96870/"
-        }
-      ]
-    },
-    {
       "title": "Nosferatu",
       "trailer": "https://www.youtube.com/watch?v=Px6S0RxfAHg",
       "synopsis": "Robert Eggers’ Nosferatu is a gothic tale of obsession between a haunted young woman and the terrifying vampire infatuated with her, causing untold horror in its wake.",
@@ -139,15 +45,35 @@
       ]
     },
     {
-      "title": "Maria",
-      "trailer": "https://www.youtube.com/watch?v=mVIXaTdxlQc",
-      "synopsis": "The new film from the director of Jackie and Spencer, MARIA tells the glamorous, moving story of the iconic opera singer, Maria Callas. Paris, 1977: Once the world’s greatest soprano, Callas now hides in an apartment, having lost her voice and retreated from the world. She dreams of returning to the stage, but can her body and mind take the pressure?\nFeaturing some of Callas’s greatest recordings and starring Angelina Jolie in an Oscarworthy performance, MARIA is a sumptuous drama that hits all the high notes.",
-      "runtime": 123,
+      "title": "A Complete Unknown",
+      "trailer": "https://www.youtube.com/watch?v=Nsvexi2Ulbs",
+      "synopsis": "Set in the influential New York music scene of the early 60s, A COMPLETE UNKNOWN follows 19-year-old Minnesota musician BOB DYLAN’s (Timothée Chalamet) meteoric rise as a folk singer to concert halls and the top of the charts – his songs and mystique becoming a worldwide sensation – culminating in his groundbreaking electric rock and roll performance at the Newport Folk Festival in 1965.",
+      "runtime": 141,
       "times": [
         {
-          "starts_at": "2025-02-03T20:15:00+00:00",
+          "starts_at": "2025-02-03T20:30:00+00:00",
           "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-79023/"
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-79014/"
+        },
+        {
+          "starts_at": "2025-02-03T20:30:00+00:00",
+          "site": "Curzon Mayfair",
+          "url": "https://www.curzon.com/ticketing/seats/MAY1-29148/"
+        },
+        {
+          "starts_at": "2025-02-03T20:50:00+00:00",
+          "site": "Curzon Hoxton",
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-20265/"
+        },
+        {
+          "starts_at": "2025-02-03T20:30:00+00:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-30559/"
+        },
+        {
+          "starts_at": "2025-02-03T20:40:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-96870/"
         }
       ]
     },
@@ -201,37 +127,6 @@
       ]
     },
     {
-      "title": "A Real Pain",
-      "trailer": "https://www.youtube.com/watch?v=lGeZQWMMDgM",
-      "synopsis": "Mismatched cousins David and Benji reunite for a tour through Poland to honor their beloved grandmother. The adventure takes a turn when the odd-couple's old tensions resurface against the backdrop of their family history.",
-      "runtime": 90,
-      "times": [
-        {
-          "starts_at": "2025-02-03T19:20:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-96866/"
-        },
-        {
-          "starts_at": "2025-02-03T21:30:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-96878/"
-        }
-      ]
-    },
-    {
-      "title": "DocHouse: The Flats",
-      "trailer": null,
-      "synopsis": "The New Lodge flats are located in a predominantly working class, Catholic district of Northern Ireland’s capital. The area remains marked by its tragically high death toll during the Troubles, the country’s 30-year conflict that took place between the 1960s and late 1990s. Director Alessandra Celesia unearths the emotional wounds left on the families remaining on the estate – the legacy of political violence. As protagonist Joe grapples with personal tragedy, including the murder of his teenage uncle, his story intertwines with those of his neighbours: Angie, haunted by a violent past, and Jolene, who finds solace in music. Through moving reconstructions, testimonies and archival footage, Celesia’s profound and deeply human film reveals the ways unresolved trauma endures and changes across generations.",
-      "runtime": 114,
-      "times": [
-        {
-          "starts_at": "2025-02-03T20:00:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-96972/"
-        }
-      ]
-    },
-    {
       "title": "Emilia Pérez",
       "trailer": null,
       "synopsis": "From renegade auteur Jacques Audiard comes Emilia Pérez, an audacious fever dream that defies genres and expectations. Through liberating song and dance and bold visuals, this odyssey follows the journey of four remarkable women in Mexico, each pursuing their own happiness. The fearsome cartel leader Emilia (Karla Sofía Gascón) enlists Rita (Zoe Saldaña), an unappreciated lawyer stuck in a dead-end job, to help fake her death so that Emilia can finally live authentically as her true self. ",
@@ -241,6 +136,19 @@
           "starts_at": "2025-02-03T20:50:00+00:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-96882/"
+        }
+      ]
+    },
+    {
+      "title": "A Real Pain",
+      "trailer": "https://www.youtube.com/watch?v=lGeZQWMMDgM",
+      "synopsis": "Mismatched cousins David and Benji reunite for a tour through Poland to honor their beloved grandmother. The adventure takes a turn when the odd-couple's old tensions resurface against the backdrop of their family history.",
+      "runtime": 90,
+      "times": [
+        {
+          "starts_at": "2025-02-03T21:30:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-96878/"
         }
       ]
     }
@@ -2258,6 +2166,11 @@
           "url": "https://www.curzon.com/ticketing/seats/ALD1-54505/"
         },
         {
+          "starts_at": "2025-02-07T13:30:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-79345/"
+        },
+        {
           "starts_at": "2025-02-07T14:30:00+00:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-30857/"
@@ -2266,6 +2179,16 @@
           "starts_at": "2025-02-07T21:20:00+00:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-30847/"
+        },
+        {
+          "starts_at": "2025-02-07T12:10:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-97006/"
+        },
+        {
+          "starts_at": "2025-02-07T18:00:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-97004/"
         }
       ]
     },
@@ -2309,6 +2232,11 @@
           "url": "https://www.curzon.com/ticketing/seats/ALD1-54501/"
         },
         {
+          "starts_at": "2025-02-07T11:00:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-79286/"
+        },
+        {
           "starts_at": "2025-02-07T12:00:00+00:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-30856/"
@@ -2317,6 +2245,16 @@
           "starts_at": "2025-02-07T17:40:00+00:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-30846/"
+        },
+        {
+          "starts_at": "2025-02-07T11:50:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-96804/"
+        },
+        {
+          "starts_at": "2025-02-07T17:40:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-96803/"
         }
       ]
     },
@@ -2370,6 +2308,16 @@
           "url": "https://www.curzon.com/ticketing/seats/SOH1-48509/"
         },
         {
+          "starts_at": "2025-02-07T14:00:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-79216/"
+        },
+        {
+          "starts_at": "2025-02-07T19:30:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-79215/"
+        },
+        {
           "starts_at": "2025-02-07T12:40:00+00:00",
           "site": "Curzon Mayfair",
           "url": "https://www.curzon.com/ticketing/seats/MAY1-29202/"
@@ -2380,6 +2328,21 @@
           "url": "https://www.curzon.com/ticketing/seats/MAY1-29203/"
         },
         {
+          "starts_at": "2025-02-07T11:00:00+00:00",
+          "site": "Curzon Hoxton",
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-20321/"
+        },
+        {
+          "starts_at": "2025-02-07T13:40:00+00:00",
+          "site": "Curzon Hoxton",
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-20316/"
+        },
+        {
+          "starts_at": "2025-02-07T19:30:00+00:00",
+          "site": "Curzon Hoxton",
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-20198/"
+        },
+        {
           "starts_at": "2025-02-07T11:30:00+00:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-30858/"
@@ -2388,6 +2351,16 @@
           "starts_at": "2025-02-07T16:40:00+00:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-30859/"
+        },
+        {
+          "starts_at": "2025-02-07T13:45:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-97005/"
+        },
+        {
+          "starts_at": "2025-02-07T19:30:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-97003/"
         }
       ]
     },
@@ -2408,6 +2381,11 @@
           "url": "https://www.curzon.com/ticketing/seats/ALD1-54346/"
         },
         {
+          "starts_at": "2025-02-07T12:15:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-79219/"
+        },
+        {
           "starts_at": "2025-02-07T17:30:00+00:00",
           "site": "Curzon Victoria",
           "url": "https://www.curzon.com/ticketing/seats/VIC1-78996/"
@@ -2421,6 +2399,11 @@
           "starts_at": "2025-02-07T18:20:00+00:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-30492/"
+        },
+        {
+          "starts_at": "2025-02-07T15:00:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-96805/"
         },
         {
           "starts_at": "2025-02-07T21:00:00+00:00",
@@ -2451,9 +2434,34 @@
           "url": "https://www.curzon.com/ticketing/seats/SOH1-48510/"
         },
         {
+          "starts_at": "2025-02-07T14:30:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-79227/"
+        },
+        {
+          "starts_at": "2025-02-07T17:45:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-79225/"
+        },
+        {
+          "starts_at": "2025-02-07T20:45:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-79224/"
+        },
+        {
           "starts_at": "2025-02-07T20:30:00+00:00",
           "site": "Curzon Mayfair",
           "url": "https://www.curzon.com/ticketing/seats/MAY1-29204/"
+        },
+        {
+          "starts_at": "2025-02-07T14:00:00+00:00",
+          "site": "Curzon Hoxton",
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-20317/"
+        },
+        {
+          "starts_at": "2025-02-07T17:40:00+00:00",
+          "site": "Curzon Hoxton",
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-20207/"
         },
         {
           "starts_at": "2025-02-07T11:00:00+00:00",
@@ -2474,6 +2482,16 @@
           "starts_at": "2025-02-07T20:20:00+00:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-30855/"
+        },
+        {
+          "starts_at": "2025-02-07T14:15:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-97010/"
+        },
+        {
+          "starts_at": "2025-02-07T20:20:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-97007/"
         }
       ]
     },
@@ -2512,6 +2530,16 @@
           "url": "https://www.curzon.com/ticketing/seats/SOH1-48478/"
         },
         {
+          "starts_at": "2025-02-07T11:30:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-79229/"
+        },
+        {
+          "starts_at": "2025-02-07T21:15:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-78997/"
+        },
+        {
           "starts_at": "2025-02-07T14:50:00+00:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-30841/"
@@ -2538,6 +2566,26 @@
           "starts_at": "2025-02-07T18:15:00+00:00",
           "site": "Curzon Soho",
           "url": "https://www.curzon.com/ticketing/seats/SOH1-48511/"
+        },
+        {
+          "starts_at": "2025-02-07T11:40:00+00:00",
+          "site": "Curzon Hoxton",
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-20318/"
+        },
+        {
+          "starts_at": "2025-02-07T17:10:00+00:00",
+          "site": "Curzon Hoxton",
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-20205/"
+        },
+        {
+          "starts_at": "2025-02-07T11:30:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-97009/"
+        },
+        {
+          "starts_at": "2025-02-07T17:15:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-97008/"
         }
       ]
     },
@@ -2563,9 +2611,19 @@
           "url": "https://www.curzon.com/ticketing/seats/HOX1-20197/"
         },
         {
+          "starts_at": "2025-02-07T11:40:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-97014/"
+        },
+        {
           "starts_at": "2025-02-07T14:20:00+00:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-96795/"
+        },
+        {
+          "starts_at": "2025-02-07T17:30:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-97012/"
         },
         {
           "starts_at": "2025-02-07T20:10:00+00:00",
@@ -2581,6 +2639,21 @@
       "runtime": 95,
       "times": [
         {
+          "starts_at": "2025-02-07T11:15:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-79342/"
+        },
+        {
+          "starts_at": "2025-02-07T15:45:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-79001/"
+        },
+        {
+          "starts_at": "2025-02-07T17:15:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-78999/"
+        },
+        {
           "starts_at": "2025-02-07T12:20:00+00:00",
           "site": "Curzon Mayfair",
           "url": "https://www.curzon.com/ticketing/seats/MAY1-29205/"
@@ -2589,6 +2662,16 @@
           "starts_at": "2025-02-07T17:00:00+00:00",
           "site": "Curzon Mayfair",
           "url": "https://www.curzon.com/ticketing/seats/MAY1-29200/"
+        },
+        {
+          "starts_at": "2025-02-07T11:20:00+00:00",
+          "site": "Curzon Hoxton",
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-20200/"
+        },
+        {
+          "starts_at": "2025-02-07T15:20:00+00:00",
+          "site": "Curzon Hoxton",
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-20320/"
         },
         {
           "starts_at": "2025-02-07T18:00:00+00:00",
@@ -2618,11 +2701,72 @@
       ]
     },
     {
+      "title": "Conclave",
+      "trailer": "https://www.youtube.com/watch?v=Znr38bHNXp4",
+      "synopsis": "CONCLAVE follows one of the world’s most secretive and ancient events – selecting the new Pope. Cardinal Lawrence (Ralph Fiennes) is tasked with running this covert process after the unexpected death of the beloved Pope. Once the Catholic Church’s most powerful leaders have gathered from around the world and are locked together in the Vatican halls, Lawrence uncovers a trail of deep secrets left in the dead Pope’s wake, secrets which could shake the foundations of the Church.",
+      "runtime": 120,
+      "times": [
+        {
+          "starts_at": "2025-02-07T11:45:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-79223/"
+        },
+        {
+          "starts_at": "2025-02-07T14:15:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-79222/"
+        },
+        {
+          "starts_at": "2025-02-07T18:00:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-79221/"
+        },
+        {
+          "starts_at": "2025-02-07T21:00:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-79220/"
+        },
+        {
+          "starts_at": "2025-02-07T20:30:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-97011/"
+        }
+      ]
+    },
+    {
+      "title": "Babygirl",
+      "trailer": "https://www.youtube.com/watch?v=dq_bnfZy9-g",
+      "synopsis": "Despite the risk and prejudices, a very successful CEO begins an illicit affair with her much younger intern.",
+      "runtime": 114,
+      "times": [
+        {
+          "starts_at": "2025-02-07T14:45:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-79218/"
+        },
+        {
+          "starts_at": "2025-02-07T20:30:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-79217/"
+        },
+        {
+          "starts_at": "2025-02-07T20:45:00+00:00",
+          "site": "Curzon Hoxton",
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-20319/"
+        }
+      ]
+    },
+    {
       "title": "Maria",
       "trailer": "https://www.youtube.com/watch?v=mVIXaTdxlQc",
       "synopsis": "The new film from the director of Jackie and Spencer, MARIA tells the glamorous, moving story of the iconic opera singer, Maria Callas. Paris, 1977: Once the world’s greatest soprano, Callas now hides in an apartment, having lost her voice and retreated from the world. She dreams of returning to the stage, but can her body and mind take the pressure?\nFeaturing some of Callas’s greatest recordings and starring Angelina Jolie in an Oscarworthy performance, MARIA is a sumptuous drama that hits all the high notes.",
       "runtime": 123,
       "times": [
+        {
+          "starts_at": "2025-02-07T18:15:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-79230/"
+        },
         {
           "starts_at": "2025-02-07T14:45:00+00:00",
           "site": "Curzon Mayfair",
@@ -2632,6 +2776,11 @@
           "starts_at": "2025-02-07T17:40:00+00:00",
           "site": "Curzon Mayfair",
           "url": "https://www.curzon.com/ticketing/seats/MAY1-29201/"
+        },
+        {
+          "starts_at": "2025-02-07T14:50:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-97013/"
         }
       ]
     },
@@ -2726,6 +2875,11 @@
           "url": "https://www.curzon.com/ticketing/seats/ALD1-54347/"
         },
         {
+          "starts_at": "2025-02-08T12:15:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-79231/"
+        },
+        {
           "starts_at": "2025-02-08T17:30:00+00:00",
           "site": "Curzon Victoria",
           "url": "https://www.curzon.com/ticketing/seats/VIC1-79002/"
@@ -2739,6 +2893,16 @@
           "starts_at": "2025-02-08T18:20:00+00:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-30865/"
+        },
+        {
+          "starts_at": "2025-02-08T11:50:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-97097/"
+        },
+        {
+          "starts_at": "2025-02-08T21:00:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-97095/"
         }
       ]
     },
@@ -2754,6 +2918,11 @@
           "url": "https://www.curzon.com/ticketing/seats/ALD1-54515/"
         },
         {
+          "starts_at": "2025-02-08T13:30:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-79346/"
+        },
+        {
           "starts_at": "2025-02-08T10:15:00+00:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-30914/"
@@ -2767,6 +2936,16 @@
           "starts_at": "2025-02-08T21:20:00+00:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-30878/"
+        },
+        {
+          "starts_at": "2025-02-08T11:30:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-97104/"
+        },
+        {
+          "starts_at": "2025-02-08T18:20:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-97106/"
         }
       ]
     },
@@ -2787,6 +2966,11 @@
           "url": "https://www.curzon.com/ticketing/seats/ALD1-54519/"
         },
         {
+          "starts_at": "2025-02-08T18:15:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-79288/"
+        },
+        {
           "starts_at": "2025-02-08T10:45:00+00:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-30879/"
@@ -2795,6 +2979,16 @@
           "starts_at": "2025-02-08T17:40:00+00:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-30864/"
+        },
+        {
+          "starts_at": "2025-02-08T12:00:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-97094/"
+        },
+        {
+          "starts_at": "2025-02-08T17:40:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-97096/"
         }
       ]
     },
@@ -2848,6 +3042,16 @@
           "url": "https://www.curzon.com/ticketing/seats/SOH1-48520/"
         },
         {
+          "starts_at": "2025-02-08T14:00:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-79234/"
+        },
+        {
+          "starts_at": "2025-02-08T19:30:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-79237/"
+        },
+        {
           "starts_at": "2025-02-08T12:40:00+00:00",
           "site": "Curzon Mayfair",
           "url": "https://www.curzon.com/ticketing/seats/MAY1-29211/"
@@ -2858,9 +3062,34 @@
           "url": "https://www.curzon.com/ticketing/seats/MAY1-29210/"
         },
         {
+          "starts_at": "2025-02-08T11:20:00+00:00",
+          "site": "Curzon Hoxton",
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-20362/"
+        },
+        {
+          "starts_at": "2025-02-08T13:20:00+00:00",
+          "site": "Curzon Hoxton",
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-20360/"
+        },
+        {
+          "starts_at": "2025-02-08T19:45:00+00:00",
+          "site": "Curzon Hoxton",
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-20364/"
+        },
+        {
           "starts_at": "2025-02-08T11:15:00+00:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-30876/"
+        },
+        {
+          "starts_at": "2025-02-08T13:45:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-97105/"
+        },
+        {
+          "starts_at": "2025-02-08T19:30:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-97107/"
         }
       ]
     },
@@ -2909,9 +3138,34 @@
           "url": "https://www.curzon.com/ticketing/seats/SOH1-48523/"
         },
         {
+          "starts_at": "2025-02-08T14:30:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-79242/"
+        },
+        {
+          "starts_at": "2025-02-08T17:45:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-79236/"
+        },
+        {
+          "starts_at": "2025-02-08T20:45:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-79247/"
+        },
+        {
           "starts_at": "2025-02-08T20:30:00+00:00",
           "site": "Curzon Mayfair",
           "url": "https://www.curzon.com/ticketing/seats/MAY1-29209/"
+        },
+        {
+          "starts_at": "2025-02-08T10:50:00+00:00",
+          "site": "Curzon Hoxton",
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-20366/"
+        },
+        {
+          "starts_at": "2025-02-08T16:40:00+00:00",
+          "site": "Curzon Hoxton",
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-20363/"
         },
         {
           "starts_at": "2025-02-08T11:00:00+00:00",
@@ -2932,6 +3186,16 @@
           "starts_at": "2025-02-08T20:20:00+00:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-30873/"
+        },
+        {
+          "starts_at": "2025-02-08T14:15:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-97100/"
+        },
+        {
+          "starts_at": "2025-02-08T20:40:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-97103/"
         }
       ]
     },
@@ -2963,6 +3227,21 @@
           "starts_at": "2025-02-08T18:15:00+00:00",
           "site": "Curzon Soho",
           "url": "https://www.curzon.com/ticketing/seats/SOH1-48518/"
+        },
+        {
+          "starts_at": "2025-02-08T11:00:00+00:00",
+          "site": "Curzon Hoxton",
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-20367/"
+        },
+        {
+          "starts_at": "2025-02-08T21:30:00+00:00",
+          "site": "Curzon Hoxton",
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-20365/"
+        },
+        {
+          "starts_at": "2025-02-08T17:15:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-97102/"
         }
       ]
     },
@@ -2986,6 +3265,16 @@
           "starts_at": "2025-02-08T17:40:00+00:00",
           "site": "Curzon Hoxton",
           "url": "https://www.curzon.com/ticketing/seats/HOX1-20204/"
+        },
+        {
+          "starts_at": "2025-02-08T11:20:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-97108/"
+        },
+        {
+          "starts_at": "2025-02-08T17:30:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-97098/"
         },
         {
           "starts_at": "2025-02-08T20:30:00+00:00",
@@ -3016,6 +3305,16 @@
           "url": "https://www.curzon.com/ticketing/seats/SOH1-48521/"
         },
         {
+          "starts_at": "2025-02-08T11:30:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-79238/"
+        },
+        {
+          "starts_at": "2025-02-08T21:15:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-79245/"
+        },
+        {
           "starts_at": "2025-02-08T15:00:00+00:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-30874/"
@@ -3028,11 +3327,54 @@
       ]
     },
     {
+      "title": "Maria",
+      "trailer": "https://www.youtube.com/watch?v=mVIXaTdxlQc",
+      "synopsis": "The new film from the director of Jackie and Spencer, MARIA tells the glamorous, moving story of the iconic opera singer, Maria Callas. Paris, 1977: Once the world’s greatest soprano, Callas now hides in an apartment, having lost her voice and retreated from the world. She dreams of returning to the stage, but can her body and mind take the pressure?\nFeaturing some of Callas’s greatest recordings and starring Angelina Jolie in an Oscarworthy performance, MARIA is a sumptuous drama that hits all the high notes.",
+      "runtime": 123,
+      "times": [
+        {
+          "starts_at": "2025-02-08T11:00:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-79287/"
+        },
+        {
+          "starts_at": "2025-02-08T14:45:00+00:00",
+          "site": "Curzon Mayfair",
+          "url": "https://www.curzon.com/ticketing/seats/MAY1-29207/"
+        },
+        {
+          "starts_at": "2025-02-08T17:40:00+00:00",
+          "site": "Curzon Mayfair",
+          "url": "https://www.curzon.com/ticketing/seats/MAY1-29212/"
+        },
+        {
+          "starts_at": "2025-02-08T14:50:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-97109/"
+        }
+      ]
+    },
+    {
       "title": "September 5",
       "trailer": "https://www.youtube.com/watch?v=GGBpfkrr8Ms",
       "synopsis": "\"September 5\" unveils the decisive moment that forever changed media coverage and continues to impact live news today. Set during the 1972 Munich Summer Olympics, the film follows an American Sports broadcasting team that quickly adapted from sports reporting to live coverage of the Israeli athletes taken hostage. Through this lens, \"September 5\" provides a fresh perspective on the live broadcast seen globally by an estimated one billion people at the time.\n\nAt the heart of the story is Geoff (John Magaro), a young and ambitious producer striving to prove himself to his boss, the legendary TV executive Roone Arledge (Peter Sarsgaard). Together with German interpreter Marianne (Leonie Benesch) and his mentor Marvin Bader (Ben Chaplin), Geoff unexpectedly takes the helm of the live coverage. As narratives shift, time ticks away, and conflicting rumors spread, with the hostages' lives hanging in the balance, Geoff grapples with tough decisions while confronting his own moral compass.",
       "runtime": 95,
       "times": [
+        {
+          "starts_at": "2025-02-08T11:15:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-79232/"
+        },
+        {
+          "starts_at": "2025-02-08T15:45:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-79241/"
+        },
+        {
+          "starts_at": "2025-02-08T17:15:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-79244/"
+        },
         {
           "starts_at": "2025-02-08T12:20:00+00:00",
           "site": "Curzon Mayfair",
@@ -3042,6 +3384,16 @@
           "starts_at": "2025-02-08T17:00:00+00:00",
           "site": "Curzon Mayfair",
           "url": "https://www.curzon.com/ticketing/seats/MAY1-29213/"
+        },
+        {
+          "starts_at": "2025-02-08T15:40:00+00:00",
+          "site": "Curzon Hoxton",
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-20361/"
+        },
+        {
+          "starts_at": "2025-02-08T21:10:00+00:00",
+          "site": "Curzon Hoxton",
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-20203/"
         },
         {
           "starts_at": "2025-02-08T16:00:00+00:00",
@@ -3054,6 +3406,11 @@
           "url": "https://www.curzon.com/ticketing/seats/CAM1-30863/"
         },
         {
+          "starts_at": "2025-02-08T11:40:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-96798/"
+        },
+        {
           "starts_at": "2025-02-08T18:10:00+00:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-96796/"
@@ -3061,20 +3418,58 @@
       ]
     },
     {
-      "title": "Maria",
-      "trailer": "https://www.youtube.com/watch?v=mVIXaTdxlQc",
-      "synopsis": "The new film from the director of Jackie and Spencer, MARIA tells the glamorous, moving story of the iconic opera singer, Maria Callas. Paris, 1977: Once the world’s greatest soprano, Callas now hides in an apartment, having lost her voice and retreated from the world. She dreams of returning to the stage, but can her body and mind take the pressure?\nFeaturing some of Callas’s greatest recordings and starring Angelina Jolie in an Oscarworthy performance, MARIA is a sumptuous drama that hits all the high notes.",
-      "runtime": 123,
+      "title": "Conclave",
+      "trailer": "https://www.youtube.com/watch?v=Znr38bHNXp4",
+      "synopsis": "CONCLAVE follows one of the world’s most secretive and ancient events – selecting the new Pope. Cardinal Lawrence (Ralph Fiennes) is tasked with running this covert process after the unexpected death of the beloved Pope. Once the Catholic Church’s most powerful leaders have gathered from around the world and are locked together in the Vatican halls, Lawrence uncovers a trail of deep secrets left in the dead Pope’s wake, secrets which could shake the foundations of the Church.",
+      "runtime": 120,
+      "times": [
+        {
+          "starts_at": "2025-02-08T11:45:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-79233/"
+        },
+        {
+          "starts_at": "2025-02-08T14:20:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-79239/"
+        },
+        {
+          "starts_at": "2025-02-08T18:00:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-79235/"
+        },
+        {
+          "starts_at": "2025-02-08T21:00:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-79246/"
+        },
+        {
+          "starts_at": "2025-02-08T20:50:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-97099/"
+        }
+      ]
+    },
+    {
+      "title": "Babygirl",
+      "trailer": "https://www.youtube.com/watch?v=dq_bnfZy9-g",
+      "synopsis": "Despite the risk and prejudices, a very successful CEO begins an illicit affair with her much younger intern.",
+      "runtime": 114,
       "times": [
         {
           "starts_at": "2025-02-08T14:45:00+00:00",
-          "site": "Curzon Mayfair",
-          "url": "https://www.curzon.com/ticketing/seats/MAY1-29207/"
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-79240/"
         },
         {
-          "starts_at": "2025-02-08T17:40:00+00:00",
-          "site": "Curzon Mayfair",
-          "url": "https://www.curzon.com/ticketing/seats/MAY1-29212/"
+          "starts_at": "2025-02-08T20:15:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-79248/"
+        },
+        {
+          "starts_at": "2025-02-08T14:00:00+00:00",
+          "site": "Curzon Hoxton",
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-20368/"
         }
       ]
     },
@@ -3146,6 +3541,19 @@
       ]
     },
     {
+      "title": "All We Imagine as Light",
+      "trailer": "https://www.youtube.com/watch?v=Yf1jAx6VhZ8",
+      "synopsis": "All We Imagine as Light is a beautiful, sweeping, emotional film that explores the complexities of female friendship and captures the frantic pace, the vibrant colours and the heady atmosphere of modern Mumbai.\n\nIn the city, thoughtful Nurse Prabha’s routine is upset when she receives an unexpected gift from her estranged husband. Her younger, flightier and rebellious roommate, Anu, tries in vain to find a spot in the city to be intimate with her secret boyfriend. Their colleague Parvaty fights to stay in her home without any requisite paperwork left by her late husband. A trip to a beach town allows them each to find a space for their desires to manifest. \n\nPayal Kapadia’s hugely acclaimed fiction debut was the first Indian film to be selected in Official Competition at Cannes in three decades, where it was awarded the Grand Prix.\n",
+      "runtime": 118,
+      "times": [
+        {
+          "starts_at": "2025-02-08T15:00:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-97142/"
+        }
+      ]
+    },
+    {
       "title": "DocHouse: Black Snow",
       "trailer": null,
       "synopsis": "A Siberian mother-of-three turns citizen journalist, in this investigative thriller that skims dangerously close to the coercive grip of the Russian government.\r\n\r\nIn a country that prioritises the coal industry over the public and where the State controls the media, the residents of a remote mining town have nowhere to turn when their air becomes toxic and coal dust turns the snow black.\r\n\r\nIncensed at the cover-ups and lies, Natalia Zubkova live streams her investigations as she uncovers the full extent of the environmental disaster unfolding around her.\r\n\r\nFilmed over the course of four turbulent years, this taut and revelatory eco-thriller is in turn enraging and nailbiting, as Natalia is subjected to the clandestine tactics of Russia’s modern surveillance state.",
@@ -3203,6 +3611,11 @@
           "url": "https://www.curzon.com/ticketing/seats/ALD1-54576/"
         },
         {
+          "starts_at": "2025-02-09T11:30:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-79266/"
+        },
+        {
           "starts_at": "2025-02-09T10:15:00+00:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-30891/"
@@ -3211,6 +3624,16 @@
           "starts_at": "2025-02-09T17:00:00+00:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-30883/"
+        },
+        {
+          "starts_at": "2025-02-09T11:20:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-97112/"
+        },
+        {
+          "starts_at": "2025-02-09T17:30:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-97110/"
         }
       ]
     },
@@ -3246,6 +3669,16 @@
           "url": "https://www.curzon.com/ticketing/seats/SOH1-48537/"
         },
         {
+          "starts_at": "2025-02-09T13:45:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-79252/"
+        },
+        {
+          "starts_at": "2025-02-09T19:30:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-79254/"
+        },
+        {
           "starts_at": "2025-02-09T12:30:00+00:00",
           "site": "Curzon Mayfair",
           "url": "https://www.curzon.com/ticketing/seats/MAY1-29217/"
@@ -3256,6 +3689,21 @@
           "url": "https://www.curzon.com/ticketing/seats/MAY1-29216/"
         },
         {
+          "starts_at": "2025-02-09T11:00:00+00:00",
+          "site": "Curzon Hoxton",
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-20330/"
+        },
+        {
+          "starts_at": "2025-02-09T13:00:00+00:00",
+          "site": "Curzon Hoxton",
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-20326/"
+        },
+        {
+          "starts_at": "2025-02-09T19:00:00+00:00",
+          "site": "Curzon Hoxton",
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-20322/"
+        },
+        {
           "starts_at": "2025-02-09T10:45:00+00:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-30894/"
@@ -3264,6 +3712,16 @@
           "starts_at": "2025-02-09T16:00:00+00:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-30895/"
+        },
+        {
+          "starts_at": "2025-02-09T13:30:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-97116/"
+        },
+        {
+          "starts_at": "2025-02-09T19:00:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-97118/"
         }
       ]
     },
@@ -3284,6 +3742,11 @@
           "url": "https://www.curzon.com/ticketing/seats/ALD1-54348/"
         },
         {
+          "starts_at": "2025-02-09T11:45:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-79260/"
+        },
+        {
           "starts_at": "2025-02-09T17:00:00+00:00",
           "site": "Curzon Victoria",
           "url": "https://www.curzon.com/ticketing/seats/VIC1-79003/"
@@ -3297,6 +3760,11 @@
           "starts_at": "2025-02-09T17:40:00+00:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-30884/"
+        },
+        {
+          "starts_at": "2025-02-09T14:30:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-97111/"
         },
         {
           "starts_at": "2025-02-09T20:30:00+00:00",
@@ -3383,9 +3851,29 @@
           "url": "https://www.curzon.com/ticketing/seats/SOH1-48531/"
         },
         {
+          "starts_at": "2025-02-09T16:45:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-79253/"
+        },
+        {
+          "starts_at": "2025-02-09T20:30:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-79264/"
+        },
+        {
           "starts_at": "2025-02-09T20:00:00+00:00",
           "site": "Curzon Mayfair",
           "url": "https://www.curzon.com/ticketing/seats/MAY1-29215/"
+        },
+        {
+          "starts_at": "2025-02-09T13:40:00+00:00",
+          "site": "Curzon Hoxton",
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-20329/"
+        },
+        {
+          "starts_at": "2025-02-09T17:20:00+00:00",
+          "site": "Curzon Hoxton",
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-20323/"
         },
         {
           "starts_at": "2025-02-09T10:30:00+00:00",
@@ -3406,6 +3894,16 @@
           "starts_at": "2025-02-09T19:20:00+00:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-30890/"
+        },
+        {
+          "starts_at": "2025-02-09T13:45:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-97121/"
+        },
+        {
+          "starts_at": "2025-02-09T20:10:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-97114/"
         }
       ]
     },
@@ -3421,9 +3919,24 @@
           "url": "https://www.curzon.com/ticketing/seats/ALD1-54572/"
         },
         {
+          "starts_at": "2025-02-09T13:15:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-79347/"
+        },
+        {
           "starts_at": "2025-02-09T19:40:00+00:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-30896/"
+        },
+        {
+          "starts_at": "2025-02-09T11:40:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-97115/"
+        },
+        {
+          "starts_at": "2025-02-09T17:50:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-97117/"
         }
       ]
     },
@@ -3473,6 +3986,26 @@
           "starts_at": "2025-02-09T20:40:00+00:00",
           "site": "Curzon Soho",
           "url": "https://www.curzon.com/ticketing/seats/SOH1-48529/"
+        },
+        {
+          "starts_at": "2025-02-09T11:20:00+00:00",
+          "site": "Curzon Hoxton",
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-20328/"
+        },
+        {
+          "starts_at": "2025-02-09T16:40:00+00:00",
+          "site": "Curzon Hoxton",
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-20324/"
+        },
+        {
+          "starts_at": "2025-02-09T11:00:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-97122/"
+        },
+        {
+          "starts_at": "2025-02-09T16:45:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-97113/"
         }
       ]
     },
@@ -3496,6 +4029,16 @@
           "starts_at": "2025-02-09T17:00:00+00:00",
           "site": "Curzon Soho",
           "url": "https://www.curzon.com/ticketing/seats/SOH1-48532/"
+        },
+        {
+          "starts_at": "2025-02-09T11:15:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-79255/"
+        },
+        {
+          "starts_at": "2025-02-09T21:00:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-79262/"
         },
         {
           "starts_at": "2025-02-09T13:00:00+00:00",
@@ -3531,9 +4074,19 @@
           "url": "https://www.curzon.com/ticketing/seats/HOX1-20209/"
         },
         {
+          "starts_at": "2025-02-09T11:10:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-97119/"
+        },
+        {
           "starts_at": "2025-02-09T16:20:00+00:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-96799/"
+        },
+        {
+          "starts_at": "2025-02-09T19:50:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-96801/"
         }
       ]
     },
@@ -3544,6 +4097,21 @@
       "runtime": 95,
       "times": [
         {
+          "starts_at": "2025-02-09T10:50:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-79250/"
+        },
+        {
+          "starts_at": "2025-02-09T15:30:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-79258/"
+        },
+        {
+          "starts_at": "2025-02-09T17:15:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-79261/"
+        },
+        {
           "starts_at": "2025-02-09T11:40:00+00:00",
           "site": "Curzon Mayfair",
           "url": "https://www.curzon.com/ticketing/seats/MAY1-29214/"
@@ -3552,6 +4120,11 @@
           "starts_at": "2025-02-09T20:40:00+00:00",
           "site": "Curzon Mayfair",
           "url": "https://www.curzon.com/ticketing/seats/MAY1-29219/"
+        },
+        {
+          "starts_at": "2025-02-09T15:20:00+00:00",
+          "site": "Curzon Hoxton",
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-20325/"
         },
         {
           "starts_at": "2025-02-09T17:40:00+00:00",
@@ -3567,6 +4140,72 @@
           "starts_at": "2025-02-09T20:20:00+00:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-30882/"
+        },
+        {
+          "starts_at": "2025-02-09T11:30:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-96800/"
+        },
+        {
+          "starts_at": "2025-02-09T18:10:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-97123/"
+        }
+      ]
+    },
+    {
+      "title": "Conclave",
+      "trailer": "https://www.youtube.com/watch?v=Znr38bHNXp4",
+      "synopsis": "CONCLAVE follows one of the world’s most secretive and ancient events – selecting the new Pope. Cardinal Lawrence (Ralph Fiennes) is tasked with running this covert process after the unexpected death of the beloved Pope. Once the Catholic Church’s most powerful leaders have gathered from around the world and are locked together in the Vatican halls, Lawrence uncovers a trail of deep secrets left in the dead Pope’s wake, secrets which could shake the foundations of the Church.",
+      "runtime": 120,
+      "times": [
+        {
+          "starts_at": "2025-02-09T11:15:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-79251/"
+        },
+        {
+          "starts_at": "2025-02-09T14:30:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-79256/"
+        },
+        {
+          "starts_at": "2025-02-09T17:45:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-79267/"
+        },
+        {
+          "starts_at": "2025-02-09T20:00:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-79263/"
+        },
+        {
+          "starts_at": "2025-02-09T20:20:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-97120/"
+        }
+      ]
+    },
+    {
+      "title": "Babygirl",
+      "trailer": "https://www.youtube.com/watch?v=dq_bnfZy9-g",
+      "synopsis": "Despite the risk and prejudices, a very successful CEO begins an illicit affair with her much younger intern.",
+      "runtime": 114,
+      "times": [
+        {
+          "starts_at": "2025-02-09T14:15:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-79257/"
+        },
+        {
+          "starts_at": "2025-02-09T19:45:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-79265/"
+        },
+        {
+          "starts_at": "2025-02-09T20:30:00+00:00",
+          "site": "Curzon Hoxton",
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-20327/"
         }
       ]
     },
@@ -3576,6 +4215,11 @@
       "synopsis": "The new film from the director of Jackie and Spencer, MARIA tells the glamorous, moving story of the iconic opera singer, Maria Callas. Paris, 1977: Once the world’s greatest soprano, Callas now hides in an apartment, having lost her voice and retreated from the world. She dreams of returning to the stage, but can her body and mind take the pressure?\nFeaturing some of Callas’s greatest recordings and starring Angelina Jolie in an Oscarworthy performance, MARIA is a sumptuous drama that hits all the high notes.",
       "runtime": 123,
       "times": [
+        {
+          "starts_at": "2025-02-09T18:00:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-79289/"
+        },
         {
           "starts_at": "2025-02-09T17:00:00+00:00",
           "site": "Curzon Mayfair",
@@ -3616,6 +4260,19 @@
           "starts_at": "2025-02-09T12:00:00+00:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-96654/"
+        }
+      ]
+    },
+    {
+      "title": "Jeanne Dielman, 23 Quai du Commerce 1080 Bruxelles",
+      "trailer": null,
+      "synopsis": "A lonely widowed housewife does her daily chores, takes care of her apartment where she lives with her teenage son, and turns the occasional trick to make ends meet. However, something happens that changes her safe routine.",
+      "runtime": 202,
+      "times": [
+        {
+          "starts_at": "2025-02-09T14:10:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-97124/"
         }
       ]
     },
@@ -3677,6 +4334,11 @@
           "url": "https://www.curzon.com/ticketing/seats/ALD1-54532/"
         },
         {
+          "starts_at": "2025-02-10T20:15:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-79285/"
+        },
+        {
           "starts_at": "2025-02-10T11:00:00+00:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-30825/"
@@ -3685,6 +4347,16 @@
           "starts_at": "2025-02-10T18:00:00+00:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-30831/"
+        },
+        {
+          "starts_at": "2025-02-10T12:00:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-97019/"
+        },
+        {
+          "starts_at": "2025-02-10T17:40:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-97015/"
         }
       ]
     },
@@ -3751,6 +4423,16 @@
           "url": "https://www.curzon.com/ticketing/seats/SOH1-48545/"
         },
         {
+          "starts_at": "2025-02-10T13:45:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-79272/"
+        },
+        {
+          "starts_at": "2025-02-10T19:30:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-79269/"
+        },
+        {
           "starts_at": "2025-02-10T12:40:00+00:00",
           "site": "Curzon Mayfair",
           "url": "https://www.curzon.com/ticketing/seats/MAY1-29223/"
@@ -3761,6 +4443,21 @@
           "url": "https://www.curzon.com/ticketing/seats/MAY1-29222/"
         },
         {
+          "starts_at": "2025-02-10T10:40:00+00:00",
+          "site": "Curzon Hoxton",
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-20354/"
+        },
+        {
+          "starts_at": "2025-02-10T13:20:00+00:00",
+          "site": "Curzon Hoxton",
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-20352/"
+        },
+        {
+          "starts_at": "2025-02-10T19:20:00+00:00",
+          "site": "Curzon Hoxton",
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-20356/"
+        },
+        {
           "starts_at": "2025-02-10T11:30:00+00:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-30834/"
@@ -3769,6 +4466,16 @@
           "starts_at": "2025-02-10T16:20:00+00:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-30835/"
+        },
+        {
+          "starts_at": "2025-02-10T13:45:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-97034/"
+        },
+        {
+          "starts_at": "2025-02-10T19:30:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-97024/"
         }
       ]
     },
@@ -3794,9 +4501,34 @@
           "url": "https://www.curzon.com/ticketing/seats/SOH1-48541/"
         },
         {
+          "starts_at": "2025-02-10T14:30:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-79280/"
+        },
+        {
+          "starts_at": "2025-02-10T17:45:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-79270/"
+        },
+        {
+          "starts_at": "2025-02-10T20:45:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-79276/"
+        },
+        {
           "starts_at": "2025-02-10T14:40:00+00:00",
           "site": "Curzon Mayfair",
           "url": "https://www.curzon.com/ticketing/seats/MAY1-29221/"
+        },
+        {
+          "starts_at": "2025-02-10T11:15:00+00:00",
+          "site": "Curzon Hoxton",
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-20358/"
+        },
+        {
+          "starts_at": "2025-02-10T17:20:00+00:00",
+          "site": "Curzon Hoxton",
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-20353/"
         },
         {
           "starts_at": "2025-02-10T12:20:00+00:00",
@@ -3812,6 +4544,16 @@
           "starts_at": "2025-02-10T20:00:00+00:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-30824/"
+        },
+        {
+          "starts_at": "2025-02-10T14:10:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-97029/"
+        },
+        {
+          "starts_at": "2025-02-10T20:20:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-97032/"
         }
       ]
     },
@@ -3832,6 +4574,16 @@
           "url": "https://www.curzon.com/ticketing/seats/ALD1-54523/"
         },
         {
+          "starts_at": "2025-02-10T12:15:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-79275/"
+        },
+        {
+          "starts_at": "2025-02-10T17:30:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-79268/"
+        },
+        {
           "starts_at": "2025-02-10T11:15:00+00:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-30827/"
@@ -3840,6 +4592,16 @@
           "starts_at": "2025-02-10T18:40:00+00:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-30832/"
+        },
+        {
+          "starts_at": "2025-02-10T15:00:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-97017/"
+        },
+        {
+          "starts_at": "2025-02-10T21:00:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-97021/"
         }
       ]
     },
@@ -3914,6 +4676,26 @@
           "starts_at": "2025-02-10T17:40:00+00:00",
           "site": "Curzon Hoxton",
           "url": "https://www.curzon.com/ticketing/seats/HOX1-20212/"
+        },
+        {
+          "starts_at": "2025-02-10T11:40:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-97025/"
+        },
+        {
+          "starts_at": "2025-02-10T14:20:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-97018/"
+        },
+        {
+          "starts_at": "2025-02-10T17:30:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-97027/"
+        },
+        {
+          "starts_at": "2025-02-10T20:10:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-97022/"
         }
       ]
     },
@@ -3937,6 +4719,16 @@
           "starts_at": "2025-02-10T20:30:00+00:00",
           "site": "Curzon Soho",
           "url": "https://www.curzon.com/ticketing/seats/SOH1-48507/"
+        },
+        {
+          "starts_at": "2025-02-10T11:15:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-79284/"
+        },
+        {
+          "starts_at": "2025-02-10T18:15:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-79278/"
         },
         {
           "starts_at": "2025-02-10T15:30:00+00:00",
@@ -3965,6 +4757,26 @@
           "starts_at": "2025-02-10T18:00:00+00:00",
           "site": "Curzon Soho",
           "url": "https://www.curzon.com/ticketing/seats/SOH1-48540/"
+        },
+        {
+          "starts_at": "2025-02-10T11:00:00+00:00",
+          "site": "Curzon Hoxton",
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-20351/"
+        },
+        {
+          "starts_at": "2025-02-10T17:00:00+00:00",
+          "site": "Curzon Hoxton",
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-20355/"
+        },
+        {
+          "starts_at": "2025-02-10T11:30:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-97030/"
+        },
+        {
+          "starts_at": "2025-02-10T17:15:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-97031/"
         }
       ]
     },
@@ -3974,6 +4786,21 @@
       "synopsis": "\"September 5\" unveils the decisive moment that forever changed media coverage and continues to impact live news today. Set during the 1972 Munich Summer Olympics, the film follows an American Sports broadcasting team that quickly adapted from sports reporting to live coverage of the Israeli athletes taken hostage. Through this lens, \"September 5\" provides a fresh perspective on the live broadcast seen globally by an estimated one billion people at the time.\n\nAt the heart of the story is Geoff (John Magaro), a young and ambitious producer striving to prove himself to his boss, the legendary TV executive Roone Arledge (Peter Sarsgaard). Together with German interpreter Marianne (Leonie Benesch) and his mentor Marvin Bader (Ben Chaplin), Geoff unexpectedly takes the helm of the live coverage. As narratives shift, time ticks away, and conflicting rumors spread, with the hostages' lives hanging in the balance, Geoff grapples with tough decisions while confronting his own moral compass.",
       "runtime": 95,
       "times": [
+        {
+          "starts_at": "2025-02-10T11:00:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-79274/"
+        },
+        {
+          "starts_at": "2025-02-10T15:45:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-79281/"
+        },
+        {
+          "starts_at": "2025-02-10T17:15:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-79279/"
+        },
         {
           "starts_at": "2025-02-10T12:20:00+00:00",
           "site": "Curzon Mayfair",
@@ -3985,6 +4812,16 @@
           "url": "https://www.curzon.com/ticketing/seats/MAY1-29225/"
         },
         {
+          "starts_at": "2025-02-10T15:00:00+00:00",
+          "site": "Curzon Hoxton",
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-20357/"
+        },
+        {
+          "starts_at": "2025-02-10T21:15:00+00:00",
+          "site": "Curzon Hoxton",
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-20213/"
+        },
+        {
           "starts_at": "2025-02-10T16:00:00+00:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-30828/"
@@ -3993,6 +4830,49 @@
           "starts_at": "2025-02-10T21:20:00+00:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-30830/"
+        },
+        {
+          "starts_at": "2025-02-10T11:50:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-97020/"
+        },
+        {
+          "starts_at": "2025-02-10T17:50:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-97016/"
+        }
+      ]
+    },
+    {
+      "title": "Conclave",
+      "trailer": "https://www.youtube.com/watch?v=Znr38bHNXp4",
+      "synopsis": "CONCLAVE follows one of the world’s most secretive and ancient events – selecting the new Pope. Cardinal Lawrence (Ralph Fiennes) is tasked with running this covert process after the unexpected death of the beloved Pope. Once the Catholic Church’s most powerful leaders have gathered from around the world and are locked together in the Vatican halls, Lawrence uncovers a trail of deep secrets left in the dead Pope’s wake, secrets which could shake the foundations of the Church.",
+      "runtime": 120,
+      "times": [
+        {
+          "starts_at": "2025-02-10T11:30:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-79273/"
+        },
+        {
+          "starts_at": "2025-02-10T14:30:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-79283/"
+        },
+        {
+          "starts_at": "2025-02-10T18:00:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-79271/"
+        },
+        {
+          "starts_at": "2025-02-10T21:00:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-79277/"
+        },
+        {
+          "starts_at": "2025-02-10T20:30:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-97028/"
         }
       ]
     },
@@ -4003,9 +4883,65 @@
       "runtime": 123,
       "times": [
         {
+          "starts_at": "2025-02-10T11:45:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-79290/"
+        },
+        {
           "starts_at": "2025-02-10T17:45:00+00:00",
           "site": "Curzon Mayfair",
           "url": "https://www.curzon.com/ticketing/seats/MAY1-29224/"
+        },
+        {
+          "starts_at": "2025-02-10T14:50:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-97026/"
+        }
+      ]
+    },
+    {
+      "title": "A Real Pain",
+      "trailer": "https://www.youtube.com/watch?v=lGeZQWMMDgM",
+      "synopsis": "Mismatched cousins David and Benji reunite for a tour through Poland to honor their beloved grandmother. The adventure takes a turn when the odd-couple's old tensions resurface against the backdrop of their family history.",
+      "runtime": 90,
+      "times": [
+        {
+          "starts_at": "2025-02-10T13:30:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-79348/"
+        },
+        {
+          "starts_at": "2025-02-10T14:10:00+00:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-30833/"
+        },
+        {
+          "starts_at": "2025-02-10T12:10:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-97033/"
+        },
+        {
+          "starts_at": "2025-02-10T18:00:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-97023/"
+        }
+      ]
+    },
+    {
+      "title": "Babygirl",
+      "trailer": "https://www.youtube.com/watch?v=dq_bnfZy9-g",
+      "synopsis": "Despite the risk and prejudices, a very successful CEO begins an illicit affair with her much younger intern.",
+      "runtime": 114,
+      "times": [
+        {
+          "starts_at": "2025-02-10T14:45:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-79282/"
+        },
+        {
+          "starts_at": "2025-02-10T14:20:00+00:00",
+          "site": "Curzon Hoxton",
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-20359/"
         }
       ]
     },
@@ -4029,19 +4965,6 @@
           "starts_at": "2025-02-10T20:20:00+00:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-30823/"
-        }
-      ]
-    },
-    {
-      "title": "A Real Pain",
-      "trailer": "https://www.youtube.com/watch?v=lGeZQWMMDgM",
-      "synopsis": "Mismatched cousins David and Benji reunite for a tour through Poland to honor their beloved grandmother. The adventure takes a turn when the odd-couple's old tensions resurface against the backdrop of their family history.",
-      "runtime": 90,
-      "times": [
-        {
-          "starts_at": "2025-02-10T14:10:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-30833/"
         }
       ]
     },
