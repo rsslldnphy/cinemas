@@ -1,90 +1,6 @@
 {
   "2025-02-04": [
     {
-      "title": "Nosferatu",
-      "trailer": "https://www.youtube.com/watch?v=Px6S0RxfAHg",
-      "synopsis": "Robert Eggers’ Nosferatu is a gothic tale of obsession between a haunted young woman and the terrifying vampire infatuated with her, causing untold horror in its wake.",
-      "runtime": 132,
-      "times": [
-        {
-          "starts_at": "2025-02-04T13:40:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-54440/"
-        },
-        {
-          "starts_at": "2025-02-04T21:00:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-54446/"
-        },
-        {
-          "starts_at": "2025-02-04T14:00:00+00:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-20273/"
-        }
-      ]
-    },
-    {
-      "title": "Presence",
-      "trailer": "https://www.youtube.com/watch?v=7fOJyQtJSFU",
-      "synopsis": "A family moves into a suburban house and becomes convinced they’re not alone.",
-      "runtime": 85,
-      "times": [
-        {
-          "starts_at": "2025-02-04T14:40:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-54439/"
-        },
-        {
-          "starts_at": "2025-02-04T21:20:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-54445/"
-        }
-      ]
-    },
-    {
-      "title": "A Real Pain",
-      "trailer": "https://www.youtube.com/watch?v=lGeZQWMMDgM",
-      "synopsis": "Mismatched cousins David and Benji reunite for a tour through Poland to honor their beloved grandmother. The adventure takes a turn when the odd-couple's old tensions resurface against the backdrop of their family history.",
-      "runtime": 90,
-      "times": [
-        {
-          "starts_at": "2025-02-04T15:00:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-54438/"
-        },
-        {
-          "starts_at": "2025-02-04T15:30:00+00:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-48473/"
-        },
-        {
-          "starts_at": "2025-02-04T17:45:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-79080/"
-        },
-        {
-          "starts_at": "2025-02-04T17:20:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-30617/"
-        },
-        {
-          "starts_at": "2025-02-04T14:20:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-96894/"
-        },
-        {
-          "starts_at": "2025-02-04T19:20:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-96886/"
-        },
-        {
-          "starts_at": "2025-02-04T21:30:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-96898/"
-        }
-      ]
-    },
-    {
       "title": "Companion",
       "trailer": "https://www.youtube.com/watch?v=NQKaNxDu31I",
       "synopsis": "Hey you. Tired of swiping? Sick of getting ghosted? Are you feeling like a part of you is missing? FindYourCompanion.com is guaranteed to find you a Companion who’s made for you.",
@@ -117,11 +33,6 @@
           "starts_at": "2025-02-04T21:00:00+00:00",
           "site": "Curzon Soho",
           "url": "https://www.curzon.com/ticketing/seats/SOH1-48434/"
-        },
-        {
-          "starts_at": "2025-02-04T14:45:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-79066/"
         },
         {
           "starts_at": "2025-02-04T21:15:00+00:00",
@@ -157,11 +68,6 @@
           "url": "https://www.curzon.com/ticketing/seats/ALD1-54448/"
         },
         {
-          "starts_at": "2025-02-04T12:40:00+00:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-48427/"
-        },
-        {
           "starts_at": "2025-02-04T16:20:00+00:00",
           "site": "Curzon Soho",
           "url": "https://www.curzon.com/ticketing/seats/SOH1-48431/"
@@ -170,11 +76,6 @@
           "starts_at": "2025-02-04T19:30:00+00:00",
           "site": "Curzon Soho",
           "url": "https://www.curzon.com/ticketing/seats/SOH1-48426/"
-        },
-        {
-          "starts_at": "2025-02-04T13:45:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-79082/"
         },
         {
           "starts_at": "2025-02-04T17:00:00+00:00",
@@ -187,19 +88,9 @@
           "url": "https://www.curzon.com/ticketing/seats/VIC1-79084/"
         },
         {
-          "starts_at": "2025-02-04T15:00:00+00:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-20277/"
-        },
-        {
           "starts_at": "2025-02-04T19:20:00+00:00",
           "site": "Curzon Hoxton",
           "url": "https://www.curzon.com/ticketing/seats/HOX1-20272/"
-        },
-        {
-          "starts_at": "2025-02-04T12:45:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-30618/"
         },
         {
           "starts_at": "2025-02-04T16:40:00+00:00",
@@ -210,11 +101,6 @@
           "starts_at": "2025-02-04T19:40:00+00:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-30635/"
-        },
-        {
-          "starts_at": "2025-02-04T14:10:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-96888/"
         },
         {
           "starts_at": "2025-02-04T16:30:00+00:00",
@@ -238,11 +124,6 @@
           "starts_at": "2025-02-04T17:20:00+00:00",
           "site": "Curzon Aldgate",
           "url": "https://www.curzon.com/ticketing/seats/ALD1-54450/"
-        },
-        {
-          "starts_at": "2025-02-04T15:20:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-30649/"
         },
         {
           "starts_at": "2025-02-04T17:00:00+00:00",
@@ -278,11 +159,6 @@
           "url": "https://www.curzon.com/ticketing/seats/SOH1-48430/"
         },
         {
-          "starts_at": "2025-02-04T13:30:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-79067/"
-        },
-        {
           "starts_at": "2025-02-04T17:30:00+00:00",
           "site": "Curzon Victoria",
           "url": "https://www.curzon.com/ticketing/seats/VIC1-79071/"
@@ -303,11 +179,6 @@
           "url": "https://www.curzon.com/ticketing/seats/HOX1-20270/"
         },
         {
-          "starts_at": "2025-02-04T13:50:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-30651/"
-        },
-        {
           "starts_at": "2025-02-04T18:00:00+00:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-30625/"
@@ -316,11 +187,6 @@
           "starts_at": "2025-02-04T20:30:00+00:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-30624/"
-        },
-        {
-          "starts_at": "2025-02-04T12:40:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-96887/"
         },
         {
           "starts_at": "2025-02-04T16:15:00+00:00",
@@ -340,16 +206,70 @@
       ]
     },
     {
+      "title": "Nosferatu",
+      "trailer": "https://www.youtube.com/watch?v=Px6S0RxfAHg",
+      "synopsis": "Robert Eggers’ Nosferatu is a gothic tale of obsession between a haunted young woman and the terrifying vampire infatuated with her, causing untold horror in its wake.",
+      "runtime": 132,
+      "times": [
+        {
+          "starts_at": "2025-02-04T21:00:00+00:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-54446/"
+        }
+      ]
+    },
+    {
+      "title": "Presence",
+      "trailer": "https://www.youtube.com/watch?v=7fOJyQtJSFU",
+      "synopsis": "A family moves into a suburban house and becomes convinced they’re not alone.",
+      "runtime": 85,
+      "times": [
+        {
+          "starts_at": "2025-02-04T21:20:00+00:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-54445/"
+        }
+      ]
+    },
+    {
+      "title": "A Real Pain",
+      "trailer": "https://www.youtube.com/watch?v=lGeZQWMMDgM",
+      "synopsis": "Mismatched cousins David and Benji reunite for a tour through Poland to honor their beloved grandmother. The adventure takes a turn when the odd-couple's old tensions resurface against the backdrop of their family history.",
+      "runtime": 90,
+      "times": [
+        {
+          "starts_at": "2025-02-04T15:30:00+00:00",
+          "site": "Curzon Soho",
+          "url": "https://www.curzon.com/ticketing/seats/SOH1-48473/"
+        },
+        {
+          "starts_at": "2025-02-04T17:45:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-79080/"
+        },
+        {
+          "starts_at": "2025-02-04T17:20:00+00:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-30617/"
+        },
+        {
+          "starts_at": "2025-02-04T19:20:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-96886/"
+        },
+        {
+          "starts_at": "2025-02-04T21:30:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-96898/"
+        }
+      ]
+    },
+    {
       "title": "Hard Truths",
       "trailer": "https://www.youtube.com/watch?v=gFuEZfZUKIk",
       "synopsis": "From acclaimed filmmaker Mike Leigh, comes Hard Truths. Starring BAFTA award-winner Marianne Jean-Baptiste and Michele Austin. Coming soon to cinemas.",
       "runtime": 97,
       "times": [
-        {
-          "starts_at": "2025-02-04T14:00:00+00:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-48472/"
-        },
         {
           "starts_at": "2025-02-04T17:00:00+00:00",
           "site": "Curzon Soho",
@@ -359,11 +279,6 @@
           "starts_at": "2025-02-04T21:00:00+00:00",
           "site": "Curzon Hoxton",
           "url": "https://www.curzon.com/ticketing/seats/HOX1-20271/"
-        },
-        {
-          "starts_at": "2025-02-04T14:10:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-30622/"
         },
         {
           "starts_at": "2025-02-04T21:30:00+00:00",
@@ -389,11 +304,6 @@
       "runtime": 120,
       "times": [
         {
-          "starts_at": "2025-02-04T14:15:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-79083/"
-        },
-        {
           "starts_at": "2025-02-04T16:45:00+00:00",
           "site": "Curzon Victoria",
           "url": "https://www.curzon.com/ticketing/seats/VIC1-79068/"
@@ -417,19 +327,9 @@
       "runtime": 123,
       "times": [
         {
-          "starts_at": "2025-02-04T15:00:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-79078/"
-        },
-        {
           "starts_at": "2025-02-04T20:15:00+00:00",
           "site": "Curzon Victoria",
           "url": "https://www.curzon.com/ticketing/seats/VIC1-79074/"
-        },
-        {
-          "starts_at": "2025-02-04T12:40:00+00:00",
-          "site": "Curzon Mayfair",
-          "url": "https://www.curzon.com/ticketing/seats/MAY1-29170/"
         },
         {
           "starts_at": "2025-02-04T16:40:00+00:00",
@@ -463,27 +363,9 @@
       "runtime": 139,
       "times": [
         {
-          "starts_at": "2025-02-04T14:30:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-30629/"
-        },
-        {
           "starts_at": "2025-02-04T20:50:00+00:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-30628/"
-        }
-      ]
-    },
-    {
-      "title": "All We Imagine as Light",
-      "trailer": "https://www.youtube.com/watch?v=Yf1jAx6VhZ8",
-      "synopsis": "All We Imagine as Light is a beautiful, sweeping, emotional film that explores the complexities of female friendship and captures the frantic pace, the vibrant colours and the heady atmosphere of modern Mumbai.\n\nIn the city, thoughtful Nurse Prabha’s routine is upset when she receives an unexpected gift from her estranged husband. Her younger, flightier and rebellious roommate, Anu, tries in vain to find a spot in the city to be intimate with her secret boyfriend. Their colleague Parvaty fights to stay in her home without any requisite paperwork left by her late husband. A trip to a beach town allows them each to find a space for their desires to manifest. \n\nPayal Kapadia’s hugely acclaimed fiction debut was the first Indian film to be selected in Official Competition at Cannes in three decades, where it was awarded the Grand Prix.\n",
-      "runtime": 118,
-      "times": [
-        {
-          "starts_at": "2025-02-04T14:00:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-96897/"
         }
       ]
     },
