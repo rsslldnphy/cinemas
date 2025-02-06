@@ -1,60 +1,6 @@
 {
   "2025-02-06": [
     {
-      "title": "Nosferatu",
-      "trailer": "https://www.youtube.com/watch?v=Px6S0RxfAHg",
-      "synopsis": "Robert Eggers’ Nosferatu is a gothic tale of obsession between a haunted young woman and the terrifying vampire infatuated with her, causing untold horror in its wake.",
-      "runtime": 132,
-      "times": [
-        {
-          "starts_at": "2025-02-06T13:40:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-54472/"
-        },
-        {
-          "starts_at": "2025-02-06T20:40:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-54478/"
-        }
-      ]
-    },
-    {
-      "title": "Presence",
-      "trailer": "https://www.youtube.com/watch?v=7fOJyQtJSFU",
-      "synopsis": "A family moves into a suburban house and becomes convinced they’re not alone.",
-      "runtime": 85,
-      "times": [
-        {
-          "starts_at": "2025-02-06T14:40:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-54471/"
-        },
-        {
-          "starts_at": "2025-02-06T21:15:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-54477/"
-        }
-      ]
-    },
-    {
-      "title": "Companion",
-      "trailer": "https://www.youtube.com/watch?v=NQKaNxDu31I",
-      "synopsis": "Hey you. Tired of swiping? Sick of getting ghosted? Are you feeling like a part of you is missing? FindYourCompanion.com is guaranteed to find you a Companion who’s made for you.",
-      "runtime": 97,
-      "times": [
-        {
-          "starts_at": "2025-02-06T15:20:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-54469/"
-        },
-        {
-          "starts_at": "2025-02-06T21:10:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-54480/"
-        }
-      ]
-    },
-    {
       "title": "A Real Pain",
       "trailer": "https://www.youtube.com/watch?v=lGeZQWMMDgM",
       "synopsis": "Mismatched cousins David and Benji reunite for a tour through Poland to honor their beloved grandmother. The adventure takes a turn when the odd-couple's old tensions resurface against the backdrop of their family history.",
@@ -79,11 +25,6 @@
           "starts_at": "2025-02-06T17:20:00+00:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-30586/"
-        },
-        {
-          "starts_at": "2025-02-06T14:20:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-96914/"
         },
         {
           "starts_at": "2025-02-06T19:20:00+00:00",
@@ -112,11 +53,6 @@
           "starts_at": "2025-02-06T21:00:00+00:00",
           "site": "Curzon Soho",
           "url": "https://www.curzon.com/ticketing/seats/SOH1-48450/"
-        },
-        {
-          "starts_at": "2025-02-06T14:45:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-79035/"
         },
         {
           "starts_at": "2025-02-06T18:00:00+00:00",
@@ -167,11 +103,6 @@
           "url": "https://www.curzon.com/ticketing/seats/SOH1-48448/"
         },
         {
-          "starts_at": "2025-02-06T13:45:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-79037/"
-        },
-        {
           "starts_at": "2025-02-06T17:00:00+00:00",
           "site": "Curzon Victoria",
           "url": "https://www.curzon.com/ticketing/seats/VIC1-79032/"
@@ -182,19 +113,9 @@
           "url": "https://www.curzon.com/ticketing/seats/VIC1-79046/"
         },
         {
-          "starts_at": "2025-02-06T14:40:00+00:00",
-          "site": "Curzon Mayfair",
-          "url": "https://www.curzon.com/ticketing/seats/MAY1-29179/"
-        },
-        {
           "starts_at": "2025-02-06T19:00:00+00:00",
           "site": "Curzon Mayfair",
           "url": "https://www.curzon.com/ticketing/seats/MAY1-29181/"
-        },
-        {
-          "starts_at": "2025-02-06T12:50:00+00:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-20287/"
         },
         {
           "starts_at": "2025-02-06T16:20:00+00:00",
@@ -207,11 +128,6 @@
           "url": "https://www.curzon.com/ticketing/seats/HOX1-20290/"
         },
         {
-          "starts_at": "2025-02-06T12:45:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-30585/"
-        },
-        {
           "starts_at": "2025-02-06T16:40:00+00:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-30582/"
@@ -220,11 +136,6 @@
           "starts_at": "2025-02-06T19:40:00+00:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-30587/"
-        },
-        {
-          "starts_at": "2025-02-06T14:00:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-96908/"
         },
         {
           "starts_at": "2025-02-06T16:30:00+00:00",
@@ -250,11 +161,6 @@
           "url": "https://www.curzon.com/ticketing/seats/ALD1-54481/"
         },
         {
-          "starts_at": "2025-02-06T15:20:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-30657/"
-        },
-        {
           "starts_at": "2025-02-06T17:00:00+00:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-30590/"
@@ -267,25 +173,54 @@
       ]
     },
     {
+      "title": "Nosferatu",
+      "trailer": "https://www.youtube.com/watch?v=Px6S0RxfAHg",
+      "synopsis": "Robert Eggers’ Nosferatu is a gothic tale of obsession between a haunted young woman and the terrifying vampire infatuated with her, causing untold horror in its wake.",
+      "runtime": 132,
+      "times": [
+        {
+          "starts_at": "2025-02-06T20:40:00+00:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-54478/"
+        }
+      ]
+    },
+    {
+      "title": "Companion",
+      "trailer": "https://www.youtube.com/watch?v=NQKaNxDu31I",
+      "synopsis": "Hey you. Tired of swiping? Sick of getting ghosted? Are you feeling like a part of you is missing? FindYourCompanion.com is guaranteed to find you a Companion who’s made for you.",
+      "runtime": 97,
+      "times": [
+        {
+          "starts_at": "2025-02-06T21:10:00+00:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-54480/"
+        }
+      ]
+    },
+    {
+      "title": "Presence",
+      "trailer": "https://www.youtube.com/watch?v=7fOJyQtJSFU",
+      "synopsis": "A family moves into a suburban house and becomes convinced they’re not alone.",
+      "runtime": 85,
+      "times": [
+        {
+          "starts_at": "2025-02-06T21:15:00+00:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-54477/"
+        }
+      ]
+    },
+    {
       "title": "Hard Truths",
       "trailer": "https://www.youtube.com/watch?v=gFuEZfZUKIk",
       "synopsis": "From acclaimed filmmaker Mike Leigh, comes Hard Truths. Starring BAFTA award-winner Marianne Jean-Baptiste and Michele Austin. Coming soon to cinemas.",
       "runtime": 97,
       "times": [
         {
-          "starts_at": "2025-02-06T12:50:00+00:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-48451/"
-        },
-        {
           "starts_at": "2025-02-06T17:00:00+00:00",
           "site": "Curzon Soho",
           "url": "https://www.curzon.com/ticketing/seats/SOH1-48456/"
-        },
-        {
-          "starts_at": "2025-02-06T14:00:00+00:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-20286/"
         },
         {
           "starts_at": "2025-02-06T17:10:00+00:00",
@@ -293,19 +228,9 @@
           "url": "https://www.curzon.com/ticketing/seats/HOX1-20289/"
         },
         {
-          "starts_at": "2025-02-06T14:10:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-30581/"
-        },
-        {
           "starts_at": "2025-02-06T21:30:00+00:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-30583/"
-        },
-        {
-          "starts_at": "2025-02-06T15:00:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-96919/"
         },
         {
           "starts_at": "2025-02-06T18:10:00+00:00",
@@ -321,11 +246,6 @@
       "runtime": 141,
       "times": [
         {
-          "starts_at": "2025-02-06T13:15:00+00:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-48449/"
-        },
-        {
           "starts_at": "2025-02-06T17:50:00+00:00",
           "site": "Curzon Soho",
           "url": "https://www.curzon.com/ticketing/seats/SOH1-48452/"
@@ -334,11 +254,6 @@
           "starts_at": "2025-02-06T20:40:00+00:00",
           "site": "Curzon Soho",
           "url": "https://www.curzon.com/ticketing/seats/SOH1-48454/"
-        },
-        {
-          "starts_at": "2025-02-06T13:30:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-79034/"
         },
         {
           "starts_at": "2025-02-06T17:30:00+00:00",
@@ -351,16 +266,6 @@
           "url": "https://www.curzon.com/ticketing/seats/VIC1-79044/"
         },
         {
-          "starts_at": "2025-02-06T15:00:00+00:00",
-          "site": "Curzon Mayfair",
-          "url": "https://www.curzon.com/ticketing/seats/MAY1-29178/"
-        },
-        {
-          "starts_at": "2025-02-06T14:40:00+00:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-20281/"
-        },
-        {
           "starts_at": "2025-02-06T17:50:00+00:00",
           "site": "Curzon Hoxton",
           "url": "https://www.curzon.com/ticketing/seats/HOX1-20284/"
@@ -369,11 +274,6 @@
           "starts_at": "2025-02-06T20:40:00+00:00",
           "site": "Curzon Hoxton",
           "url": "https://www.curzon.com/ticketing/seats/HOX1-20288/"
-        },
-        {
-          "starts_at": "2025-02-06T13:50:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-30659/"
         },
         {
           "starts_at": "2025-02-06T18:20:00+00:00",
@@ -409,11 +309,6 @@
       "runtime": 120,
       "times": [
         {
-          "starts_at": "2025-02-06T14:15:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-79036/"
-        },
-        {
           "starts_at": "2025-02-06T16:45:00+00:00",
           "site": "Curzon Victoria",
           "url": "https://www.curzon.com/ticketing/seats/VIC1-79033/"
@@ -436,11 +331,6 @@
       "synopsis": "The new film from the director of Jackie and Spencer, MARIA tells the glamorous, moving story of the iconic opera singer, Maria Callas. Paris, 1977: Once the world’s greatest soprano, Callas now hides in an apartment, having lost her voice and retreated from the world. She dreams of returning to the stage, but can her body and mind take the pressure?\nFeaturing some of Callas’s greatest recordings and starring Angelina Jolie in an Oscarworthy performance, MARIA is a sumptuous drama that hits all the high notes.",
       "runtime": 123,
       "times": [
-        {
-          "starts_at": "2025-02-06T15:00:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-79041/"
-        },
         {
           "starts_at": "2025-02-06T20:15:00+00:00",
           "site": "Curzon Victoria",
@@ -478,11 +368,6 @@
       "runtime": 139,
       "times": [
         {
-          "starts_at": "2025-02-06T14:30:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-30593/"
-        },
-        {
           "starts_at": "2025-02-06T17:40:00+00:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-30594/"
@@ -491,32 +376,6 @@
           "starts_at": "2025-02-06T20:50:00+00:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-30595/"
-        }
-      ]
-    },
-    {
-      "title": "All We Imagine as Light",
-      "trailer": "https://www.youtube.com/watch?v=Yf1jAx6VhZ8",
-      "synopsis": "All We Imagine as Light is a beautiful, sweeping, emotional film that explores the complexities of female friendship and captures the frantic pace, the vibrant colours and the heady atmosphere of modern Mumbai.\n\nIn the city, thoughtful Nurse Prabha’s routine is upset when she receives an unexpected gift from her estranged husband. Her younger, flightier and rebellious roommate, Anu, tries in vain to find a spot in the city to be intimate with her secret boyfriend. Their colleague Parvaty fights to stay in her home without any requisite paperwork left by her late husband. A trip to a beach town allows them each to find a space for their desires to manifest. \n\nPayal Kapadia’s hugely acclaimed fiction debut was the first Indian film to be selected in Official Competition at Cannes in three decades, where it was awarded the Grand Prix.\n",
-      "runtime": 118,
-      "times": [
-        {
-          "starts_at": "2025-02-06T14:00:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-96917/"
-        }
-      ]
-    },
-    {
-      "title": "DocHouse: Soundtrack to a Coup d'État",
-      "trailer": "https://www.youtube.com/watch?v=sHjUJjaG0q0",
-      "synopsis": "Jazz and decolonization are entwined in this historical rollercoaster that rewrites the Cold War episode that led musicians Abbey Lincoln and Max Roach to crash the UN Security Council in protest against the murder of Patrice Lumumba.",
-      "runtime": 150,
-      "times": [
-        {
-          "starts_at": "2025-02-06T15:10:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-96978/"
         }
       ]
     },
