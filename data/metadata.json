@@ -18,7 +18,7 @@
     "release_date": "2024-09-21"
   },
   "Anora": {
-    "backdrop": "https://image.tmdb.org/t/p/w500//4YN6AfYIKyfZ1aB0cYEWROv76nU.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w500//4cp40IyTpFfsT2IKpl0YlUkMBIR.jpg",
     "poster": "https://image.tmdb.org/t/p/w500//7MrgIUeq0DD2iF7GR6wqJfYZNeC.jpg",
     "overview": "A young sex worker from Brooklyn gets her chance at a Cinderella story when she meets and impulsively marries the son of an oligarch. Once the news reaches Russia, her fairytale is threatened as his parents set out to get the marriage annulled.",
     "release_date": "2024-10-14"
@@ -28,6 +28,12 @@
     "poster": "https://image.tmdb.org/t/p/w500//A8HbTd0FemZyFCh5qvJFpHGiwF8.jpg",
     "overview": "A high-powered CEO puts her career and family on the line when she begins a torrid affair with her much younger intern.",
     "release_date": "2024-12-25"
+  },
+  "Bridget Jones: Mad About the Boy": {
+    "backdrop": "https://image.tmdb.org/t/p/w500//z0L9XMfZxRcsirTCVTp8bV3ufzG.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500//taEVBdVSqYo9YeN3ycw2SosklZL.jpg",
+    "overview": "Now a widowed mother of two in her fifties, Bridget Jones feels lost in the world of app-based dating. However, romance unexpectedly sparks with her son’s science teacher… and a much younger man.",
+    "release_date": "2025-02-12"
   },
   "Bring Them Down": {
     "backdrop": "https://image.tmdb.org/t/p/w500//lzoSUZpPdHpudMzY0qpDLh9jEsP.jpg",
@@ -132,7 +138,7 @@
     "release_date": "2025-01-17"
   },
   "September 5": {
-    "backdrop": "https://image.tmdb.org/t/p/w500//s1PW2xCJPehFP4J5YNkg8GecBU7.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w500//s9bxPLfocgcq2QXx0zTJgY9gOJt.jpg",
     "poster": "https://image.tmdb.org/t/p/w500//3kcQOLwYKGPwyjiynFsvP8vHvRn.jpg",
     "overview": "During the 1972 Munich Olympics, an American sports broadcasting crew finds itself thrust into covering the hostage crisis involving Israeli athletes.",
     "release_date": "2024-11-07"
@@ -160,5 +166,17 @@
     "poster": "https://image.tmdb.org/t/p/w500//pxHFHJ2N4BAO5t9vJJyIK0f2Wbf.jpg",
     "overview": "Investigating judge Iman grapples with paranoia amid political unrest in Tehran. When his gun vanishes, he suspects his wife and daughters, imposing draconian measures that strain family ties as societal rules crumble.",
     "release_date": "2024-09-18"
+  },
+  "The Watermelon Woman": {
+    "backdrop": "https://image.tmdb.org/t/p/w500//l0YhkeRNks3mPdjxd2VgAFtKplB.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500//uZRCGzs5y5nPxvY52XkQFXmQVBY.jpg",
+    "overview": "A young black lesbian filmmaker probes into the life of The Watermelon Woman, a 1930s black actress who played 'mammy' archetypes.",
+    "release_date": "1997-03-05"
+  },
+  "Thelma & Louise": {
+    "backdrop": "https://image.tmdb.org/t/p/w500//gXPtXbvI0nfLihu1dXgehAxsvm1.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500//y66rxathLobXk7xaUgPr4etBkRN.jpg",
+    "overview": "Taking a break from their dreary lives, close friends Thelma and Louise embark on a short weekend trip that ends in unforeseen incriminating circumstances. As fugitives, both women rediscover the strength of their bond and their newfound resilience.",
+    "release_date": "1991-05-24"
   }
 }
