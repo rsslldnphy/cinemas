@@ -1,62 +1,6 @@
 {
   "2025-02-10": [
     {
-      "title": "Emilia Pérez",
-      "trailer": null,
-      "synopsis": "From renegade auteur Jacques Audiard comes Emilia Pérez, an audacious fever dream that defies genres and expectations. Through liberating song and dance and bold visuals, this odyssey follows the journey of four remarkable women in Mexico, each pursuing their own happiness. The fearsome cartel leader Emilia (Karla Sofía Gascón) enlists Rita (Zoe Saldaña), an unappreciated lawyer stuck in a dead-end job, to help fake her death so that Emilia can finally live authentically as her true self. ",
-      "runtime": 132,
-      "times": [
-        {
-          "starts_at": "2025-02-10T10:30:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-54534/"
-        },
-        {
-          "starts_at": "2025-02-10T17:40:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-54532/"
-        },
-        {
-          "starts_at": "2025-02-10T20:15:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-79285/"
-        },
-        {
-          "starts_at": "2025-02-10T11:00:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-30825/"
-        },
-        {
-          "starts_at": "2025-02-10T18:00:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-30831/"
-        },
-        {
-          "starts_at": "2025-02-10T12:00:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-97019/"
-        },
-        {
-          "starts_at": "2025-02-10T17:40:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-97015/"
-        }
-      ]
-    },
-    {
-      "title": "Presence",
-      "trailer": "https://www.youtube.com/watch?v=7fOJyQtJSFU",
-      "synopsis": "A family moves into a suburban house and becomes convinced they’re not alone.",
-      "runtime": 85,
-      "times": [
-        {
-          "starts_at": "2025-02-10T12:20:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-54535/"
-        }
-      ]
-    },
-    {
       "title": "Companion",
       "trailer": "https://www.youtube.com/watch?v=NQKaNxDu31I",
       "synopsis": "Hey you. Tired of swiping? Sick of getting ghosted? Are you feeling like a part of you is missing? FindYourCompanion.com is guaranteed to find you a Companion who’s made for you.",
@@ -126,11 +70,6 @@
           "url": "https://www.curzon.com/ticketing/seats/MAY1-29222/"
         },
         {
-          "starts_at": "2025-02-10T10:40:00+00:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-20354/"
-        },
-        {
           "starts_at": "2025-02-10T13:20:00+00:00",
           "site": "Curzon Hoxton",
           "url": "https://www.curzon.com/ticketing/seats/HOX1-20352/"
@@ -139,11 +78,6 @@
           "starts_at": "2025-02-10T19:20:00+00:00",
           "site": "Curzon Hoxton",
           "url": "https://www.curzon.com/ticketing/seats/HOX1-20356/"
-        },
-        {
-          "starts_at": "2025-02-10T11:30:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-30834/"
         },
         {
           "starts_at": "2025-02-10T16:20:00+00:00",
@@ -204,19 +138,9 @@
           "url": "https://www.curzon.com/ticketing/seats/MAY1-29221/"
         },
         {
-          "starts_at": "2025-02-10T11:15:00+00:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-20358/"
-        },
-        {
           "starts_at": "2025-02-10T17:20:00+00:00",
           "site": "Curzon Hoxton",
           "url": "https://www.curzon.com/ticketing/seats/HOX1-20353/"
-        },
-        {
-          "starts_at": "2025-02-10T12:20:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-30838/"
         },
         {
           "starts_at": "2025-02-10T17:00:00+00:00",
@@ -257,19 +181,9 @@
           "url": "https://www.curzon.com/ticketing/seats/ALD1-54523/"
         },
         {
-          "starts_at": "2025-02-10T12:15:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-79275/"
-        },
-        {
           "starts_at": "2025-02-10T17:30:00+00:00",
           "site": "Curzon Victoria",
           "url": "https://www.curzon.com/ticketing/seats/VIC1-79268/"
-        },
-        {
-          "starts_at": "2025-02-10T12:00:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-30827/"
         },
         {
           "starts_at": "2025-02-10T18:40:00+00:00",
@@ -285,6 +199,34 @@
           "starts_at": "2025-02-10T21:00:00+00:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-97021/"
+        }
+      ]
+    },
+    {
+      "title": "Emilia Pérez",
+      "trailer": null,
+      "synopsis": "From renegade auteur Jacques Audiard comes Emilia Pérez, an audacious fever dream that defies genres and expectations. Through liberating song and dance and bold visuals, this odyssey follows the journey of four remarkable women in Mexico, each pursuing their own happiness. The fearsome cartel leader Emilia (Karla Sofía Gascón) enlists Rita (Zoe Saldaña), an unappreciated lawyer stuck in a dead-end job, to help fake her death so that Emilia can finally live authentically as her true self. ",
+      "runtime": 132,
+      "times": [
+        {
+          "starts_at": "2025-02-10T17:40:00+00:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-54532/"
+        },
+        {
+          "starts_at": "2025-02-10T20:15:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-79285/"
+        },
+        {
+          "starts_at": "2025-02-10T18:00:00+00:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-30831/"
+        },
+        {
+          "starts_at": "2025-02-10T17:40:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-97015/"
         }
       ]
     },
@@ -340,59 +282,11 @@
       ]
     },
     {
-      "title": "The Seed of the Sacred Fig",
-      "trailer": "https://www.youtube.com/watch?v=NX1azcAduRc",
-      "synopsis": "Iman works as an investigating judge at the Revolutionary Court in Tehran. As the nationwide political protests against the authoritarian government intensify, he is surrounded by suspicion and paranoia. When his gun vanishes, Iman suspects his wife Najmeh and his daughters Rezvan and Sana, imposing draconian measures that strain family ties as societal rules crumble.",
-      "runtime": 167,
-      "times": [
-        {
-          "starts_at": "2025-02-10T11:20:00+00:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-48547/"
-        },
-        {
-          "starts_at": "2025-02-10T17:30:00+00:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-48548/"
-        },
-        {
-          "starts_at": "2025-02-10T17:40:00+00:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-20212/"
-        },
-        {
-          "starts_at": "2025-02-10T11:40:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-97025/"
-        },
-        {
-          "starts_at": "2025-02-10T14:20:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-97018/"
-        },
-        {
-          "starts_at": "2025-02-10T17:30:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-97027/"
-        },
-        {
-          "starts_at": "2025-02-10T20:10:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-97022/"
-        }
-      ]
-    },
-    {
       "title": "Bring Them Down",
       "trailer": "https://www.youtube.com/watch?v=7pIKR6UBogs",
       "synopsis": "Starring Oscar-nominee Barry Keoghan (Saltburn) and Christopher Abbott (Possessor), BRING THEM DOWN is a tense and gripping thriller about two warring families set against the harsh landscape of rural west Ireland. When the ongoing rivalry between farmers Michael (Abbott) and Jack (Keoghan) suddenly escalates, it triggers a chain of events that take increasingly violent turns, leaving both families permanently altered. From award-winning first-time filmmaker Christopher Andrews and co-starring Colm Meaney, Paul Ready and Nora-Jane Noone, this is a fierce, muscular debut that signals a bold new cinematic voice.",
       "runtime": 106,
       "times": [
-        {
-          "starts_at": "2025-02-10T11:40:00+00:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-48544/"
-        },
         {
           "starts_at": "2025-02-10T15:00:00+00:00",
           "site": "Curzon Soho",
@@ -402,11 +296,6 @@
           "starts_at": "2025-02-10T20:30:00+00:00",
           "site": "Curzon Soho",
           "url": "https://www.curzon.com/ticketing/seats/SOH1-48507/"
-        },
-        {
-          "starts_at": "2025-02-10T11:15:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-79284/"
         },
         {
           "starts_at": "2025-02-10T18:15:00+00:00",
@@ -426,25 +315,48 @@
       ]
     },
     {
+      "title": "The Seed of the Sacred Fig",
+      "trailer": "https://www.youtube.com/watch?v=NX1azcAduRc",
+      "synopsis": "Iman works as an investigating judge at the Revolutionary Court in Tehran. As the nationwide political protests against the authoritarian government intensify, he is surrounded by suspicion and paranoia. When his gun vanishes, Iman suspects his wife Najmeh and his daughters Rezvan and Sana, imposing draconian measures that strain family ties as societal rules crumble.",
+      "runtime": 167,
+      "times": [
+        {
+          "starts_at": "2025-02-10T17:30:00+00:00",
+          "site": "Curzon Soho",
+          "url": "https://www.curzon.com/ticketing/seats/SOH1-48548/"
+        },
+        {
+          "starts_at": "2025-02-10T17:40:00+00:00",
+          "site": "Curzon Hoxton",
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-20212/"
+        },
+        {
+          "starts_at": "2025-02-10T14:20:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-97018/"
+        },
+        {
+          "starts_at": "2025-02-10T17:30:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-97027/"
+        },
+        {
+          "starts_at": "2025-02-10T20:10:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-97022/"
+        }
+      ]
+    },
+    {
       "title": "Hard Truths",
       "trailer": "https://www.youtube.com/watch?v=gFuEZfZUKIk",
       "synopsis": "From acclaimed filmmaker Mike Leigh, comes Hard Truths. Starring BAFTA award-winner Marianne Jean-Baptiste and Michele Austin. Coming soon to cinemas.",
       "runtime": 97,
       "times": [
         {
-          "starts_at": "2025-02-10T12:15:00+00:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-48543/"
-        },
-        {
           "starts_at": "2025-02-10T18:00:00+00:00",
           "site": "Curzon Soho",
           "url": "https://www.curzon.com/ticketing/seats/SOH1-48540/"
-        },
-        {
-          "starts_at": "2025-02-10T11:00:00+00:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-20351/"
         },
         {
           "starts_at": "2025-02-10T17:00:00+00:00",
@@ -452,14 +364,78 @@
           "url": "https://www.curzon.com/ticketing/seats/HOX1-20355/"
         },
         {
-          "starts_at": "2025-02-10T11:30:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-97030/"
-        },
-        {
           "starts_at": "2025-02-10T17:15:00+00:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-97031/"
+        }
+      ]
+    },
+    {
+      "title": "A Real Pain",
+      "trailer": "https://www.youtube.com/watch?v=lGeZQWMMDgM",
+      "synopsis": "Mismatched cousins David and Benji reunite for a tour through Poland to honor their beloved grandmother. The adventure takes a turn when the odd-couple's old tensions resurface against the backdrop of their family history.",
+      "runtime": 90,
+      "times": [
+        {
+          "starts_at": "2025-02-10T13:30:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-79348/"
+        },
+        {
+          "starts_at": "2025-02-10T14:30:00+00:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-30833/"
+        },
+        {
+          "starts_at": "2025-02-10T18:00:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-97023/"
+        }
+      ]
+    },
+    {
+      "title": "Conclave",
+      "trailer": "https://www.youtube.com/watch?v=Znr38bHNXp4",
+      "synopsis": "CONCLAVE follows one of the world’s most secretive and ancient events – selecting the new Pope. Cardinal Lawrence (Ralph Fiennes) is tasked with running this covert process after the unexpected death of the beloved Pope. Once the Catholic Church’s most powerful leaders have gathered from around the world and are locked together in the Vatican halls, Lawrence uncovers a trail of deep secrets left in the dead Pope’s wake, secrets which could shake the foundations of the Church.",
+      "runtime": 120,
+      "times": [
+        {
+          "starts_at": "2025-02-10T14:30:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-79283/"
+        },
+        {
+          "starts_at": "2025-02-10T18:00:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-79271/"
+        },
+        {
+          "starts_at": "2025-02-10T21:00:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-79277/"
+        },
+        {
+          "starts_at": "2025-02-10T20:30:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-97028/"
+        }
+      ]
+    },
+    {
+      "title": "Babygirl",
+      "trailer": "https://www.youtube.com/watch?v=dq_bnfZy9-g",
+      "synopsis": "Despite the risk and prejudices, a very successful CEO begins an illicit affair with her much younger intern.",
+      "runtime": 114,
+      "times": [
+        {
+          "starts_at": "2025-02-10T14:45:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-79282/"
+        },
+        {
+          "starts_at": "2025-02-10T14:20:00+00:00",
+          "site": "Curzon Hoxton",
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-20359/"
         }
       ]
     },
@@ -470,11 +446,6 @@
       "runtime": 95,
       "times": [
         {
-          "starts_at": "2025-02-10T11:00:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-79274/"
-        },
-        {
           "starts_at": "2025-02-10T15:45:00+00:00",
           "site": "Curzon Victoria",
           "url": "https://www.curzon.com/ticketing/seats/VIC1-79281/"
@@ -483,11 +454,6 @@
           "starts_at": "2025-02-10T17:15:00+00:00",
           "site": "Curzon Victoria",
           "url": "https://www.curzon.com/ticketing/seats/VIC1-79279/"
-        },
-        {
-          "starts_at": "2025-02-10T12:20:00+00:00",
-          "site": "Curzon Mayfair",
-          "url": "https://www.curzon.com/ticketing/seats/MAY1-29220/"
         },
         {
           "starts_at": "2025-02-10T17:00:00+00:00",
@@ -515,47 +481,9 @@
           "url": "https://www.curzon.com/ticketing/seats/CAM1-30830/"
         },
         {
-          "starts_at": "2025-02-10T11:50:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-97020/"
-        },
-        {
           "starts_at": "2025-02-10T17:50:00+00:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-97016/"
-        }
-      ]
-    },
-    {
-      "title": "Conclave",
-      "trailer": "https://www.youtube.com/watch?v=Znr38bHNXp4",
-      "synopsis": "CONCLAVE follows one of the world’s most secretive and ancient events – selecting the new Pope. Cardinal Lawrence (Ralph Fiennes) is tasked with running this covert process after the unexpected death of the beloved Pope. Once the Catholic Church’s most powerful leaders have gathered from around the world and are locked together in the Vatican halls, Lawrence uncovers a trail of deep secrets left in the dead Pope’s wake, secrets which could shake the foundations of the Church.",
-      "runtime": 120,
-      "times": [
-        {
-          "starts_at": "2025-02-10T11:30:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-79273/"
-        },
-        {
-          "starts_at": "2025-02-10T14:30:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-79283/"
-        },
-        {
-          "starts_at": "2025-02-10T18:00:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-79271/"
-        },
-        {
-          "starts_at": "2025-02-10T21:00:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-79277/"
-        },
-        {
-          "starts_at": "2025-02-10T20:30:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-97028/"
         }
       ]
     },
@@ -566,11 +494,6 @@
       "runtime": 123,
       "times": [
         {
-          "starts_at": "2025-02-10T11:45:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-79290/"
-        },
-        {
           "starts_at": "2025-02-10T17:45:00+00:00",
           "site": "Curzon Mayfair",
           "url": "https://www.curzon.com/ticketing/seats/MAY1-29224/"
@@ -579,52 +502,6 @@
           "starts_at": "2025-02-10T14:50:00+00:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-97026/"
-        }
-      ]
-    },
-    {
-      "title": "A Real Pain",
-      "trailer": "https://www.youtube.com/watch?v=lGeZQWMMDgM",
-      "synopsis": "Mismatched cousins David and Benji reunite for a tour through Poland to honor their beloved grandmother. The adventure takes a turn when the odd-couple's old tensions resurface against the backdrop of their family history.",
-      "runtime": 90,
-      "times": [
-        {
-          "starts_at": "2025-02-10T13:30:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-79348/"
-        },
-        {
-          "starts_at": "2025-02-10T14:30:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-30833/"
-        },
-        {
-          "starts_at": "2025-02-10T12:10:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-97033/"
-        },
-        {
-          "starts_at": "2025-02-10T18:00:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-97023/"
-        }
-      ]
-    },
-    {
-      "title": "Babygirl",
-      "trailer": "https://www.youtube.com/watch?v=dq_bnfZy9-g",
-      "synopsis": "Despite the risk and prejudices, a very successful CEO begins an illicit affair with her much younger intern.",
-      "runtime": 114,
-      "times": [
-        {
-          "starts_at": "2025-02-10T14:45:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-79282/"
-        },
-        {
-          "starts_at": "2025-02-10T14:20:00+00:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-20359/"
         }
       ]
     },
