@@ -7,11 +7,6 @@
       "runtime": 125,
       "times": [
         {
-          "starts_at": "2025-02-14T19:40:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-54700/"
-        },
-        {
           "starts_at": "2025-02-14T20:30:00+00:00",
           "site": "Curzon Aldgate",
           "url": "https://www.curzon.com/ticketing/seats/ALD1-54606/"
@@ -20,11 +15,6 @@
           "starts_at": "2025-02-14T20:50:00+00:00",
           "site": "Curzon Aldgate",
           "url": "https://www.curzon.com/ticketing/seats/ALD1-54151/"
-        },
-        {
-          "starts_at": "2025-02-14T20:00:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-78800/"
         },
         {
           "starts_at": "2025-02-14T21:00:00+00:00",
@@ -50,11 +40,6 @@
           "starts_at": "2025-02-14T20:50:00+00:00",
           "site": "Curzon Hoxton",
           "url": "https://www.curzon.com/ticketing/seats/HOX1-20406/"
-        },
-        {
-          "starts_at": "2025-02-14T18:40:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-30692/"
         },
         {
           "starts_at": "2025-02-14T20:30:00+00:00",
@@ -83,37 +68,6 @@
           "starts_at": "2025-02-14T20:45:00+00:00",
           "site": "Curzon Victoria",
           "url": "https://www.curzon.com/ticketing/seats/VIC1-78791/"
-        }
-      ]
-    },
-    {
-      "title": "Flow",
-      "trailer": null,
-      "synopsis": "Cat is a solitary animal, but as its home is devastated by a great flood, he finds refuge on a boat populated by various species, and will have to team up with them despite their differences.",
-      "runtime": 85,
-      "times": [
-        {
-          "starts_at": "2025-02-14T18:40:00+00:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-48581/"
-        }
-      ]
-    },
-    {
-      "title": "The Brutalist",
-      "trailer": "https://www.youtube.com/watch?v=hNiwPU5vjCk",
-      "synopsis": "When visionary architect László Toth and his wife Erzsébet flee post-war Europe in 1947 to rebuild their legacy and witness the birth of modern America, their lives are changed forever by a mysterious and wealthy client.\r\n\r\nThe Brutalist is showing with a 15 minute interval.",
-      "runtime": 215,
-      "times": [
-        {
-          "starts_at": "2025-02-14T19:30:00+00:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-48615/"
-        },
-        {
-          "starts_at": "2025-02-14T19:40:00+00:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-20447/"
         }
       ]
     },
@@ -175,32 +129,6 @@
       ]
     },
     {
-      "title": "Memoir of a Snail",
-      "trailer": "https://www.youtube.com/watch?v=YLo-poVoqKc",
-      "synopsis": "Grace Pudel is a lonely misfit with an affinity for collecting ornamental snails and an intense love for books. At a young age, when Grace is separated from her fire-breathing twin brother Gilbert, she falls into a spiral of anxiety and angst. Despite a continued series of hardships, inspiration and hope emerge when she strikes up an enduring friendship with an elderly eccentric woman named Pinky, who is full of grit and lust for life. From Academy Award® winning animation writer and director Adam Elliot, MEMOIR OF A SNAIL is a poignant, heartfelt and hilarious chronicle of the life of an outsider finding her confidence and silver linings amongst the clutter of everyday life.",
-      "runtime": 94,
-      "times": [
-        {
-          "starts_at": "2025-02-14T19:00:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-31026/"
-        }
-      ]
-    },
-    {
-      "title": "Anora",
-      "trailer": null,
-      "synopsis": "Anora, a young sex worker from Brooklyn, meets and impulsively marries the son of an oligarch. Once the news reaches Russia, her fairytale is threatened as the parents set out for New York to get the marriage annulled.",
-      "runtime": 139,
-      "times": [
-        {
-          "starts_at": "2025-02-14T20:10:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-31031/"
-        }
-      ]
-    },
-    {
       "title": "A Real Pain",
       "trailer": "https://www.youtube.com/watch?v=lGeZQWMMDgM",
       "synopsis": "Mismatched cousins David and Benji reunite for a tour through Poland to honor their beloved grandmother. The adventure takes a turn when the odd-couple's old tensions resurface against the backdrop of their family history.",
@@ -223,19 +151,6 @@
           "starts_at": "2025-02-14T21:30:00+00:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-31030/"
-        }
-      ]
-    },
-    {
-      "title": "DocHouse: Black Box Diaries",
-      "trailer": null,
-      "synopsis": "Journalist Shiori Ito documents her courageous investigation into her own sexual assault, after Japanese police refuse to take forward her report of rape by a high-profile, well-connected public figure.\r\n\r\nTenaciously, Shiori gathers evidence and testimony, fighting to bring about a prosecution and exposing Japan's outdated judicial and societal systems.\r\n\r\nAs both subject and director of this essential film, Shiori determinedly takes control of her own narrative.\r\n",
-      "runtime": 104,
-      "times": [
-        {
-          "starts_at": "2025-02-14T20:20:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-96820/"
         }
       ]
     },
