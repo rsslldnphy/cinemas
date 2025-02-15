@@ -345,11 +345,6 @@
           "url": "https://www.curzon.com/ticketing/seats/CAM1-30972/"
         },
         {
-          "starts_at": "2025-02-15T13:15:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-97300/"
-        },
-        {
           "starts_at": "2025-02-15T19:30:00+00:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-97302/"
@@ -376,11 +371,6 @@
           "starts_at": "2025-02-15T11:50:00+00:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-97306/"
-        },
-        {
-          "starts_at": "2025-02-15T17:40:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-97304/"
         },
         {
           "starts_at": "2025-02-15T20:10:00+00:00",
@@ -754,6 +744,19 @@
           "starts_at": "2025-02-15T15:30:00+00:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-96481/"
+        }
+      ]
+    },
+    {
+      "title": "DocHouse: No Other Land",
+      "trailer": null,
+      "synopsis": "Basel Adra, a young Palestinian activist from Masafer Yatta, has been fighting his community's mass expulsion by the Israeli occupation since childhood. Basel documents the gradual erasure of Masafer Yatta, as soldiers destroy the homes of families - the largest single act of forced transfer ever carried out in the occupied West Bank. He crosses paths with Yuval, an Israeli journalist who joins his struggle, and for over half a decade they fight against the expulsion while growing closer. Their complex bond is haunted by the extreme inequality between them: Basel, living under a brutal military occupation, and Yuval, unrestricted and free. \r\n\r\nThis film, by a Palestinian-Israeli collective of four young activists, was co-created during the darkest, most terrifying times in the region, as an act of creative resistance to Apartheid and a search for a path towards equality and justice.",
+      "runtime": 96,
+      "times": [
+        {
+          "starts_at": "2025-02-15T16:00:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-96818/"
         }
       ]
     },
