@@ -1,16 +1,59 @@
 {
   "2025-02-22": [
     {
+      "title": "The Brutalist",
+      "trailer": "https://www.youtube.com/watch?v=hNiwPU5vjCk",
+      "synopsis": "When visionary architect László Toth and his wife Erzsébet flee post-war Europe in 1947 to rebuild their legacy and witness the birth of modern America, their lives are changed forever by a mysterious and wealthy client.\r\n\r\nThe Brutalist is showing with a 15 minute interval.",
+      "runtime": 215,
+      "times": [
+        {
+          "starts_at": "2025-02-22T13:20:00+00:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-54738/"
+        },
+        {
+          "starts_at": "2025-02-22T19:30:00+00:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-54818/"
+        },
+        {
+          "starts_at": "2025-02-22T14:30:00+00:00",
+          "site": "Curzon Soho",
+          "url": "https://www.curzon.com/ticketing/seats/SOH1-48703/"
+        },
+        {
+          "starts_at": "2025-02-22T19:00:00+00:00",
+          "site": "Curzon Soho",
+          "url": "https://www.curzon.com/ticketing/seats/SOH1-48708/"
+        },
+        {
+          "starts_at": "2025-02-22T19:30:00+00:00",
+          "site": "Curzon Hoxton",
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-20478/"
+        },
+        {
+          "starts_at": "2025-02-22T19:30:00+00:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-31059/"
+        },
+        {
+          "starts_at": "2025-02-22T16:40:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-97388/"
+        },
+        {
+          "starts_at": "2025-02-22T19:30:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-97390/"
+        }
+      ]
+    },
+    {
       "title": "Bridget Jones: Mad About the Boy",
       "trailer": "https://www.youtube.com/watch?v=fc5zbSCgudA",
       "synopsis": "Two-time Academy Award® winner RENÉE ZELLWEGER returns to the role that established a romantic-comedy heroine for the ages, a woman whose inimitable approach to life and love redefined an entire film genre.\n\nBridget Jones first exploded onto bookshelves in HELEN FIELDING’s literary phenomenon Bridget Jones’s Diary, which became a global bestseller and a blockbuster film. As a single career woman living in London, Bridget Jones not only introduced the world to her romantic adventures, but added “Singletons,” “Smug Marrieds” and “f---wittage” into the global lexicon. Bridget’s ability to triumph despite adversity led her to finally marry top lawyer Mark Darcy (Academy Award® winner COLIN FIRTH) and to become the mother of their baby boy. Happiness at last.\n\nBut in Bridget Jones: Mad About the Boy, Bridget is alone once again, widowed four years ago, when Mark was killed on a humanitarian mission in the Sudan. She’s now a single mother to 10-year-old Billy (CASPER KNOPF, Halo) and 6-year-old Mabel (newcomer MILA JANKOVIC), and is stuck in a state of emotional limbo, raising her children with help from her loyal friends, including her former lover, Daniel Cleaver (HUGH GRANT).\n",
       "runtime": 125,
       "times": [
-        {
-          "starts_at": "2025-02-22T10:50:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-54724/"
-        },
         {
           "starts_at": "2025-02-22T13:40:00+00:00",
           "site": "Curzon Aldgate",
@@ -35,16 +78,6 @@
           "starts_at": "2025-02-22T21:00:00+00:00",
           "site": "Curzon Aldgate",
           "url": "https://www.curzon.com/ticketing/seats/ALD1-54737/"
-        },
-        {
-          "starts_at": "2025-02-22T11:30:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-79623/"
-        },
-        {
-          "starts_at": "2025-02-22T12:00:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-79181/"
         },
         {
           "starts_at": "2025-02-22T14:00:00+00:00",
@@ -92,11 +125,6 @@
           "url": "https://www.curzon.com/ticketing/seats/VIC1-79182/"
         },
         {
-          "starts_at": "2025-02-22T11:40:00+00:00",
-          "site": "Curzon Mayfair",
-          "url": "https://www.curzon.com/ticketing/seats/MAY1-29282/"
-        },
-        {
           "starts_at": "2025-02-22T14:40:00+00:00",
           "site": "Curzon Mayfair",
           "url": "https://www.curzon.com/ticketing/seats/MAY1-29281/"
@@ -112,11 +140,6 @@
           "url": "https://www.curzon.com/ticketing/seats/MAY1-29279/"
         },
         {
-          "starts_at": "2025-02-22T11:40:00+00:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-20480/"
-        },
-        {
           "starts_at": "2025-02-22T15:20:00+00:00",
           "site": "Curzon Hoxton",
           "url": "https://www.curzon.com/ticketing/seats/HOX1-20476/"
@@ -130,11 +153,6 @@
           "starts_at": "2025-02-22T20:40:00+00:00",
           "site": "Curzon Hoxton",
           "url": "https://www.curzon.com/ticketing/seats/HOX1-20479/"
-        },
-        {
-          "starts_at": "2025-02-22T11:40:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-31051/"
         },
         {
           "starts_at": "2025-02-22T14:40:00+00:00",
@@ -159,34 +177,11 @@
       ]
     },
     {
-      "title": "Companion",
-      "trailer": "https://www.youtube.com/watch?v=NQKaNxDu31I",
-      "synopsis": "Hey you. Tired of swiping? Sick of getting ghosted? Are you feeling like a part of you is missing? FindYourCompanion.com is guaranteed to find you a Companion who’s made for you.",
-      "runtime": 97,
-      "times": [
-        {
-          "starts_at": "2025-02-22T11:00:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-54820/"
-        },
-        {
-          "starts_at": "2025-02-22T16:40:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-54739/"
-        }
-      ]
-    },
-    {
       "title": "Captain America: Brave New World",
       "trailer": "https://www.youtube.com/watch?v=t2BVzqHT-5s",
       "synopsis": "After meeting with newly elected U.S. President Thaddeus Ross, played by Harrison Ford in his Marvel Cinematic Universe debut, Sam finds himself in the middle of an international incident. He must discover the reason behind a nefarious global plot before the true mastermind has the entire world seeing red.",
       "runtime": 118,
       "times": [
-        {
-          "starts_at": "2025-02-22T11:20:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-54721/"
-        },
         {
           "starts_at": "2025-02-22T15:20:00+00:00",
           "site": "Curzon Aldgate",
@@ -220,78 +215,15 @@
       ]
     },
     {
-      "title": "Nosferatu",
-      "trailer": "https://www.youtube.com/watch?v=Px6S0RxfAHg",
-      "synopsis": "Robert Eggers’ Nosferatu is a gothic tale of obsession between a haunted young woman and the terrifying vampire infatuated with her, causing untold horror in its wake.",
-      "runtime": 132,
+      "title": "Companion",
+      "trailer": "https://www.youtube.com/watch?v=NQKaNxDu31I",
+      "synopsis": "Hey you. Tired of swiping? Sick of getting ghosted? Are you feeling like a part of you is missing? FindYourCompanion.com is guaranteed to find you a Companion who’s made for you.",
+      "runtime": 97,
       "times": [
-        {
-          "starts_at": "2025-02-22T12:20:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-54734/"
-        }
-      ]
-    },
-    {
-      "title": "The Brutalist",
-      "trailer": "https://www.youtube.com/watch?v=hNiwPU5vjCk",
-      "synopsis": "When visionary architect László Toth and his wife Erzsébet flee post-war Europe in 1947 to rebuild their legacy and witness the birth of modern America, their lives are changed forever by a mysterious and wealthy client.\r\n\r\nThe Brutalist is showing with a 15 minute interval.",
-      "runtime": 215,
-      "times": [
-        {
-          "starts_at": "2025-02-22T13:20:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-54738/"
-        },
-        {
-          "starts_at": "2025-02-22T19:30:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-54818/"
-        },
-        {
-          "starts_at": "2025-02-22T14:30:00+00:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-48703/"
-        },
-        {
-          "starts_at": "2025-02-22T19:00:00+00:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-48708/"
-        },
-        {
-          "starts_at": "2025-02-22T11:00:00+00:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-20473/"
-        },
-        {
-          "starts_at": "2025-02-22T19:30:00+00:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-20478/"
-        },
-        {
-          "starts_at": "2025-02-22T10:45:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-31056/"
-        },
-        {
-          "starts_at": "2025-02-22T19:30:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-31059/"
-        },
-        {
-          "starts_at": "2025-02-22T11:10:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-97386/"
-        },
         {
           "starts_at": "2025-02-22T16:40:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-97388/"
-        },
-        {
-          "starts_at": "2025-02-22T19:30:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-97390/"
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-54739/"
         }
       ]
     },
@@ -334,85 +266,6 @@
       ]
     },
     {
-      "title": "Hard Truths",
-      "trailer": "https://www.youtube.com/watch?v=gFuEZfZUKIk",
-      "synopsis": "From acclaimed filmmaker Mike Leigh, comes Hard Truths. Starring BAFTA award-winner Marianne Jean-Baptiste and Michele Austin. Coming soon to cinemas.",
-      "runtime": 97,
-      "times": [
-        {
-          "starts_at": "2025-02-22T11:00:00+00:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-48724/"
-        }
-      ]
-    },
-    {
-      "title": "A Complete Unknown",
-      "trailer": "https://www.youtube.com/watch?v=Nsvexi2Ulbs",
-      "synopsis": "Set in the influential New York music scene of the early 60s, A COMPLETE UNKNOWN follows 19-year-old Minnesota musician BOB DYLAN’s (Timothée Chalamet) meteoric rise as a folk singer to concert halls and the top of the charts – his songs and mystique becoming a worldwide sensation – culminating in his groundbreaking electric rock and roll performance at the Newport Folk Festival in 1965.",
-      "runtime": 141,
-      "times": [
-        {
-          "starts_at": "2025-02-22T11:20:00+00:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-48723/"
-        },
-        {
-          "starts_at": "2025-02-22T17:00:00+00:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-48720/"
-        },
-        {
-          "starts_at": "2025-02-22T14:45:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-79541/"
-        },
-        {
-          "starts_at": "2025-02-22T16:20:00+00:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-20475/"
-        },
-        {
-          "starts_at": "2025-02-22T11:00:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-31061/"
-        },
-        {
-          "starts_at": "2025-02-22T17:00:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-31062/"
-        },
-        {
-          "starts_at": "2025-02-22T11:20:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-97391/"
-        },
-        {
-          "starts_at": "2025-02-22T20:50:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-97393/"
-        }
-      ]
-    },
-    {
-      "title": "I Am Martin Parr",
-      "trailer": "https://www.youtube.com/watch?v=60-EJ6RCiTE",
-      "synopsis": "One of the most controversial photographers of his time, Martin Parr’s images often have the power to both amuse and leave us ever so slightly uncomfortable, caught between laughter and the uneasy recognition of ourselves in his uncompromising portrait of consumer society.\n\nThough he’s now celebrated, collected and exhibited worldwide, Parr’s early work did not find an easy public and was highly criticized for trivializing the working class. Yet, in retrospect, perhaps he was just observing what we often overlook - forcing it into the spotlight as an essential topic of discussion. I Am Martin Parr is the definitive portrait of an extraordinary photographer who revolutionized contemporary photography by inventing a political, humanist and accessible photographic language.",
-      "runtime": 67,
-      "times": [
-        {
-          "starts_at": "2025-02-22T12:00:00+00:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-48722/"
-        },
-        {
-          "starts_at": "2025-02-22T20:45:00+00:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-48712/"
-        }
-      ]
-    },
-    {
       "title": "I'm Still Here",
       "trailer": null,
       "synopsis": "Based on Marcelo Rubens Paiva's best-selling memoir in which his mother is forced into activism when her husband was captured by a military regime in Brazil, 1964.",
@@ -427,11 +280,6 @@
           "starts_at": "2025-02-22T17:40:00+00:00",
           "site": "Curzon Soho",
           "url": "https://www.curzon.com/ticketing/seats/SOH1-48503/"
-        },
-        {
-          "starts_at": "2025-02-22T11:15:00+00:00",
-          "site": "Curzon Mayfair",
-          "url": "https://www.curzon.com/ticketing/seats/MAY1-29284/"
         },
         {
           "starts_at": "2025-02-22T17:15:00+00:00",
@@ -449,11 +297,6 @@
           "url": "https://www.curzon.com/ticketing/seats/HOX1-20477/"
         },
         {
-          "starts_at": "2025-02-22T11:20:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-31053/"
-        },
-        {
           "starts_at": "2025-02-22T15:10:00+00:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-31055/"
@@ -462,11 +305,6 @@
           "starts_at": "2025-02-22T20:30:00+00:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-30754/"
-        },
-        {
-          "starts_at": "2025-02-22T11:00:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-97395/"
         },
         {
           "starts_at": "2025-02-22T14:15:00+00:00",
@@ -519,15 +357,48 @@
       ]
     },
     {
-      "title": "Dog Man",
-      "trailer": "https://www.youtube.com/watch?v=IbxJtp_9SpU",
-      "synopsis": "From DreamWorks Animation—creators of the beloved blockbuster franchises Kung Fu Panda, How to Train Your Dragon and The Boss Baby—comes the canine-crime-fighting film adaptation of Dav Pilkey’s New York Times bestselling literary phenomenon: Dog Man.\n\nWhen a faithful police dog and his human police officer owner are injured together on the job, a harebrained but life-saving surgery fuses the two of them together and Dog Man is born. Dog Man is sworn to protect and serve—and fetch, sit and roll over.",
-      "runtime": 89,
+      "title": "A Complete Unknown",
+      "trailer": "https://www.youtube.com/watch?v=Nsvexi2Ulbs",
+      "synopsis": "Set in the influential New York music scene of the early 60s, A COMPLETE UNKNOWN follows 19-year-old Minnesota musician BOB DYLAN’s (Timothée Chalamet) meteoric rise as a folk singer to concert halls and the top of the charts – his songs and mystique becoming a worldwide sensation – culminating in his groundbreaking electric rock and roll performance at the Newport Folk Festival in 1965.",
+      "runtime": 141,
       "times": [
         {
-          "starts_at": "2025-02-22T11:45:00+00:00",
+          "starts_at": "2025-02-22T17:00:00+00:00",
+          "site": "Curzon Soho",
+          "url": "https://www.curzon.com/ticketing/seats/SOH1-48720/"
+        },
+        {
+          "starts_at": "2025-02-22T14:45:00+00:00",
           "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-79542/"
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-79541/"
+        },
+        {
+          "starts_at": "2025-02-22T16:20:00+00:00",
+          "site": "Curzon Hoxton",
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-20475/"
+        },
+        {
+          "starts_at": "2025-02-22T17:00:00+00:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-31062/"
+        },
+        {
+          "starts_at": "2025-02-22T20:50:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-97393/"
+        }
+      ]
+    },
+    {
+      "title": "I Am Martin Parr",
+      "trailer": "https://www.youtube.com/watch?v=60-EJ6RCiTE",
+      "synopsis": "One of the most controversial photographers of his time, Martin Parr’s images often have the power to both amuse and leave us ever so slightly uncomfortable, caught between laughter and the uneasy recognition of ourselves in his uncompromising portrait of consumer society.\n\nThough he’s now celebrated, collected and exhibited worldwide, Parr’s early work did not find an easy public and was highly criticized for trivializing the working class. Yet, in retrospect, perhaps he was just observing what we often overlook - forcing it into the spotlight as an essential topic of discussion. I Am Martin Parr is the definitive portrait of an extraordinary photographer who revolutionized contemporary photography by inventing a political, humanist and accessible photographic language.",
+      "runtime": 67,
+      "times": [
+        {
+          "starts_at": "2025-02-22T20:45:00+00:00",
+          "site": "Curzon Soho",
+          "url": "https://www.curzon.com/ticketing/seats/SOH1-48712/"
         }
       ]
     },
@@ -578,24 +449,6 @@
       ]
     },
     {
-      "title": "Kids Club: Paddington in Peru",
-      "trailer": "https://www.youtube.com/watch?v=ELfvaByE9Rg",
-      "synopsis": "PADDINGTON IN PERU brings Paddington back home to the Peruvian jungle to visit his beloved Aunt Lucy, now a resident at the Home for Retired Bears. With the Brown Family and Mrs Bird in tow, a thrilling adventure ensues when a mysterious disappearance plunges them into an unexpected journey from\nthe Amazon rainforest to the mountain peaks of Peru.\n",
-      "runtime": 106,
-      "times": [
-        {
-          "starts_at": "2025-02-22T10:30:00+00:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-20537/"
-        },
-        {
-          "starts_at": "2025-02-22T10:30:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-30181/"
-        }
-      ]
-    },
-    {
       "title": "Babygirl",
       "trailer": "https://www.youtube.com/watch?v=dq_bnfZy9-g",
       "synopsis": "Despite the risk and prejudices, a very successful CEO begins an illicit affair with her much younger intern.",
@@ -628,11 +481,6 @@
           "starts_at": "2025-02-22T17:20:00+00:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-31058/"
-        },
-        {
-          "starts_at": "2025-02-22T11:50:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-97392/"
         },
         {
           "starts_at": "2025-02-22T18:10:00+00:00",
@@ -678,42 +526,6 @@
       ]
     },
     {
-      "title": "September 5",
-      "trailer": "https://www.youtube.com/watch?v=GGBpfkrr8Ms",
-      "synopsis": "\"September 5\" unveils the decisive moment that forever changed media coverage and continues to impact live news today. Set during the 1972 Munich Summer Olympics, the film follows an American Sports broadcasting team that quickly adapted from sports reporting to live coverage of the Israeli athletes taken hostage. Through this lens, \"September 5\" provides a fresh perspective on the live broadcast seen globally by an estimated one billion people at the time.\n\nAt the heart of the story is Geoff (John Magaro), a young and ambitious producer striving to prove himself to his boss, the legendary TV executive Roone Arledge (Peter Sarsgaard). Together with German interpreter Marianne (Leonie Benesch) and his mentor Marvin Bader (Ben Chaplin), Geoff unexpectedly takes the helm of the live coverage. As narratives shift, time ticks away, and conflicting rumors spread, with the hostages' lives hanging in the balance, Geoff grapples with tough decisions while confronting his own moral compass.",
-      "runtime": 95,
-      "times": [
-        {
-          "starts_at": "2025-02-22T11:40:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-97394/"
-        },
-        {
-          "starts_at": "2025-02-22T17:10:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-97383/"
-        }
-      ]
-    },
-    {
-      "title": "DocHouse: I Am Martin Parr",
-      "trailer": null,
-      "synopsis": "Since the 1970s, English photographer Martin Parr has held up a sometimes tender, sometimes critical and always mischievous mirror to our times, forcing us to take a hard look at how consumer society has shaped our lives. Discover the maverick behind some of the most iconic images of the past century on an intimate and exclusive road trip across England with the uncompromising Parr, whose subjects, frames and colours have revolutionised contemporary photography.",
-      "runtime": 68,
-      "times": [
-        {
-          "starts_at": "2025-02-22T12:00:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-97494/"
-        },
-        {
-          "starts_at": "2025-02-22T20:00:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-96812/"
-        }
-      ]
-    },
-    {
       "title": "DocHouse: Hiding Saddam Hussein",
       "trailer": null,
       "synopsis": "In 2003, the life of an Iraqi farmer changed dramatically when the recently deposed leader of his country, Saddam Hussein, knocked on his door and demanded to be kept hidden.\r\n\r\nFor eight months, the 32-year old farmer, Alaa, hid the ex-dictator, creating a homemade bunker in the garden and inadvertently becoming Hussein's bodyguard, maid, doctor, hairdresser and even friend.\r\n\r\n20 years after US soldiers pulled Saddam Hussein out of the hole, director Halkawt Mustafa - an Iraqi Kurd who fled Hussein's regime himself - tracks down Alaa to learn the incredible story of those 235 days. In his own words, richly illustrated with reconstruction, Alaa describes how they evaded 150,000 US soldiers scouring the countryside for so long, and why.",
@@ -753,6 +565,19 @@
       ]
     },
     {
+      "title": "September 5",
+      "trailer": "https://www.youtube.com/watch?v=GGBpfkrr8Ms",
+      "synopsis": "\"September 5\" unveils the decisive moment that forever changed media coverage and continues to impact live news today. Set during the 1972 Munich Summer Olympics, the film follows an American Sports broadcasting team that quickly adapted from sports reporting to live coverage of the Israeli athletes taken hostage. Through this lens, \"September 5\" provides a fresh perspective on the live broadcast seen globally by an estimated one billion people at the time.\n\nAt the heart of the story is Geoff (John Magaro), a young and ambitious producer striving to prove himself to his boss, the legendary TV executive Roone Arledge (Peter Sarsgaard). Together with German interpreter Marianne (Leonie Benesch) and his mentor Marvin Bader (Ben Chaplin), Geoff unexpectedly takes the helm of the live coverage. As narratives shift, time ticks away, and conflicting rumors spread, with the hostages' lives hanging in the balance, Geoff grapples with tough decisions while confronting his own moral compass.",
+      "runtime": 95,
+      "times": [
+        {
+          "starts_at": "2025-02-22T17:10:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-97383/"
+        }
+      ]
+    },
+    {
       "title": "DocHouse: Intercepted",
       "trailer": null,
       "synopsis": "Ukrainian intelligence services have intercepted thousands of phone calls home made by Russian soldiers in Ukraine since the full scale Russian invasion of February 2022.\r\n\r\nIn an extraordinary and chilling act of juxtaposition, director Oksana Karpovych pairs their tapped conversations with images of the destruction caused by the invasion, and of the day-to-day life of the Ukrainian people who resist and rebuild.\r\n\r\nThe disembodied voices of the soldiers - sometimes filled with heroic illusions, sometimes despondent and despairing - detail the acts of war they have committed in Putin's name. The responses of the people on the other end of the line are equally revealing.\r\n\r\nOksana Karpovych's unforgettable film emerges from the tension between what we see and what we hear, creating a counterpoint of narratives entirely missing from news coverage of the war.",
@@ -762,6 +587,19 @@
           "starts_at": "2025-02-22T18:00:00+00:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-96981/"
+        }
+      ]
+    },
+    {
+      "title": "DocHouse: I Am Martin Parr",
+      "trailer": null,
+      "synopsis": "Since the 1970s, English photographer Martin Parr has held up a sometimes tender, sometimes critical and always mischievous mirror to our times, forcing us to take a hard look at how consumer society has shaped our lives. Discover the maverick behind some of the most iconic images of the past century on an intimate and exclusive road trip across England with the uncompromising Parr, whose subjects, frames and colours have revolutionised contemporary photography.",
+      "runtime": 68,
+      "times": [
+        {
+          "starts_at": "2025-02-22T20:00:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-96812/"
         }
       ]
     }
