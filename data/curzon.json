@@ -7,16 +7,6 @@
       "runtime": 125,
       "times": [
         {
-          "starts_at": "2025-02-23T12:40:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-54743/"
-        },
-        {
-          "starts_at": "2025-02-23T14:00:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-54748/"
-        },
-        {
           "starts_at": "2025-02-23T15:40:00+00:00",
           "site": "Curzon Aldgate",
           "url": "https://www.curzon.com/ticketing/seats/ALD1-54741/"
@@ -30,16 +20,6 @@
           "starts_at": "2025-02-23T20:20:00+00:00",
           "site": "Curzon Aldgate",
           "url": "https://www.curzon.com/ticketing/seats/ALD1-54751/"
-        },
-        {
-          "starts_at": "2025-02-23T13:30:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-79184/"
-        },
-        {
-          "starts_at": "2025-02-23T14:30:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-79187/"
         },
         {
           "starts_at": "2025-02-23T15:30:00+00:00",
@@ -77,11 +57,6 @@
           "url": "https://www.curzon.com/ticketing/seats/VIC1-79190/"
         },
         {
-          "starts_at": "2025-02-23T14:30:00+00:00",
-          "site": "Curzon Mayfair",
-          "url": "https://www.curzon.com/ticketing/seats/MAY1-29276/"
-        },
-        {
           "starts_at": "2025-02-23T18:00:00+00:00",
           "site": "Curzon Mayfair",
           "url": "https://www.curzon.com/ticketing/seats/MAY1-29275/"
@@ -92,11 +67,6 @@
           "url": "https://www.curzon.com/ticketing/seats/MAY1-29274/"
         },
         {
-          "starts_at": "2025-02-23T14:40:00+00:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-20488/"
-        },
-        {
           "starts_at": "2025-02-23T17:20:00+00:00",
           "site": "Curzon Hoxton",
           "url": "https://www.curzon.com/ticketing/seats/HOX1-20492/"
@@ -105,11 +75,6 @@
           "starts_at": "2025-02-23T20:40:00+00:00",
           "site": "Curzon Hoxton",
           "url": "https://www.curzon.com/ticketing/seats/HOX1-20485/"
-        },
-        {
-          "starts_at": "2025-02-23T14:20:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-31090/"
         },
         {
           "starts_at": "2025-02-23T17:10:00+00:00",
@@ -124,55 +89,15 @@
       ]
     },
     {
-      "title": "The Brutalist",
-      "trailer": "https://www.youtube.com/watch?v=hNiwPU5vjCk",
-      "synopsis": "When visionary architect László Toth and his wife Erzsébet flee post-war Europe in 1947 to rebuild their legacy and witness the birth of modern America, their lives are changed forever by a mysterious and wealthy client.\r\n\r\nThe Brutalist is showing with a 15 minute interval.",
-      "runtime": 215,
+      "title": "Companion",
+      "trailer": "https://www.youtube.com/watch?v=NQKaNxDu31I",
+      "synopsis": "Hey you. Tired of swiping? Sick of getting ghosted? Are you feeling like a part of you is missing? FindYourCompanion.com is guaranteed to find you a Companion who’s made for you.",
+      "runtime": 97,
       "times": [
         {
-          "starts_at": "2025-02-23T13:00:00+00:00",
+          "starts_at": "2025-02-23T17:00:00+00:00",
           "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-54745/"
-        },
-        {
-          "starts_at": "2025-02-23T19:30:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-54819/"
-        },
-        {
-          "starts_at": "2025-02-23T13:20:00+00:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-48704/"
-        },
-        {
-          "starts_at": "2025-02-23T19:00:00+00:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-48715/"
-        },
-        {
-          "starts_at": "2025-02-23T19:10:00+00:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-20486/"
-        },
-        {
-          "starts_at": "2025-02-23T13:15:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-31098/"
-        },
-        {
-          "starts_at": "2025-02-23T19:00:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-31101/"
-        },
-        {
-          "starts_at": "2025-02-23T16:20:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-97410/"
-        },
-        {
-          "starts_at": "2025-02-23T19:20:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-97408/"
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-54747/"
         }
       ]
     },
@@ -182,11 +107,6 @@
       "synopsis": "After meeting with newly elected U.S. President Thaddeus Ross, played by Harrison Ford in his Marvel Cinematic Universe debut, Sam finds himself in the middle of an international incident. He must discover the reason behind a nefarious global plot before the true mastermind has the entire world seeing red.",
       "runtime": 118,
       "times": [
-        {
-          "starts_at": "2025-02-23T15:00:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-54740/"
-        },
         {
           "starts_at": "2025-02-23T17:50:00+00:00",
           "site": "Curzon Aldgate",
@@ -198,27 +118,9 @@
           "url": "https://www.curzon.com/ticketing/seats/ALD1-54750/"
         },
         {
-          "starts_at": "2025-02-23T15:15:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-79551/"
-        },
-        {
           "starts_at": "2025-02-23T20:45:00+00:00",
           "site": "Curzon Victoria",
           "url": "https://www.curzon.com/ticketing/seats/VIC1-79556/"
-        }
-      ]
-    },
-    {
-      "title": "Companion",
-      "trailer": "https://www.youtube.com/watch?v=NQKaNxDu31I",
-      "synopsis": "Hey you. Tired of swiping? Sick of getting ghosted? Are you feeling like a part of you is missing? FindYourCompanion.com is guaranteed to find you a Companion who’s made for you.",
-      "runtime": 97,
-      "times": [
-        {
-          "starts_at": "2025-02-23T17:00:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-54747/"
         }
       ]
     },
@@ -261,68 +163,40 @@
       ]
     },
     {
-      "title": "A Complete Unknown",
-      "trailer": "https://www.youtube.com/watch?v=Nsvexi2Ulbs",
-      "synopsis": "Set in the influential New York music scene of the early 60s, A COMPLETE UNKNOWN follows 19-year-old Minnesota musician BOB DYLAN’s (Timothée Chalamet) meteoric rise as a folk singer to concert halls and the top of the charts – his songs and mystique becoming a worldwide sensation – culminating in his groundbreaking electric rock and roll performance at the Newport Folk Festival in 1965.",
-      "runtime": 141,
+      "title": "The Brutalist",
+      "trailer": "https://www.youtube.com/watch?v=hNiwPU5vjCk",
+      "synopsis": "When visionary architect László Toth and his wife Erzsébet flee post-war Europe in 1947 to rebuild their legacy and witness the birth of modern America, their lives are changed forever by a mysterious and wealthy client.\r\n\r\nThe Brutalist is showing with a 15 minute interval.",
+      "runtime": 215,
       "times": [
         {
-          "starts_at": "2025-02-23T14:00:00+00:00",
+          "starts_at": "2025-02-23T19:30:00+00:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-54819/"
+        },
+        {
+          "starts_at": "2025-02-23T19:00:00+00:00",
           "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-48755/"
+          "url": "https://www.curzon.com/ticketing/seats/SOH1-48715/"
         },
         {
-          "starts_at": "2025-02-23T20:15:00+00:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-48717/"
-        },
-        {
-          "starts_at": "2025-02-23T14:15:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-79561/"
-        },
-        {
-          "starts_at": "2025-02-23T16:00:00+00:00",
+          "starts_at": "2025-02-23T19:10:00+00:00",
           "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-20489/"
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-20486/"
         },
         {
-          "starts_at": "2025-02-23T16:30:00+00:00",
+          "starts_at": "2025-02-23T19:00:00+00:00",
           "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-31094/"
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-31101/"
         },
         {
-          "starts_at": "2025-02-23T20:30:00+00:00",
+          "starts_at": "2025-02-23T16:20:00+00:00",
           "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-97406/"
-        }
-      ]
-    },
-    {
-      "title": "The Seed of the Sacred Fig",
-      "trailer": "https://www.youtube.com/watch?v=NX1azcAduRc",
-      "synopsis": "Iman works as an investigating judge at the Revolutionary Court in Tehran. As the nationwide political protests against the authoritarian government intensify, he is surrounded by suspicion and paranoia. When his gun vanishes, Iman suspects his wife Najmeh and his daughters Rezvan and Sana, imposing draconian measures that strain family ties as societal rules crumble.",
-      "runtime": 167,
-      "times": [
-        {
-          "starts_at": "2025-02-23T15:20:00+00:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-48714/"
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-97410/"
         },
         {
-          "starts_at": "2025-02-23T13:30:00+00:00",
+          "starts_at": "2025-02-23T19:20:00+00:00",
           "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-97402/"
-        },
-        {
-          "starts_at": "2025-02-23T17:20:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-97401/"
-        },
-        {
-          "starts_at": "2025-02-23T20:10:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-97398/"
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-97408/"
         }
       ]
     },
@@ -343,29 +217,14 @@
           "url": "https://www.curzon.com/ticketing/seats/MAY1-29273/"
         },
         {
-          "starts_at": "2025-02-23T14:20:00+00:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-20483/"
-        },
-        {
           "starts_at": "2025-02-23T17:40:00+00:00",
           "site": "Curzon Hoxton",
           "url": "https://www.curzon.com/ticketing/seats/HOX1-20487/"
         },
         {
-          "starts_at": "2025-02-23T13:30:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-31097/"
-        },
-        {
           "starts_at": "2025-02-23T20:00:00+00:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-30759/"
-        },
-        {
-          "starts_at": "2025-02-23T14:10:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-97404/"
         },
         {
           "starts_at": "2025-02-23T17:10:00+00:00",
@@ -376,6 +235,34 @@
           "starts_at": "2025-02-23T20:10:00+00:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-96992/"
+        }
+      ]
+    },
+    {
+      "title": "A Complete Unknown",
+      "trailer": "https://www.youtube.com/watch?v=Nsvexi2Ulbs",
+      "synopsis": "Set in the influential New York music scene of the early 60s, A COMPLETE UNKNOWN follows 19-year-old Minnesota musician BOB DYLAN’s (Timothée Chalamet) meteoric rise as a folk singer to concert halls and the top of the charts – his songs and mystique becoming a worldwide sensation – culminating in his groundbreaking electric rock and roll performance at the Newport Folk Festival in 1965.",
+      "runtime": 141,
+      "times": [
+        {
+          "starts_at": "2025-02-23T20:15:00+00:00",
+          "site": "Curzon Soho",
+          "url": "https://www.curzon.com/ticketing/seats/SOH1-48717/"
+        },
+        {
+          "starts_at": "2025-02-23T16:00:00+00:00",
+          "site": "Curzon Hoxton",
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-20489/"
+        },
+        {
+          "starts_at": "2025-02-23T16:30:00+00:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-31094/"
+        },
+        {
+          "starts_at": "2025-02-23T20:30:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-97406/"
         }
       ]
     },
@@ -399,55 +286,14 @@
       "runtime": 120,
       "times": [
         {
-          "starts_at": "2025-02-23T12:45:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-79559/"
-        },
-        {
           "starts_at": "2025-02-23T17:15:00+00:00",
           "site": "Curzon Victoria",
           "url": "https://www.curzon.com/ticketing/seats/VIC1-79553/"
         },
         {
-          "starts_at": "2025-02-23T15:20:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-97403/"
-        },
-        {
           "starts_at": "2025-02-23T20:50:00+00:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-97399/"
-        }
-      ]
-    },
-    {
-      "title": "Dog Man",
-      "trailer": "https://www.youtube.com/watch?v=IbxJtp_9SpU",
-      "synopsis": "From DreamWorks Animation—creators of the beloved blockbuster franchises Kung Fu Panda, How to Train Your Dragon and The Boss Baby—comes the canine-crime-fighting film adaptation of Dav Pilkey’s New York Times bestselling literary phenomenon: Dog Man.\n\nWhen a faithful police dog and his human police officer owner are injured together on the job, a harebrained but life-saving surgery fuses the two of them together and Dog Man is born. Dog Man is sworn to protect and serve—and fetch, sit and roll over.",
-      "runtime": 89,
-      "times": [
-        {
-          "starts_at": "2025-02-23T13:00:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-79560/"
-        }
-      ]
-    },
-    {
-      "title": "NT Live: The Importance of Being Earnest",
-      "trailer": "https://www.youtube.com/watch?v=SkQNuoceik0",
-      "synopsis": "Three-time Olivier Award-winner Sharon D Clarke is joined by Ncuti Gatwa (Doctor Who; Sex Education) in this joyful reimagining of Oscar Wilde’s most celebrated comedy.      While assuming the role of a dutiful guardian in the country, Jack lets loose in town under a false identity. Meanwhile, his friend Algy adopts a similar facade. Hoping to impress two eligible ladies, the gentlemen find themselves caught in a web of lies they must carefully navigate.      Max Webster (Life of Pi) directs this hilarious story of identity, impersonation and romance, filmed live from the National Theatre in London.",
-      "runtime": 170,
-      "times": [
-        {
-          "starts_at": "2025-02-23T14:00:00+00:00",
-          "site": "Curzon Mayfair",
-          "url": "https://www.curzon.com/ticketing/seats/MAY1-28714/"
-        },
-        {
-          "starts_at": "2025-02-23T15:00:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-30371/"
         }
       ]
     },
@@ -474,24 +320,6 @@
           "starts_at": "2025-02-23T20:20:00+00:00",
           "site": "Curzon Hoxton",
           "url": "https://www.curzon.com/ticketing/seats/HOX1-20482/"
-        }
-      ]
-    },
-    {
-      "title": "Anora",
-      "trailer": null,
-      "synopsis": "Anora, a young sex worker from Brooklyn, meets and impulsively marries the son of an oligarch. Once the news reaches Russia, her fairytale is threatened as the parents set out for New York to get the marriage annulled.",
-      "runtime": 139,
-      "times": [
-        {
-          "starts_at": "2025-02-23T13:50:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-31092/"
-        },
-        {
-          "starts_at": "2025-02-23T19:40:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-31095/"
         }
       ]
     },
@@ -527,41 +355,15 @@
       ]
     },
     {
-      "title": "Picnic at Hanging Rock (4K Restoration)",
+      "title": "Anora",
       "trailer": null,
-      "synopsis": "During a rural summer picnic, a few students and a teacher from an Australian girls' school vanish without a trace. Their absence frustrates and haunts the people left behind.",
-      "runtime": 108,
+      "synopsis": "Anora, a young sex worker from Brooklyn, meets and impulsively marries the son of an oligarch. Once the news reaches Russia, her fairytale is threatened as the parents set out for New York to get the marriage annulled.",
+      "runtime": 139,
       "times": [
         {
-          "starts_at": "2025-02-23T13:50:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-97411/"
-        }
-      ]
-    },
-    {
-      "title": "DocHouse: I Am Martin Parr",
-      "trailer": null,
-      "synopsis": "Since the 1970s, English photographer Martin Parr has held up a sometimes tender, sometimes critical and always mischievous mirror to our times, forcing us to take a hard look at how consumer society has shaped our lives. Discover the maverick behind some of the most iconic images of the past century on an intimate and exclusive road trip across England with the uncompromising Parr, whose subjects, frames and colours have revolutionised contemporary photography.",
-      "runtime": 68,
-      "times": [
-        {
-          "starts_at": "2025-02-23T14:00:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-96813/"
-        }
-      ]
-    },
-    {
-      "title": "Je, tu, il, elle",
-      "trailer": null,
-      "synopsis": "Akerman’s ambiguous triptych was based on her experiences hitchhiking from Paris to Brussels. A woman (played by the filmmaker) holes up in a room, obsessively eating sugar and rearranging furniture. Then we follow her hunt for love and connection – first with a truck driver, then an ex-lover.",
-      "runtime": 86,
-      "times": [
-        {
-          "starts_at": "2025-02-23T15:00:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-96482/"
+          "starts_at": "2025-02-23T19:40:00+00:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-31095/"
         }
       ]
     },
@@ -588,6 +390,24 @@
           "starts_at": "2025-02-23T17:00:00+00:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-97400/"
+        }
+      ]
+    },
+    {
+      "title": "The Seed of the Sacred Fig",
+      "trailer": "https://www.youtube.com/watch?v=NX1azcAduRc",
+      "synopsis": "Iman works as an investigating judge at the Revolutionary Court in Tehran. As the nationwide political protests against the authoritarian government intensify, he is surrounded by suspicion and paranoia. When his gun vanishes, Iman suspects his wife Najmeh and his daughters Rezvan and Sana, imposing draconian measures that strain family ties as societal rules crumble.",
+      "runtime": 167,
+      "times": [
+        {
+          "starts_at": "2025-02-23T17:20:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-97401/"
+        },
+        {
+          "starts_at": "2025-02-23T20:10:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-97398/"
         }
       ]
     },
