@@ -1,110 +1,6 @@
 {
   "2025-02-23": [
     {
-      "title": "The Monkey",
-      "trailer": "https://www.youtube.com/watch?v=M4eNkCjc3yk",
-      "synopsis": "When twin brothers Bill and Hal find their father's old monkey toy in the attic, a series of gruesome deaths start. The siblings decide to throw the toy away and move on with their lives, growing apart over the years.",
-      "runtime": 98,
-      "times": [
-        {
-          "starts_at": "2025-02-23T18:40:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-54489/"
-        },
-        {
-          "starts_at": "2025-02-23T21:00:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-54490/"
-        },
-        {
-          "starts_at": "2025-02-23T21:00:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-79557/"
-        },
-        {
-          "starts_at": "2025-02-23T20:40:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-30758/"
-        }
-      ]
-    },
-    {
-      "title": "The Brutalist",
-      "trailer": "https://www.youtube.com/watch?v=hNiwPU5vjCk",
-      "synopsis": "When visionary architect László Toth and his wife Erzsébet flee post-war Europe in 1947 to rebuild their legacy and witness the birth of modern America, their lives are changed forever by a mysterious and wealthy client.\r\n\r\nThe Brutalist is showing with a 15 minute interval.",
-      "runtime": 215,
-      "times": [
-        {
-          "starts_at": "2025-02-23T19:30:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-54819/"
-        },
-        {
-          "starts_at": "2025-02-23T19:00:00+00:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-48715/"
-        },
-        {
-          "starts_at": "2025-02-23T19:10:00+00:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-20486/"
-        },
-        {
-          "starts_at": "2025-02-23T19:00:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-31101/"
-        },
-        {
-          "starts_at": "2025-02-23T19:20:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-97408/"
-        }
-      ]
-    },
-    {
-      "title": "Bridget Jones: Mad About the Boy",
-      "trailer": "https://www.youtube.com/watch?v=fc5zbSCgudA",
-      "synopsis": "Two-time Academy Award® winner RENÉE ZELLWEGER returns to the role that established a romantic-comedy heroine for the ages, a woman whose inimitable approach to life and love redefined an entire film genre.\n\nBridget Jones first exploded onto bookshelves in HELEN FIELDING’s literary phenomenon Bridget Jones’s Diary, which became a global bestseller and a blockbuster film. As a single career woman living in London, Bridget Jones not only introduced the world to her romantic adventures, but added “Singletons,” “Smug Marrieds” and “f---wittage” into the global lexicon. Bridget’s ability to triumph despite adversity led her to finally marry top lawyer Mark Darcy (Academy Award® winner COLIN FIRTH) and to become the mother of their baby boy. Happiness at last.\n\nBut in Bridget Jones: Mad About the Boy, Bridget is alone once again, widowed four years ago, when Mark was killed on a humanitarian mission in the Sudan. She’s now a single mother to 10-year-old Billy (CASPER KNOPF, Halo) and 6-year-old Mabel (newcomer MILA JANKOVIC), and is stuck in a state of emotional limbo, raising her children with help from her loyal friends, including her former lover, Daniel Cleaver (HUGH GRANT).\n",
-      "runtime": 125,
-      "times": [
-        {
-          "starts_at": "2025-02-23T20:20:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-54751/"
-        },
-        {
-          "starts_at": "2025-02-23T19:30:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-79186/"
-        },
-        {
-          "starts_at": "2025-02-23T20:00:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-79555/"
-        },
-        {
-          "starts_at": "2025-02-23T20:30:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-79190/"
-        },
-        {
-          "starts_at": "2025-02-23T20:50:00+00:00",
-          "site": "Curzon Mayfair",
-          "url": "https://www.curzon.com/ticketing/seats/MAY1-29274/"
-        },
-        {
-          "starts_at": "2025-02-23T20:40:00+00:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-20485/"
-        },
-        {
-          "starts_at": "2025-02-23T20:20:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-30760/"
-        }
-      ]
-    },
-    {
       "title": "Captain America: Brave New World",
       "trailer": "https://www.youtube.com/watch?v=t2BVzqHT-5s",
       "synopsis": "After meeting with newly elected U.S. President Thaddeus Ross, played by Harrison Ford in his Marvel Cinematic Universe debut, Sam finds himself in the middle of an international incident. He must discover the reason behind a nefarious global plot before the true mastermind has the entire world seeing red.",
@@ -123,20 +19,25 @@
       ]
     },
     {
-      "title": "A Complete Unknown",
-      "trailer": "https://www.youtube.com/watch?v=Nsvexi2Ulbs",
-      "synopsis": "Set in the influential New York music scene of the early 60s, A COMPLETE UNKNOWN follows 19-year-old Minnesota musician BOB DYLAN’s (Timothée Chalamet) meteoric rise as a folk singer to concert halls and the top of the charts – his songs and mystique becoming a worldwide sensation – culminating in his groundbreaking electric rock and roll performance at the Newport Folk Festival in 1965.",
-      "runtime": 141,
+      "title": "The Monkey",
+      "trailer": "https://www.youtube.com/watch?v=M4eNkCjc3yk",
+      "synopsis": "When twin brothers Bill and Hal find their father's old monkey toy in the attic, a series of gruesome deaths start. The siblings decide to throw the toy away and move on with their lives, growing apart over the years.",
+      "runtime": 98,
       "times": [
         {
-          "starts_at": "2025-02-23T20:15:00+00:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-48717/"
+          "starts_at": "2025-02-23T21:00:00+00:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-54490/"
         },
         {
-          "starts_at": "2025-02-23T20:30:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-97406/"
+          "starts_at": "2025-02-23T21:00:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-79557/"
+        },
+        {
+          "starts_at": "2025-02-23T20:40:00+00:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-30758/"
         }
       ]
     },
@@ -154,77 +55,38 @@
       ]
     },
     {
-      "title": "I'm Still Here",
-      "trailer": null,
-      "synopsis": "Based on Marcelo Rubens Paiva's best-selling memoir in which his mother is forced into activism when her husband was captured by a military regime in Brazil, 1964.",
-      "runtime": 137,
+      "title": "Bridget Jones: Mad About the Boy",
+      "trailer": "https://www.youtube.com/watch?v=fc5zbSCgudA",
+      "synopsis": "Two-time Academy Award® winner RENÉE ZELLWEGER returns to the role that established a romantic-comedy heroine for the ages, a woman whose inimitable approach to life and love redefined an entire film genre.\n\nBridget Jones first exploded onto bookshelves in HELEN FIELDING’s literary phenomenon Bridget Jones’s Diary, which became a global bestseller and a blockbuster film. As a single career woman living in London, Bridget Jones not only introduced the world to her romantic adventures, but added “Singletons,” “Smug Marrieds” and “f---wittage” into the global lexicon. Bridget’s ability to triumph despite adversity led her to finally marry top lawyer Mark Darcy (Academy Award® winner COLIN FIRTH) and to become the mother of their baby boy. Happiness at last.\n\nBut in Bridget Jones: Mad About the Boy, Bridget is alone once again, widowed four years ago, when Mark was killed on a humanitarian mission in the Sudan. She’s now a single mother to 10-year-old Billy (CASPER KNOPF, Halo) and 6-year-old Mabel (newcomer MILA JANKOVIC), and is stuck in a state of emotional limbo, raising her children with help from her loyal friends, including her former lover, Daniel Cleaver (HUGH GRANT).\n",
+      "runtime": 125,
       "times": [
         {
-          "starts_at": "2025-02-23T20:15:00+00:00",
+          "starts_at": "2025-02-23T20:30:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-79190/"
+        },
+        {
+          "starts_at": "2025-02-23T20:50:00+00:00",
           "site": "Curzon Mayfair",
-          "url": "https://www.curzon.com/ticketing/seats/MAY1-29273/"
+          "url": "https://www.curzon.com/ticketing/seats/MAY1-29274/"
         },
         {
-          "starts_at": "2025-02-23T20:00:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-30759/"
-        },
-        {
-          "starts_at": "2025-02-23T20:10:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-96992/"
+          "starts_at": "2025-02-23T20:40:00+00:00",
+          "site": "Curzon Hoxton",
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-20485/"
         }
       ]
     },
     {
-      "title": "The Substance",
-      "trailer": null,
-      "synopsis": "Demi Moore gives a career-best performance as Elisabeth Sparkle, a former A-lister past her prime and suddenly fired from her fitness TV show by repellent studio head Harvey (Dennis Quaid). \n\nShe is then drawn to the opportunity presented by a mysterious new drug: THE SUBSTANCE. All it takes is one injection and she is reborn – temporarily – as the gorgeous, twentysomething Sue (Margaret Qualley). \n\nThe only rule? Time needs to be split: exactly one week in one body, then one week in the other. No exceptions. A perfect balance. What could go wrong?\n\nDeliriously entertaining and ruthlessly satirical, Coralie Fargeat’s Cannes sensation turns toxic beauty culture inside out with a be-careful-what-you-wish-for fable for the ages. Explosive, provocative and twisted, THE SUBSTANCE marks the arrival of a thrillingly visionary filmmaker.\n",
+      "title": "A Complete Unknown",
+      "trailer": "https://www.youtube.com/watch?v=Nsvexi2Ulbs",
+      "synopsis": "Set in the influential New York music scene of the early 60s, A COMPLETE UNKNOWN follows 19-year-old Minnesota musician BOB DYLAN’s (Timothée Chalamet) meteoric rise as a folk singer to concert halls and the top of the charts – his songs and mystique becoming a worldwide sensation – culminating in his groundbreaking electric rock and roll performance at the Newport Folk Festival in 1965.",
       "runtime": 141,
       "times": [
         {
-          "starts_at": "2025-02-23T20:20:00+00:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-20482/"
-        }
-      ]
-    },
-    {
-      "title": "Anora",
-      "trailer": null,
-      "synopsis": "Anora, a young sex worker from Brooklyn, meets and impulsively marries the son of an oligarch. Once the news reaches Russia, her fairytale is threatened as the parents set out for New York to get the marriage annulled.",
-      "runtime": 139,
-      "times": [
-        {
-          "starts_at": "2025-02-23T19:40:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-31095/"
-        }
-      ]
-    },
-    {
-      "title": "DocHouse: No Other Land",
-      "trailer": null,
-      "synopsis": "Basel Adra, a young Palestinian activist from Masafer Yatta, has been fighting his community's mass expulsion by the Israeli occupation since childhood. Basel documents the gradual erasure of Masafer Yatta, as soldiers destroy the homes of families - the largest single act of forced transfer ever carried out in the occupied West Bank. He crosses paths with Yuval, an Israeli journalist who joins his struggle, and for over half a decade they fight against the expulsion while growing closer. Their complex bond is haunted by the extreme inequality between them: Basel, living under a brutal military occupation, and Yuval, unrestricted and free. \r\n\r\nThis film, by a Palestinian-Israeli collective of four young activists, was co-created during the darkest, most terrifying times in the region, as an act of creative resistance to Apartheid and a search for a path towards equality and justice.",
-      "runtime": 96,
-      "times": [
-        {
-          "starts_at": "2025-02-23T19:30:00+00:00",
+          "starts_at": "2025-02-23T20:30:00+00:00",
           "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-97498/"
-        }
-      ]
-    },
-    {
-      "title": "The Seed of the Sacred Fig",
-      "trailer": "https://www.youtube.com/watch?v=NX1azcAduRc",
-      "synopsis": "Iman works as an investigating judge at the Revolutionary Court in Tehran. As the nationwide political protests against the authoritarian government intensify, he is surrounded by suspicion and paranoia. When his gun vanishes, Iman suspects his wife Najmeh and his daughters Rezvan and Sana, imposing draconian measures that strain family ties as societal rules crumble.",
-      "runtime": 167,
-      "times": [
-        {
-          "starts_at": "2025-02-23T20:10:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-97398/"
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-97406/"
         }
       ]
     },
