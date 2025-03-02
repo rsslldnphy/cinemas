@@ -1,123 +1,6 @@
 {
   "2025-03-02": [
     {
-      "title": "The Monkey",
-      "trailer": "https://www.youtube.com/watch?v=M4eNkCjc3yk",
-      "synopsis": "When twin brothers Bill and Hal find their father's old monkey toy in the attic, a series of gruesome deaths start. The siblings decide to throw the toy away and move on with their lives, growing apart over the years.",
-      "runtime": 98,
-      "times": [
-        {
-          "starts_at": "2025-03-02T16:00:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-54871/"
-        },
-        {
-          "starts_at": "2025-03-02T20:40:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-54865/"
-        }
-      ]
-    },
-    {
-      "title": "Captain America: Brave New World",
-      "trailer": "https://www.youtube.com/watch?v=t2BVzqHT-5s",
-      "synopsis": "After meeting with newly elected U.S. President Thaddeus Ross, played by Harrison Ford in his Marvel Cinematic Universe debut, Sam finds himself in the middle of an international incident. He must discover the reason behind a nefarious global plot before the true mastermind has the entire world seeing red.",
-      "runtime": 118,
-      "times": [
-        {
-          "starts_at": "2025-03-02T16:30:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-54875/"
-        }
-      ]
-    },
-    {
-      "title": "Companion",
-      "trailer": "https://www.youtube.com/watch?v=NQKaNxDu31I",
-      "synopsis": "Hey you. Tired of swiping? Sick of getting ghosted? Are you feeling like a part of you is missing? FindYourCompanion.com is guaranteed to find you a Companion who’s made for you.",
-      "runtime": 97,
-      "times": [
-        {
-          "starts_at": "2025-03-02T17:10:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-54874/"
-        }
-      ]
-    },
-    {
-      "title": "Bridget Jones: Mad About the Boy",
-      "trailer": "https://www.youtube.com/watch?v=fc5zbSCgudA",
-      "synopsis": "Two-time Academy Award® winner RENÉE ZELLWEGER returns to the role that established a romantic-comedy heroine for the ages, a woman whose inimitable approach to life and love redefined an entire film genre.\n\nBridget Jones first exploded onto bookshelves in HELEN FIELDING’s literary phenomenon Bridget Jones’s Diary, which became a global bestseller and a blockbuster film. As a single career woman living in London, Bridget Jones not only introduced the world to her romantic adventures, but added “Singletons,” “Smug Marrieds” and “f---wittage” into the global lexicon. Bridget’s ability to triumph despite adversity led her to finally marry top lawyer Mark Darcy (Academy Award® winner COLIN FIRTH) and to become the mother of their baby boy. Happiness at last.\n\nBut in Bridget Jones: Mad About the Boy, Bridget is alone once again, widowed four years ago, when Mark was killed on a humanitarian mission in the Sudan. She’s now a single mother to 10-year-old Billy (CASPER KNOPF, Halo) and 6-year-old Mabel (newcomer MILA JANKOVIC), and is stuck in a state of emotional limbo, raising her children with help from her loyal friends, including her former lover, Daniel Cleaver (HUGH GRANT).\n",
-      "runtime": 125,
-      "times": [
-        {
-          "starts_at": "2025-03-02T17:30:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-54867/"
-        },
-        {
-          "starts_at": "2025-03-02T20:20:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-54868/"
-        },
-        {
-          "starts_at": "2025-03-02T17:15:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-79741/"
-        },
-        {
-          "starts_at": "2025-03-02T17:30:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-79746/"
-        },
-        {
-          "starts_at": "2025-03-02T18:00:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-79738/"
-        },
-        {
-          "starts_at": "2025-03-02T20:00:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-79740/"
-        },
-        {
-          "starts_at": "2025-03-02T20:30:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-79747/"
-        },
-        {
-          "starts_at": "2025-03-02T17:50:00+00:00",
-          "site": "Curzon Mayfair",
-          "url": "https://www.curzon.com/ticketing/seats/MAY1-29351/"
-        },
-        {
-          "starts_at": "2025-03-02T20:20:00+00:00",
-          "site": "Curzon Mayfair",
-          "url": "https://www.curzon.com/ticketing/seats/MAY1-29346/"
-        },
-        {
-          "starts_at": "2025-03-02T17:20:00+00:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-20582/"
-        },
-        {
-          "starts_at": "2025-03-02T20:40:00+00:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-20575/"
-        },
-        {
-          "starts_at": "2025-03-02T17:50:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-31306/"
-        },
-        {
-          "starts_at": "2025-03-02T20:40:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-31307/"
-        }
-      ]
-    },
-    {
       "title": "The Last Showgirl",
       "trailer": "https://www.youtube.com/watch?v=r4xpoKBKrpo",
       "synopsis": "When the glittering Las Vegas revue she has headlined for decades announces it will soon close, glamorous showgirl Shelly (Pamela Anderson) must reconcile with the decisions she’s made and the life she has built as she plans her next act whilst also striving to repair the relationship with her daughter (Billie Lourd). With an outstanding ensemble cast that  includes Jamie Lee Curtis, Dave Bautista, Brenda Song and Kiernan Shipka, THE LAST SHOWGIRL is a joyous tribute to a long-gone Las Vegas – and all the women who made it glitter.\n\nDirected by Gia Coppola and featuring a Golden Globe-nominated performance from Pamela Anderson, who dazzles in the role of a lifetime, this poignant film of resilience, rhinestones and feathers is simply unmissable.\n",
@@ -129,29 +12,14 @@
           "url": "https://www.curzon.com/ticketing/seats/ALD1-54866/"
         },
         {
-          "starts_at": "2025-03-02T15:30:00+00:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-48774/"
-        },
-        {
           "starts_at": "2025-03-02T20:45:00+00:00",
           "site": "Curzon Soho",
           "url": "https://www.curzon.com/ticketing/seats/SOH1-48773/"
         },
         {
-          "starts_at": "2025-03-02T15:30:00+00:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-20580/"
-        },
-        {
           "starts_at": "2025-03-02T21:00:00+00:00",
           "site": "Curzon Hoxton",
           "url": "https://www.curzon.com/ticketing/seats/HOX1-20573/"
-        },
-        {
-          "starts_at": "2025-03-02T16:50:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-31310/"
         },
         {
           "starts_at": "2025-03-02T21:00:00+00:00",
@@ -175,11 +43,6 @@
           "starts_at": "2025-03-02T18:50:00+00:00",
           "site": "Curzon Soho",
           "url": "https://www.curzon.com/ticketing/seats/SOH1-48822/"
-        },
-        {
-          "starts_at": "2025-03-02T16:40:00+00:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-20576/"
         },
         {
           "starts_at": "2025-03-02T19:00:00+00:00",
@@ -212,63 +75,53 @@
       ]
     },
     {
-      "title": "The Seed of the Sacred Fig",
-      "trailer": "https://www.youtube.com/watch?v=NX1azcAduRc",
-      "synopsis": "Iman works as an investigating judge at the Revolutionary Court in Tehran. As the nationwide political protests against the authoritarian government intensify, he is surrounded by suspicion and paranoia. When his gun vanishes, Iman suspects his wife Najmeh and his daughters Rezvan and Sana, imposing draconian measures that strain family ties as societal rules crumble.",
-      "runtime": 167,
+      "title": "Bridget Jones: Mad About the Boy",
+      "trailer": "https://www.youtube.com/watch?v=fc5zbSCgudA",
+      "synopsis": "Two-time Academy Award® winner RENÉE ZELLWEGER returns to the role that established a romantic-comedy heroine for the ages, a woman whose inimitable approach to life and love redefined an entire film genre.\n\nBridget Jones first exploded onto bookshelves in HELEN FIELDING’s literary phenomenon Bridget Jones’s Diary, which became a global bestseller and a blockbuster film. As a single career woman living in London, Bridget Jones not only introduced the world to her romantic adventures, but added “Singletons,” “Smug Marrieds” and “f---wittage” into the global lexicon. Bridget’s ability to triumph despite adversity led her to finally marry top lawyer Mark Darcy (Academy Award® winner COLIN FIRTH) and to become the mother of their baby boy. Happiness at last.\n\nBut in Bridget Jones: Mad About the Boy, Bridget is alone once again, widowed four years ago, when Mark was killed on a humanitarian mission in the Sudan. She’s now a single mother to 10-year-old Billy (CASPER KNOPF, Halo) and 6-year-old Mabel (newcomer MILA JANKOVIC), and is stuck in a state of emotional limbo, raising her children with help from her loyal friends, including her former lover, Daniel Cleaver (HUGH GRANT).\n",
+      "runtime": 125,
       "times": [
         {
-          "starts_at": "2025-03-02T16:20:00+00:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-48838/"
+          "starts_at": "2025-03-02T20:20:00+00:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-54868/"
         },
         {
-          "starts_at": "2025-03-02T17:20:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-97608/"
+          "starts_at": "2025-03-02T20:00:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-79740/"
+        },
+        {
+          "starts_at": "2025-03-02T20:30:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-79747/"
+        },
+        {
+          "starts_at": "2025-03-02T20:20:00+00:00",
+          "site": "Curzon Mayfair",
+          "url": "https://www.curzon.com/ticketing/seats/MAY1-29346/"
+        },
+        {
+          "starts_at": "2025-03-02T20:40:00+00:00",
+          "site": "Curzon Hoxton",
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-20575/"
+        },
+        {
+          "starts_at": "2025-03-02T20:40:00+00:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-31307/"
         }
       ]
     },
     {
-      "title": "I'm Still Here",
-      "trailer": null,
-      "synopsis": "Based on Marcelo Rubens Paiva's best-selling memoir in which his mother is forced into activism when her husband was captured by a military regime in Brazil, 1964.",
-      "runtime": 137,
+      "title": "The Monkey",
+      "trailer": "https://www.youtube.com/watch?v=M4eNkCjc3yk",
+      "synopsis": "When twin brothers Bill and Hal find their father's old monkey toy in the attic, a series of gruesome deaths start. The siblings decide to throw the toy away and move on with their lives, growing apart over the years.",
+      "runtime": 98,
       "times": [
         {
-          "starts_at": "2025-03-02T17:40:00+00:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-48775/"
-        },
-        {
-          "starts_at": "2025-03-02T17:00:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-79748/"
-        },
-        {
-          "starts_at": "2025-03-02T17:20:00+00:00",
-          "site": "Curzon Mayfair",
-          "url": "https://www.curzon.com/ticketing/seats/MAY1-29347/"
-        },
-        {
-          "starts_at": "2025-03-02T17:40:00+00:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-20572/"
-        },
-        {
-          "starts_at": "2025-03-02T20:10:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-31308/"
-        },
-        {
-          "starts_at": "2025-03-02T17:40:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-97548/"
-        },
-        {
-          "starts_at": "2025-03-02T20:10:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-97547/"
+          "starts_at": "2025-03-02T20:40:00+00:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-54865/"
         }
       ]
     },
@@ -289,32 +142,9 @@
           "url": "https://www.curzon.com/ticketing/seats/VIC1-79745/"
         },
         {
-          "starts_at": "2025-03-02T16:30:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-31320/"
-        },
-        {
           "starts_at": "2025-03-02T19:50:00+00:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-31321/"
-        }
-      ]
-    },
-    {
-      "title": "Conclave",
-      "trailer": "https://www.youtube.com/watch?v=Znr38bHNXp4",
-      "synopsis": "CONCLAVE follows one of the world’s most secretive and ancient events – selecting the new Pope. Cardinal Lawrence (Ralph Fiennes) is tasked with running this covert process after the unexpected death of the beloved Pope. Once the Catholic Church’s most powerful leaders have gathered from around the world and are locked together in the Vatican halls, Lawrence uncovers a trail of deep secrets left in the dead Pope’s wake, secrets which could shake the foundations of the Church.",
-      "runtime": 120,
-      "times": [
-        {
-          "starts_at": "2025-03-02T16:15:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-79751/"
-        },
-        {
-          "starts_at": "2025-03-02T20:30:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-97605/"
         }
       ]
     },
@@ -333,11 +163,6 @@
           "starts_at": "2025-03-02T20:20:00+00:00",
           "site": "Curzon Hoxton",
           "url": "https://www.curzon.com/ticketing/seats/HOX1-20583/"
-        },
-        {
-          "starts_at": "2025-03-02T17:10:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-97614/"
         }
       ]
     },
@@ -355,37 +180,6 @@
       ]
     },
     {
-      "title": "A Real Pain",
-      "trailer": "https://www.youtube.com/watch?v=lGeZQWMMDgM",
-      "synopsis": "Mismatched cousins David and Benji reunite for a tour through Poland to honor their beloved grandmother. The adventure takes a turn when the odd-couple's old tensions resurface against the backdrop of their family history.",
-      "runtime": 90,
-      "times": [
-        {
-          "starts_at": "2025-03-02T17:10:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-31313/"
-        }
-      ]
-    },
-    {
-      "title": "The Summer With Carmen",
-      "trailer": "https://www.youtube.com/watch?v=2Ir2FU2bygU",
-      "synopsis": "In this sexy, sun-drenched comedy, best friends Demos and Nikitas are about to embark on the most meta movie adventure ever. They’re making a film about the summer that turned their lives upside down – you know, the one where Demos’ boyfriend Panos dropped a bombshell ending their four-year relationship and somehow leaving Demos co-parenting their dog Carmen.\n\nAs our dynamic duo dives into writing their masterpiece, the story bounces between past and present. But beneath all the laughs and chaos, there’s a joyous exploration of what it means to be a modern gay man – from dating dilemmas to the pressure of fitting into society’s neat little boxes.",
-      "runtime": 106,
-      "times": [
-        {
-          "starts_at": "2025-03-02T17:30:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-31311/"
-        },
-        {
-          "starts_at": "2025-03-02T20:40:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-97613/"
-        }
-      ]
-    },
-    {
       "title": "The Substance",
       "trailer": null,
       "synopsis": "Demi Moore gives a career-best performance as Elisabeth Sparkle, a former A-lister past her prime and suddenly fired from her fitness TV show by repellent studio head Harvey (Dennis Quaid). \n\nShe is then drawn to the opportunity presented by a mysterious new drug: THE SUBSTANCE. All it takes is one injection and she is reborn – temporarily – as the gorgeous, twentysomething Sue (Margaret Qualley). \n\nThe only rule? Time needs to be split: exactly one week in one body, then one week in the other. No exceptions. A perfect balance. What could go wrong?\n\nDeliriously entertaining and ruthlessly satirical, Coralie Fargeat’s Cannes sensation turns toxic beauty culture inside out with a be-careful-what-you-wish-for fable for the ages. Explosive, provocative and twisted, THE SUBSTANCE marks the arrival of a thrillingly visionary filmmaker.\n",
@@ -399,41 +193,20 @@
       ]
     },
     {
-      "title": "DocHouse: Sud (South)",
+      "title": "I'm Still Here",
       "trailer": null,
-      "synopsis": "Inspired by her love of William Faulkner and James Baldwin, Chantal Akerman had planned to produce a meditation on the American South. However, before she began filming, she learnt of the racially-motivated murder of James Byrd Jr. in Jasper, Texas, lynched by three white supremacists.\r\n\r\nEschewing the tropes of 'true crime', Akerman takes a slower, more considered approach, allowing the story to unfold through patient interviews and long shots of the lush landscape of the Texas hinterland. As local people reflect on the attack, Akerman paints a picture of racism in the South and the legacy of slavery - as searingly relevant today as it was on release in 1999.",
-      "runtime": 70,
+      "synopsis": "Based on Marcelo Rubens Paiva's best-selling memoir in which his mother is forced into activism when her husband was captured by a military regime in Brazil, 1964.",
+      "runtime": 137,
       "times": [
         {
-          "starts_at": "2025-03-02T16:00:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-96817/"
-        }
-      ]
-    },
-    {
-      "title": "September 5",
-      "trailer": "https://www.youtube.com/watch?v=GGBpfkrr8Ms",
-      "synopsis": "\"September 5\" unveils the decisive moment that forever changed media coverage and continues to impact live news today. Set during the 1972 Munich Summer Olympics, the film follows an American Sports broadcasting team that quickly adapted from sports reporting to live coverage of the Israeli athletes taken hostage. Through this lens, \"September 5\" provides a fresh perspective on the live broadcast seen globally by an estimated one billion people at the time.\n\nAt the heart of the story is Geoff (John Magaro), a young and ambitious producer striving to prove himself to his boss, the legendary TV executive Roone Arledge (Peter Sarsgaard). Together with German interpreter Marianne (Leonie Benesch) and his mentor Marvin Bader (Ben Chaplin), Geoff unexpectedly takes the helm of the live coverage. As narratives shift, time ticks away, and conflicting rumors spread, with the hostages' lives hanging in the balance, Geoff grapples with tough decisions while confronting his own moral compass.",
-      "runtime": 95,
-      "times": [
+          "starts_at": "2025-03-02T20:10:00+00:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-31308/"
+        },
         {
-          "starts_at": "2025-03-02T16:50:00+00:00",
+          "starts_at": "2025-03-02T20:10:00+00:00",
           "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-97609/"
-        }
-      ]
-    },
-    {
-      "title": "DocHouse: Johatsu: Into Thin Air",
-      "trailer": null,
-      "synopsis": "In Japan, thousands of people vanish without a trace every year. They abandon their current lives for different reasons - for some it's about evading danger, for others it's about escaping the shame of failure. They are known as the Johatsu, or 'the evaporated'.\r\n\r\nDirectors Andreas Hartmann and Arata Mori approach the phenomenon of Johatsu sensitively, interweaving the stories of people who have left their lives with those of loved ones who have been left behind, and following the owner of a 'night moving' company, who helps her clients set up new lives without leaving a trace.\r\n\r\nJOHATSU: INTO THIN AIR paints a multifaceted portrait of a complex phenomenon, reflecting on what society allows and what is rejected.",
-      "runtime": 86,
-      "times": [
-        {
-          "starts_at": "2025-03-02T17:30:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-97159/"
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-97547/"
         }
       ]
     },
@@ -447,6 +220,32 @@
           "starts_at": "2025-03-02T19:20:00+00:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-97682/"
+        }
+      ]
+    },
+    {
+      "title": "Conclave",
+      "trailer": "https://www.youtube.com/watch?v=Znr38bHNXp4",
+      "synopsis": "CONCLAVE follows one of the world’s most secretive and ancient events – selecting the new Pope. Cardinal Lawrence (Ralph Fiennes) is tasked with running this covert process after the unexpected death of the beloved Pope. Once the Catholic Church’s most powerful leaders have gathered from around the world and are locked together in the Vatican halls, Lawrence uncovers a trail of deep secrets left in the dead Pope’s wake, secrets which could shake the foundations of the Church.",
+      "runtime": 120,
+      "times": [
+        {
+          "starts_at": "2025-03-02T20:30:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-97605/"
+        }
+      ]
+    },
+    {
+      "title": "The Summer With Carmen",
+      "trailer": "https://www.youtube.com/watch?v=2Ir2FU2bygU",
+      "synopsis": "In this sexy, sun-drenched comedy, best friends Demos and Nikitas are about to embark on the most meta movie adventure ever. They’re making a film about the summer that turned their lives upside down – you know, the one where Demos’ boyfriend Panos dropped a bombshell ending their four-year relationship and somehow leaving Demos co-parenting their dog Carmen.\n\nAs our dynamic duo dives into writing their masterpiece, the story bounces between past and present. But beneath all the laughs and chaos, there’s a joyous exploration of what it means to be a modern gay man – from dating dilemmas to the pressure of fitting into society’s neat little boxes.",
+      "runtime": 106,
+      "times": [
+        {
+          "starts_at": "2025-03-02T20:40:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-97613/"
         }
       ]
     }
