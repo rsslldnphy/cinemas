@@ -1,33 +1,27 @@
 {
-  " Sister Midnight": {
-    "backdrop": "https://image.tmdb.org/t/p/w500//b1Pms8IQTCzZimyliCx8CFeqfSa.jpg",
-    "poster": "https://image.tmdb.org/t/p/w500//lXMJ6un3SZvRq8cOHap7LviY5hG.jpg",
-    "overview": "In Mumbai, an arranged marriage spirals into darkness as the spineless husband watches his wife morph into a ruthless, feral force within their marital confines.",
-    "release_date": "2025-03-14"
-  },
   "A Complete Unknown": {
     "backdrop": "https://image.tmdb.org/t/p/w500//r8YfVJu9OAzWbTAuuc86CIs1DYN.jpg",
     "poster": "https://image.tmdb.org/t/p/w500//llWl3GtNoXosbvYboelmoT459NM.jpg",
     "overview": "New York, early 1960s. Against the backdrop of a vibrant music scene and tumultuous cultural upheaval, an enigmatic 19-year-old from Minnesota arrives in the West Village with his guitar and revolutionary talent, destined to change the course of American music.",
     "release_date": "2024-12-18"
   },
-  "A Real Pain": {
-    "backdrop": "https://image.tmdb.org/t/p/w500//nGC3ZkXEcjGbqAAonS1xn6gaNpb.jpg",
-    "poster": "https://image.tmdb.org/t/p/w500//67xRIXm5TxXRT4nV2V4AEJ9yq2d.jpg",
-    "overview": "Mismatched cousins David and Benji reunite for a tour through Poland to honor their beloved grandmother. The adventure takes a turn when the pair's old tensions resurface against the backdrop of their family history.",
-    "release_date": "2024-11-01"
-  },
   "Anora": {
-    "backdrop": "https://image.tmdb.org/t/p/w500//kEYWal656zP5Q2Tohm91aw6orlT.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w500//87GU2ifjNYtgYtcRH1NNH1P4ODo.jpg",
     "poster": "https://image.tmdb.org/t/p/w500//qh8m8Udz0sCa5gy9VaqfHPh0yPM.jpg",
     "overview": "A young sex worker from Brooklyn gets her chance at a Cinderella story when she meets and impulsively marries the son of an oligarch. Once the news reaches Russia, her fairytale is threatened as his parents set out to get the marriage annulled.",
     "release_date": "2024-10-14"
   },
-  "Blue Road: The Edna O'Brien Story": {
-    "backdrop": "https://image.tmdb.org/t/p/w500//3ypjV2KnpaVta7PAcz0GLiM1Ikk.jpg",
-    "poster": "https://image.tmdb.org/t/p/w500//1KCswo2GqoO6sweiuX2hzdU5eAk.jpg",
-    "overview": "Emerging from rural Ireland, Edna O’Brien broke multiple taboos with her sexually provocative literature and equally adventurous love life. Here, she opens up about her past with additional perspectives offered by Gabriel Byrne, Walter Mosely, and others.",
-    "release_date": "2025-01-31"
+  "Away": {
+    "backdrop": "https://image.tmdb.org/t/p/w500//aK3JlVC0gmfLqzQ8WminN3aD1lx.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500//yJUqPWeenyvAz6nXCdHrCrClbGd.jpg",
+    "overview": "A story set in the north English seaside town of Blackpool and centered on two kindred spirits who form an unlikely friendship.",
+    "release_date": "2016-06-22"
+  },
+  "Black Bag": {
+    "backdrop": "https://image.tmdb.org/t/p/w500//gxO51FVgADhYGGnnRPIlutVqb30.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500//vcYrQ94y8L2qxEfQgTLVbtmppcn.jpg",
+    "overview": "When his beloved wife is suspected of betraying the nation, an intelligence agent faces the ultimate test – loyalty to his marriage or his country.",
+    "release_date": "2025-03-12"
   },
   "Bridget Jones: Mad About the Boy": {
     "backdrop": "https://image.tmdb.org/t/p/w500//zwSDvbnN51JqU1ULzPnEc22DkqV.jpg",
@@ -35,23 +29,29 @@
     "overview": "Bridget Jones navigates life as a widow and single mum with the help of her family, friends, and former lover, Daniel. Back to work and on the apps, she's pursued by a younger man and maybe – just maybe – her son's science teacher.",
     "release_date": "2025-02-12"
   },
-  "Companion": {
-    "backdrop": "https://image.tmdb.org/t/p/w500//sc1abgWNXc29wSBaerrjGBih06l.jpg",
-    "poster": "https://image.tmdb.org/t/p/w500//oCoTgC3UyWGfyQ9thE10ulWR7bn.jpg",
-    "overview": "During a weekend getaway at a secluded lakeside estate, a group of friends finds themselves entangled in a web of secrets, deception, and advanced technology. As tensions rise and loyalties are tested, they uncover unsettling truths about themselves and the world around them.",
-    "release_date": "2025-01-22"
-  },
   "Conclave": {
     "backdrop": "https://image.tmdb.org/t/p/w500//tkRDTu9hyWgaBSSzfkYDCZYd1kV.jpg",
     "poster": "https://image.tmdb.org/t/p/w500//m5x8D0bZ3eKqIVWZ5y7TnZ2oTVg.jpg",
     "overview": "After the unexpected death of the Pope, Cardinal Lawrence is tasked with managing the covert and ancient ritual of electing a new one. Sequestered in the Vatican with the Catholic Church’s most powerful leaders until the process is complete, Lawrence finds himself at the center of a conspiracy that could lead to its downfall.",
     "release_date": "2024-10-25"
   },
+  "Disney’s Snow White": {
+    "backdrop": null,
+    "poster": "https://image.tmdb.org/t/p/w500//o976X3R82awQKV3lRR27rzdUxeF.jpg",
+    "overview": "Released as a Bonus Feature for Disney's Platinum DVD Edition of \"Snow White and the Seven Dwarfs\" this short documentary shows how this classic film came to life.",
+    "release_date": "2001-10-09"
+  },
   "DocHouse: Ernest Cole - Lost and Found": {
     "backdrop": "https://image.tmdb.org/t/p/w500//eE79qD0I24ENjK5IoN5J6kBtWdS.jpg",
     "poster": "https://image.tmdb.org/t/p/w500//nEqDYZtw9GlzmwvmflY6b2mfwd7.jpg",
     "overview": "More than 60,000 of Ernest Cole’s 35mm film negatives were inexplicably discovered in a bank vault in Stockholm, Sweden. Most considered these forever lost, especially the thousands of pictures he shot in the U.S. Told through Cole’s own writings, the stories of those closest to him, and the lens of his uncompromising work, the film is a reintroduction of a pivotal Black artist to a new generation and will unravel the mystery of his missing negatives.",
     "release_date": "2024-11-22"
+  },
+  "DocHouse: Going To Mars: Nikki Giovanni Project": {
+    "backdrop": "https://image.tmdb.org/t/p/w500//9CTiJpBRG5Uhhz2ASqz0vN23TBK.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500//7qWRK7ornW1DkebZlS3IYYJ3TCC.jpg",
+    "overview": "Intimate vérité, archival footage, and visually innovative treatments of poetry take us on a journey through the dreamscape of legendary queer poet Nikki Giovanni as she reflects on her life and legacy.",
+    "release_date": "2023-11-03"
   },
   "DocHouse: I Am Martin Parr": {
     "backdrop": "https://image.tmdb.org/t/p/w500//es2zWI2HycOvM0RFJ3kYmhAqZMk.jpg",
@@ -77,11 +77,17 @@
     "overview": "This film made by a Palestinian-Israeli collective shows the destruction of the occupied West Bank's Masafer Yatta by Israeli soldiers and the alliance which develops between the Palestinian activist Basel and Israeli journalist Yuval.",
     "release_date": "2024-11-01"
   },
-  "DocHouse: Soundtrack to a Coup d'État": {
-    "backdrop": "https://image.tmdb.org/t/p/w500//fUlzONyAzageVzf2ruxkw3RWEiM.jpg",
-    "poster": "https://image.tmdb.org/t/p/w500//eZOB9UurVQjpdIp72L49pyd3anw.jpg",
-    "overview": "Jazz and decolonization are intertwined in a powerful narrative that recounts one of the tensest episodes of the Cold War.  In 1960, the UN became the stage for a political earthquake as the struggle for independence in the Congo put the world on high alert. The newly independent nation faced its first coup d'état, orchestrated by Western forces and Belgium, which were reluctant to relinquish control over their resource-rich former colony. The US tried to divert attention by sending jazz ambassador Louis Armstrong to the African continent.  In 1961, Congolese leader Patrice Lumumba was brutally assassinated, silencing a key voice in the fight against colonialism; his death was facilitated by Belgian and CIA operatives. Musicians Abbey Lincoln and Max Roach took action, denouncing imperialism and structural racism. Soviet Premier Nikita Khrushchev intensified his criticism of the US, highlighting the racial barriers that characterized American society.",
-    "release_date": "2024-09-11"
+  "DocHouse: Silent Trees": {
+    "backdrop": "https://image.tmdb.org/t/p/w500//jnmgp5OMgo8npwZHnjM4NI487Eb.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500//A1pIJWSFnQdkU1ccScE3nntvcT6.jpg",
+    "overview": "The main character of the documentary is a 16-year-old Kurdish girl who, after the tragic death of her mother on the Polish-Belarusian border, has to become a mother to her 4 younger brothers.",
+    "release_date": "2024-12-06"
+  },
+  "DocHouse: The Thinking Game": {
+    "backdrop": "https://image.tmdb.org/t/p/w500//qtHHjRkCPNHu7qBSQ2M8v7lYz3d.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500//jNMzCuUIt5tfHYJEpCIef7oqkfI.jpg",
+    "overview": "Chronicles the extraordinary life of visionary scientist Demis Hassabis and his relentless quest to solve the enigma of artificial general intelligence.",
+    "release_date": "2025-03-21"
   },
   "DocHouse: Twiggy": {
     "backdrop": "https://image.tmdb.org/t/p/w500//mXOJnrcS2UuhRuKDN51Mol3GiMY.jpg",
@@ -89,17 +95,41 @@
     "overview": "Twiggy takes a comprehensive look at the life story of UK model and cultural icon Twiggy, real name Lesley Lawson, whose career kickstarted in the 1960s. It features interviews with Twiggy and her husband Leigh Lawson, as well as commentary from Erin O’Connor, Paul McCartney, Lulu, Poppy Delavigne, Brooke Shields, Pattie Boyd and Zandra Rhodes.",
     "release_date": "2025-03-07"
   },
-  "Ernest Cole: Lost and Found": {
-    "backdrop": "https://image.tmdb.org/t/p/w500//eE79qD0I24ENjK5IoN5J6kBtWdS.jpg",
-    "poster": "https://image.tmdb.org/t/p/w500//nEqDYZtw9GlzmwvmflY6b2mfwd7.jpg",
-    "overview": "More than 60,000 of Ernest Cole’s 35mm film negatives were inexplicably discovered in a bank vault in Stockholm, Sweden. Most considered these forever lost, especially the thousands of pictures he shot in the U.S. Told through Cole’s own writings, the stories of those closest to him, and the lens of his uncompromising work, the film is a reintroduction of a pivotal Black artist to a new generation and will unravel the mystery of his missing negatives.",
-    "release_date": "2024-11-22"
+  "DocHouse: Two Strangers Trying": {
+    "backdrop": "https://image.tmdb.org/t/p/w500//41EL4xM7QIfUmmJGwiVc2TMufyP.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500//yC5cCv8mJ4sO3lC18wua6nR4r2C.jpg",
+    "overview": "Life, death and making meaning are the heart of a beautiful and often very funny film about an aging couple who, after an accident, face the inevitability of impermanence and seek a deep peace in their relationship while they still can.",
+    "release_date": "2025-03-21"
+  },
+  "Flow": {
+    "backdrop": "https://image.tmdb.org/t/p/w500//5Re8n4DqcTTRwvzCvxbgwt6SecH.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500//uqUwD865PnyxEKXVdHrHEL6bRIj.jpg",
+    "overview": "A filmmaker talks about his work and love life with an unseen friend behind the camera. We also watch four of his short films.",
+    "release_date": "1996-01-01"
+  },
+  "Golden Eighties": {
+    "backdrop": "https://image.tmdb.org/t/p/w500//oz2ay2TYu7P4obkXri1hf5dvw9v.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500//gLkHUqNzpoppeuxWy7uyuPTkwwF.jpg",
+    "overview": "Three young women at a hair salon all like the son of the clothing store proprietors across the mall. Although Robby is selfish and shallow, he's appealing to Lili, the salon's manager, who's trendy and also the salon-owner's moll; to Mado, who's innocent and sweet; and to Pascale, who's intelligent but passive and downcast. Robby's dad tells him to grow up and see beyond the mercurial Lili, so he proposes suddenly to Mado. She's delighted, but the day before the wedding, Lili returns to give Robby another look. In the background, a Yank who was a soldier in France in World War II returns to Paris and tries to recapture the love of his wartime sweetheart, Robby's mom.",
+    "release_date": "1986-06-25"
+  },
+  "Hans Zimmer & Friends: Diamond in the Desert": {
+    "backdrop": "https://image.tmdb.org/t/p/w500//fYN7UVruGPJxA3c7yGHQ4R9OHF0.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500//qH8fkKakfGoMvr3Az6QHf2tRvSB.jpg",
+    "overview": "Conversations with collaborators and friends, alongside special live performances from Dubai's Coca-Cola Arena and beyond, from the dunes of the Arabian Desert, to the heights of the Burj Al Arab.",
+    "release_date": "2025-02-19"
   },
   "I'm Still Here": {
-    "backdrop": "https://image.tmdb.org/t/p/w500//yUOJzi3qIeXCAK1nZ7el7DUBDNV.jpg",
-    "poster": "https://image.tmdb.org/t/p/w500//m12SRfaSvbDQT9y4LAoBqULbDHo.jpg",
-    "overview": "In 1971, military dictatorship in Brazil reaches its height. The Paiva family — Rubens, Eunice, and their five children — live in a beachside house in Rio, open to all their friends. One day, Rubens is taken for questioning and does not return.",
-    "release_date": "2024-09-19"
+    "backdrop": "https://image.tmdb.org/t/p/w500//yZq3kFveiDtfJpwQTgZwXBxs4aE.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500//h8c53OPv2miF6vzpVXQZX8jw1pJ.jpg",
+    "overview": "I'm Still Here is a portrayal of a tumultuous year in the life of actor Joaquin Phoenix. With remarkable access, the film follows the Oscar-nominee as he announces his retirement from a successful film career in the fall of 2008 and sets off to reinvent himself as a hip-hop musician. The film is a portrait of an artist at a crossroads and explores notions of courage and creative reinvention, as well as the ramifications of a life spent in the public eye.",
+    "release_date": "2010-09-10"
+  },
+  "Last Breath": {
+    "backdrop": "https://image.tmdb.org/t/p/w500//75w7mMP0mRXquMqIgXidJz2IjJH.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500//zfTNsILhmDiChJJ7Zxxl8IUvkUM.jpg",
+    "overview": "A commercial diver is stranded on the seabed with only five minutes of oxygen supply, but with no chance of rescue for more than 30 minutes. With access to amazing archival footage, this is the true story of one man’s impossible fight for survival.",
+    "release_date": "2019-04-05"
   },
   "Maria": {
     "backdrop": "https://image.tmdb.org/t/p/w500//4mCzkDzNvIJYIQscGFTeqZHNDra.jpg",
@@ -108,52 +138,40 @@
     "release_date": "2019-03-07"
   },
   "Mickey 17": {
-    "backdrop": "https://image.tmdb.org/t/p/w500//4jdHGJ1xIZ4J1rUNKkjFl9YqPMZ.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w500//qUc0Hol3eP74dbW4YyqT6oRLYgT.jpg",
     "poster": "https://image.tmdb.org/t/p/w500//edKpE9B5qN3e559OuMCLZdW1iBZ.jpg",
     "overview": "Unlikely hero Mickey Barnes finds himself in the extraordinary circumstance of working for an employer who demands the ultimate commitment to the job… to die, for a living.",
     "release_date": "2025-02-28"
   },
-  "Moving Pictures": {
-    "backdrop": null,
-    "poster": null,
-    "overview": "The horrors of war, the art of producing pictures, the autobiography of a master filmmaker and the parallels between the mass production of weapons and violent media images--all come together in Moving Pictures, a rich, multi-layered documentary. Over the course of a 50-year career, Colin Low has directed or produced 200 films, and has garnered a remarkable nine Oscar nominations. During the same period, he has collected images of war--etchings and woodcuts, including extremely detailed miniatures. But the images that have so fascinated and haunted Low are nearly impossible to accurately capture on film. So Low shot Moving Pictures in 35 mm and developed techniques--used here for the first time--to show the fine lines of stamps and the microscopic details of tiny copperplate etchings with startling clarity",
-    "release_date": "2000-03-30"
-  },
-  "No Other Land": {
-    "backdrop": "https://image.tmdb.org/t/p/w500//jcuZkNso7LNMFtPAcXunxQzIaIq.jpg",
-    "poster": "https://image.tmdb.org/t/p/w500//s7XYieuZg9kMe07i9VI4bfGN4Pw.jpg",
-    "overview": "This film made by a Palestinian-Israeli collective shows the destruction of the occupied West Bank's Masafer Yatta by Israeli soldiers and the alliance which develops between the Palestinian activist Basel and Israeli journalist Yuval.",
-    "release_date": "2024-11-01"
-  },
-  "On Falling": {
-    "backdrop": null,
-    "poster": "https://image.tmdb.org/t/p/w500//rQloh2L4y1iXZKrwFai5Iyn64IA.jpg",
-    "overview": "Z falls for the moon in this queer twist on the famous Myth of Sisyphus.",
-    "release_date": "2024-03-15"
-  },
   "One of Them Days": {
-    "backdrop": "https://image.tmdb.org/t/p/w500//nK7LThZCiyJfVoiKm5ahGU2qjfG.jpg",
-    "poster": "https://image.tmdb.org/t/p/w500//hMJRFQarUL73K6FIbhvO4A8uEvm.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w500//t25z4ggC2Uvs3EhI66lxVO2jDp5.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500//ccn6bFUA5DECjA3Lo0CuJqGNQCv.jpg",
     "overview": "Best friends and roommates Dreux and Alyssa are about to have One of Them Days. When they discover Alyssa’s boyfriend has blown their rent money, the duo finds themselves going to extremes in a comical race against the clock to avoid eviction and keep their friendship intact.",
     "release_date": "2025-01-16"
   },
+  "Opus": {
+    "backdrop": "https://image.tmdb.org/t/p/w500//5zz7MfcUhYpxT6AaNyUF7jwOmKh.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500//m0du9dsiOVeb0SgfqR8ZAEPRxww.jpg",
+    "overview": "A young writer is invited to the remote compound of a legendary pop star who mysteriously disappeared thirty years ago. Surrounded by the star's cult of sycophants and intoxicated journalists, she finds herself in the middle of his twisted plan.",
+    "release_date": "2025-03-13"
+  },
+  "Paris, Texas": {
+    "backdrop": "https://image.tmdb.org/t/p/w500//pAKpSMrCv9HQdMKvIdLgTdpKh5f.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500//tqsz4nHSLvKcKio4FSEYFBEIEbo.jpg",
+    "overview": "A man wanders out of the desert not knowing who he is. His brother finds him, and helps to pull his memory back of the life he led before he walked out on his family and disappeared four years earlier.",
+    "release_date": "1984-07-16"
+  },
+  "Sister Midnight": {
+    "backdrop": "https://image.tmdb.org/t/p/w500//b1Pms8IQTCzZimyliCx8CFeqfSa.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500//lXMJ6un3SZvRq8cOHap7LviY5hG.jpg",
+    "overview": "In Mumbai, an arranged marriage spirals into darkness as the spineless husband watches his wife morph into a ruthless, feral force within their marital confines.",
+    "release_date": "2025-03-14"
+  },
   "The Brutalist": {
     "backdrop": "https://image.tmdb.org/t/p/w500//hmZnqijPaaACjenDkrbWcCmcADI.jpg",
-    "poster": "https://image.tmdb.org/t/p/w500//gl16UFazRs5Xv3VS8YKhRqQRY8T.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500//vP7Yd6couiAaw9jgMd5cjMRj3hQ.jpg",
     "overview": "Escaping post-war Europe, visionary architect László Toth arrives in America to rebuild his life. On his own in a strange new country, a wealthy industrialist recognizes his talent. But power and legacy come at a heavy cost...",
     "release_date": "2024-12-20"
-  },
-  "The Last Showgirl": {
-    "backdrop": "https://image.tmdb.org/t/p/w500//sfhhJmKJBidavKSnCd8ZIMFOOup.jpg",
-    "poster": "https://image.tmdb.org/t/p/w500//o70dV2jjGd6TmYTMOY9b34OLzDK.jpg",
-    "overview": "When the glittering Las Vegas revue she has headlined for decades announces it will soon close, a glamorous showgirl must reconcile with the decisions she’s made and the community she has built as she plans her next act.",
-    "release_date": "2024-12-13"
-  },
-  "The Monkey": {
-    "backdrop": "https://image.tmdb.org/t/p/w500//6dC7ULfiutxwEAs7LjWHL2Tc7Zv.jpg",
-    "poster": "https://image.tmdb.org/t/p/w500//yYa8Onk9ow7ukcnfp2QWVvjWYel.jpg",
-    "overview": "When twin brothers find a mysterious wind-up monkey, a series of outrageous deaths tear their family apart. Twenty-five years later, the monkey begins a new killing spree forcing the estranged brothers to confront the cursed toy.",
-    "release_date": "2025-02-14"
   },
   "The Seed of the Sacred Fig": {
     "backdrop": "https://image.tmdb.org/t/p/w500//zqZzYVE4DWv92xrYSCEELPcLnUP.jpg",
@@ -161,22 +179,34 @@
     "overview": "Investigating judge Iman grapples with paranoia amid political unrest in Tehran. When his gun vanishes, he suspects his wife and daughters, imposing draconian measures that strain family ties as societal rules crumble.",
     "release_date": "2024-09-18"
   },
+  "The Stimming Pool": {
+    "backdrop": "https://image.tmdb.org/t/p/w500//f60ZWgcRqiJB0r4DrzTlHadPefR.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500//9RddmxlHOU1pDTeHVfP9QS552BV.jpg",
+    "overview": "Created by a collective of neurodivergent filmmakers in an attempt to provide an alternative and artistic take on what it's like to live with neurodivergence in a chaotic world not made for those who are different.",
+    "release_date": "2024-03-08"
+  },
   "The Summer With Carmen": {
     "backdrop": "https://image.tmdb.org/t/p/w500//yQYFwvBgMGnjXNujfpmwRNVAEDA.jpg",
     "poster": "https://image.tmdb.org/t/p/w500//zik40amxHJ5j7XtmQMXzM8Stvis.jpg",
     "overview": "While having a day-long swim at Athens' queer beach, best friends Demosthenes and Nikitas recall the events of a recent summer in the prospect of turning them into a screenplay for Nikitas' feature debut.",
     "release_date": "2024-06-13"
   },
-  "The Thinking Game": {
-    "backdrop": "https://image.tmdb.org/t/p/w500//qtHHjRkCPNHu7qBSQ2M8v7lYz3d.jpg",
-    "poster": "https://image.tmdb.org/t/p/w500//jNMzCuUIt5tfHYJEpCIef7oqkfI.jpg",
-    "overview": "Chronicles the extraordinary life of visionary scientist Demis Hassabis and his relentless quest to solve the enigma of artificial general intelligence.",
-    "release_date": "2025-03-21"
-  },
   "Twiggy": {
     "backdrop": "https://image.tmdb.org/t/p/w500//mXOJnrcS2UuhRuKDN51Mol3GiMY.jpg",
     "poster": "https://image.tmdb.org/t/p/w500//7Wl4mtdA4BBxCaXfDHXkPHGvYWa.jpg",
     "overview": "Twiggy takes a comprehensive look at the life story of UK model and cultural icon Twiggy, real name Lesley Lawson, whose career kickstarted in the 1960s. It features interviews with Twiggy and her husband Leigh Lawson, as well as commentary from Erin O’Connor, Paul McCartney, Lulu, Poppy Delavigne, Brooke Shields, Pattie Boyd and Zandra Rhodes.",
     "release_date": "2025-03-07"
+  },
+  "Two Strangers Trying Not to Kill Each Other": {
+    "backdrop": "https://image.tmdb.org/t/p/w500//41EL4xM7QIfUmmJGwiVc2TMufyP.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500//yC5cCv8mJ4sO3lC18wua6nR4r2C.jpg",
+    "overview": "Life, death and making meaning are the heart of a beautiful and often very funny film about an aging couple who, after an accident, face the inevitability of impermanence and seek a deep peace in their relationship while they still can.",
+    "release_date": "2025-03-21"
+  },
+  "War Paint: Women at War": {
+    "backdrop": "https://image.tmdb.org/t/p/w500//ssqK9kQA9yxGMTokckUOSSlC4c4.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500//evIJdBeE2bIVJQgieIlLy7SjZgc.jpg",
+    "overview": "Shining a light on the trailblazing role of women war artists, on the front lines round the world, championing the female perspective on conflict through art and asking: when it's life or death, what do women see that men don't?",
+    "release_date": "2025-03-28"
   }
 }
