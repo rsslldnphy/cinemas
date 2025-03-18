@@ -7,34 +7,14 @@
       "runtime": 94,
       "times": [
         {
-          "starts_at": "2025-03-18T16:40:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-55223/"
-        },
-        {
           "starts_at": "2025-03-18T19:00:00+00:00",
           "site": "Curzon Aldgate",
           "url": "https://www.curzon.com/ticketing/seats/ALD1-55227/"
         },
         {
-          "starts_at": "2025-03-18T15:45:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-80066/"
-        },
-        {
-          "starts_at": "2025-03-18T18:00:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-80056/"
-        },
-        {
           "starts_at": "2025-03-18T21:15:00+00:00",
           "site": "Curzon Victoria",
           "url": "https://www.curzon.com/ticketing/seats/VIC1-80059/"
-        },
-        {
-          "starts_at": "2025-03-18T18:20:00+00:00",
-          "site": "Curzon Mayfair",
-          "url": "https://www.curzon.com/ticketing/seats/MAY1-29443/"
         },
         {
           "starts_at": "2025-03-18T21:00:00+00:00",
@@ -47,11 +27,6 @@
           "url": "https://www.curzon.com/ticketing/seats/HOX1-20816/"
         },
         {
-          "starts_at": "2025-03-18T16:00:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-31539/"
-        },
-        {
           "starts_at": "2025-03-18T18:30:00+00:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-31541/"
@@ -60,16 +35,6 @@
           "starts_at": "2025-03-18T21:30:00+00:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-31542/"
-        },
-        {
-          "starts_at": "2025-03-18T15:40:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-97960/"
-        },
-        {
-          "starts_at": "2025-03-18T17:50:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-97956/"
         },
         {
           "starts_at": "2025-03-18T21:00:00+00:00",
@@ -85,34 +50,14 @@
       "runtime": 137,
       "times": [
         {
-          "starts_at": "2025-03-18T17:10:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-55224/"
-        },
-        {
-          "starts_at": "2025-03-18T18:00:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-55225/"
-        },
-        {
           "starts_at": "2025-03-18T20:10:00+00:00",
           "site": "Curzon Aldgate",
           "url": "https://www.curzon.com/ticketing/seats/ALD1-55214/"
         },
         {
-          "starts_at": "2025-03-18T17:40:00+00:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-49010/"
-        },
-        {
           "starts_at": "2025-03-18T21:00:00+00:00",
           "site": "Curzon Soho",
           "url": "https://www.curzon.com/ticketing/seats/SOH1-49018/"
-        },
-        {
-          "starts_at": "2025-03-18T17:45:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-80057/"
         },
         {
           "starts_at": "2025-03-18T20:45:00+00:00",
@@ -125,24 +70,9 @@
           "url": "https://www.curzon.com/ticketing/seats/MAY1-29442/"
         },
         {
-          "starts_at": "2025-03-18T17:40:00+00:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-20823/"
-        },
-        {
           "starts_at": "2025-03-18T21:00:00+00:00",
           "site": "Curzon Hoxton",
           "url": "https://www.curzon.com/ticketing/seats/HOX1-20814/"
-        },
-        {
-          "starts_at": "2025-03-18T15:30:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-31538/"
-        },
-        {
-          "starts_at": "2025-03-18T18:10:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-31540/"
         },
         {
           "starts_at": "2025-03-18T20:10:00+00:00",
@@ -150,52 +80,9 @@
           "url": "https://www.curzon.com/ticketing/seats/CAM1-31544/"
         },
         {
-          "starts_at": "2025-03-18T18:10:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-97955/"
-        },
-        {
           "starts_at": "2025-03-18T20:20:00+00:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-97954/"
-        }
-      ]
-    },
-    {
-      "title": "Sister Midnight",
-      "trailer": "https://www.youtube.com/watch?v=MpC4Y4r8ftM",
-      "synopsis": "A newly arranged marriage. An oddball couple shoved together in a small Mumbai shack with paper-thin walls. They are awkward and alone-together. Unpredictable Uma does her best to cope with the heat, her total lack of domestic skills, nosy neighbours and her bumbling spouse until the nocturnal world of Mumbai and its inhabitants lead her to face her own strange behaviours.",
-      "runtime": 107,
-      "times": [
-        {
-          "starts_at": "2025-03-18T18:15:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-55226/"
-        },
-        {
-          "starts_at": "2025-03-18T18:20:00+00:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-49015/"
-        },
-        {
-          "starts_at": "2025-03-18T16:20:00+00:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-20813/"
-        },
-        {
-          "starts_at": "2025-03-18T21:20:00+00:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-20815/"
-        },
-        {
-          "starts_at": "2025-03-18T20:50:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-31549/"
-        },
-        {
-          "starts_at": "2025-03-18T21:10:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-97965/"
         }
       ]
     },
@@ -211,19 +98,9 @@
           "url": "https://www.curzon.com/ticketing/seats/ALD1-55215/"
         },
         {
-          "starts_at": "2025-03-18T17:30:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-80054/"
-        },
-        {
           "starts_at": "2025-03-18T20:30:00+00:00",
           "site": "Curzon Victoria",
           "url": "https://www.curzon.com/ticketing/seats/VIC1-80053/"
-        },
-        {
-          "starts_at": "2025-03-18T18:00:00+00:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-20819/"
         }
       ]
     },
@@ -259,34 +136,6 @@
       ]
     },
     {
-      "title": "Anora",
-      "trailer": null,
-      "synopsis": "Anora, a young sex worker from Brooklyn, meets and impulsively marries the son of an oligarch. Once the news reaches Russia, her fairytale is threatened as the parents set out for New York to get the marriage annulled.",
-      "runtime": 139,
-      "times": [
-        {
-          "starts_at": "2025-03-18T16:20:00+00:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-49011/"
-        },
-        {
-          "starts_at": "2025-03-18T20:40:00+00:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-20817/"
-        },
-        {
-          "starts_at": "2025-03-18T17:30:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-31537/"
-        },
-        {
-          "starts_at": "2025-03-18T20:30:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-31543/"
-        }
-      ]
-    },
-    {
       "title": "The Brutalist",
       "trailer": "https://www.youtube.com/watch?v=hNiwPU5vjCk",
       "synopsis": "When visionary architect László Toth and his wife Erzsébet flee post-war Europe in 1947 to rebuild their legacy and witness the birth of modern America, their lives are changed forever by a mysterious and wealthy client.\r\n\r\nThe Brutalist is showing with a 15 minute interval.",
@@ -296,16 +145,6 @@
           "starts_at": "2025-03-18T19:30:00+00:00",
           "site": "Curzon Soho",
           "url": "https://www.curzon.com/ticketing/seats/SOH1-49012/"
-        },
-        {
-          "starts_at": "2025-03-18T17:10:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-31553/"
-        },
-        {
-          "starts_at": "2025-03-18T17:00:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-97959/"
         }
       ]
     },
@@ -328,57 +167,6 @@
       ]
     },
     {
-      "title": "Conclave",
-      "trailer": "https://www.youtube.com/watch?v=Znr38bHNXp4",
-      "synopsis": "CONCLAVE follows one of the world’s most secretive and ancient events – selecting the new Pope. Cardinal Lawrence (Ralph Fiennes) is tasked with running this covert process after the unexpected death of the beloved Pope. Once the Catholic Church’s most powerful leaders have gathered from around the world and are locked together in the Vatican halls, Lawrence uncovers a trail of deep secrets left in the dead Pope’s wake, secrets which could shake the foundations of the Church.",
-      "runtime": 120,
-      "times": [
-        {
-          "starts_at": "2025-03-18T15:30:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-80062/"
-        },
-        {
-          "starts_at": "2025-03-18T18:15:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-80055/"
-        },
-        {
-          "starts_at": "2025-03-18T21:00:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-80051/"
-        },
-        {
-          "starts_at": "2025-03-18T20:40:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-97984/"
-        }
-      ]
-    },
-    {
-      "title": "EOS: Dawn of Impressionism - Paris 1874",
-      "trailer": null,
-      "synopsis": "The Impressionists are the most popular group in art history - millions flock every year to marvel at their masterpieces. But, to begin with, they were scorned, penniless outsiders. 1874 was the year that changed everything; the first Impressionists, “hungry for independence”, broke the mould by holding their own exhibition outside official channels. Impressionism was born and the art world was changed forever.\n\nWhat led to that first groundbreaking show 150 years ago? Who were the maverick personalities that wielded their brushes in such a radical and provocative way? The spectacular Musée d’Orsay exhibition brings fresh eyes to this extraordinary tale of passion and rebellion. The story is told not by historians and curators but in the words of those who witnessed the dawn of Impressionism: the artists, press and people of Paris, 1874. See the show that changed everything on the big screen.\n\n\nMade in close collaboration with the Musee d’Orsay and National Gallery of Art, Washington D.C.",
-      "runtime": 90,
-      "times": [
-        {
-          "starts_at": "2025-03-18T18:00:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-75415/"
-        },
-        {
-          "starts_at": "2025-03-18T17:50:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-27106/"
-        },
-        {
-          "starts_at": "2025-03-18T18:00:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-92988/"
-        }
-      ]
-    },
-    {
       "title": "Last Breath",
       "trailer": "https://www.youtube.com/watch?v=sNMyooXZZTM",
       "synopsis": "Starring, Woody Harrelson, Finn Cole, and Simu Liu, LAST BREATH is a tense and emotionally powerful action thriller that tells the remarkable true story of a commercial diver stranded at the bottom of the North Sea with only five minutes of oxygen and no chance of rescue. It’s a story of one man’s impossible fight for survival and a crew doing everything they can to bring him home alive.",
@@ -392,41 +180,61 @@
       ]
     },
     {
-      "title": "Maria",
-      "trailer": "https://www.youtube.com/watch?v=mVIXaTdxlQc",
-      "synopsis": "The new film from the director of Jackie and Spencer, MARIA tells the glamorous, moving story of the iconic opera singer, Maria Callas. Paris, 1977: Once the world’s greatest soprano, Callas now hides in an apartment, having lost her voice and retreated from the world. She dreams of returning to the stage, but can her body and mind take the pressure?\nFeaturing some of Callas’s greatest recordings and starring Angelina Jolie in an Oscarworthy performance, MARIA is a sumptuous drama that hits all the high notes.",
-      "runtime": 123,
+      "title": "Conclave",
+      "trailer": "https://www.youtube.com/watch?v=Znr38bHNXp4",
+      "synopsis": "CONCLAVE follows one of the world’s most secretive and ancient events – selecting the new Pope. Cardinal Lawrence (Ralph Fiennes) is tasked with running this covert process after the unexpected death of the beloved Pope. Once the Catholic Church’s most powerful leaders have gathered from around the world and are locked together in the Vatican halls, Lawrence uncovers a trail of deep secrets left in the dead Pope’s wake, secrets which could shake the foundations of the Church.",
+      "runtime": 120,
       "times": [
         {
-          "starts_at": "2025-03-18T18:00:00+00:00",
-          "site": "Curzon Mayfair",
-          "url": "https://www.curzon.com/ticketing/seats/MAY1-29449/"
-        }
-      ]
-    },
-    {
-      "title": "The Seed of the Sacred Fig",
-      "trailer": "https://www.youtube.com/watch?v=NX1azcAduRc",
-      "synopsis": "Iman works as an investigating judge at the Revolutionary Court in Tehran. As the nationwide political protests against the authoritarian government intensify, he is surrounded by suspicion and paranoia. When his gun vanishes, Iman suspects his wife Najmeh and his daughters Rezvan and Sana, imposing draconian measures that strain family ties as societal rules crumble.",
-      "runtime": 167,
-      "times": [
+          "starts_at": "2025-03-18T21:00:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-80051/"
+        },
         {
-          "starts_at": "2025-03-18T17:20:00+00:00",
+          "starts_at": "2025-03-18T20:40:00+00:00",
           "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-97958/"
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-97984/"
         }
       ]
     },
     {
-      "title": "DocHouse: Ernest Cole - Lost and Found",
+      "title": "Anora",
       "trailer": null,
-      "synopsis": "Ernest Cole, a South African photographer was the first to expose the horrors of apartheid to a world audience. His book House of Bondage, published in 1967 when he was only 27 years old, led him into exile in NYC and Europe for the rest of his life, never to find his bearings. Raoul Peck recounts his wanderings, his turmoil as an artist and his anger, on a daily basis, at the silence or complicity of the Western world in the face of the horrors of the Apartheid regime.",
-      "runtime": 106,
+      "synopsis": "Anora, a young sex worker from Brooklyn, meets and impulsively marries the son of an oligarch. Once the news reaches Russia, her fairytale is threatened as the parents set out for New York to get the marriage annulled.",
+      "runtime": 139,
       "times": [
         {
-          "starts_at": "2025-03-18T18:20:00+00:00",
+          "starts_at": "2025-03-18T20:40:00+00:00",
+          "site": "Curzon Hoxton",
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-20817/"
+        },
+        {
+          "starts_at": "2025-03-18T20:30:00+00:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-31543/"
+        }
+      ]
+    },
+    {
+      "title": "Sister Midnight",
+      "trailer": "https://www.youtube.com/watch?v=MpC4Y4r8ftM",
+      "synopsis": "A newly arranged marriage. An oddball couple shoved together in a small Mumbai shack with paper-thin walls. They are awkward and alone-together. Unpredictable Uma does her best to cope with the heat, her total lack of domestic skills, nosy neighbours and her bumbling spouse until the nocturnal world of Mumbai and its inhabitants lead her to face her own strange behaviours.",
+      "runtime": 107,
+      "times": [
+        {
+          "starts_at": "2025-03-18T21:20:00+00:00",
+          "site": "Curzon Hoxton",
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-20815/"
+        },
+        {
+          "starts_at": "2025-03-18T20:50:00+00:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-31549/"
+        },
+        {
+          "starts_at": "2025-03-18T21:10:00+00:00",
           "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-98027/"
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-97965/"
         }
       ]
     },
