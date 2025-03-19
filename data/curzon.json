@@ -7,24 +7,9 @@
       "runtime": 94,
       "times": [
         {
-          "starts_at": "2025-03-19T16:40:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-55238/"
-        },
-        {
           "starts_at": "2025-03-19T19:00:00+00:00",
           "site": "Curzon Aldgate",
           "url": "https://www.curzon.com/ticketing/seats/ALD1-55234/"
-        },
-        {
-          "starts_at": "2025-03-19T15:45:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-80086/"
-        },
-        {
-          "starts_at": "2025-03-19T18:00:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-80078/"
         },
         {
           "starts_at": "2025-03-19T21:15:00+00:00",
@@ -37,19 +22,9 @@
           "url": "https://www.curzon.com/ticketing/seats/MAY1-29469/"
         },
         {
-          "starts_at": "2025-03-19T15:40:00+00:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-20847/"
-        },
-        {
           "starts_at": "2025-03-19T21:20:00+00:00",
           "site": "Curzon Hoxton",
           "url": "https://www.curzon.com/ticketing/seats/HOX1-20844/"
-        },
-        {
-          "starts_at": "2025-03-19T16:00:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-31558/"
         },
         {
           "starts_at": "2025-03-19T18:30:00+00:00",
@@ -60,16 +35,6 @@
           "starts_at": "2025-03-19T21:30:00+00:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-31561/"
-        },
-        {
-          "starts_at": "2025-03-19T15:40:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-97941/"
-        },
-        {
-          "starts_at": "2025-03-19T18:00:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-97937/"
         },
         {
           "starts_at": "2025-03-19T21:00:00+00:00",
@@ -85,24 +50,9 @@
       "runtime": 137,
       "times": [
         {
-          "starts_at": "2025-03-19T17:10:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-55237/"
-        },
-        {
-          "starts_at": "2025-03-19T18:00:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-55236/"
-        },
-        {
           "starts_at": "2025-03-19T20:10:00+00:00",
           "site": "Curzon Aldgate",
           "url": "https://www.curzon.com/ticketing/seats/ALD1-55247/"
-        },
-        {
-          "starts_at": "2025-03-19T17:40:00+00:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-49024/"
         },
         {
           "starts_at": "2025-03-19T20:40:00+00:00",
@@ -110,24 +60,9 @@
           "url": "https://www.curzon.com/ticketing/seats/SOH1-49020/"
         },
         {
-          "starts_at": "2025-03-19T17:45:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-80076/"
-        },
-        {
           "starts_at": "2025-03-19T20:00:00+00:00",
           "site": "Curzon Victoria",
           "url": "https://www.curzon.com/ticketing/seats/VIC1-80070/"
-        },
-        {
-          "starts_at": "2025-03-19T17:40:00+00:00",
-          "site": "Curzon Mayfair",
-          "url": "https://www.curzon.com/ticketing/seats/MAY1-29470/"
-        },
-        {
-          "starts_at": "2025-03-19T17:40:00+00:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-20841/"
         },
         {
           "starts_at": "2025-03-19T21:00:00+00:00",
@@ -135,47 +70,14 @@
           "url": "https://www.curzon.com/ticketing/seats/HOX1-20846/"
         },
         {
-          "starts_at": "2025-03-19T15:30:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-31557/"
-        },
-        {
-          "starts_at": "2025-03-19T18:10:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-31559/"
-        },
-        {
           "starts_at": "2025-03-19T20:50:00+00:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-31563/"
         },
         {
-          "starts_at": "2025-03-19T18:10:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-97936/"
-        },
-        {
           "starts_at": "2025-03-19T20:20:00+00:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-97935/"
-        }
-      ]
-    },
-    {
-      "title": "Opus",
-      "trailer": "https://www.youtube.com/watch?v=dTdHw5Zy0os",
-      "synopsis": "A young writer (Ayo Edebiri) is invited to the remote compound of a legendary pop star (John Malkovich) who mysteriously disappeared thirty years ago. Surrounded by the star's cult of sycophants and intoxicated journalists, she finds herself in the middle of his twisted plan.",
-      "runtime": 104,
-      "times": [
-        {
-          "starts_at": "2025-03-19T18:20:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-55245/"
-        },
-        {
-          "starts_at": "2025-03-19T21:10:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-31554/"
         }
       ]
     },
@@ -189,11 +91,6 @@
           "starts_at": "2025-03-19T20:50:00+00:00",
           "site": "Curzon Aldgate",
           "url": "https://www.curzon.com/ticketing/seats/ALD1-55246/"
-        },
-        {
-          "starts_at": "2025-03-19T18:15:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-80071/"
         },
         {
           "starts_at": "2025-03-19T21:00:00+00:00",
@@ -219,16 +116,6 @@
           "url": "https://www.curzon.com/ticketing/seats/SOH1-49022/"
         },
         {
-          "starts_at": "2025-03-19T18:20:00+00:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-20845/"
-        },
-        {
-          "starts_at": "2025-03-19T17:50:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-31568/"
-        },
-        {
           "starts_at": "2025-03-19T20:50:00+00:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-97946/"
@@ -245,29 +132,6 @@
           "starts_at": "2025-03-19T21:20:00+00:00",
           "site": "Curzon Aldgate",
           "url": "https://www.curzon.com/ticketing/seats/ALD1-55244/"
-        }
-      ]
-    },
-    {
-      "title": "I'm Still Here",
-      "trailer": null,
-      "synopsis": "Based on Marcelo Rubens Paiva's best-selling memoir in which his mother is forced into activism when her husband was captured by a military regime in Brazil, 1964.",
-      "runtime": 137,
-      "times": [
-        {
-          "starts_at": "2025-03-19T18:00:00+00:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-49026/"
-        },
-        {
-          "starts_at": "2025-03-19T20:40:00+00:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-20843/"
-        },
-        {
-          "starts_at": "2025-03-19T17:50:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-97938/"
         }
       ]
     },
@@ -291,11 +155,6 @@
       "runtime": 120,
       "times": [
         {
-          "starts_at": "2025-03-19T15:30:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-80081/"
-        },
-        {
           "starts_at": "2025-03-19T18:30:00+00:00",
           "site": "Curzon Victoria",
           "url": "https://www.curzon.com/ticketing/seats/VIC1-80074/"
@@ -309,19 +168,6 @@
           "starts_at": "2025-03-19T20:30:00+00:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-97934/"
-        }
-      ]
-    },
-    {
-      "title": "Last Breath",
-      "trailer": "https://www.youtube.com/watch?v=sNMyooXZZTM",
-      "synopsis": "Starring, Woody Harrelson, Finn Cole, and Simu Liu, LAST BREATH is a tense and emotionally powerful action thriller that tells the remarkable true story of a commercial diver stranded at the bottom of the North Sea with only five minutes of oxygen and no chance of rescue. It’s a story of one man’s impossible fight for survival and a crew doing everything they can to bring him home alive.",
-      "runtime": 93,
-      "times": [
-        {
-          "starts_at": "2025-03-19T17:30:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-80077/"
         }
       ]
     },
@@ -344,19 +190,6 @@
       ]
     },
     {
-      "title": "War Paint: Women at War",
-      "trailer": null,
-      "synopsis": "Margy Kinmonth’s feature documentary shines a light on the trailblazing role of women war artists, on the front lines round the world, championing the female perspective on conflict through art and asking: when it's life or death, what do women see that men don't?  Traditionally a male domain, war art by women has been largely unrecognised. Until now...\r\n\r\nCulture breaks the taboo, crosses borders - tells the truth to power. Artists featured include Dame Rachel Whiteread, Zhanna Kadyrova, Maggi Hambling, Assil Diab, Dame Laura Knight, Marcelle Hanselaar, Cornelia Parker, Maya Lin, Shirin Neshat and Lee Miller. An entirely female cast of contributors makes this film a unique undertaking – telling vital truths in turbulent times.\r\n\r\nWar Paint – Women At War is the third instalment in Kinmonth’s trilogy of films about how artists depict war, following the acclaimed Eric Ravilious – Drawn To War and War Art with Eddie Redmayne. ",
-      "runtime": 89,
-      "times": [
-        {
-          "starts_at": "2025-03-19T18:20:00+00:00",
-          "site": "Curzon Mayfair",
-          "url": "https://www.curzon.com/ticketing/seats/MAY1-29234/"
-        }
-      ]
-    },
-    {
       "title": "Maria",
       "trailer": "https://www.youtube.com/watch?v=mVIXaTdxlQc",
       "synopsis": "The new film from the director of Jackie and Spencer, MARIA tells the glamorous, moving story of the iconic opera singer, Maria Callas. Paris, 1977: Once the world’s greatest soprano, Callas now hides in an apartment, having lost her voice and retreated from the world. She dreams of returning to the stage, but can her body and mind take the pressure?\nFeaturing some of Callas’s greatest recordings and starring Angelina Jolie in an Oscarworthy performance, MARIA is a sumptuous drama that hits all the high notes.",
@@ -370,20 +203,15 @@
       ]
     },
     {
-      "title": "The Brutalist",
-      "trailer": "https://www.youtube.com/watch?v=hNiwPU5vjCk",
-      "synopsis": "When visionary architect László Toth and his wife Erzsébet flee post-war Europe in 1947 to rebuild their legacy and witness the birth of modern America, their lives are changed forever by a mysterious and wealthy client.\r\n\r\nThe Brutalist is showing with a 15 minute interval.",
-      "runtime": 215,
+      "title": "I'm Still Here",
+      "trailer": null,
+      "synopsis": "Based on Marcelo Rubens Paiva's best-selling memoir in which his mother is forced into activism when her husband was captured by a military regime in Brazil, 1964.",
+      "runtime": 137,
       "times": [
         {
-          "starts_at": "2025-03-19T17:10:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-31572/"
-        },
-        {
-          "starts_at": "2025-03-19T17:00:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-97940/"
+          "starts_at": "2025-03-19T20:40:00+00:00",
+          "site": "Curzon Hoxton",
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-20843/"
         }
       ]
     },
@@ -394,11 +222,6 @@
       "runtime": 139,
       "times": [
         {
-          "starts_at": "2025-03-19T17:30:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-31556/"
-        },
-        {
           "starts_at": "2025-03-19T20:30:00+00:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-31562/"
@@ -406,41 +229,15 @@
       ]
     },
     {
-      "title": "DocHouse: Kamay",
-      "trailer": null,
-      "synopsis": "Kabul feels a long way away from the remote mountains of central Afghanistan where a Hazara family live. But that is where the oldest daughter Zahra moved to attend university, and where she died by suicide, before the end of her first year.\r\n\r\nThough the road is long, and the obstacles seem insurmountable, the family embark on a journey to understand what happened to Zahra, and try to hold Kabal University to account.\r\n\r\nBeautifully shot and deeply evocative, this is a quietly emphatic depiction of persecution, loss and perseverance, in the shadow of increasing unrest on the eve of the Taliban takeover of Afghanistan.",
-      "runtime": 106,
+      "title": "Opus",
+      "trailer": "https://www.youtube.com/watch?v=dTdHw5Zy0os",
+      "synopsis": "A young writer (Ayo Edebiri) is invited to the remote compound of a legendary pop star (John Malkovich) who mysteriously disappeared thirty years ago. Surrounded by the star's cult of sycophants and intoxicated journalists, she finds herself in the middle of his twisted plan.",
+      "runtime": 104,
       "times": [
         {
-          "starts_at": "2025-03-19T15:50:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-98030/"
-        }
-      ]
-    },
-    {
-      "title": "The Seed of the Sacred Fig",
-      "trailer": "https://www.youtube.com/watch?v=NX1azcAduRc",
-      "synopsis": "Iman works as an investigating judge at the Revolutionary Court in Tehran. As the nationwide political protests against the authoritarian government intensify, he is surrounded by suspicion and paranoia. When his gun vanishes, Iman suspects his wife Najmeh and his daughters Rezvan and Sana, imposing draconian measures that strain family ties as societal rules crumble.",
-      "runtime": 167,
-      "times": [
-        {
-          "starts_at": "2025-03-19T17:10:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-97939/"
-        }
-      ]
-    },
-    {
-      "title": "DocHouse: Silent Trees",
-      "trailer": null,
-      "synopsis": "Caught in a forest between Belarus and Poland a Kurdish family becomes a geopolitical pawn. Picking up issues explored in Agnieszka Holland’s GREEN BORDER this observational documentary focuses on 16 year old Rana Husni who shoulders her family’s emotional and practical burden after her mother dies. Forced quickly into adulthood she supports her younger brothers and their illiterate father, finding moments of joy in their refugee camp existence. Filmed with sensitivity to their trauma we follow their dreams and fears whilst waiting in limbo, with black and white drawings in Rana’s sketch book embodying her nightmares.",
-      "runtime": 84,
-      "times": [
-        {
-          "starts_at": "2025-03-19T18:20:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-97169/"
+          "starts_at": "2025-03-19T21:10:00+00:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-31554/"
         }
       ]
     },
