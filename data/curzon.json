@@ -1,21 +1,77 @@
 {
   "2025-03-22": [
     {
+      "title": "The Alto Knights",
+      "trailer": "https://www.youtube.com/watch?v=7ho5NiHgY6c",
+      "synopsis": "Directed by Barry Levinson and starring Robert De Niro . The Alto Knights follows two of New York’s most notorious organized crime bosses, Frank Costello and Vito Genovese, and how their separate paths to power place them on a deadly collision course.",
+      "runtime": 123,
+      "times": [
+        {
+          "starts_at": "2025-03-22T13:10:00+00:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-55312/"
+        },
+        {
+          "starts_at": "2025-03-22T17:20:00+00:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-55311/"
+        },
+        {
+          "starts_at": "2025-03-22T20:40:00+00:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-55310/"
+        },
+        {
+          "starts_at": "2025-03-22T17:45:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-80175/"
+        },
+        {
+          "starts_at": "2025-03-22T13:00:00+00:00",
+          "site": "Curzon Mayfair",
+          "url": "https://www.curzon.com/ticketing/seats/MAY1-29489/"
+        },
+        {
+          "starts_at": "2025-03-22T15:00:00+00:00",
+          "site": "Curzon Mayfair",
+          "url": "https://www.curzon.com/ticketing/seats/MAY1-29490/"
+        },
+        {
+          "starts_at": "2025-03-22T20:40:00+00:00",
+          "site": "Curzon Mayfair",
+          "url": "https://www.curzon.com/ticketing/seats/MAY1-29494/"
+        }
+      ]
+    },
+    {
+      "title": "Bridget Jones: Mad About the Boy",
+      "trailer": "https://www.youtube.com/watch?v=fc5zbSCgudA",
+      "synopsis": "Two-time Academy Award® winner RENÉE ZELLWEGER returns to the role that established a romantic-comedy heroine for the ages, a woman whose inimitable approach to life and love redefined an entire film genre.\n\nBridget Jones first exploded onto bookshelves in HELEN FIELDING’s literary phenomenon Bridget Jones’s Diary, which became a global bestseller and a blockbuster film. As a single career woman living in London, Bridget Jones not only introduced the world to her romantic adventures, but added “Singletons,” “Smug Marrieds” and “f---wittage” into the global lexicon. Bridget’s ability to triumph despite adversity led her to finally marry top lawyer Mark Darcy (Academy Award® winner COLIN FIRTH) and to become the mother of their baby boy. Happiness at last.\n\nBut in Bridget Jones: Mad About the Boy, Bridget is alone once again, widowed four years ago, when Mark was killed on a humanitarian mission in the Sudan. She’s now a single mother to 10-year-old Billy (CASPER KNOPF, Halo) and 6-year-old Mabel (newcomer MILA JANKOVIC), and is stuck in a state of emotional limbo, raising her children with help from her loyal friends, including her former lover, Daniel Cleaver (HUGH GRANT).\n",
+      "runtime": 125,
+      "times": [
+        {
+          "starts_at": "2025-03-22T14:00:00+00:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-55313/"
+        },
+        {
+          "starts_at": "2025-03-22T15:00:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-80167/"
+        },
+        {
+          "starts_at": "2025-03-22T20:30:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-80176/"
+        }
+      ]
+    },
+    {
       "title": "Flow",
       "trailer": "https://www.youtube.com/watch?v=shsVQvHUTxw",
       "synopsis": "When a flood of biblical proportions washes its home away, a solitary cat must seek refuge with a motley crew of animals (including a dog, a capybara, a lemur and a secretarybird), who gradually learn to get along in this endearing, Oscar-winning animation.",
       "runtime": 85,
       "times": [
-        {
-          "starts_at": "2025-03-22T11:00:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-55314/"
-        },
-        {
-          "starts_at": "2025-03-22T12:20:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-55052/"
-        },
         {
           "starts_at": "2025-03-22T14:30:00+00:00",
           "site": "Curzon Aldgate",
@@ -37,11 +93,6 @@
           "url": "https://www.curzon.com/ticketing/seats/ALD1-54829/"
         },
         {
-          "starts_at": "2025-03-22T11:20:00+00:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-48782/"
-        },
-        {
           "starts_at": "2025-03-22T13:40:00+00:00",
           "site": "Curzon Soho",
           "url": "https://www.curzon.com/ticketing/seats/SOH1-48783/"
@@ -60,11 +111,6 @@
           "starts_at": "2025-03-22T20:40:00+00:00",
           "site": "Curzon Soho",
           "url": "https://www.curzon.com/ticketing/seats/SOH1-49043/"
-        },
-        {
-          "starts_at": "2025-03-22T11:30:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-80173/"
         },
         {
           "starts_at": "2025-03-22T13:45:00+00:00",
@@ -92,11 +138,6 @@
           "url": "https://www.curzon.com/ticketing/seats/MAY1-29492/"
         },
         {
-          "starts_at": "2025-03-22T11:20:00+00:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-20879/"
-        },
-        {
           "starts_at": "2025-03-22T13:40:00+00:00",
           "site": "Curzon Hoxton",
           "url": "https://www.curzon.com/ticketing/seats/HOX1-20872/"
@@ -117,11 +158,6 @@
           "url": "https://www.curzon.com/ticketing/seats/HOX1-20871/"
         },
         {
-          "starts_at": "2025-03-22T12:00:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-31156/"
-        },
-        {
           "starts_at": "2025-03-22T14:10:00+00:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-31155/"
@@ -140,11 +176,6 @@
           "starts_at": "2025-03-22T21:10:00+00:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-31159/"
-        },
-        {
-          "starts_at": "2025-03-22T11:10:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-98195/"
         },
         {
           "starts_at": "2025-03-22T13:10:00+00:00",
@@ -175,11 +206,6 @@
       "runtime": 94,
       "times": [
         {
-          "starts_at": "2025-03-22T11:40:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-55306/"
-        },
-        {
           "starts_at": "2025-03-22T15:20:00+00:00",
           "site": "Curzon Aldgate",
           "url": "https://www.curzon.com/ticketing/seats/ALD1-55307/"
@@ -193,11 +219,6 @@
           "starts_at": "2025-03-22T21:30:00+00:00",
           "site": "Curzon Aldgate",
           "url": "https://www.curzon.com/ticketing/seats/ALD1-55308/"
-        },
-        {
-          "starts_at": "2025-03-22T12:00:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-80172/"
         },
         {
           "starts_at": "2025-03-22T14:30:00+00:00",
@@ -250,11 +271,6 @@
           "url": "https://www.curzon.com/ticketing/seats/CAM1-31705/"
         },
         {
-          "starts_at": "2025-03-22T11:20:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-98199/"
-        },
-        {
           "starts_at": "2025-03-22T18:50:00+00:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-98187/"
@@ -273,11 +289,6 @@
       "runtime": 137,
       "times": [
         {
-          "starts_at": "2025-03-22T12:00:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-55304/"
-        },
-        {
           "starts_at": "2025-03-22T16:00:00+00:00",
           "site": "Curzon Aldgate",
           "url": "https://www.curzon.com/ticketing/seats/ALD1-55305/"
@@ -291,11 +302,6 @@
           "starts_at": "2025-03-22T20:10:00+00:00",
           "site": "Curzon Aldgate",
           "url": "https://www.curzon.com/ticketing/seats/ALD1-55302/"
-        },
-        {
-          "starts_at": "2025-03-22T11:00:00+00:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-49079/"
         },
         {
           "starts_at": "2025-03-22T14:10:00+00:00",
@@ -313,11 +319,6 @@
           "url": "https://www.curzon.com/ticketing/seats/SOH1-48785/"
         },
         {
-          "starts_at": "2025-03-22T11:15:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-80174/"
-        },
-        {
           "starts_at": "2025-03-22T14:15:00+00:00",
           "site": "Curzon Victoria",
           "url": "https://www.curzon.com/ticketing/seats/VIC1-80169/"
@@ -326,11 +327,6 @@
           "starts_at": "2025-03-22T17:15:00+00:00",
           "site": "Curzon Victoria",
           "url": "https://www.curzon.com/ticketing/seats/VIC1-80177/"
-        },
-        {
-          "starts_at": "2025-03-22T11:40:00+00:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-20878/"
         },
         {
           "starts_at": "2025-03-22T15:30:00+00:00",
@@ -358,11 +354,6 @@
           "url": "https://www.curzon.com/ticketing/seats/CAM1-31706/"
         },
         {
-          "starts_at": "2025-03-22T11:40:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-98183/"
-        },
-        {
           "starts_at": "2025-03-22T14:40:00+00:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-98184/"
@@ -376,90 +367,6 @@
           "starts_at": "2025-03-22T20:40:00+00:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-98178/"
-        }
-      ]
-    },
-    {
-      "title": "The Alto Knights",
-      "trailer": "https://www.youtube.com/watch?v=7ho5NiHgY6c",
-      "synopsis": "Directed by Barry Levinson and starring Robert De Niro . The Alto Knights follows two of New York’s most notorious organized crime bosses, Frank Costello and Vito Genovese, and how their separate paths to power place them on a deadly collision course.",
-      "runtime": 123,
-      "times": [
-        {
-          "starts_at": "2025-03-22T13:10:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-55312/"
-        },
-        {
-          "starts_at": "2025-03-22T17:20:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-55311/"
-        },
-        {
-          "starts_at": "2025-03-22T20:40:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-55310/"
-        },
-        {
-          "starts_at": "2025-03-22T12:15:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-80182/"
-        },
-        {
-          "starts_at": "2025-03-22T17:45:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-80175/"
-        },
-        {
-          "starts_at": "2025-03-22T13:00:00+00:00",
-          "site": "Curzon Mayfair",
-          "url": "https://www.curzon.com/ticketing/seats/MAY1-29489/"
-        },
-        {
-          "starts_at": "2025-03-22T15:00:00+00:00",
-          "site": "Curzon Mayfair",
-          "url": "https://www.curzon.com/ticketing/seats/MAY1-29490/"
-        },
-        {
-          "starts_at": "2025-03-22T20:40:00+00:00",
-          "site": "Curzon Mayfair",
-          "url": "https://www.curzon.com/ticketing/seats/MAY1-29494/"
-        }
-      ]
-    },
-    {
-      "title": "Bridget Jones: Mad About the Boy",
-      "trailer": "https://www.youtube.com/watch?v=fc5zbSCgudA",
-      "synopsis": "Two-time Academy Award® winner RENÉE ZELLWEGER returns to the role that established a romantic-comedy heroine for the ages, a woman whose inimitable approach to life and love redefined an entire film genre.\n\nBridget Jones first exploded onto bookshelves in HELEN FIELDING’s literary phenomenon Bridget Jones’s Diary, which became a global bestseller and a blockbuster film. As a single career woman living in London, Bridget Jones not only introduced the world to her romantic adventures, but added “Singletons,” “Smug Marrieds” and “f---wittage” into the global lexicon. Bridget’s ability to triumph despite adversity led her to finally marry top lawyer Mark Darcy (Academy Award® winner COLIN FIRTH) and to become the mother of their baby boy. Happiness at last.\n\nBut in Bridget Jones: Mad About the Boy, Bridget is alone once again, widowed four years ago, when Mark was killed on a humanitarian mission in the Sudan. She’s now a single mother to 10-year-old Billy (CASPER KNOPF, Halo) and 6-year-old Mabel (newcomer MILA JANKOVIC), and is stuck in a state of emotional limbo, raising her children with help from her loyal friends, including her former lover, Daniel Cleaver (HUGH GRANT).\n",
-      "runtime": 125,
-      "times": [
-        {
-          "starts_at": "2025-03-22T14:00:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-55313/"
-        },
-        {
-          "starts_at": "2025-03-22T15:00:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-80167/"
-        },
-        {
-          "starts_at": "2025-03-22T20:30:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-80176/"
-        }
-      ]
-    },
-    {
-      "title": "Sister Midnight",
-      "trailer": "https://www.youtube.com/watch?v=MpC4Y4r8ftM",
-      "synopsis": "A newly arranged marriage. An oddball couple shoved together in a small Mumbai shack with paper-thin walls. They are awkward and alone-together. Unpredictable Uma does her best to cope with the heat, her total lack of domestic skills, nosy neighbours and her bumbling spouse until the nocturnal world of Mumbai and its inhabitants lead her to face her own strange behaviours.",
-      "runtime": 107,
-      "times": [
-        {
-          "starts_at": "2025-03-22T10:40:00+00:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-49062/"
         }
       ]
     },
@@ -557,11 +464,6 @@
           "starts_at": "2025-03-22T21:00:00+00:00",
           "site": "Curzon Victoria",
           "url": "https://www.curzon.com/ticketing/seats/VIC1-80180/"
-        },
-        {
-          "starts_at": "2025-03-22T11:30:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-98190/"
         }
       ]
     },
@@ -594,24 +496,6 @@
       ]
     },
     {
-      "title": "Kids Club: Moana 2",
-      "trailer": "https://www.youtube.com/watch?v=U9_YtmCm5-o",
-      "synopsis": "Walt Disney Animation Studios’ epic animated musical “Moana 2” takes audiences on an expansive new voyage with Moana, Maui and a brand-new crew of unlikely seafarers. After receiving an unexpected call from her wayfinding ancestors, Moana must journey to the far seas of Oceania and into dangerous, long-lost waters for an adventure unlike anything she’s ever faced. Directed by Dave Derrick Jr. with music by Grammy® winners Abigail Barlow and Emily Bear, Grammy nominee Opetaia Foa’i, and three-time Grammy winner Mark Mancina, “Moana 2” opens in theaters on Nov. 27, 2024.",
-      "runtime": 100,
-      "times": [
-        {
-          "starts_at": "2025-03-22T10:30:00+00:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-20643/"
-        },
-        {
-          "starts_at": "2025-03-22T10:30:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-31326/"
-        }
-      ]
-    },
-    {
       "title": "Santosh",
       "trailer": null,
       "synopsis": "A government scheme sees newly widowed Santosh inherit her husband’s job as a police constable in the rural badlands of Northern India. When a low-caste girl is found raped and murdered, she is pulled into the investigation under the wing of charismatic feminist inspector Sharma.",
@@ -626,11 +510,6 @@
           "starts_at": "2025-03-22T20:40:00+00:00",
           "site": "Curzon Hoxton",
           "url": "https://www.curzon.com/ticketing/seats/HOX1-20877/"
-        },
-        {
-          "starts_at": "2025-03-22T10:45:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-31708/"
         },
         {
           "starts_at": "2025-03-22T17:20:00+00:00",
@@ -656,27 +535,9 @@
       "runtime": 100,
       "times": [
         {
-          "starts_at": "2025-03-22T11:00:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-31714/"
-        },
-        {
           "starts_at": "2025-03-22T17:00:00+00:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-31710/"
-        }
-      ]
-    },
-    {
-      "title": "The Seed of the Sacred Fig",
-      "trailer": "https://www.youtube.com/watch?v=NX1azcAduRc",
-      "synopsis": "Iman works as an investigating judge at the Revolutionary Court in Tehran. As the nationwide political protests against the authoritarian government intensify, he is surrounded by suspicion and paranoia. When his gun vanishes, Iman suspects his wife Najmeh and his daughters Rezvan and Sana, imposing draconian measures that strain family ties as societal rules crumble.",
-      "runtime": 167,
-      "times": [
-        {
-          "starts_at": "2025-03-22T12:00:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-98186/"
         }
       ]
     },
