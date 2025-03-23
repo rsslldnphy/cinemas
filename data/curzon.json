@@ -1,84 +1,11 @@
 {
   "2025-03-23": [
     {
-      "title": "Mickey 17",
-      "trailer": "https://www.youtube.com/watch?v=6D3pcuJQkc4",
-      "synopsis": "From the Academy Award-winning writer/director of “Parasite,” Bong Joon Ho, comes his next groundbreaking cinematic experience, “Mickey 17.” The unlikely hero, Mickey Barnes (Robert Pattinson) has found himself in the extraordinary circumstance of working for an employer who demands the ultimate commitment to the job… to die, for a living.",
-      "runtime": 137,
-      "times": [
-        {
-          "starts_at": "2025-03-23T15:40:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-55330/"
-        },
-        {
-          "starts_at": "2025-03-23T17:20:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-55328/"
-        },
-        {
-          "starts_at": "2025-03-23T19:50:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-55326/"
-        },
-        {
-          "starts_at": "2025-03-23T16:50:00+00:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-49085/"
-        },
-        {
-          "starts_at": "2025-03-23T19:50:00+00:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-49086/"
-        },
-        {
-          "starts_at": "2025-03-23T15:30:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-80201/"
-        },
-        {
-          "starts_at": "2025-03-23T20:00:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-80191/"
-        },
-        {
-          "starts_at": "2025-03-23T17:20:00+00:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-20888/"
-        },
-        {
-          "starts_at": "2025-03-23T20:00:00+00:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-20881/"
-        },
-        {
-          "starts_at": "2025-03-23T20:20:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-31649/"
-        },
-        {
-          "starts_at": "2025-03-23T17:30:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-98083/"
-        },
-        {
-          "starts_at": "2025-03-23T20:30:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-98077/"
-        }
-      ]
-    },
-    {
       "title": "Flow",
       "trailer": "https://www.youtube.com/watch?v=shsVQvHUTxw",
       "synopsis": "When a flood of biblical proportions washes its home away, a solitary cat must seek refuge with a motley crew of animals (including a dog, a capybara, a lemur and a secretarybird), who gradually learn to get along in this endearing, Oscar-winning animation.",
       "runtime": 85,
       "times": [
-        {
-          "starts_at": "2025-03-23T16:40:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-55058/"
-        },
         {
           "starts_at": "2025-03-23T18:50:00+00:00",
           "site": "Curzon Aldgate",
@@ -90,24 +17,9 @@
           "url": "https://www.curzon.com/ticketing/seats/ALD1-54830/"
         },
         {
-          "starts_at": "2025-03-23T15:40:00+00:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-48789/"
-        },
-        {
-          "starts_at": "2025-03-23T18:00:00+00:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-48791/"
-        },
-        {
           "starts_at": "2025-03-23T20:20:00+00:00",
           "site": "Curzon Soho",
           "url": "https://www.curzon.com/ticketing/seats/SOH1-49042/"
-        },
-        {
-          "starts_at": "2025-03-23T16:00:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-80195/"
         },
         {
           "starts_at": "2025-03-23T18:30:00+00:00",
@@ -115,29 +27,9 @@
           "url": "https://www.curzon.com/ticketing/seats/VIC1-80193/"
         },
         {
-          "starts_at": "2025-03-23T17:40:00+00:00",
-          "site": "Curzon Mayfair",
-          "url": "https://www.curzon.com/ticketing/seats/MAY1-29499/"
-        },
-        {
-          "starts_at": "2025-03-23T15:30:00+00:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-20742/"
-        },
-        {
-          "starts_at": "2025-03-23T17:40:00+00:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-20543/"
-        },
-        {
           "starts_at": "2025-03-23T20:40:00+00:00",
           "site": "Curzon Hoxton",
           "url": "https://www.curzon.com/ticketing/seats/HOX1-20880/"
-        },
-        {
-          "starts_at": "2025-03-23T17:50:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-31163/"
         },
         {
           "starts_at": "2025-03-23T20:00:00+00:00",
@@ -145,47 +37,9 @@
           "url": "https://www.curzon.com/ticketing/seats/CAM1-31164/"
         },
         {
-          "starts_at": "2025-03-23T15:50:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-97527/"
-        },
-        {
-          "starts_at": "2025-03-23T18:20:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-97529/"
-        },
-        {
           "starts_at": "2025-03-23T20:30:00+00:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-97528/"
-        }
-      ]
-    },
-    {
-      "title": "The Alto Knights",
-      "trailer": "https://www.youtube.com/watch?v=7ho5NiHgY6c",
-      "synopsis": "Directed by Barry Levinson and starring Robert De Niro . The Alto Knights follows two of New York’s most notorious organized crime bosses, Frank Costello and Vito Genovese, and how their separate paths to power place them on a deadly collision course.",
-      "runtime": 123,
-      "times": [
-        {
-          "starts_at": "2025-03-23T17:00:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-55329/"
-        },
-        {
-          "starts_at": "2025-03-23T20:20:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-55325/"
-        },
-        {
-          "starts_at": "2025-03-23T16:45:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-80199/"
-        },
-        {
-          "starts_at": "2025-03-23T20:00:00+00:00",
-          "site": "Curzon Mayfair",
-          "url": "https://www.curzon.com/ticketing/seats/MAY1-29501/"
         }
       ]
     },
@@ -206,44 +60,14 @@
           "url": "https://www.curzon.com/ticketing/seats/ALD1-55324/"
         },
         {
-          "starts_at": "2025-03-23T18:15:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-80192/"
-        },
-        {
           "starts_at": "2025-03-23T20:30:00+00:00",
           "site": "Curzon Victoria",
           "url": "https://www.curzon.com/ticketing/seats/VIC1-80198/"
         },
         {
-          "starts_at": "2025-03-23T18:00:00+00:00",
-          "site": "Curzon Mayfair",
-          "url": "https://www.curzon.com/ticketing/seats/MAY1-29500/"
-        },
-        {
           "starts_at": "2025-03-23T20:20:00+00:00",
           "site": "Curzon Mayfair",
           "url": "https://www.curzon.com/ticketing/seats/MAY1-29502/"
-        },
-        {
-          "starts_at": "2025-03-23T18:20:00+00:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-20891/"
-        },
-        {
-          "starts_at": "2025-03-23T17:10:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-31651/"
-        },
-        {
-          "starts_at": "2025-03-23T16:20:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-98085/"
-        },
-        {
-          "starts_at": "2025-03-23T18:30:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-98086/"
         },
         {
           "starts_at": "2025-03-23T20:40:00+00:00",
@@ -253,56 +77,58 @@
       ]
     },
     {
-      "title": "The Brutalist",
-      "trailer": "https://www.youtube.com/watch?v=hNiwPU5vjCk",
-      "synopsis": "When visionary architect László Toth and his wife Erzsébet flee post-war Europe in 1947 to rebuild their legacy and witness the birth of modern America, their lives are changed forever by a mysterious and wealthy client.\r\n\r\nThe Brutalist is showing with a 15 minute interval.",
-      "runtime": 215,
+      "title": "Mickey 17",
+      "trailer": "https://www.youtube.com/watch?v=6D3pcuJQkc4",
+      "synopsis": "From the Academy Award-winning writer/director of “Parasite,” Bong Joon Ho, comes his next groundbreaking cinematic experience, “Mickey 17.” The unlikely hero, Mickey Barnes (Robert Pattinson) has found himself in the extraordinary circumstance of working for an employer who demands the ultimate commitment to the job… to die, for a living.",
+      "runtime": 137,
       "times": [
         {
-          "starts_at": "2025-03-23T18:20:00+00:00",
+          "starts_at": "2025-03-23T19:50:00+00:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-55326/"
+        },
+        {
+          "starts_at": "2025-03-23T19:50:00+00:00",
           "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-49082/"
+          "url": "https://www.curzon.com/ticketing/seats/SOH1-49086/"
         },
         {
-          "starts_at": "2025-03-23T18:40:00+00:00",
+          "starts_at": "2025-03-23T20:00:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-80191/"
+        },
+        {
+          "starts_at": "2025-03-23T20:00:00+00:00",
+          "site": "Curzon Hoxton",
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-20881/"
+        },
+        {
+          "starts_at": "2025-03-23T20:20:00+00:00",
           "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-31657/"
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-31649/"
+        },
+        {
+          "starts_at": "2025-03-23T20:30:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-98077/"
         }
       ]
     },
     {
-      "title": "Anora",
-      "trailer": null,
-      "synopsis": "Anora, a young sex worker from Brooklyn, meets and impulsively marries the son of an oligarch. Once the news reaches Russia, her fairytale is threatened as the parents set out for New York to get the marriage annulled.",
-      "runtime": 139,
+      "title": "The Alto Knights",
+      "trailer": "https://www.youtube.com/watch?v=7ho5NiHgY6c",
+      "synopsis": "Directed by Barry Levinson and starring Robert De Niro . The Alto Knights follows two of New York’s most notorious organized crime bosses, Frank Costello and Vito Genovese, and how their separate paths to power place them on a deadly collision course.",
+      "runtime": 123,
       "times": [
         {
-          "starts_at": "2025-03-23T17:00:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-80200/"
+          "starts_at": "2025-03-23T20:20:00+00:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-55325/"
         },
         {
-          "starts_at": "2025-03-23T19:20:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-31648/"
-        }
-      ]
-    },
-    {
-      "title": "Disney’s Snow White",
-      "trailer": "https://www.youtube.com/watch?v=wsMUQkDTo7o",
-      "synopsis": "“Disney’s Snow White” is a live-action musical reimagining of the classic 1937 film. The magical music adventure journeys back to the timeless story with beloved characters Bashful, Doc, Dopey, Grumpy, Happy, Sleepy, and Sneezy. “Disney’s Snow White” is directed by Marc Webb and produced by Marc Platt and Jared LeBoff, with Callum McDougall serving as executive producer, and features all-new original songs from Benj Pasek and Justin Paul.",
-      "runtime": 109,
-      "times": [
-        {
-          "starts_at": "2025-03-23T17:30:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-79953/"
-        },
-        {
-          "starts_at": "2025-03-23T20:15:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-79952/"
+          "starts_at": "2025-03-23T20:00:00+00:00",
+          "site": "Curzon Mayfair",
+          "url": "https://www.curzon.com/ticketing/seats/MAY1-29501/"
         }
       ]
     },
@@ -320,6 +146,19 @@
       ]
     },
     {
+      "title": "Disney’s Snow White",
+      "trailer": "https://www.youtube.com/watch?v=wsMUQkDTo7o",
+      "synopsis": "“Disney’s Snow White” is a live-action musical reimagining of the classic 1937 film. The magical music adventure journeys back to the timeless story with beloved characters Bashful, Doc, Dopey, Grumpy, Happy, Sleepy, and Sneezy. “Disney’s Snow White” is directed by Marc Webb and produced by Marc Platt and Jared LeBoff, with Callum McDougall serving as executive producer, and features all-new original songs from Benj Pasek and Justin Paul.",
+      "runtime": 109,
+      "times": [
+        {
+          "starts_at": "2025-03-23T20:15:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-79952/"
+        }
+      ]
+    },
+    {
       "title": "Conclave",
       "trailer": "https://www.youtube.com/watch?v=Znr38bHNXp4",
       "synopsis": "CONCLAVE follows one of the world’s most secretive and ancient events – selecting the new Pope. Cardinal Lawrence (Ralph Fiennes) is tasked with running this covert process after the unexpected death of the beloved Pope. Once the Catholic Church’s most powerful leaders have gathered from around the world and are locked together in the Vatican halls, Lawrence uncovers a trail of deep secrets left in the dead Pope’s wake, secrets which could shake the foundations of the Church.",
@@ -329,11 +168,6 @@
           "starts_at": "2025-03-23T20:45:00+00:00",
           "site": "Curzon Victoria",
           "url": "https://www.curzon.com/ticketing/seats/VIC1-80194/"
-        },
-        {
-          "starts_at": "2025-03-23T18:00:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-98089/"
         }
       ]
     },
@@ -349,11 +183,6 @@
           "url": "https://www.curzon.com/ticketing/seats/HOX1-20882/"
         },
         {
-          "starts_at": "2025-03-23T17:30:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-31646/"
-        },
-        {
           "starts_at": "2025-03-23T20:10:00+00:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-98080/"
@@ -361,85 +190,28 @@
       ]
     },
     {
-      "title": "Two Strangers Trying Not to Kill Each Other",
-      "trailer": "https://www.youtube.com/watch?v=l28xXo-zpqo",
-      "synopsis": "When artist Maggie Barrett (75) breaks her femur, her husband Joel Meyerowitz (84), a world-famous photographer, becomes her caregiver. In the shadow of mortality, each with a long and dramatic life behind them, the hard truths of life together provoke in Maggie and Joel an attempt to find a shared inner-peace while there is still time.",
-      "runtime": 100,
+      "title": "The Brutalist",
+      "trailer": "https://www.youtube.com/watch?v=hNiwPU5vjCk",
+      "synopsis": "When visionary architect László Toth and his wife Erzsébet flee post-war Europe in 1947 to rebuild their legacy and witness the birth of modern America, their lives are changed forever by a mysterious and wealthy client.\r\n\r\nThe Brutalist is showing with a 15 minute interval.",
+      "runtime": 215,
       "times": [
         {
-          "starts_at": "2025-03-23T16:40:00+00:00",
+          "starts_at": "2025-03-23T18:40:00+00:00",
           "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-31645/"
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-31657/"
         }
       ]
     },
     {
-      "title": "I'm Still Here",
+      "title": "Anora",
       "trailer": null,
-      "synopsis": "Based on Marcelo Rubens Paiva's best-selling memoir in which his mother is forced into activism when her husband was captured by a military regime in Brazil, 1964.",
-      "runtime": 137,
+      "synopsis": "Anora, a young sex worker from Brooklyn, meets and impulsively marries the son of an oligarch. Once the news reaches Russia, her fairytale is threatened as the parents set out for New York to get the marriage annulled.",
+      "runtime": 139,
       "times": [
         {
-          "starts_at": "2025-03-23T19:00:00+00:00",
+          "starts_at": "2025-03-23T19:20:00+00:00",
           "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-31654/"
-        }
-      ]
-    },
-    {
-      "title": "The Summer With Carmen",
-      "trailer": "https://www.youtube.com/watch?v=2Ir2FU2bygU",
-      "synopsis": "In this sexy, sun-drenched comedy, best friends Demos and Nikitas are about to embark on the most meta movie adventure ever. They’re making a film about the summer that turned their lives upside down – you know, the one where Demos’ boyfriend Panos dropped a bombshell ending their four-year relationship and somehow leaving Demos co-parenting their dog Carmen.\n\nAs our dynamic duo dives into writing their masterpiece, the story bounces between past and present. But beneath all the laughs and chaos, there’s a joyous exploration of what it means to be a modern gay man – from dating dilemmas to the pressure of fitting into society’s neat little boxes.",
-      "runtime": 106,
-      "times": [
-        {
-          "starts_at": "2025-03-23T15:30:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-98090/"
-        },
-        {
-          "starts_at": "2025-03-23T20:50:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-98092/"
-        }
-      ]
-    },
-    {
-      "title": "DocHouse: Going To Mars: Nikki Giovanni Project",
-      "trailer": null,
-      "synopsis": "Legendary African-American poet and activist Nikki Giovanni was one of America's greatest artists and social commentators. This beguiling portrait, which follows Giovanni as she approaches 80, was completed and released to international acclaim before she passed away in December 2024.\r\n\r\nLooking back at a personal life and history cast in the long shadow of American racism, and forward to hopeful, possible futures, GOING TO MARS explores Giovanni’s Afrofuturist-feminist philosophical outlook as well as her poignant relationship with her family, her political audacity and her poetic eloquence, with Giovanni herself as our guide and narrator.",
-      "runtime": 102,
-      "times": [
-        {
-          "starts_at": "2025-03-23T16:00:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-97359/"
-        }
-      ]
-    },
-    {
-      "title": "A Brief History Of A Family",
-      "trailer": null,
-      "synopsis": "A middle-class family's fate becomes intertwined with their only son's enigmatic new friend in post one-child policy China, putting unspoken secrets, unmet expectations, and untended emotions under the microscope.",
-      "runtime": 99,
-      "times": [
-        {
-          "starts_at": "2025-03-23T17:50:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-98079/"
-        }
-      ]
-    },
-    {
-      "title": "DocHouse: The Thinking Game",
-      "trailer": null,
-      "synopsis": "Inside the headquarters of DeepMind, founder Demis Hassabis and his team are trying to unravel the mysteries of Artificial General Intelligence (AGI).\r\n\r\nTrying to crack a problem that Demis has dedicated his whole career to, they relentlessly pursue the creation of AI that matches or surpasses human abilities. Filmed over five years, THE THINKING GAME puts viewers in the room for the pivotal moments of this quest, capturing the exhilaration of historic breakthroughs like AlphaFold, the\r\ncrushing weight of disappointment during setbacks, and the unwavering pursuit of knowledge that defines Demis' commitment to scientific innovation.\r\n\r\nIn 2024, Demis won a Nobel Prize and was knighted for services to AI. THE THINKING GAME traces his journey from child chess star to the forefront of AI development, and invites the audience to witness one of the most important scientific adventures of our time, exploring the potential of AGI to reshape our world.",
-      "runtime": 83,
-      "times": [
-        {
-          "starts_at": "2025-03-23T18:10:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-97536/"
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-31648/"
         }
       ]
     },
@@ -453,6 +225,19 @@
           "starts_at": "2025-03-23T20:00:00+00:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-98207/"
+        }
+      ]
+    },
+    {
+      "title": "The Summer With Carmen",
+      "trailer": "https://www.youtube.com/watch?v=2Ir2FU2bygU",
+      "synopsis": "In this sexy, sun-drenched comedy, best friends Demos and Nikitas are about to embark on the most meta movie adventure ever. They’re making a film about the summer that turned their lives upside down – you know, the one where Demos’ boyfriend Panos dropped a bombshell ending their four-year relationship and somehow leaving Demos co-parenting their dog Carmen.\n\nAs our dynamic duo dives into writing their masterpiece, the story bounces between past and present. But beneath all the laughs and chaos, there’s a joyous exploration of what it means to be a modern gay man – from dating dilemmas to the pressure of fitting into society’s neat little boxes.",
+      "runtime": 106,
+      "times": [
+        {
+          "starts_at": "2025-03-23T20:50:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-98092/"
         }
       ]
     }
