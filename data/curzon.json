@@ -1,380 +1,6 @@
 {
   "2025-03-23": [
     {
-      "title": "Flow",
-      "trailer": "https://www.youtube.com/watch?v=shsVQvHUTxw",
-      "synopsis": "When a flood of biblical proportions washes its home away, a solitary cat must seek refuge with a motley crew of animals (including a dog, a capybara, a lemur and a secretarybird), who gradually learn to get along in this endearing, Oscar-winning animation.",
-      "runtime": 85,
-      "times": [
-        {
-          "starts_at": "2025-03-23T10:40:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-55323/"
-        },
-        {
-          "starts_at": "2025-03-23T12:20:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-55056/"
-        },
-        {
-          "starts_at": "2025-03-23T14:30:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-55057/"
-        },
-        {
-          "starts_at": "2025-03-23T16:40:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-55058/"
-        },
-        {
-          "starts_at": "2025-03-23T18:50:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-55059/"
-        },
-        {
-          "starts_at": "2025-03-23T21:00:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-54830/"
-        },
-        {
-          "starts_at": "2025-03-23T11:00:00+00:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-48787/"
-        },
-        {
-          "starts_at": "2025-03-23T13:20:00+00:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-48788/"
-        },
-        {
-          "starts_at": "2025-03-23T15:40:00+00:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-48789/"
-        },
-        {
-          "starts_at": "2025-03-23T18:00:00+00:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-48791/"
-        },
-        {
-          "starts_at": "2025-03-23T20:20:00+00:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-49042/"
-        },
-        {
-          "starts_at": "2025-03-23T10:30:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-80188/"
-        },
-        {
-          "starts_at": "2025-03-23T16:00:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-80195/"
-        },
-        {
-          "starts_at": "2025-03-23T18:30:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-80193/"
-        },
-        {
-          "starts_at": "2025-03-23T11:30:00+00:00",
-          "site": "Curzon Mayfair",
-          "url": "https://www.curzon.com/ticketing/seats/MAY1-29498/"
-        },
-        {
-          "starts_at": "2025-03-23T17:40:00+00:00",
-          "site": "Curzon Mayfair",
-          "url": "https://www.curzon.com/ticketing/seats/MAY1-29499/"
-        },
-        {
-          "starts_at": "2025-03-23T10:40:00+00:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-20889/"
-        },
-        {
-          "starts_at": "2025-03-23T13:20:00+00:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-20890/"
-        },
-        {
-          "starts_at": "2025-03-23T15:30:00+00:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-20742/"
-        },
-        {
-          "starts_at": "2025-03-23T17:40:00+00:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-20543/"
-        },
-        {
-          "starts_at": "2025-03-23T20:40:00+00:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-20880/"
-        },
-        {
-          "starts_at": "2025-03-23T11:30:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-31161/"
-        },
-        {
-          "starts_at": "2025-03-23T13:40:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-31160/"
-        },
-        {
-          "starts_at": "2025-03-23T15:45:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-31162/"
-        },
-        {
-          "starts_at": "2025-03-23T17:50:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-31163/"
-        },
-        {
-          "starts_at": "2025-03-23T20:00:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-31164/"
-        },
-        {
-          "starts_at": "2025-03-23T11:20:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-97525/"
-        },
-        {
-          "starts_at": "2025-03-23T13:40:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-97526/"
-        },
-        {
-          "starts_at": "2025-03-23T15:50:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-97527/"
-        },
-        {
-          "starts_at": "2025-03-23T18:20:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-97529/"
-        },
-        {
-          "starts_at": "2025-03-23T20:30:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-97528/"
-        }
-      ]
-    },
-    {
-      "title": "Black Bag",
-      "trailer": "https://www.youtube.com/watch?v=n_56L6WzLT8",
-      "synopsis": "From Director Steven Soderbergh, BLACK BAG is a gripping spy drama about legendary intelligence agents George Woodhouse and his beloved wife Kathryn. When she is suspected of betraying the nation, George faces the ultimate test – loyalty to his marriage or his country.",
-      "runtime": 94,
-      "times": [
-        {
-          "starts_at": "2025-03-23T11:20:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-55322/"
-        },
-        {
-          "starts_at": "2025-03-23T15:00:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-55318/"
-        },
-        {
-          "starts_at": "2025-03-23T18:50:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-55327/"
-        },
-        {
-          "starts_at": "2025-03-23T21:10:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-55324/"
-        },
-        {
-          "starts_at": "2025-03-23T11:15:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-80187/"
-        },
-        {
-          "starts_at": "2025-03-23T13:30:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-80185/"
-        },
-        {
-          "starts_at": "2025-03-23T18:15:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-80192/"
-        },
-        {
-          "starts_at": "2025-03-23T20:30:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-80198/"
-        },
-        {
-          "starts_at": "2025-03-23T12:20:00+00:00",
-          "site": "Curzon Mayfair",
-          "url": "https://www.curzon.com/ticketing/seats/MAY1-29496/"
-        },
-        {
-          "starts_at": "2025-03-23T18:00:00+00:00",
-          "site": "Curzon Mayfair",
-          "url": "https://www.curzon.com/ticketing/seats/MAY1-29500/"
-        },
-        {
-          "starts_at": "2025-03-23T20:20:00+00:00",
-          "site": "Curzon Mayfair",
-          "url": "https://www.curzon.com/ticketing/seats/MAY1-29502/"
-        },
-        {
-          "starts_at": "2025-03-23T11:00:00+00:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-20884/"
-        },
-        {
-          "starts_at": "2025-03-23T12:50:00+00:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-20885/"
-        },
-        {
-          "starts_at": "2025-03-23T18:20:00+00:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-20891/"
-        },
-        {
-          "starts_at": "2025-03-23T11:45:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-31653/"
-        },
-        {
-          "starts_at": "2025-03-23T17:10:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-31651/"
-        },
-        {
-          "starts_at": "2025-03-23T16:20:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-98085/"
-        },
-        {
-          "starts_at": "2025-03-23T18:30:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-98086/"
-        },
-        {
-          "starts_at": "2025-03-23T20:40:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-98088/"
-        }
-      ]
-    },
-    {
-      "title": "Mickey 17",
-      "trailer": "https://www.youtube.com/watch?v=6D3pcuJQkc4",
-      "synopsis": "From the Academy Award-winning writer/director of “Parasite,” Bong Joon Ho, comes his next groundbreaking cinematic experience, “Mickey 17.” The unlikely hero, Mickey Barnes (Robert Pattinson) has found himself in the extraordinary circumstance of working for an employer who demands the ultimate commitment to the job… to die, for a living.",
-      "runtime": 137,
-      "times": [
-        {
-          "starts_at": "2025-03-23T11:40:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-55321/"
-        },
-        {
-          "starts_at": "2025-03-23T15:40:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-55330/"
-        },
-        {
-          "starts_at": "2025-03-23T17:20:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-55328/"
-        },
-        {
-          "starts_at": "2025-03-23T19:50:00+00:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-55326/"
-        },
-        {
-          "starts_at": "2025-03-23T13:50:00+00:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-49083/"
-        },
-        {
-          "starts_at": "2025-03-23T16:50:00+00:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-49085/"
-        },
-        {
-          "starts_at": "2025-03-23T19:50:00+00:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-49086/"
-        },
-        {
-          "starts_at": "2025-03-23T10:45:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-80189/"
-        },
-        {
-          "starts_at": "2025-03-23T15:30:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-80201/"
-        },
-        {
-          "starts_at": "2025-03-23T20:00:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-80191/"
-        },
-        {
-          "starts_at": "2025-03-23T11:20:00+00:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-20883/"
-        },
-        {
-          "starts_at": "2025-03-23T15:10:00+00:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-20887/"
-        },
-        {
-          "starts_at": "2025-03-23T17:20:00+00:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-20888/"
-        },
-        {
-          "starts_at": "2025-03-23T20:00:00+00:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-20881/"
-        },
-        {
-          "starts_at": "2025-03-23T14:20:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-31656/"
-        },
-        {
-          "starts_at": "2025-03-23T20:20:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-31649/"
-        },
-        {
-          "starts_at": "2025-03-23T11:30:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-98081/"
-        },
-        {
-          "starts_at": "2025-03-23T14:30:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-98082/"
-        },
-        {
-          "starts_at": "2025-03-23T17:30:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-98083/"
-        },
-        {
-          "starts_at": "2025-03-23T20:30:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-98077/"
-        }
-      ]
-    },
-    {
       "title": "The Alto Knights",
       "trailer": "https://www.youtube.com/watch?v=7ho5NiHgY6c",
       "synopsis": "Directed by Barry Levinson and starring Robert De Niro . The Alto Knights follows two of New York’s most notorious organized crime bosses, Frank Costello and Vito Genovese, and how their separate paths to power place them on a deadly collision course.",
@@ -394,11 +20,6 @@
           "starts_at": "2025-03-23T20:20:00+00:00",
           "site": "Curzon Aldgate",
           "url": "https://www.curzon.com/ticketing/seats/ALD1-55325/"
-        },
-        {
-          "starts_at": "2025-03-23T11:00:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-80196/"
         },
         {
           "starts_at": "2025-03-23T16:45:00+00:00",
@@ -441,15 +62,291 @@
       ]
     },
     {
-      "title": "Sister Midnight",
-      "trailer": "https://www.youtube.com/watch?v=MpC4Y4r8ftM",
-      "synopsis": "A newly arranged marriage. An oddball couple shoved together in a small Mumbai shack with paper-thin walls. They are awkward and alone-together. Unpredictable Uma does her best to cope with the heat, her total lack of domestic skills, nosy neighbours and her bumbling spouse until the nocturnal world of Mumbai and its inhabitants lead her to face her own strange behaviours.",
-      "runtime": 107,
+      "title": "Flow",
+      "trailer": "https://www.youtube.com/watch?v=shsVQvHUTxw",
+      "synopsis": "When a flood of biblical proportions washes its home away, a solitary cat must seek refuge with a motley crew of animals (including a dog, a capybara, a lemur and a secretarybird), who gradually learn to get along in this endearing, Oscar-winning animation.",
+      "runtime": 85,
       "times": [
         {
-          "starts_at": "2025-03-23T11:20:00+00:00",
+          "starts_at": "2025-03-23T14:30:00+00:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-55057/"
+        },
+        {
+          "starts_at": "2025-03-23T16:40:00+00:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-55058/"
+        },
+        {
+          "starts_at": "2025-03-23T18:50:00+00:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-55059/"
+        },
+        {
+          "starts_at": "2025-03-23T21:00:00+00:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-54830/"
+        },
+        {
+          "starts_at": "2025-03-23T13:20:00+00:00",
           "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-49080/"
+          "url": "https://www.curzon.com/ticketing/seats/SOH1-48788/"
+        },
+        {
+          "starts_at": "2025-03-23T15:40:00+00:00",
+          "site": "Curzon Soho",
+          "url": "https://www.curzon.com/ticketing/seats/SOH1-48789/"
+        },
+        {
+          "starts_at": "2025-03-23T18:00:00+00:00",
+          "site": "Curzon Soho",
+          "url": "https://www.curzon.com/ticketing/seats/SOH1-48791/"
+        },
+        {
+          "starts_at": "2025-03-23T20:20:00+00:00",
+          "site": "Curzon Soho",
+          "url": "https://www.curzon.com/ticketing/seats/SOH1-49042/"
+        },
+        {
+          "starts_at": "2025-03-23T16:00:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-80195/"
+        },
+        {
+          "starts_at": "2025-03-23T18:30:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-80193/"
+        },
+        {
+          "starts_at": "2025-03-23T17:40:00+00:00",
+          "site": "Curzon Mayfair",
+          "url": "https://www.curzon.com/ticketing/seats/MAY1-29499/"
+        },
+        {
+          "starts_at": "2025-03-23T13:20:00+00:00",
+          "site": "Curzon Hoxton",
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-20890/"
+        },
+        {
+          "starts_at": "2025-03-23T15:30:00+00:00",
+          "site": "Curzon Hoxton",
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-20742/"
+        },
+        {
+          "starts_at": "2025-03-23T17:40:00+00:00",
+          "site": "Curzon Hoxton",
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-20543/"
+        },
+        {
+          "starts_at": "2025-03-23T20:40:00+00:00",
+          "site": "Curzon Hoxton",
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-20880/"
+        },
+        {
+          "starts_at": "2025-03-23T13:40:00+00:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-31160/"
+        },
+        {
+          "starts_at": "2025-03-23T15:45:00+00:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-31162/"
+        },
+        {
+          "starts_at": "2025-03-23T17:50:00+00:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-31163/"
+        },
+        {
+          "starts_at": "2025-03-23T20:00:00+00:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-31164/"
+        },
+        {
+          "starts_at": "2025-03-23T13:40:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-97526/"
+        },
+        {
+          "starts_at": "2025-03-23T15:50:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-97527/"
+        },
+        {
+          "starts_at": "2025-03-23T18:20:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-97529/"
+        },
+        {
+          "starts_at": "2025-03-23T20:30:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-97528/"
+        }
+      ]
+    },
+    {
+      "title": "Black Bag",
+      "trailer": "https://www.youtube.com/watch?v=n_56L6WzLT8",
+      "synopsis": "From Director Steven Soderbergh, BLACK BAG is a gripping spy drama about legendary intelligence agents George Woodhouse and his beloved wife Kathryn. When she is suspected of betraying the nation, George faces the ultimate test – loyalty to his marriage or his country.",
+      "runtime": 94,
+      "times": [
+        {
+          "starts_at": "2025-03-23T15:00:00+00:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-55318/"
+        },
+        {
+          "starts_at": "2025-03-23T18:50:00+00:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-55327/"
+        },
+        {
+          "starts_at": "2025-03-23T21:10:00+00:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-55324/"
+        },
+        {
+          "starts_at": "2025-03-23T13:30:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-80185/"
+        },
+        {
+          "starts_at": "2025-03-23T18:15:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-80192/"
+        },
+        {
+          "starts_at": "2025-03-23T20:30:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-80198/"
+        },
+        {
+          "starts_at": "2025-03-23T18:00:00+00:00",
+          "site": "Curzon Mayfair",
+          "url": "https://www.curzon.com/ticketing/seats/MAY1-29500/"
+        },
+        {
+          "starts_at": "2025-03-23T20:20:00+00:00",
+          "site": "Curzon Mayfair",
+          "url": "https://www.curzon.com/ticketing/seats/MAY1-29502/"
+        },
+        {
+          "starts_at": "2025-03-23T12:50:00+00:00",
+          "site": "Curzon Hoxton",
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-20885/"
+        },
+        {
+          "starts_at": "2025-03-23T18:20:00+00:00",
+          "site": "Curzon Hoxton",
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-20891/"
+        },
+        {
+          "starts_at": "2025-03-23T17:10:00+00:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-31651/"
+        },
+        {
+          "starts_at": "2025-03-23T16:20:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-98085/"
+        },
+        {
+          "starts_at": "2025-03-23T18:30:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-98086/"
+        },
+        {
+          "starts_at": "2025-03-23T20:40:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-98088/"
+        }
+      ]
+    },
+    {
+      "title": "Mickey 17",
+      "trailer": "https://www.youtube.com/watch?v=6D3pcuJQkc4",
+      "synopsis": "From the Academy Award-winning writer/director of “Parasite,” Bong Joon Ho, comes his next groundbreaking cinematic experience, “Mickey 17.” The unlikely hero, Mickey Barnes (Robert Pattinson) has found himself in the extraordinary circumstance of working for an employer who demands the ultimate commitment to the job… to die, for a living.",
+      "runtime": 137,
+      "times": [
+        {
+          "starts_at": "2025-03-23T15:40:00+00:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-55330/"
+        },
+        {
+          "starts_at": "2025-03-23T17:20:00+00:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-55328/"
+        },
+        {
+          "starts_at": "2025-03-23T19:50:00+00:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-55326/"
+        },
+        {
+          "starts_at": "2025-03-23T13:50:00+00:00",
+          "site": "Curzon Soho",
+          "url": "https://www.curzon.com/ticketing/seats/SOH1-49083/"
+        },
+        {
+          "starts_at": "2025-03-23T16:50:00+00:00",
+          "site": "Curzon Soho",
+          "url": "https://www.curzon.com/ticketing/seats/SOH1-49085/"
+        },
+        {
+          "starts_at": "2025-03-23T19:50:00+00:00",
+          "site": "Curzon Soho",
+          "url": "https://www.curzon.com/ticketing/seats/SOH1-49086/"
+        },
+        {
+          "starts_at": "2025-03-23T15:30:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-80201/"
+        },
+        {
+          "starts_at": "2025-03-23T20:00:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-80191/"
+        },
+        {
+          "starts_at": "2025-03-23T15:10:00+00:00",
+          "site": "Curzon Hoxton",
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-20887/"
+        },
+        {
+          "starts_at": "2025-03-23T17:20:00+00:00",
+          "site": "Curzon Hoxton",
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-20888/"
+        },
+        {
+          "starts_at": "2025-03-23T20:00:00+00:00",
+          "site": "Curzon Hoxton",
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-20881/"
+        },
+        {
+          "starts_at": "2025-03-23T14:20:00+00:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-31656/"
+        },
+        {
+          "starts_at": "2025-03-23T20:20:00+00:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-31649/"
+        },
+        {
+          "starts_at": "2025-03-23T14:30:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-98082/"
+        },
+        {
+          "starts_at": "2025-03-23T17:30:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-98083/"
+        },
+        {
+          "starts_at": "2025-03-23T20:30:00+00:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-98077/"
         }
       ]
     },
@@ -459,11 +356,6 @@
       "synopsis": "Based on Marcelo Rubens Paiva's best-selling memoir in which his mother is forced into activism when her husband was captured by a military regime in Brazil, 1964.",
       "runtime": 137,
       "times": [
-        {
-          "starts_at": "2025-03-23T12:00:00+00:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-49081/"
-        },
         {
           "starts_at": "2025-03-23T15:15:00+00:00",
           "site": "Curzon Soho",
@@ -478,11 +370,6 @@
           "starts_at": "2025-03-23T19:00:00+00:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-31654/"
-        },
-        {
-          "starts_at": "2025-03-23T11:00:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-98091/"
         }
       ]
     },
@@ -498,47 +385,9 @@
           "url": "https://www.curzon.com/ticketing/seats/SOH1-49082/"
         },
         {
-          "starts_at": "2025-03-23T11:00:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-31658/"
-        },
-        {
           "starts_at": "2025-03-23T18:40:00+00:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-31657/"
-        },
-        {
-          "starts_at": "2025-03-23T11:10:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-98087/"
-        }
-      ]
-    },
-    {
-      "title": "Disney’s Snow White",
-      "trailer": "https://www.youtube.com/watch?v=wsMUQkDTo7o",
-      "synopsis": "“Disney’s Snow White” is a live-action musical reimagining of the classic 1937 film. The magical music adventure journeys back to the timeless story with beloved characters Bashful, Doc, Dopey, Grumpy, Happy, Sleepy, and Sneezy. “Disney’s Snow White” is directed by Marc Webb and produced by Marc Platt and Jared LeBoff, with Callum McDougall serving as executive producer, and features all-new original songs from Benj Pasek and Justin Paul.",
-      "runtime": 109,
-      "times": [
-        {
-          "starts_at": "2025-03-23T12:00:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-79955/"
-        },
-        {
-          "starts_at": "2025-03-23T14:45:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-79954/"
-        },
-        {
-          "starts_at": "2025-03-23T17:30:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-79953/"
-        },
-        {
-          "starts_at": "2025-03-23T20:15:00+00:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-79952/"
         }
       ]
     },
@@ -580,6 +429,29 @@
           "starts_at": "2025-03-23T14:00:00+00:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-30930/"
+        }
+      ]
+    },
+    {
+      "title": "Disney’s Snow White",
+      "trailer": "https://www.youtube.com/watch?v=wsMUQkDTo7o",
+      "synopsis": "“Disney’s Snow White” is a live-action musical reimagining of the classic 1937 film. The magical music adventure journeys back to the timeless story with beloved characters Bashful, Doc, Dopey, Grumpy, Happy, Sleepy, and Sneezy. “Disney’s Snow White” is directed by Marc Webb and produced by Marc Platt and Jared LeBoff, with Callum McDougall serving as executive producer, and features all-new original songs from Benj Pasek and Justin Paul.",
+      "runtime": 109,
+      "times": [
+        {
+          "starts_at": "2025-03-23T14:45:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-79954/"
+        },
+        {
+          "starts_at": "2025-03-23T17:30:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-79953/"
+        },
+        {
+          "starts_at": "2025-03-23T20:15:00+00:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-79952/"
         }
       ]
     },
@@ -636,11 +508,6 @@
           "url": "https://www.curzon.com/ticketing/seats/HOX1-20882/"
         },
         {
-          "starts_at": "2025-03-23T11:15:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-31647/"
-        },
-        {
           "starts_at": "2025-03-23T17:30:00+00:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-31646/"
@@ -664,27 +531,9 @@
       "runtime": 100,
       "times": [
         {
-          "starts_at": "2025-03-23T10:45:00+00:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-31650/"
-        },
-        {
           "starts_at": "2025-03-23T16:40:00+00:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-31645/"
-        }
-      ]
-    },
-    {
-      "title": "DocHouse: No Other Land",
-      "trailer": null,
-      "synopsis": "Basel Adra, a young Palestinian activist from Masafer Yatta, has been fighting his community's mass expulsion by the Israeli occupation since childhood. Basel documents the gradual erasure of Masafer Yatta, as soldiers destroy the homes of families - the largest single act of forced transfer ever carried out in the occupied West Bank. He crosses paths with Yuval, an Israeli journalist who joins his struggle, and for over half a decade they fight against the expulsion while growing closer. Their complex bond is haunted by the extreme inequality between them: Basel, living under a brutal military occupation, and Yuval, unrestricted and free. \r\n\r\nThis film, by a Palestinian-Israeli collective of four young activists, was co-created during the darkest, most terrifying times in the region, as an act of creative resistance to Apartheid and a search for a path towards equality and justice.",
-      "runtime": 96,
-      "times": [
-        {
-          "starts_at": "2025-03-23T12:10:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-98205/"
         }
       ]
     },
@@ -716,19 +565,6 @@
           "starts_at": "2025-03-23T14:10:00+00:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-98206/"
-        }
-      ]
-    },
-    {
-      "title": "On Falling",
-      "trailer": "https://www.youtube.com/watch?v=hMlBMSdU7IY",
-      "synopsis": "Set against a landscape dominated by an algorithm-driven gig economy, in a world designed to keep us apart, On Falling explores the silent, vital struggle to find meaning and connection. It tells the story of Aurora, a Portuguese migrant working as a warehouse picker in Edinburgh, Scotland. Trapped between the confines of a vast distribution centre and the solitude of her own bedroom, Aurora seeks out every opportunity to resist the alienation and isolation that threaten her sense of self.",
-      "runtime": 104,
-      "times": [
-        {
-          "starts_at": "2025-03-23T15:20:00+00:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-98200/"
         }
       ]
     },
