@@ -7,7 +7,7 @@
   },
   "Anora": {
     "backdrop": "https://image.tmdb.org/t/p/w500//kEYWal656zP5Q2Tohm91aw6orlT.jpg",
-    "poster": "https://image.tmdb.org/t/p/w500//qh8m8Udz0sCa5gy9VaqfHPh0yPM.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500//7MrgIUeq0DD2iF7GR6wqJfYZNeC.jpg",
     "overview": "A young sex worker from Brooklyn gets her chance at a Cinderella story when she meets and impulsively marries the son of an oligarch. Once the news reaches Russia, her fairytale is threatened as his parents set out to get the marriage annulled.",
     "release_date": "2024-10-14"
   },
@@ -125,17 +125,35 @@
     "overview": "Ariane and Simon met down by the water. Simon has managed to prize Ariane away from her friends, a bunch of free and arrogant girls, and move her into his place, with her own room at the end of the hall and her own bathroom next to his. He has taken on Andrée, one of the girls from the bunch by the water, to watch over Ariane, escort her wherever she goes and report back to him on everything she does. Andrée becomes Ariane’s accomplice. She’ll tell lies for her, and with her, and most likely they’ll make love together when the mood takes them.",
     "release_date": "2000-09-27"
   },
+  "La Cocina": {
+    "backdrop": "https://image.tmdb.org/t/p/w500//p5bmCE3QLqrAbvNau7DJKF5HXe8.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500//2zhdUl8KWK8QGATbWTRGexYthZT.jpg",
+    "overview": "It is the lunchtime rush at The Grill, a New York tourist trap that serves thousands of customers on a regular Friday like today. Money has gone missing from the till and all the workers are being questioned.",
+    "release_date": "2024-10-25"
+  },
   "Mickey 17": {
     "backdrop": "https://image.tmdb.org/t/p/w500//qUc0Hol3eP74dbW4YyqT6oRLYgT.jpg",
     "poster": "https://image.tmdb.org/t/p/w500//edKpE9B5qN3e559OuMCLZdW1iBZ.jpg",
     "overview": "Unlikely hero Mickey Barnes finds himself in the extraordinary circumstance of working for an employer who demands the ultimate commitment to the job… to die, for a living.",
     "release_date": "2025-02-28"
   },
+  "Misericordia": {
+    "backdrop": "https://image.tmdb.org/t/p/w500//xtGQ8XlPa9RStGqFzeQd4UThiHJ.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500//jeoTppDMtxVW3KBWCFCuQfjyuy3.jpg",
+    "overview": "Three prostitutes live in the wasteland by the sea, where a village of outcasts has emerged. It is life in a harsh reality of poverty, ignorance, and violence. And the only ray of light in their lives is Arturo, whom they care for together. The young man is a weak-minded child in an adult body. His mother died in childbirth, and the women took him into their care as a newborn. What will the fate of this young man be in an environment he has not chosen and cannot choose because of his disability?",
+    "release_date": "2023-11-16"
+  },
   "NT Live: The Importance of Being Earnest": {
     "backdrop": "https://image.tmdb.org/t/p/w500//8zLQVMmXH83gsn4v6LT4XsEbsGv.jpg",
     "poster": "https://image.tmdb.org/t/p/w500//xUrWvUVO0IpnJL2bcgd5JEsnndr.jpg",
     "overview": "Being sensible can be excessively boring. At least Jack thinks so.  While assuming the role of dutiful guardian in the country, he lets loose in town under a false identity. Meanwhile, his friend Algy takes on a similar facade.  Unfortunately, living a double life has its drawbacks, especially when it comes to love. Hoping to impress two eligible ladies, the gentlemen find themselves caught in a web of lies they must carefully navigate.",
     "release_date": "2025-02-20"
+  },
+  "On Falling": {
+    "backdrop": null,
+    "poster": "https://image.tmdb.org/t/p/w500//rQloh2L4y1iXZKrwFai5Iyn64IA.jpg",
+    "overview": "Z falls for the moon in this queer twist on the famous Myth of Sisyphus.",
+    "release_date": "2024-03-15"
   },
   "Paris, Texas": {
     "backdrop": "https://image.tmdb.org/t/p/w500//pAKpSMrCv9HQdMKvIdLgTdpKh5f.jpg",
@@ -202,5 +220,11 @@
     "poster": "https://image.tmdb.org/t/p/w500//yC5cCv8mJ4sO3lC18wua6nR4r2C.jpg",
     "overview": "Life, death and making meaning are the heart of a beautiful and often very funny film about an aging couple who, after an accident, face the inevitability of impermanence and seek a deep peace in their relationship while they still can.",
     "release_date": "2025-03-21"
+  },
+  "War Paint: Women at War": {
+    "backdrop": "https://image.tmdb.org/t/p/w500//ssqK9kQA9yxGMTokckUOSSlC4c4.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500//evIJdBeE2bIVJQgieIlLy7SjZgc.jpg",
+    "overview": "Shining a light on the trailblazing role of women war artists, on the front lines round the world, championing the female perspective on conflict through art and asking: when it's life or death, what do women see that men don't?",
+    "release_date": "2025-03-28"
   }
 }
