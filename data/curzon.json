@@ -1,7 +1,4 @@
 {
-  "2025-04-11": [
-
-  ],
   "2025-04-12": [
     {
       "title": "Flow",
@@ -5044,6 +5041,183 @@
           "starts_at": "2025-04-18T18:20:00+01:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-98605/"
+        }
+      ]
+    }
+  ],
+  "2025-04-19": [
+    {
+      "title": "Sinners",
+      "trailer": "https://www.youtube.com/watch?v=4oqCwr_bzHI",
+      "synopsis": "Trying to leave their troubled lives behind, twin brothers (Jordan) return to their hometown to start again, only to discover that an even greater evil is waiting to welcome them back.",
+      "runtime": 137,
+      "times": [
+        {
+          "starts_at": "2025-04-19T18:00:00+01:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-55597/"
+        },
+        {
+          "starts_at": "2025-04-19T20:40:00+01:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-55587/"
+        },
+        {
+          "starts_at": "2025-04-19T17:50:00+01:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-31922/"
+        },
+        {
+          "starts_at": "2025-04-19T20:50:00+01:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-31921/"
+        }
+      ]
+    },
+    {
+      "title": "Warfare",
+      "trailer": "https://www.youtube.com/watch?v=JER0Fkyy3tw",
+      "synopsis": "Written and directed by Iraq War veteran Ray Mendoza and Alex Garland (Civil War, 28 Days Later), Warfare embeds audiences with a platoon of American Navy SEALs on a surveillance mission gone wrong in insurgent territory. A visceral, boots-on-the-ground story of modern warfare and brotherhood, told like never before: in real time and based on the memory of the people who lived it.",
+      "runtime": 96,
+      "times": [
+        {
+          "starts_at": "2025-04-19T21:00:00+01:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-55586/"
+        },
+        {
+          "starts_at": "2025-04-19T11:40:00+01:00",
+          "site": "Curzon Soho",
+          "url": "https://www.curzon.com/ticketing/seats/SOH1-49228/"
+        },
+        {
+          "starts_at": "2025-04-19T14:00:00+01:00",
+          "site": "Curzon Soho",
+          "url": "https://www.curzon.com/ticketing/seats/SOH1-49229/"
+        },
+        {
+          "starts_at": "2025-04-19T16:20:00+01:00",
+          "site": "Curzon Soho",
+          "url": "https://www.curzon.com/ticketing/seats/SOH1-49230/"
+        },
+        {
+          "starts_at": "2025-04-19T18:40:00+01:00",
+          "site": "Curzon Soho",
+          "url": "https://www.curzon.com/ticketing/seats/SOH1-49231/"
+        },
+        {
+          "starts_at": "2025-04-19T21:00:00+01:00",
+          "site": "Curzon Soho",
+          "url": "https://www.curzon.com/ticketing/seats/SOH1-49232/"
+        },
+        {
+          "starts_at": "2025-04-19T18:45:00+01:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-80495/"
+        },
+        {
+          "starts_at": "2025-04-19T18:40:00+01:00",
+          "site": "Curzon Hoxton",
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-21044/"
+        },
+        {
+          "starts_at": "2025-04-19T11:50:00+01:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-31883/"
+        },
+        {
+          "starts_at": "2025-04-19T14:10:00+01:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-31884/"
+        },
+        {
+          "starts_at": "2025-04-19T16:30:00+01:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-31885/"
+        },
+        {
+          "starts_at": "2025-04-19T18:50:00+01:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-31886/"
+        },
+        {
+          "starts_at": "2025-04-19T21:10:00+01:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-31882/"
+        },
+        {
+          "starts_at": "2025-04-19T11:40:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-98421/"
+        },
+        {
+          "starts_at": "2025-04-19T14:00:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-98425/"
+        },
+        {
+          "starts_at": "2025-04-19T16:20:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-98422/"
+        },
+        {
+          "starts_at": "2025-04-19T18:40:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-98423/"
+        },
+        {
+          "starts_at": "2025-04-19T21:00:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-98424/"
+        }
+      ]
+    },
+    {
+      "title": "The Penguin Lessons",
+      "trailer": "https://www.youtube.com/watch?v=0A_C3MT3uyA",
+      "synopsis": "Starring Oscar nominee Steve Coogan, this poignant dramedy from director Peter Cattaneo follows an Englishman’s personal and political awakening after he adopts a penguin during a cataclysmic period in Argentine history.",
+      "runtime": 110,
+      "times": [
+        {
+          "starts_at": "2025-04-19T18:15:00+01:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-80500/"
+        },
+        {
+          "starts_at": "2025-04-19T18:00:00+01:00",
+          "site": "Curzon Mayfair",
+          "url": "https://www.curzon.com/ticketing/seats/MAY1-29618/"
+        }
+      ]
+    },
+    {
+      "title": "Kids Club: Peter Rabbit",
+      "trailer": null,
+      "synopsis": "PETER RABBIT, the mischievous and adventurous hero who has captivated generations of readers, now takes on the starring role of his own irreverent, contemporary comedy with attitude. In the film, Peter\"s feud with Mr. McGregor (Domhnall Gleeson) escalates to greater heights than ever before as they rival for the affections of the warm-hearted animal lover who lives next door (Rose Byrne). James Corden voices the character of Peter with playful spirit and wild charm, with Margot Robbie, Elizabeth Debicki, and Daisy Ridley performing the voice roles of the triplets, Flopsy, Mopsy, and Cottontail.",
+      "runtime": 95,
+      "times": [
+        {
+          "starts_at": "2025-04-19T10:30:00+01:00",
+          "site": "Curzon Hoxton",
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-20647/"
+        },
+        {
+          "starts_at": "2025-04-19T10:30:00+01:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-31330/"
+        }
+      ]
+    },
+    {
+      "title": "DocHouse: Blue Road: The Edna O'Brien Story",
+      "trailer": "https://www.youtube.com/watch?v=bEErqpfb3HM",
+      "synopsis": "A 93-year-old Irish writer Edna O'Brien recounts her controversial life, novels, love affairs, and stardom through personal journals read by actress Jessie Buckley, with perspectives from writers like Gabriel Byrne and Walter Mosley.",
+      "runtime": 99,
+      "times": [
+        {
+          "starts_at": "2025-04-19T16:00:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-98607/"
         }
       ]
     }
