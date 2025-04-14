@@ -1,7 +1,4 @@
 {
-  "2025-04-13": [
-
-  ],
   "2025-04-14": [
     {
       "title": "Flow",
@@ -3332,7 +3329,7 @@
           "url": "https://www.curzon.com/ticketing/seats/CAM1-31875/"
         },
         {
-          "starts_at": "2025-04-18T14:10:00+01:00",
+          "starts_at": "2025-04-18T14:15:00+01:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-31874/"
         },
@@ -3441,7 +3438,7 @@
           "url": "https://www.curzon.com/ticketing/seats/CAM1-31922/"
         },
         {
-          "starts_at": "2025-04-19T20:50:00+01:00",
+          "starts_at": "2025-04-19T20:20:00+01:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-31921/"
         }
@@ -3494,12 +3491,7 @@
           "url": "https://www.curzon.com/ticketing/seats/HOX1-21044/"
         },
         {
-          "starts_at": "2025-04-19T11:50:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-31883/"
-        },
-        {
-          "starts_at": "2025-04-19T14:10:00+01:00",
+          "starts_at": "2025-04-19T12:45:00+01:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-31884/"
         },
@@ -3552,7 +3544,7 @@
       "runtime": 110,
       "times": [
         {
-          "starts_at": "2025-04-19T18:15:00+01:00",
+          "starts_at": "2025-04-19T18:00:00+01:00",
           "site": "Curzon Victoria",
           "url": "https://www.curzon.com/ticketing/seats/VIC1-80500/"
         },
@@ -3676,7 +3668,7 @@
           "url": "https://www.curzon.com/ticketing/seats/CAM1-31888/"
         },
         {
-          "starts_at": "2025-04-20T13:40:00+01:00",
+          "starts_at": "2025-04-20T13:45:00+01:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-31889/"
         },
@@ -3763,6 +3755,191 @@
           "starts_at": "2025-04-20T18:00:00+01:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-98601/"
+        }
+      ]
+    }
+  ],
+  "2025-04-21": [
+    {
+      "title": "Sinners",
+      "trailer": "https://www.youtube.com/watch?v=4oqCwr_bzHI",
+      "synopsis": "Trying to leave their troubled lives behind, twin brothers (Jordan) return to their hometown to start again, only to discover that an even greater evil is waiting to welcome them back.",
+      "runtime": 137,
+      "times": [
+        {
+          "starts_at": "2025-04-21T17:40:00+01:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-55599/"
+        },
+        {
+          "starts_at": "2025-04-21T20:20:00+01:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-55591/"
+        },
+        {
+          "starts_at": "2025-04-21T17:20:00+01:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-31915/"
+        },
+        {
+          "starts_at": "2025-04-21T20:00:00+01:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-31916/"
+        }
+      ]
+    },
+    {
+      "title": "Warfare",
+      "trailer": "https://www.youtube.com/watch?v=JER0Fkyy3tw",
+      "synopsis": "Written and directed by Iraq War veteran Ray Mendoza and Alex Garland (Civil War, 28 Days Later), Warfare embeds audiences with a platoon of American Navy SEALs on a surveillance mission gone wrong in insurgent territory. A visceral, boots-on-the-ground story of modern warfare and brotherhood, told like never before: in real time and based on the memory of the people who lived it.",
+      "runtime": 96,
+      "times": [
+        {
+          "starts_at": "2025-04-21T20:40:00+01:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-55590/"
+        },
+        {
+          "starts_at": "2025-04-21T11:20:00+01:00",
+          "site": "Curzon Soho",
+          "url": "https://www.curzon.com/ticketing/seats/SOH1-49238/"
+        },
+        {
+          "starts_at": "2025-04-21T13:40:00+01:00",
+          "site": "Curzon Soho",
+          "url": "https://www.curzon.com/ticketing/seats/SOH1-49239/"
+        },
+        {
+          "starts_at": "2025-04-21T16:00:00+01:00",
+          "site": "Curzon Soho",
+          "url": "https://www.curzon.com/ticketing/seats/SOH1-49240/"
+        },
+        {
+          "starts_at": "2025-04-21T18:20:00+01:00",
+          "site": "Curzon Soho",
+          "url": "https://www.curzon.com/ticketing/seats/SOH1-49241/"
+        },
+        {
+          "starts_at": "2025-04-21T20:40:00+01:00",
+          "site": "Curzon Soho",
+          "url": "https://www.curzon.com/ticketing/seats/SOH1-49242/"
+        },
+        {
+          "starts_at": "2025-04-21T18:15:00+01:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-80497/"
+        },
+        {
+          "starts_at": "2025-04-21T11:20:00+01:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-31893/"
+        },
+        {
+          "starts_at": "2025-04-21T13:45:00+01:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-31894/"
+        },
+        {
+          "starts_at": "2025-04-21T16:00:00+01:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-31895/"
+        },
+        {
+          "starts_at": "2025-04-21T18:20:00+01:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-31896/"
+        },
+        {
+          "starts_at": "2025-04-21T20:40:00+01:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-31892/"
+        },
+        {
+          "starts_at": "2025-04-21T11:10:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-98431/"
+        },
+        {
+          "starts_at": "2025-04-21T13:30:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-98435/"
+        },
+        {
+          "starts_at": "2025-04-21T15:50:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-98432/"
+        },
+        {
+          "starts_at": "2025-04-21T18:10:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-98433/"
+        },
+        {
+          "starts_at": "2025-04-21T20:30:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-98434/"
+        }
+      ]
+    },
+    {
+      "title": "Julie Keeps Quiet",
+      "trailer": null,
+      "synopsis": "The life of a 16 year old girl, who dreams of joining the Belgian Tennis Federation, becomes unraveled when a man, her coach, is accused of sexual misconduct.\r\n",
+      "runtime": 97,
+      "times": [
+        {
+          "starts_at": "2025-04-21T15:00:00+01:00",
+          "site": "Curzon Soho",
+          "url": "https://www.curzon.com/ticketing/seats/SOH1-49257/"
+        },
+        {
+          "starts_at": "2025-04-21T15:00:00+01:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-80624/"
+        }
+      ]
+    },
+    {
+      "title": "The Penguin Lessons",
+      "trailer": "https://www.youtube.com/watch?v=0A_C3MT3uyA",
+      "synopsis": "Starring Oscar nominee Steve Coogan, this poignant dramedy from director Peter Cattaneo follows an Englishman’s personal and political awakening after he adopts a penguin during a cataclysmic period in Argentine history.",
+      "runtime": 110,
+      "times": [
+        {
+          "starts_at": "2025-04-21T17:45:00+01:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-80502/"
+        },
+        {
+          "starts_at": "2025-04-21T17:40:00+01:00",
+          "site": "Curzon Mayfair",
+          "url": "https://www.curzon.com/ticketing/seats/MAY1-29624/"
+        }
+      ]
+    },
+    {
+      "title": "DocHouse: Blue Road: The Edna O'Brien Story",
+      "trailer": "https://www.youtube.com/watch?v=bEErqpfb3HM",
+      "synopsis": "A 93-year-old Irish writer Edna O'Brien recounts her controversial life, novels, love affairs, and stardom through personal journals read by actress Jessie Buckley, with perspectives from writers like Gabriel Byrne and Walter Mosley.",
+      "runtime": 99,
+      "times": [
+        {
+          "starts_at": "2025-04-21T14:10:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-98606/"
+        }
+      ]
+    },
+    {
+      "title": "DocHouse: Grey Gardens",
+      "trailer": null,
+      "synopsis": "GREY GARDENS is the unbelievable true story of Mrs. Edith Bouvier Beale and her daughter Edie, the aunt and first cousin of Jacqueline Kennedy Onassis. Mother and daughter live in a world of their own in their decaying 28-room East Hampton mansion known as \"Grey Gardens\".\r\nFor the Beales were nothing short of the upper crust. Mrs. Beale, a.k.a. \"Big Edie,\" was a born aristocrat, sister of \"Black Jack\" Bouvier, Jackie O's father. \"Little Edie\" was an aspiring actress of striking beauty who put her New York life on hold to care for her mother - and never left her side again. Together they descended into a strange life of dependence and eccentricity that no one had ever shared until the Maysles arrived with their camera and tape recorder.\r\n\r\nThe ensuing film is a bittersweet love story, a record of the powerful and complex relationship between mother and daughter.",
+      "runtime": 100,
+      "times": [
+        {
+          "starts_at": "2025-04-21T16:15:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-98463/"
         }
       ]
     }
