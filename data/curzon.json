@@ -1,263 +1,6 @@
 {
   "2025-04-20": [
     {
-      "title": "Sinners",
-      "trailer": "https://www.youtube.com/watch?v=4oqCwr_bzHI",
-      "synopsis": "Trying to leave their troubled lives behind, twin brothers (Jordan) return to their hometown to start again, only to discover that an even greater evil is waiting to welcome them back.",
-      "runtime": 137,
-      "times": [
-        {
-          "starts_at": "2025-04-20T14:40:00+01:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-55921/"
-        },
-        {
-          "starts_at": "2025-04-20T17:40:00+01:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-55598/"
-        },
-        {
-          "starts_at": "2025-04-20T20:20:00+01:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-55589/"
-        },
-        {
-          "starts_at": "2025-04-20T14:45:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-80843/"
-        },
-        {
-          "starts_at": "2025-04-20T17:30:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-80854/"
-        },
-        {
-          "starts_at": "2025-04-20T20:15:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-80836/"
-        },
-        {
-          "starts_at": "2025-04-20T15:20:00+01:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-21442/"
-        },
-        {
-          "starts_at": "2025-04-20T18:00:00+01:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-21439/"
-        },
-        {
-          "starts_at": "2025-04-20T20:40:00+01:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-21436/"
-        },
-        {
-          "starts_at": "2025-04-20T14:00:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-32221/"
-        },
-        {
-          "starts_at": "2025-04-20T17:20:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-31913/"
-        },
-        {
-          "starts_at": "2025-04-20T20:00:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-31914/"
-        },
-        {
-          "starts_at": "2025-04-20T14:30:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-98885/"
-        },
-        {
-          "starts_at": "2025-04-20T17:50:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-98875/"
-        },
-        {
-          "starts_at": "2025-04-20T20:10:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-98877/"
-        }
-      ]
-    },
-    {
-      "title": "Flow",
-      "trailer": "https://www.youtube.com/watch?v=shsVQvHUTxw",
-      "synopsis": "When a flood of biblical proportions washes its home away, a solitary cat must seek refuge with a motley crew of animals (including a dog, a capybara, a lemur and a secretarybird), who gradually learn to get along in this endearing, Oscar-winning animation.",
-      "runtime": 85,
-      "times": [
-        {
-          "starts_at": "2025-04-20T15:00:00+01:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-55920/"
-        },
-        {
-          "starts_at": "2025-04-20T15:20:00+01:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-49490/"
-        },
-        {
-          "starts_at": "2025-04-20T17:30:00+01:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-49491/"
-        },
-        {
-          "starts_at": "2025-04-20T20:20:00+01:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-49488/"
-        },
-        {
-          "starts_at": "2025-04-20T13:45:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-80850/"
-        },
-        {
-          "starts_at": "2025-04-20T15:50:00+01:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-21441/"
-        },
-        {
-          "starts_at": "2025-04-20T15:45:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-32214/"
-        },
-        {
-          "starts_at": "2025-04-20T17:50:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-32212/"
-        },
-        {
-          "starts_at": "2025-04-20T17:40:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-98879/"
-        }
-      ]
-    },
-    {
-      "title": "Warfare",
-      "trailer": "https://www.youtube.com/watch?v=JER0Fkyy3tw",
-      "synopsis": "Written and directed by Iraq War veteran Ray Mendoza and Alex Garland (Civil War, 28 Days Later), Warfare embeds audiences with a platoon of American Navy SEALs on a surveillance mission gone wrong in insurgent territory. A visceral, boots-on-the-ground story of modern warfare and brotherhood, told like never before: in real time and based on the memory of the people who lived it.",
-      "runtime": 96,
-      "times": [
-        {
-          "starts_at": "2025-04-20T15:20:00+01:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-55919/"
-        },
-        {
-          "starts_at": "2025-04-20T18:00:00+01:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-55916/"
-        },
-        {
-          "starts_at": "2025-04-20T20:40:00+01:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-55588/"
-        },
-        {
-          "starts_at": "2025-04-20T13:40:00+01:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-49234/"
-        },
-        {
-          "starts_at": "2025-04-20T16:00:00+01:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-49235/"
-        },
-        {
-          "starts_at": "2025-04-20T18:20:00+01:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-49236/"
-        },
-        {
-          "starts_at": "2025-04-20T20:40:00+01:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-49237/"
-        },
-        {
-          "starts_at": "2025-04-20T16:00:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-80845/"
-        },
-        {
-          "starts_at": "2025-04-20T18:15:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-80496/"
-        },
-        {
-          "starts_at": "2025-04-20T20:45:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-80838/"
-        },
-        {
-          "starts_at": "2025-04-20T18:20:00+01:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-21438/"
-        },
-        {
-          "starts_at": "2025-04-20T13:40:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-31889/"
-        },
-        {
-          "starts_at": "2025-04-20T16:00:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-31890/"
-        },
-        {
-          "starts_at": "2025-04-20T18:20:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-31891/"
-        },
-        {
-          "starts_at": "2025-04-20T20:40:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-31887/"
-        },
-        {
-          "starts_at": "2025-04-20T15:50:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-98429/"
-        },
-        {
-          "starts_at": "2025-04-20T18:10:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-98428/"
-        },
-        {
-          "starts_at": "2025-04-20T20:30:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-98427/"
-        }
-      ]
-    },
-    {
-      "title": "A Minecraft Movie",
-      "trailer": "https://www.youtube.com/watch?v=YLCC1bOKarg",
-      "synopsis": "Four misfits — Garrett “The Garbage Man” Garrison (Jason Momoa), Henry (Sebastian Eugene Hansen), Natalie (Emma Myers) and Dawn (Danielle Brooks)—find themselves struggling with ordinary problems when they are suddenly pulled through a mysterious portal into the Overworld: a bizarre, cubic wonderland that thrives on imagination. To get back home, they’ll have to master this world (and protect it from evil things like Piglins and Zombies, too) while embarking on a magical quest with an unexpected, expert crafter, Steve (Jack Black).",
-      "runtime": 101,
-      "times": [
-        {
-          "starts_at": "2025-04-20T16:00:00+01:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-55918/"
-        },
-        {
-          "starts_at": "2025-04-20T18:30:00+01:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-55915/"
-        },
-        {
-          "starts_at": "2025-04-20T18:30:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-80852/"
-        }
-      ]
-    },
-    {
       "title": "Black Bag",
       "trailer": "https://www.youtube.com/watch?v=n_56L6WzLT8",
       "synopsis": "From Director Steven Soderbergh, BLACK BAG is a gripping spy drama about legendary intelligence agents George Woodhouse and his beloved wife Kathryn. When she is suspected of betraying the nation, George faces the ultimate test – loyalty to his marriage or his country.",
@@ -281,6 +24,145 @@
       ]
     },
     {
+      "title": "Sinners",
+      "trailer": "https://www.youtube.com/watch?v=4oqCwr_bzHI",
+      "synopsis": "Trying to leave their troubled lives behind, twin brothers (Jordan) return to their hometown to start again, only to discover that an even greater evil is waiting to welcome them back.",
+      "runtime": 137,
+      "times": [
+        {
+          "starts_at": "2025-04-20T17:40:00+01:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-55598/"
+        },
+        {
+          "starts_at": "2025-04-20T20:20:00+01:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-55589/"
+        },
+        {
+          "starts_at": "2025-04-20T17:30:00+01:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-80854/"
+        },
+        {
+          "starts_at": "2025-04-20T20:15:00+01:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-80836/"
+        },
+        {
+          "starts_at": "2025-04-20T18:00:00+01:00",
+          "site": "Curzon Hoxton",
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-21439/"
+        },
+        {
+          "starts_at": "2025-04-20T20:40:00+01:00",
+          "site": "Curzon Hoxton",
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-21436/"
+        },
+        {
+          "starts_at": "2025-04-20T17:20:00+01:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-31913/"
+        },
+        {
+          "starts_at": "2025-04-20T20:00:00+01:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-31914/"
+        },
+        {
+          "starts_at": "2025-04-20T17:50:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-98875/"
+        },
+        {
+          "starts_at": "2025-04-20T20:10:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-98877/"
+        }
+      ]
+    },
+    {
+      "title": "Warfare",
+      "trailer": "https://www.youtube.com/watch?v=JER0Fkyy3tw",
+      "synopsis": "Written and directed by Iraq War veteran Ray Mendoza and Alex Garland (Civil War, 28 Days Later), Warfare embeds audiences with a platoon of American Navy SEALs on a surveillance mission gone wrong in insurgent territory. A visceral, boots-on-the-ground story of modern warfare and brotherhood, told like never before: in real time and based on the memory of the people who lived it.",
+      "runtime": 96,
+      "times": [
+        {
+          "starts_at": "2025-04-20T18:00:00+01:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-55916/"
+        },
+        {
+          "starts_at": "2025-04-20T20:40:00+01:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-55588/"
+        },
+        {
+          "starts_at": "2025-04-20T18:20:00+01:00",
+          "site": "Curzon Soho",
+          "url": "https://www.curzon.com/ticketing/seats/SOH1-49236/"
+        },
+        {
+          "starts_at": "2025-04-20T20:40:00+01:00",
+          "site": "Curzon Soho",
+          "url": "https://www.curzon.com/ticketing/seats/SOH1-49237/"
+        },
+        {
+          "starts_at": "2025-04-20T18:15:00+01:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-80496/"
+        },
+        {
+          "starts_at": "2025-04-20T20:45:00+01:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-80838/"
+        },
+        {
+          "starts_at": "2025-04-20T18:20:00+01:00",
+          "site": "Curzon Hoxton",
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-21438/"
+        },
+        {
+          "starts_at": "2025-04-20T18:20:00+01:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-31891/"
+        },
+        {
+          "starts_at": "2025-04-20T20:40:00+01:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-31887/"
+        },
+        {
+          "starts_at": "2025-04-20T18:10:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-98428/"
+        },
+        {
+          "starts_at": "2025-04-20T20:30:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-98427/"
+        }
+      ]
+    },
+    {
+      "title": "A Minecraft Movie",
+      "trailer": "https://www.youtube.com/watch?v=YLCC1bOKarg",
+      "synopsis": "Four misfits — Garrett “The Garbage Man” Garrison (Jason Momoa), Henry (Sebastian Eugene Hansen), Natalie (Emma Myers) and Dawn (Danielle Brooks)—find themselves struggling with ordinary problems when they are suddenly pulled through a mysterious portal into the Overworld: a bizarre, cubic wonderland that thrives on imagination. To get back home, they’ll have to master this world (and protect it from evil things like Piglins and Zombies, too) while embarking on a magical quest with an unexpected, expert crafter, Steve (Jack Black).",
+      "runtime": 101,
+      "times": [
+        {
+          "starts_at": "2025-04-20T18:30:00+01:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-55915/"
+        },
+        {
+          "starts_at": "2025-04-20T18:30:00+01:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-80852/"
+        }
+      ]
+    },
+    {
       "title": "The Amateur",
       "trailer": "https://www.youtube.com/watch?v=LzVs5owEeWk",
       "synopsis": "Charlie Heller (Malek) is a brilliant, but deeply introverted decoder for the CIA working out of a basement office at headquarters in Langley whose life is turned upside down when his wife is killed in a London terrorist attack. When his supervisors refuse to take action, he takes matters into his own hands, embarking on a dangerous trek across the globe to track down those responsible, his intelligence serving as the ultimate weapon for eluding his pursuers and achieving his revenge.",
@@ -290,11 +172,6 @@
           "starts_at": "2025-04-20T19:40:00+01:00",
           "site": "Curzon Aldgate",
           "url": "https://www.curzon.com/ticketing/seats/ALD1-55914/"
-        },
-        {
-          "starts_at": "2025-04-20T14:15:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-80842/"
         },
         {
           "starts_at": "2025-04-20T17:15:00+01:00",
@@ -310,11 +187,6 @@
           "starts_at": "2025-04-20T20:00:00+01:00",
           "site": "Curzon Mayfair",
           "url": "https://www.curzon.com/ticketing/seats/MAY1-29769/"
-        },
-        {
-          "starts_at": "2025-04-20T14:50:00+01:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-21429/"
         },
         {
           "starts_at": "2025-04-20T20:20:00+01:00",
@@ -342,15 +214,30 @@
       ]
     },
     {
-      "title": "Mickey 17",
-      "trailer": "https://www.youtube.com/watch?v=6D3pcuJQkc4",
-      "synopsis": "From the Academy Award-winning writer/director of “Parasite,” Bong Joon Ho, comes his next groundbreaking cinematic experience, “Mickey 17.” The unlikely hero, Mickey Barnes (Robert Pattinson) has found himself in the extraordinary circumstance of working for an employer who demands the ultimate commitment to the job… to die, for a living.",
-      "runtime": 137,
+      "title": "Flow",
+      "trailer": "https://www.youtube.com/watch?v=shsVQvHUTxw",
+      "synopsis": "When a flood of biblical proportions washes its home away, a solitary cat must seek refuge with a motley crew of animals (including a dog, a capybara, a lemur and a secretarybird), who gradually learn to get along in this endearing, Oscar-winning animation.",
+      "runtime": 85,
       "times": [
         {
-          "starts_at": "2025-04-20T15:00:00+01:00",
+          "starts_at": "2025-04-20T17:30:00+01:00",
           "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-49484/"
+          "url": "https://www.curzon.com/ticketing/seats/SOH1-49491/"
+        },
+        {
+          "starts_at": "2025-04-20T20:20:00+01:00",
+          "site": "Curzon Soho",
+          "url": "https://www.curzon.com/ticketing/seats/SOH1-49488/"
+        },
+        {
+          "starts_at": "2025-04-20T17:50:00+01:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-32212/"
+        },
+        {
+          "starts_at": "2025-04-20T17:40:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-98879/"
         }
       ]
     },
@@ -397,11 +284,6 @@
       "runtime": 110,
       "times": [
         {
-          "starts_at": "2025-04-20T15:00:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-80844/"
-        },
-        {
           "starts_at": "2025-04-20T17:45:00+01:00",
           "site": "Curzon Victoria",
           "url": "https://www.curzon.com/ticketing/seats/VIC1-80501/"
@@ -410,11 +292,6 @@
           "starts_at": "2025-04-20T20:30:00+01:00",
           "site": "Curzon Victoria",
           "url": "https://www.curzon.com/ticketing/seats/VIC1-80837/"
-        },
-        {
-          "starts_at": "2025-04-20T15:00:00+01:00",
-          "site": "Curzon Mayfair",
-          "url": "https://www.curzon.com/ticketing/seats/MAY1-29766/"
         },
         {
           "starts_at": "2025-04-20T17:40:00+01:00",
@@ -427,19 +304,9 @@
           "url": "https://www.curzon.com/ticketing/seats/HOX1-21440/"
         },
         {
-          "starts_at": "2025-04-20T14:20:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-32219/"
-        },
-        {
           "starts_at": "2025-04-20T19:20:00+01:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-32213/"
-        },
-        {
-          "starts_at": "2025-04-20T15:00:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-98887/"
         },
         {
           "starts_at": "2025-04-20T17:30:00+01:00",
@@ -450,32 +317,6 @@
           "starts_at": "2025-04-20T20:50:00+01:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-98878/"
-        }
-      ]
-    },
-    {
-      "title": "Conclave",
-      "trailer": "https://www.youtube.com/watch?v=Znr38bHNXp4",
-      "synopsis": "CONCLAVE follows one of the world’s most secretive and ancient events – selecting the new Pope. Cardinal Lawrence (Ralph Fiennes) is tasked with running this covert process after the unexpected death of the beloved Pope. Once the Catholic Church’s most powerful leaders have gathered from around the world and are locked together in the Vatican halls, Lawrence uncovers a trail of deep secrets left in the dead Pope’s wake, secrets which could shake the foundations of the Church.",
-      "runtime": 120,
-      "times": [
-        {
-          "starts_at": "2025-04-20T15:45:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-80847/"
-        }
-      ]
-    },
-    {
-      "title": "Mr. Burton",
-      "trailer": "https://www.youtube.com/watch?v=h6Trx84-gy4",
-      "synopsis": "Based on a remarkable true story, discover how the poor son of a miner became one of the greatest actors the world has ever known, with the help of an unlikely mentor.\n\nIn the Welsh town of Port Talbot, 1942, Richard Jenkins (Harry Lawtey) lives as a wayward schoolboy, caught between the pressures of his struggling family, a devastating war, and his own ambitions. However, a new opportunity arises when Richard’s natural talent for drama catches the attention of his teacher, Philip Burton (BAFTA winner Toby Jones).\n\nTaking Richard under his wing, the young man thrives thanks to Philip’s strict tutelage and the guidance of kindly landlady, Ma Smith (Academy Award nominee Lesley Manville). However, as the acting world comes within Richard’s reach, the burden of his past risks holding him back forever.",
-      "runtime": 124,
-      "times": [
-        {
-          "starts_at": "2025-04-20T14:20:00+01:00",
-          "site": "Curzon Mayfair",
-          "url": "https://www.curzon.com/ticketing/seats/MAY1-29767/"
         }
       ]
     },
@@ -524,68 +365,6 @@
       ]
     },
     {
-      "title": "DocHouse: Balomania",
-      "trailer": null,
-      "synopsis": "In BALOMANIA, a secret society of giant hot air balloon makers in Brazil's favelas risk everything to create and fly their illegal masterpieces. Treated as delinquents, these 'baloeiros' operate underground like street artists, bringing joy to their communities while evading government threats and bounty hunters.\r\n\r\nDanish Graffiti artistst-turned-filmmaker Sissel Morell Dargis shares her initiation into the balloon brotherhood, where launching silk paper creations becomes an act of social redemption and collective dreaming.",
-      "runtime": 93,
-      "times": [
-        {
-          "starts_at": "2025-04-20T14:10:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-98973/"
-        }
-      ]
-    },
-    {
-      "title": "Santosh",
-      "trailer": null,
-      "synopsis": "A government scheme sees newly widowed Santosh inherit her husband’s job as a police constable in the rural badlands of Northern India. When a low-caste girl is found raped and murdered, she is pulled into the investigation under the wing of charismatic feminist inspector Sharma.\r\n\r\n23 April 6pm at Soho | Q&A with director Sandhya Suri in conversation with Riz Ahmed.",
-      "runtime": 128,
-      "times": [
-        {
-          "starts_at": "2025-04-20T14:40:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-98889/"
-        },
-        {
-          "starts_at": "2025-04-20T19:50:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-98880/"
-        }
-      ]
-    },
-    {
-      "title": "Sebastian",
-      "trailer": "https://www.youtube.com/watch?v=_hHD-dQ5jVM",
-      "synopsis": "Max, a 25-year-old aspiring writer living in London, begins a double life as a sex worker in order to research his debut novel.",
-      "runtime": 110,
-      "times": [
-        {
-          "starts_at": "2025-04-20T15:40:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-98881/"
-        },
-        {
-          "starts_at": "2025-04-20T20:40:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-98884/"
-        }
-      ]
-    },
-    {
-      "title": "DocHouse: Salesman",
-      "trailer": null,
-      "synopsis": "SALESMAN (1969) follows four door-to-door Bible salesmen as they walk the line between hype and despair. Their mission is simple: to convince people to buy what one of them calls \"still the best seller in the world.\"\r\n\r\nBut although their customers are mostly middle or working-class Catholics recommended by the local church, the Bible is a hard sell. In action, the salesmen rely on trusty catch phrases, talking, pushing, cajoling and telling jokes. The salesmen make their \"pitches\" to a wide range of customers -- lonely widows, married couples, Cuban immigrants, bored housewives -- from those who clearly cannot afford the $50 book to those who, in the end, are convinced by the salesman's somewhat too-cheerful patter.",
-      "runtime": 90,
-      "times": [
-        {
-          "starts_at": "2025-04-20T16:00:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-98461/"
-        }
-      ]
-    },
-    {
       "title": "DocHouse: Blue Road: The Edna O'Brien Story",
       "trailer": "https://www.youtube.com/watch?v=bEErqpfb3HM",
       "synopsis": "A 93-year-old Irish writer Edna O'Brien recounts her controversial life, novels, love affairs, and stardom through personal journals read by actress Jessie Buckley, with perspectives from writers like Gabriel Byrne and Walter Mosley.",
@@ -599,6 +378,19 @@
       ]
     },
     {
+      "title": "Santosh",
+      "trailer": null,
+      "synopsis": "A government scheme sees newly widowed Santosh inherit her husband’s job as a police constable in the rural badlands of Northern India. When a low-caste girl is found raped and murdered, she is pulled into the investigation under the wing of charismatic feminist inspector Sharma.\r\n\r\n23 April 6pm at Soho | Q&A with director Sandhya Suri in conversation with Riz Ahmed.",
+      "runtime": 128,
+      "times": [
+        {
+          "starts_at": "2025-04-20T19:50:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-98880/"
+        }
+      ]
+    },
+    {
       "title": "DocHouse: One to One: John & Yoko",
       "trailer": "https://www.youtube.com/watch?v=ZRrM_befeLI",
       "synopsis": "On August 30, 1972, in New York City, John Lennon played his only full-length show after leaving The Beatles, the One to One benefit concert at Madison Square Garden, a rollicking, dazzling performance from him and Yoko Ono. Macdonald’s riveting documentary takes that legendary musical event and uses it as the starting point to explore eighteen defining months in the lives of John and Yoko. By 1971 the couple was newly arrived in the United States— living in a tiny apartment in Greenwich Village and watching a huge amount of American television. The film uses a riotous mélange of American TV to conjure the era through what the two would have been seeing on the screen: the Vietnam War, The Price is Right, Nixon, Coca-Cola ads, Cronkite, The Waltons. As they experience a year of love and transformation in the US, John and Yoko begin to change their approach to protest  — ultimately leading to the One to One concert, which was inspired by a Geraldo Rivera exposé they watched on TV. Filmed in a meticulously faithful reproduction of the NYC apartment the duo shared, ONE TO ONE: JOHN & YOKO offers a bold new take on a seminal time in the lives of two of history’s most influential artists. \n",
@@ -608,6 +400,19 @@
           "starts_at": "2025-04-20T20:00:00+01:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-98974/"
+        }
+      ]
+    },
+    {
+      "title": "Sebastian",
+      "trailer": "https://www.youtube.com/watch?v=_hHD-dQ5jVM",
+      "synopsis": "Max, a 25-year-old aspiring writer living in London, begins a double life as a sex worker in order to research his debut novel.",
+      "runtime": 110,
+      "times": [
+        {
+          "starts_at": "2025-04-20T20:40:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-98884/"
         }
       ]
     }
