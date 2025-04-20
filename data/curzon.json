@@ -1,7 +1,4 @@
 {
-  "2025-04-19": [
-
-  ],
   "2025-04-20": [
     {
       "title": "Flow",
@@ -4115,6 +4112,98 @@
           "starts_at": "2025-04-26T20:00:00+01:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-98464/"
+        }
+      ]
+    }
+  ],
+  "2025-04-27": [
+    {
+      "title": "Pink Floyd at Pompeii - MCMLXXII",
+      "trailer": "https://www.youtube.com/watch?v=OpFK9JCT8PU",
+      "synopsis": "Pink Floyd at Pompeii – MCMLXXII, the groundbreaking 1972 film directed by Adrian Maben, returns to theaters, now digitally re-mastered in 4K from the original 35mm footage with enhanced audio. \nSet in the hauntingly beautiful ruins of the ancient Roman Amphitheater in Pompeii, Italy, the film captures Pink Floyd performing an intimate concert without an audience. Filmed in October 1971, the performance features unforgettable tracks such as “Echoes,” “A Saucerful of Secrets,” and “One of These Days.” The breathtaking visuals of the amphitheater, captured both day and night, amplify the magic of the performance, creating a unique and immersive experience. Additionally, the film includes rare behind-the-scenes glimpses of the band working on The Dark Side of the Moon at Abbey Road Studios. \nThis meticulous restoration delivers stunning image and sound quality, featuring a theatrical and home entertainment mix from Steven Wilson in 5.1 and Dolby Atmos. These upgrades enhance the film's depth and clarity while preserving the authenticity and spirit of the original 1972 release. Inspired by the golden warmth of Pompeii’s iconic setting, the remaster transforms this timeless piece into a masterpiece of sight and sound. Experience Pink Floyd like never before through this pioneering audio-visual remaster!",
+      "runtime": 85,
+      "times": [
+        {
+          "starts_at": "2025-04-27T15:00:00+01:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-55069/"
+        },
+        {
+          "starts_at": "2025-04-27T15:00:00+01:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-79936/"
+        },
+        {
+          "starts_at": "2025-04-27T15:00:00+01:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-31472/"
+        },
+        {
+          "starts_at": "2025-04-27T15:00:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-97851/"
+        }
+      ]
+    },
+    {
+      "title": "Star Wars: Episode III - Revenge of the Sith",
+      "trailer": null,
+      "synopsis": "Three years into the Clone Wars, the Jedi rescue Palpatine from Count Dooku. As Obi-Wan pursues a new threat, Anakin acts as a double agent between the Jedi Council and Palpatine and is lured into a sinister plan to rule the galaxy.",
+      "runtime": 140,
+      "times": [
+        {
+          "starts_at": "2025-04-27T17:00:00+01:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-80809/"
+        }
+      ]
+    },
+    {
+      "title": "Julie Keeps Quiet",
+      "trailer": "https://www.youtube.com/watch?v=rMWdEpkxG9M",
+      "synopsis": "With his debut film, director Leonardo van Dijl delivers an excellently crafted psychological drama in Julie Keeps Quiet, which follows the point of view of a young athlete in crisis. ",
+      "runtime": 97,
+      "times": [
+        {
+          "starts_at": "2025-04-27T20:30:00+01:00",
+          "site": "Curzon Hoxton",
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-21498/"
+        },
+        {
+          "starts_at": "2025-04-27T17:20:00+01:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-32311/"
+        },
+        {
+          "starts_at": "2025-04-27T20:30:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-99009/"
+        }
+      ]
+    },
+    {
+      "title": "DocHouse: Preemptive Listening",
+      "trailer": null,
+      "synopsis": "In an age of intersecting political, man-made and ecological disasters, ‘Preemptive Listening’ is an ode to the sirens that are and those that could be. Siren compositions from over 20 contemporary musicians form a resonant voice to ask; Does an alarm have to be alarming?",
+      "runtime": 89,
+      "times": [
+        {
+          "starts_at": "2025-04-27T15:30:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-98228/"
+        }
+      ]
+    },
+    {
+      "title": "DocHouse: The Gates",
+      "trailer": null,
+      "synopsis": "In 1979, artists Christo and Jeanne-Claude proposed one of the largest artworks in history: a \"golden river,\" or 7,503 fabric-paneled gates in Central Park. While Christo and Jeanne-Claude's artistic vision sought to unite all of New York City, the public reacted with accusations of 'defacement of a masterpiece,' akin to putting a mustache on the Mona Lisa. Twenty-four years later, and after the election of Michael R. Bloomberg as mayor, the project was approved in January 2003 and completed in February 2005.\r\nTHE GATES chronicles the evolution of the project from concept to realization, ultimately overcoming public disapproval and transforming Central Park into a visual symphony of color and light. The work of art, entirely financed by the artists, which brought over 4 million visitors from around the world to Central Park in mid-winter, is lovingly captured in this masterful film.",
+      "runtime": 98,
+      "times": [
+        {
+          "starts_at": "2025-04-27T18:00:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-98465/"
         }
       ]
     }
