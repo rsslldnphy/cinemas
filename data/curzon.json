@@ -1,7 +1,4 @@
 {
-  "2025-04-20": [
-
-  ],
   "2025-04-21": [
     {
       "title": "Flow",
@@ -3398,6 +3395,26 @@
           "starts_at": "2025-04-27T18:00:00+01:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-98465/"
+        }
+      ]
+    }
+  ],
+  "2025-04-28": [
+    {
+      "title": "Julie Keeps Quiet",
+      "trailer": "https://www.youtube.com/watch?v=rMWdEpkxG9M",
+      "synopsis": "With his debut film, director Leonardo van Dijl delivers an excellently crafted psychological drama in Julie Keeps Quiet, which follows the point of view of a young athlete in crisis. ",
+      "runtime": 97,
+      "times": [
+        {
+          "starts_at": "2025-04-28T17:50:00+01:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-32312/"
+        },
+        {
+          "starts_at": "2025-04-28T21:00:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-98985/"
         }
       ]
     }
