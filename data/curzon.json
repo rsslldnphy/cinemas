@@ -1,7 +1,4 @@
 {
-  "2025-04-21": [
-
-  ],
   "2025-04-22": [
     {
       "title": "Flow",
@@ -2617,14 +2614,73 @@
       "runtime": 97,
       "times": [
         {
-          "starts_at": "2025-04-28T17:50:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-32312/"
-        },
-        {
           "starts_at": "2025-04-28T21:00:00+01:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-98985/"
+        }
+      ]
+    }
+  ],
+  "2025-04-29": [
+    {
+      "title": "When Autumn Falls",
+      "trailer": "https://www.youtube.com/watch?v=-q02Ai9LtHo",
+      "synopsis": "Loving grandmother Michelle is enjoying a peaceful retirement in a quiet Burgundy village, close to her best friend Marie-Claude. However, when her daughter Valérie drops off her grandson Lucas for their week together, everything begins to unravel. As Michelle navigates the complexities of her strained relationship with Valérie, unexpected tensions arise—especially when Marie-Claude’s son, recently released from prison, enters the picture.",
+      "runtime": 104,
+      "times": [
+        {
+          "starts_at": "2025-04-29T13:00:00+01:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-80621/"
+        },
+        {
+          "starts_at": "2025-04-29T13:00:00+01:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-32055/"
+        }
+      ]
+    },
+    {
+      "title": "Julie Keeps Quiet",
+      "trailer": "https://www.youtube.com/watch?v=rMWdEpkxG9M",
+      "synopsis": "With his debut film, director Leonardo van Dijl delivers an excellently crafted psychological drama in Julie Keeps Quiet, which follows the point of view of a young athlete in crisis. ",
+      "runtime": 97,
+      "times": [
+        {
+          "starts_at": "2025-04-29T17:50:00+01:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-32313/"
+        },
+        {
+          "starts_at": "2025-04-29T21:00:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-99010/"
+        }
+      ]
+    },
+    {
+      "title": "DocHouse: The Accidental Spy",
+      "trailer": null,
+      "synopsis": "Days after 9/11, Blerim Skoro was recruited from a Manhattan prison by the CIA and FBI. For over a decade, he was America’s infidel mole, roaming the Middle East as a spy deep inside al-Qaeda. Skoro lived in constant danger amongst terrorists, leaking intelligence to the US government in the desperate hope of getting a Green Card and a ticket back to his family in Brooklyn.\r\n\r\nTHE ACCIDENTAL SPY is the story of how one man became tangled in a complex geo-political web, how he risked everything to protect his family, and how he was cruelly betrayed by the country he strived to defend.\r\n",
+      "runtime": 97,
+      "times": [
+        {
+          "starts_at": "2025-04-29T15:00:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-98822/"
+        }
+      ]
+    },
+    {
+      "title": "DocHouse: Relentless Memory",
+      "trailer": null,
+      "synopsis": "Committed to unearthing her ancestors' silenced history, Margarita embarks on a profound journey, guided by the diary of Katrulaf, an indigenous Mapuche prisoner of war. She retraces the Mapuches’ deportation route, and in unearthing these pasts, gives voice to a displaced people and the genocide inflicted upon them during the military invasions that founded Argentina and Chile. Through a mix of archival material and present-day footage, RELENTLESS MEMORY becomes a record of resistance and remembrance, poetically intertwining the Mapuche ancestral landscape with memories that were forcibly erased from the land and its people. Margarita’s emotional journey, evocatively captured by Paula Rodríguez Sickert, underpins her belief that 'reviewing history not only reopens wounds but also offers an opportunity to rebuild ourselves'.",
+      "runtime": 93,
+      "times": [
+        {
+          "starts_at": "2025-04-29T18:20:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-98643/"
         }
       ]
     }
