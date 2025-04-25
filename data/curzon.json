@@ -1,32 +1,4 @@
 {
-  "2025-04-24": [
-    {
-      "title": "Black Bag",
-      "trailer": "https://www.youtube.com/watch?v=n_56L6WzLT8",
-      "synopsis": "From Director Steven Soderbergh, BLACK BAG is a gripping spy drama about legendary intelligence agents George Woodhouse and his beloved wife Kathryn. When she is suspected of betraying the nation, George faces the ultimate test – loyalty to his marriage or his country.",
-      "runtime": 94,
-      "times": [
-        {
-          "starts_at": "2025-04-24T21:30:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-80928/"
-        }
-      ]
-    },
-    {
-      "title": "Warfare",
-      "trailer": "https://www.youtube.com/watch?v=JER0Fkyy3tw",
-      "synopsis": "Written and directed by Iraq War veteran Ray Mendoza and Alex Garland (Civil War, 28 Days Later), Warfare embeds audiences with a platoon of American Navy SEALs on a surveillance mission gone wrong in insurgent territory. A visceral, boots-on-the-ground story of modern warfare and brotherhood, told like never before: in real time and based on the memory of the people who lived it.",
-      "runtime": 96,
-      "times": [
-        {
-          "starts_at": "2025-04-24T21:30:00+01:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-21484/"
-        }
-      ]
-    }
-  ],
   "2025-04-25": [
     {
       "title": "A Minecraft Movie",
@@ -5458,6 +5430,82 @@
           "starts_at": "2025-05-01T20:40:00+01:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-98823/"
+        }
+      ]
+    }
+  ],
+  "2025-05-02": [
+    {
+      "title": "Thunderbolts*",
+      "trailer": "https://www.youtube.com/watch?v=GUmSO7nh4Sw",
+      "synopsis": "In “Thunderbolts*” Marvel Studios assembles an unconventional team of antiheroes—Yelena Belova, Bucky Barnes, Red Guardian, Ghost, Taskmaster and John Walker. After finding themselves ensnared in a death trap set by Valentina Allegra de Fontaine, these disillusioned castoffs must embark on a dangerous mission that will force them to confront the darkest corners of their pasts. Will this dysfunctional group tear themselves apart, or find redemption and unite as something much more before it’s too late?",
+      "runtime": 126,
+      "times": [
+        {
+          "starts_at": "2025-05-02T12:00:00+01:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-55712/"
+        },
+        {
+          "starts_at": "2025-05-02T15:00:00+01:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-55711/"
+        },
+        {
+          "starts_at": "2025-05-02T18:00:00+01:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-55710/"
+        },
+        {
+          "starts_at": "2025-05-02T21:00:00+01:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-55709/"
+        },
+        {
+          "starts_at": "2025-05-02T12:00:00+01:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-80644/"
+        },
+        {
+          "starts_at": "2025-05-02T15:00:00+01:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-80643/"
+        },
+        {
+          "starts_at": "2025-05-02T18:00:00+01:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-80642/"
+        },
+        {
+          "starts_at": "2025-05-02T21:00:00+01:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-80641/"
+        }
+      ]
+    },
+    {
+      "title": "Motel Destino",
+      "trailer": "https://www.youtube.com/watch?v=NyMf7If-vQA",
+      "synopsis": "The unexpected arrival of 21-year-old Heraldo, on the run after a botched hit, disrupts the established order at Motel Destino, a roadside sex hotel steaming under the burning blue skies of Brazil, run by hot-headed Elias and his restless younger wife Dayana.",
+      "runtime": 115,
+      "times": [
+        {
+          "starts_at": "2025-05-02T21:00:00+01:00",
+          "site": "Curzon Soho",
+          "url": "https://www.curzon.com/ticketing/seats/SOH1-49474/"
+        }
+      ]
+    },
+    {
+      "title": "DocHouse: Marching In The Dark",
+      "trailer": "https://www.youtube.com/watch?v=ZRrM_befeLI",
+      "synopsis": "Sanjivani, a young widow in rural India, grapples with devastating loss after her husband, a farmer who succumbed to the pressures of rising costs, unyielding crop failures, and volatile market prices, and committed suicide – one of thousands each year in India’s agriculture sectors.\r\n\r\nWhen Sanjivani cautiously joins a local support group for widows-only, she unexpectedly embarks upon a transformative journey of discovery with the other women as they share their grief with each other. When she summons the courage to unveil her own story, Sanjivani finds inspiration in their shared resilience and the empowerment forged from their common experiences. Can Sanjivani’s newly-found voice shift adversity into opportunity? Are solidarity and friendships enough to quietly fuel a mental-health revolution?",
+      "runtime": 108,
+      "times": [
+        {
+          "starts_at": "2025-05-02T18:20:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-99016/"
         }
       ]
     }
