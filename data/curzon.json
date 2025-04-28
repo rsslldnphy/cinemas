@@ -1,21 +1,49 @@
 {
   "2025-04-28": [
     {
+      "title": "The Accountant 2",
+      "trailer": null,
+      "synopsis": "Christian Wolff (Ben Affleck) has a talent for solving complex problems. When an old acquaintance is murdered, leaving behind a cryptic message to “find the accountant,” Wolff is compelled to solve the case. Realizing more extreme measures are necessary, Wolff recruits his estranged and highly lethal brother, Brax (Jon Bernthal), to help. In partnership with U.S. Treasury Deputy Director Marybeth Medina (Cynthia Addai-Robinson), they uncover a deadly conspiracy, becoming targets of a ruthless network of killers who will stop at nothing to keep their secrets buried.\n\n",
+      "runtime": 132,
+      "times": [
+        {
+          "starts_at": "2025-04-28T14:40:00+01:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-56054/"
+        },
+        {
+          "starts_at": "2025-04-28T17:40:00+01:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-56039/"
+        },
+        {
+          "starts_at": "2025-04-28T20:20:00+01:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-56041/"
+        },
+        {
+          "starts_at": "2025-04-28T14:45:00+01:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-81036/"
+        },
+        {
+          "starts_at": "2025-04-28T18:15:00+01:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-81029/"
+        },
+        {
+          "starts_at": "2025-04-28T20:15:00+01:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-81027/"
+        }
+      ]
+    },
+    {
       "title": "Flow",
       "trailer": "https://www.youtube.com/watch?v=shsVQvHUTxw",
       "synopsis": "When a flood of biblical proportions washes its home away, a solitary cat must seek refuge with a motley crew of animals (including a dog, a capybara, a lemur and a secretarybird), who gradually learn to get along in this endearing, Oscar-winning animation.",
       "runtime": 85,
       "times": [
-        {
-          "starts_at": "2025-04-28T11:00:00+01:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-56055/"
-        },
-        {
-          "starts_at": "2025-04-28T13:10:00+01:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-56056/"
-        },
         {
           "starts_at": "2025-04-28T15:00:00+01:00",
           "site": "Curzon Aldgate",
@@ -37,24 +65,9 @@
           "url": "https://www.curzon.com/ticketing/seats/SOH1-49583/"
         },
         {
-          "starts_at": "2025-04-28T11:20:00+01:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-21510/"
-        },
-        {
-          "starts_at": "2025-04-28T13:30:00+01:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-21509/"
-        },
-        {
           "starts_at": "2025-04-28T15:40:00+01:00",
           "site": "Curzon Hoxton",
           "url": "https://www.curzon.com/ticketing/seats/HOX1-21504/"
-        },
-        {
-          "starts_at": "2025-04-28T12:15:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-32451/"
         },
         {
           "starts_at": "2025-04-28T16:30:00+01:00",
@@ -67,62 +80,9 @@
           "url": "https://www.curzon.com/ticketing/seats/CAM1-32440/"
         },
         {
-          "starts_at": "2025-04-28T12:40:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-99036/"
-        },
-        {
           "starts_at": "2025-04-28T17:50:00+01:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-99026/"
-        }
-      ]
-    },
-    {
-      "title": "The Accountant 2",
-      "trailer": null,
-      "synopsis": "Christian Wolff (Ben Affleck) has a talent for solving complex problems. When an old acquaintance is murdered, leaving behind a cryptic message to “find the accountant,” Wolff is compelled to solve the case. Realizing more extreme measures are necessary, Wolff recruits his estranged and highly lethal brother, Brax (Jon Bernthal), to help. In partnership with U.S. Treasury Deputy Director Marybeth Medina (Cynthia Addai-Robinson), they uncover a deadly conspiracy, becoming targets of a ruthless network of killers who will stop at nothing to keep their secrets buried.\n\n",
-      "runtime": 132,
-      "times": [
-        {
-          "starts_at": "2025-04-28T11:40:00+01:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-56052/"
-        },
-        {
-          "starts_at": "2025-04-28T14:40:00+01:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-56054/"
-        },
-        {
-          "starts_at": "2025-04-28T17:40:00+01:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-56039/"
-        },
-        {
-          "starts_at": "2025-04-28T20:20:00+01:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-56041/"
-        },
-        {
-          "starts_at": "2025-04-28T11:30:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-81024/"
-        },
-        {
-          "starts_at": "2025-04-28T14:45:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-81036/"
-        },
-        {
-          "starts_at": "2025-04-28T18:15:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-81029/"
-        },
-        {
-          "starts_at": "2025-04-28T20:15:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-81027/"
         }
       ]
     },
@@ -132,11 +92,6 @@
       "synopsis": "Trying to leave their troubled lives behind, twin brothers (Jordan) return to their hometown to start again, only to discover that an even greater evil is waiting to welcome them back.",
       "runtime": 137,
       "times": [
-        {
-          "starts_at": "2025-04-28T12:00:00+01:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-56053/"
-        },
         {
           "starts_at": "2025-04-28T15:20:00+01:00",
           "site": "Curzon Aldgate",
@@ -151,11 +106,6 @@
           "starts_at": "2025-04-28T20:40:00+01:00",
           "site": "Curzon Aldgate",
           "url": "https://www.curzon.com/ticketing/seats/ALD1-56040/"
-        },
-        {
-          "starts_at": "2025-04-28T12:00:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-81026/"
         },
         {
           "starts_at": "2025-04-28T15:00:00+01:00",
@@ -173,11 +123,6 @@
           "url": "https://www.curzon.com/ticketing/seats/VIC1-81040/"
         },
         {
-          "starts_at": "2025-04-28T12:00:00+01:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-21511/"
-        },
-        {
           "starts_at": "2025-04-28T18:00:00+01:00",
           "site": "Curzon Hoxton",
           "url": "https://www.curzon.com/ticketing/seats/HOX1-21506/"
@@ -186,11 +131,6 @@
           "starts_at": "2025-04-28T20:20:00+01:00",
           "site": "Curzon Hoxton",
           "url": "https://www.curzon.com/ticketing/seats/HOX1-21501/"
-        },
-        {
-          "starts_at": "2025-04-28T12:30:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-32436/"
         },
         {
           "starts_at": "2025-04-28T15:00:00+01:00",
@@ -226,19 +166,9 @@
       "runtime": 101,
       "times": [
         {
-          "starts_at": "2025-04-28T13:30:00+01:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-56047/"
-        },
-        {
           "starts_at": "2025-04-28T16:00:00+01:00",
           "site": "Curzon Aldgate",
           "url": "https://www.curzon.com/ticketing/seats/ALD1-56048/"
-        },
-        {
-          "starts_at": "2025-04-28T11:15:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-81034/"
         }
       ]
     },
@@ -322,11 +252,6 @@
           "url": "https://www.curzon.com/ticketing/seats/HOX1-21502/"
         },
         {
-          "starts_at": "2025-04-28T12:45:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-32444/"
-        },
-        {
           "starts_at": "2025-04-28T15:40:00+01:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-32445/"
@@ -382,80 +307,6 @@
       ]
     },
     {
-      "title": "One to One: John & Yoko",
-      "trailer": "https://www.youtube.com/watch?v=ZRrM_befeLI",
-      "synopsis": "On August 30, 1972, in New York City, John Lennon played his only full-length show after leaving The Beatles, the One to One benefit concert at Madison Square Garden, a rollicking, dazzling performance from him and Yoko Ono. Macdonald’s riveting documentary takes that legendary musical event and uses it as the starting point to explore eighteen defining months in the lives of John and Yoko. By 1971 the couple was newly arrived in the United States— living in a tiny apartment in Greenwich Village and watching a huge amount of American television. The film uses a riotous mélange of American TV to conjure the era through what the two would have been seeing on the screen: the Vietnam War, The Price is Right, Nixon, Coca-Cola ads, Cronkite, The Waltons. As they experience a year of love and transformation in the US, John and Yoko begin to change their approach to protest  — ultimately leading to the One to One concert, which was inspired by a Geraldo Rivera exposé they watched on TV. Filmed in a meticulously faithful reproduction of the NYC apartment the duo shared, ONE TO ONE: JOHN & YOKO offers a bold new take on a seminal time in the lives of two of history’s most influential artists. \n",
-      "runtime": 101,
-      "times": [
-        {
-          "starts_at": "2025-04-28T12:00:00+01:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-49586/"
-        },
-        {
-          "starts_at": "2025-04-28T15:15:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-32442/"
-        }
-      ]
-    },
-    {
-      "title": "I'm Still Here",
-      "trailer": null,
-      "synopsis": "Based on Marcelo Rubens Paiva's best-selling memoir in which his mother is forced into activism when her husband was captured by a military regime in Brazil, 1964.",
-      "runtime": 137,
-      "times": [
-        {
-          "starts_at": "2025-04-28T12:30:00+01:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-49587/"
-        },
-        {
-          "starts_at": "2025-04-28T13:30:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-32448/"
-        },
-        {
-          "starts_at": "2025-04-28T17:20:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-32449/"
-        }
-      ]
-    },
-    {
-      "title": "Holy Cow",
-      "trailer": "https://www.youtube.com/watch?v=cy0WeGJow9E",
-      "synopsis": "18-year-old Totone spends most of his time drinking beer and partying in the Jura region with his group of friends until reality catches up with him when he has to take care of his 7-year-old sister and find a way to make a living. He sets out to make the best Comté cheese in the region in an attempt to win the gold medal at the agricultural competition and 30,000 euros. ",
-      "runtime": 92,
-      "times": [
-        {
-          "starts_at": "2025-04-28T13:00:00+01:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-49585/"
-        },
-        {
-          "starts_at": "2025-04-28T21:15:00+01:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-49589/"
-        },
-        {
-          "starts_at": "2025-04-28T12:00:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-99029/"
-        },
-        {
-          "starts_at": "2025-04-28T14:15:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-99028/"
-        },
-        {
-          "starts_at": "2025-04-28T18:50:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-99025/"
-        }
-      ]
-    },
-    {
       "title": "Julie Keeps Quiet",
       "trailer": "https://www.youtube.com/watch?v=rMWdEpkxG9M",
       "synopsis": "With his debut film, director Leonardo van Dijl delivers an excellently crafted psychological drama in Julie Keeps Quiet, which follows the point of view of a young athlete in crisis. ",
@@ -472,19 +323,9 @@
           "url": "https://www.curzon.com/ticketing/seats/SOH1-49582/"
         },
         {
-          "starts_at": "2025-04-28T13:00:00+01:00",
-          "site": "Curzon Mayfair",
-          "url": "https://www.curzon.com/ticketing/seats/MAY1-29838/"
-        },
-        {
           "starts_at": "2025-04-28T18:20:00+01:00",
           "site": "Curzon Mayfair",
           "url": "https://www.curzon.com/ticketing/seats/MAY1-29834/"
-        },
-        {
-          "starts_at": "2025-04-28T13:00:00+01:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-21507/"
         },
         {
           "starts_at": "2025-04-28T18:20:00+01:00",
@@ -492,19 +333,9 @@
           "url": "https://www.curzon.com/ticketing/seats/HOX1-21500/"
         },
         {
-          "starts_at": "2025-04-28T13:00:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-32441/"
-        },
-        {
           "starts_at": "2025-04-28T17:40:00+01:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-32452/"
-        },
-        {
-          "starts_at": "2025-04-28T13:40:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-99034/"
         },
         {
           "starts_at": "2025-04-28T15:30:00+01:00",
@@ -524,35 +355,25 @@
       ]
     },
     {
-      "title": "The Penguin Lessons",
-      "trailer": "https://www.youtube.com/watch?v=0A_C3MT3uyA",
-      "synopsis": "Starring Oscar nominee Steve Coogan, this poignant dramedy from director Peter Cattaneo follows an Englishman’s personal and political awakening after he adopts a penguin during a cataclysmic period in Argentine history.",
-      "runtime": 110,
+      "title": "Holy Cow",
+      "trailer": "https://www.youtube.com/watch?v=cy0WeGJow9E",
+      "synopsis": "18-year-old Totone spends most of his time drinking beer and partying in the Jura region with his group of friends until reality catches up with him when he has to take care of his 7-year-old sister and find a way to make a living. He sets out to make the best Comté cheese in the region in an attempt to win the gold medal at the agricultural competition and 30,000 euros. ",
+      "runtime": 92,
       "times": [
         {
-          "starts_at": "2025-04-28T12:15:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-81025/"
+          "starts_at": "2025-04-28T21:15:00+01:00",
+          "site": "Curzon Soho",
+          "url": "https://www.curzon.com/ticketing/seats/SOH1-49589/"
         },
         {
-          "starts_at": "2025-04-28T17:45:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-81031/"
-        },
-        {
-          "starts_at": "2025-04-28T15:20:00+01:00",
-          "site": "Curzon Mayfair",
-          "url": "https://www.curzon.com/ticketing/seats/MAY1-29837/"
-        },
-        {
-          "starts_at": "2025-04-28T12:20:00+01:00",
+          "starts_at": "2025-04-28T14:15:00+01:00",
           "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-99031/"
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-99028/"
         },
         {
-          "starts_at": "2025-04-28T18:10:00+01:00",
+          "starts_at": "2025-04-28T18:50:00+01:00",
           "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-98998/"
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-99025/"
         }
       ]
     },
@@ -580,15 +401,25 @@
       ]
     },
     {
-      "title": "Mr. Burton",
-      "trailer": "https://www.youtube.com/watch?v=h6Trx84-gy4",
-      "synopsis": "Based on a remarkable true story, discover how the poor son of a miner became one of the greatest actors the world has ever known, with the help of an unlikely mentor.\n\nIn the Welsh town of Port Talbot, 1942, Richard Jenkins (Harry Lawtey) lives as a wayward schoolboy, caught between the pressures of his struggling family, a devastating war, and his own ambitions. However, a new opportunity arises when Richard’s natural talent for drama catches the attention of his teacher, Philip Burton (BAFTA winner Toby Jones).\n\nTaking Richard under his wing, the young man thrives thanks to Philip’s strict tutelage and the guidance of kindly landlady, Ma Smith (Academy Award nominee Lesley Manville). However, as the acting world comes within Richard’s reach, the burden of his past risks holding him back forever.",
-      "runtime": 124,
+      "title": "The Penguin Lessons",
+      "trailer": "https://www.youtube.com/watch?v=0A_C3MT3uyA",
+      "synopsis": "Starring Oscar nominee Steve Coogan, this poignant dramedy from director Peter Cattaneo follows an Englishman’s personal and political awakening after he adopts a penguin during a cataclysmic period in Argentine history.",
+      "runtime": 110,
       "times": [
         {
-          "starts_at": "2025-04-28T12:45:00+01:00",
+          "starts_at": "2025-04-28T17:45:00+01:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-81031/"
+        },
+        {
+          "starts_at": "2025-04-28T15:20:00+01:00",
           "site": "Curzon Mayfair",
-          "url": "https://www.curzon.com/ticketing/seats/MAY1-29839/"
+          "url": "https://www.curzon.com/ticketing/seats/MAY1-29837/"
+        },
+        {
+          "starts_at": "2025-04-28T18:10:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-98998/"
         }
       ]
     },
@@ -642,6 +473,32 @@
       ]
     },
     {
+      "title": "One to One: John & Yoko",
+      "trailer": "https://www.youtube.com/watch?v=ZRrM_befeLI",
+      "synopsis": "On August 30, 1972, in New York City, John Lennon played his only full-length show after leaving The Beatles, the One to One benefit concert at Madison Square Garden, a rollicking, dazzling performance from him and Yoko Ono. Macdonald’s riveting documentary takes that legendary musical event and uses it as the starting point to explore eighteen defining months in the lives of John and Yoko. By 1971 the couple was newly arrived in the United States— living in a tiny apartment in Greenwich Village and watching a huge amount of American television. The film uses a riotous mélange of American TV to conjure the era through what the two would have been seeing on the screen: the Vietnam War, The Price is Right, Nixon, Coca-Cola ads, Cronkite, The Waltons. As they experience a year of love and transformation in the US, John and Yoko begin to change their approach to protest  — ultimately leading to the One to One concert, which was inspired by a Geraldo Rivera exposé they watched on TV. Filmed in a meticulously faithful reproduction of the NYC apartment the duo shared, ONE TO ONE: JOHN & YOKO offers a bold new take on a seminal time in the lives of two of history’s most influential artists. \n",
+      "runtime": 101,
+      "times": [
+        {
+          "starts_at": "2025-04-28T15:15:00+01:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-32442/"
+        }
+      ]
+    },
+    {
+      "title": "I'm Still Here",
+      "trailer": null,
+      "synopsis": "Based on Marcelo Rubens Paiva's best-selling memoir in which his mother is forced into activism when her husband was captured by a military regime in Brazil, 1964.",
+      "runtime": 137,
+      "times": [
+        {
+          "starts_at": "2025-04-28T17:20:00+01:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-32449/"
+        }
+      ]
+    },
+    {
       "title": "MACBETH: David Tennant & Cush Jumbo",
       "trailer": null,
       "synopsis": "David Tennant (Doctor Who, Broadchurch) and Cush Jumbo (The Good Wife, Criminal Record) lead a stellar cast in an ‘enthralling’ (★★★★★ Daily Telegraph) new production of Shakespeare’s MACBETH, filmed live at the Donmar Warehouse in London, especially for the big screen. Unsettling intimacy and brutal action combine at breakneck speed as Max Webster (Life of Pi, Henry V) directs this tragic tale of love, murder, and nature’s power of renewal. With staging ‘full of wolfish imagination and alarming surprise’ (★★★★★ The Guardian), the immersive 5.1 cinema surround sound places the audience inside the minds of the Macbeths, asking are we ever really responsible for our actions?",
@@ -664,24 +521,6 @@
           "starts_at": "2025-04-28T20:00:00+01:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-32443/"
-        }
-      ]
-    },
-    {
-      "title": "April",
-      "trailer": null,
-      "synopsis": "Nina works in the only small hospital of a provincial town as an OB-GYN. Single and in abstinence from personal relationships, she is unconditionally devoted to her Hippocratic oath. When a newborn dies within seconds of being delivered under her supervision, she is accused of wrongdoings. Under investigation, every detail of Nina's personal and professional life is being scrutinized. Despite the risks, Nina remains devoted to her duty as a doctor, committed to doing what nobody else will.",
-      "runtime": 134,
-      "times": [
-        {
-          "starts_at": "2025-04-28T12:30:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-99038/"
-        },
-        {
-          "starts_at": "2025-04-28T18:00:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-99004/"
         }
       ]
     },
@@ -731,6 +570,19 @@
           "starts_at": "2025-04-28T20:50:00+01:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-99005/"
+        }
+      ]
+    },
+    {
+      "title": "April",
+      "trailer": null,
+      "synopsis": "Nina works in the only small hospital of a provincial town as an OB-GYN. Single and in abstinence from personal relationships, she is unconditionally devoted to her Hippocratic oath. When a newborn dies within seconds of being delivered under her supervision, she is accused of wrongdoings. Under investigation, every detail of Nina's personal and professional life is being scrutinized. Despite the risks, Nina remains devoted to her duty as a doctor, committed to doing what nobody else will.",
+      "runtime": 134,
+      "times": [
+        {
+          "starts_at": "2025-04-28T18:00:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-99004/"
         }
       ]
     },
