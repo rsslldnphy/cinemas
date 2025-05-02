@@ -1,7 +1,4 @@
 {
-  "2025-05-01": [
-
-  ],
   "2025-05-02": [
     {
       "title": "Flow",
@@ -5299,6 +5296,95 @@
           "starts_at": "2025-05-08T20:10:00+01:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-98833/"
+        }
+      ]
+    }
+  ],
+  "2025-05-09": [
+    {
+      "title": "Motel Destino",
+      "trailer": "https://www.youtube.com/watch?v=NyMf7If-vQA",
+      "synopsis": "The unexpected arrival of 21-year-old Heraldo, on the run after a botched hit, disrupts the established order at Motel Destino, a roadside sex hotel steaming under the burning blue skies of Brazil, run by hot-headed Elias and his restless younger wife Dayana.",
+      "runtime": 115,
+      "times": [
+        {
+          "starts_at": "2025-05-09T13:00:00+01:00",
+          "site": "Curzon Soho",
+          "url": "https://www.curzon.com/ticketing/seats/SOH1-49643/"
+        },
+        {
+          "starts_at": "2025-05-09T15:40:00+01:00",
+          "site": "Curzon Soho",
+          "url": "https://www.curzon.com/ticketing/seats/SOH1-49642/"
+        },
+        {
+          "starts_at": "2025-05-09T18:20:00+01:00",
+          "site": "Curzon Soho",
+          "url": "https://www.curzon.com/ticketing/seats/SOH1-49641/"
+        },
+        {
+          "starts_at": "2025-05-09T21:00:00+01:00",
+          "site": "Curzon Soho",
+          "url": "https://www.curzon.com/ticketing/seats/SOH1-49640/"
+        },
+        {
+          "starts_at": "2025-05-09T21:00:00+01:00",
+          "site": "Curzon Hoxton",
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-21763/"
+        },
+        {
+          "starts_at": "2025-05-09T15:00:00+01:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-32543/"
+        },
+        {
+          "starts_at": "2025-05-09T17:40:00+01:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-32542/"
+        }
+      ]
+    },
+    {
+      "title": "The Uninvited",
+      "trailer": "https://www.youtube.com/watch?v=-0RAzCjgGwI",
+      "synopsis": "THE UNINVITED is a story about the passing of time, love, regret and aging. This comedic drama centres on Rose, a former actress now living as a stay-at-home mom, who as she prepares the house to host a party for her husband’s job an elderly woman named Helen arrives, claiming she has returned home. This unexpected encounter, along with the presence of other complicated characters from her past and present, creates a night of chaos and forces Rose to confront her insecurities and reflect on her journey as a woman. The film humorously critiques Hollywood's beauty standards while celebrating the complexities of womanhood and explores the themes of motherhood, and self-discovery in Los Angeles.\r\n\r\nStarring:\r\nELIZABETH REASER, WALTON GOGGINS, PEDRO PASCAL, LOIS SMITH, RUFUS SEWELL, EVA DE DOMINICI",
+      "runtime": 98,
+      "times": [
+        {
+          "starts_at": "2025-05-09T18:40:00+01:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-32536/"
+        },
+        {
+          "starts_at": "2025-05-09T21:00:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-99176/"
+        }
+      ]
+    },
+    {
+      "title": "DocHouse: Riefenstahl",
+      "trailer": null,
+      "synopsis": "Explores Leni Riefenstahl's artistic legacy and her complex ties to the Nazi regime, juxtaposing her self-portrayal with evidence suggesting awareness of the regime's atrocities.",
+      "runtime": 115,
+      "times": [
+        {
+          "starts_at": "2025-05-09T18:00:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-98830/"
+        }
+      ]
+    },
+    {
+      "title": "DocHouse: Jocelyne Saab: Disappearing Worlds",
+      "trailer": null,
+      "synopsis": "Pioneering Lebanese director Jocelyne Saab is best known for her films about the Lebanese civil war and Palestinian resistance, but she turned her camera to many subjects beyond her native Lebanon – most notably in Egypt, Western Sahara, Iran and Vietnam – where her distinct style of filmmaking – inquisitive, personal, playful – enabled poetic portraits at the same time as producing unique, often atypical, historical documents.\r\n \r\nThis programme of films made by Saab in Egypt between 1977 and 1989 offers a slant insight into the evolution of Saab’s political perspectives over time, and a novel understanding of her enduring commitment to justice and freedom. The second part in the programme, DISAPPEARING WORLDS, features THE ACHITECT OF LUXOR (1986), THE RISE OF FUNDAMENTALISM (1986) and AL’ALMA’, BELLY DANCERS (1989). These new restorations are shown for the first time at Open City.",
+      "runtime": 60,
+      "times": [
+        {
+          "starts_at": "2025-05-09T20:30:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-98645/"
         }
       ]
     }
