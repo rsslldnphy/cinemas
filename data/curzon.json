@@ -1,7 +1,4 @@
 {
-  "2025-05-04": [
-
-  ],
   "2025-05-05": [
     {
       "title": "Flow",
@@ -3365,6 +3362,54 @@
           "starts_at": "2025-05-11T18:00:00+01:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-98832/"
+        }
+      ]
+    }
+  ],
+  "2025-05-12": [
+    {
+      "title": "Motel Destino",
+      "trailer": "https://www.youtube.com/watch?v=NyMf7If-vQA",
+      "synopsis": "The unexpected arrival of 21-year-old Heraldo, on the run after a botched hit, disrupts the established order at Motel Destino, a roadside sex hotel steaming under the burning blue skies of Brazil, run by hot-headed Elias and his restless younger wife Dayana.",
+      "runtime": 115,
+      "times": [
+        {
+          "starts_at": "2025-05-12T18:20:00+01:00",
+          "site": "Curzon Soho",
+          "url": "https://www.curzon.com/ticketing/seats/SOH1-49832/"
+        },
+        {
+          "starts_at": "2025-05-12T21:00:00+01:00",
+          "site": "Curzon Soho",
+          "url": "https://www.curzon.com/ticketing/seats/SOH1-49833/"
+        },
+        {
+          "starts_at": "2025-05-12T21:00:00+01:00",
+          "site": "Curzon Hoxton",
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-21765/"
+        },
+        {
+          "starts_at": "2025-05-12T15:00:00+01:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-32721/"
+        },
+        {
+          "starts_at": "2025-05-12T17:40:00+01:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-32720/"
+        }
+      ]
+    },
+    {
+      "title": "DocHouse: Riefenstahl",
+      "trailer": null,
+      "synopsis": "Explores Leni Riefenstahl's artistic legacy and her complex ties to the Nazi regime, juxtaposing her self-portrayal with evidence suggesting awareness of the regime's atrocities.",
+      "runtime": 115,
+      "times": [
+        {
+          "starts_at": "2025-05-12T16:00:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-99394/"
         }
       ]
     }
