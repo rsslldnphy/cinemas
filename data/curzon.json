@@ -1,7 +1,4 @@
 {
-  "2025-05-05": [
-
-  ],
   "2025-05-06": [
     {
       "title": "Flow",
@@ -2378,11 +2375,6 @@
           "url": "https://www.curzon.com/ticketing/seats/SOH1-49827/"
         },
         {
-          "starts_at": "2025-05-10T21:00:00+01:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-21617/"
-        },
-        {
           "starts_at": "2025-05-10T15:00:00+01:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-32729/"
@@ -2537,11 +2529,6 @@
           "starts_at": "2025-05-11T14:30:00+01:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-32561/"
-        },
-        {
-          "starts_at": "2025-05-11T17:10:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-32571/"
         }
       ]
     },
@@ -2660,6 +2647,90 @@
           "starts_at": "2025-05-12T16:00:00+01:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-99394/"
+        }
+      ]
+    }
+  ],
+  "2025-05-13": [
+    {
+      "title": "Motel Destino",
+      "trailer": "https://www.youtube.com/watch?v=NyMf7If-vQA",
+      "synopsis": "The unexpected arrival of 21-year-old Heraldo, on the run after a botched hit, disrupts the established order at Motel Destino, a roadside sex hotel steaming under the burning blue skies of Brazil, run by hot-headed Elias and his restless younger wife Dayana.",
+      "runtime": 115,
+      "times": [
+        {
+          "starts_at": "2025-05-13T18:20:00+01:00",
+          "site": "Curzon Soho",
+          "url": "https://www.curzon.com/ticketing/seats/SOH1-49834/"
+        },
+        {
+          "starts_at": "2025-05-13T21:00:00+01:00",
+          "site": "Curzon Soho",
+          "url": "https://www.curzon.com/ticketing/seats/SOH1-49835/"
+        },
+        {
+          "starts_at": "2025-05-13T21:00:00+01:00",
+          "site": "Curzon Hoxton",
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-21766/"
+        },
+        {
+          "starts_at": "2025-05-13T15:00:00+01:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-32723/"
+        },
+        {
+          "starts_at": "2025-05-13T17:40:00+01:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-32722/"
+        }
+      ]
+    },
+    {
+      "title": "Desire: The Carl Craig Story",
+      "trailer": "https://www.youtube.com/watch?v=dZ7oljnPl5g",
+      "synopsis": "\"Desire: The Carl Craig Story\" is an intimate portrait of legendary techno producer, DJ and record label creator Carl Craig and an ode to his beloved city, Detroit. Raised in a middle class African American family, Carl's parents fostered his artistic pursuits, even if that meant breaking with his family's tradition of pursuing higher education.\nWith Detroit's decline and recovery as a backdrop, \"Desire: The Carl Craig Story\" follows the career of a musical pioneer whose genre-defying techno music – which was inspired by a wide range of sounds, has been performed to jazz enthusiasts at the Montreux Jazz Festival and in the premier classical auditoriums around the world, including Carnegie Hall.\n\nThirty-five years into his music career, Carl Craig, a leading figure of the second generation of the Detroit techno artists, has now been embraced by the visual arts world, with recent exhibitions at MOCA in Los Angeles and Dia Beacon in New York.\n\nBut at the pinnacle of his creative and deejaying success, the musician faces challenges that could ultimately force him to stay away from the dance floor.",
+      "runtime": 91,
+      "times": [
+        {
+          "starts_at": "2025-05-13T20:40:00+01:00",
+          "site": "Curzon Soho",
+          "url": "https://www.curzon.com/ticketing/seats/SOH1-49648/"
+        },
+        {
+          "starts_at": "2025-05-13T20:40:00+01:00",
+          "site": "Curzon Hoxton",
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-21620/"
+        },
+        {
+          "starts_at": "2025-05-13T20:40:00+01:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-32719/"
+        }
+      ]
+    },
+    {
+      "title": "Ocean With David Attenborough",
+      "trailer": "https://www.youtube.com/watch?v=cIZAdCtKT_g",
+      "synopsis": "OCEAN WITH DAVID ATTENBOROUGH takes viewers on a breathtaking journey showing there is nowhere more vital for our survival, more full of life, wonder, or surprise, than the ocean.\n\nThe celebrated broadcaster and filmmaker reveals how his lifetime has coincided with the great age of ocean discovery. Through spectacular sequences featuring coral reefs, kelp forests and the open ocean, Attenborough shares why a healthy ocean keeps the entire planet stable and flourishing.\n\nStunning, immersive cinematography showcases the wonder of life under the seas and exposes the realities and challenges facing our ocean as never-before-seen, from destructive fishing techniques to mass coral reef bleaching. Yet the story is one of optimism, with Attenborough pointing to inspirational stories from around the world to deliver his greatest message: the ocean can recover to a glory beyond anything anyone alive has ever seen.\n\nScreening in cinemas with theatrically exclusive footage.",
+      "runtime": 85,
+      "times": [
+        {
+          "starts_at": "2025-05-13T18:00:00+01:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-80640/"
+        }
+      ]
+    },
+    {
+      "title": "DocHouse: Riefenstahl",
+      "trailer": null,
+      "synopsis": "Explores Leni Riefenstahl's artistic legacy and her complex ties to the Nazi regime, juxtaposing her self-portrayal with evidence suggesting awareness of the regime's atrocities.",
+      "runtime": 115,
+      "times": [
+        {
+          "starts_at": "2025-05-13T18:20:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-98839/"
         }
       ]
     }
