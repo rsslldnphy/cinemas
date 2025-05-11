@@ -1,19 +1,4 @@
 {
-  "2025-05-10": [
-    {
-      "title": "The Penguin Lessons",
-      "trailer": "https://www.youtube.com/watch?v=0A_C3MT3uyA",
-      "synopsis": "Starring Oscar nominee Steve Coogan, this poignant dramedy from director Peter Cattaneo follows an Englishman’s personal and political awakening after he adopts a penguin during a cataclysmic period in Argentine history.",
-      "runtime": 110,
-      "times": [
-        {
-          "starts_at": "2025-05-10T21:30:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-81356/"
-        }
-      ]
-    }
-  ],
   "2025-05-11": [
     {
       "title": "Black Bag",
@@ -3903,6 +3888,70 @@
           "starts_at": "2025-05-17T20:00:00+01:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-99022/"
+        }
+      ]
+    }
+  ],
+  "2025-05-18": [
+    {
+      "title": "Final Destination: Bloodlines",
+      "trailer": "https://www.youtube.com/watch?v=dSQ-L3AmHJs",
+      "synopsis": "The newest chapter in New Line Cinema’s bloody successful franchise takes audiences back to the very beginning of Death’s twisted sense of justice. Plagued by a violent recurring nightmare, college student Stefanie heads home to track down the one person who might be able to break the cycle and save her family from the grisly demise that inevitably awaits them all.",
+      "runtime": 110,
+      "times": [
+        {
+          "starts_at": "2025-05-18T15:20:00+01:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-56120/"
+        },
+        {
+          "starts_at": "2025-05-18T18:00:00+01:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-56118/"
+        },
+        {
+          "starts_at": "2025-05-18T20:40:00+01:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-56119/"
+        }
+      ]
+    },
+    {
+      "title": "RBO 2024-25: Die Walküre",
+      "trailer": null,
+      "synopsis": "On a stormy night, fate brings two strangers together, unleashing a love with the power to end worlds. Meanwhile, in the realm of the gods, an epic battle ensues between their ruler Wotan and his rebellious daughter, Brünnhilde.",
+      "runtime": 320,
+      "times": [
+        {
+          "starts_at": "2025-05-18T14:00:00+01:00",
+          "site": "Curzon Mayfair",
+          "url": "https://www.curzon.com/ticketing/seats/MAY1-27061/"
+        }
+      ]
+    },
+    {
+      "title": "DocHouse: A New Kind of Wilderness",
+      "trailer": null,
+      "synopsis": "On a small farm in a Norwegian forest, the Payne family live a purposefully isolated life, aiming to be wild and free. Maria and Nik, along with their four children Ulv, Falk, Freja, and Ronja are self-sufficient. They practice home-schooling and strive for a closely-knit family dynamic in harmony with nature.\r\n\r\nWhen tragedy strikes the family, it upends their idyllic world and forces them to forge a new path into modern society. A NEW KIND OF WILDERNESS is a deeply moving portrait of family bonds, connection to nature and renegotiating life in the wake of grief.",
+      "runtime": 84,
+      "times": [
+        {
+          "starts_at": "2025-05-18T14:00:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-99167/"
+        }
+      ]
+    },
+    {
+      "title": "DocHouse: E.1027 - Eileen Gray",
+      "trailer": "https://www.youtube.com/watch?v=ZRrM_befeLI",
+      "synopsis": "A love triangle of jealousy in the Parisian art scene of the 1930s is brought to life in a stylish docufiction about iconic artist and architect Eileen Gray, who built her modernist dream house on the Riviera, only to be upstaged by Le Corbusier.\r\n\r\nEileen Gray had a truly eminent sense of design. The Irish artist and architect created some of the most iconic furniture of the 20th century, so when she focussed her unique artistic vision on developing a house for herself on the Riviera in 1929, the result was a modernist triumph. A house and a work of art in one, overlooking the sun-sparkled infinity of the Mediterranean. The house is named E.1027, a cryptic contraction of the names of Gray and her lover, Romanian architect Jean Badovici. But when the Swiss-French star architect Le Corbusier learns of the house, he becomes obsessed – perhaps because Gray breathes light, air and soul into her building, which is not just a machine to live in.\r\n\r\nE.1027 – EILEEN GRAY AND THE HOUSE BY THE SEA reconstructs the dramatic story of Gray and the house that Le Corbusier amazingly managed to convince the world he had built himself. A stunningly beautiful and cinematic docufiction where the inspiration from Gray is present in lines, colours and shapes – but where they serve the narrative of a brilliant female artist who spent a long life in the shadow of her male colleagues.",
+      "runtime": 89,
+      "times": [
+        {
+          "starts_at": "2025-05-18T16:00:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-99023/"
         }
       ]
     }
