@@ -1,7 +1,4 @@
 {
-  "2025-05-11": [
-
-  ],
   "2025-05-12": [
     {
       "title": "Thunderbolts*",
@@ -3193,6 +3190,54 @@
           "starts_at": "2025-05-18T16:00:00+01:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-99023/"
+        }
+      ]
+    }
+  ],
+  "2025-05-19": [
+    {
+      "title": "Mission: Impossible - The Final Reckoning",
+      "trailer": "https://www.youtube.com/watch?v=CUAQn2P13yY",
+      "synopsis": "Light the fuse because Tom Cruise's world-saving super spy Ethan Hunt is back to complete a mission for the ages alongside Simon Pegg, Ving Rhames and Hayley Atwell. This propulsive action-adventure demands to be seen on the big screen.    ",
+      "runtime": 170,
+      "times": [
+        {
+          "starts_at": "2025-05-19T20:20:00+01:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-56112/"
+        },
+        {
+          "starts_at": "2025-05-19T19:15:00+01:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-81137/"
+        },
+        {
+          "starts_at": "2025-05-19T20:00:00+01:00",
+          "site": "Curzon Mayfair",
+          "url": "https://www.curzon.com/ticketing/seats/MAY1-29932/"
+        },
+        {
+          "starts_at": "2025-05-19T20:00:00+01:00",
+          "site": "Curzon Hoxton",
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-21622/"
+        },
+        {
+          "starts_at": "2025-05-19T19:00:00+01:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-32528/"
+        }
+      ]
+    },
+    {
+      "title": "DocHouse: Marching In The Dark",
+      "trailer": "https://www.youtube.com/watch?v=ZRrM_befeLI",
+      "synopsis": "Sanjivani, a young widow in rural India, grapples with devastating loss after her husband, a farmer who succumbed to the pressures of rising costs, unyielding crop failures, and volatile market prices, and committed suicide – one of thousands each year in India’s agriculture sectors.\r\n\r\nWhen Sanjivani cautiously joins a local support group for widows-only, she unexpectedly embarks upon a transformative journey of discovery with the other women as they share their grief with each other. When she summons the courage to unveil her own story, Sanjivani finds inspiration in their shared resilience and the empowerment forged from their common experiences. Can Sanjivani’s newly-found voice shift adversity into opportunity? Are solidarity and friendships enough to quietly fuel a mental-health revolution?",
+      "runtime": 108,
+      "times": [
+        {
+          "starts_at": "2025-05-19T18:20:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-99549/"
         }
       ]
     }
