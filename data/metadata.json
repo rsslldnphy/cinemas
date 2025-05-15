@@ -1,10 +1,4 @@
 {
-  "Black Bag": {
-    "backdrop": "https://image.tmdb.org/t/p/w500//wi2CEFSyoxoBWdFeVmTeqnlX3qI.jpg",
-    "poster": "https://image.tmdb.org/t/p/w500//hHPovtU4b96LHcoeEwRkGHI5btw.jpg",
-    "overview": "When intelligence agent Kathryn Woodhouse is suspected of betraying the nation, her husband – also a legendary agent – faces the ultimate test of whether to be loyal to his marriage, or his country.",
-    "release_date": "2025-03-12"
-  },
   "Conclave": {
     "backdrop": "https://image.tmdb.org/t/p/w500//1YMrOtrW7b4pL2lfD8UciZPOJGs.jpg",
     "poster": "https://image.tmdb.org/t/p/w500//l4WXg5oQPK6GVlISKQNIUGb8rKJ.jpg",
@@ -35,6 +29,12 @@
     "overview": "In a drought-struck region in India, suffering from climate change and a high suicide rate amongst farmers, a group of resilient women farmers, who recently lost their husbands, is coming together with a local psychologist to learn counselling and help others in grief.",
     "release_date": "2024-03-19"
   },
+  "DocHouse: My Sweet Land": {
+    "backdrop": "https://image.tmdb.org/t/p/w500//rb6dgziVUMYcywpJNJMZqRqCNaZ.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500//wpmPcKbBfSuiUAxzhvMp679JdkW.jpg",
+    "overview": "For 11-year-old Vrej, life in his homeland Artsakh is like a paradise, but when war starts again, can he carry a nation’s hopes on his young shoulders?",
+    "release_date": "2024-06-13"
+  },
   "DocHouse: Ocean With David Attenborough": {
     "backdrop": "https://image.tmdb.org/t/p/w500//xXhezqKPaSzNPo4azQeJ2HG5ZIR.jpg",
     "poster": "https://image.tmdb.org/t/p/w500//6tf6Is7GQigZds4tSsd1WJ47ZxX.jpg",
@@ -47,20 +47,8 @@
     "overview": "Explores Leni Riefenstahl's artistic legacy and her complex ties to the Nazi regime, juxtaposing her self-portrayal with evidence suggesting awareness of the regime's atrocities.",
     "release_date": "2024-10-31"
   },
-  "DocHouse: Seeking Mavis Beacon": {
-    "backdrop": "https://image.tmdb.org/t/p/w500//s8gZy1Kl1TQvncdoqQBeq39fmej.jpg",
-    "poster": "https://image.tmdb.org/t/p/w500//bVXbC5Mib24zZmN7ujiNAjiPxWh.jpg",
-    "overview": "Mavis Beacon Teaches Typing taught millions globally, but the software's Haitian-born cover model vanished decades ago. Two DIY detectives search for the model while posing questions about identity and artificial intelligence.",
-    "release_date": "2024-08-30"
-  },
-  "DocHouse: The Sinking of the Lisbon Maru": {
-    "backdrop": "https://image.tmdb.org/t/p/w500//24QqgIElJ4Gym024xzYbzMAVw1y.jpg",
-    "poster": "https://image.tmdb.org/t/p/w500//nV0ggublB3adZ7W7V9M7zKD30BD.jpg",
-    "overview": "Filmmaker Fang Li and his crew explore exhaustive historical investigation, as far as possible to find the core of the British, American, Japanese and Chinese parties and descendants, trying to infinitely close to the truth of the World War II \"Death Ship\" — \"Lisbon Maru\", which is 30 meters under the sea off the East Polar Island in Zhoushan, China.",
-    "release_date": "2024-08-31"
-  },
   "Final Destination: Bloodlines": {
-    "backdrop": "https://image.tmdb.org/t/p/w500//7wKnf6ILtRmKXV8eJWk0P6ZXnQ.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w500//j0NUh5irX7q2jIRtbLo8TZyRn6y.jpg",
     "poster": "https://image.tmdb.org/t/p/w500//cAoktVUBhGyULRoxV6mZ2LB3x7I.jpg",
     "overview": "Plagued by a violent recurring nightmare, college student Stefanie heads home to track down the one person who might be able to break the cycle and save her family from the grisly demise that inevitably awaits them all.",
     "release_date": "2025-05-09"
@@ -95,6 +83,12 @@
     "overview": "A musician plagued by insomnia is pulled into an odyssey with a stranger who begins to unravel the very core of his existence.",
     "release_date": "2025-05-14"
   },
+  "Lilo & Stitch": {
+    "backdrop": "https://image.tmdb.org/t/p/w500//eCqIpFpYIcZpCBexU3y8BfZKR7f.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500//3bN675X0K2E5QiAZVChzB5wq90B.jpg",
+    "overview": "The wildly funny and touching story of a lonely Hawaiian girl and the fugitive alien who helps to mend her broken family.",
+    "release_date": "2025-05-21"
+  },
   "Magic Farm": {
     "backdrop": "https://image.tmdb.org/t/p/w500//xpOTsP15Qh3r1TEc8v3FnFGCQfU.jpg",
     "poster": "https://image.tmdb.org/t/p/w500//gwFJFwOypoYGrx0jYEoBG8bPPl.jpg",
@@ -102,7 +96,7 @@
     "release_date": "2025-04-25"
   },
   "Mission: Impossible - The Final Reckoning": {
-    "backdrop": "https://image.tmdb.org/t/p/w500//1p5aI299YBnqrEEvVGJERk2MXXb.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w500//7ONMDhnErvpkKvkZqM82ud7bzcT.jpg",
     "poster": "https://image.tmdb.org/t/p/w500//z53D72EAOxGRqdr7KXXWp9dJiDe.jpg",
     "overview": "Ethan Hunt and the IMF team continue their search for the terrifying AI known as the Entity — which has infiltrated intelligence networks all over the globe — with the world's governments and a mysterious ghost from Ethan's past on their trail. Joined by new allies and armed with the means to shut the Entity down for good, Hunt is in a race against time to prevent the world as we know it from changing forever.",
     "release_date": "2025-05-17"
@@ -113,12 +107,6 @@
     "overview": "Dayana lives an abusive marriage with former police officer Elias, owner of Motel Destino. When 21-year-old Heraldo finds himself at the motel after messing up a hit and going on the run, Dayana finds herself intrigued and lets him stay. As the two navigate a dance of power and desire, a dangerous plan for freedom emerges.",
     "release_date": "2024-08-22"
   },
-  "NT Live: The Importance of Being Earnest": {
-    "backdrop": "https://image.tmdb.org/t/p/w500//8zLQVMmXH83gsn4v6LT4XsEbsGv.jpg",
-    "poster": "https://image.tmdb.org/t/p/w500//xUrWvUVO0IpnJL2bcgd5JEsnndr.jpg",
-    "overview": "Being sensible can be excessively boring. At least Jack thinks so. While assuming the role of dutiful guardian in the country, he lets loose in town under a false identity. Meanwhile, his friend Algy takes on a similar facade. Unfortunately, living a double life has its drawbacks, especially when it comes to love. Hoping to impress two eligible ladies, the gentlemen find themselves caught in a web of lies they must carefully navigate.",
-    "release_date": "2025-02-20"
-  },
   "Ocean With David Attenborough": {
     "backdrop": "https://image.tmdb.org/t/p/w500//xXhezqKPaSzNPo4azQeJ2HG5ZIR.jpg",
     "poster": "https://image.tmdb.org/t/p/w500//6tf6Is7GQigZds4tSsd1WJ47ZxX.jpg",
@@ -127,7 +115,7 @@
   },
   "Parthenope": {
     "backdrop": "https://image.tmdb.org/t/p/w500//aACb16EooaTSWGHwjsoeGe8DmyF.jpg",
-    "poster": "https://image.tmdb.org/t/p/w500//uhMIPArCsAzMKRMtLj2VDqAd6ZO.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500//eDeq5sgOvopRBTJE4EdALT1rgVe.jpg",
     "overview": "Parthenope, born in the sea near Naples in 1950, is beautiful, enigmatic, and intelligent. She is shamelessly courted by many. However, beauty comes at a cost.",
     "release_date": "2024-10-19"
   },
@@ -136,18 +124,6 @@
     "poster": "https://image.tmdb.org/t/p/w500//mlFChQIw33eD18SqUxxXoic0HZt.jpg",
     "overview": "Explores Leni Riefenstahl's artistic legacy and her complex ties to the Nazi regime, juxtaposing her self-portrayal with evidence suggesting awareness of the regime's atrocities.",
     "release_date": "2024-10-31"
-  },
-  "Santosh": {
-    "backdrop": "https://image.tmdb.org/t/p/w500//b9cSmjdGs8dkiqIj5QbEURLfRjC.jpg",
-    "poster": "https://image.tmdb.org/t/p/w500//l42fcfptFniWfCYYL4c9GldJ8UT.jpg",
-    "overview": "Cold-hearted and manipulative Kamla has fallen in love with a poor man and marries him and has a child named Santosh. She soon realizes that life is not fun living in poverty, and abandons her child and husband, and returns back to her father and his wealth. She re-marries millionaire Kailashpathi, and has a child named Kundan from him. Years pass by, Kundan and Santosh have both grown up. Kundan is the owner of the mill with his mom, while Santosh is a struggling mill worker, and a union worker. A confrontation ensues between the mill and the workers, and Kamla is able to negotiate a settlement and get the workers back to work, but fails to keep the promise. Santosh opposes this, and she sets her goons and Kundan against him. Santosh is abducted and held prisoner by Kamla and Kundan, and the only way he can be released is when he compromises with them.",
-    "release_date": "1989-02-28"
-  },
-  "Sebastian": {
-    "backdrop": "https://image.tmdb.org/t/p/w500//sfJbbg9t9ueicBfZoVQBAxXiRKG.jpg",
-    "poster": "https://image.tmdb.org/t/p/w500//wpLwwnwhxAcclWRfyLTvePqaQQB.jpg",
-    "overview": "Sebastian is an undisciplined mathematics genius who works in the \"cipher bureau\" of the British Intelligence. While cracking enemy codes, Sebastian finds time to romance co-worker Rebecca Howard.",
-    "release_date": "1968-01-24"
   },
   "Sinners": {
     "backdrop": "https://image.tmdb.org/t/p/w500//nAxGnGHOsfzufThz20zgmRwKur3.jpg",
@@ -163,14 +139,14 @@
   },
   "The Amateur": {
     "backdrop": "https://image.tmdb.org/t/p/w500//yMoEGh8kDEwqsoJumnQLwFJ9V6h.jpg",
-    "poster": "https://image.tmdb.org/t/p/w500//SNEoUInCa5fAgwuEBMIMBGvkkh.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500//2grhfMw97MGbat6aH4lFSUnVDFE.jpg",
     "overview": "After his life is turned upside down when his wife is killed in a London terrorist attack, a brilliant but introverted CIA decoder takes matters into his own hands when his supervisors refuse to take action.",
     "release_date": "2025-04-09"
   },
-  "The Extraordinary Miss Flower": {
-    "backdrop": "https://image.tmdb.org/t/p/w500//psT6VJtuzq4kT5FPGclljb7aj5Q.jpg",
-    "poster": "https://image.tmdb.org/t/p/w500//8OwGNm1LexPi0HGC1wMjLkEWBb0.jpg",
-    "overview": "A spellbinding performance film by Iain Forsyth and Jane Pollard, bringing to life the remarkable story the extraordinary Geraldine Flower, and the discovery of a suitcase of letters sent to her in the 1960s and 70s that inspired acclaimed Icelandic singer/songwriter Emilíana Torrini to return to the studio.",
+  "The Last Musician of Auschwitz": {
+    "backdrop": null,
+    "poster": "https://image.tmdb.org/t/p/w500//xhmRvBywQxiked8dMEukOrs5CSG.jpg",
+    "overview": "Tells the extraordinary story of Anita Lasker-Wallfisch who, along with other victims of Auschwitz, played and created music amidst the terrors of the Holocaust.",
     "release_date": "2025-05-09"
   },
   "The Marching Band": {
@@ -217,7 +193,7 @@
   },
   "Warfare": {
     "backdrop": "https://image.tmdb.org/t/p/w500//cJvUJEEQ86LSjl4gFLkYpdCJC96.jpg",
-    "poster": "https://image.tmdb.org/t/p/w500//j8tqBXwH2PxBPzbtO19BTF9Ukbf.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500//srj9rYrjefyWqkLc6l2xjTGeBGO.jpg",
     "overview": "A platoon of Navy SEALs embarks on a dangerous mission in Ramadi, Iraq, with the chaos and brotherhood of war retold through their memories of the event.",
     "release_date": "2025-04-09"
   }
