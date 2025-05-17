@@ -1,19 +1,4 @@
 {
-  "2025-05-16": [
-    {
-      "title": "Hallow Road",
-      "trailer": null,
-      "synopsis": "Two parents receive a distressing late-night call from their teenage daughter, who has just accidentally hit a pedestrian. They jump in their car, racing to get there before anyone else stumbles across the scene. As they head deeper into the night, disturbing revelations threaten to tear the family apart as they soon realise they might not be the only ones driving down Hallow Road.",
-      "runtime": 80,
-      "times": [
-        {
-          "starts_at": "2025-05-16T21:30:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-32865/"
-        }
-      ]
-    }
-  ],
   "2025-05-17": [
     {
       "title": "Thunderbolts*",
@@ -4827,6 +4812,296 @@
           "starts_at": "2025-05-23T18:20:00+01:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-99386/"
+        }
+      ]
+    }
+  ],
+  "2025-05-24": [
+    {
+      "title": "The Phoenician Scheme",
+      "trailer": "https://www.youtube.com/watch?v=qRAnphZLAIg",
+      "synopsis": "The story of a family and a family business. Starring: Benicio del Toro as Zsa-zsa Korda, one of the richest men in Europe; Mia Threapleton as Liesl, his daughter/a nun; Michael Cera as Bjorn, their tutor. With: Riz Ahmed, Tom Hanks, Bryan Cranston, Mathieu Amalric, Richard Ayoade, Jeffrey Wright, Scarlett Johansson, Benedict Cumberbatch, Rupert Friend, Hope Davis.",
+      "runtime": 101,
+      "times": [
+        {
+          "starts_at": "2025-05-24T14:40:00+01:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-56156/"
+        },
+        {
+          "starts_at": "2025-05-24T18:40:00+01:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-56292/"
+        },
+        {
+          "starts_at": "2025-05-24T21:00:00+01:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-56161/"
+        },
+        {
+          "starts_at": "2025-05-24T13:00:00+01:00",
+          "site": "Curzon Soho",
+          "url": "https://www.curzon.com/ticketing/seats/SOH1-49843/"
+        },
+        {
+          "starts_at": "2025-05-24T15:40:00+01:00",
+          "site": "Curzon Soho",
+          "url": "https://www.curzon.com/ticketing/seats/SOH1-49842/"
+        },
+        {
+          "starts_at": "2025-05-24T18:20:00+01:00",
+          "site": "Curzon Soho",
+          "url": "https://www.curzon.com/ticketing/seats/SOH1-49841/"
+        },
+        {
+          "starts_at": "2025-05-24T21:00:00+01:00",
+          "site": "Curzon Soho",
+          "url": "https://www.curzon.com/ticketing/seats/SOH1-49840/"
+        },
+        {
+          "starts_at": "2025-05-24T13:30:00+01:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-81256/"
+        },
+        {
+          "starts_at": "2025-05-24T16:00:00+01:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-81255/"
+        },
+        {
+          "starts_at": "2025-05-24T18:30:00+01:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-81254/"
+        },
+        {
+          "starts_at": "2025-05-24T21:00:00+01:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-81253/"
+        },
+        {
+          "starts_at": "2025-05-24T12:45:00+01:00",
+          "site": "Curzon Mayfair",
+          "url": "https://www.curzon.com/ticketing/seats/MAY1-29889/"
+        },
+        {
+          "starts_at": "2025-05-24T15:20:00+01:00",
+          "site": "Curzon Mayfair",
+          "url": "https://www.curzon.com/ticketing/seats/MAY1-29890/"
+        },
+        {
+          "starts_at": "2025-05-24T18:00:00+01:00",
+          "site": "Curzon Mayfair",
+          "url": "https://www.curzon.com/ticketing/seats/MAY1-29887/"
+        },
+        {
+          "starts_at": "2025-05-24T20:40:00+01:00",
+          "site": "Curzon Mayfair",
+          "url": "https://www.curzon.com/ticketing/seats/MAY1-29886/"
+        },
+        {
+          "starts_at": "2025-05-24T17:40:00+01:00",
+          "site": "Curzon Hoxton",
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-21785/"
+        },
+        {
+          "starts_at": "2025-05-24T21:30:00+01:00",
+          "site": "Curzon Hoxton",
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-21786/"
+        },
+        {
+          "starts_at": "2025-05-24T13:20:00+01:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-32488/"
+        },
+        {
+          "starts_at": "2025-05-24T15:50:00+01:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-32491/"
+        },
+        {
+          "starts_at": "2025-05-24T18:20:00+01:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-32489/"
+        },
+        {
+          "starts_at": "2025-05-24T20:40:00+01:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-32490/"
+        },
+        {
+          "starts_at": "2025-05-24T13:00:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-99364/"
+        },
+        {
+          "starts_at": "2025-05-24T15:30:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-99365/"
+        },
+        {
+          "starts_at": "2025-05-24T18:00:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-99367/"
+        },
+        {
+          "starts_at": "2025-05-24T20:30:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-99366/"
+        }
+      ]
+    },
+    {
+      "title": "Mission: Impossible - The Final Reckoning",
+      "trailer": "https://www.youtube.com/watch?v=CUAQn2P13yY",
+      "synopsis": "Light the fuse because Tom Cruise's world-saving super spy Ethan Hunt is back to complete a mission for the ages alongside Simon Pegg, Ving Rhames and Hayley Atwell. This propulsive action-adventure demands to be seen on the big screen.    ",
+      "runtime": 170,
+      "times": [
+        {
+          "starts_at": "2025-05-24T15:20:00+01:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-56158/"
+        },
+        {
+          "starts_at": "2025-05-24T17:20:00+01:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-56159/"
+        },
+        {
+          "starts_at": "2025-05-24T19:00:00+01:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-56160/"
+        },
+        {
+          "starts_at": "2025-05-24T20:20:00+01:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-56162/"
+        },
+        {
+          "starts_at": "2025-05-24T20:20:00+01:00",
+          "site": "Curzon Soho",
+          "url": "https://www.curzon.com/ticketing/seats/SOH1-50059/"
+        },
+        {
+          "starts_at": "2025-05-24T11:45:00+01:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-81111/"
+        },
+        {
+          "starts_at": "2025-05-24T15:30:00+01:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-81112/"
+        },
+        {
+          "starts_at": "2025-05-24T19:15:00+01:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-81113/"
+        },
+        {
+          "starts_at": "2025-05-24T12:30:00+01:00",
+          "site": "Curzon Mayfair",
+          "url": "https://www.curzon.com/ticketing/seats/MAY1-29884/"
+        },
+        {
+          "starts_at": "2025-05-24T16:15:00+01:00",
+          "site": "Curzon Mayfair",
+          "url": "https://www.curzon.com/ticketing/seats/MAY1-29888/"
+        },
+        {
+          "starts_at": "2025-05-24T20:00:00+01:00",
+          "site": "Curzon Mayfair",
+          "url": "https://www.curzon.com/ticketing/seats/MAY1-29885/"
+        },
+        {
+          "starts_at": "2025-05-24T18:00:00+01:00",
+          "site": "Curzon Hoxton",
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-21787/"
+        },
+        {
+          "starts_at": "2025-05-24T20:10:00+01:00",
+          "site": "Curzon Hoxton",
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-21628/"
+        },
+        {
+          "starts_at": "2025-05-24T14:20:00+01:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-32530/"
+        },
+        {
+          "starts_at": "2025-05-24T18:00:00+01:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-32492/"
+        },
+        {
+          "starts_at": "2025-05-24T20:00:00+01:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-32493/"
+        }
+      ]
+    },
+    {
+      "title": "Lilo & Stitch",
+      "trailer": "https://www.youtube.com/watch?v=8SBLkgpQ99U",
+      "synopsis": "A live-action reimagining of Disney’s 2002 animated classic, “Lilo & Stitch” is the wildly funny and touching story of a lonely Hawaiian girl and the fugitive alien who helps to mend her broken family. Directed by Dean Fleischer Camp, the Oscar®-nominated filmmaker behind the animated feature film “Marcel the Shell with Shoes On,” the film stars Sydney Elizebeth Agudong, Billy Magnussen, Tia Carrere, Hannah Waddingham, Chris Sanders, with Courtney B. Vance, and Zach Galifianakis, introducing Maia Kealoha. “Lilo & Stitch” is produced by Jonathan Eirich, p.g.a. and Dan Lin, with Louie Provost, Tom Peitzman and Ryan Halprin serving as executive producers.",
+      "runtime": 108,
+      "times": [
+        {
+          "starts_at": "2025-05-24T12:45:00+01:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-81257/"
+        },
+        {
+          "starts_at": "2025-05-24T15:15:00+01:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-81258/"
+        },
+        {
+          "starts_at": "2025-05-24T17:45:00+01:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-81259/"
+        }
+      ]
+    },
+    {
+      "title": "Kids Club: Flow",
+      "trailer": "https://www.youtube.com/watch?v=shsVQvHUTxw",
+      "synopsis": "When a flood of biblical proportions washes its home away, a solitary cat must seek refuge with a motley crew of animals (including a dog, a capybara, a lemur and a secretarybird), who gradually learn to get along in this endearing, Oscar-winning animation.",
+      "runtime": 85,
+      "times": [
+        {
+          "starts_at": "2025-05-24T10:30:00+01:00",
+          "site": "Curzon Hoxton",
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-22015/"
+        },
+        {
+          "starts_at": "2025-05-24T10:30:00+01:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-32987/"
+        }
+      ]
+    },
+    {
+      "title": "DocHouse: The Last Republican",
+      "trailer": null,
+      "synopsis": "US Congressman Adam Kinzinger was the first Republican to hold Donald Trump accountable for the Jan 6th attack on the Capital, jeopardising his career and drawing vitriol from his own party in the process.  \r\n\r\nA champion of conservative values, Kinzinger became an ardent critic of Trump, voting for his impeachment, though it cost him colleagues, friends and family. Hollywood director and comedian Steve Pink - himself a far left progressive - profiles Kinzinger during his last year in Congress as he, seemingly alone amongst Republicans, takes a stand. \r\n\r\nWhile Pink persistently challenges Kinzinger on his political views, he forms a surprisingly humourous friendship with his conservative Christian counterpart.  ",
+      "runtime": 90,
+      "times": [
+        {
+          "starts_at": "2025-05-24T16:00:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-99390/"
+        }
+      ]
+    },
+    {
+      "title": "DocHouse: An Unfinished Film",
+      "trailer": "https://www.youtube.com/watch?v=9EllyBUBLbA",
+      "synopsis": "Director Xiaorui convinces his cast and crew to resume the shooting of a film halted ten years earlier. In January 2020, with the shoot almost complete, rumours regarding an illness begin to circulate. A hairdresser from Wuhan is sent home, while the crew follows the news on their phones. The director has to decide whether to halt the filming once again. Some of the crew and actors manage to leave before the hotel is locked down by security guards and everyone left on set is confined to their hotel rooms. As all communication is reduced to phone screens, Wuhan is locked down. The crew continues to communicate via video calls, whilst the quarantined main actor Jiang Cheng struggles to support his wife who is now locked-down with their month-old baby in Beijing.",
+      "runtime": 107,
+      "times": [
+        {
+          "starts_at": "2025-05-24T18:30:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-99171/"
         }
       ]
     }
