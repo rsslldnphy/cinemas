@@ -1,16 +1,89 @@
 {
   "2025-05-17": [
     {
+      "title": "Sinners",
+      "trailer": "https://www.youtube.com/watch?v=4oqCwr_bzHI",
+      "synopsis": "Trying to leave their troubled lives behind, twin brothers (Jordan) return to their hometown to start again, only to discover that an even greater evil is waiting to welcome them back.",
+      "runtime": 137,
+      "times": [
+        {
+          "starts_at": "2025-05-17T14:20:00+01:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-56442/"
+        },
+        {
+          "starts_at": "2025-05-17T17:20:00+01:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-56454/"
+        },
+        {
+          "starts_at": "2025-05-17T20:20:00+01:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-56443/"
+        },
+        {
+          "starts_at": "2025-05-17T14:30:00+01:00",
+          "site": "Curzon Soho",
+          "url": "https://www.curzon.com/ticketing/seats/SOH1-49969/"
+        },
+        {
+          "starts_at": "2025-05-17T20:00:00+01:00",
+          "site": "Curzon Soho",
+          "url": "https://www.curzon.com/ticketing/seats/SOH1-49971/"
+        },
+        {
+          "starts_at": "2025-05-17T14:45:00+01:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-81500/"
+        },
+        {
+          "starts_at": "2025-05-17T17:45:00+01:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-81498/"
+        },
+        {
+          "starts_at": "2025-05-17T20:30:00+01:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-81501/"
+        },
+        {
+          "starts_at": "2025-05-17T17:40:00+01:00",
+          "site": "Curzon Hoxton",
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-21927/"
+        },
+        {
+          "starts_at": "2025-05-17T14:40:00+01:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-32887/"
+        },
+        {
+          "starts_at": "2025-05-17T18:20:00+01:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-32893/"
+        },
+        {
+          "starts_at": "2025-05-17T20:00:00+01:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-32894/"
+        },
+        {
+          "starts_at": "2025-05-17T15:40:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-99594/"
+        },
+        {
+          "starts_at": "2025-05-17T20:30:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-99595/"
+        }
+      ]
+    },
+    {
       "title": "Thunderbolts*",
       "trailer": "https://www.youtube.com/watch?v=GUmSO7nh4Sw",
       "synopsis": "In “Thunderbolts*” Marvel Studios assembles an unconventional team of antiheroes—Yelena Belova, Bucky Barnes, Red Guardian, Ghost, Taskmaster and John Walker. After finding themselves ensnared in a death trap set by Valentina Allegra de Fontaine, these disillusioned castoffs must embark on a dangerous mission that will force them to confront the darkest corners of their pasts. Will this dysfunctional group tear themselves apart, or find redemption and unite as something much more before it’s too late?",
       "runtime": 126,
       "times": [
-        {
-          "starts_at": "2025-05-17T11:40:00+01:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-56446/"
-        },
         {
           "starts_at": "2025-05-17T14:40:00+01:00",
           "site": "Curzon Aldgate",
@@ -20,11 +93,6 @@
           "starts_at": "2025-05-17T20:00:00+01:00",
           "site": "Curzon Aldgate",
           "url": "https://www.curzon.com/ticketing/seats/ALD1-56451/"
-        },
-        {
-          "starts_at": "2025-05-17T12:00:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-81506/"
         },
         {
           "starts_at": "2025-05-17T16:15:00+01:00",
@@ -60,11 +128,6 @@
       "runtime": 80,
       "times": [
         {
-          "starts_at": "2025-05-17T12:00:00+01:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-56444/"
-        },
-        {
           "starts_at": "2025-05-17T15:00:00+01:00",
           "site": "Curzon Aldgate",
           "url": "https://www.curzon.com/ticketing/seats/ALD1-56445/"
@@ -92,44 +155,11 @@
       ]
     },
     {
-      "title": "The Wedding Banquet",
-      "trailer": null,
-      "synopsis": "From Director Andrew Ahn comes a joyful comedy of errors about a chosen family navigating the disasters and delights of family expectations, queerness, and cultural identity. Angela and her partner Lee have been unlucky with their IVF treatments, but can’t afford to pay for another round. Meanwhile, their friend Min, the closeted scion of a multinational corporate empire, has plenty of family money but a soon-to-expire student visa. When his commitment-phobic boyfriend Chris rejects his proposal, Min makes the offer to Angela instead: a green card marriage in exchange for funding Lee’s IVF. But their plans to quietly elope are upended when Min’s sceptical grandmother flies in from Korea unannounced, insisting on an all-out wedding extravaganza. With a pitch-perfect cast of multigenerational talent that includes Bowen Yang, Academy Award nominee Lily Gladstone, Kelly Marie Tran, Han Gi-chan, Joan Chen, and Academy Award winner Youn Yuh-jung, this fresh reimagining of Ang Lee’s beloved, Award-winning rom-com teems with humour and heart in a poignant reminder that being part of a family means learning to both accept and forgive.",
-      "runtime": 103,
-      "times": [
-        {
-          "starts_at": "2025-05-17T12:20:00+01:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-56448/"
-        },
-        {
-          "starts_at": "2025-05-17T17:40:00+01:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-56453/"
-        },
-        {
-          "starts_at": "2025-05-17T12:45:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-81512/"
-        },
-        {
-          "starts_at": "2025-05-17T21:00:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-81502/"
-        }
-      ]
-    },
-    {
       "title": "Final Destination: Bloodlines",
       "trailer": "https://www.youtube.com/watch?v=dSQ-L3AmHJs",
       "synopsis": "The newest chapter in New Line Cinema’s bloody successful franchise takes audiences back to the very beginning of Death’s twisted sense of justice. Plagued by a violent recurring nightmare, college student Stefanie heads home to track down the one person who might be able to break the cycle and save her family from the grisly demise that inevitably awaits them all.",
       "runtime": 110,
       "times": [
-        {
-          "starts_at": "2025-05-17T13:00:00+01:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-56441/"
-        },
         {
           "starts_at": "2025-05-17T15:40:00+01:00",
           "site": "Curzon Aldgate",
@@ -161,11 +191,6 @@
           "url": "https://www.curzon.com/ticketing/seats/VIC1-81499/"
         },
         {
-          "starts_at": "2025-05-17T12:50:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-32883/"
-        },
-        {
           "starts_at": "2025-05-17T15:20:00+01:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-32884/"
@@ -179,99 +204,6 @@
           "starts_at": "2025-05-17T20:30:00+01:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-32886/"
-        }
-      ]
-    },
-    {
-      "title": "Sinners",
-      "trailer": "https://www.youtube.com/watch?v=4oqCwr_bzHI",
-      "synopsis": "Trying to leave their troubled lives behind, twin brothers (Jordan) return to their hometown to start again, only to discover that an even greater evil is waiting to welcome them back.",
-      "runtime": 137,
-      "times": [
-        {
-          "starts_at": "2025-05-17T14:20:00+01:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-56442/"
-        },
-        {
-          "starts_at": "2025-05-17T17:20:00+01:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-56454/"
-        },
-        {
-          "starts_at": "2025-05-17T20:20:00+01:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-56443/"
-        },
-        {
-          "starts_at": "2025-05-17T14:30:00+01:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-49969/"
-        },
-        {
-          "starts_at": "2025-05-17T20:00:00+01:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-49971/"
-        },
-        {
-          "starts_at": "2025-05-17T13:15:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-81495/"
-        },
-        {
-          "starts_at": "2025-05-17T14:45:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-81500/"
-        },
-        {
-          "starts_at": "2025-05-17T17:45:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-81498/"
-        },
-        {
-          "starts_at": "2025-05-17T20:30:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-81501/"
-        },
-        {
-          "starts_at": "2025-05-17T11:20:00+01:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-21925/"
-        },
-        {
-          "starts_at": "2025-05-17T17:40:00+01:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-21927/"
-        },
-        {
-          "starts_at": "2025-05-17T13:10:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-32888/"
-        },
-        {
-          "starts_at": "2025-05-17T14:40:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-32887/"
-        },
-        {
-          "starts_at": "2025-05-17T18:20:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-32893/"
-        },
-        {
-          "starts_at": "2025-05-17T20:00:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-32894/"
-        },
-        {
-          "starts_at": "2025-05-17T15:40:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-99594/"
-        },
-        {
-          "starts_at": "2025-05-17T20:30:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-99595/"
         }
       ]
     },
@@ -307,14 +239,27 @@
           "url": "https://www.curzon.com/ticketing/seats/MAY1-30087/"
         },
         {
-          "starts_at": "2025-05-17T13:30:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-32889/"
-        },
-        {
           "starts_at": "2025-05-17T18:40:00+01:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-32891/"
+        }
+      ]
+    },
+    {
+      "title": "The Wedding Banquet",
+      "trailer": null,
+      "synopsis": "From Director Andrew Ahn comes a joyful comedy of errors about a chosen family navigating the disasters and delights of family expectations, queerness, and cultural identity. Angela and her partner Lee have been unlucky with their IVF treatments, but can’t afford to pay for another round. Meanwhile, their friend Min, the closeted scion of a multinational corporate empire, has plenty of family money but a soon-to-expire student visa. When his commitment-phobic boyfriend Chris rejects his proposal, Min makes the offer to Angela instead: a green card marriage in exchange for funding Lee’s IVF. But their plans to quietly elope are upended when Min’s sceptical grandmother flies in from Korea unannounced, insisting on an all-out wedding extravaganza. With a pitch-perfect cast of multigenerational talent that includes Bowen Yang, Academy Award nominee Lily Gladstone, Kelly Marie Tran, Han Gi-chan, Joan Chen, and Academy Award winner Youn Yuh-jung, this fresh reimagining of Ang Lee’s beloved, Award-winning rom-com teems with humour and heart in a poignant reminder that being part of a family means learning to both accept and forgive.",
+      "runtime": 103,
+      "times": [
+        {
+          "starts_at": "2025-05-17T17:40:00+01:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-56453/"
+        },
+        {
+          "starts_at": "2025-05-17T21:00:00+01:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-81502/"
         }
       ]
     },
@@ -328,160 +273,6 @@
           "starts_at": "2025-05-17T21:20:00+01:00",
           "site": "Curzon Aldgate",
           "url": "https://www.curzon.com/ticketing/seats/ALD1-56452/"
-        }
-      ]
-    },
-    {
-      "title": "Magic Farm",
-      "trailer": "https://www.youtube.com/watch?v=ikF-JqTmA14",
-      "synopsis": "Fake it ‘til you make it. The latest gem from Amalia Ulman (El Planeta), MAGIC FARM takes us on a kaleidoscopic journey packed with twists and turns, cross-cultural encounters and true personalities.\n\nWhen a misguided American documentary crew in search of their next viral segment ends up in the wrong town in rural Argentina, chaos ensues. As they collaborate with locals to fake a new music trend, unexpected relationships form and an unfolding health crisis becomes apparent.\n\nColorful and unfiltered, MAGIC FARM is led by a stellar ensemble including Chloë Sevigny, Alex Wolff and Simon Rex. Shot through with a vivid sense of place, this Berlinale and Sundance selection combines a surreal send-up of the media with a heartfelt exploration of humanity.",
-      "runtime": 93,
-      "times": [
-        {
-          "starts_at": "2025-05-17T12:00:00+01:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-49976/"
-        },
-        {
-          "starts_at": "2025-05-17T20:20:00+01:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-49963/"
-        },
-        {
-          "starts_at": "2025-05-17T14:20:00+01:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-21916/"
-        },
-        {
-          "starts_at": "2025-05-17T19:00:00+01:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-21917/"
-        },
-        {
-          "starts_at": "2025-05-17T16:10:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-99698/"
-        },
-        {
-          "starts_at": "2025-05-17T21:00:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-99704/"
-        }
-      ]
-    },
-    {
-      "title": "Good One",
-      "trailer": null,
-      "synopsis": "During a weekend backpacking trip in the Catskills, 17-year-old Sam navigates the clash of egos between her father and his oldest friend.",
-      "runtime": 90,
-      "times": [
-        {
-          "starts_at": "2025-05-17T12:40:00+01:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-49968/"
-        },
-        {
-          "starts_at": "2025-05-17T18:00:00+01:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-49965/"
-        },
-        {
-          "starts_at": "2025-05-17T16:40:00+01:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-21928/"
-        },
-        {
-          "starts_at": "2025-05-17T21:20:00+01:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-21918/"
-        },
-        {
-          "starts_at": "2025-05-17T14:20:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-32880/"
-        },
-        {
-          "starts_at": "2025-05-17T19:00:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-32881/"
-        },
-        {
-          "starts_at": "2025-05-17T13:10:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-99596/"
-        },
-        {
-          "starts_at": "2025-05-17T15:20:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-99597/"
-        },
-        {
-          "starts_at": "2025-05-17T21:10:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-99599/"
-        }
-      ]
-    },
-    {
-      "title": "Motel Destino",
-      "trailer": "https://www.youtube.com/watch?v=NyMf7If-vQA",
-      "synopsis": "The unexpected arrival of 21-year-old Heraldo, on the run after a botched hit, disrupts the established order at Motel Destino, a roadside sex hotel steaming under the burning blue skies of Brazil, run by hot-headed Elias and his restless younger wife Dayana.",
-      "runtime": 115,
-      "times": [
-        {
-          "starts_at": "2025-05-17T13:00:00+01:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-49974/"
-        },
-        {
-          "starts_at": "2025-05-17T15:40:00+01:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-49964/"
-        },
-        {
-          "starts_at": "2025-05-17T18:20:00+01:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-49966/"
-        },
-        {
-          "starts_at": "2025-05-17T21:00:00+01:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-49967/"
-        },
-        {
-          "starts_at": "2025-05-17T13:00:00+01:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-21920/"
-        },
-        {
-          "starts_at": "2025-05-17T18:20:00+01:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-21923/"
-        },
-        {
-          "starts_at": "2025-05-17T20:50:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-32892/"
-        },
-        {
-          "starts_at": "2025-05-17T12:30:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-99585/"
-        },
-        {
-          "starts_at": "2025-05-17T15:00:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-99590/"
-        },
-        {
-          "starts_at": "2025-05-17T18:30:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-99587/"
-        },
-        {
-          "starts_at": "2025-05-17T20:50:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-99591/"
         }
       ]
     },
@@ -514,6 +305,54 @@
       ]
     },
     {
+      "title": "Motel Destino",
+      "trailer": "https://www.youtube.com/watch?v=NyMf7If-vQA",
+      "synopsis": "The unexpected arrival of 21-year-old Heraldo, on the run after a botched hit, disrupts the established order at Motel Destino, a roadside sex hotel steaming under the burning blue skies of Brazil, run by hot-headed Elias and his restless younger wife Dayana.",
+      "runtime": 115,
+      "times": [
+        {
+          "starts_at": "2025-05-17T15:40:00+01:00",
+          "site": "Curzon Soho",
+          "url": "https://www.curzon.com/ticketing/seats/SOH1-49964/"
+        },
+        {
+          "starts_at": "2025-05-17T18:20:00+01:00",
+          "site": "Curzon Soho",
+          "url": "https://www.curzon.com/ticketing/seats/SOH1-49966/"
+        },
+        {
+          "starts_at": "2025-05-17T21:00:00+01:00",
+          "site": "Curzon Soho",
+          "url": "https://www.curzon.com/ticketing/seats/SOH1-49967/"
+        },
+        {
+          "starts_at": "2025-05-17T18:20:00+01:00",
+          "site": "Curzon Hoxton",
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-21923/"
+        },
+        {
+          "starts_at": "2025-05-17T20:50:00+01:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-32892/"
+        },
+        {
+          "starts_at": "2025-05-17T15:00:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-99590/"
+        },
+        {
+          "starts_at": "2025-05-17T18:30:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-99587/"
+        },
+        {
+          "starts_at": "2025-05-17T20:50:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-99591/"
+        }
+      ]
+    },
+    {
       "title": "Flow",
       "trailer": "https://www.youtube.com/watch?v=shsVQvHUTxw",
       "synopsis": "When a flood of biblical proportions washes its home away, a solitary cat must seek refuge with a motley crew of animals (including a dog, a capybara, a lemur and a secretarybird), who gradually learn to get along in this endearing, Oscar-winning animation.",
@@ -525,19 +364,85 @@
           "url": "https://www.curzon.com/ticketing/seats/SOH1-49972/"
         },
         {
-          "starts_at": "2025-05-17T11:20:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-32983/"
-        },
-        {
-          "starts_at": "2025-05-17T12:30:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-32896/"
-        },
-        {
           "starts_at": "2025-05-17T17:40:00+01:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-32877/"
+        }
+      ]
+    },
+    {
+      "title": "Good One",
+      "trailer": null,
+      "synopsis": "During a weekend backpacking trip in the Catskills, 17-year-old Sam navigates the clash of egos between her father and his oldest friend.",
+      "runtime": 90,
+      "times": [
+        {
+          "starts_at": "2025-05-17T18:00:00+01:00",
+          "site": "Curzon Soho",
+          "url": "https://www.curzon.com/ticketing/seats/SOH1-49965/"
+        },
+        {
+          "starts_at": "2025-05-17T16:40:00+01:00",
+          "site": "Curzon Hoxton",
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-21928/"
+        },
+        {
+          "starts_at": "2025-05-17T21:20:00+01:00",
+          "site": "Curzon Hoxton",
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-21918/"
+        },
+        {
+          "starts_at": "2025-05-17T14:20:00+01:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-32880/"
+        },
+        {
+          "starts_at": "2025-05-17T19:00:00+01:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-32881/"
+        },
+        {
+          "starts_at": "2025-05-17T15:20:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-99597/"
+        },
+        {
+          "starts_at": "2025-05-17T21:10:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-99599/"
+        }
+      ]
+    },
+    {
+      "title": "Magic Farm",
+      "trailer": "https://www.youtube.com/watch?v=ikF-JqTmA14",
+      "synopsis": "Fake it ‘til you make it. The latest gem from Amalia Ulman (El Planeta), MAGIC FARM takes us on a kaleidoscopic journey packed with twists and turns, cross-cultural encounters and true personalities.\n\nWhen a misguided American documentary crew in search of their next viral segment ends up in the wrong town in rural Argentina, chaos ensues. As they collaborate with locals to fake a new music trend, unexpected relationships form and an unfolding health crisis becomes apparent.\n\nColorful and unfiltered, MAGIC FARM is led by a stellar ensemble including Chloë Sevigny, Alex Wolff and Simon Rex. Shot through with a vivid sense of place, this Berlinale and Sundance selection combines a surreal send-up of the media with a heartfelt exploration of humanity.",
+      "runtime": 93,
+      "times": [
+        {
+          "starts_at": "2025-05-17T20:20:00+01:00",
+          "site": "Curzon Soho",
+          "url": "https://www.curzon.com/ticketing/seats/SOH1-49963/"
+        },
+        {
+          "starts_at": "2025-05-17T14:20:00+01:00",
+          "site": "Curzon Hoxton",
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-21916/"
+        },
+        {
+          "starts_at": "2025-05-17T19:00:00+01:00",
+          "site": "Curzon Hoxton",
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-21917/"
+        },
+        {
+          "starts_at": "2025-05-17T16:10:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-99698/"
+        },
+        {
+          "starts_at": "2025-05-17T21:00:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-99704/"
         }
       ]
     },
@@ -548,27 +453,9 @@
       "runtime": 120,
       "times": [
         {
-          "starts_at": "2025-05-17T12:15:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-81503/"
-        },
-        {
           "starts_at": "2025-05-17T18:15:00+01:00",
           "site": "Curzon Victoria",
           "url": "https://www.curzon.com/ticketing/seats/VIC1-81504/"
-        }
-      ]
-    },
-    {
-      "title": "The Penguin Lessons",
-      "trailer": "https://www.youtube.com/watch?v=0A_C3MT3uyA",
-      "synopsis": "Starring Oscar nominee Steve Coogan, this poignant dramedy from director Peter Cattaneo follows an Englishman’s personal and political awakening after he adopts a penguin during a cataclysmic period in Argentine history.",
-      "runtime": 110,
-      "times": [
-        {
-          "starts_at": "2025-05-17T12:30:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-81507/"
         }
       ]
     },
@@ -586,37 +473,6 @@
       ]
     },
     {
-      "title": "The Marching Band",
-      "trailer": null,
-      "synopsis": "Acclaimed conductor Thibaut has leukemia and needs a bone marrow donor. Learning he was adopted, he finds an older brother, a musician and factory worker. Their reunion sparks a fraternal, musical journey amidst the town's factory closure.",
-      "runtime": 103,
-      "times": [
-        {
-          "starts_at": "2025-05-17T12:40:00+01:00",
-          "site": "Curzon Mayfair",
-          "url": "https://www.curzon.com/ticketing/seats/MAY1-30081/"
-        },
-        {
-          "starts_at": "2025-05-17T18:30:00+01:00",
-          "site": "Curzon Mayfair",
-          "url": "https://www.curzon.com/ticketing/seats/MAY1-30082/"
-        }
-      ]
-    },
-    {
-      "title": "The Return",
-      "trailer": null,
-      "synopsis": "After 20 years Odysseus finally returns to Ithaca, where he finds his wife held prisoner by suitors vying to be king and his son facing death at their hands. To win back his family and all he has lost, Odysseus must rediscover his strength.\r\n\r\nStarring:\r\nRalph Fiennes, Charlie Plummer, Juliette Binoche, Marwan Kenzari, Kayne Lee Harrison",
-      "runtime": 116,
-      "times": [
-        {
-          "starts_at": "2025-05-17T13:00:00+01:00",
-          "site": "Curzon Mayfair",
-          "url": "https://www.curzon.com/ticketing/seats/MAY1-30085/"
-        }
-      ]
-    },
-    {
       "title": "Parthenope",
       "trailer": null,
       "synopsis": "From Academy Award-winning fi lmmaker Paolo Sorrentino comes a monumental and deeply romantic story of a lifetime. Born in the Bay of Naples in 1950, Parthenope (Celeste Dalla Porta) searches for happiness over the long summers of her youth, falling in love with her home city and its many memorable characters. But when tragedy strikes, and carefree romances lose their thrill, she decides to seek a deeper sense of purpose. Featuring a captivating performance from Dalla Porta and an outstanding cast that includes Gary Oldman, PARTHENOPE is another tale of great beauty from a master of modern cinema.",
@@ -628,19 +484,9 @@
           "url": "https://www.curzon.com/ticketing/seats/MAY1-30086/"
         },
         {
-          "starts_at": "2025-05-17T11:50:00+01:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-21921/"
-        },
-        {
           "starts_at": "2025-05-17T15:40:00+01:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-32890/"
-        },
-        {
-          "starts_at": "2025-05-17T12:00:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-99589/"
         },
         {
           "starts_at": "2025-05-17T15:10:00+01:00",
@@ -678,20 +524,15 @@
       ]
     },
     {
-      "title": "Kids Club: Sylvanian Families: The Movie",
+      "title": "The Marching Band",
       "trailer": null,
-      "synopsis": "The annual Star Festival arrives in Sylvanian Village again this year. While everyone is eagerly looking forward to it, Chocolate Rabbit girl Freya is worried. It's her mother's birthday on the day of the festival, and she can't think of a gift at all. Furthermore, Freya is appointed to the important role of preparing the festival's main event, the 'Tree of the Year.' So, what Freya will come up with to make her mother and her friends happy?\n\n",
-      "runtime": 66,
+      "synopsis": "Acclaimed conductor Thibaut has leukemia and needs a bone marrow donor. Learning he was adopted, he finds an older brother, a musician and factory worker. Their reunion sparks a fraternal, musical journey amidst the town's factory closure.",
+      "runtime": 103,
       "times": [
         {
-          "starts_at": "2025-05-17T10:30:00+01:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-21902/"
-        },
-        {
-          "starts_at": "2025-05-17T11:00:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-32982/"
+          "starts_at": "2025-05-17T18:30:00+01:00",
+          "site": "Curzon Mayfair",
+          "url": "https://www.curzon.com/ticketing/seats/MAY1-30082/"
         }
       ]
     },
@@ -705,42 +546,6 @@
           "starts_at": "2025-05-17T15:40:00+01:00",
           "site": "Curzon Hoxton",
           "url": "https://www.curzon.com/ticketing/seats/HOX1-21919/"
-        }
-      ]
-    },
-    {
-      "title": "The Uninvited",
-      "trailer": "https://www.youtube.com/watch?v=-0RAzCjgGwI",
-      "synopsis": "THE UNINVITED is a story about the passing of time, love, regret and aging. This comedic drama centres on Rose, a former actress now living as a stay-at-home mom, who as she prepares the house to host a party for her husband’s job an elderly woman named Helen arrives, claiming she has returned home. This unexpected encounter, along with the presence of other complicated characters from her past and present, creates a night of chaos and forces Rose to confront her insecurities and reflect on her journey as a woman. The film humorously critiques Hollywood's beauty standards while celebrating the complexities of womanhood and explores the themes of motherhood, and self-discovery in Los Angeles.\r\n\r\nStarring:\r\nELIZABETH REASER, WALTON GOGGINS, PEDRO PASCAL, LOIS SMITH, RUFUS SEWELL, EVA DE DOMINICI",
-      "runtime": 98,
-      "times": [
-        {
-          "starts_at": "2025-05-17T12:50:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-99593/"
-        },
-        {
-          "starts_at": "2025-05-17T18:20:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-99598/"
-        }
-      ]
-    },
-    {
-      "title": "Holy Cow",
-      "trailer": "https://www.youtube.com/watch?v=cy0WeGJow9E",
-      "synopsis": "18-year-old Totone spends most of his time drinking beer and partying in the Jura region with his group of friends until reality catches up with him when he has to take care of his 7-year-old sister and find a way to make a living. He sets out to make the best Comté cheese in the region in an attempt to win the gold medal at the agricultural competition and 30,000 euros. ",
-      "runtime": 92,
-      "times": [
-        {
-          "starts_at": "2025-05-17T13:30:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-99600/"
-        },
-        {
-          "starts_at": "2025-05-17T18:40:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-99583/"
         }
       ]
     },
@@ -780,6 +585,32 @@
           "starts_at": "2025-05-17T18:10:00+01:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-99166/"
+        }
+      ]
+    },
+    {
+      "title": "The Uninvited",
+      "trailer": "https://www.youtube.com/watch?v=-0RAzCjgGwI",
+      "synopsis": "THE UNINVITED is a story about the passing of time, love, regret and aging. This comedic drama centres on Rose, a former actress now living as a stay-at-home mom, who as she prepares the house to host a party for her husband’s job an elderly woman named Helen arrives, claiming she has returned home. This unexpected encounter, along with the presence of other complicated characters from her past and present, creates a night of chaos and forces Rose to confront her insecurities and reflect on her journey as a woman. The film humorously critiques Hollywood's beauty standards while celebrating the complexities of womanhood and explores the themes of motherhood, and self-discovery in Los Angeles.\r\n\r\nStarring:\r\nELIZABETH REASER, WALTON GOGGINS, PEDRO PASCAL, LOIS SMITH, RUFUS SEWELL, EVA DE DOMINICI",
+      "runtime": 98,
+      "times": [
+        {
+          "starts_at": "2025-05-17T18:20:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-99598/"
+        }
+      ]
+    },
+    {
+      "title": "Holy Cow",
+      "trailer": "https://www.youtube.com/watch?v=cy0WeGJow9E",
+      "synopsis": "18-year-old Totone spends most of his time drinking beer and partying in the Jura region with his group of friends until reality catches up with him when he has to take care of his 7-year-old sister and find a way to make a living. He sets out to make the best Comté cheese in the region in an attempt to win the gold medal at the agricultural competition and 30,000 euros. ",
+      "runtime": 92,
+      "times": [
+        {
+          "starts_at": "2025-05-17T18:40:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-99583/"
         }
       ]
     },
