@@ -7,11 +7,6 @@
       "runtime": 137,
       "times": [
         {
-          "starts_at": "2025-05-20T11:20:00+01:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-56523/"
-        },
-        {
           "starts_at": "2025-05-20T14:20:00+01:00",
           "site": "Curzon Aldgate",
           "url": "https://www.curzon.com/ticketing/seats/ALD1-56532/"
@@ -32,11 +27,6 @@
           "url": "https://www.curzon.com/ticketing/seats/SOH1-50047/"
         },
         {
-          "starts_at": "2025-05-20T12:45:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-81560/"
-        },
-        {
           "starts_at": "2025-05-20T14:00:00+01:00",
           "site": "Curzon Victoria",
           "url": "https://www.curzon.com/ticketing/seats/VIC1-81555/"
@@ -52,19 +42,9 @@
           "url": "https://www.curzon.com/ticketing/seats/VIC1-81554/"
         },
         {
-          "starts_at": "2025-05-20T12:00:00+01:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-21954/"
-        },
-        {
           "starts_at": "2025-05-20T20:40:00+01:00",
           "site": "Curzon Hoxton",
           "url": "https://www.curzon.com/ticketing/seats/HOX1-21943/"
-        },
-        {
-          "starts_at": "2025-05-20T13:00:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-32949/"
         },
         {
           "starts_at": "2025-05-20T14:50:00+01:00",
@@ -89,40 +69,20 @@
       ]
     },
     {
-      "title": "Hallow Road",
+      "title": "The Wedding Banquet",
       "trailer": null,
-      "synopsis": "Two parents receive a distressing late-night call from their teenage daughter, who has just accidentally hit a pedestrian. They jump in their car, racing to get there before anyone else stumbles across the scene. As they head deeper into the night, disturbing revelations threaten to tear the family apart as they soon realise they might not be the only ones driving down Hallow Road.",
-      "runtime": 80,
+      "synopsis": "From Director Andrew Ahn comes a joyful comedy of errors about a chosen family navigating the disasters and delights of family expectations, queerness, and cultural identity. Angela and her partner Lee have been unlucky with their IVF treatments, but can’t afford to pay for another round. Meanwhile, their friend Min, the closeted scion of a multinational corporate empire, has plenty of family money but a soon-to-expire student visa. When his commitment-phobic boyfriend Chris rejects his proposal, Min makes the offer to Angela instead: a green card marriage in exchange for funding Lee’s IVF. But their plans to quietly elope are upended when Min’s sceptical grandmother flies in from Korea unannounced, insisting on an all-out wedding extravaganza. With a pitch-perfect cast of multigenerational talent that includes Bowen Yang, Academy Award nominee Lily Gladstone, Kelly Marie Tran, Han Gi-chan, Joan Chen, and Academy Award winner Youn Yuh-jung, this fresh reimagining of Ang Lee’s beloved, Award-winning rom-com teems with humour and heart in a poignant reminder that being part of a family means learning to both accept and forgive.",
+      "runtime": 103,
       "times": [
         {
-          "starts_at": "2025-05-20T11:30:00+01:00",
+          "starts_at": "2025-05-20T14:40:00+01:00",
           "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-56529/"
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-56525/"
         },
         {
-          "starts_at": "2025-05-20T17:00:00+01:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-56528/"
-        },
-        {
-          "starts_at": "2025-05-20T19:00:00+01:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-56524/"
-        },
-        {
-          "starts_at": "2025-05-20T21:00:00+01:00",
-          "site": "Curzon Mayfair",
-          "url": "https://www.curzon.com/ticketing/seats/MAY1-30108/"
-        },
-        {
-          "starts_at": "2025-05-20T16:20:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-32944/"
-        },
-        {
-          "starts_at": "2025-05-20T21:20:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-32942/"
+          "starts_at": "2025-05-20T16:15:00+01:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-81563/"
         }
       ]
     },
@@ -133,11 +93,6 @@
       "runtime": 126,
       "times": [
         {
-          "starts_at": "2025-05-20T12:20:00+01:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-56527/"
-        },
-        {
           "starts_at": "2025-05-20T15:10:00+01:00",
           "site": "Curzon Aldgate",
           "url": "https://www.curzon.com/ticketing/seats/ALD1-56526/"
@@ -146,11 +101,6 @@
           "starts_at": "2025-05-20T21:00:00+01:00",
           "site": "Curzon Aldgate",
           "url": "https://www.curzon.com/ticketing/seats/ALD1-56519/"
-        },
-        {
-          "starts_at": "2025-05-20T12:30:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-81561/"
         },
         {
           "starts_at": "2025-05-20T18:15:00+01:00",
@@ -165,54 +115,11 @@
       ]
     },
     {
-      "title": "Ocean With David Attenborough",
-      "trailer": "https://www.youtube.com/watch?v=cIZAdCtKT_g",
-      "synopsis": "OCEAN WITH DAVID ATTENBOROUGH takes viewers on a breathtaking journey showing there is nowhere more vital for our survival, more full of life, wonder, or surprise, than the ocean.\n\nThe celebrated broadcaster and filmmaker reveals how his lifetime has coincided with the great age of ocean discovery. Through spectacular sequences featuring coral reefs, kelp forests and the open ocean, Attenborough shares why a healthy ocean keeps the entire planet stable and flourishing.\n\nStunning, immersive cinematography showcases the wonder of life under the seas and exposes the realities and challenges facing our ocean as never-before-seen, from destructive fishing techniques to mass coral reef bleaching. Yet the story is one of optimism, with Attenborough pointing to inspirational stories from around the world to deliver his greatest message: the ocean can recover to a glory beyond anything anyone alive has ever seen.\n\nScreening in cinemas with theatrically exclusive footage.",
-      "runtime": 85,
-      "times": [
-        {
-          "starts_at": "2025-05-20T12:40:00+01:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-56534/"
-        },
-        {
-          "starts_at": "2025-05-20T12:15:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-81564/"
-        },
-        {
-          "starts_at": "2025-05-20T17:00:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-81562/"
-        },
-        {
-          "starts_at": "2025-05-20T13:30:00+01:00",
-          "site": "Curzon Mayfair",
-          "url": "https://www.curzon.com/ticketing/seats/MAY1-30105/"
-        },
-        {
-          "starts_at": "2025-05-20T17:40:00+01:00",
-          "site": "Curzon Mayfair",
-          "url": "https://www.curzon.com/ticketing/seats/MAY1-30107/"
-        },
-        {
-          "starts_at": "2025-05-20T13:20:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-32948/"
-        }
-      ]
-    },
-    {
       "title": "Final Destination: Bloodlines",
       "trailer": "https://www.youtube.com/watch?v=dSQ-L3AmHJs",
       "synopsis": "The newest chapter in New Line Cinema’s bloody successful franchise takes audiences back to the very beginning of Death’s twisted sense of justice. Plagued by a violent recurring nightmare, college student Stefanie heads home to track down the one person who might be able to break the cycle and save her family from the grisly demise that inevitably awaits them all.",
       "runtime": 110,
       "times": [
-        {
-          "starts_at": "2025-05-20T13:30:00+01:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-56517/"
-        },
         {
           "starts_at": "2025-05-20T16:00:00+01:00",
           "site": "Curzon Aldgate",
@@ -227,11 +134,6 @@
           "starts_at": "2025-05-20T21:20:00+01:00",
           "site": "Curzon Aldgate",
           "url": "https://www.curzon.com/ticketing/seats/ALD1-56522/"
-        },
-        {
-          "starts_at": "2025-05-20T11:30:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-81565/"
         },
         {
           "starts_at": "2025-05-20T15:45:00+01:00",
@@ -266,20 +168,35 @@
       ]
     },
     {
-      "title": "The Wedding Banquet",
+      "title": "Hallow Road",
       "trailer": null,
-      "synopsis": "From Director Andrew Ahn comes a joyful comedy of errors about a chosen family navigating the disasters and delights of family expectations, queerness, and cultural identity. Angela and her partner Lee have been unlucky with their IVF treatments, but can’t afford to pay for another round. Meanwhile, their friend Min, the closeted scion of a multinational corporate empire, has plenty of family money but a soon-to-expire student visa. When his commitment-phobic boyfriend Chris rejects his proposal, Min makes the offer to Angela instead: a green card marriage in exchange for funding Lee’s IVF. But their plans to quietly elope are upended when Min’s sceptical grandmother flies in from Korea unannounced, insisting on an all-out wedding extravaganza. With a pitch-perfect cast of multigenerational talent that includes Bowen Yang, Academy Award nominee Lily Gladstone, Kelly Marie Tran, Han Gi-chan, Joan Chen, and Academy Award winner Youn Yuh-jung, this fresh reimagining of Ang Lee’s beloved, Award-winning rom-com teems with humour and heart in a poignant reminder that being part of a family means learning to both accept and forgive.",
-      "runtime": 103,
+      "synopsis": "Two parents receive a distressing late-night call from their teenage daughter, who has just accidentally hit a pedestrian. They jump in their car, racing to get there before anyone else stumbles across the scene. As they head deeper into the night, disturbing revelations threaten to tear the family apart as they soon realise they might not be the only ones driving down Hallow Road.",
+      "runtime": 80,
       "times": [
         {
-          "starts_at": "2025-05-20T14:40:00+01:00",
+          "starts_at": "2025-05-20T17:00:00+01:00",
           "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-56525/"
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-56528/"
         },
         {
-          "starts_at": "2025-05-20T16:15:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-81563/"
+          "starts_at": "2025-05-20T19:00:00+01:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-56524/"
+        },
+        {
+          "starts_at": "2025-05-20T21:00:00+01:00",
+          "site": "Curzon Mayfair",
+          "url": "https://www.curzon.com/ticketing/seats/MAY1-30108/"
+        },
+        {
+          "starts_at": "2025-05-20T16:20:00+01:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-32944/"
+        },
+        {
+          "starts_at": "2025-05-20T21:20:00+01:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-32942/"
         }
       ]
     },
@@ -360,115 +277,6 @@
       ]
     },
     {
-      "title": "Magic Farm",
-      "trailer": "https://www.youtube.com/watch?v=ikF-JqTmA14",
-      "synopsis": "Fake it ‘til you make it. The latest gem from Amalia Ulman (El Planeta), MAGIC FARM takes us on a kaleidoscopic journey packed with twists and turns, cross-cultural encounters and true personalities.\n\nWhen a misguided American documentary crew in search of their next viral segment ends up in the wrong town in rural Argentina, chaos ensues. As they collaborate with locals to fake a new music trend, unexpected relationships form and an unfolding health crisis becomes apparent.\n\nColorful and unfiltered, MAGIC FARM is led by a stellar ensemble including Chloë Sevigny, Alex Wolff and Simon Rex. Shot through with a vivid sense of place, this Berlinale and Sundance selection combines a surreal send-up of the media with a heartfelt exploration of humanity.",
-      "runtime": 93,
-      "times": [
-        {
-          "starts_at": "2025-05-20T12:00:00+01:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-50013/"
-        },
-        {
-          "starts_at": "2025-05-20T16:40:00+01:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-21945/"
-        },
-        {
-          "starts_at": "2025-05-20T21:10:00+01:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-21946/"
-        },
-        {
-          "starts_at": "2025-05-20T14:40:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-99701/"
-        },
-        {
-          "starts_at": "2025-05-20T18:30:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-99706/"
-        }
-      ]
-    },
-    {
-      "title": "Good One",
-      "trailer": null,
-      "synopsis": "During a weekend backpacking trip in the Catskills, 17-year-old Sam navigates the clash of egos between her father and his oldest friend.",
-      "runtime": 90,
-      "times": [
-        {
-          "starts_at": "2025-05-20T12:40:00+01:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-50016/"
-        },
-        {
-          "starts_at": "2025-05-20T20:40:00+01:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-50009/"
-        },
-        {
-          "starts_at": "2025-05-20T15:20:00+01:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-21944/"
-        },
-        {
-          "starts_at": "2025-05-20T19:00:00+01:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-21947/"
-        },
-        {
-          "starts_at": "2025-05-20T13:40:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-32940/"
-        },
-        {
-          "starts_at": "2025-05-20T18:40:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-32939/"
-        },
-        {
-          "starts_at": "2025-05-20T12:30:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-99659/"
-        },
-        {
-          "starts_at": "2025-05-20T15:10:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-99658/"
-        },
-        {
-          "starts_at": "2025-05-20T17:50:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-99656/"
-        }
-      ]
-    },
-    {
-      "title": "Flow",
-      "trailer": "https://www.youtube.com/watch?v=shsVQvHUTxw",
-      "synopsis": "When a flood of biblical proportions washes its home away, a solitary cat must seek refuge with a motley crew of animals (including a dog, a capybara, a lemur and a secretarybird), who gradually learn to get along in this endearing, Oscar-winning animation.",
-      "runtime": 85,
-      "times": [
-        {
-          "starts_at": "2025-05-20T13:00:00+01:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-50048/"
-        },
-        {
-          "starts_at": "2025-05-20T17:40:00+01:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-50007/"
-        },
-        {
-          "starts_at": "2025-05-20T12:40:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-32943/"
-        }
-      ]
-    },
-    {
       "title": "Hurry Up Tomorrow",
       "trailer": "https://www.youtube.com/watch?v=FGiQNR5gAH4",
       "synopsis": "A musician plagued by insomnia is pulled into an odyssey with a stranger who begins to unravel the very core of his existence.",
@@ -523,16 +331,6 @@
           "url": "https://www.curzon.com/ticketing/seats/HOX1-21949/"
         },
         {
-          "starts_at": "2025-05-20T12:20:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-32937/"
-        },
-        {
-          "starts_at": "2025-05-20T12:10:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-99649/"
-        },
-        {
           "starts_at": "2025-05-20T15:20:00+01:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-99645/"
@@ -541,6 +339,57 @@
           "starts_at": "2025-05-20T20:20:00+01:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-99650/"
+        }
+      ]
+    },
+    {
+      "title": "Flow",
+      "trailer": "https://www.youtube.com/watch?v=shsVQvHUTxw",
+      "synopsis": "When a flood of biblical proportions washes its home away, a solitary cat must seek refuge with a motley crew of animals (including a dog, a capybara, a lemur and a secretarybird), who gradually learn to get along in this endearing, Oscar-winning animation.",
+      "runtime": 85,
+      "times": [
+        {
+          "starts_at": "2025-05-20T17:40:00+01:00",
+          "site": "Curzon Soho",
+          "url": "https://www.curzon.com/ticketing/seats/SOH1-50007/"
+        }
+      ]
+    },
+    {
+      "title": "Good One",
+      "trailer": null,
+      "synopsis": "During a weekend backpacking trip in the Catskills, 17-year-old Sam navigates the clash of egos between her father and his oldest friend.",
+      "runtime": 90,
+      "times": [
+        {
+          "starts_at": "2025-05-20T20:40:00+01:00",
+          "site": "Curzon Soho",
+          "url": "https://www.curzon.com/ticketing/seats/SOH1-50009/"
+        },
+        {
+          "starts_at": "2025-05-20T15:20:00+01:00",
+          "site": "Curzon Hoxton",
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-21944/"
+        },
+        {
+          "starts_at": "2025-05-20T19:00:00+01:00",
+          "site": "Curzon Hoxton",
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-21947/"
+        },
+        {
+          "starts_at": "2025-05-20T18:40:00+01:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-32939/"
+        },
+        {
+          "starts_at": "2025-05-20T15:10:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-99658/"
+        },
+        {
+          "starts_at": "2025-05-20T17:50:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-99656/"
         }
       ]
     },
@@ -572,6 +421,24 @@
           "starts_at": "2025-05-20T15:15:00+01:00",
           "site": "Curzon Victoria",
           "url": "https://www.curzon.com/ticketing/seats/VIC1-81567/"
+        }
+      ]
+    },
+    {
+      "title": "Ocean With David Attenborough",
+      "trailer": "https://www.youtube.com/watch?v=cIZAdCtKT_g",
+      "synopsis": "OCEAN WITH DAVID ATTENBOROUGH takes viewers on a breathtaking journey showing there is nowhere more vital for our survival, more full of life, wonder, or surprise, than the ocean.\n\nThe celebrated broadcaster and filmmaker reveals how his lifetime has coincided with the great age of ocean discovery. Through spectacular sequences featuring coral reefs, kelp forests and the open ocean, Attenborough shares why a healthy ocean keeps the entire planet stable and flourishing.\n\nStunning, immersive cinematography showcases the wonder of life under the seas and exposes the realities and challenges facing our ocean as never-before-seen, from destructive fishing techniques to mass coral reef bleaching. Yet the story is one of optimism, with Attenborough pointing to inspirational stories from around the world to deliver his greatest message: the ocean can recover to a glory beyond anything anyone alive has ever seen.\n\nScreening in cinemas with theatrically exclusive footage.",
+      "runtime": 85,
+      "times": [
+        {
+          "starts_at": "2025-05-20T17:00:00+01:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-81562/"
+        },
+        {
+          "starts_at": "2025-05-20T17:40:00+01:00",
+          "site": "Curzon Mayfair",
+          "url": "https://www.curzon.com/ticketing/seats/MAY1-30107/"
         }
       ]
     },
@@ -610,19 +477,9 @@
           "url": "https://www.curzon.com/ticketing/seats/MAY1-30104/"
         },
         {
-          "starts_at": "2025-05-20T11:00:00+01:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-21950/"
-        },
-        {
           "starts_at": "2025-05-20T15:40:00+01:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-32947/"
-        },
-        {
-          "starts_at": "2025-05-20T12:20:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-99646/"
         },
         {
           "starts_at": "2025-05-20T15:20:00+01:00",
@@ -668,46 +525,30 @@
       ]
     },
     {
-      "title": "Riefenstahl",
-      "trailer": null,
-      "synopsis": "Explores Leni Riefenstahl's artistic legacy and her complex ties to the Nazi regime, juxtaposing her self-portrayal with evidence suggesting awareness of the regime's atrocities.",
-      "runtime": 115,
+      "title": "Magic Farm",
+      "trailer": "https://www.youtube.com/watch?v=ikF-JqTmA14",
+      "synopsis": "Fake it ‘til you make it. The latest gem from Amalia Ulman (El Planeta), MAGIC FARM takes us on a kaleidoscopic journey packed with twists and turns, cross-cultural encounters and true personalities.\n\nWhen a misguided American documentary crew in search of their next viral segment ends up in the wrong town in rural Argentina, chaos ensues. As they collaborate with locals to fake a new music trend, unexpected relationships form and an unfolding health crisis becomes apparent.\n\nColorful and unfiltered, MAGIC FARM is led by a stellar ensemble including Chloë Sevigny, Alex Wolff and Simon Rex. Shot through with a vivid sense of place, this Berlinale and Sundance selection combines a surreal send-up of the media with a heartfelt exploration of humanity.",
+      "runtime": 93,
       "times": [
         {
-          "starts_at": "2025-05-20T12:40:00+01:00",
+          "starts_at": "2025-05-20T16:40:00+01:00",
           "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-21948/"
-        }
-      ]
-    },
-    {
-      "title": "Holy Cow",
-      "trailer": "https://www.youtube.com/watch?v=cy0WeGJow9E",
-      "synopsis": "18-year-old Totone spends most of his time drinking beer and partying in the Jura region with his group of friends until reality catches up with him when he has to take care of his 7-year-old sister and find a way to make a living. He sets out to make the best Comté cheese in the region in an attempt to win the gold medal at the agricultural competition and 30,000 euros. ",
-      "runtime": 92,
-      "times": [
-        {
-          "starts_at": "2025-05-20T12:00:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-99655/"
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-21945/"
         },
         {
-          "starts_at": "2025-05-20T17:00:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-99653/"
-        }
-      ]
-    },
-    {
-      "title": "The Uninvited",
-      "trailer": "https://www.youtube.com/watch?v=-0RAzCjgGwI",
-      "synopsis": "THE UNINVITED is a story about the passing of time, love, regret and aging. This comedic drama centres on Rose, a former actress now living as a stay-at-home mom, who as she prepares the house to host a party for her husband’s job an elderly woman named Helen arrives, claiming she has returned home. This unexpected encounter, along with the presence of other complicated characters from her past and present, creates a night of chaos and forces Rose to confront her insecurities and reflect on her journey as a woman. The film humorously critiques Hollywood's beauty standards while celebrating the complexities of womanhood and explores the themes of motherhood, and self-discovery in Los Angeles.\r\n\r\nStarring:\r\nELIZABETH REASER, WALTON GOGGINS, PEDRO PASCAL, LOIS SMITH, RUFUS SEWELL, EVA DE DOMINICI",
-      "runtime": 98,
-      "times": [
+          "starts_at": "2025-05-20T21:10:00+01:00",
+          "site": "Curzon Hoxton",
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-21946/"
+        },
         {
-          "starts_at": "2025-05-20T12:40:00+01:00",
+          "starts_at": "2025-05-20T14:40:00+01:00",
           "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-99652/"
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-99701/"
+        },
+        {
+          "starts_at": "2025-05-20T18:30:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-99706/"
         }
       ]
     },
@@ -734,6 +575,19 @@
           "starts_at": "2025-05-20T16:00:00+01:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-99719/"
+        }
+      ]
+    },
+    {
+      "title": "Holy Cow",
+      "trailer": "https://www.youtube.com/watch?v=cy0WeGJow9E",
+      "synopsis": "18-year-old Totone spends most of his time drinking beer and partying in the Jura region with his group of friends until reality catches up with him when he has to take care of his 7-year-old sister and find a way to make a living. He sets out to make the best Comté cheese in the region in an attempt to win the gold medal at the agricultural competition and 30,000 euros. ",
+      "runtime": 92,
+      "times": [
+        {
+          "starts_at": "2025-05-20T17:00:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-99653/"
         }
       ]
     },
