@@ -1,32 +1,4 @@
 {
-  "2025-05-24": [
-    {
-      "title": "The Phoenician Scheme",
-      "trailer": "https://www.youtube.com/watch?v=qRAnphZLAIg",
-      "synopsis": "The story of a family and a family business. Starring: Benicio del Toro as Zsa-zsa Korda, one of the richest men in Europe; Mia Threapleton as Liesl, his daughter/a nun; Michael Cera as Bjorn, their tutor. With: Riz Ahmed, Tom Hanks, Bryan Cranston, Mathieu Amalric, Richard Ayoade, Jeffrey Wright, Scarlett Johansson, Benedict Cumberbatch, Rupert Friend, Hope Davis.",
-      "runtime": 101,
-      "times": [
-        {
-          "starts_at": "2025-05-24T21:30:00+01:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-21786/"
-        }
-      ]
-    },
-    {
-      "title": "Final Destination: Bloodlines",
-      "trailer": "https://www.youtube.com/watch?v=dSQ-L3AmHJs",
-      "synopsis": "The newest chapter in New Line Cinema’s bloody successful franchise takes audiences back to the very beginning of Death’s twisted sense of justice. Plagued by a violent recurring nightmare, college student Stefanie heads home to track down the one person who might be able to break the cycle and save her family from the grisly demise that inevitably awaits them all.",
-      "runtime": 110,
-      "times": [
-        {
-          "starts_at": "2025-05-24T21:30:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-33020/"
-        }
-      ]
-    }
-  ],
   "2025-05-25": [
     {
       "title": "Mission: Impossible - The Final Reckoning",
@@ -3731,6 +3703,57 @@
           "starts_at": "2025-05-31T18:20:00+01:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-99927/"
+        }
+      ]
+    }
+  ],
+  "2025-06-01": [
+    {
+      "title": "Along Came Love",
+      "trailer": null,
+      "synopsis": "A hotel waitress Madeleine who is mother to a little boy, meets a rich student François. The relation between them becomes so intense, but over time it's evident that François is trying to escape by entangling Madeleine's destiny with his.",
+      "runtime": 123,
+      "times": [
+        {
+          "starts_at": "2025-06-01T16:40:00+01:00",
+          "site": "Curzon Soho",
+          "url": "https://www.curzon.com/ticketing/seats/SOH1-50191/"
+        },
+        {
+          "starts_at": "2025-06-01T19:30:00+01:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-33158/"
+        },
+        {
+          "starts_at": "2025-06-01T17:40:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-99942/"
+        }
+      ]
+    },
+    {
+      "title": "DocHouse: My Sweet Land",
+      "trailer": null,
+      "synopsis": "Vrej, the subject of Sareen Hairabedian’s impressive feature debut – a striking coming-of-age tale – has grown up in Nagorno-Karabakh, an ethnic Armenian enclave within Azerbaijan. Since the end of the Soviet era it has witnessed much conflict. \r\n\r\nThe 11-year-old watches birds, plays with friends and dreams of being a dentist. But echoes of the three wars his family have lived through since 1992 are ever-present. His grandmother laments the cycle of ethnic violence: ‘Living in Artsakh means that one day there will be a war and my grandson will participate in that war’. \r\n\r\nAs his school lessons become increasingly militarised and Vrej struggles to hold on to his childhood dreams, his grandmother watches her prophecy unfold.",
+      "runtime": 85,
+      "times": [
+        {
+          "starts_at": "2025-06-01T14:00:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-99556/"
+        }
+      ]
+    },
+    {
+      "title": "DocHouse: Bogancloch",
+      "trailer": null,
+      "synopsis": "Bogancloch is where Jake Williams lives, nestled in a vast highland forest of Scotland. The film portrays his life throughout the seasons, with other people occasionally crossing into his otherwise solitary life. At the heart a song, an argument between life and death, each stating their case to rule over the world. The film is without exposition, it aims at something less recognisable, a different existence of reality observed in discrete moments. A sequel to Two Years at Sea (2011), charting a subtly changing life in a radically changing world.",
+      "runtime": 86,
+      "times": [
+        {
+          "starts_at": "2025-06-01T16:00:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-99928/"
         }
       ]
     }
