@@ -7,16 +7,6 @@
       "runtime": 170,
       "times": [
         {
-          "starts_at": "2025-05-31T17:20:00+01:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-56769/"
-        },
-        {
-          "starts_at": "2025-05-31T19:00:00+01:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-56766/"
-        },
-        {
           "starts_at": "2025-05-31T20:20:00+01:00",
           "site": "Curzon Aldgate",
           "url": "https://www.curzon.com/ticketing/seats/ALD1-56765/"
@@ -25,11 +15,6 @@
           "starts_at": "2025-05-31T20:00:00+01:00",
           "site": "Curzon Soho",
           "url": "https://www.curzon.com/ticketing/seats/SOH1-50181/"
-        },
-        {
-          "starts_at": "2025-05-31T19:15:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-81934/"
         },
         {
           "starts_at": "2025-05-31T20:15:00+01:00",
@@ -42,19 +27,9 @@
           "url": "https://www.curzon.com/ticketing/seats/MAY1-30192/"
         },
         {
-          "starts_at": "2025-05-31T17:40:00+01:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-22124/"
-        },
-        {
           "starts_at": "2025-05-31T20:40:00+01:00",
           "site": "Curzon Hoxton",
           "url": "https://www.curzon.com/ticketing/seats/HOX1-22123/"
-        },
-        {
-          "starts_at": "2025-05-31T16:40:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-33237/"
         },
         {
           "starts_at": "2025-05-31T19:50:00+01:00",
@@ -62,100 +37,9 @@
           "url": "https://www.curzon.com/ticketing/seats/CAM1-33230/"
         },
         {
-          "starts_at": "2025-05-31T17:30:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-99990/"
-        },
-        {
           "starts_at": "2025-05-31T20:00:00+01:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-99982/"
-        }
-      ]
-    },
-    {
-      "title": "Final Destination: Bloodlines",
-      "trailer": "https://www.youtube.com/watch?v=dSQ-L3AmHJs",
-      "synopsis": "The newest chapter in New Line Cinema’s bloody successful franchise takes audiences back to the very beginning of Death’s twisted sense of justice. Plagued by a violent recurring nightmare, college student Stefanie heads home to track down the one person who might be able to break the cycle and save her family from the grisly demise that inevitably awaits them all.",
-      "runtime": 110,
-      "times": [
-        {
-          "starts_at": "2025-05-31T17:40:00+01:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-56768/"
-        }
-      ]
-    },
-    {
-      "title": "The Phoenician Scheme",
-      "trailer": "https://www.youtube.com/watch?v=qRAnphZLAIg",
-      "synopsis": "The story of a family and a family business. Starring: Benicio del Toro as Zsa-zsa Korda, one of the richest men in Europe; Mia Threapleton as Liesl, his daughter/a nun; Michael Cera as Bjorn, their tutor. With: Riz Ahmed, Tom Hanks, Bryan Cranston, Mathieu Amalric, Richard Ayoade, Jeffrey Wright, Scarlett Johansson, Benedict Cumberbatch, Rupert Friend, Hope Davis.",
-      "runtime": 101,
-      "times": [
-        {
-          "starts_at": "2025-05-31T18:40:00+01:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-56767/"
-        },
-        {
-          "starts_at": "2025-05-31T21:15:00+01:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-56763/"
-        },
-        {
-          "starts_at": "2025-05-31T18:30:00+01:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-50183/"
-        },
-        {
-          "starts_at": "2025-05-31T20:30:00+01:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-50186/"
-        },
-        {
-          "starts_at": "2025-05-31T21:00:00+01:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-50182/"
-        },
-        {
-          "starts_at": "2025-05-31T18:30:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-81935/"
-        },
-        {
-          "starts_at": "2025-05-31T21:00:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-81931/"
-        },
-        {
-          "starts_at": "2025-05-31T18:20:00+01:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-22125/"
-        },
-        {
-          "starts_at": "2025-05-31T21:20:00+01:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-22122/"
-        },
-        {
-          "starts_at": "2025-05-31T18:40:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-33238/"
-        },
-        {
-          "starts_at": "2025-05-31T21:00:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-33231/"
-        },
-        {
-          "starts_at": "2025-05-31T17:40:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-99986/"
-        },
-        {
-          "starts_at": "2025-05-31T21:00:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-99983/"
         }
       ]
     },
@@ -171,11 +55,6 @@
           "url": "https://www.curzon.com/ticketing/seats/ALD1-56764/"
         },
         {
-          "starts_at": "2025-05-31T17:30:00+01:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-50221/"
-        },
-        {
           "starts_at": "2025-05-31T20:20:00+01:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-33233/"
@@ -188,89 +67,45 @@
       ]
     },
     {
-      "title": "Along Came Love",
-      "trailer": null,
-      "synopsis": "A hotel waitress Madeleine who is mother to a little boy, meets a rich student François. The relation between them becomes so intense, but over time it's evident that François is trying to escape by entangling Madeleine's destiny with his.",
-      "runtime": 123,
+      "title": "The Phoenician Scheme",
+      "trailer": "https://www.youtube.com/watch?v=qRAnphZLAIg",
+      "synopsis": "The story of a family and a family business. Starring: Benicio del Toro as Zsa-zsa Korda, one of the richest men in Europe; Mia Threapleton as Liesl, his daughter/a nun; Michael Cera as Bjorn, their tutor. With: Riz Ahmed, Tom Hanks, Bryan Cranston, Mathieu Amalric, Richard Ayoade, Jeffrey Wright, Scarlett Johansson, Benedict Cumberbatch, Rupert Friend, Hope Davis.",
+      "runtime": 101,
       "times": [
         {
-          "starts_at": "2025-05-31T17:10:00+01:00",
+          "starts_at": "2025-05-31T21:15:00+01:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-56763/"
+        },
+        {
+          "starts_at": "2025-05-31T20:30:00+01:00",
           "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-50179/"
+          "url": "https://www.curzon.com/ticketing/seats/SOH1-50186/"
         },
         {
           "starts_at": "2025-05-31T21:00:00+01:00",
+          "site": "Curzon Soho",
+          "url": "https://www.curzon.com/ticketing/seats/SOH1-50182/"
+        },
+        {
+          "starts_at": "2025-05-31T21:00:00+01:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-81931/"
+        },
+        {
+          "starts_at": "2025-05-31T21:20:00+01:00",
           "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-22131/"
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-22122/"
         },
         {
-          "starts_at": "2025-05-31T20:40:00+01:00",
+          "starts_at": "2025-05-31T21:00:00+01:00",
           "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-33157/"
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-33231/"
         },
         {
-          "starts_at": "2025-05-31T18:10:00+01:00",
+          "starts_at": "2025-05-31T21:00:00+01:00",
           "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-99941/"
-        }
-      ]
-    },
-    {
-      "title": "Doctor Who – The Two-Episode Season Finale",
-      "trailer": "https://www.youtube.com/watch?v=TMBeXHxgldU",
-      "synopsis": "Experience time and space on the big screen with Ncuti Gatwa as the Doctor, Varada Sethu as Belinda Chandra, and Millie Gibson as Ruby Sunday and celebrate an epic two-part end of season finale at your local cinema on the 31st May 2025.\n\n \n\nWatch the finale of Season 2, The Reality War, on the big screen! \n\n \n\nBelinda Chandra has been kidnapped by robots, faced a terrifying god and a creature of pure evil on her travels with the Doctor. With the TARDIS still unable to get her home to Earth, Belinda must fight for her life as the Doctor faces an almighty threat to reality itself…\n\n\nScreening starts at 18:00 with Wish World, followed by The Reality War.",
-      "runtime": 117,
-      "times": [
-        {
-          "starts_at": "2025-05-31T17:40:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-81252/"
-        },
-        {
-          "starts_at": "2025-05-31T17:40:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-32718/"
-        }
-      ]
-    },
-    {
-      "title": "Lilo & Stitch",
-      "trailer": "https://www.youtube.com/watch?v=8SBLkgpQ99U",
-      "synopsis": "A live-action reimagining of Disney’s 2002 animated classic, “Lilo & Stitch” is the wildly funny and touching story of a lonely Hawaiian girl and the fugitive alien who helps to mend her broken family. Directed by Dean Fleischer Camp, the Oscar®-nominated filmmaker behind the animated feature film “Marcel the Shell with Shoes On,” the film stars Sydney Elizebeth Agudong, Billy Magnussen, Tia Carrere, Hannah Waddingham, Chris Sanders, with Courtney B. Vance, and Zach Galifianakis, introducing Maia Kealoha. “Lilo & Stitch” is produced by Jonathan Eirich, p.g.a. and Dan Lin, with Louie Provost, Tom Peitzman and Ryan Halprin serving as executive producers.",
-      "runtime": 108,
-      "times": [
-        {
-          "starts_at": "2025-05-31T18:00:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-81923/"
-        },
-        {
-          "starts_at": "2025-05-31T20:45:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-81932/"
-        }
-      ]
-    },
-    {
-      "title": "Ocean With David Attenborough",
-      "trailer": "https://www.youtube.com/watch?v=cIZAdCtKT_g",
-      "synopsis": "OCEAN WITH DAVID ATTENBOROUGH takes viewers on a breathtaking journey showing there is nowhere more vital for our survival, more full of life, wonder, or surprise, than the ocean.\n\nThe celebrated broadcaster and filmmaker reveals how his lifetime has coincided with the great age of ocean discovery. Through spectacular sequences featuring coral reefs, kelp forests and the open ocean, Attenborough shares why a healthy ocean keeps the entire planet stable and flourishing.\n\nStunning, immersive cinematography showcases the wonder of life under the seas and exposes the realities and challenges facing our ocean as never-before-seen, from destructive fishing techniques to mass coral reef bleaching. Yet the story is one of optimism, with Attenborough pointing to inspirational stories from around the world to deliver his greatest message: the ocean can recover to a glory beyond anything anyone alive has ever seen.\n\nScreening in cinemas with theatrically exclusive footage.",
-      "runtime": 85,
-      "times": [
-        {
-          "starts_at": "2025-05-31T18:15:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-81922/"
-        },
-        {
-          "starts_at": "2025-05-31T17:00:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-33232/"
-        },
-        {
-          "starts_at": "2025-05-31T19:10:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-33243/"
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-99983/"
         }
       ]
     },
@@ -284,55 +119,37 @@
           "starts_at": "2025-05-31T20:30:00+01:00",
           "site": "Curzon Victoria",
           "url": "https://www.curzon.com/ticketing/seats/VIC1-81936/"
-        },
-        {
-          "starts_at": "2025-05-31T17:15:00+01:00",
-          "site": "Curzon Mayfair",
-          "url": "https://www.curzon.com/ticketing/seats/MAY1-30194/"
         }
       ]
     },
     {
-      "title": "The Met: Live in HD 24-25: Il Barbiere di Siviglia",
-      "trailer": null,
-      "synopsis": "The Metropolitan Opera’s 2024–25 Live in HD season comes to a close with a live broadcast of Rossini’s effervescent comedy on May 31. Russian mezzo-soprano Aigul Akhmetshina headlines a winning ensemble as the feisty heroine, Rosina, alongside American tenor Jack Swanson, in his Met debut, as her secret beloved, Count Almaviva. Moldovan baritone Andrey Zhilikhovsky stars as Figaro, the ingenious barber of Seville, with Hungarian bass-baritone Peter Kálmán as Dr. Bartolo and Russian bass Alexander Vinogradov as Don Basilio rounding out the principal cast. Giacomo Sagripanti conducts Bartlett Sher’s madcap production.",
-      "runtime": 215,
+      "title": "Lilo & Stitch",
+      "trailer": "https://www.youtube.com/watch?v=8SBLkgpQ99U",
+      "synopsis": "A live-action reimagining of Disney’s 2002 animated classic, “Lilo & Stitch” is the wildly funny and touching story of a lonely Hawaiian girl and the fugitive alien who helps to mend her broken family. Directed by Dean Fleischer Camp, the Oscar®-nominated filmmaker behind the animated feature film “Marcel the Shell with Shoes On,” the film stars Sydney Elizebeth Agudong, Billy Magnussen, Tia Carrere, Hannah Waddingham, Chris Sanders, with Courtney B. Vance, and Zach Galifianakis, introducing Maia Kealoha. “Lilo & Stitch” is produced by Jonathan Eirich, p.g.a. and Dan Lin, with Louie Provost, Tom Peitzman and Ryan Halprin serving as executive producers.",
+      "runtime": 108,
       "times": [
         {
-          "starts_at": "2025-05-31T18:00:00+01:00",
-          "site": "Curzon Mayfair",
-          "url": "https://www.curzon.com/ticketing/seats/MAY1-27388/"
-        },
-        {
-          "starts_at": "2025-05-31T18:00:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-91782/"
+          "starts_at": "2025-05-31T20:45:00+01:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-81932/"
         }
       ]
     },
     {
-      "title": "Falling into Place",
+      "title": "Along Came Love",
       "trailer": null,
-      "synopsis": "A love story set in Scotland and London that follows romance between Kira and Ian, who met too briefly over a winter weekend while on the run from themselves.",
-      "runtime": 112,
+      "synopsis": "A hotel waitress Madeleine who is mother to a little boy, meets a rich student François. The relation between them becomes so intense, but over time it's evident that François is trying to escape by entangling Madeleine's destiny with his.",
+      "runtime": 123,
       "times": [
         {
-          "starts_at": "2025-05-31T18:00:00+01:00",
+          "starts_at": "2025-05-31T21:00:00+01:00",
           "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-21901/"
-        }
-      ]
-    },
-    {
-      "title": "The Ballad of Wallis Island",
-      "trailer": "https://www.youtube.com/watch?v=T9smxlnKNz0",
-      "synopsis": "Eccentric lottery winner Charles dreams of getting his favorite musicians, McGwyer Mortimer, back together. The fantasy becomes real when the bandmates and former lovers agree to play a private show at his home on Wallis Island. Old tensions resurface as Charles tries desperately to salvage his dream gig.",
-      "runtime": 100,
-      "times": [
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-22131/"
+        },
         {
-          "starts_at": "2025-05-31T17:20:00+01:00",
+          "starts_at": "2025-05-31T20:40:00+01:00",
           "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-33240/"
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-33157/"
         }
       ]
     },
@@ -350,37 +167,6 @@
       ]
     },
     {
-      "title": "Parthenope",
-      "trailer": null,
-      "synopsis": "From Academy Award-winning fi lmmaker Paolo Sorrentino comes a monumental and deeply romantic story of a lifetime. Born in the Bay of Naples in 1950, Parthenope (Celeste Dalla Porta) searches for happiness over the long summers of her youth, falling in love with her home city and its many memorable characters. But when tragedy strikes, and carefree romances lose their thrill, she decides to seek a deeper sense of purpose. Featuring a captivating performance from Dalla Porta and an outstanding cast that includes Gary Oldman, PARTHENOPE is another tale of great beauty from a master of modern cinema.",
-      "runtime": 137,
-      "times": [
-        {
-          "starts_at": "2025-05-31T17:20:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-99993/"
-        },
-        {
-          "starts_at": "2025-05-31T20:20:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-99981/"
-        }
-      ]
-    },
-    {
-      "title": "DocHouse: Bogancloch",
-      "trailer": null,
-      "synopsis": "Bogancloch is where Jake Williams lives, nestled in a vast highland forest of Scotland. The film portrays his life throughout the seasons, with other people occasionally crossing into his otherwise solitary life. At the heart a song, an argument between life and death, each stating their case to rule over the world. The film is without exposition, it aims at something less recognisable, a different existence of reality observed in discrete moments. A sequel to Two Years at Sea (2011), charting a subtly changing life in a radically changing world.",
-      "runtime": 86,
-      "times": [
-        {
-          "starts_at": "2025-05-31T18:20:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-99927/"
-        }
-      ]
-    },
-    {
       "title": "DocHouse: E.1027 - Eileen Gray",
       "trailer": "https://www.youtube.com/watch?v=ZRrM_befeLI",
       "synopsis": "A love triangle of jealousy in the Parisian art scene of the 1930s is brought to life in a stylish docufiction about iconic artist and architect Eileen Gray, who built her modernist dream house on the Riviera, only to be upstaged by Le Corbusier.\r\n\r\nEileen Gray had a truly eminent sense of design. The Irish artist and architect created some of the most iconic furniture of the 20th century, so when she focussed her unique artistic vision on developing a house for herself on the Riviera in 1929, the result was a modernist triumph. A house and a work of art in one, overlooking the sun-sparkled infinity of the Mediterranean. The house is named E.1027, a cryptic contraction of the names of Gray and her lover, Romanian architect Jean Badovici. But when the Swiss-French star architect Le Corbusier learns of the house, he becomes obsessed – perhaps because Gray breathes light, air and soul into her building, which is not just a machine to live in.\r\n\r\nE.1027 – EILEEN GRAY AND THE HOUSE BY THE SEA reconstructs the dramatic story of Gray and the house that Le Corbusier amazingly managed to convince the world he had built himself. A stunningly beautiful and cinematic docufiction where the inspiration from Gray is present in lines, colours and shapes – but where they serve the narrative of a brilliant female artist who spent a long life in the shadow of her male colleagues.\r\n\r\nThe screening on Wed 4 Jun will be followed by a Q&A with director Beatrice Minger and actor Natalie Radmall-Quirke. Screening in partnership with The Architecture Club.",
@@ -390,6 +176,19 @@
           "starts_at": "2025-05-31T20:10:00+01:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-100101/"
+        }
+      ]
+    },
+    {
+      "title": "Parthenope",
+      "trailer": null,
+      "synopsis": "From Academy Award-winning fi lmmaker Paolo Sorrentino comes a monumental and deeply romantic story of a lifetime. Born in the Bay of Naples in 1950, Parthenope (Celeste Dalla Porta) searches for happiness over the long summers of her youth, falling in love with her home city and its many memorable characters. But when tragedy strikes, and carefree romances lose their thrill, she decides to seek a deeper sense of purpose. Featuring a captivating performance from Dalla Porta and an outstanding cast that includes Gary Oldman, PARTHENOPE is another tale of great beauty from a master of modern cinema.",
+      "runtime": 137,
+      "times": [
+        {
+          "starts_at": "2025-05-31T20:20:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-99981/"
         }
       ]
     }
