@@ -1,179 +1,11 @@
 {
   "2025-05-31": [
     {
-      "title": "The Phoenician Scheme",
-      "trailer": "https://www.youtube.com/watch?v=qRAnphZLAIg",
-      "synopsis": "The story of a family and a family business. Starring: Benicio del Toro as Zsa-zsa Korda, one of the richest men in Europe; Mia Threapleton as Liesl, his daughter/a nun; Michael Cera as Bjorn, their tutor. With: Riz Ahmed, Tom Hanks, Bryan Cranston, Mathieu Amalric, Richard Ayoade, Jeffrey Wright, Scarlett Johansson, Benedict Cumberbatch, Rupert Friend, Hope Davis.",
-      "runtime": 101,
-      "times": [
-        {
-          "starts_at": "2025-05-31T11:00:00+01:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-56761/"
-        },
-        {
-          "starts_at": "2025-05-31T12:00:00+01:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-56759/"
-        },
-        {
-          "starts_at": "2025-05-31T14:40:00+01:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-56756/"
-        },
-        {
-          "starts_at": "2025-05-31T18:40:00+01:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-56767/"
-        },
-        {
-          "starts_at": "2025-05-31T21:15:00+01:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-56763/"
-        },
-        {
-          "starts_at": "2025-05-31T11:20:00+01:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-50253/"
-        },
-        {
-          "starts_at": "2025-05-31T13:20:00+01:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-50197/"
-        },
-        {
-          "starts_at": "2025-05-31T14:30:00+01:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-50225/"
-        },
-        {
-          "starts_at": "2025-05-31T16:00:00+01:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-50196/"
-        },
-        {
-          "starts_at": "2025-05-31T18:30:00+01:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-50183/"
-        },
-        {
-          "starts_at": "2025-05-31T20:30:00+01:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-50186/"
-        },
-        {
-          "starts_at": "2025-05-31T21:00:00+01:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-50182/"
-        },
-        {
-          "starts_at": "2025-05-31T13:30:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-81929/"
-        },
-        {
-          "starts_at": "2025-05-31T16:00:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-81924/"
-        },
-        {
-          "starts_at": "2025-05-31T18:30:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-81935/"
-        },
-        {
-          "starts_at": "2025-05-31T21:00:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-81931/"
-        },
-        {
-          "starts_at": "2025-05-31T12:00:00+01:00",
-          "site": "Curzon Mayfair",
-          "url": "https://www.curzon.com/ticketing/seats/MAY1-30191/"
-        },
-        {
-          "starts_at": "2025-05-31T14:40:00+01:00",
-          "site": "Curzon Mayfair",
-          "url": "https://www.curzon.com/ticketing/seats/MAY1-30195/"
-        },
-        {
-          "starts_at": "2025-05-31T13:00:00+01:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-22132/"
-        },
-        {
-          "starts_at": "2025-05-31T15:40:00+01:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-22127/"
-        },
-        {
-          "starts_at": "2025-05-31T18:20:00+01:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-22125/"
-        },
-        {
-          "starts_at": "2025-05-31T21:20:00+01:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-22122/"
-        },
-        {
-          "starts_at": "2025-05-31T11:20:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-33248/"
-        },
-        {
-          "starts_at": "2025-05-31T13:50:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-33235/"
-        },
-        {
-          "starts_at": "2025-05-31T16:15:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-33236/"
-        },
-        {
-          "starts_at": "2025-05-31T18:40:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-33238/"
-        },
-        {
-          "starts_at": "2025-05-31T21:00:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-33231/"
-        },
-        {
-          "starts_at": "2025-05-31T13:10:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-99984/"
-        },
-        {
-          "starts_at": "2025-05-31T15:30:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-99985/"
-        },
-        {
-          "starts_at": "2025-05-31T17:40:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-99986/"
-        },
-        {
-          "starts_at": "2025-05-31T21:00:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-99983/"
-        }
-      ]
-    },
-    {
       "title": "The Ballad of Wallis Island",
       "trailer": "https://www.youtube.com/watch?v=T9smxlnKNz0",
       "synopsis": "Eccentric lottery winner Charles dreams of getting his favorite musicians, McGwyer Mortimer, back together. The fantasy becomes real when the bandmates and former lovers agree to play a private show at his home on Wallis Island. Old tensions resurface as Charles tries desperately to salvage his dream gig.",
       "runtime": 100,
       "times": [
-        {
-          "starts_at": "2025-05-31T11:20:00+01:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-56762/"
-        },
         {
           "starts_at": "2025-05-31T13:40:00+01:00",
           "site": "Curzon Aldgate",
@@ -183,11 +15,6 @@
           "starts_at": "2025-05-31T16:10:00+01:00",
           "site": "Curzon Aldgate",
           "url": "https://www.curzon.com/ticketing/seats/ALD1-56754/"
-        },
-        {
-          "starts_at": "2025-05-31T12:00:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-33242/"
         },
         {
           "starts_at": "2025-05-31T17:20:00+01:00",
@@ -202,11 +29,6 @@
       "synopsis": "Light the fuse because Tom Cruise's world-saving super spy Ethan Hunt is back to complete a mission for the ages alongside Simon Pegg, Ving Rhames and Hayley Atwell. This propulsive action-adventure demands to be seen on the big screen.    ",
       "runtime": 170,
       "times": [
-        {
-          "starts_at": "2025-05-31T11:40:00+01:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-56760/"
-        },
         {
           "starts_at": "2025-05-31T14:00:00+01:00",
           "site": "Curzon Aldgate",
@@ -243,11 +65,6 @@
           "url": "https://www.curzon.com/ticketing/seats/SOH1-50181/"
         },
         {
-          "starts_at": "2025-05-31T11:45:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-81921/"
-        },
-        {
           "starts_at": "2025-05-31T14:15:00+01:00",
           "site": "Curzon Victoria",
           "url": "https://www.curzon.com/ticketing/seats/VIC1-81928/"
@@ -278,11 +95,6 @@
           "url": "https://www.curzon.com/ticketing/seats/MAY1-30192/"
         },
         {
-          "starts_at": "2025-05-31T11:20:00+01:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-22128/"
-        },
-        {
           "starts_at": "2025-05-31T14:00:00+01:00",
           "site": "Curzon Hoxton",
           "url": "https://www.curzon.com/ticketing/seats/HOX1-22126/"
@@ -298,11 +110,6 @@
           "url": "https://www.curzon.com/ticketing/seats/HOX1-22123/"
         },
         {
-          "starts_at": "2025-05-31T13:00:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-33234/"
-        },
-        {
           "starts_at": "2025-05-31T16:40:00+01:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-33237/"
@@ -311,11 +118,6 @@
           "starts_at": "2025-05-31T19:50:00+01:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-33230/"
-        },
-        {
-          "starts_at": "2025-05-31T11:50:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-99977/"
         },
         {
           "starts_at": "2025-05-31T14:10:00+01:00",
@@ -331,6 +133,124 @@
           "starts_at": "2025-05-31T20:00:00+01:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-99982/"
+        }
+      ]
+    },
+    {
+      "title": "The Phoenician Scheme",
+      "trailer": "https://www.youtube.com/watch?v=qRAnphZLAIg",
+      "synopsis": "The story of a family and a family business. Starring: Benicio del Toro as Zsa-zsa Korda, one of the richest men in Europe; Mia Threapleton as Liesl, his daughter/a nun; Michael Cera as Bjorn, their tutor. With: Riz Ahmed, Tom Hanks, Bryan Cranston, Mathieu Amalric, Richard Ayoade, Jeffrey Wright, Scarlett Johansson, Benedict Cumberbatch, Rupert Friend, Hope Davis.",
+      "runtime": 101,
+      "times": [
+        {
+          "starts_at": "2025-05-31T14:40:00+01:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-56756/"
+        },
+        {
+          "starts_at": "2025-05-31T18:40:00+01:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-56767/"
+        },
+        {
+          "starts_at": "2025-05-31T21:15:00+01:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-56763/"
+        },
+        {
+          "starts_at": "2025-05-31T14:30:00+01:00",
+          "site": "Curzon Soho",
+          "url": "https://www.curzon.com/ticketing/seats/SOH1-50225/"
+        },
+        {
+          "starts_at": "2025-05-31T16:00:00+01:00",
+          "site": "Curzon Soho",
+          "url": "https://www.curzon.com/ticketing/seats/SOH1-50196/"
+        },
+        {
+          "starts_at": "2025-05-31T18:30:00+01:00",
+          "site": "Curzon Soho",
+          "url": "https://www.curzon.com/ticketing/seats/SOH1-50183/"
+        },
+        {
+          "starts_at": "2025-05-31T20:30:00+01:00",
+          "site": "Curzon Soho",
+          "url": "https://www.curzon.com/ticketing/seats/SOH1-50186/"
+        },
+        {
+          "starts_at": "2025-05-31T21:00:00+01:00",
+          "site": "Curzon Soho",
+          "url": "https://www.curzon.com/ticketing/seats/SOH1-50182/"
+        },
+        {
+          "starts_at": "2025-05-31T16:00:00+01:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-81924/"
+        },
+        {
+          "starts_at": "2025-05-31T18:30:00+01:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-81935/"
+        },
+        {
+          "starts_at": "2025-05-31T21:00:00+01:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-81931/"
+        },
+        {
+          "starts_at": "2025-05-31T14:40:00+01:00",
+          "site": "Curzon Mayfair",
+          "url": "https://www.curzon.com/ticketing/seats/MAY1-30195/"
+        },
+        {
+          "starts_at": "2025-05-31T15:40:00+01:00",
+          "site": "Curzon Hoxton",
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-22127/"
+        },
+        {
+          "starts_at": "2025-05-31T18:20:00+01:00",
+          "site": "Curzon Hoxton",
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-22125/"
+        },
+        {
+          "starts_at": "2025-05-31T21:20:00+01:00",
+          "site": "Curzon Hoxton",
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-22122/"
+        },
+        {
+          "starts_at": "2025-05-31T13:50:00+01:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-33235/"
+        },
+        {
+          "starts_at": "2025-05-31T16:15:00+01:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-33236/"
+        },
+        {
+          "starts_at": "2025-05-31T18:40:00+01:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-33238/"
+        },
+        {
+          "starts_at": "2025-05-31T21:00:00+01:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-33231/"
+        },
+        {
+          "starts_at": "2025-05-31T15:30:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-99985/"
+        },
+        {
+          "starts_at": "2025-05-31T17:40:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-99986/"
+        },
+        {
+          "starts_at": "2025-05-31T21:00:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-99983/"
         }
       ]
     },
@@ -364,11 +284,6 @@
           "url": "https://www.curzon.com/ticketing/seats/SOH1-50221/"
         },
         {
-          "starts_at": "2025-05-31T12:20:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-33247/"
-        },
-        {
           "starts_at": "2025-05-31T20:20:00+01:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-33233/"
@@ -386,29 +301,11 @@
       ]
     },
     {
-      "title": "Flow",
-      "trailer": "https://www.youtube.com/watch?v=shsVQvHUTxw",
-      "synopsis": "When a flood of biblical proportions washes its home away, a solitary cat must seek refuge with a motley crew of animals (including a dog, a capybara, a lemur and a secretarybird), who gradually learn to get along in this endearing, Oscar-winning animation.",
-      "runtime": 85,
-      "times": [
-        {
-          "starts_at": "2025-05-31T11:00:00+01:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-50226/"
-        }
-      ]
-    },
-    {
       "title": "Along Came Love",
       "trailer": null,
       "synopsis": "A hotel waitress Madeleine who is mother to a little boy, meets a rich student François. The relation between them becomes so intense, but over time it's evident that François is trying to escape by entangling Madeleine's destiny with his.",
       "runtime": 123,
       "times": [
-        {
-          "starts_at": "2025-05-31T11:40:00+01:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-50223/"
-        },
         {
           "starts_at": "2025-05-31T17:10:00+01:00",
           "site": "Curzon Soho",
@@ -435,62 +332,9 @@
           "url": "https://www.curzon.com/ticketing/seats/CAM1-33157/"
         },
         {
-          "starts_at": "2025-05-31T11:30:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-99987/"
-        },
-        {
           "starts_at": "2025-05-31T18:10:00+01:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-99941/"
-        }
-      ]
-    },
-    {
-      "title": "Ocean With David Attenborough",
-      "trailer": "https://www.youtube.com/watch?v=cIZAdCtKT_g",
-      "synopsis": "OCEAN WITH DAVID ATTENBOROUGH takes viewers on a breathtaking journey showing there is nowhere more vital for our survival, more full of life, wonder, or surprise, than the ocean.\n\nThe celebrated broadcaster and filmmaker reveals how his lifetime has coincided with the great age of ocean discovery. Through spectacular sequences featuring coral reefs, kelp forests and the open ocean, Attenborough shares why a healthy ocean keeps the entire planet stable and flourishing.\n\nStunning, immersive cinematography showcases the wonder of life under the seas and exposes the realities and challenges facing our ocean as never-before-seen, from destructive fishing techniques to mass coral reef bleaching. Yet the story is one of optimism, with Attenborough pointing to inspirational stories from around the world to deliver his greatest message: the ocean can recover to a glory beyond anything anyone alive has ever seen.\n\nScreening in cinemas with theatrically exclusive footage.",
-      "runtime": 85,
-      "times": [
-        {
-          "starts_at": "2025-05-31T12:00:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-81920/"
-        },
-        {
-          "starts_at": "2025-05-31T15:45:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-81925/"
-        },
-        {
-          "starts_at": "2025-05-31T18:15:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-81922/"
-        },
-        {
-          "starts_at": "2025-05-31T11:40:00+01:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-22130/"
-        },
-        {
-          "starts_at": "2025-05-31T12:40:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-33245/"
-        },
-        {
-          "starts_at": "2025-05-31T14:50:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-33244/"
-        },
-        {
-          "starts_at": "2025-05-31T17:00:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-33232/"
-        },
-        {
-          "starts_at": "2025-05-31T19:10:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-33243/"
         }
       ]
     },
@@ -500,11 +344,6 @@
       "synopsis": "A live-action reimagining of Disney’s 2002 animated classic, “Lilo & Stitch” is the wildly funny and touching story of a lonely Hawaiian girl and the fugitive alien who helps to mend her broken family. Directed by Dean Fleischer Camp, the Oscar®-nominated filmmaker behind the animated feature film “Marcel the Shell with Shoes On,” the film stars Sydney Elizebeth Agudong, Billy Magnussen, Tia Carrere, Hannah Waddingham, Chris Sanders, with Courtney B. Vance, and Zach Galifianakis, introducing Maia Kealoha. “Lilo & Stitch” is produced by Jonathan Eirich, p.g.a. and Dan Lin, with Louie Provost, Tom Peitzman and Ryan Halprin serving as executive producers.",
       "runtime": 108,
       "times": [
-        {
-          "starts_at": "2025-05-31T12:30:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-81930/"
-        },
         {
           "starts_at": "2025-05-31T15:00:00+01:00",
           "site": "Curzon Victoria",
@@ -523,30 +362,35 @@
       ]
     },
     {
-      "title": "The Salt Path",
-      "trailer": "https://www.youtube.com/watch?v=UQ7RJCOm-c8",
-      "synopsis": "THE SALT PATH is the profound true story of husband and wife, Raynor and Moth Winn’s 630-mile trek along the beautiful but rugged Cornish, Devon and Dorset coastline. After being forcibly removed from their home, they make the desperate decision to walk in the hope that, in nature, they will find solace and a sense of acceptance. With depleted resources, only a tent and some essentials between them, every step along the path is a testament to their growing strength and determination. THE SALT PATH is a journey that is exhilarating, challenging, and liberating in equal measure. A portrayal of home, how it can be lost and rediscovered in the most unexpected ways.",
-      "runtime": 115,
+      "title": "Ocean With David Attenborough",
+      "trailer": "https://www.youtube.com/watch?v=cIZAdCtKT_g",
+      "synopsis": "OCEAN WITH DAVID ATTENBOROUGH takes viewers on a breathtaking journey showing there is nowhere more vital for our survival, more full of life, wonder, or surprise, than the ocean.\n\nThe celebrated broadcaster and filmmaker reveals how his lifetime has coincided with the great age of ocean discovery. Through spectacular sequences featuring coral reefs, kelp forests and the open ocean, Attenborough shares why a healthy ocean keeps the entire planet stable and flourishing.\n\nStunning, immersive cinematography showcases the wonder of life under the seas and exposes the realities and challenges facing our ocean as never-before-seen, from destructive fishing techniques to mass coral reef bleaching. Yet the story is one of optimism, with Attenborough pointing to inspirational stories from around the world to deliver his greatest message: the ocean can recover to a glory beyond anything anyone alive has ever seen.\n\nScreening in cinemas with theatrically exclusive footage.",
+      "runtime": 85,
       "times": [
         {
-          "starts_at": "2025-05-31T13:00:00+01:00",
+          "starts_at": "2025-05-31T15:45:00+01:00",
           "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-81937/"
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-81925/"
         },
         {
-          "starts_at": "2025-05-31T20:30:00+01:00",
+          "starts_at": "2025-05-31T18:15:00+01:00",
           "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-81936/"
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-81922/"
         },
         {
-          "starts_at": "2025-05-31T11:40:00+01:00",
-          "site": "Curzon Mayfair",
-          "url": "https://www.curzon.com/ticketing/seats/MAY1-30196/"
+          "starts_at": "2025-05-31T14:50:00+01:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-33244/"
         },
         {
-          "starts_at": "2025-05-31T17:15:00+01:00",
-          "site": "Curzon Mayfair",
-          "url": "https://www.curzon.com/ticketing/seats/MAY1-30194/"
+          "starts_at": "2025-05-31T17:00:00+01:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-33232/"
+        },
+        {
+          "starts_at": "2025-05-31T19:10:00+01:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-33243/"
         }
       ]
     },
@@ -569,6 +413,24 @@
       ]
     },
     {
+      "title": "The Salt Path",
+      "trailer": "https://www.youtube.com/watch?v=UQ7RJCOm-c8",
+      "synopsis": "THE SALT PATH is the profound true story of husband and wife, Raynor and Moth Winn’s 630-mile trek along the beautiful but rugged Cornish, Devon and Dorset coastline. After being forcibly removed from their home, they make the desperate decision to walk in the hope that, in nature, they will find solace and a sense of acceptance. With depleted resources, only a tent and some essentials between them, every step along the path is a testament to their growing strength and determination. THE SALT PATH is a journey that is exhilarating, challenging, and liberating in equal measure. A portrayal of home, how it can be lost and rediscovered in the most unexpected ways.",
+      "runtime": 115,
+      "times": [
+        {
+          "starts_at": "2025-05-31T20:30:00+01:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-81936/"
+        },
+        {
+          "starts_at": "2025-05-31T17:15:00+01:00",
+          "site": "Curzon Mayfair",
+          "url": "https://www.curzon.com/ticketing/seats/MAY1-30194/"
+        }
+      ]
+    },
+    {
       "title": "The Met: Live in HD 24-25: Il Barbiere di Siviglia",
       "trailer": null,
       "synopsis": "The Metropolitan Opera’s 2024–25 Live in HD season comes to a close with a live broadcast of Rossini’s effervescent comedy on May 31. Russian mezzo-soprano Aigul Akhmetshina headlines a winning ensemble as the feisty heroine, Rosina, alongside American tenor Jack Swanson, in his Met debut, as her secret beloved, Count Almaviva. Moldovan baritone Andrey Zhilikhovsky stars as Figaro, the ingenious barber of Seville, with Hungarian bass-baritone Peter Kálmán as Dr. Bartolo and Russian bass Alexander Vinogradov as Don Basilio rounding out the principal cast. Giacomo Sagripanti conducts Bartlett Sher’s madcap production.",
@@ -583,24 +445,6 @@
           "starts_at": "2025-05-31T18:00:00+01:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-91782/"
-        }
-      ]
-    },
-    {
-      "title": "Kids Club: Dog Man",
-      "trailer": "https://www.youtube.com/watch?v=IbxJtp_9SpU",
-      "synopsis": "From DreamWorks Animation—creators of the beloved blockbuster franchises Kung Fu Panda, How to Train Your Dragon and The Boss Baby—comes the canine-crime-fighting film adaptation of Dav Pilkey’s New York Times bestselling literary phenomenon: Dog Man.\n\nWhen a faithful police dog and his human police officer owner are injured together on the job, a harebrained but life-saving surgery fuses the two of them together and Dog Man is born. Dog Man is sworn to protect and serve—and fetch, sit and roll over.",
-      "runtime": 89,
-      "times": [
-        {
-          "starts_at": "2025-05-31T10:30:00+01:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-22016/"
-        },
-        {
-          "starts_at": "2025-05-31T10:30:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-32988/"
         }
       ]
     },
@@ -636,16 +480,24 @@
       ]
     },
     {
+      "title": "DocHouse: Burden of Dreams",
+      "trailer": null,
+      "synopsis": "For five years, Werner Herzog desperately tried to complete FITZCARRALDO, despite every possible setback, an evermore unhinged Klaus Kinski and his own diehard insistence on hauling a steamship over a mountain. \r\n\r\nLuckily, Les Blank captured it all in this riveting account of the whole crazed process, from losing cast members (Jason Robards Jr., Mick Jagger), to a prop ship trapped in rapids, and Herzog haranguing hundreds of indigenous people to pull the 320-ton steamship up a muddy mountain. Anchored by an as-it-was-happening interview with Herzog himself, BURDEN OF DREAMS is a wild insight into his unflinching vision and the lengths he would go to to realise it.",
+      "runtime": 94,
+      "times": [
+        {
+          "starts_at": "2025-05-31T14:00:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-100100/"
+        }
+      ]
+    },
+    {
       "title": "Parthenope",
       "trailer": null,
       "synopsis": "From Academy Award-winning fi lmmaker Paolo Sorrentino comes a monumental and deeply romantic story of a lifetime. Born in the Bay of Naples in 1950, Parthenope (Celeste Dalla Porta) searches for happiness over the long summers of her youth, falling in love with her home city and its many memorable characters. But when tragedy strikes, and carefree romances lose their thrill, she decides to seek a deeper sense of purpose. Featuring a captivating performance from Dalla Porta and an outstanding cast that includes Gary Oldman, PARTHENOPE is another tale of great beauty from a master of modern cinema.",
       "runtime": 137,
       "times": [
-        {
-          "starts_at": "2025-05-31T11:40:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-99991/"
-        },
         {
           "starts_at": "2025-05-31T14:20:00+01:00",
           "site": "Curzon Bloomsbury",
@@ -660,32 +512,6 @@
           "starts_at": "2025-05-31T20:20:00+01:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-99981/"
-        }
-      ]
-    },
-    {
-      "title": "Holy Cow",
-      "trailer": "https://www.youtube.com/watch?v=cy0WeGJow9E",
-      "synopsis": "18-year-old Totone spends most of his time drinking beer and partying in the Jura region with his group of friends until reality catches up with him when he has to take care of his 7-year-old sister and find a way to make a living. He sets out to make the best Comté cheese in the region in an attempt to win the gold medal at the agricultural competition and 30,000 euros. ",
-      "runtime": 92,
-      "times": [
-        {
-          "starts_at": "2025-05-31T12:00:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-99979/"
-        }
-      ]
-    },
-    {
-      "title": "DocHouse: Burden of Dreams",
-      "trailer": null,
-      "synopsis": "For five years, Werner Herzog desperately tried to complete FITZCARRALDO, despite every possible setback, an evermore unhinged Klaus Kinski and his own diehard insistence on hauling a steamship over a mountain. \r\n\r\nLuckily, Les Blank captured it all in this riveting account of the whole crazed process, from losing cast members (Jason Robards Jr., Mick Jagger), to a prop ship trapped in rapids, and Herzog haranguing hundreds of indigenous people to pull the 320-ton steamship up a muddy mountain. Anchored by an as-it-was-happening interview with Herzog himself, BURDEN OF DREAMS is a wild insight into his unflinching vision and the lengths he would go to to realise it.",
-      "runtime": 94,
-      "times": [
-        {
-          "starts_at": "2025-05-31T14:00:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-100100/"
         }
       ]
     },
