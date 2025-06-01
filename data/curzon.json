@@ -7,16 +7,6 @@
       "runtime": 170,
       "times": [
         {
-          "starts_at": "2025-06-01T13:40:00+01:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-56773/"
-        },
-        {
-          "starts_at": "2025-06-01T15:00:00+01:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-56771/"
-        },
-        {
           "starts_at": "2025-06-01T17:00:00+01:00",
           "site": "Curzon Aldgate",
           "url": "https://www.curzon.com/ticketing/seats/ALD1-56785/"
@@ -32,24 +22,9 @@
           "url": "https://www.curzon.com/ticketing/seats/ALD1-56781/"
         },
         {
-          "starts_at": "2025-06-01T15:20:00+01:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-50255/"
-        },
-        {
           "starts_at": "2025-06-01T19:00:00+01:00",
           "site": "Curzon Soho",
           "url": "https://www.curzon.com/ticketing/seats/SOH1-50189/"
-        },
-        {
-          "starts_at": "2025-06-01T13:45:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-81865/"
-        },
-        {
-          "starts_at": "2025-06-01T15:00:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-81863/"
         },
         {
           "starts_at": "2025-06-01T18:45:00+01:00",
@@ -62,11 +37,6 @@
           "url": "https://www.curzon.com/ticketing/seats/VIC1-81872/"
         },
         {
-          "starts_at": "2025-06-01T14:00:00+01:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-22139/"
-        },
-        {
           "starts_at": "2025-06-01T17:40:00+01:00",
           "site": "Curzon Hoxton",
           "url": "https://www.curzon.com/ticketing/seats/HOX1-22137/"
@@ -77,19 +47,9 @@
           "url": "https://www.curzon.com/ticketing/seats/HOX1-22135/"
         },
         {
-          "starts_at": "2025-06-01T15:20:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-33172/"
-        },
-        {
           "starts_at": "2025-06-01T19:10:00+01:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-33179/"
-        },
-        {
-          "starts_at": "2025-06-01T13:50:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-100008/"
         },
         {
           "starts_at": "2025-06-01T17:00:00+01:00",
@@ -100,132 +60,6 @@
           "starts_at": "2025-06-01T19:40:00+01:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-100001/"
-        }
-      ]
-    },
-    {
-      "title": "The Phoenician Scheme",
-      "trailer": "https://www.youtube.com/watch?v=qRAnphZLAIg",
-      "synopsis": "The story of a family and a family business. Starring: Benicio del Toro as Zsa-zsa Korda, one of the richest men in Europe; Mia Threapleton as Liesl, his daughter/a nun; Michael Cera as Bjorn, their tutor. With: Riz Ahmed, Tom Hanks, Bryan Cranston, Mathieu Amalric, Richard Ayoade, Jeffrey Wright, Scarlett Johansson, Benedict Cumberbatch, Rupert Friend, Hope Davis.",
-      "runtime": 101,
-      "times": [
-        {
-          "starts_at": "2025-06-01T14:20:00+01:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-56772/"
-        },
-        {
-          "starts_at": "2025-06-01T18:20:00+01:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-56783/"
-        },
-        {
-          "starts_at": "2025-06-01T21:00:00+01:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-56779/"
-        },
-        {
-          "starts_at": "2025-06-01T14:15:00+01:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-50244/"
-        },
-        {
-          "starts_at": "2025-06-01T15:45:00+01:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-50198/"
-        },
-        {
-          "starts_at": "2025-06-01T18:15:00+01:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-50190/"
-        },
-        {
-          "starts_at": "2025-06-01T20:40:00+01:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-50188/"
-        },
-        {
-          "starts_at": "2025-06-01T15:30:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-81878/"
-        },
-        {
-          "starts_at": "2025-06-01T18:00:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-81874/"
-        },
-        {
-          "starts_at": "2025-06-01T20:30:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-81870/"
-        },
-        {
-          "starts_at": "2025-06-01T14:40:00+01:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-22140/"
-        },
-        {
-          "starts_at": "2025-06-01T16:50:00+01:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-22138/"
-        },
-        {
-          "starts_at": "2025-06-01T19:20:00+01:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-22136/"
-        },
-        {
-          "starts_at": "2025-06-01T21:10:00+01:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-22134/"
-        },
-        {
-          "starts_at": "2025-06-01T15:50:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-33173/"
-        },
-        {
-          "starts_at": "2025-06-01T18:15:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-33171/"
-        },
-        {
-          "starts_at": "2025-06-01T20:40:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-33178/"
-        },
-        {
-          "starts_at": "2025-06-01T15:40:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-100004/"
-        },
-        {
-          "starts_at": "2025-06-01T18:00:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-100005/"
-        },
-        {
-          "starts_at": "2025-06-01T20:30:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-100002/"
-        }
-      ]
-    },
-    {
-      "title": "The Ballad of Wallis Island",
-      "trailer": "https://www.youtube.com/watch?v=T9smxlnKNz0",
-      "synopsis": "Eccentric lottery winner Charles dreams of getting his favorite musicians, McGwyer Mortimer, back together. The fantasy becomes real when the bandmates and former lovers agree to play a private show at his home on Wallis Island. Old tensions resurface as Charles tries desperately to salvage his dream gig.",
-      "runtime": 100,
-      "times": [
-        {
-          "starts_at": "2025-06-01T15:50:00+01:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-56770/"
-        },
-        {
-          "starts_at": "2025-06-01T17:00:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-33188/"
         }
       ]
     },
@@ -244,6 +78,79 @@
           "starts_at": "2025-06-01T20:20:00+01:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-33180/"
+        }
+      ]
+    },
+    {
+      "title": "The Phoenician Scheme",
+      "trailer": "https://www.youtube.com/watch?v=qRAnphZLAIg",
+      "synopsis": "The story of a family and a family business. Starring: Benicio del Toro as Zsa-zsa Korda, one of the richest men in Europe; Mia Threapleton as Liesl, his daughter/a nun; Michael Cera as Bjorn, their tutor. With: Riz Ahmed, Tom Hanks, Bryan Cranston, Mathieu Amalric, Richard Ayoade, Jeffrey Wright, Scarlett Johansson, Benedict Cumberbatch, Rupert Friend, Hope Davis.",
+      "runtime": 101,
+      "times": [
+        {
+          "starts_at": "2025-06-01T18:20:00+01:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-56783/"
+        },
+        {
+          "starts_at": "2025-06-01T21:00:00+01:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-56779/"
+        },
+        {
+          "starts_at": "2025-06-01T18:15:00+01:00",
+          "site": "Curzon Soho",
+          "url": "https://www.curzon.com/ticketing/seats/SOH1-50190/"
+        },
+        {
+          "starts_at": "2025-06-01T20:40:00+01:00",
+          "site": "Curzon Soho",
+          "url": "https://www.curzon.com/ticketing/seats/SOH1-50188/"
+        },
+        {
+          "starts_at": "2025-06-01T18:00:00+01:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-81874/"
+        },
+        {
+          "starts_at": "2025-06-01T20:30:00+01:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-81870/"
+        },
+        {
+          "starts_at": "2025-06-01T16:50:00+01:00",
+          "site": "Curzon Hoxton",
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-22138/"
+        },
+        {
+          "starts_at": "2025-06-01T19:20:00+01:00",
+          "site": "Curzon Hoxton",
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-22136/"
+        },
+        {
+          "starts_at": "2025-06-01T21:10:00+01:00",
+          "site": "Curzon Hoxton",
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-22134/"
+        },
+        {
+          "starts_at": "2025-06-01T18:15:00+01:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-33171/"
+        },
+        {
+          "starts_at": "2025-06-01T20:40:00+01:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-33178/"
+        },
+        {
+          "starts_at": "2025-06-01T18:00:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-100005/"
+        },
+        {
+          "starts_at": "2025-06-01T20:30:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-100002/"
         }
       ]
     },
@@ -274,11 +181,6 @@
           "url": "https://www.curzon.com/ticketing/seats/CAM1-33176/"
         },
         {
-          "starts_at": "2025-06-01T14:45:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-99995/"
-        },
-        {
           "starts_at": "2025-06-01T20:20:00+01:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-99999/"
@@ -302,11 +204,6 @@
           "url": "https://www.curzon.com/ticketing/seats/HOX1-22144/"
         },
         {
-          "starts_at": "2025-06-01T14:00:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-33187/"
-        },
-        {
           "starts_at": "2025-06-01T19:30:00+01:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-33158/"
@@ -324,11 +221,6 @@
       "synopsis": "A live-action reimagining of Disney’s 2002 animated classic, “Lilo & Stitch” is the wildly funny and touching story of a lonely Hawaiian girl and the fugitive alien who helps to mend her broken family. Directed by Dean Fleischer Camp, the Oscar®-nominated filmmaker behind the animated feature film “Marcel the Shell with Shoes On,” the film stars Sydney Elizebeth Agudong, Billy Magnussen, Tia Carrere, Hannah Waddingham, Chris Sanders, with Courtney B. Vance, and Zach Galifianakis, introducing Maia Kealoha. “Lilo & Stitch” is produced by Jonathan Eirich, p.g.a. and Dan Lin, with Louie Provost, Tom Peitzman and Ryan Halprin serving as executive producers.",
       "runtime": 108,
       "times": [
-        {
-          "starts_at": "2025-06-01T14:30:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-81864/"
-        },
         {
           "starts_at": "2025-06-01T17:00:00+01:00",
           "site": "Curzon Victoria",
@@ -348,24 +240,9 @@
       "runtime": 85,
       "times": [
         {
-          "starts_at": "2025-06-01T15:15:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-81879/"
-        },
-        {
           "starts_at": "2025-06-01T17:45:00+01:00",
           "site": "Curzon Victoria",
           "url": "https://www.curzon.com/ticketing/seats/VIC1-81875/"
-        },
-        {
-          "starts_at": "2025-06-01T14:20:00+01:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-22143/"
-        },
-        {
-          "starts_at": "2025-06-01T14:20:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-33184/"
         },
         {
           "starts_at": "2025-06-01T16:40:00+01:00",
@@ -393,33 +270,28 @@
       ]
     },
     {
+      "title": "The Ballad of Wallis Island",
+      "trailer": "https://www.youtube.com/watch?v=T9smxlnKNz0",
+      "synopsis": "Eccentric lottery winner Charles dreams of getting his favorite musicians, McGwyer Mortimer, back together. The fantasy becomes real when the bandmates and former lovers agree to play a private show at his home on Wallis Island. Old tensions resurface as Charles tries desperately to salvage his dream gig.",
+      "runtime": 100,
+      "times": [
+        {
+          "starts_at": "2025-06-01T17:00:00+01:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-33188/"
+        }
+      ]
+    },
+    {
       "title": "Hallow Road",
       "trailer": null,
       "synopsis": "Two parents receive a distressing late-night call from their teenage daughter, who has just accidentally hit a pedestrian. They jump in their car, racing to get there before anyone else stumbles across the scene. As they head deeper into the night, disturbing revelations threaten to tear the family apart as they soon realise they might not be the only ones driving down Hallow Road.",
       "runtime": 80,
       "times": [
         {
-          "starts_at": "2025-06-01T15:00:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-33182/"
-        },
-        {
           "starts_at": "2025-06-01T21:00:00+01:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-33189/"
-        }
-      ]
-    },
-    {
-      "title": "DocHouse: My Sweet Land",
-      "trailer": null,
-      "synopsis": "Vrej, the subject of Sareen Hairabedian’s impressive feature debut – a striking coming-of-age tale – has grown up in Nagorno-Karabakh, an ethnic Armenian enclave within Azerbaijan. Since the end of the Soviet era it has witnessed much conflict. \r\n\r\nThe 11-year-old watches birds, plays with friends and dreams of being a dentist. But echoes of the three wars his family have lived through since 1992 are ever-present. His grandmother laments the cycle of ethnic violence: ‘Living in Artsakh means that one day there will be a war and my grandson will participate in that war’. \r\n\r\nAs his school lessons become increasingly militarised and Vrej struggles to hold on to his childhood dreams, his grandmother watches her prophecy unfold.",
-      "runtime": 85,
-      "times": [
-        {
-          "starts_at": "2025-06-01T14:00:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-99556/"
         }
       ]
     },
@@ -430,11 +302,6 @@
       "runtime": 137,
       "times": [
         {
-          "starts_at": "2025-06-01T14:10:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-100011/"
-        },
-        {
           "starts_at": "2025-06-01T17:10:00+01:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-100012/"
@@ -443,37 +310,6 @@
           "starts_at": "2025-06-01T20:10:00+01:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-100000/"
-        }
-      ]
-    },
-    {
-      "title": "Motel Destino",
-      "trailer": "https://www.youtube.com/watch?v=NyMf7If-vQA",
-      "synopsis": "The unexpected arrival of 21-year-old Heraldo, on the run after a botched hit, disrupts the established order at Motel Destino, a roadside sex hotel steaming under the burning blue skies of Brazil, run by hot-headed Elias and his restless younger wife Dayana.",
-      "runtime": 115,
-      "times": [
-        {
-          "starts_at": "2025-06-01T14:20:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-100007/"
-        },
-        {
-          "starts_at": "2025-06-01T20:40:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-99998/"
-        }
-      ]
-    },
-    {
-      "title": "DocHouse: Bogancloch",
-      "trailer": null,
-      "synopsis": "Bogancloch is where Jake Williams lives, nestled in a vast highland forest of Scotland. The film portrays his life throughout the seasons, with other people occasionally crossing into his otherwise solitary life. At the heart a song, an argument between life and death, each stating their case to rule over the world. The film is without exposition, it aims at something less recognisable, a different existence of reality observed in discrete moments. A sequel to Two Years at Sea (2011), charting a subtly changing life in a radically changing world.",
-      "runtime": 86,
-      "times": [
-        {
-          "starts_at": "2025-06-01T16:00:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-99928/"
         }
       ]
     },
@@ -513,6 +349,19 @@
           "starts_at": "2025-06-01T20:00:00+01:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-100103/"
+        }
+      ]
+    },
+    {
+      "title": "Motel Destino",
+      "trailer": "https://www.youtube.com/watch?v=NyMf7If-vQA",
+      "synopsis": "The unexpected arrival of 21-year-old Heraldo, on the run after a botched hit, disrupts the established order at Motel Destino, a roadside sex hotel steaming under the burning blue skies of Brazil, run by hot-headed Elias and his restless younger wife Dayana.",
+      "runtime": 115,
+      "times": [
+        {
+          "starts_at": "2025-06-01T20:40:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-99998/"
         }
       ]
     }
