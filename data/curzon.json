@@ -1,7 +1,4 @@
 {
-  "2025-06-01": [
-
-  ],
   "2025-06-02": [
     {
       "title": "The Phoenician Scheme",
@@ -3297,6 +3294,54 @@
           "starts_at": "2025-06-08T18:00:00+01:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-99553/"
+        }
+      ]
+    }
+  ],
+  "2025-06-09": [
+    {
+      "title": "Ballerina",
+      "trailer": "https://www.youtube.com/watch?v=EcsDV0rWEFc",
+      "synopsis": "Taking place during the events of John Wick: Chapter 3 – Parabellum, the film follows Eve Macarro (Ana de Armas) who is beginning her training in the assassin traditions of the Ruska Roma.",
+      "runtime": 124,
+      "times": [
+        {
+          "starts_at": "2025-06-09T18:00:00+01:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-56855/"
+        },
+        {
+          "starts_at": "2025-06-09T21:10:00+01:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-56856/"
+        },
+        {
+          "starts_at": "2025-06-09T15:15:00+01:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-82075/"
+        },
+        {
+          "starts_at": "2025-06-09T18:00:00+01:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-82076/"
+        },
+        {
+          "starts_at": "2025-06-09T20:45:00+01:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-82077/"
+        }
+      ]
+    },
+    {
+      "title": "Film Club: Time of the Wolf",
+      "trailer": null,
+      "synopsis": "When Anna and her family arrive at their holiday home, they find it occupied by strangers. This confrontation is just the beginning of a painful learning process.",
+      "runtime": 114,
+      "times": [
+        {
+          "starts_at": "2025-06-09T18:00:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-99744/"
         }
       ]
     }
