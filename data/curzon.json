@@ -314,6 +314,11 @@
           "url": "https://www.curzon.com/ticketing/seats/VIC1-81949/"
         },
         {
+          "starts_at": "2025-06-03T14:00:00+01:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-33266/"
+        },
+        {
           "starts_at": "2025-06-03T18:00:00+01:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-33264/"
@@ -534,6 +539,24 @@
           "starts_at": "2025-06-03T21:15:00+01:00",
           "site": "Curzon Hoxton",
           "url": "https://www.curzon.com/ticketing/seats/HOX1-21724/"
+        }
+      ]
+    },
+    {
+      "title": "Hallow Road",
+      "trailer": null,
+      "synopsis": "Two parents receive a distressing late-night call from their teenage daughter, who has just accidentally hit a pedestrian. They jump in their car, racing to get there before anyone else stumbles across the scene. As they head deeper into the night, disturbing revelations threaten to tear the family apart as they soon realise they might not be the only ones driving down Hallow Road.",
+      "runtime": 80,
+      "times": [
+        {
+          "starts_at": "2025-06-03T12:00:00+01:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-33267/"
+        },
+        {
+          "starts_at": "2025-06-03T17:10:00+01:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-33257/"
         }
       ]
     },
