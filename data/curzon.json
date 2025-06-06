@@ -1,7 +1,4 @@
 {
-  "2025-06-05": [
-
-  ],
   "2025-06-06": [
     {
       "title": "The Ballad of Wallis Island",
@@ -5275,6 +5272,90 @@
           "starts_at": "2025-06-12T21:10:00+01:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-100225/"
+        }
+      ]
+    }
+  ],
+  "2025-06-13": [
+    {
+      "title": "How to Train Your Dragon",
+      "trailer": "https://www.youtube.com/watch?v=CS_TVzQpNlg",
+      "synopsis": "From three-time Oscar® nominee and Golden Globe winner Dean DeBlois, the creative visionary behind DreamWorks Animation’s acclaimed How to Train Your Dragon trilogy, comes a stunning live-action reimagining of the film that launched the beloved franchise. \n\nOn the rugged isle of Berk, where Vikings and dragons have been bitter enemies for generations, Hiccup (Mason Thames; The Black Phone, For All Mankind) stands apart. The inventive yet overlooked son of Chief Stoick the Vast (Gerard Butler, reprising his voice role from the animated franchise), Hiccup defies centuries of tradition when he befriends Toothless, a feared Night Fury dragon. Their unlikely bond reveals the true nature of dragons, challenging the very foundations of Viking society. \n\nWith the fierce and ambitious Astrid (BAFTA nominee Nico Parker; Dumbo, The Last of Us) and the village’s quirky blacksmith Gobber (Nick Frost; Snow White and the Huntsman, Shaun of the Dead) by his side, Hiccup confronts a world torn by fear and misunderstanding. \n\nAs an ancient threat emerges, endangering both Vikings and dragons, Hiccup’s friendship with Toothless becomes the key to forging a new future. Together, they must navigate the delicate path toward peace, soaring beyond the boundaries of their worlds and redefining what it means to be a hero and a leader. ",
+      "runtime": 126,
+      "times": [
+        {
+          "starts_at": "2025-06-13T12:00:00+01:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-56864/"
+        },
+        {
+          "starts_at": "2025-06-13T15:00:00+01:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-56863/"
+        },
+        {
+          "starts_at": "2025-06-13T18:00:00+01:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-56862/"
+        },
+        {
+          "starts_at": "2025-06-13T12:30:00+01:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-81997/"
+        },
+        {
+          "starts_at": "2025-06-13T15:15:00+01:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-81996/"
+        },
+        {
+          "starts_at": "2025-06-13T18:00:00+01:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-81995/"
+        },
+        {
+          "starts_at": "2025-06-13T20:45:00+01:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-81994/"
+        }
+      ]
+    },
+    {
+      "title": "Film Club: All About My Mother",
+      "trailer": null,
+      "synopsis": "Young Esteban wants to become a writer and also to discover the identity of his father, carefully concealed by his mother Manuela.",
+      "runtime": 101,
+      "times": [
+        {
+          "starts_at": "2025-06-13T18:00:00+01:00",
+          "site": "Curzon Soho",
+          "url": "https://www.curzon.com/ticketing/seats/SOH1-50079/"
+        }
+      ]
+    },
+    {
+      "title": "DocHouse: Art for Everybody",
+      "trailer": null,
+      "synopsis": "For much of the 90s, Thomas Kinkade was America's most successful artist, selling his idealised, kitschy scenes of cosy cottages and welcoming village streets into homes across the country. But behind his much-loved persona as the wholesome 'Painter of Light' were demons that would drive him to alcoholism and scandal.\r\n\r\nA vault of unseen, unexpectedly dark paintings, discovered only after his death, offers a key to an unknown side of Kinkade, unraveling the chocolate-box life he had presented to a middle America so desperate to buy it.\r\n\r\nIn ART FOR EVERYBODY, Miranda Yousef peels back the layers of Kinkade’s facade to reveal a more complex and troubled man than his public ever knew.",
+      "runtime": 99,
+      "times": [
+        {
+          "starts_at": "2025-06-13T18:20:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-99737/"
+        }
+      ]
+    },
+    {
+      "title": "Lollipop",
+      "trailer": null,
+      "synopsis": "Molly, a young woman released from prison struggles to regain custody of her children. When she bumps into her childhood friend Amina the two women soon realize their only chance is to join forces and take destiny into their own hands.",
+      "runtime": 100,
+      "times": [
+        {
+          "starts_at": "2025-06-13T18:30:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-99745/"
         }
       ]
     }
