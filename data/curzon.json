@@ -7,19 +7,9 @@
       "runtime": 170,
       "times": [
         {
-          "starts_at": "2025-06-08T17:00:00+01:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-56913/"
-        },
-        {
           "starts_at": "2025-06-08T19:50:00+01:00",
           "site": "Curzon Aldgate",
           "url": "https://www.curzon.com/ticketing/seats/ALD1-56916/"
-        },
-        {
-          "starts_at": "2025-06-08T18:45:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-82113/"
         },
         {
           "starts_at": "2025-06-08T20:00:00+01:00",
@@ -27,133 +17,9 @@
           "url": "https://www.curzon.com/ticketing/seats/MAY1-30245/"
         },
         {
-          "starts_at": "2025-06-08T17:20:00+01:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-22162/"
-        },
-        {
-          "starts_at": "2025-06-08T19:20:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-33434/"
-        },
-        {
           "starts_at": "2025-06-08T19:30:00+01:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-100195/"
-        }
-      ]
-    },
-    {
-      "title": "The Phoenician Scheme",
-      "trailer": "https://www.youtube.com/watch?v=qRAnphZLAIg",
-      "synopsis": "The story of a family and a family business. Starring: Benicio del Toro as Zsa-zsa Korda, one of the richest men in Europe; Mia Threapleton as Liesl, his daughter/a nun; Michael Cera as Bjorn, their tutor. With: Riz Ahmed, Tom Hanks, Bryan Cranston, Mathieu Amalric, Richard Ayoade, Jeffrey Wright, Scarlett Johansson, Benedict Cumberbatch, Rupert Friend, Hope Davis.",
-      "runtime": 101,
-      "times": [
-        {
-          "starts_at": "2025-06-08T17:20:00+01:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-56914/"
-        },
-        {
-          "starts_at": "2025-06-08T17:00:00+01:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-50281/"
-        },
-        {
-          "starts_at": "2025-06-08T20:30:00+01:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-50279/"
-        },
-        {
-          "starts_at": "2025-06-08T18:00:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-82105/"
-        },
-        {
-          "starts_at": "2025-06-08T20:30:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-82104/"
-        },
-        {
-          "starts_at": "2025-06-08T17:50:00+01:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-22164/"
-        },
-        {
-          "starts_at": "2025-06-08T21:00:00+01:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-22161/"
-        },
-        {
-          "starts_at": "2025-06-08T18:20:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-33427/"
-        },
-        {
-          "starts_at": "2025-06-08T20:40:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-33428/"
-        },
-        {
-          "starts_at": "2025-06-08T18:10:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-100193/"
-        },
-        {
-          "starts_at": "2025-06-08T20:50:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-100186/"
-        }
-      ]
-    },
-    {
-      "title": "Ballerina",
-      "trailer": "https://www.youtube.com/watch?v=EcsDV0rWEFc",
-      "synopsis": "Taking place during the events of John Wick: Chapter 3 – Parabellum, the film follows Eve Macarro (Ana de Armas) who is beginning her training in the assassin traditions of the Ruska Roma.",
-      "runtime": 124,
-      "times": [
-        {
-          "starts_at": "2025-06-08T17:40:00+01:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-56906/"
-        },
-        {
-          "starts_at": "2025-06-08T20:50:00+01:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-56905/"
-        },
-        {
-          "starts_at": "2025-06-08T17:30:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-82073/"
-        },
-        {
-          "starts_at": "2025-06-08T20:15:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-82074/"
-        },
-        {
-          "starts_at": "2025-06-08T16:30:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-33420/"
-        },
-        {
-          "starts_at": "2025-06-08T20:00:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-33421/"
-        }
-      ]
-    },
-    {
-      "title": "Final Destination: Bloodlines",
-      "trailer": "https://www.youtube.com/watch?v=dSQ-L3AmHJs",
-      "synopsis": "The newest chapter in New Line Cinema’s bloody successful franchise takes audiences back to the very beginning of Death’s twisted sense of justice. Plagued by a violent recurring nightmare, college student Stefanie heads home to track down the one person who might be able to break the cycle and save her family from the grisly demise that inevitably awaits them all.",
-      "runtime": 110,
-      "times": [
-        {
-          "starts_at": "2025-06-08T18:40:00+01:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-56915/"
         }
       ]
     },
@@ -169,19 +35,32 @@
           "url": "https://www.curzon.com/ticketing/seats/ALD1-56917/"
         },
         {
-          "starts_at": "2025-06-08T17:40:00+01:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-50307/"
-        },
-        {
-          "starts_at": "2025-06-08T19:00:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-33425/"
-        },
-        {
           "starts_at": "2025-06-08T20:20:00+01:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-100194/"
+        }
+      ]
+    },
+    {
+      "title": "Ballerina",
+      "trailer": "https://www.youtube.com/watch?v=EcsDV0rWEFc",
+      "synopsis": "Taking place during the events of John Wick: Chapter 3 – Parabellum, the film follows Eve Macarro (Ana de Armas) who is beginning her training in the assassin traditions of the Ruska Roma.",
+      "runtime": 124,
+      "times": [
+        {
+          "starts_at": "2025-06-08T20:50:00+01:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-56905/"
+        },
+        {
+          "starts_at": "2025-06-08T20:15:00+01:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-82074/"
+        },
+        {
+          "starts_at": "2025-06-08T20:00:00+01:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-33421/"
         }
       ]
     },
@@ -195,21 +74,6 @@
           "starts_at": "2025-06-08T21:10:00+01:00",
           "site": "Curzon Aldgate",
           "url": "https://www.curzon.com/ticketing/seats/ALD1-56918/"
-        },
-        {
-          "starts_at": "2025-06-08T18:00:00+01:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-50351/"
-        },
-        {
-          "starts_at": "2025-06-08T18:10:00+01:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-22160/"
-        },
-        {
-          "starts_at": "2025-06-08T17:20:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-33423/"
         }
       ]
     },
@@ -223,6 +87,39 @@
           "starts_at": "2025-06-08T19:40:00+01:00",
           "site": "Curzon Soho",
           "url": "https://www.curzon.com/ticketing/seats/SOH1-50338/"
+        }
+      ]
+    },
+    {
+      "title": "The Phoenician Scheme",
+      "trailer": "https://www.youtube.com/watch?v=qRAnphZLAIg",
+      "synopsis": "The story of a family and a family business. Starring: Benicio del Toro as Zsa-zsa Korda, one of the richest men in Europe; Mia Threapleton as Liesl, his daughter/a nun; Michael Cera as Bjorn, their tutor. With: Riz Ahmed, Tom Hanks, Bryan Cranston, Mathieu Amalric, Richard Ayoade, Jeffrey Wright, Scarlett Johansson, Benedict Cumberbatch, Rupert Friend, Hope Davis.",
+      "runtime": 101,
+      "times": [
+        {
+          "starts_at": "2025-06-08T20:30:00+01:00",
+          "site": "Curzon Soho",
+          "url": "https://www.curzon.com/ticketing/seats/SOH1-50279/"
+        },
+        {
+          "starts_at": "2025-06-08T20:30:00+01:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-82104/"
+        },
+        {
+          "starts_at": "2025-06-08T21:00:00+01:00",
+          "site": "Curzon Hoxton",
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-22161/"
+        },
+        {
+          "starts_at": "2025-06-08T20:40:00+01:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-33428/"
+        },
+        {
+          "starts_at": "2025-06-08T20:50:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-100186/"
         }
       ]
     },
@@ -246,32 +143,9 @@
       "runtime": 108,
       "times": [
         {
-          "starts_at": "2025-06-08T17:00:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-82118/"
-        },
-        {
           "starts_at": "2025-06-08T19:30:00+01:00",
           "site": "Curzon Victoria",
           "url": "https://www.curzon.com/ticketing/seats/VIC1-82119/"
-        }
-      ]
-    },
-    {
-      "title": "Ocean With David Attenborough",
-      "trailer": "https://www.youtube.com/watch?v=cIZAdCtKT_g",
-      "synopsis": "OCEAN WITH DAVID ATTENBOROUGH takes viewers on a breathtaking journey showing there is nowhere more vital for our survival, more full of life, wonder, or surprise, than the ocean.\n\nThe celebrated broadcaster and filmmaker reveals how his lifetime has coincided with the great age of ocean discovery. Through spectacular sequences featuring coral reefs, kelp forests and the open ocean, Attenborough shares why a healthy ocean keeps the entire planet stable and flourishing.\n\nStunning, immersive cinematography showcases the wonder of life under the seas and exposes the realities and challenges facing our ocean as never-before-seen, from destructive fishing techniques to mass coral reef bleaching. Yet the story is one of optimism, with Attenborough pointing to inspirational stories from around the world to deliver his greatest message: the ocean can recover to a glory beyond anything anyone alive has ever seen.\n\nScreening in cinemas with theatrically exclusive footage.",
-      "runtime": 85,
-      "times": [
-        {
-          "starts_at": "2025-06-08T17:45:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-82111/"
-        },
-        {
-          "starts_at": "2025-06-08T16:50:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-33430/"
         }
       ]
     },
@@ -290,24 +164,6 @@
           "starts_at": "2025-06-08T20:30:00+01:00",
           "site": "Curzon Mayfair",
           "url": "https://www.curzon.com/ticketing/seats/MAY1-30248/"
-        }
-      ]
-    },
-    {
-      "title": "Along Came Love",
-      "trailer": null,
-      "synopsis": "A hotel waitress Madeleine who is mother to a little boy, meets a rich student François. The relation between them becomes so intense, but over time it's evident that François is trying to escape by entangling Madeleine's destiny with his.",
-      "runtime": 123,
-      "times": [
-        {
-          "starts_at": "2025-06-08T17:40:00+01:00",
-          "site": "Curzon Mayfair",
-          "url": "https://www.curzon.com/ticketing/seats/MAY1-30250/"
-        },
-        {
-          "starts_at": "2025-06-08T17:40:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-100184/"
         }
       ]
     },
@@ -343,28 +199,15 @@
       ]
     },
     {
-      "title": "Hallow Road",
+      "title": "DocHouse: The Last Republican",
       "trailer": null,
-      "synopsis": "Two parents receive a distressing late-night call from their teenage daughter, who has just accidentally hit a pedestrian. They jump in their car, racing to get there before anyone else stumbles across the scene. As they head deeper into the night, disturbing revelations threaten to tear the family apart as they soon realise they might not be the only ones driving down Hallow Road.",
-      "runtime": 80,
+      "synopsis": "US Congressman Adam Kinzinger was the first Republican to hold Donald Trump accountable for the Jan 6th attack on the Capital, jeopardising his career and drawing vitriol from his own party in the process.  \r\n\r\nA champion of conservative values, Kinzinger became an ardent critic of Trump, voting for his impeachment, though it cost him colleagues, friends and family. Hollywood director and comedian Steve Pink - himself a far left progressive - profiles Kinzinger during his last year in Congress as he, seemingly alone amongst Republicans, takes a stand. \r\n\r\nWhile Pink persistently challenges Kinzinger on his political views, he forms a surprisingly humourous friendship with his conservative Christian counterpart.  ",
+      "runtime": 90,
       "times": [
         {
-          "starts_at": "2025-06-08T18:00:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-33435/"
-        }
-      ]
-    },
-    {
-      "title": "NT Live: A Streetcar Named Desire",
-      "trailer": "https://www.youtube.com/watch?v=l0SOh95iunE",
-      "synopsis": "Gillian Anderson (Sex Education), Vanessa Kirby (The Crown), and Ben Foster (Lone Survivor) lead the cast in Tennessee Williams’ timeless masterpiece, returning to cinemas.   As Blanche’s fragile world crumbles, she turns to her sister Stella for solace – but her downward spiral brings her face to face with the brutal, unforgiving Stanley Kowalski.      From visionary director Benedict Andrews, this acclaimed production was filmed live during a sold-out run at the Young Vic Theatre in 2014.",
-      "runtime": 198,
-      "times": [
-        {
-          "starts_at": "2025-06-08T17:00:00+01:00",
+          "starts_at": "2025-06-08T19:40:00+01:00",
           "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-98408/"
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-100261/"
         }
       ]
     },
@@ -375,40 +218,9 @@
       "runtime": 137,
       "times": [
         {
-          "starts_at": "2025-06-08T17:10:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-100190/"
-        },
-        {
           "starts_at": "2025-06-08T20:10:00+01:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-100185/"
-        }
-      ]
-    },
-    {
-      "title": "DocHouse: The Encampments",
-      "trailer": null,
-      "synopsis": "The student protests that ignited at Columbia University in April 2024 made waves around the world. As the institution tried to shut down the Gaza Solidarity Encampment by force, the student movement grew, sparking encampments at hundreds of other campuses across the US.\r\n\r\nWith gripping, ground-level footage and intimate interviews with student leaders, THE ENCAMPMENTS charts the growth of the movement, as the students face police raids, disinformation, media attacks and the strongest of threats from the universities themselves.\r\n\r\nFeaturing detained activist Mahmoud Khalil, alongside professors, whistleblowers, and other student leaders, this timely film captures the deeper stakes of a historic moment that continues to reverberate across the globe.",
-      "runtime": 81,
-      "times": [
-        {
-          "starts_at": "2025-06-08T18:00:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-99553/"
-        }
-      ]
-    },
-    {
-      "title": "DocHouse: The Last Republican",
-      "trailer": null,
-      "synopsis": "US Congressman Adam Kinzinger was the first Republican to hold Donald Trump accountable for the Jan 6th attack on the Capital, jeopardising his career and drawing vitriol from his own party in the process.  \r\n\r\nA champion of conservative values, Kinzinger became an ardent critic of Trump, voting for his impeachment, though it cost him colleagues, friends and family. Hollywood director and comedian Steve Pink - himself a far left progressive - profiles Kinzinger during his last year in Congress as he, seemingly alone amongst Republicans, takes a stand. \r\n\r\nWhile Pink persistently challenges Kinzinger on his political views, he forms a surprisingly humourous friendship with his conservative Christian counterpart.  ",
-      "runtime": 90,
-      "times": [
-        {
-          "starts_at": "2025-06-08T19:40:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-100261/"
         }
       ]
     },
