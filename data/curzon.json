@@ -1,7 +1,4 @@
 {
-  "2025-06-08": [
-
-  ],
   "2025-06-09": [
     {
       "title": "Ballerina",
@@ -3282,6 +3279,44 @@
           "starts_at": "2025-06-15T16:00:00+01:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-99742/"
+        }
+      ]
+    }
+  ],
+  "2025-06-16": [
+    {
+      "title": "How to Train Your Dragon",
+      "trailer": "https://www.youtube.com/watch?v=CS_TVzQpNlg",
+      "synopsis": "From three-time Oscar® nominee and Golden Globe winner Dean DeBlois, the creative visionary behind DreamWorks Animation’s acclaimed How to Train Your Dragon trilogy, comes a stunning live-action reimagining of the film that launched the beloved franchise. \n\nOn the rugged isle of Berk, where Vikings and dragons have been bitter enemies for generations, Hiccup (Mason Thames; The Black Phone, For All Mankind) stands apart. The inventive yet overlooked son of Chief Stoick the Vast (Gerard Butler, reprising his voice role from the animated franchise), Hiccup defies centuries of tradition when he befriends Toothless, a feared Night Fury dragon. Their unlikely bond reveals the true nature of dragons, challenging the very foundations of Viking society. \n\nWith the fierce and ambitious Astrid (BAFTA nominee Nico Parker; Dumbo, The Last of Us) and the village’s quirky blacksmith Gobber (Nick Frost; Snow White and the Huntsman, Shaun of the Dead) by his side, Hiccup confronts a world torn by fear and misunderstanding. \n\nAs an ancient threat emerges, endangering both Vikings and dragons, Hiccup’s friendship with Toothless becomes the key to forging a new future. Together, they must navigate the delicate path toward peace, soaring beyond the boundaries of their worlds and redefining what it means to be a hero and a leader. ",
+      "runtime": 126,
+      "times": [
+        {
+          "starts_at": "2025-06-16T12:00:00+01:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-56880/"
+        },
+        {
+          "starts_at": "2025-06-16T15:00:00+01:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-56879/"
+        },
+        {
+          "starts_at": "2025-06-16T18:00:00+01:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-56878/"
+        }
+      ]
+    },
+    {
+      "title": "Film Club: Tomboy",
+      "trailer": null,
+      "synopsis": "A family moves into a new neighborhood, and a 10-year-old named Laure deliberately presents as a boy named Mikhael to the neighborhood children.",
+      "runtime": 82,
+      "times": [
+        {
+          "starts_at": "2025-06-16T18:00:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-99735/"
         }
       ]
     }
