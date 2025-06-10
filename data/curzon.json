@@ -7,11 +7,6 @@
       "runtime": 170,
       "times": [
         {
-          "starts_at": "2025-06-10T14:10:00+01:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-56938/"
-        },
-        {
           "starts_at": "2025-06-10T17:20:00+01:00",
           "site": "Curzon Aldgate",
           "url": "https://www.curzon.com/ticketing/seats/ALD1-56942/"
@@ -22,29 +17,14 @@
           "url": "https://www.curzon.com/ticketing/seats/ALD1-56945/"
         },
         {
-          "starts_at": "2025-06-10T15:45:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-82146/"
-        },
-        {
           "starts_at": "2025-06-10T19:15:00+01:00",
           "site": "Curzon Victoria",
           "url": "https://www.curzon.com/ticketing/seats/VIC1-82147/"
         },
         {
-          "starts_at": "2025-06-10T16:20:00+01:00",
-          "site": "Curzon Mayfair",
-          "url": "https://www.curzon.com/ticketing/seats/MAY1-30264/"
-        },
-        {
           "starts_at": "2025-06-10T20:00:00+01:00",
           "site": "Curzon Mayfair",
           "url": "https://www.curzon.com/ticketing/seats/MAY1-30263/"
-        },
-        {
-          "starts_at": "2025-06-10T14:50:00+01:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-22191/"
         },
         {
           "starts_at": "2025-06-10T17:40:00+01:00",
@@ -57,183 +37,9 @@
           "url": "https://www.curzon.com/ticketing/seats/CAM1-33334/"
         },
         {
-          "starts_at": "2025-06-10T16:00:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-100141/"
-        },
-        {
           "starts_at": "2025-06-10T20:00:00+01:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-100132/"
-        }
-      ]
-    },
-    {
-      "title": "Ballerina",
-      "trailer": "https://www.youtube.com/watch?v=EcsDV0rWEFc",
-      "synopsis": "Taking place during the events of John Wick: Chapter 3 – Parabellum, the film follows Eve Macarro (Ana de Armas) who is beginning her training in the assassin traditions of the Ruska Roma.",
-      "runtime": 124,
-      "times": [
-        {
-          "starts_at": "2025-06-10T14:30:00+01:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-56939/"
-        },
-        {
-          "starts_at": "2025-06-10T18:00:00+01:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-56857/"
-        },
-        {
-          "starts_at": "2025-06-10T21:10:00+01:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-56858/"
-        },
-        {
-          "starts_at": "2025-06-10T15:15:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-82078/"
-        },
-        {
-          "starts_at": "2025-06-10T18:00:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-82079/"
-        },
-        {
-          "starts_at": "2025-06-10T20:45:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-82080/"
-        },
-        {
-          "starts_at": "2025-06-10T15:30:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-33327/"
-        },
-        {
-          "starts_at": "2025-06-10T17:40:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-33326/"
-        },
-        {
-          "starts_at": "2025-06-10T20:40:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-33325/"
-        }
-      ]
-    },
-    {
-      "title": "The Phoenician Scheme",
-      "trailer": "https://www.youtube.com/watch?v=qRAnphZLAIg",
-      "synopsis": "The story of a family and a family business. Starring: Benicio del Toro as Zsa-zsa Korda, one of the richest men in Europe; Mia Threapleton as Liesl, his daughter/a nun; Michael Cera as Bjorn, their tutor. With: Riz Ahmed, Tom Hanks, Bryan Cranston, Mathieu Amalric, Richard Ayoade, Jeffrey Wright, Scarlett Johansson, Benedict Cumberbatch, Rupert Friend, Hope Davis.",
-      "runtime": 101,
-      "times": [
-        {
-          "starts_at": "2025-06-10T15:10:00+01:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-56940/"
-        },
-        {
-          "starts_at": "2025-06-10T21:30:00+01:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-56947/"
-        },
-        {
-          "starts_at": "2025-06-10T15:40:00+01:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-50288/"
-        },
-        {
-          "starts_at": "2025-06-10T18:20:00+01:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-50289/"
-        },
-        {
-          "starts_at": "2025-06-10T21:10:00+01:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-50287/"
-        },
-        {
-          "starts_at": "2025-06-10T15:00:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-82143/"
-        },
-        {
-          "starts_at": "2025-06-10T21:00:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-82136/"
-        },
-        {
-          "starts_at": "2025-06-10T15:40:00+01:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-22188/"
-        },
-        {
-          "starts_at": "2025-06-10T21:20:00+01:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-22193/"
-        },
-        {
-          "starts_at": "2025-06-10T14:00:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-33336/"
-        },
-        {
-          "starts_at": "2025-06-10T16:20:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-33335/"
-        },
-        {
-          "starts_at": "2025-06-10T18:40:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-33319/"
-        },
-        {
-          "starts_at": "2025-06-10T21:00:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-33329/"
-        },
-        {
-          "starts_at": "2025-06-10T15:10:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-100136/"
-        },
-        {
-          "starts_at": "2025-06-10T17:50:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-100135/"
-        },
-        {
-          "starts_at": "2025-06-10T20:30:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-100127/"
-        }
-      ]
-    },
-    {
-      "title": "How to Train Your Dragon",
-      "trailer": "https://www.youtube.com/watch?v=CS_TVzQpNlg",
-      "synopsis": "From three-time Oscar® nominee and Golden Globe winner Dean DeBlois, the creative visionary behind DreamWorks Animation’s acclaimed How to Train Your Dragon trilogy, comes a stunning live-action reimagining of the film that launched the beloved franchise. \n\nOn the rugged isle of Berk, where Vikings and dragons have been bitter enemies for generations, Hiccup (Mason Thames; The Black Phone, For All Mankind) stands apart. The inventive yet overlooked son of Chief Stoick the Vast (Gerard Butler, reprising his voice role from the animated franchise), Hiccup defies centuries of tradition when he befriends Toothless, a feared Night Fury dragon. Their unlikely bond reveals the true nature of dragons, challenging the very foundations of Viking society. \n\nWith the fierce and ambitious Astrid (BAFTA nominee Nico Parker; Dumbo, The Last of Us) and the village’s quirky blacksmith Gobber (Nick Frost; Snow White and the Huntsman, Shaun of the Dead) by his side, Hiccup confronts a world torn by fear and misunderstanding. \n\nAs an ancient threat emerges, endangering both Vikings and dragons, Hiccup’s friendship with Toothless becomes the key to forging a new future. Together, they must navigate the delicate path toward peace, soaring beyond the boundaries of their worlds and redefining what it means to be a hero and a leader. ",
-      "runtime": 126,
-      "times": [
-        {
-          "starts_at": "2025-06-10T15:30:00+01:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-56989/"
-        },
-        {
-          "starts_at": "2025-06-10T18:20:00+01:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-56988/"
-        },
-        {
-          "starts_at": "2025-06-10T15:30:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-82138/"
-        },
-        {
-          "starts_at": "2025-06-10T18:15:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-82137/"
         }
       ]
     },
@@ -266,6 +72,62 @@
       ]
     },
     {
+      "title": "Ballerina",
+      "trailer": "https://www.youtube.com/watch?v=EcsDV0rWEFc",
+      "synopsis": "Taking place during the events of John Wick: Chapter 3 – Parabellum, the film follows Eve Macarro (Ana de Armas) who is beginning her training in the assassin traditions of the Ruska Roma.",
+      "runtime": 124,
+      "times": [
+        {
+          "starts_at": "2025-06-10T18:00:00+01:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-56857/"
+        },
+        {
+          "starts_at": "2025-06-10T21:10:00+01:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-56858/"
+        },
+        {
+          "starts_at": "2025-06-10T18:00:00+01:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-82079/"
+        },
+        {
+          "starts_at": "2025-06-10T20:45:00+01:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-82080/"
+        },
+        {
+          "starts_at": "2025-06-10T17:40:00+01:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-33326/"
+        },
+        {
+          "starts_at": "2025-06-10T20:40:00+01:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-33325/"
+        }
+      ]
+    },
+    {
+      "title": "How to Train Your Dragon",
+      "trailer": "https://www.youtube.com/watch?v=CS_TVzQpNlg",
+      "synopsis": "From three-time Oscar® nominee and Golden Globe winner Dean DeBlois, the creative visionary behind DreamWorks Animation’s acclaimed How to Train Your Dragon trilogy, comes a stunning live-action reimagining of the film that launched the beloved franchise. \n\nOn the rugged isle of Berk, where Vikings and dragons have been bitter enemies for generations, Hiccup (Mason Thames; The Black Phone, For All Mankind) stands apart. The inventive yet overlooked son of Chief Stoick the Vast (Gerard Butler, reprising his voice role from the animated franchise), Hiccup defies centuries of tradition when he befriends Toothless, a feared Night Fury dragon. Their unlikely bond reveals the true nature of dragons, challenging the very foundations of Viking society. \n\nWith the fierce and ambitious Astrid (BAFTA nominee Nico Parker; Dumbo, The Last of Us) and the village’s quirky blacksmith Gobber (Nick Frost; Snow White and the Huntsman, Shaun of the Dead) by his side, Hiccup confronts a world torn by fear and misunderstanding. \n\nAs an ancient threat emerges, endangering both Vikings and dragons, Hiccup’s friendship with Toothless becomes the key to forging a new future. Together, they must navigate the delicate path toward peace, soaring beyond the boundaries of their worlds and redefining what it means to be a hero and a leader. ",
+      "runtime": 126,
+      "times": [
+        {
+          "starts_at": "2025-06-10T18:20:00+01:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-56988/"
+        },
+        {
+          "starts_at": "2025-06-10T18:15:00+01:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-82137/"
+        }
+      ]
+    },
+    {
       "title": "Sinners",
       "trailer": "https://www.youtube.com/watch?v=4oqCwr_bzHI",
       "synopsis": "Trying to leave their troubled lives behind, twin brothers (Jordan) return to their hometown to start again, only to discover that an even greater evil is waiting to welcome them back.",
@@ -277,29 +139,14 @@
           "url": "https://www.curzon.com/ticketing/seats/ALD1-56946/"
         },
         {
-          "starts_at": "2025-06-10T14:30:00+01:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-50311/"
-        },
-        {
           "starts_at": "2025-06-10T18:00:00+01:00",
           "site": "Curzon Soho",
           "url": "https://www.curzon.com/ticketing/seats/SOH1-50312/"
         },
         {
-          "starts_at": "2025-06-10T15:00:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-33324/"
-        },
-        {
           "starts_at": "2025-06-10T20:00:00+01:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-33321/"
-        },
-        {
-          "starts_at": "2025-06-10T15:00:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-100143/"
         },
         {
           "starts_at": "2025-06-10T20:50:00+01:00",
@@ -309,30 +156,55 @@
       ]
     },
     {
-      "title": "The Piano Teacher Re-Release",
-      "trailer": null,
-      "synopsis": "Academy Award–winning Austrian director Michael Haneke shifted his focus from the social to the psychological for this riveting study of female sexuality and the dynamics of control, an adaptation of a controversial 1983 novel by Elfriede Jelinek. Haneke finds his match in Isabelle Huppert, who delivers an icy but quietly seething performance as Erika, a middle-aged piano professor at a Viennese conservatory who lives with her mother, in a claustrophobically codependent relationship. Severely repressed, she satisfies her masochistic urges only voyeuristically until she meets Walter (Benoît Magimel), a young student whose desire for Erika leads to a destructive infatuation that upsets the careful equilibrium of her life. A critical breakthrough for Haneke, The Piano Teacher—which won the Grand Prix as well as dual acting awards for its stars at Cannes—is a formalist masterwork that remains a shocking sensation.",
-      "runtime": 131,
+      "title": "The Phoenician Scheme",
+      "trailer": "https://www.youtube.com/watch?v=qRAnphZLAIg",
+      "synopsis": "The story of a family and a family business. Starring: Benicio del Toro as Zsa-zsa Korda, one of the richest men in Europe; Mia Threapleton as Liesl, his daughter/a nun; Michael Cera as Bjorn, their tutor. With: Riz Ahmed, Tom Hanks, Bryan Cranston, Mathieu Amalric, Richard Ayoade, Jeffrey Wright, Scarlett Johansson, Benedict Cumberbatch, Rupert Friend, Hope Davis.",
+      "runtime": 101,
       "times": [
         {
-          "starts_at": "2025-06-10T15:00:00+01:00",
+          "starts_at": "2025-06-10T21:30:00+01:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-56947/"
+        },
+        {
+          "starts_at": "2025-06-10T18:20:00+01:00",
           "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-50299/"
+          "url": "https://www.curzon.com/ticketing/seats/SOH1-50289/"
         },
         {
-          "starts_at": "2025-06-10T20:40:00+01:00",
+          "starts_at": "2025-06-10T21:10:00+01:00",
+          "site": "Curzon Soho",
+          "url": "https://www.curzon.com/ticketing/seats/SOH1-50287/"
+        },
+        {
+          "starts_at": "2025-06-10T21:00:00+01:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-82136/"
+        },
+        {
+          "starts_at": "2025-06-10T21:20:00+01:00",
           "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-22183/"
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-22193/"
         },
         {
-          "starts_at": "2025-06-10T20:20:00+01:00",
+          "starts_at": "2025-06-10T18:40:00+01:00",
           "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-33337/"
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-33319/"
         },
         {
-          "starts_at": "2025-06-10T18:00:00+01:00",
+          "starts_at": "2025-06-10T21:00:00+01:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-33329/"
+        },
+        {
+          "starts_at": "2025-06-10T17:50:00+01:00",
           "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-100134/"
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-100135/"
+        },
+        {
+          "starts_at": "2025-06-10T20:30:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-100127/"
         }
       ]
     },
@@ -373,29 +245,6 @@
       ]
     },
     {
-      "title": "Lilo & Stitch",
-      "trailer": "https://www.youtube.com/watch?v=8SBLkgpQ99U",
-      "synopsis": "A live-action reimagining of Disney’s 2002 animated classic, “Lilo & Stitch” is the wildly funny and touching story of a lonely Hawaiian girl and the fugitive alien who helps to mend her broken family. Directed by Dean Fleischer Camp, the Oscar®-nominated filmmaker behind the animated feature film “Marcel the Shell with Shoes On,” the film stars Sydney Elizebeth Agudong, Billy Magnussen, Tia Carrere, Hannah Waddingham, Chris Sanders, with Courtney B. Vance, and Zach Galifianakis, introducing Maia Kealoha. “Lilo & Stitch” is produced by Jonathan Eirich, p.g.a. and Dan Lin, with Louie Provost, Tom Peitzman and Ryan Halprin serving as executive producers.",
-      "runtime": 108,
-      "times": [
-        {
-          "starts_at": "2025-06-10T14:45:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-82149/"
-        },
-        {
-          "starts_at": "2025-06-10T17:45:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-82151/"
-        },
-        {
-          "starts_at": "2025-06-10T21:15:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-82148/"
-        }
-      ]
-    },
-    {
       "title": "NT Live: A Streetcar Named Desire",
       "trailer": "https://www.youtube.com/watch?v=l0SOh95iunE",
       "synopsis": "Gillian Anderson (Sex Education), Vanessa Kirby (The Crown), and Ben Foster (Lone Survivor) lead the cast in Tennessee Williams’ timeless masterpiece, returning to cinemas.   As Blanche’s fragile world crumbles, she turns to her sister Stella for solace – but her downward spiral brings her face to face with the brutal, unforgiving Stanley Kowalski.      From visionary director Benedict Andrews, this acclaimed production was filmed live during a sold-out run at the Young Vic Theatre in 2014.",
@@ -405,6 +254,24 @@
           "starts_at": "2025-06-10T17:20:00+01:00",
           "site": "Curzon Victoria",
           "url": "https://www.curzon.com/ticketing/seats/VIC1-80473/"
+        }
+      ]
+    },
+    {
+      "title": "Lilo & Stitch",
+      "trailer": "https://www.youtube.com/watch?v=8SBLkgpQ99U",
+      "synopsis": "A live-action reimagining of Disney’s 2002 animated classic, “Lilo & Stitch” is the wildly funny and touching story of a lonely Hawaiian girl and the fugitive alien who helps to mend her broken family. Directed by Dean Fleischer Camp, the Oscar®-nominated filmmaker behind the animated feature film “Marcel the Shell with Shoes On,” the film stars Sydney Elizebeth Agudong, Billy Magnussen, Tia Carrere, Hannah Waddingham, Chris Sanders, with Courtney B. Vance, and Zach Galifianakis, introducing Maia Kealoha. “Lilo & Stitch” is produced by Jonathan Eirich, p.g.a. and Dan Lin, with Louie Provost, Tom Peitzman and Ryan Halprin serving as executive producers.",
+      "runtime": 108,
+      "times": [
+        {
+          "starts_at": "2025-06-10T17:45:00+01:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-82151/"
+        },
+        {
+          "starts_at": "2025-06-10T21:15:00+01:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-82148/"
         }
       ]
     },
@@ -420,32 +287,9 @@
           "url": "https://www.curzon.com/ticketing/seats/VIC1-82141/"
         },
         {
-          "starts_at": "2025-06-10T15:15:00+01:00",
-          "site": "Curzon Mayfair",
-          "url": "https://www.curzon.com/ticketing/seats/MAY1-30260/"
-        },
-        {
           "starts_at": "2025-06-10T20:50:00+01:00",
           "site": "Curzon Mayfair",
           "url": "https://www.curzon.com/ticketing/seats/MAY1-30259/"
-        }
-      ]
-    },
-    {
-      "title": "Dangerous Animals",
-      "trailer": null,
-      "synopsis": "When Zephyr, a savvy and free-spirited surfer, is abducted by a shark-obsessed serial killer and held captive on his boat, she must figure out how to escape before he carries out a ritualistic feeding to the sharks below.",
-      "runtime": 98,
-      "times": [
-        {
-          "starts_at": "2025-06-10T15:10:00+01:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-22186/"
-        },
-        {
-          "starts_at": "2025-06-10T21:00:00+01:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-22184/"
         }
       ]
     },
@@ -463,20 +307,38 @@
       ]
     },
     {
-      "title": "Ocean With David Attenborough",
-      "trailer": "https://www.youtube.com/watch?v=cIZAdCtKT_g",
-      "synopsis": "OCEAN WITH DAVID ATTENBOROUGH takes viewers on a breathtaking journey showing there is nowhere more vital for our survival, more full of life, wonder, or surprise, than the ocean.\n\nThe celebrated broadcaster and filmmaker reveals how his lifetime has coincided with the great age of ocean discovery. Through spectacular sequences featuring coral reefs, kelp forests and the open ocean, Attenborough shares why a healthy ocean keeps the entire planet stable and flourishing.\n\nStunning, immersive cinematography showcases the wonder of life under the seas and exposes the realities and challenges facing our ocean as never-before-seen, from destructive fishing techniques to mass coral reef bleaching. Yet the story is one of optimism, with Attenborough pointing to inspirational stories from around the world to deliver his greatest message: the ocean can recover to a glory beyond anything anyone alive has ever seen.\n\nScreening in cinemas with theatrically exclusive footage.",
-      "runtime": 85,
+      "title": "The Piano Teacher Re-Release",
+      "trailer": null,
+      "synopsis": "Academy Award–winning Austrian director Michael Haneke shifted his focus from the social to the psychological for this riveting study of female sexuality and the dynamics of control, an adaptation of a controversial 1983 novel by Elfriede Jelinek. Haneke finds his match in Isabelle Huppert, who delivers an icy but quietly seething performance as Erika, a middle-aged piano professor at a Viennese conservatory who lives with her mother, in a claustrophobically codependent relationship. Severely repressed, she satisfies her masochistic urges only voyeuristically until she meets Walter (Benoît Magimel), a young student whose desire for Erika leads to a destructive infatuation that upsets the careful equilibrium of her life. A critical breakthrough for Haneke, The Piano Teacher—which won the Grand Prix as well as dual acting awards for its stars at Cannes—is a formalist masterwork that remains a shocking sensation.",
+      "runtime": 131,
       "times": [
         {
-          "starts_at": "2025-06-10T15:15:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-33339/"
+          "starts_at": "2025-06-10T20:40:00+01:00",
+          "site": "Curzon Hoxton",
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-22183/"
         },
         {
-          "starts_at": "2025-06-10T18:20:00+01:00",
+          "starts_at": "2025-06-10T20:20:00+01:00",
           "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-33338/"
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-33337/"
+        },
+        {
+          "starts_at": "2025-06-10T18:00:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-100134/"
+        }
+      ]
+    },
+    {
+      "title": "Dangerous Animals",
+      "trailer": null,
+      "synopsis": "When Zephyr, a savvy and free-spirited surfer, is abducted by a shark-obsessed serial killer and held captive on his boat, she must figure out how to escape before he carries out a ritualistic feeding to the sharks below.",
+      "runtime": 98,
+      "times": [
+        {
+          "starts_at": "2025-06-10T21:00:00+01:00",
+          "site": "Curzon Hoxton",
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-22184/"
         }
       ]
     },
@@ -494,15 +356,15 @@
       ]
     },
     {
-      "title": "DocHouse: Riefenstahl",
-      "trailer": null,
-      "synopsis": "Explores Leni Riefenstahl's artistic legacy and her complex ties to the Nazi regime, juxtaposing her self-portrayal with evidence suggesting awareness of the regime's atrocities.",
-      "runtime": 115,
+      "title": "Ocean With David Attenborough",
+      "trailer": "https://www.youtube.com/watch?v=cIZAdCtKT_g",
+      "synopsis": "OCEAN WITH DAVID ATTENBOROUGH takes viewers on a breathtaking journey showing there is nowhere more vital for our survival, more full of life, wonder, or surprise, than the ocean.\n\nThe celebrated broadcaster and filmmaker reveals how his lifetime has coincided with the great age of ocean discovery. Through spectacular sequences featuring coral reefs, kelp forests and the open ocean, Attenborough shares why a healthy ocean keeps the entire planet stable and flourishing.\n\nStunning, immersive cinematography showcases the wonder of life under the seas and exposes the realities and challenges facing our ocean as never-before-seen, from destructive fishing techniques to mass coral reef bleaching. Yet the story is one of optimism, with Attenborough pointing to inspirational stories from around the world to deliver his greatest message: the ocean can recover to a glory beyond anything anyone alive has ever seen.\n\nScreening in cinemas with theatrically exclusive footage.",
+      "runtime": 85,
       "times": [
         {
-          "starts_at": "2025-06-10T14:00:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-100265/"
+          "starts_at": "2025-06-10T18:20:00+01:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-33338/"
         }
       ]
     },
@@ -513,11 +375,6 @@
       "runtime": 137,
       "times": [
         {
-          "starts_at": "2025-06-10T14:40:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-100139/"
-        },
-        {
           "starts_at": "2025-06-10T17:40:00+01:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-100138/"
@@ -526,32 +383,6 @@
           "starts_at": "2025-06-10T20:40:00+01:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-100128/"
-        }
-      ]
-    },
-    {
-      "title": "Motel Destino",
-      "trailer": "https://www.youtube.com/watch?v=NyMf7If-vQA",
-      "synopsis": "The unexpected arrival of 21-year-old Heraldo, on the run after a botched hit, disrupts the established order at Motel Destino, a roadside sex hotel steaming under the burning blue skies of Brazil, run by hot-headed Elias and his restless younger wife Dayana.",
-      "runtime": 115,
-      "times": [
-        {
-          "starts_at": "2025-06-10T15:20:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-100130/"
-        }
-      ]
-    },
-    {
-      "title": "DocHouse: Burden of Dreams",
-      "trailer": null,
-      "synopsis": "For five years, Werner Herzog desperately tried to complete FITZCARRALDO, despite every possible setback, an evermore unhinged Klaus Kinski and his own diehard insistence on hauling a steamship over a mountain. \r\n\r\nLuckily, Les Blank captured it all in this riveting account of the whole crazed process, from losing cast members (Jason Robards Jr., Mick Jagger), to a prop ship trapped in rapids, and Herzog haranguing hundreds of indigenous people to pull the 320-ton steamship up a muddy mountain. Anchored by an as-it-was-happening interview with Herzog himself, BURDEN OF DREAMS is a wild insight into his unflinching vision and the lengths he would go to to realise it.",
-      "runtime": 94,
-      "times": [
-        {
-          "starts_at": "2025-06-10T16:20:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-100266/"
         }
       ]
     },
