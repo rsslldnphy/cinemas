@@ -7,19 +7,9 @@
       "runtime": 126,
       "times": [
         {
-          "starts_at": "2025-06-20T14:00:00+01:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-57279/"
-        },
-        {
           "starts_at": "2025-06-20T17:00:00+01:00",
           "site": "Curzon Aldgate",
           "url": "https://www.curzon.com/ticketing/seats/ALD1-57278/"
-        },
-        {
-          "starts_at": "2025-06-20T14:45:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-82023/"
         },
         {
           "starts_at": "2025-06-20T20:20:00+01:00",
@@ -29,15 +19,25 @@
       ]
     },
     {
-      "title": "Ballerina",
-      "trailer": "https://www.youtube.com/watch?v=EcsDV0rWEFc",
-      "synopsis": "Taking place during the events of John Wick: Chapter 3 – Parabellum, the film follows Eve Macarro (Ana de Armas) who is beginning her training in the assassin traditions of the Ruska Roma.",
-      "runtime": 124,
+      "title": "Sinners",
+      "trailer": "https://www.youtube.com/watch?v=4oqCwr_bzHI",
+      "synopsis": "Trying to leave their troubled lives behind, twin brothers (Jordan) return to their hometown to start again, only to discover that an even greater evil is waiting to welcome them back.",
+      "runtime": 137,
       "times": [
         {
-          "starts_at": "2025-06-20T14:20:00+01:00",
+          "starts_at": "2025-06-20T17:20:00+01:00",
           "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-57273/"
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-57274/"
+        },
+        {
+          "starts_at": "2025-06-20T19:50:00+01:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-33637/"
+        },
+        {
+          "starts_at": "2025-06-20T17:30:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-100490/"
         }
       ]
     },
@@ -47,16 +47,6 @@
       "synopsis": "Academy Award®-winning director Danny Boyle and Academy Award®-nominated writer Alex Garland reunite for 28 Years Later, a terrifying new story set in the world created by 28 Days Later. It’s been almost three decades since the rage virus escaped a biological weapons laboratory, and now, still in a ruthlessly enforced quarantine, some have found ways to exist amidst the infected. One such group of survivors lives on a small island connected to the mainland by a single, heavily-defended causeway. When one of the group leaves the island on a mission into the dark heart of the mainland, he discovers secrets, wonders, and horrors that have mutated not only the infected but other survivors as well.",
       "runtime": 115,
       "times": [
-        {
-          "starts_at": "2025-06-20T15:20:00+01:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-57253/"
-        },
-        {
-          "starts_at": "2025-06-20T16:00:00+01:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-57280/"
-        },
         {
           "starts_at": "2025-06-20T18:00:00+01:00",
           "site": "Curzon Aldgate",
@@ -83,11 +73,6 @@
           "url": "https://www.curzon.com/ticketing/seats/ALD1-57271/"
         },
         {
-          "starts_at": "2025-06-20T15:00:00+01:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-50142/"
-        },
-        {
           "starts_at": "2025-06-20T18:00:00+01:00",
           "site": "Curzon Soho",
           "url": "https://www.curzon.com/ticketing/seats/SOH1-50141/"
@@ -96,11 +81,6 @@
           "starts_at": "2025-06-20T20:40:00+01:00",
           "site": "Curzon Soho",
           "url": "https://www.curzon.com/ticketing/seats/SOH1-50144/"
-        },
-        {
-          "starts_at": "2025-06-20T15:20:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-82018/"
         },
         {
           "starts_at": "2025-06-20T18:00:00+01:00",
@@ -113,11 +93,6 @@
           "url": "https://www.curzon.com/ticketing/seats/VIC1-81744/"
         },
         {
-          "starts_at": "2025-06-20T15:20:00+01:00",
-          "site": "Curzon Mayfair",
-          "url": "https://www.curzon.com/ticketing/seats/MAY1-30375/"
-        },
-        {
           "starts_at": "2025-06-20T18:00:00+01:00",
           "site": "Curzon Mayfair",
           "url": "https://www.curzon.com/ticketing/seats/MAY1-30297/"
@@ -126,11 +101,6 @@
           "starts_at": "2025-06-20T20:40:00+01:00",
           "site": "Curzon Mayfair",
           "url": "https://www.curzon.com/ticketing/seats/MAY1-30168/"
-        },
-        {
-          "starts_at": "2025-06-20T15:40:00+01:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-22325/"
         },
         {
           "starts_at": "2025-06-20T18:20:00+01:00",
@@ -143,11 +113,6 @@
           "url": "https://www.curzon.com/ticketing/seats/HOX1-22103/"
         },
         {
-          "starts_at": "2025-06-20T15:10:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-33106/"
-        },
-        {
           "starts_at": "2025-06-20T18:00:00+01:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-33105/"
@@ -156,11 +121,6 @@
           "starts_at": "2025-06-20T20:50:00+01:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-33104/"
-        },
-        {
-          "starts_at": "2025-06-20T15:10:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-100477/"
         },
         {
           "starts_at": "2025-06-20T18:00:00+01:00",
@@ -175,34 +135,6 @@
       ]
     },
     {
-      "title": "Sinners",
-      "trailer": "https://www.youtube.com/watch?v=4oqCwr_bzHI",
-      "synopsis": "Trying to leave their troubled lives behind, twin brothers (Jordan) return to their hometown to start again, only to discover that an even greater evil is waiting to welcome them back.",
-      "runtime": 137,
-      "times": [
-        {
-          "starts_at": "2025-06-20T17:20:00+01:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-57274/"
-        },
-        {
-          "starts_at": "2025-06-20T14:20:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-33649/"
-        },
-        {
-          "starts_at": "2025-06-20T19:50:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-33637/"
-        },
-        {
-          "starts_at": "2025-06-20T17:30:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-100490/"
-        }
-      ]
-    },
-    {
       "title": "Mission: Impossible - The Final Reckoning",
       "trailer": "https://www.youtube.com/watch?v=CUAQn2P13yY",
       "synopsis": "Light the fuse because Tom Cruise's world-saving super spy Ethan Hunt is back to complete a mission for the ages alongside Simon Pegg, Ving Rhames and Hayley Atwell. This propulsive action-adventure demands to be seen on the big screen.    ",
@@ -212,11 +144,6 @@
           "starts_at": "2025-06-20T20:20:00+01:00",
           "site": "Curzon Aldgate",
           "url": "https://www.curzon.com/ticketing/seats/ALD1-57276/"
-        },
-        {
-          "starts_at": "2025-06-20T16:15:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-82520/"
         },
         {
           "starts_at": "2025-06-20T19:45:00+01:00",
@@ -236,25 +163,38 @@
       ]
     },
     {
+      "title": "The Ballad of Wallis Island",
+      "trailer": "https://www.youtube.com/watch?v=T9smxlnKNz0",
+      "synopsis": "Eccentric lottery winner Charles dreams of getting his favorite musicians, McGwyer Mortimer, back together. The fantasy becomes real when the bandmates and former lovers agree to play a private show at his home on Wallis Island. Old tensions resurface as Charles tries desperately to salvage his dream gig.",
+      "runtime": 100,
+      "times": [
+        {
+          "starts_at": "2025-06-20T18:15:00+01:00",
+          "site": "Curzon Soho",
+          "url": "https://www.curzon.com/ticketing/seats/SOH1-50485/"
+        },
+        {
+          "starts_at": "2025-06-20T18:50:00+01:00",
+          "site": "Curzon Hoxton",
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-22331/"
+        },
+        {
+          "starts_at": "2025-06-20T20:30:00+01:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-33639/"
+        }
+      ]
+    },
+    {
       "title": "The Phoenician Scheme",
       "trailer": "https://www.youtube.com/watch?v=qRAnphZLAIg",
       "synopsis": "The story of a family and a family business. Starring: Benicio del Toro as Zsa-zsa Korda, one of the richest men in Europe; Mia Threapleton as Liesl, his daughter/a nun; Michael Cera as Bjorn, their tutor. With: Riz Ahmed, Tom Hanks, Bryan Cranston, Mathieu Amalric, Richard Ayoade, Jeffrey Wright, Scarlett Johansson, Benedict Cumberbatch, Rupert Friend, Hope Davis.",
       "runtime": 101,
       "times": [
         {
-          "starts_at": "2025-06-20T15:30:00+01:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-50472/"
-        },
-        {
           "starts_at": "2025-06-20T18:40:00+01:00",
           "site": "Curzon Soho",
           "url": "https://www.curzon.com/ticketing/seats/SOH1-50489/"
-        },
-        {
-          "starts_at": "2025-06-20T16:00:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-82412/"
         },
         {
           "starts_at": "2025-06-20T18:30:00+01:00",
@@ -265,11 +205,6 @@
           "starts_at": "2025-06-20T21:00:00+01:00",
           "site": "Curzon Victoria",
           "url": "https://www.curzon.com/ticketing/seats/VIC1-82410/"
-        },
-        {
-          "starts_at": "2025-06-20T14:00:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-33643/"
         },
         {
           "starts_at": "2025-06-20T16:30:00+01:00",
@@ -287,11 +222,6 @@
           "url": "https://www.curzon.com/ticketing/seats/CAM1-33636/"
         },
         {
-          "starts_at": "2025-06-20T15:50:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-100493/"
-        },
-        {
           "starts_at": "2025-06-20T18:10:00+01:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-100492/"
@@ -300,67 +230,6 @@
           "starts_at": "2025-06-20T20:40:00+01:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-100491/"
-        }
-      ]
-    },
-    {
-      "title": "Hidden (Caché)",
-      "trailer": null,
-      "synopsis": "A married couple is terrorized by a series of surveillance videotapes left on their front porch.",
-      "runtime": 118,
-      "times": [
-        {
-          "starts_at": "2025-06-20T15:50:00+01:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-50474/"
-        },
-        {
-          "starts_at": "2025-06-20T17:20:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-33640/"
-        },
-        {
-          "starts_at": "2025-06-20T14:50:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-100489/"
-        },
-        {
-          "starts_at": "2025-06-20T17:40:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-100632/"
-        },
-        {
-          "starts_at": "2025-06-20T20:30:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-100488/"
-        }
-      ]
-    },
-    {
-      "title": "The Ballad of Wallis Island",
-      "trailer": "https://www.youtube.com/watch?v=T9smxlnKNz0",
-      "synopsis": "Eccentric lottery winner Charles dreams of getting his favorite musicians, McGwyer Mortimer, back together. The fantasy becomes real when the bandmates and former lovers agree to play a private show at his home on Wallis Island. Old tensions resurface as Charles tries desperately to salvage his dream gig.",
-      "runtime": 100,
-      "times": [
-        {
-          "starts_at": "2025-06-20T18:15:00+01:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-50485/"
-        },
-        {
-          "starts_at": "2025-06-20T15:20:00+01:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-22333/"
-        },
-        {
-          "starts_at": "2025-06-20T18:50:00+01:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-22331/"
-        },
-        {
-          "starts_at": "2025-06-20T20:30:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-33639/"
         }
       ]
     },
@@ -399,16 +268,6 @@
           "url": "https://www.curzon.com/ticketing/seats/HOX1-22327/"
         },
         {
-          "starts_at": "2025-06-20T16:10:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-33648/"
-        },
-        {
-          "starts_at": "2025-06-20T15:40:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-100482/"
-        },
-        {
           "starts_at": "2025-06-20T21:10:00+01:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-100479/"
@@ -421,11 +280,6 @@
       "synopsis": "Elio struggles to fit in until he is transported by aliens and becomes the chosen one to be Earth's galactic ambassador while his mother Olga works on the top-secret project to decode alien messages.",
       "runtime": 98,
       "times": [
-        {
-          "starts_at": "2025-06-20T15:00:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-81747/"
-        },
         {
           "starts_at": "2025-06-20T17:30:00+01:00",
           "site": "Curzon Victoria",
@@ -448,19 +302,6 @@
           "starts_at": "2025-06-20T17:45:00+01:00",
           "site": "Curzon Victoria",
           "url": "https://www.curzon.com/ticketing/seats/VIC1-82022/"
-        }
-      ]
-    },
-    {
-      "title": "The Salt Path",
-      "trailer": "https://www.youtube.com/watch?v=UQ7RJCOm-c8",
-      "synopsis": "THE SALT PATH is the profound true story of husband and wife, Raynor and Moth Winn’s 630-mile trek along the beautiful but rugged Cornish, Devon and Dorset coastline. After being forcibly removed from their home, they make the desperate decision to walk in the hope that, in nature, they will find solace and a sense of acceptance. With depleted resources, only a tent and some essentials between them, every step along the path is a testament to their growing strength and determination. THE SALT PATH is a journey that is exhilarating, challenging, and liberating in equal measure. A portrayal of home, how it can be lost and rediscovered in the most unexpected ways.",
-      "runtime": 115,
-      "times": [
-        {
-          "starts_at": "2025-06-20T14:45:00+01:00",
-          "site": "Curzon Mayfair",
-          "url": "https://www.curzon.com/ticketing/seats/MAY1-30379/"
         }
       ]
     },
@@ -496,16 +337,34 @@
       ]
     },
     {
+      "title": "Hidden (Caché)",
+      "trailer": null,
+      "synopsis": "A married couple is terrorized by a series of surveillance videotapes left on their front porch.",
+      "runtime": 118,
+      "times": [
+        {
+          "starts_at": "2025-06-20T17:20:00+01:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-33640/"
+        },
+        {
+          "starts_at": "2025-06-20T17:40:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-100632/"
+        },
+        {
+          "starts_at": "2025-06-20T20:30:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-100488/"
+        }
+      ]
+    },
+    {
       "title": "Ocean With David Attenborough",
       "trailer": "https://www.youtube.com/watch?v=cIZAdCtKT_g",
       "synopsis": "OCEAN WITH DAVID ATTENBOROUGH takes viewers on a breathtaking journey showing there is nowhere more vital for our survival, more full of life, wonder, or surprise, than the ocean.\n\nThe celebrated broadcaster and filmmaker reveals how his lifetime has coincided with the great age of ocean discovery. Through spectacular sequences featuring coral reefs, kelp forests and the open ocean, Attenborough shares why a healthy ocean keeps the entire planet stable and flourishing.\n\nStunning, immersive cinematography showcases the wonder of life under the seas and exposes the realities and challenges facing our ocean as never-before-seen, from destructive fishing techniques to mass coral reef bleaching. Yet the story is one of optimism, with Attenborough pointing to inspirational stories from around the world to deliver his greatest message: the ocean can recover to a glory beyond anything anyone alive has ever seen.\n\nScreening in cinemas with theatrically exclusive footage.",
       "runtime": 85,
       "times": [
-        {
-          "starts_at": "2025-06-20T15:30:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-33645/"
-        },
         {
           "starts_at": "2025-06-20T18:20:00+01:00",
           "site": "Curzon Camden",
@@ -515,37 +374,6 @@
           "starts_at": "2025-06-20T20:10:00+01:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-33635/"
-        }
-      ]
-    },
-    {
-      "title": "DocHouse: The Encampments",
-      "trailer": null,
-      "synopsis": "The student protests that ignited at Columbia University in April 2024 made waves around the world. As the institution tried to shut down the Gaza Solidarity Encampment by force, the student movement grew, sparking encampments at hundreds of other campuses across the US.\r\n\r\nWith gripping, ground-level footage and intimate interviews with student leaders, THE ENCAMPMENTS charts the growth of the movement, as the students face police raids, disinformation, media attacks and the strongest of threats from the universities themselves.\r\n\r\nFeaturing detained activist Mahmoud Khalil, alongside professors, whistleblowers, and other student leaders, this timely film captures the deeper stakes of a historic moment that continues to reverberate across the globe.",
-      "runtime": 81,
-      "times": [
-        {
-          "starts_at": "2025-06-20T15:00:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-100598/"
-        }
-      ]
-    },
-    {
-      "title": "Lollipop",
-      "trailer": null,
-      "synopsis": "Molly, a young woman released from prison struggles to regain custody of her children. When she bumps into her childhood friend Amina the two women soon realize their only chance is to join forces and take destiny into their own hands.",
-      "runtime": 100,
-      "times": [
-        {
-          "starts_at": "2025-06-20T15:20:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-100486/"
-        },
-        {
-          "starts_at": "2025-06-20T21:00:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-100483/"
         }
       ]
     },
@@ -585,6 +413,19 @@
           "starts_at": "2025-06-20T20:10:00+01:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-100116/"
+        }
+      ]
+    },
+    {
+      "title": "Lollipop",
+      "trailer": null,
+      "synopsis": "Molly, a young woman released from prison struggles to regain custody of her children. When she bumps into her childhood friend Amina the two women soon realize their only chance is to join forces and take destiny into their own hands.",
+      "runtime": 100,
+      "times": [
+        {
+          "starts_at": "2025-06-20T21:00:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-100483/"
         }
       ]
     }
