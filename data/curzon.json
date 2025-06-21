@@ -7,11 +7,6 @@
       "runtime": 126,
       "times": [
         {
-          "starts_at": "2025-06-21T11:10:00+01:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-57257/"
-        },
-        {
           "starts_at": "2025-06-21T14:00:00+01:00",
           "site": "Curzon Aldgate",
           "url": "https://www.curzon.com/ticketing/seats/ALD1-57260/"
@@ -20,11 +15,6 @@
           "starts_at": "2025-06-21T17:00:00+01:00",
           "site": "Curzon Aldgate",
           "url": "https://www.curzon.com/ticketing/seats/ALD1-57261/"
-        },
-        {
-          "starts_at": "2025-06-21T12:00:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-82620/"
         },
         {
           "starts_at": "2025-06-21T14:45:00+01:00",
@@ -39,21 +29,34 @@
       ]
     },
     {
+      "title": "Sinners",
+      "trailer": "https://www.youtube.com/watch?v=4oqCwr_bzHI",
+      "synopsis": "Trying to leave their troubled lives behind, twin brothers (Jordan) return to their hometown to start again, only to discover that an even greater evil is waiting to welcome them back.",
+      "runtime": 137,
+      "times": [
+        {
+          "starts_at": "2025-06-21T14:20:00+01:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-57265/"
+        },
+        {
+          "starts_at": "2025-06-21T14:20:00+01:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-33682/"
+        },
+        {
+          "starts_at": "2025-06-21T19:50:00+01:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-33668/"
+        }
+      ]
+    },
+    {
       "title": "28 Years Later",
       "trailer": "https://www.youtube.com/watch?v=poEFz8Ivzug",
       "synopsis": "Academy Award®-winning director Danny Boyle and Academy Award®-nominated writer Alex Garland reunite for 28 Years Later, a terrifying new story set in the world created by 28 Days Later. It’s been almost three decades since the rage virus escaped a biological weapons laboratory, and now, still in a ruthlessly enforced quarantine, some have found ways to exist amidst the infected. One such group of survivors lives on a small island connected to the mainland by a single, heavily-defended causeway. When one of the group leaves the island on a mission into the dark heart of the mainland, he discovers secrets, wonders, and horrors that have mutated not only the infected but other survivors as well.",
       "runtime": 115,
       "times": [
-        {
-          "starts_at": "2025-06-21T11:40:00+01:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-57267/"
-        },
-        {
-          "starts_at": "2025-06-21T12:40:00+01:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-56995/"
-        },
         {
           "starts_at": "2025-06-21T15:20:00+01:00",
           "site": "Curzon Aldgate",
@@ -90,11 +93,6 @@
           "url": "https://www.curzon.com/ticketing/seats/ALD1-57255/"
         },
         {
-          "starts_at": "2025-06-21T12:40:00+01:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-50148/"
-        },
-        {
           "starts_at": "2025-06-21T15:20:00+01:00",
           "site": "Curzon Soho",
           "url": "https://www.curzon.com/ticketing/seats/SOH1-50147/"
@@ -108,11 +106,6 @@
           "starts_at": "2025-06-21T21:20:00+01:00",
           "site": "Curzon Soho",
           "url": "https://www.curzon.com/ticketing/seats/SOH1-50145/"
-        },
-        {
-          "starts_at": "2025-06-21T12:30:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-82526/"
         },
         {
           "starts_at": "2025-06-21T15:20:00+01:00",
@@ -130,11 +123,6 @@
           "url": "https://www.curzon.com/ticketing/seats/VIC1-81760/"
         },
         {
-          "starts_at": "2025-06-21T12:40:00+01:00",
-          "site": "Curzon Mayfair",
-          "url": "https://www.curzon.com/ticketing/seats/MAY1-30386/"
-        },
-        {
           "starts_at": "2025-06-21T15:20:00+01:00",
           "site": "Curzon Mayfair",
           "url": "https://www.curzon.com/ticketing/seats/MAY1-30385/"
@@ -148,16 +136,6 @@
           "starts_at": "2025-06-21T20:40:00+01:00",
           "site": "Curzon Mayfair",
           "url": "https://www.curzon.com/ticketing/seats/MAY1-30169/"
-        },
-        {
-          "starts_at": "2025-06-21T11:20:00+01:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-22393/"
-        },
-        {
-          "starts_at": "2025-06-21T13:00:00+01:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-22343/"
         },
         {
           "starts_at": "2025-06-21T15:40:00+01:00",
@@ -175,16 +153,6 @@
           "url": "https://www.curzon.com/ticketing/seats/HOX1-22104/"
         },
         {
-          "starts_at": "2025-06-21T11:20:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-33684/"
-        },
-        {
-          "starts_at": "2025-06-21T12:30:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-33113/"
-        },
-        {
           "starts_at": "2025-06-21T15:10:00+01:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-33114/"
@@ -198,11 +166,6 @@
           "starts_at": "2025-06-21T20:50:00+01:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-33116/"
-        },
-        {
-          "starts_at": "2025-06-21T12:40:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-100544/"
         },
         {
           "starts_at": "2025-06-21T16:10:00+01:00",
@@ -228,19 +191,9 @@
       "runtime": 170,
       "times": [
         {
-          "starts_at": "2025-06-21T12:20:00+01:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-57264/"
-        },
-        {
           "starts_at": "2025-06-21T17:20:00+01:00",
           "site": "Curzon Aldgate",
           "url": "https://www.curzon.com/ticketing/seats/ALD1-57263/"
-        },
-        {
-          "starts_at": "2025-06-21T12:15:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-82531/"
         },
         {
           "starts_at": "2025-06-21T16:15:00+01:00",
@@ -258,37 +211,9 @@
           "url": "https://www.curzon.com/ticketing/seats/MAY1-30382/"
         },
         {
-          "starts_at": "2025-06-21T11:40:00+01:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-22339/"
-        },
-        {
           "starts_at": "2025-06-21T20:10:00+01:00",
           "site": "Curzon Hoxton",
           "url": "https://www.curzon.com/ticketing/seats/HOX1-22341/"
-        }
-      ]
-    },
-    {
-      "title": "Sinners",
-      "trailer": "https://www.youtube.com/watch?v=4oqCwr_bzHI",
-      "synopsis": "Trying to leave their troubled lives behind, twin brothers (Jordan) return to their hometown to start again, only to discover that an even greater evil is waiting to welcome them back.",
-      "runtime": 137,
-      "times": [
-        {
-          "starts_at": "2025-06-21T14:20:00+01:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-57265/"
-        },
-        {
-          "starts_at": "2025-06-21T14:20:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-33682/"
-        },
-        {
-          "starts_at": "2025-06-21T19:50:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-33668/"
         }
       ]
     },
@@ -311,11 +236,6 @@
       "synopsis": "Set in the rugged landscape of 1790’s Britain, Tornado (played by model-songwriter Koki,) finds herself caught in a perilous situation when she and her father’s travelling puppet show crosses paths with a ruthless criminal gang led by Sugarman (PULP FICTION star Tim Roth) and his ambitious son Little Sugar (SLOW HORSES’ Jack Lowden). In an attempt to create a new life, Tornado seizes the opportunity to steal the gold from the gang’s most recent heist; what follows is a thrilling tale of adrenaline-fueled action as Tornado fights to escape a violent demise.",
       "runtime": 91,
       "times": [
-        {
-          "starts_at": "2025-06-21T11:00:00+01:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-50529/"
-        },
         {
           "starts_at": "2025-06-21T15:00:00+01:00",
           "site": "Curzon Soho",
@@ -342,55 +262,9 @@
           "url": "https://www.curzon.com/ticketing/seats/CAM1-33683/"
         },
         {
-          "starts_at": "2025-06-21T11:30:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-100533/"
-        },
-        {
           "starts_at": "2025-06-21T21:10:00+01:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-100536/"
-        }
-      ]
-    },
-    {
-      "title": "Flow",
-      "trailer": "https://www.youtube.com/watch?v=shsVQvHUTxw",
-      "synopsis": "When a flood of biblical proportions washes its home away, a solitary cat must seek refuge with a motley crew of animals (including a dog, a capybara, a lemur and a secretarybird), who gradually learn to get along in this endearing, Oscar-winning animation.",
-      "runtime": 85,
-      "times": [
-        {
-          "starts_at": "2025-06-21T12:20:00+01:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-50505/"
-        }
-      ]
-    },
-    {
-      "title": "The Ballad of Wallis Island",
-      "trailer": "https://www.youtube.com/watch?v=T9smxlnKNz0",
-      "synopsis": "Eccentric lottery winner Charles dreams of getting his favorite musicians, McGwyer Mortimer, back together. The fantasy becomes real when the bandmates and former lovers agree to play a private show at his home on Wallis Island. Old tensions resurface as Charles tries desperately to salvage his dream gig.",
-      "runtime": 100,
-      "times": [
-        {
-          "starts_at": "2025-06-21T13:20:00+01:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-50504/"
-        },
-        {
-          "starts_at": "2025-06-21T16:20:00+01:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-22336/"
-        },
-        {
-          "starts_at": "2025-06-21T21:20:00+01:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-22338/"
-        },
-        {
-          "starts_at": "2025-06-21T16:00:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-33679/"
         }
       ]
     },
@@ -451,11 +325,6 @@
           "url": "https://www.curzon.com/ticketing/seats/CAM1-33669/"
         },
         {
-          "starts_at": "2025-06-21T12:00:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-100537/"
-        },
-        {
           "starts_at": "2025-06-21T15:20:00+01:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-100538/"
@@ -484,19 +353,9 @@
           "url": "https://www.curzon.com/ticketing/seats/SOH1-50479/"
         },
         {
-          "starts_at": "2025-06-21T13:20:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-33681/"
-        },
-        {
           "starts_at": "2025-06-21T17:20:00+01:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-33678/"
-        },
-        {
-          "starts_at": "2025-06-21T13:10:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-100631/"
         },
         {
           "starts_at": "2025-06-21T14:20:00+01:00",
@@ -512,52 +371,6 @@
           "starts_at": "2025-06-21T20:30:00+01:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-100529/"
-        }
-      ]
-    },
-    {
-      "title": "Elio",
-      "trailer": "https://www.youtube.com/watch?v=OGAl3E9enJs",
-      "synopsis": "Elio struggles to fit in until he is transported by aliens and becomes the chosen one to be Earth's galactic ambassador while his mother Olga works on the top-secret project to decode alien messages.",
-      "runtime": 98,
-      "times": [
-        {
-          "starts_at": "2025-06-21T11:00:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-82525/"
-        },
-        {
-          "starts_at": "2025-06-21T13:30:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-82523/"
-        },
-        {
-          "starts_at": "2025-06-21T17:40:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-82530/"
-        },
-        {
-          "starts_at": "2025-06-21T20:00:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-82534/"
-        }
-      ]
-    },
-    {
-      "title": "Lilo & Stitch",
-      "trailer": "https://www.youtube.com/watch?v=8SBLkgpQ99U",
-      "synopsis": "A live-action reimagining of Disney’s 2002 animated classic, “Lilo & Stitch” is the wildly funny and touching story of a lonely Hawaiian girl and the fugitive alien who helps to mend her broken family. Directed by Dean Fleischer Camp, the Oscar®-nominated filmmaker behind the animated feature film “Marcel the Shell with Shoes On,” the film stars Sydney Elizebeth Agudong, Billy Magnussen, Tia Carrere, Hannah Waddingham, Chris Sanders, with Courtney B. Vance, and Zach Galifianakis, introducing Maia Kealoha. “Lilo & Stitch” is produced by Jonathan Eirich, p.g.a. and Dan Lin, with Louie Provost, Tom Peitzman and Ryan Halprin serving as executive producers.",
-      "runtime": 108,
-      "times": [
-        {
-          "starts_at": "2025-06-21T11:45:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-82527/"
-        },
-        {
-          "starts_at": "2025-06-21T17:50:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-82529/"
         }
       ]
     },
@@ -580,38 +393,46 @@
       ]
     },
     {
+      "title": "Elio",
+      "trailer": "https://www.youtube.com/watch?v=OGAl3E9enJs",
+      "synopsis": "Elio struggles to fit in until he is transported by aliens and becomes the chosen one to be Earth's galactic ambassador while his mother Olga works on the top-secret project to decode alien messages.",
+      "runtime": 98,
+      "times": [
+        {
+          "starts_at": "2025-06-21T17:40:00+01:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-82530/"
+        },
+        {
+          "starts_at": "2025-06-21T20:00:00+01:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-82534/"
+        }
+      ]
+    },
+    {
+      "title": "Lilo & Stitch",
+      "trailer": "https://www.youtube.com/watch?v=8SBLkgpQ99U",
+      "synopsis": "A live-action reimagining of Disney’s 2002 animated classic, “Lilo & Stitch” is the wildly funny and touching story of a lonely Hawaiian girl and the fugitive alien who helps to mend her broken family. Directed by Dean Fleischer Camp, the Oscar®-nominated filmmaker behind the animated feature film “Marcel the Shell with Shoes On,” the film stars Sydney Elizebeth Agudong, Billy Magnussen, Tia Carrere, Hannah Waddingham, Chris Sanders, with Courtney B. Vance, and Zach Galifianakis, introducing Maia Kealoha. “Lilo & Stitch” is produced by Jonathan Eirich, p.g.a. and Dan Lin, with Louie Provost, Tom Peitzman and Ryan Halprin serving as executive producers.",
+      "runtime": 108,
+      "times": [
+        {
+          "starts_at": "2025-06-21T17:50:00+01:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-82529/"
+        }
+      ]
+    },
+    {
       "title": "Jane Austen Wrecked My Life",
       "trailer": "https://www.youtube.com/watch?v=i0dy0doC358",
       "synopsis": "Agathe, hopelessly clumsy yet charming, and full of contradictions, dreams of experiencing love akin to a Jane Austen novel. Instead she finds herself stuck in desperate singlehood, spending her days working in the legendary British bookshop, Shakespeare & Co in Paris, rather than pursuing her own ambitions of becoming a novelist. But when an unexpected invitation to the Jane Austen Writers' Residency in England lands in her lap, Agathe is in for an eye-opening and life-changing experience. Encouraged to confront her insecurities and explore her true romantic, sexual and creative nature, in part thanks to her eccentric co-residents, Agathe realises it’s time to stop wasting her sentimental life and take control - over both her writing aspirations, and her very own love story.\n\nStarring Camille Rutherford (Anatomy of a Fall), Pablo Pauly (The French Dispatch) and Charlie Anson (Death on the Nile), Jane Austen Wrecked My Life is an uplifting and heart-warming throwback to classic romance, with a modern sensibility, marking the directorial debut of acclaimed screenwriter Laura Piani.",
       "runtime": 98,
       "times": [
         {
-          "starts_at": "2025-06-21T12:20:00+01:00",
-          "site": "Curzon Mayfair",
-          "url": "https://www.curzon.com/ticketing/seats/MAY1-30381/"
-        },
-        {
           "starts_at": "2025-06-21T18:30:00+01:00",
           "site": "Curzon Mayfair",
           "url": "https://www.curzon.com/ticketing/seats/MAY1-30383/"
-        }
-      ]
-    },
-    {
-      "title": "Kids Club: The Sloth Lane",
-      "trailer": "https://www.youtube.com/watch?v=_wi6U4MN2R0",
-      "synopsis": "After a terrifying storm destroys their home, a speedy sloth named Laura and her kooky family are forced to move to the big city with nothing but their prized family recipe book - and a rusted old food truck. The family's delicious food soon catches the eye of a quick witted cheetah named Dotti (voiced by Ghostbusters' Leslie Jones) who will stop at nothing to revive her failing fast food business, Zoom Fuel. Featuring great Aussie voice talent including Dan Brumm (Uncle Stripe in Bluey) and Remy Hii (Spider-Man: Far From Home).",
-      "runtime": 89,
-      "times": [
-        {
-          "starts_at": "2025-06-21T10:30:00+01:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-22145/"
-        },
-        {
-          "starts_at": "2025-06-21T10:30:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-33288/"
         }
       ]
     },
@@ -627,11 +448,6 @@
           "url": "https://www.curzon.com/ticketing/seats/HOX1-22335/"
         },
         {
-          "starts_at": "2025-06-21T12:00:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-33672/"
-        },
-        {
           "starts_at": "2025-06-21T17:40:00+01:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-33680/"
@@ -639,15 +455,25 @@
       ]
     },
     {
-      "title": "Echo Valley",
-      "trailer": "https://www.youtube.com/watch?v=KQiZ5zMhliw",
-      "synopsis": "Kate lives a secluded life—until her troubled daughter shows up, frightened and covered in someone else's blood. As Kate unravels the shocking truth, she learns just how far a mother will go to try to save her child.",
-      "runtime": 104,
+      "title": "The Ballad of Wallis Island",
+      "trailer": "https://www.youtube.com/watch?v=T9smxlnKNz0",
+      "synopsis": "Eccentric lottery winner Charles dreams of getting his favorite musicians, McGwyer Mortimer, back together. The fantasy becomes real when the bandmates and former lovers agree to play a private show at his home on Wallis Island. Old tensions resurface as Charles tries desperately to salvage his dream gig.",
+      "runtime": 100,
       "times": [
         {
-          "starts_at": "2025-06-21T13:00:00+01:00",
+          "starts_at": "2025-06-21T16:20:00+01:00",
+          "site": "Curzon Hoxton",
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-22336/"
+        },
+        {
+          "starts_at": "2025-06-21T21:20:00+01:00",
+          "site": "Curzon Hoxton",
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-22338/"
+        },
+        {
+          "starts_at": "2025-06-21T16:00:00+01:00",
           "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-33748/"
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-33679/"
         }
       ]
     },
@@ -671,24 +497,6 @@
           "starts_at": "2025-06-21T20:10:00+01:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-33670/"
-        }
-      ]
-    },
-    {
-      "title": "Parthenope",
-      "trailer": null,
-      "synopsis": "From Academy Award-winning fi lmmaker Paolo Sorrentino comes a monumental and deeply romantic story of a lifetime. Born in the Bay of Naples in 1950, Parthenope (Celeste Dalla Porta) searches for happiness over the long summers of her youth, falling in love with her home city and its many memorable characters. But when tragedy strikes, and carefree romances lose their thrill, she decides to seek a deeper sense of purpose. Featuring a captivating performance from Dalla Porta and an outstanding cast that includes Gary Oldman, PARTHENOPE is another tale of great beauty from a master of modern cinema.",
-      "runtime": 137,
-      "times": [
-        {
-          "starts_at": "2025-06-21T12:20:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-100534/"
-        },
-        {
-          "starts_at": "2025-06-21T17:50:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-100535/"
         }
       ]
     },
@@ -733,6 +541,19 @@
           "starts_at": "2025-06-21T16:00:00+01:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-99935/"
+        }
+      ]
+    },
+    {
+      "title": "Parthenope",
+      "trailer": null,
+      "synopsis": "From Academy Award-winning fi lmmaker Paolo Sorrentino comes a monumental and deeply romantic story of a lifetime. Born in the Bay of Naples in 1950, Parthenope (Celeste Dalla Porta) searches for happiness over the long summers of her youth, falling in love with her home city and its many memorable characters. But when tragedy strikes, and carefree romances lose their thrill, she decides to seek a deeper sense of purpose. Featuring a captivating performance from Dalla Porta and an outstanding cast that includes Gary Oldman, PARTHENOPE is another tale of great beauty from a master of modern cinema.",
+      "runtime": 137,
+      "times": [
+        {
+          "starts_at": "2025-06-21T17:50:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-100535/"
         }
       ]
     },
@@ -4672,19 +4493,6 @@
           "starts_at": "2025-06-28T20:20:00+01:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-99895/"
-        }
-      ]
-    },
-    {
-      "title": "Pavements: Alex Ross Perry and Stephen Malkmus Q&A",
-      "trailer": null,
-      "synopsis": "From Alex Ross Perry, the acclaimed director of Her Smell and Listen Up Philip and a distinctive voice in post-mumblecore cinema, comes an irreverent, genre-bending portrait of the iconic '90s indie rock band Pavement. Premiering at the 2024 Venice Film Festival, PAVEMENTS blends authentic archival footage, contemporary documentary moments, an ironic jukebox musical, a satirical Hollywood biopic, and playful mockumentary sequences, brilliantly collapsing the boundaries between reality and fiction.\r\n\r\nAs Pavement prepare for their sold-out 2022 reunion tour, the film captures surreal behind-the-scenes preparations for a musical adaptation of their songs, a museum dedicated entirely to the band's legacy, and a knowingly clichéd Hollywood biopic starring Joe Keery as frontman Stephen Malkmus.\r\n\r\nInterwoven with genuine archival footage and featuring the band members themselves alongside a cast of actors and comedians, PAVEMENTS humorously examines fan obsession, myth-making, and the cultural mechanics behind fame. This uniquely layered exploration challenges the traditional way stories about musicians are told with artistry, absurdity and humor, culminating in a refreshingly inventive and endearingly self-aware tribute to an unforgettable band. \r\n",
-      "runtime": 128,
-      "times": [
-        {
-          "starts_at": "2025-06-28T17:00:00+01:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-50256/"
         }
       ]
     },
