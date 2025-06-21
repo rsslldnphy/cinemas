@@ -1,62 +1,11 @@
 {
   "2025-06-21": [
     {
-      "title": "How to Train Your Dragon",
-      "trailer": "https://www.youtube.com/watch?v=CS_TVzQpNlg",
-      "synopsis": "A live-action remake of the beloved animation that explores the bond between a Viking boy and his dragon, a friendship that flies in the face of centuries of tradition. Together, they confront an ancient threat that endangers both species. ",
-      "runtime": 126,
-      "times": [
-        {
-          "starts_at": "2025-06-21T17:00:00+01:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-57261/"
-        },
-        {
-          "starts_at": "2025-06-21T20:20:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-82528/"
-        }
-      ]
-    },
-    {
-      "title": "Mission: Impossible - The Final Reckoning",
-      "trailer": "https://www.youtube.com/watch?v=CUAQn2P13yY",
-      "synopsis": "Light the fuse because Tom Cruise's world-saving super spy Ethan Hunt is back to complete a mission for the ages alongside Simon Pegg, Ving Rhames and Hayley Atwell. This propulsive action-adventure demands to be seen on the big screen.    ",
-      "runtime": 170,
-      "times": [
-        {
-          "starts_at": "2025-06-21T17:20:00+01:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-57263/"
-        },
-        {
-          "starts_at": "2025-06-21T19:45:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-82533/"
-        },
-        {
-          "starts_at": "2025-06-21T20:10:00+01:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-22341/"
-        }
-      ]
-    },
-    {
       "title": "28 Years Later",
       "trailer": "https://www.youtube.com/watch?v=poEFz8Ivzug",
       "synopsis": "Academy Award®-winning director Danny Boyle and Academy Award®-nominated writer Alex Garland reunite for 28 Years Later, a terrifying new story set in the world created by 28 Days Later. It’s been almost three decades since the rage virus escaped a biological weapons laboratory, and now, still in a ruthlessly enforced quarantine, some have found ways to exist amidst the infected. One such group of survivors lives on a small island connected to the mainland by a single, heavily-defended causeway. When one of the group leaves the island on a mission into the dark heart of the mainland, he discovers secrets, wonders, and horrors that have mutated not only the infected but other survivors as well.",
       "runtime": 115,
       "times": [
-        {
-          "starts_at": "2025-06-21T18:00:00+01:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-56647/"
-        },
-        {
-          "starts_at": "2025-06-21T18:40:00+01:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-57256/"
-        },
         {
           "starts_at": "2025-06-21T19:50:00+01:00",
           "site": "Curzon Aldgate",
@@ -73,19 +22,9 @@
           "url": "https://www.curzon.com/ticketing/seats/ALD1-57255/"
         },
         {
-          "starts_at": "2025-06-21T18:20:00+01:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-50146/"
-        },
-        {
           "starts_at": "2025-06-21T21:20:00+01:00",
           "site": "Curzon Soho",
           "url": "https://www.curzon.com/ticketing/seats/SOH1-50145/"
-        },
-        {
-          "starts_at": "2025-06-21T18:00:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-81756/"
         },
         {
           "starts_at": "2025-06-21T20:45:00+01:00",
@@ -93,19 +32,9 @@
           "url": "https://www.curzon.com/ticketing/seats/VIC1-81760/"
         },
         {
-          "starts_at": "2025-06-21T18:00:00+01:00",
-          "site": "Curzon Mayfair",
-          "url": "https://www.curzon.com/ticketing/seats/MAY1-30298/"
-        },
-        {
           "starts_at": "2025-06-21T20:40:00+01:00",
           "site": "Curzon Mayfair",
           "url": "https://www.curzon.com/ticketing/seats/MAY1-30169/"
-        },
-        {
-          "starts_at": "2025-06-21T18:20:00+01:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-22224/"
         },
         {
           "starts_at": "2025-06-21T21:00:00+01:00",
@@ -113,19 +42,9 @@
           "url": "https://www.curzon.com/ticketing/seats/HOX1-22104/"
         },
         {
-          "starts_at": "2025-06-21T18:00:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-33115/"
-        },
-        {
           "starts_at": "2025-06-21T20:50:00+01:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-33116/"
-        },
-        {
-          "starts_at": "2025-06-21T18:40:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-100542/"
         },
         {
           "starts_at": "2025-06-21T20:20:00+01:00",
@@ -148,29 +67,6 @@
       ]
     },
     {
-      "title": "Hidden (Caché)",
-      "trailer": null,
-      "synopsis": "A married couple is terrorized by a series of surveillance videotapes left on their front porch.",
-      "runtime": 118,
-      "times": [
-        {
-          "starts_at": "2025-06-21T17:40:00+01:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-50479/"
-        },
-        {
-          "starts_at": "2025-06-21T17:20:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-33678/"
-        },
-        {
-          "starts_at": "2025-06-21T20:30:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-100529/"
-        }
-      ]
-    },
-    {
       "title": "Tornado",
       "trailer": null,
       "synopsis": "Set in the rugged landscape of 1790’s Britain, Tornado (played by model-songwriter Koki,) finds herself caught in a perilous situation when she and her father’s travelling puppet show crosses paths with a ruthless criminal gang led by Sugarman (PULP FICTION star Tim Roth) and his ambitious son Little Sugar (SLOW HORSES’ Jack Lowden). In an attempt to create a new life, Tornado seizes the opportunity to steal the gold from the gang’s most recent heist; what follows is a thrilling tale of adrenaline-fueled action as Tornado fights to escape a violent demise.",
@@ -180,11 +76,6 @@
           "starts_at": "2025-06-21T20:40:00+01:00",
           "site": "Curzon Soho",
           "url": "https://www.curzon.com/ticketing/seats/SOH1-50503/"
-        },
-        {
-          "starts_at": "2025-06-21T18:50:00+01:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-22342/"
         },
         {
           "starts_at": "2025-06-21T20:30:00+01:00",
@@ -210,29 +101,9 @@
           "url": "https://www.curzon.com/ticketing/seats/SOH1-50492/"
         },
         {
-          "starts_at": "2025-06-21T18:30:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-82535/"
-        },
-        {
           "starts_at": "2025-06-21T21:00:00+01:00",
           "site": "Curzon Victoria",
           "url": "https://www.curzon.com/ticketing/seats/VIC1-82536/"
-        },
-        {
-          "starts_at": "2025-06-21T17:40:00+01:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-22337/"
-        },
-        {
-          "starts_at": "2025-06-21T16:30:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-33674/"
-        },
-        {
-          "starts_at": "2025-06-21T18:50:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-33677/"
         },
         {
           "starts_at": "2025-06-21T21:10:00+01:00",
@@ -240,14 +111,27 @@
           "url": "https://www.curzon.com/ticketing/seats/CAM1-33669/"
         },
         {
-          "starts_at": "2025-06-21T18:10:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-100539/"
-        },
-        {
           "starts_at": "2025-06-21T20:40:00+01:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-100540/"
+        }
+      ]
+    },
+    {
+      "title": "Mission: Impossible - The Final Reckoning",
+      "trailer": "https://www.youtube.com/watch?v=CUAQn2P13yY",
+      "synopsis": "Light the fuse because Tom Cruise's world-saving super spy Ethan Hunt is back to complete a mission for the ages alongside Simon Pegg, Ving Rhames and Hayley Atwell. This propulsive action-adventure demands to be seen on the big screen.    ",
+      "runtime": 170,
+      "times": [
+        {
+          "starts_at": "2025-06-21T19:45:00+01:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-82533/"
+        },
+        {
+          "starts_at": "2025-06-21T20:10:00+01:00",
+          "site": "Curzon Hoxton",
+          "url": "https://www.curzon.com/ticketing/seats/HOX1-22341/"
         }
       ]
     },
@@ -258,11 +142,6 @@
       "runtime": 98,
       "times": [
         {
-          "starts_at": "2025-06-21T17:40:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-82530/"
-        },
-        {
           "starts_at": "2025-06-21T20:00:00+01:00",
           "site": "Curzon Victoria",
           "url": "https://www.curzon.com/ticketing/seats/VIC1-82534/"
@@ -270,28 +149,15 @@
       ]
     },
     {
-      "title": "Lilo & Stitch",
-      "trailer": "https://www.youtube.com/watch?v=8SBLkgpQ99U",
-      "synopsis": "A live-action reimagining of Disney’s 2002 animated classic, “Lilo & Stitch” is the wildly funny and touching story of a lonely Hawaiian girl and the fugitive alien who helps to mend her broken family. Directed by Dean Fleischer Camp, the Oscar®-nominated filmmaker behind the animated feature film “Marcel the Shell with Shoes On,” the film stars Sydney Elizebeth Agudong, Billy Magnussen, Tia Carrere, Hannah Waddingham, Chris Sanders, with Courtney B. Vance, and Zach Galifianakis, introducing Maia Kealoha. “Lilo & Stitch” is produced by Jonathan Eirich, p.g.a. and Dan Lin, with Louie Provost, Tom Peitzman and Ryan Halprin serving as executive producers.",
-      "runtime": 108,
+      "title": "How to Train Your Dragon",
+      "trailer": "https://www.youtube.com/watch?v=CS_TVzQpNlg",
+      "synopsis": "A live-action remake of the beloved animation that explores the bond between a Viking boy and his dragon, a friendship that flies in the face of centuries of tradition. Together, they confront an ancient threat that endangers both species. ",
+      "runtime": 126,
       "times": [
         {
-          "starts_at": "2025-06-21T17:50:00+01:00",
+          "starts_at": "2025-06-21T20:20:00+01:00",
           "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-82529/"
-        }
-      ]
-    },
-    {
-      "title": "Jane Austen Wrecked My Life",
-      "trailer": "https://www.youtube.com/watch?v=i0dy0doC358",
-      "synopsis": "Agathe, hopelessly clumsy yet charming, and full of contradictions, dreams of experiencing love akin to a Jane Austen novel. Instead she finds herself stuck in desperate singlehood, spending her days working in the legendary British bookshop, Shakespeare & Co in Paris, rather than pursuing her own ambitions of becoming a novelist. But when an unexpected invitation to the Jane Austen Writers' Residency in England lands in her lap, Agathe is in for an eye-opening and life-changing experience. Encouraged to confront her insecurities and explore her true romantic, sexual and creative nature, in part thanks to her eccentric co-residents, Agathe realises it’s time to stop wasting her sentimental life and take control - over both her writing aspirations, and her very own love story.\n\nStarring Camille Rutherford (Anatomy of a Fall), Pablo Pauly (The French Dispatch) and Charlie Anson (Death on the Nile), Jane Austen Wrecked My Life is an uplifting and heart-warming throwback to classic romance, with a modern sensibility, marking the directorial debut of acclaimed screenwriter Laura Piani.",
-      "runtime": 98,
-      "times": [
-        {
-          "starts_at": "2025-06-21T18:30:00+01:00",
-          "site": "Curzon Mayfair",
-          "url": "https://www.curzon.com/ticketing/seats/MAY1-30383/"
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-82528/"
         }
       ]
     },
@@ -322,37 +188,6 @@
       ]
     },
     {
-      "title": "The Last Journey",
-      "trailer": null,
-      "synopsis": "Follow Filip Hammar as he takes his dad on a road trip through Europe, down to the Mediterranean, with his best mate Fredrik Wikingsson.",
-      "runtime": 95,
-      "times": [
-        {
-          "starts_at": "2025-06-21T17:40:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-33680/"
-        }
-      ]
-    },
-    {
-      "title": "Ocean With David Attenborough",
-      "trailer": "https://www.youtube.com/watch?v=cIZAdCtKT_g",
-      "synopsis": "OCEAN WITH DAVID ATTENBOROUGH takes viewers on a breathtaking journey showing there is nowhere more vital for our survival, more full of life, wonder, or surprise, than the ocean.\n\nThe celebrated broadcaster and filmmaker reveals how his lifetime has coincided with the great age of ocean discovery. Through spectacular sequences featuring coral reefs, kelp forests and the open ocean, Attenborough shares why a healthy ocean keeps the entire planet stable and flourishing.\n\nStunning, immersive cinematography showcases the wonder of life under the seas and exposes the realities and challenges facing our ocean as never-before-seen, from destructive fishing techniques to mass coral reef bleaching. Yet the story is one of optimism, with Attenborough pointing to inspirational stories from around the world to deliver his greatest message: the ocean can recover to a glory beyond anything anyone alive has ever seen.\n\nScreening in cinemas with theatrically exclusive footage.",
-      "runtime": 85,
-      "times": [
-        {
-          "starts_at": "2025-06-21T18:20:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-33676/"
-        },
-        {
-          "starts_at": "2025-06-21T20:10:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-33670/"
-        }
-      ]
-    },
-    {
       "title": "Sinners",
       "trailer": "https://www.youtube.com/watch?v=4oqCwr_bzHI",
       "synopsis": "Trying to leave their troubled lives behind, twin brothers (Jordan) return to their hometown to start again, only to discover that an even greater evil is waiting to welcome them back.",
@@ -366,41 +201,15 @@
       ]
     },
     {
-      "title": "Parthenope",
-      "trailer": null,
-      "synopsis": "From Academy Award-winning fi lmmaker Paolo Sorrentino comes a monumental and deeply romantic story of a lifetime. Born in the Bay of Naples in 1950, Parthenope (Celeste Dalla Porta) searches for happiness over the long summers of her youth, falling in love with her home city and its many memorable characters. But when tragedy strikes, and carefree romances lose their thrill, she decides to seek a deeper sense of purpose. Featuring a captivating performance from Dalla Porta and an outstanding cast that includes Gary Oldman, PARTHENOPE is another tale of great beauty from a master of modern cinema.",
-      "runtime": 137,
+      "title": "Ocean With David Attenborough",
+      "trailer": "https://www.youtube.com/watch?v=cIZAdCtKT_g",
+      "synopsis": "OCEAN WITH DAVID ATTENBOROUGH takes viewers on a breathtaking journey showing there is nowhere more vital for our survival, more full of life, wonder, or surprise, than the ocean.\n\nThe celebrated broadcaster and filmmaker reveals how his lifetime has coincided with the great age of ocean discovery. Through spectacular sequences featuring coral reefs, kelp forests and the open ocean, Attenborough shares why a healthy ocean keeps the entire planet stable and flourishing.\n\nStunning, immersive cinematography showcases the wonder of life under the seas and exposes the realities and challenges facing our ocean as never-before-seen, from destructive fishing techniques to mass coral reef bleaching. Yet the story is one of optimism, with Attenborough pointing to inspirational stories from around the world to deliver his greatest message: the ocean can recover to a glory beyond anything anyone alive has ever seen.\n\nScreening in cinemas with theatrically exclusive footage.",
+      "runtime": 85,
       "times": [
         {
-          "starts_at": "2025-06-21T17:50:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-100535/"
-        }
-      ]
-    },
-    {
-      "title": "DocHouse: Uncropped",
-      "trailer": null,
-      "synopsis": "Rediscover the work of James Hamilton, one of the great chroniclers of the cultural history of America. A New York legend himself, Hamilton created iconic images during the heyday of alternative print - from Patti Smith, Liza Minnelli, Lou Reed, Hitchcock, George Romero, to Noah Baumbach and Wes Anderson.\r\n\r\nA visual chronicle of New York’s zeitgeist over the last 50 years, UNCROPPED subtly traces the rise and fall of photojournalism itself, making it a compelling and visually rich narrative for audiences seeking a deep dive into cultural and photographic history.",
-      "runtime": 111,
-      "times": [
-        {
-          "starts_at": "2025-06-21T18:00:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-100117/"
-        }
-      ]
-    },
-    {
-      "title": "Holy Cow",
-      "trailer": "https://www.youtube.com/watch?v=cy0WeGJow9E",
-      "synopsis": "18-year-old Totone spends most of his time drinking beer and partying in the Jura region with his group of friends until reality catches up with him when he has to take care of his 7-year-old sister and find a way to make a living. He sets out to make the best Comté cheese in the region in an attempt to win the gold medal at the agricultural competition and 30,000 euros. ",
-      "runtime": 92,
-      "times": [
-        {
-          "starts_at": "2025-06-21T18:20:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-100530/"
+          "starts_at": "2025-06-21T20:10:00+01:00",
+          "site": "Curzon Camden",
+          "url": "https://www.curzon.com/ticketing/seats/CAM1-33670/"
         }
       ]
     },
@@ -414,6 +223,19 @@
           "starts_at": "2025-06-21T20:10:00+01:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-100614/"
+        }
+      ]
+    },
+    {
+      "title": "Hidden (Caché)",
+      "trailer": null,
+      "synopsis": "A married couple is terrorized by a series of surveillance videotapes left on their front porch.",
+      "runtime": 118,
+      "times": [
+        {
+          "starts_at": "2025-06-21T20:30:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-100529/"
         }
       ]
     },
