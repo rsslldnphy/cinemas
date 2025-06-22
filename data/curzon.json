@@ -1,21 +1,52 @@
 {
   "2025-06-22": [
     {
+      "title": "How to Train Your Dragon",
+      "trailer": "https://www.youtube.com/watch?v=CS_TVzQpNlg",
+      "synopsis": "A live-action remake of the beloved animation that explores the bond between a Viking boy and his dragon, a friendship that flies in the face of centuries of tradition. Together, they confront an ancient threat that endangers both species. ",
+      "runtime": 126,
+      "times": [
+        {
+          "starts_at": "2025-06-22T13:40:00+01:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-57284/"
+        },
+        {
+          "starts_at": "2025-06-22T16:40:00+01:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-57281/"
+        },
+        {
+          "starts_at": "2025-06-22T14:30:00+01:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-82572/"
+        },
+        {
+          "starts_at": "2025-06-22T19:45:00+01:00",
+          "site": "Curzon Victoria",
+          "url": "https://www.curzon.com/ticketing/seats/VIC1-82578/"
+        }
+      ]
+    },
+    {
+      "title": "Ballerina",
+      "trailer": "https://www.youtube.com/watch?v=EcsDV0rWEFc",
+      "synopsis": "Taking place during the events of John Wick: Chapter 3 – Parabellum, the film follows Eve Macarro (Ana de Armas) who is beginning her training in the assassin traditions of the Ruska Roma.",
+      "runtime": 124,
+      "times": [
+        {
+          "starts_at": "2025-06-22T14:10:00+01:00",
+          "site": "Curzon Aldgate",
+          "url": "https://www.curzon.com/ticketing/seats/ALD1-57289/"
+        }
+      ]
+    },
+    {
       "title": "28 Years Later",
       "trailer": "https://www.youtube.com/watch?v=poEFz8Ivzug",
       "synopsis": "Academy Award®-winning director Danny Boyle and Academy Award®-nominated writer Alex Garland reunite for 28 Years Later, a terrifying new story set in the world created by 28 Days Later. It’s been almost three decades since the rage virus escaped a biological weapons laboratory, and now, still in a ruthlessly enforced quarantine, some have found ways to exist amidst the infected. One such group of survivors lives on a small island connected to the mainland by a single, heavily-defended causeway. When one of the group leaves the island on a mission into the dark heart of the mainland, he discovers secrets, wonders, and horrors that have mutated not only the infected but other survivors as well.",
       "runtime": 115,
       "times": [
-        {
-          "starts_at": "2025-06-22T11:00:00+01:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-57286/"
-        },
-        {
-          "starts_at": "2025-06-22T12:20:00+01:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-56997/"
-        },
         {
           "starts_at": "2025-06-22T15:00:00+01:00",
           "site": "Curzon Aldgate",
@@ -52,11 +83,6 @@
           "url": "https://www.curzon.com/ticketing/seats/ALD1-57288/"
         },
         {
-          "starts_at": "2025-06-22T12:00:00+01:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-50149/"
-        },
-        {
           "starts_at": "2025-06-22T14:40:00+01:00",
           "site": "Curzon Soho",
           "url": "https://www.curzon.com/ticketing/seats/SOH1-50487/"
@@ -70,11 +96,6 @@
           "starts_at": "2025-06-22T20:40:00+01:00",
           "site": "Curzon Soho",
           "url": "https://www.curzon.com/ticketing/seats/SOH1-50151/"
-        },
-        {
-          "starts_at": "2025-06-22T13:15:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-82575/"
         },
         {
           "starts_at": "2025-06-22T14:20:00+01:00",
@@ -92,11 +113,6 @@
           "url": "https://www.curzon.com/ticketing/seats/VIC1-81768/"
         },
         {
-          "starts_at": "2025-06-22T11:20:00+01:00",
-          "site": "Curzon Mayfair",
-          "url": "https://www.curzon.com/ticketing/seats/MAY1-30387/"
-        },
-        {
           "starts_at": "2025-06-22T17:00:00+01:00",
           "site": "Curzon Mayfair",
           "url": "https://www.curzon.com/ticketing/seats/MAY1-30299/"
@@ -105,11 +121,6 @@
           "starts_at": "2025-06-22T19:40:00+01:00",
           "site": "Curzon Mayfair",
           "url": "https://www.curzon.com/ticketing/seats/MAY1-30170/"
-        },
-        {
-          "starts_at": "2025-06-22T12:40:00+01:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-22353/"
         },
         {
           "starts_at": "2025-06-22T15:20:00+01:00",
@@ -127,11 +138,6 @@
           "url": "https://www.curzon.com/ticketing/seats/HOX1-22105/"
         },
         {
-          "starts_at": "2025-06-22T12:00:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-33117/"
-        },
-        {
           "starts_at": "2025-06-22T14:45:00+01:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-33118/"
@@ -145,11 +151,6 @@
           "starts_at": "2025-06-22T20:20:00+01:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-33120/"
-        },
-        {
-          "starts_at": "2025-06-22T12:20:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-100277/"
         },
         {
           "starts_at": "2025-06-22T14:40:00+01:00",
@@ -169,63 +170,15 @@
       ]
     },
     {
-      "title": "How to Train Your Dragon",
-      "trailer": "https://www.youtube.com/watch?v=CS_TVzQpNlg",
-      "synopsis": "A live-action remake of the beloved animation that explores the bond between a Viking boy and his dragon, a friendship that flies in the face of centuries of tradition. Together, they confront an ancient threat that endangers both species. ",
-      "runtime": 126,
-      "times": [
-        {
-          "starts_at": "2025-06-22T11:20:00+01:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-57287/"
-        },
-        {
-          "starts_at": "2025-06-22T13:40:00+01:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-57284/"
-        },
-        {
-          "starts_at": "2025-06-22T16:40:00+01:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-57281/"
-        },
-        {
-          "starts_at": "2025-06-22T12:15:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-82621/"
-        },
-        {
-          "starts_at": "2025-06-22T14:30:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-82572/"
-        },
-        {
-          "starts_at": "2025-06-22T19:45:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-82578/"
-        }
-      ]
-    },
-    {
       "title": "Mission: Impossible - The Final Reckoning",
       "trailer": "https://www.youtube.com/watch?v=CUAQn2P13yY",
       "synopsis": "Light the fuse because Tom Cruise's world-saving super spy Ethan Hunt is back to complete a mission for the ages alongside Simon Pegg, Ving Rhames and Hayley Atwell. This propulsive action-adventure demands to be seen on the big screen.    ",
       "runtime": 170,
       "times": [
         {
-          "starts_at": "2025-06-22T12:00:00+01:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-57285/"
-        },
-        {
           "starts_at": "2025-06-22T17:00:00+01:00",
           "site": "Curzon Aldgate",
           "url": "https://www.curzon.com/ticketing/seats/ALD1-57290/"
-        },
-        {
-          "starts_at": "2025-06-22T12:00:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-82587/"
         },
         {
           "starts_at": "2025-06-22T15:45:00+01:00",
@@ -243,27 +196,9 @@
           "url": "https://www.curzon.com/ticketing/seats/MAY1-30388/"
         },
         {
-          "starts_at": "2025-06-22T12:00:00+01:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-22349/"
-        },
-        {
           "starts_at": "2025-06-22T20:00:00+01:00",
           "site": "Curzon Hoxton",
           "url": "https://www.curzon.com/ticketing/seats/HOX1-22351/"
-        }
-      ]
-    },
-    {
-      "title": "Ballerina",
-      "trailer": "https://www.youtube.com/watch?v=EcsDV0rWEFc",
-      "synopsis": "Taking place during the events of John Wick: Chapter 3 – Parabellum, the film follows Eve Macarro (Ana de Armas) who is beginning her training in the assassin traditions of the Ruska Roma.",
-      "runtime": 124,
-      "times": [
-        {
-          "starts_at": "2025-06-22T14:10:00+01:00",
-          "site": "Curzon Aldgate",
-          "url": "https://www.curzon.com/ticketing/seats/ALD1-57289/"
         }
       ]
     },
@@ -287,29 +222,6 @@
           "starts_at": "2025-06-22T19:20:00+01:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-33654/"
-        },
-        {
-          "starts_at": "2025-06-22T12:30:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-100505/"
-        }
-      ]
-    },
-    {
-      "title": "Flow",
-      "trailer": "https://www.youtube.com/watch?v=shsVQvHUTxw",
-      "synopsis": "When a flood of biblical proportions washes its home away, a solitary cat must seek refuge with a motley crew of animals (including a dog, a capybara, a lemur and a secretarybird), who gradually learn to get along in this endearing, Oscar-winning animation.",
-      "runtime": 85,
-      "times": [
-        {
-          "starts_at": "2025-06-22T11:30:00+01:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-50526/"
-        },
-        {
-          "starts_at": "2025-06-22T18:40:00+01:00",
-          "site": "Curzon Soho",
-          "url": "https://www.curzon.com/ticketing/seats/SOH1-50486/"
         }
       ]
     },
@@ -330,11 +242,6 @@
           "url": "https://www.curzon.com/ticketing/seats/SOH1-50494/"
         },
         {
-          "starts_at": "2025-06-22T11:45:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-82573/"
-        },
-        {
           "starts_at": "2025-06-22T15:45:00+01:00",
           "site": "Curzon Victoria",
           "url": "https://www.curzon.com/ticketing/seats/VIC1-82582/"
@@ -350,16 +257,6 @@
           "url": "https://www.curzon.com/ticketing/seats/VIC1-82577/"
         },
         {
-          "starts_at": "2025-06-22T12:20:00+01:00",
-          "site": "Curzon Hoxton",
-          "url": "https://www.curzon.com/ticketing/seats/HOX1-22345/"
-        },
-        {
-          "starts_at": "2025-06-22T13:30:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-33664/"
-        },
-        {
           "starts_at": "2025-06-22T16:00:00+01:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-33663/"
@@ -373,11 +270,6 @@
           "starts_at": "2025-06-22T20:40:00+01:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-33655/"
-        },
-        {
-          "starts_at": "2025-06-22T12:50:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-100501/"
         },
         {
           "starts_at": "2025-06-22T15:10:00+01:00",
@@ -408,19 +300,9 @@
           "url": "https://www.curzon.com/ticketing/seats/SOH1-50085/"
         },
         {
-          "starts_at": "2025-06-22T13:00:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-33657/"
-        },
-        {
           "starts_at": "2025-06-22T16:50:00+01:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-33651/"
-        },
-        {
-          "starts_at": "2025-06-22T12:10:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-100629/"
         },
         {
           "starts_at": "2025-06-22T15:00:00+01:00",
@@ -483,6 +365,19 @@
       ]
     },
     {
+      "title": "Flow",
+      "trailer": "https://www.youtube.com/watch?v=shsVQvHUTxw",
+      "synopsis": "When a flood of biblical proportions washes its home away, a solitary cat must seek refuge with a motley crew of animals (including a dog, a capybara, a lemur and a secretarybird), who gradually learn to get along in this endearing, Oscar-winning animation.",
+      "runtime": 85,
+      "times": [
+        {
+          "starts_at": "2025-06-22T18:40:00+01:00",
+          "site": "Curzon Soho",
+          "url": "https://www.curzon.com/ticketing/seats/SOH1-50486/"
+        }
+      ]
+    },
+    {
       "title": "The Ballad of Wallis Island",
       "trailer": "https://www.youtube.com/watch?v=T9smxlnKNz0",
       "synopsis": "Eccentric lottery winner Charles dreams of getting his favorite musicians, McGwyer Mortimer, back together. The fantasy becomes real when the bandmates and former lovers agree to play a private show at his home on Wallis Island. Old tensions resurface as Charles tries desperately to salvage his dream gig.",
@@ -517,11 +412,6 @@
       "runtime": 98,
       "times": [
         {
-          "starts_at": "2025-06-22T11:00:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-82574/"
-        },
-        {
           "starts_at": "2025-06-22T15:00:00+01:00",
           "site": "Curzon Victoria",
           "url": "https://www.curzon.com/ticketing/seats/VIC1-82571/"
@@ -545,32 +435,9 @@
       "runtime": 108,
       "times": [
         {
-          "starts_at": "2025-06-22T11:30:00+01:00",
-          "site": "Curzon Victoria",
-          "url": "https://www.curzon.com/ticketing/seats/VIC1-82576/"
-        },
-        {
           "starts_at": "2025-06-22T17:15:00+01:00",
           "site": "Curzon Victoria",
           "url": "https://www.curzon.com/ticketing/seats/VIC1-82580/"
-        }
-      ]
-    },
-    {
-      "title": "Jane Austen Wrecked My Life",
-      "trailer": "https://www.youtube.com/watch?v=i0dy0doC358",
-      "synopsis": "Agathe, hopelessly clumsy yet charming, and full of contradictions, dreams of experiencing love akin to a Jane Austen novel. Instead she finds herself stuck in desperate singlehood, spending her days working in the legendary British bookshop, Shakespeare & Co in Paris, rather than pursuing her own ambitions of becoming a novelist. But when an unexpected invitation to the Jane Austen Writers' Residency in England lands in her lap, Agathe is in for an eye-opening and life-changing experience. Encouraged to confront her insecurities and explore her true romantic, sexual and creative nature, in part thanks to her eccentric co-residents, Agathe realises it’s time to stop wasting her sentimental life and take control - over both her writing aspirations, and her very own love story.\n\nStarring Camille Rutherford (Anatomy of a Fall), Pablo Pauly (The French Dispatch) and Charlie Anson (Death on the Nile), Jane Austen Wrecked My Life is an uplifting and heart-warming throwback to classic romance, with a modern sensibility, marking the directorial debut of acclaimed screenwriter Laura Piani.",
-      "runtime": 98,
-      "times": [
-        {
-          "starts_at": "2025-06-22T11:00:00+01:00",
-          "site": "Curzon Mayfair",
-          "url": "https://www.curzon.com/ticketing/seats/MAY1-30391/"
-        },
-        {
-          "starts_at": "2025-06-22T16:30:00+01:00",
-          "site": "Curzon Mayfair",
-          "url": "https://www.curzon.com/ticketing/seats/MAY1-30389/"
         }
       ]
     },
@@ -601,6 +468,19 @@
       ]
     },
     {
+      "title": "Jane Austen Wrecked My Life",
+      "trailer": "https://www.youtube.com/watch?v=i0dy0doC358",
+      "synopsis": "Agathe, hopelessly clumsy yet charming, and full of contradictions, dreams of experiencing love akin to a Jane Austen novel. Instead she finds herself stuck in desperate singlehood, spending her days working in the legendary British bookshop, Shakespeare & Co in Paris, rather than pursuing her own ambitions of becoming a novelist. But when an unexpected invitation to the Jane Austen Writers' Residency in England lands in her lap, Agathe is in for an eye-opening and life-changing experience. Encouraged to confront her insecurities and explore her true romantic, sexual and creative nature, in part thanks to her eccentric co-residents, Agathe realises it’s time to stop wasting her sentimental life and take control - over both her writing aspirations, and her very own love story.\n\nStarring Camille Rutherford (Anatomy of a Fall), Pablo Pauly (The French Dispatch) and Charlie Anson (Death on the Nile), Jane Austen Wrecked My Life is an uplifting and heart-warming throwback to classic romance, with a modern sensibility, marking the directorial debut of acclaimed screenwriter Laura Piani.",
+      "runtime": 98,
+      "times": [
+        {
+          "starts_at": "2025-06-22T16:30:00+01:00",
+          "site": "Curzon Mayfair",
+          "url": "https://www.curzon.com/ticketing/seats/MAY1-30389/"
+        }
+      ]
+    },
+    {
       "title": "The Last Journey",
       "trailer": null,
       "synopsis": "Follow Filip Hammar as he takes his dad on a road trip through Europe, down to the Mediterranean, with his best mate Fredrik Wikingsson.",
@@ -612,27 +492,9 @@
           "url": "https://www.curzon.com/ticketing/seats/HOX1-22347/"
         },
         {
-          "starts_at": "2025-06-22T11:30:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-33661/"
-        },
-        {
           "starts_at": "2025-06-22T17:10:00+01:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-33653/"
-        }
-      ]
-    },
-    {
-      "title": "Echo Valley",
-      "trailer": "https://www.youtube.com/watch?v=KQiZ5zMhliw",
-      "synopsis": "Kate lives a secluded life—until her troubled daughter shows up, frightened and covered in someone else's blood. As Kate unravels the shocking truth, she learns just how far a mother will go to try to save her child.",
-      "runtime": 104,
-      "times": [
-        {
-          "starts_at": "2025-06-22T12:30:00+01:00",
-          "site": "Curzon Camden",
-          "url": "https://www.curzon.com/ticketing/seats/CAM1-33747/"
         }
       ]
     },
@@ -656,24 +518,6 @@
           "starts_at": "2025-06-22T19:40:00+01:00",
           "site": "Curzon Camden",
           "url": "https://www.curzon.com/ticketing/seats/CAM1-33656/"
-        }
-      ]
-    },
-    {
-      "title": "Parthenope",
-      "trailer": null,
-      "synopsis": "From Academy Award-winning fi lmmaker Paolo Sorrentino comes a monumental and deeply romantic story of a lifetime. Born in the Bay of Naples in 1950, Parthenope (Celeste Dalla Porta) searches for happiness over the long summers of her youth, falling in love with her home city and its many memorable characters. But when tragedy strikes, and carefree romances lose their thrill, she decides to seek a deeper sense of purpose. Featuring a captivating performance from Dalla Porta and an outstanding cast that includes Gary Oldman, PARTHENOPE is another tale of great beauty from a master of modern cinema.",
-      "runtime": 137,
-      "times": [
-        {
-          "starts_at": "2025-06-22T11:40:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-100498/"
-        },
-        {
-          "starts_at": "2025-06-22T17:20:00+01:00",
-          "site": "Curzon Bloomsbury",
-          "url": "https://www.curzon.com/ticketing/seats/BLO1-100499/"
         }
       ]
     },
@@ -718,6 +562,19 @@
           "starts_at": "2025-06-22T15:40:00+01:00",
           "site": "Curzon Bloomsbury",
           "url": "https://www.curzon.com/ticketing/seats/BLO1-100118/"
+        }
+      ]
+    },
+    {
+      "title": "Parthenope",
+      "trailer": null,
+      "synopsis": "From Academy Award-winning fi lmmaker Paolo Sorrentino comes a monumental and deeply romantic story of a lifetime. Born in the Bay of Naples in 1950, Parthenope (Celeste Dalla Porta) searches for happiness over the long summers of her youth, falling in love with her home city and its many memorable characters. But when tragedy strikes, and carefree romances lose their thrill, she decides to seek a deeper sense of purpose. Featuring a captivating performance from Dalla Porta and an outstanding cast that includes Gary Oldman, PARTHENOPE is another tale of great beauty from a master of modern cinema.",
+      "runtime": 137,
+      "times": [
+        {
+          "starts_at": "2025-06-22T17:20:00+01:00",
+          "site": "Curzon Bloomsbury",
+          "url": "https://www.curzon.com/ticketing/seats/BLO1-100499/"
         }
       ]
     },
